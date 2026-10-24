@@ -1,9 +1,12 @@
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "7,28,49 * * * *"   # ~every 21 min, avoiding the :00 rush
   workflow_dispatch:
 permissions:
   contents: write
+concurrency:
+  group: fetch
+  cancel-in-progress: false
 jobs:
   fetch:
     runs-on: ubuntu-24.04
@@ -19,5 +22,6 @@ jobs:
           git add data/
           if ! git diff --cached --quiet; then
             git commit -m "update feeds"
+            git pull --rebase
             git push
           fi
