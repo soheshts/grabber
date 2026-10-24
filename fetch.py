@@ -37,6 +37,15 @@ def entry_date(e):
     return datetime.fromtimestamp(calendar.timegm(t), tz=timezone.utc).isoformat()
 
 
+def entry_author(e, feed):
+    """Atom <author><name>, RSS <author>/<dc:creator>, then feed-level author."""
+    names = [a.get("name") for a in e.get("authors", []) or [] if a.get("name")]
+    if names:
+        return ", ".join(dict.fromkeys(names))
+    name = e.get("author") or (e.get("author_detail") or {}).get("name") or feed.get("author")
+    return clean_text(name, 200) or None
+
+
 def favicon(site_url):
     host = urlparse(site_url).netloc
     return f"https://www.google.com/s2/favicons?domain={host}&sz=64" if host else None
@@ -113,6 +122,7 @@ def fetch_source(src):
             "id": uid,
             "title": clean_text(e.get("title"), 300),
             "published": entry_date(e),
+            "author": entry_author(e, feed),
             "description": clean_text(e.get("summary") or content),
             "link": link,
             "image": entry_image(e, link or src["url"]),
