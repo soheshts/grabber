@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-10-25T19:33:22.897503+00:00",
-  "count": 412,
+  "updated": "2026-10-25T20:03:37.134096+00:00",
+  "count": 413,
   "items": [
     {
       "id": "https://jeffbridgforth.com/?p=12670",
@@ -128,6 +128,20 @@
       "category": "personal blogs",
       "feed_url": "https://matthewstrom.com/feed.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=mattstromawn.com&sz=64"
+    },
+    {
+      "id": "https://www.tempertemper.net/blog/fully-customise-your-select-elements",
+      "title": "Fully customise your select elements",
+      "published": "2026-10-25T00:00:00+00:00",
+      "author": "Martin Underhill",
+      "description": "For years and years, developers have had to come up with all sorts of creative workarounds to style select elements, but now you can do it properly.",
+      "link": "https://www.tempertemper.net/blog/fully-customise-your-select-elements",
+      "image": "https://www.tempertemper.net/assets/img/summary.png",
+      "feed_name": "tempertemper",
+      "feed_title": "tempertemper",
+      "category": "personal blogs",
+      "feed_url": "https://www.tempertemper.net/feeds/main.xml",
+      "feed_icon": "https://www.tempertemper.net/assets/img/icons/favicon.png"
     },
     {
       "id": "https://ronaldsvilcins.com/2026/10/25/what-the-browser-already-does-without-a-framework/",

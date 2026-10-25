@@ -1,8 +1,36 @@
 {
   "category": "DIY",
-  "updated": "2026-10-25T19:33:22.897503+00:00",
-  "count": 82,
+  "updated": "2026-10-25T20:03:37.134096+00:00",
+  "count": 84,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/connected-home-assistant-android-auto-automations-insane/",
+      "title": "I connected Home Assistant to Android Auto and the automations are insane",
+      "published": "2026-10-25T20:00:18+00:00",
+      "author": "Yadullah Abidi",
+      "description": "Your car now tells your house you’re coming.",
+      "link": "https://www.makeuseof.com/connected-home-assistant-android-auto-automations-insane/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2026/05/android-auto-on-a-car-infotainment-system-1.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/this-30-year-old-windows-feature-lets-you-duplicate-a-file-without-wasting-any-storage/",
+      "title": "This 30-year old Windows feature lets you duplicate a file without wasting any storage",
+      "published": "2026-10-25T20:00:17+00:00",
+      "author": "Goran Damnjanovic",
+      "description": "A hard link lets a file show up in two places without using any extra space on your drive.",
+      "link": "https://www.howtogeek.com/this-30-year-old-windows-feature-lets-you-duplicate-a-file-without-wasting-any-storage/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/pxl_20261022_121508574-raw-01-2.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/your-phone-stores-an-emoji-very-differently-from-a-letter/",
       "title": "Your phone stores an emoji very differently from a letter",
