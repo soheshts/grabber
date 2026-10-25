@@ -1,77 +1,2730 @@
-[
-    {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/feed/"
-    },
-    {
-        "name": "The Verge",
-        "url": "https://www.theverge.com/rss/index.xml"
-    },
-    {
-        "name": "LiveMint News",
-        "url": "https://www.livemint.com/rss/news"
-    },
-    {
-        "name": "BBC News",
-        "url": "https://feeds.bbci.co.uk/news/rss.xml"
-    },
-    {
-        "name": "Wired",
-        "url": "https://www.wired.com/feed/rss"
-    },
-    {
-        "name": "Variety",
-        "url": "https://variety.com/feed/"
-    },
-    {
-        "name": "Rolling Stone",
-        "url": "https://www.rollingstone.com/music/music-news/feed/"
-    },
-    {
-        "name": "National Geographic",
-        "url": "https://www.nationalgeographic.com/content/nationalgeographic/en_us/rss/index.rss"
-    },
-    {
-        "name": "Nature News",
-        "url": "https://www.nature.com/nature.rss"
-    },{
-        "name": "IGN",
-        "url": "https://www.ign.com/rss/articles/feed"
-    },
-    {
-        "name": "News 18 Kerala",
-        "url": "https://malayalam.news18.com/commonfeeds/v1/mal/rss/kerala.xml"
-    },
-    {
-        "name": "On Manorama",
-        "url": "https://www.onmanorama.com/kerala.feeds.onmrss.xml"
-    },
-    {
-        "name": "OneIndia Malayalam",
-        "url": "https://malayalam.oneindia.com/rss/feeds/oneindia-malayalam-fb.xml"
-    },
-    {
-        "name": "Mathrubhumi",
-        "url": "https://www.mathrubhumi.com/feeds/news.xml"
-    },
-    {
-        "name": "DNA India",
-        "url": "https://www.dnaindia.com/feeds/india.xml"
-    },
-    {
-        "name": "Scroll.in",
-        "url": "https://feeds.feedburner.com/ScrollinArticles.rss"
-    },
-    {
-        "name": "The Quint",
-        "url": "https://prod-qt-images.s3.amazonaws.com/production/thequint/feed.xml"
-    },
-    {
-        "name": "Asianet News",
-        "url": "https://www.asianetnews.com/rss"
-    },
-    {   
-        "name": "Mathrubhumi News",
-        "url": "https://sitemap.mpp.atexcloud.io/sitemaps/rss"
-    }
-]
+{
+    "technology": [
+        {
+            "name": "Accidental Tech Podcast",
+            "url": "https://atp.fm/rss"
+        },
+        {
+            "name": "Analog(ue)",
+            "url": "https://www.relay.fm/analogue/feed"
+        },
+        {
+            "name": "Ars Technica",
+            "url": "http://feeds.arstechnica.com/arstechnica/index"
+        },
+        {
+            "name": "CNET",
+            "url": "https://www.youtube.com/feeds/videos.xml?user=CNETTV"
+        },
+        {
+            "name": "CNET News",
+            "url": "https://www.cnet.com/rss/news/"
+        },
+        {
+            "name": "Clockwise",
+            "url": "https://www.relay.fm/clockwise/feed"
+        },
+        {
+            "name": "Gizmodo",
+            "url": "https://gizmodo.com/rss"
+        },
+        {
+            "name": "Hacker News",
+            "url": "https://news.ycombinator.com/rss"
+        },
+        {
+            "name": "Lifehacker",
+            "url": "https://lifehacker.com/rss"
+        },
+        {
+            "name": "Linus Tech Tips",
+            "url": "https://www.youtube.com/feeds/videos.xml?user=LinusTechTips"
+        },
+        {
+            "name": "Marques Brownlee",
+            "url": "https://www.youtube.com/feeds/videos.xml?user=marquesbrownlee"
+        },
+        {
+            "name": "Mashable",
+            "url": "http://feeds.mashable.com/Mashable"
+        },
+        {
+            "name": "ReadWrite",
+            "url": "https://readwrite.com/feed/"
+        },
+        {
+            "name": "Reply All",
+            "url": "https://feeds.megaphone.fm/replyall"
+        },
+        {
+            "name": "Rocket",
+            "url": "https://www.relay.fm/rocket/feed"
+        },
+        {
+            "name": "Slashdot",
+            "url": "http://rss.slashdot.org/Slashdot/slashdotMain"
+        },
+        {
+            "name": "Stratechery by Ben Thompson",
+            "url": "http://stratechery.com/feed/"
+        },
+        {
+            "name": "TechCrunch",
+            "url": "http://feeds.feedburner.com/TechCrunch"
+        },
+        {
+            "name": "The Keyword",
+            "url": "https://www.blog.google/rss/"
+        },
+        {
+            "name": "The Next Web",
+            "url": "https://thenextweb.com/feed/"
+        },
+        {
+            "name": "The Verge",
+            "url": "https://www.youtube.com/feeds/videos.xml?user=TheVerge"
+        },
+        {
+            "name": "The Verge -  All Posts",
+            "url": "https://www.theverge.com/rss/index.xml"
+        },
+        {
+            "name": "The Vergecast",
+            "url": "https://feeds.megaphone.fm/vergecast"
+        },
+        {
+            "name": "This Week in Tech (Audio)",
+            "url": "https://feeds.twit.tv/twit.xml"
+        },
+        {
+            "name": "Unbox Therapy",
+            "url": "https://www.youtube.com/feeds/videos.xml?user=unboxtherapy"
+        },
+        {
+            "name": "Engadget",
+            "url": "https://www.engadget.com/rss.xml"
+        }
+    ],
+    "entertainment": [
+        {
+            "name": "Variety",
+            "url": "https://variety.com/feed/"
+        },
+        {
+            "name": "Rolling Stone",
+            "url": "https://www.rollingstone.com/music/music-news/feed/"
+        },
+        {
+            "name": "BillBoard",
+            "url": "https://www.billboard.com/feed/"
+        },
+        {
+            "name": "Deadline",
+            "url": "https://deadline.com/feed/"
+        },
+        {
+            "name": "/Film",
+            "url": "https://feeds2.feedburner.com/slashfilm"
+        },
+        {
+            "name": "Ain't It Cool News Feed",
+            "url": "https://www.aintitcool.com/node/feed/"
+        },
+        {
+            "name": "ComingSoon.net",
+            "url": "https://www.comingsoon.net/feed"
+        },
+        {
+            "name": "Film School Rejects",
+            "url": "https://filmschoolrejects.com/feed/"
+        },
+        {
+            "name": "FirstShowing.net",
+            "url": "https://www.firstshowing.net/feed/"
+        },
+        {
+            "name": "IndieWire",
+            "url": "https://www.indiewire.com/feed"
+        },
+        {
+            "name": "Movie News and Discussion",
+            "url": "https://reddit.com/r/movies/.rss"
+        },
+        {
+            "name": "Movies",
+            "url": "https://www.bleedingcool.com/movies/feed/"
+        },
+        {
+            "name": "The A.V. Club",
+            "url": "https://film.avclub.com/rss"
+        },
+        {
+            "name": "Billboard",
+            "url": "https://www.billboard.com/articles/rss.xml"
+        },
+        {
+            "name": "Consequence",
+            "url": "http://consequenceofsound.net/feed"
+        },
+        {
+            "name": "EDM.com - The Latest Electronic Dance Music News, Reviews & Artists",
+            "url": "https://edm.com/.rss/full/"
+        },
+        {
+            "name": "Metal Injection",
+            "url": "http://feeds.feedburner.com/metalinjection"
+        },
+        {
+            "name": "Music Business Worldwide",
+            "url": "https://www.musicbusinessworldwide.com/feed/"
+        },
+        {
+            "name": "RSS: News",
+            "url": "http://pitchfork.com/rss/news"
+        },
+        {
+            "name": "Song Exploder",
+            "url": "http://songexploder.net/feed"
+        },
+        {
+            "name": "Your EDM",
+            "url": "https://www.youredm.com/feed"
+        }
+    ],
+    "science": [
+        {
+            "name": "60-Second Science",
+            "url": "http://rss.sciam.com/sciam/60secsciencepodcast"
+        },
+        {
+            "name": "BBC News - Science & Environment",
+            "url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml"
+        },
+        {
+            "name": "Discovery",
+            "url": "https://podcasts.files.bbci.co.uk/p002w557.rss"
+        },
+        {
+            "name": "FlowingData",
+            "url": "https://flowingdata.com/feed"
+        },
+        {
+            "name": "Gastropod",
+            "url": "https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/2a195077-f014-41d2-8313-ab190186b4c2/277bcd5c-0a05-4c14-8ba6-ab190186b4d5/podcast.rss"
+        },
+        {
+            "name": "Gizmodo",
+            "url": "https://gizmodo.com/tag/science/rss"
+        },
+        {
+            "name": "Hidden Brain",
+            "url": "https://feeds.npr.org/510308/podcast.xml"
+        },
+        {
+            "name": "Invisibilia",
+            "url": "https://feeds.npr.org/510307/podcast.xml"
+        },
+        {
+            "name": "Latest Science News -- ScienceDaily",
+            "url": "https://www.sciencedaily.com/rss/all.xml"
+        },
+        {
+            "name": "NYT > Science",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml"
+        },
+        {
+            "name": "Nature",
+            "url": "https://www.nature.com/nature.rss"
+        },
+        {
+            "name": "Phys.org - latest science and technology news stories",
+            "url": "https://phys.org/rss-feed/"
+        },
+        {
+            "name": "Probably Science",
+            "url": "https://probablyscience.libsyn.com/rss"
+        },
+        {
+            "name": "Radiolab",
+            "url": "http://feeds.wnyc.org/radiolab"
+        },
+        {
+            "name": "Reddit Science",
+            "url": "https://reddit.com/r/science/.rss"
+        },
+        {
+            "name": "Sawbones: A Marital Tour of Misguided Medicine",
+            "url": "https://feeds.simplecast.com/y1LF_sn2"
+        },
+        {
+            "name": "Science Latest",
+            "url": "https://www.wired.com/feed/category/science/latest/rss"
+        },
+        {
+            "name": "Science Vs",
+            "url": "http://feeds.gimletmedia.com/ScienceVs"
+        },
+        {
+            "name": "Science-Based Medicine",
+            "url": "https://sciencebasedmedicine.org/feed/"
+        },
+        {
+            "name": "Scientific American Content: Global",
+            "url": "http://rss.sciam.com/ScientificAmerican-Global"
+        },
+        {
+            "name": "Shirtloads of Science",
+            "url": "https://shirtloadsofscience.libsyn.com/rss"
+        },
+        {
+            "name": "TED Talks Daily (SD video)",
+            "url": "https://pa.tedcdn.com/feeds/talks.rss"
+        },
+        {
+            "name": "The Infinite Monkey Cage",
+            "url": "https://podcasts.files.bbci.co.uk/b00snr0w.rss"
+        },
+        {
+            "name": "This Week in Science – The Kickass Science Podcast",
+            "url": "http://www.twis.org/feed/"
+        }
+    ],
+    "personal blogs": [
+        {
+            "name": "All in the head",
+            "url": "http://allinthehead.com/rss/"
+        },
+        {
+            "name": "Jason Santa Maria",
+            "url": "http://feeds.feedburner.com/jsm-rss"
+        },
+        {
+            "name": "Jonathan Snook",
+            "url": "http://feeds.feedburner.com/snookca"
+        },
+        {
+            "name": "QuirksBlog",
+            "url": "http://www.quirksmode.org/blog/atom.xml"
+        },
+        {
+            "name": "Zeldman on Web and Interaction Design",
+            "url": "http://www.zeldman.com/feed/"
+        },
+        {
+            "name": "Anne’s Weblog",
+            "url": "http://annevankesteren.nl/feeds/weblog"
+        },
+        {
+            "name": "Rebecca Murphey - Adventures in JavaScript Development",
+            "url": "http://rmurphey.com/atom.xml"
+        },
+        {
+            "name": "rapid-enlargement 2023",
+            "url": "http://feeds.feedburner.com/456bereastreet"
+        },
+        {
+            "name": "Adactio: Journal",
+            "url": "http://adactio.com/journal/rss/"
+        },
+        {
+            "name": "Simurai",
+            "url": "http://simurai.com/rss"
+        },
+        {
+            "name": "LukeW | Digital Product Design + Strategy",
+            "url": "http://feeds.feedburner.com/FunctioningForm"
+        },
+        {
+            "name": "Tab Atkins",
+            "url": "http://www.xanthir.com/blog/atom/"
+        },
+        {
+            "name": "Bruce Lawson's  personal site",
+            "url": "http://www.brucelawson.co.uk/feed/"
+        },
+        {
+            "name": "Carrer Blog",
+            "url": "http://feeds.feedburner.com/CarrerBlog"
+        },
+        {
+            "name": "Christian Heilmann",
+            "url": "http://feeds.feedburner.com/chrisheilmann"
+        },
+        {
+            "name": "Mathias Bynens",
+            "url": "http://mathiasbynens.be/notes.atom"
+        },
+        {
+            "name": "Marco's accessibility blog",
+            "url": "http://www.marcozehe.de/feed/"
+        },
+        {
+            "name": "Nick Fitzgerald",
+            "url": "http://fitzgeraldnick.com/weblog/feeds/latest-atom/"
+        },
+        {
+            "name": "Impressive Webs",
+            "url": "http://feeds2.feedburner.com/ImpressiveWebs"
+        },
+        {
+            "name": "Remy Sharp",
+            "url": "http://feeds.feedburner.com/remysharp"
+        },
+        {
+            "name": "Nicolas Gallagher — Blog & Ephemera » Code",
+            "url": "http://nicolasgallagher.com/category/code/feed/"
+        },
+        {
+            "name": "Robert's talk",
+            "url": "http://feeds.feedburner.com/robertnyman"
+        },
+        {
+            "name": "The Sea of Ideas",
+            "url": "http://feeds.feedburner.com/TheSeaOfIdeas"
+        },
+        {
+            "name": "Brad Frost",
+            "url": "http://feeds.feedburner.com/brad-frosts-blog"
+        },
+        {
+            "name": "David Walsh Blog",
+            "url": "http://davidwalsh.name/feed/atom"
+        },
+        {
+            "name": "Web Designer Notebook",
+            "url": "http://feeds2.feedburner.com/WebDesignerNotebook"
+        },
+        {
+            "name": "Matt Gemmell",
+            "url": "http://mattgemmell.com/atom.xml"
+        },
+        {
+            "name": "Owltastic",
+            "url": "http://owltastic.com/feed/"
+        },
+        {
+            "name": "Rick Strahl's Web Log",
+            "url": "http://feeds.feedburner.com/rickstrahl"
+        },
+        {
+            "name": "Lea Verou’s blog",
+            "url": "http://feeds2.feedburner.com/leaverou"
+        },
+        {
+            "name": "typegoodness",
+            "url": "http://feeds.feedburner.com/typegoodness"
+        },
+        {
+            "name": "Rachel Andrew",
+            "url": "http://www.rachelandrew.co.uk/feed/"
+        },
+        {
+            "name": "SpyreStudios",
+            "url": "http://feeds.feedburner.com/SpyreStudios"
+        },
+        {
+            "name": "90 Percent of Everything - by Harry Brignull",
+            "url": "http://feeds.feedburner.com/90percentofeverything/feed"
+        },
+        {
+            "name": "Steve Marshall",
+            "url": "http://nascentguruism.com/feed/atom"
+        },
+        {
+            "name": "pamela fox's blog",
+            "url": "http://blog.pamelafox.org/feeds/posts/default"
+        },
+        {
+            "name": "Manorisms",
+            "url": "http://feeds.feedburner.com/webdevnet"
+        },
+        {
+            "name": "Rachel Nabors",
+            "url": "http://feeds.feedburner.com/RachelNabors"
+        },
+        {
+            "name": "Kilian Valkhof",
+            "url": "http://feeds.feedburner.com/Kilianvalkhofcom"
+        },
+        {
+            "name": "Boris Smus",
+            "url": "http://feeds.feedburner.com/smuscom"
+        },
+        {
+            "name": "Big Medium - Full Feed",
+            "url": "http://globalmoxie.com/bm~feed.xml"
+        },
+        {
+            "name": "blog.andyhume.net",
+            "url": "http://blog.andyhume.net/feed"
+        },
+        {
+            "name": "Tantek Çelik",
+            "url": "http://tantek.com/updates.atom?ot=article"
+        },
+        {
+            "name": "Andy Davies",
+            "url": "http://feeds.feedburner.com/andydavies"
+        },
+        {
+            "name": "Cargowire Ramblings",
+            "url": "http://cargowire.net/blog.rss"
+        },
+        {
+            "name": "Elliot Jay Stocks | everything (blog + newsletter + speaking) feed",
+            "url": "http://feeds.feedburner.com/elliotjaystocks"
+        },
+        {
+            "name": "Podnosh",
+            "url": "http://feeds.feedburner.com/PodnoshBlogHighFibrePodcasting"
+        },
+        {
+            "name": "TimKadlec.com on Web Performance Consulting | TimKadlec.com",
+            "url": "http://timkadlec.com/atom.xml"
+        },
+        {
+            "name": "Ben Frain",
+            "url": "http://benfrain.com/feed/"
+        },
+        {
+            "name": "Web Axe",
+            "url": "http://www.webaxe.org/feed/"
+        },
+        {
+            "name": "Donovan's Blog - Hop.ie",
+            "url": "http://hop.ie/feed.xml"
+        },
+        {
+            "name": "Paul Irish",
+            "url": "http://paulirish.com/feed/"
+        },
+        {
+            "name": "Seb Lee-Delisle",
+            "url": "http://sebleedelisle.com/feed/"
+        },
+        {
+            "name": "That Emil - Blog",
+            "url": "http://feeds.feedburner.com/thatemil-blog"
+        },
+        {
+            "name": "Ben Nadel",
+            "url": "http://www.bennadel.com/index.cfm?dax=blog.rss&lst_tag_id=14,16,3,5,9,6,7,13,18,20,10,15"
+        },
+        {
+            "name": "HTML + CSS + JavaScript",
+            "url": "http://feeds.feedburner.com/HtmlCssJavascript"
+        },
+        {
+            "name": "Rey Bango",
+            "url": "http://blog.reybango.com/feed/"
+        },
+        {
+            "name": "Jake Archibald's blog",
+            "url": "http://jakearchibald.com/posts.rss"
+        },
+        {
+            "name": "Always Twisted",
+            "url": "http://www.alwaystwisted.com/rss.php"
+        },
+        {
+            "name": "Tobias Ahlin",
+            "url": "http://tobiasahlin.com/feed.xml"
+        },
+        {
+            "name": "rezzz.com | Jason Resnick",
+            "url": "http://rezzz.com/feed/"
+        },
+        {
+            "name": "CodyHouse",
+            "url": "http://feeds.feedburner.com/codyhouse/feeds"
+        },
+        {
+            "name": "Rob Weychert",
+            "url": "http://feeds.feedburner.com/robweychert"
+        },
+        {
+            "name": "Todd Motto",
+            "url": "http://toddmotto.com/feed.xml"
+        },
+        {
+            "name": "HeydonWorks",
+            "url": "http://www.heydonworks.com/feed"
+        },
+        {
+            "name": "Clagnut",
+            "url": "http://clagnut.com/feeds/fullposts.xml"
+        },
+        {
+            "name": "Bram.us",
+            "url": "https://www.bram.us/feed/"
+        },
+        {
+            "name": "Val Head",
+            "url": "http://valhead.com/feed/"
+        },
+        {
+            "name": "Matt Wilcox",
+            "url": "http://feeds.mattwilcox.net/stay-updated/rss/everything"
+        },
+        {
+            "name": "Ruud van Asseldonk",
+            "url": "https://ruudvanasseldonk.com/feed.xml"
+        },
+        {
+            "name": "hiddedevries.nl Blog",
+            "url": "https://hiddedevries.nl/rss/full/"
+        },
+        {
+            "name": "Paul Kinlan",
+            "url": "https://paul.kinlan.me/index.xml"
+        },
+        {
+            "name": "Dan Wilson",
+            "url": "http://danielcwilson.com/feed.xml"
+        },
+        {
+            "name": "Rach Smith's digital garden",
+            "url": "http://rachsmith.com/rss.xml"
+        },
+        {
+            "name": "bramstein.com news",
+            "url": "http://bramstein.com/rss.xml"
+        },
+        {
+            "name": "Adrian Roselli",
+            "url": "http://adrianroselli.com/feed"
+        },
+        {
+            "name": "Viljami Salminen",
+            "url": "https://viljamis.com/atom.xml"
+        },
+        {
+            "name": "Baldur Bjarnason's Notes on the Web",
+            "url": "https://feedpress.me/baldurbjarnason"
+        },
+        {
+            "name": "molily",
+            "url": "http://molily.de/feed.xml"
+        },
+        {
+            "name": "justmarkup",
+            "url": "http://justmarkup.com/log/feed/"
+        },
+        {
+            "name": "Bastian Allgeier’s Journal",
+            "url": "https://bastianallgeier.com/feed"
+        },
+        {
+            "name": "bitsofcode",
+            "url": "http://bitsofco.de/rss/"
+        },
+        {
+            "name": "Robin Rendle",
+            "url": "https://robinrendle.com/feed.xml"
+        },
+        {
+            "name": "MarcySutton.com",
+            "url": "https://marcysutton.com/feed/"
+        },
+        {
+            "name": "Almost Profound: The Audio Blog of Una Kravets",
+            "url": "https://una.im/feed.xml"
+        },
+        {
+            "name": "Chen Hui Jing",
+            "url": "https://www.chenhuijing.com/feed.xml"
+        },
+        {
+            "name": "Joe Dolson Web Accessibility",
+            "url": "https://www.joedolson.com/feed/"
+        },
+        {
+            "name": "Ahmad Shadeed",
+            "url": "https://ishadeed.com/feed.xml"
+        },
+        {
+            "name": "Read the Tea Leaves",
+            "url": "https://nolanlawson.com/feed/"
+        },
+        {
+            "name": "Julia Evans",
+            "url": "https://jvns.ca/atom.xml"
+        },
+        {
+            "name": "Dave Rupert",
+            "url": "https://daverupert.com/atom.xml"
+        },
+        {
+            "name": "Monica Dinculescu",
+            "url": "https://meowni.ca/atom.xml"
+        },
+        {
+            "name": "Joel on Software",
+            "url": "https://www.joelonsoftware.com/feed/"
+        },
+        {
+            "name": "Blog (Web Development, Mostly) · Jens Oliver Meiert",
+            "url": "https://meiert.com/en/feed/"
+        },
+        {
+            "name": "Ethan Marcotte",
+            "url": "https://ethanmarcotte.com/wrote/feed.xml"
+        },
+        {
+            "name": "Tyler Gaw",
+            "url": "https://tylergaw.com/rss.xml"
+        },
+        {
+            "name": "De Voorhoede Blog",
+            "url": "https://www.voorhoede.nl/blog-feed.xml"
+        },
+        {
+            "name": "Darren Beale's Web Log",
+            "url": "https://bealers.com/feed/"
+        },
+        {
+            "name": "David Boureau - Web development, acquisition",
+            "url": "http://bdavidxyz.com/feed.xml"
+        },
+        {
+            "name": "Frank Chimero",
+            "url": "https://frankchimero.com/feed.xml"
+        },
+        {
+            "name": "The internet place for Alice Bartlett",
+            "url": "http://alicebartlett.co.uk/feed.xml"
+        },
+        {
+            "name": "Mike Street's Blog",
+            "url": "https://www.mikestreety.co.uk/rss"
+        },
+        {
+            "name": "CSS Wizardry",
+            "url": "http://feeds.feedburner.com/csswizardry"
+        },
+        {
+            "name": "Articles on SaraSoueidan.com",
+            "url": "https://www.sarasoueidan.com/blog/index.xml"
+        },
+        {
+            "name": "fberriman.com",
+            "url": "https://fberriman.com/feed/"
+        },
+        {
+            "name": "Max Böck",
+            "url": "https://mxb.at/feed.xml"
+        },
+        {
+            "name": "macwright.org",
+            "url": "https://macwright.org/rss.xml"
+        },
+        {
+            "name": "House of van Schneider",
+            "url": "http://www.vanschneider.com/feed"
+        },
+        {
+            "name": "Keith J. Grant",
+            "url": "https://keithjgrant.com/posts/index.xml"
+        },
+        {
+            "name": "Amit Merchant",
+            "url": "https://www.amitmerchant.com/feed.xml"
+        },
+        {
+            "name": "Hugo Giraudel",
+            "url": "https://hugogiraudel.com/rss/index.xml"
+        },
+        {
+            "name": "hey it's violet",
+            "url": "https://vgpena.github.io/feed.xml"
+        },
+        {
+            "name": "Tink - Léonie Watson - On technology, food & life in the digital age",
+            "url": "https://tink.uk/feed/"
+        },
+        {
+            "name": "Stefan Judis Web Development",
+            "url": "https://www.stefanjudis.com/rss.xml"
+        },
+        {
+            "name": "Clive Walker's Site",
+            "url": "https://www.clivewalker.me/blog/rss"
+        },
+        {
+            "name": "frontstuff",
+            "url": "https://frontstuff.io/feed.xml"
+        },
+        {
+            "name": "Zach Leatherman",
+            "url": "https://www.zachleat.com/web/feed/"
+        },
+        {
+            "name": "Paul Robert Lloyd",
+            "url": "https://paulrobertlloyd.com/feed.xml"
+        },
+        {
+            "name": "Jules Forrest's RSS Feed",
+            "url": "https://julesforrest.com/rss.xml"
+        },
+        {
+            "name": "Aaron Gustafson",
+            "url": "https://www.aaron-gustafson.com/feeds/latest-posts.xml"
+        },
+        {
+            "name": "as days pass by",
+            "url": "https://www.kryogenix.org/days/feed"
+        },
+        {
+            "name": "Trent Walton",
+            "url": "https://trentwalton.com/feed.xml"
+        },
+        {
+            "name": "The personal website of Matthew Ström",
+            "url": "https://matthewstrom.com/feed.xml"
+        },
+        {
+            "name": "Brian Grinstead",
+            "url": "https://feeds.feedburner.com/briangrinstead"
+        },
+        {
+            "name": "Melanie Richards",
+            "url": "https://melanie-richards.com/feed.xml"
+        },
+        {
+            "name": "Peter Gasston",
+            "url": "https://petergasston.co.uk/feed/"
+        },
+        {
+            "name": "Micah Godbolt",
+            "url": "https://micahgodbolt.com/rss.xml"
+        },
+        {
+            "name": "Lara Callender Hogan",
+            "url": "https://larahogan.me/feed.xml"
+        },
+        {
+            "name": "Susan Jean Robertson",
+            "url": "https://www.susanjeanrobertson.com/feed-journal.xml"
+        },
+        {
+            "name": "Raymond Camden",
+            "url": "https://www.raymondcamden.com/feed.xml"
+        },
+        {
+            "name": "Go Make Things",
+            "url": "https://gomakethings.com/feed/index.xml"
+        },
+        {
+            "name": "Erik Runyon",
+            "url": "https://erikrunyon.com/feed.xml"
+        },
+        {
+            "name": "Merrick Christensen",
+            "url": "https://www.merrickchristensen.com/rss.xml"
+        },
+        {
+            "name": "marcus.io",
+            "url": "https://marcus.io/feed"
+        },
+        {
+            "name": "Matthias Ott",
+            "url": "https://matthiasott.com/rss"
+        },
+        {
+            "name": "Sam Kapila",
+            "url": "https://samkapila.com/feed.xml"
+        },
+        {
+            "name": "Scott O’Hara - Accessibility engineer, UX developer and designer",
+            "url": "https://www.scottohara.me/feed.xml"
+        },
+        {
+            "name": "Lara Schenck",
+            "url": "https://notlaura.com/feed/"
+        },
+        {
+            "name": "Markus Oberlehner",
+            "url": "https://markus.oberlehner.net/blog/index.xml"
+        },
+        {
+            "name": "Jon Pearse",
+            "url": "https://jonpearse.net/writing/feed.xml"
+        },
+        {
+            "name": "Jon Christopher",
+            "url": "https://jonchristopher.us/feed/"
+        },
+        {
+            "name": "Jordan Moore",
+            "url": "http://jordanm.co.uk/feed.xml"
+        },
+        {
+            "name": "CSS { In Real Life }",
+            "url": "https://css-irl.info/rss.xml"
+        },
+        {
+            "name": "Sally Lait",
+            "url": "https://sallylait.com/blog/index.xml"
+        },
+        {
+            "name": "bkardell.com rss feed",
+            "url": "https://bkardell.com/blog/feed.rss"
+        },
+        {
+            "name": "Chase McCoy",
+            "url": "https://chasem.co/feed.xml"
+        },
+        {
+            "name": "Hawksworx - Phil Hawksworth's blog",
+            "url": "https://www.hawksworx.com/feed.xml"
+        },
+        {
+            "name": "Frank M Taylor",
+            "url": "https://blog.frankmtaylor.com/feed/"
+        },
+        {
+            "name": "Matt Smith",
+            "url": "https://allthingssmitty.com/atom.xml"
+        },
+        {
+            "name": "Didoo",
+            "url": "http://www.didoo.net/feed/"
+        },
+        {
+            "name": "Zeichenschatz",
+            "url": "https://www.zeichenschatz.net/feed"
+        },
+        {
+            "name": "a11y with Lindsey",
+            "url": "https://www.a11ywithlindsey.com/rss.xml"
+        },
+        {
+            "name": "Andy Bell Design",
+            "url": "https://andy-bell.design/feed/all.xml"
+        },
+        {
+            "name": "Darek Kay",
+            "url": "https://darekkay.com/atom.xml"
+        },
+        {
+            "name": "overreacted — A blog by Dan Abramov",
+            "url": "https://overreacted.io/rss.xml"
+        },
+        {
+            "name": "Johan Ronsse",
+            "url": "https://johanronsse.be/feed/"
+        },
+        {
+            "name": "Trys Mudford",
+            "url": "https://www.trysmudford.com/blog/index.xml"
+        },
+        {
+            "name": "Benjy Stanton",
+            "url": "https://www.benjystanton.co.uk/feed.xml"
+        },
+        {
+            "name": "Chris Biscardi's Digital Garden",
+            "url": "https://www.christopherbiscardi.com/rss.xml"
+        },
+        {
+            "name": "Lynn Fisher",
+            "url": "https://lynnandtonic.com/feed.xml"
+        },
+        {
+            "name": "Brett Jankord",
+            "url": "https://www.brettjankord.com/rss.xml"
+        },
+        {
+            "name": "Jim Nielsen’s Blog",
+            "url": "https://blog.jim-nielsen.com/feed.xml"
+        },
+        {
+            "name": "Articles & Experiments by Roman Komarov",
+            "url": "https://feeds.feedburner.com/kizuruen"
+        },
+        {
+            "name": "Garrett Dimon",
+            "url": "https://feeds.feedburner.com/garrettdimoncom"
+        },
+        {
+            "name": "Westley Knight's Blog",
+            "url": "https://westleyknight.co.uk/feed.xml"
+        },
+        {
+            "name": "Latest writing from www.alpower.com",
+            "url": "https://www.alpower.com/feed"
+        },
+        {
+            "name": "Koos Looijesteijn",
+            "url": "https://www.kooslooijesteijn.net/feed.xml"
+        },
+        {
+            "name": "Het bijstere spoor",
+            "url": "https://evertpot.com/atom.xml"
+        },
+        {
+            "name": "Manuel Matuzović's weblog",
+            "url": "https://www.matuzo.at/feed.xml"
+        },
+        {
+            "name": "Katie Kodes",
+            "url": "https://katiekodes.com/feed.xml"
+        },
+        {
+            "name": "bridgestew",
+            "url": "https://www.bridgestew.com/feed/feed.xml"
+        },
+        {
+            "name": "Matthew Phillips",
+            "url": "https://matthewphillips.info/programming/atom.xml"
+        },
+        {
+            "name": "MarcySutton.com RSS Feed",
+            "url": "https://marcysutton.com/rss.xml"
+        },
+        {
+            "name": "Relly AB",
+            "url": "https://rellyab.wordpress.com/feed/"
+        },
+        {
+            "name": "Manuel Moreale RSS Feed",
+            "url": "https://manuelmoreale.com/feed/rss"
+        },
+        {
+            "name": "Adam Wathan's Blog",
+            "url": "https://adamwathan.me/rss/index.xml"
+        },
+        {
+            "name": "Juan Fernandes - Freelance Website Designer - RSS Feed",
+            "url": "https://juanfernandes.uk/rss/"
+        },
+        {
+            "name": "Paul Taylor",
+            "url": "https://paulitaylor.com/feed/"
+        },
+        {
+            "name": "no.lol",
+            "url": "https://www.no.lol/rss.xml"
+        },
+        {
+            "name": "Dion Almaer",
+            "url": "https://blog.almaer.com/feed/"
+        },
+        {
+            "name": "Articles - Amy Hupe",
+            "url": "https://amyhupe.co.uk/atom.xml"
+        },
+        {
+            "name": "Effortmark",
+            "url": "http://www.effortmark.co.uk/feed/"
+        },
+        {
+            "name": "Daniel Eden",
+            "url": "https://daneden.me/rss.xml"
+        },
+        {
+            "name": "tonsky.me",
+            "url": "https://tonsky.me/blog/atom.xml"
+        },
+        {
+            "name": "Sam Hardacre",
+            "url": "https://blog.nocturnalmonkey.com/rss/"
+        },
+        {
+            "name": "Kirsty Burgoine",
+            "url": "https://kirstyburgoine.wordpress.com/feed/"
+        },
+        {
+            "name": "François Chalifour",
+            "url": "https://francoischalifour.com/rss.xml"
+        },
+        {
+            "name": "Bryan Robinson's Blog",
+            "url": "https://bryanlrobinson.com/feed.xml"
+        },
+        {
+            "name": "Nic Chan",
+            "url": "https://www.nicchan.me/feed.xml"
+        },
+        {
+            "name": "Danny Banks",
+            "url": "https://dbanks.design/rss.xml"
+        },
+        {
+            "name": "Jeff Bridgforth",
+            "url": "http://jeffbridgforth.com/feed/"
+        },
+        {
+            "name": "A Work in Progress",
+            "url": "https://dev.wgao19.cc/rss.xml"
+        },
+        {
+            "name": "Tobias Ahlin",
+            "url": "https://tobiasahlin.com/feed.xml"
+        },
+        {
+            "name": "Ctrl blog",
+            "url": "https://feed.ctrl.blog/latest.atom"
+        },
+        {
+            "name": "Jan Früchtl - Product Designer",
+            "url": "https://fruechtl.me/feed.xml"
+        },
+        {
+            "name": "James Sinclair",
+            "url": "https://jrsinclair.com/index.rss"
+        },
+        {
+            "name": "Scott Riley",
+            "url": "https://www.scott.is/post/rss.xml"
+        },
+        {
+            "name": "Tania Rascia | RSS Feed",
+            "url": "https://www.taniarascia.com/rss.xml"
+        },
+        {
+            "name": "Pete Lambert ~ Journal",
+            "url": "https://www.petelambert.com/feed.xml"
+        },
+        {
+            "name": "Ana Rodrigues",
+            "url": "https://ohhelloana.blog/feed.xml"
+        },
+        {
+            "name": "Chris Coyier",
+            "url": "https://chriscoyier.net/feed/"
+        },
+        {
+            "name": "Tatiana Mac",
+            "url": "https://tatianamac.com/feed/feed.xml"
+        },
+        {
+            "name": "psuter.net",
+            "url": "https://psuter.net/feed.xml"
+        },
+        {
+            "name": "Mike Aurelio Design",
+            "url": "https://www.mikeaureliodesign.com/blog?format=RSS"
+        },
+        {
+            "name": "Website and blog of Front-end developer and web designer, Dan Davies",
+            "url": "https://www.dan-davies.co.uk/feed"
+        },
+        {
+            "name": "cassie.codes",
+            "url": "https://www.cassie.codes/feed.xml"
+        },
+        {
+            "name": "Code Me Natalie",
+            "url": "http://codemenatalie.com/feed/"
+        },
+        {
+            "name": "Jxnblk",
+            "url": "https://jxnblk.com/rss.xml"
+        },
+        {
+            "name": "Sarah Higley",
+            "url": "https://sarahmhigley.com/feed.xml"
+        },
+        {
+            "name": "swyx's site RSS Feed",
+            "url": "https://www.swyx.io/rss.xml"
+        },
+        {
+            "name": "yuanchuan.dev",
+            "url": "https://yuanchuan.dev/feed.xml"
+        },
+        {
+            "name": "Blogccasion",
+            "url": "https://blog.tomayac.com/feed/feed.xml"
+        },
+        {
+            "name": "Stephanie's Design and Technical Musings",
+            "url": "https://blog.stephaniestimac.com/feed/feed.xml"
+        },
+        {
+            "name": "Dopamino",
+            "url": "http://dopamino.com/feed/"
+        },
+        {
+            "name": "PQINA Blog",
+            "url": "https://pqina․nl/feed.xml"
+        },
+        {
+            "name": "The Haystack",
+            "url": "https://www.the-haystack.com/feed/"
+        },
+        {
+            "name": "Blog – Exove",
+            "url": "https://www.exove.com/en/blog/feed/"
+        },
+        {
+            "name": "Geri Reid",
+            "url": "http://www.gerireid.com/blog/feed/"
+        },
+        {
+            "name": "Amber: Blog",
+            "url": "https://amberwilson.co.uk/rss.xml"
+        },
+        {
+            "name": "Richard Saunders, Product owner and UX Designer",
+            "url": "https://www.rdsaunders.co.uk/feed.xml"
+        },
+        {
+            "name": "Ugly Duck",
+            "url": "https://uglyduck.ca/atom.xml"
+        },
+        {
+            "name": "Denis Rojcyk",
+            "url": "https://rojcyk.com/blog/rss.xml"
+        },
+        {
+            "name": "fatbusinessman.com",
+            "url": "https://fatbusinessman.com/feed.xml"
+        },
+        {
+            "name": "Mariusz Ciesla",
+            "url": "https://writing.mariusz.cc/rss/"
+        },
+        {
+            "name": "Mark Boulton's Journal RSS",
+            "url": "https://markboulton.co.uk/journal/feed/feed.xml"
+        },
+        {
+            "name": "Thomas Park",
+            "url": "https://thomaspark.co/feed/"
+        },
+        {
+            "name": "Justin Fagnani",
+            "url": "http://justinfagnani.com:80/rss/"
+        },
+        {
+            "name": "Terence Eden’s Blog",
+            "url": "https://shkspr.mobi/blog/feed/atom/"
+        },
+        {
+            "name": "Evan Minto",
+            "url": "https://evanminto.com/feed/blog.xml"
+        },
+        {
+            "name": "Coder's Block",
+            "url": "https://codersblock.com/rss.xml"
+        },
+        {
+            "name": "Mattia Astorino",
+            "url": "https://equinusocio.dev/feed.xml"
+        },
+        {
+            "name": "Luke Bonaccorsi",
+            "url": "https://lukeb.co.uk/rss.xml"
+        },
+        {
+            "name": "blog.NOVALISTIC",
+            "url": "https://blog.novalistic.com/feed/"
+        },
+        {
+            "name": "Mike Riethmuller",
+            "url": "https://www.madebymike.com.au/feed.xml"
+        },
+        {
+            "name": "Amelia Wattenberger",
+            "url": "https://wattenberger.com/rss"
+        },
+        {
+            "name": "Josh Comeau's blog",
+            "url": "https://www.joshwcomeau.com/rss.xml"
+        },
+        {
+            "name": "Neha Sharma",
+            "url": "https://nehha-sharma.blogspot.com/feeds/posts/default"
+        },
+        {
+            "name": "Rob Weychert V7 16",
+            "url": "https://v7.robweychert.com/index.rss"
+        },
+        {
+            "name": "@mdo",
+            "url": "https://markdotto.com/atom.xml"
+        },
+        {
+            "name": "Mike Aparicio",
+            "url": "https://mikeaparicio.com/feed.xml"
+        },
+        {
+            "name": "Jack Franklin",
+            "url": "https://www.jackfranklin.co.uk/feed.xml"
+        },
+        {
+            "name": "Dave Redfern",
+            "url": "https://daveredfern.com/feed/"
+        },
+        {
+            "name": "Craig Butcher",
+            "url": "https://craigbutcher.io/feed/main.xml"
+        },
+        {
+            "name": "Catalin Red",
+            "url": "https://catalin.red/feed"
+        },
+        {
+            "name": "Multiline Comment",
+            "url": "https://multiline.co/mment/feed.xml"
+        },
+        {
+            "name": "Robb Owen Digital",
+            "url": "https://robbowen.digital/feed.xml"
+        },
+        {
+            "name": "Hey Georgie",
+            "url": "https://hey.georgie.nu/feed/"
+        },
+        {
+            "name": "The Cleverest",
+            "url": "https://thecleverest.com/feed/"
+        },
+        {
+            "name": "Robin's blog",
+            "url": "https://feeds.feedburner.com/robinsloan"
+        },
+        {
+            "name": "Mae Capozzi",
+            "url": "https://maecapozzi.com/rss.xml"
+        },
+        {
+            "name": "Scalable CSS: Learn Advanced, Modular CSS Methodologies & Architecture",
+            "url": "https://scalablecss.com/atom.xml"
+        },
+        {
+            "name": "Seldo.com RSS Feed",
+            "url": "https://seldo.com/rss.xml"
+        },
+        {
+            "name": "Personal Webpage of Blake Watson",
+            "url": "https://blakewatson.com/feed/"
+        },
+        {
+            "name": "Jan Früchtl",
+            "url": "https://fruechtl.me/journal/feed.xml"
+        },
+        {
+            "name": "Max Stoibers Thoughts",
+            "url": "https://mxstbr.com/rss"
+        },
+        {
+            "name": "Sarah Fossheim's Blog",
+            "url": "https://fossheim.io/feed.xml"
+        },
+        {
+            "name": "skovy.dev",
+            "url": "https://skovy.dev/rss.xml"
+        },
+        {
+            "name": "Lee Reamsnyder | Feed",
+            "url": "https://www.leereamsnyder.com/rss.xml"
+        },
+        {
+            "name": "JJenzz",
+            "url": "https://jjenzz.com/rss.xml"
+        },
+        {
+            "name": "Angelos Arnis · Writing",
+            "url": "https://arn.is/feed/"
+        },
+        {
+            "name": "Thoughts From Eric",
+            "url": "https://meyerweb.com/eric/thoughts/feed/?scope=full"
+        },
+        {
+            "name": "Compiled: A blog by Emma Bostian",
+            "url": "https://www.compiled.blog/rss.xml"
+        },
+        {
+            "name": "Jan De Wilde",
+            "url": "https://mrjean.be/feed.xml"
+        },
+        {
+            "name": "Martin Schneider - Frontend Web Developer",
+            "url": "https://martinschneider.me/articles/feed.xml"
+        },
+        {
+            "name": "Sébastien Lorber",
+            "url": "https://sebastienlorber.com/rss.xml"
+        },
+        {
+            "name": "Christoph Labacher’s Notes",
+            "url": "https://christophlabacher.com/feed"
+        },
+        {
+            "name": "code.blog",
+            "url": "https://codeblog.trovster.com/feed.xml"
+        },
+        {
+            "name": "Pedro Duarte",
+            "url": "https://ped.ro/blog/feed"
+        },
+        {
+            "name": "Juha-Matti Santala - Community Builder. Dreamer. Adventurer.",
+            "url": "https://hamatti.org/feed/feed.xml"
+        },
+        {
+            "name": "tempertemper",
+            "url": "https://www.tempertemper.net/feeds/main.xml"
+        },
+        {
+            "name": "Gatsby RSS feed",
+            "url": "https://www.holyday.me/rss.xml"
+        },
+        {
+            "name": "Gatsby RSS feed",
+            "url": "https://scalablecss.com/rss.xml"
+        },
+        {
+            "name": "chriskirknielsen",
+            "url": "https://chriskirknielsen.com/rss.xml"
+        },
+        {
+            "name": "Blog - Tanner Christensen",
+            "url": "https://tannerchristensen.com/blog?format=rss"
+        },
+        {
+            "name": "Woohoo",
+            "url": "https://abandonedwig.info/blog/atom.xml"
+        },
+        {
+            "name": "Dez Beberniss",
+            "url": "https://desiraebeberniss.com/rss.xml"
+        },
+        {
+            "name": "Iain Bean",
+            "url": "https://iainbean.com/feed.xml"
+        },
+        {
+            "name": "leonardofaria.net",
+            "url": "https://feeds.feedburner.com/leonardofaria"
+        },
+        {
+            "name": "teaNotes.dev",
+            "url": "https://teanotes.dev/feed/"
+        },
+        {
+            "name": "Tammy Ritterskamp | Front End Web Developer in St. Louis, MO",
+            "url": "https://tammyritterskamp.com/rss.xml"
+        },
+        {
+            "name": "Luke Lowrey",
+            "url": "https://lukelowrey.com/rss/"
+        },
+        {
+            "name": "Tomas Pustelnik",
+            "url": "https://pustelto.com/feed.xml"
+        },
+        {
+            "name": "Parker Malenke",
+            "url": "https://www.parkermalenke.com/feed.xml"
+        },
+        {
+            "name": "Vycke.dev RSS Feed",
+            "url": "https://vycke.dev/rss.xml"
+        },
+        {
+            "name": "Sia Karamalegos, Freelance Web Developer",
+            "url": "https://sia.codes/feed/feed.xml"
+        },
+        {
+            "name": "Nicky Meuleman",
+            "url": "https://nickymeuleman.netlify.app/blog/rss.xml"
+        },
+        {
+            "name": "otsukare",
+            "url": "https://www.otsukare.info/feeds/atom.xml"
+        },
+        {
+            "name": "SMTH",
+            "url": "https://smth.uk/feed/articles.xml"
+        },
+        {
+            "name": "Giorgos Sarigiannidis",
+            "url": "https://www.gsarigiannidis.gr/feed/"
+        },
+        {
+            "name": "Frontend Horse",
+            "url": "https://frontend.horse/rss.xml"
+        },
+        {
+            "name": "Danny Guo",
+            "url": "https://www.dannyguo.com/blog/feed.xml"
+        },
+        {
+            "name": "Articles - Hubert Sablonnière",
+            "url": "https://www.hsablonniere.com/articles-feed.xml"
+        },
+        {
+            "name": "delan azabani",
+            "url": "https://www.azabani.com/feed/tag/home.xml"
+        },
+        {
+            "name": "Andrej Gajdos",
+            "url": "https://andrejgajdos.com/feed/"
+        },
+        {
+            "name": "| Peter Merholz",
+            "url": "https://www.petermerholz.com/feed/"
+        },
+        {
+            "name": "Tim Severien",
+            "url": "https://timseverien.com/feed.xml"
+        },
+        {
+            "name": "Ryan Gittings Blog",
+            "url": "https://www.ryangittings.co.uk/feed.xml"
+        },
+        {
+            "name": "Graham F. Scott: Blog",
+            "url": "https://gfscott.com/blog/feed.xml"
+        },
+        {
+            "name": "Jay Freestone | Software Engineer",
+            "url": "https://www.jayfreestone.com/feed.xml"
+        },
+        {
+            "name": "Marc Littlemore",
+            "url": "https://www.marclittlemore.com/feed.xml"
+        },
+        {
+            "name": "Guillaume",
+            "url": "https://guillaume.wuips.com/feed.xml"
+        },
+        {
+            "name": "Ian Frost Weather",
+            "url": "https://ianfrostweather.com/feed/"
+        },
+        {
+            "name": "Anthony Fu",
+            "url": "https://antfu.me/feed.xml"
+        },
+        {
+            "name": "cbeams",
+            "url": "https://chris.beams.io/rss/"
+        },
+        {
+            "name": "The CSS Ninja",
+            "url": "https://ryanseddon.com/index.xml"
+        },
+        {
+            "name": "Blog of fearless web developer Silvestar Bistrović",
+            "url": "https://www.silvestar.codes/rss.xml"
+        },
+        {
+            "name": "Aleksandr Hovhannisyan",
+            "url": "https://www.aleksandrhovhannisyan.com/feed.xml"
+        },
+        {
+            "name": "Simon Willison TIL",
+            "url": "https://til.simonwillison.net/tils/feed.atom"
+        },
+        {
+            "name": "A Beautiful Site",
+            "url": "https://www.abeautifulsite.net/feed/feed.xml"
+        },
+        {
+            "name": "Ben Myers",
+            "url": "https://benmyers.dev/feed.xml"
+        },
+        {
+            "name": "Salma Alam-Naylor",
+            "url": "https://whitep4nth3r.com/feed.xml"
+        },
+        {
+            "name": "Posts by Ashlee M Boyer",
+            "url": "https://ashleemboyer.com/rss.xml"
+        },
+        {
+            "name": "brycewray.com",
+            "url": "https://www.brycewray.com/index.xml"
+        },
+        {
+            "name": "Chris Burnell",
+            "url": "https://chrisburnell.com/feed.xml"
+        },
+        {
+            "name": "Cassey Lottman",
+            "url": "https://www.cassey.dev/feed/feed.xml"
+        },
+        {
+            "name": "Carol's Blog",
+            "url": "https://carol.gg/feed.xml"
+        },
+        {
+            "name": "Josh Tumath",
+            "url": "https://www.joshtumath.uk/feed.xml"
+        },
+        {
+            "name": "Puru's Blog",
+            "url": "https://www.puruvj.dev/rss.xml"
+        },
+        {
+            "name": "yogeshchauhan.com",
+            "url": "https://yogeshchauhan.com/feed/"
+        },
+        {
+            "name": "Alvaro Montoro's website",
+            "url": "https://alvaromontoro.com/feed.rss"
+        },
+        {
+            "name": "Michael Cattell",
+            "url": "https://www.michaelcattell.com/feed.xml"
+        },
+        {
+            "name": "Raj Rajhans",
+            "url": "https://rajrajhans.com/rss.xml"
+        },
+        {
+            "name": "CTNicholas' Blog",
+            "url": "https://www.ctnicholas.dev/rss.xml"
+        },
+        {
+            "name": "Robb Knight • Posts • Atom Feed",
+            "url": "https://rknight.me/feed.xml"
+        },
+        {
+            "name": "David Darnes",
+            "url": "https://darn.es/rss/"
+        },
+        {
+            "name": "Rob O'Leary",
+            "url": "https://www.roboleary.net/feed.xml"
+        },
+        {
+            "name": "Ronalds Vilciņš",
+            "url": "https://ronaldsvilcins.com/atom.xml"
+        },
+        {
+            "name": "Fatih Kalifa",
+            "url": "https://fatihkalifa.com/feed/en.xml"
+        },
+        {
+            "name": "Alex.Party",
+            "url": "https://alex.party/rss.xml"
+        },
+        {
+            "name": "Josh Collinsworth",
+            "url": "https://joshcollinsworth.com/api/rss.xml"
+        },
+        {
+            "name": "zero added sugar",
+            "url": "https://rishat.us/rss/"
+        },
+        {
+            "name": "Cory Dransfeldt",
+            "url": "https://coryd.dev/feed.xml"
+        },
+        {
+            "name": "Mayank",
+            "url": "https://blog.mayank.co/rss.xml"
+        },
+        {
+            "name": "Anselm Hannemann’s Writings",
+            "url": "https://helloanselm.com/feed/rss"
+        },
+        {
+            "name": "blog.damato.design",
+            "url": "https://blog.damato.design/feed.xml"
+        },
+        {
+            "name": "Dutchcelt. Egor Kloos' Blog",
+            "url": "https://dutchcelt.nl/feed.xml"
+        },
+        {
+            "name": "Just Melanie from the Internet",
+            "url": "https://melsumner.github.io/feed.xml"
+        },
+        {
+            "name": "Ad Hoc",
+            "url": "https://adhocteam.us/feed.9d71e805.xml"
+        },
+        {
+            "name": "localghost",
+            "url": "https://localghost.dev/feed.xml"
+        },
+        {
+            "name": "Dana Byerly's Digital Junk Drawer",
+            "url": "https://danabyerly-junkdrawer.website/feed.xml"
+        },
+        {
+            "name": "Eric Bailey",
+            "url": "https://ericwbailey.website/feed/feed.xml"
+        },
+        {
+            "name": "Elise Hein’s personal site",
+            "url": "https://elisehe.in/feed.xml"
+        },
+        {
+            "name": "Snapstromegon's Blog (Raphael Höser)",
+            "url": "https://www.hoeser.dev/feed.xml"
+        },
+        {
+            "name": "Giuseppe Gurgone",
+            "url": "https://giuseppegurgone.com/feed.xml"
+        },
+        {
+            "name": "Mark Anthony Cianfrani",
+            "url": "https://cianfrani.dev/rss.xml"
+        },
+        {
+            "name": "Vadim Makeev",
+            "url": "https://pepelsbey.dev/feed/"
+        },
+        {
+            "name": "TDN: RMCG",
+            "url": "https://tarasis.net/feed.xml"
+        },
+        {
+            "name": "tane.dev",
+            "url": "https://tane.dev/index.xml"
+        },
+        {
+            "name": "Lewis Dale's Blog",
+            "url": "https://lewisdale.dev/blog/feed.xml"
+        },
+        {
+            "name": "H.W. Sanden",
+            "url": "https://8yd.no/articles.xml"
+        },
+        {
+            "name": "Szymon Nowicki personal website",
+            "url": "https://nowicki.io/rss.xml"
+        },
+        {
+            "name": "AAADAAAM",
+            "url": "https://aaadaaam.com/feed.xml"
+        },
+        {
+            "name": "iO tech_hub",
+            "url": "https://techhub.iodigital.com/feed.xml"
+        },
+        {
+            "name": "Alice Packard's Journal Entries",
+            "url": "https://www.alicepackarddesign.com/blog/rss.xml"
+        },
+        {
+            "name": "David Pepin",
+            "url": "https://www.davidpepin.ca/feed.xml"
+        },
+        {
+            "name": "ollicle.com",
+            "url": "https://ollicle.com/feed.xml"
+        },
+        {
+            "name": "Lene Saile",
+            "url": "https://www.lenesaile.com/en/feed.xml"
+        },
+        {
+            "name": "jakelazaroff.com",
+            "url": "https://jakelazaroff.com/rss.xml"
+        },
+        {
+            "name": "Adam Argyle",
+            "url": "https://nerdy.dev/rss.xml"
+        },
+        {
+            "name": "Fynn Becker",
+            "url": "https://fynn.be/feed.xml"
+        },
+        {
+            "name": "Robin Cannon",
+            "url": "https://shinytoyrobots.substack.com/feed"
+        },
+        {
+            "name": "Jan Toman",
+            "url": "https://honzatmn.substack.com/feed"
+        },
+        {
+            "name": "Kevin Pennekamp",
+            "url": "https://crinkles.dev/feed/feed.xml"
+        },
+        {
+            "name": "CJCid",
+            "url": "https://www.cjcid.com/feeds/all.xml"
+        },
+        {
+            "name": "Alexander Lehner",
+            "url": "https://www.oidaisdes.org/rss.xml"
+        },
+        {
+            "name": "Steven Woodson",
+            "url": "https://stevenwoodson.com/feed/feed.xml"
+        },
+        {
+            "name": "FED Mentor",
+            "url": "https://fedmentor.dev/feed/feed.xml"
+        },
+        {
+            "name": "Thomas Rigby",
+            "url": "https://thomasrigby.com/feed.xml"
+        },
+        {
+            "name": "Clip Content",
+            "url": "https://clipcontent.substack.com/feed"
+        },
+        {
+            "name": "Johan Halse's blog",
+            "url": "https://johan.hal.se/feed.xml"
+        },
+        {
+            "name": "Finley, I am.",
+            "url": "https://finley.im/rss.xml"
+        },
+        {
+            "name": "⍚ Core",
+            "url": "https://aciles.substack.com/feed"
+        },
+        {
+            "name": "Infrequently Noted",
+            "url": "https://infrequently.org/feed"
+        },
+        {
+            "name": "Normal Flow",
+            "url": "https://normalflow.pub/rss"
+        },
+        {
+            "name": "Hey Jovo Design",
+            "url": "https://www.jovo.design/writing?format=rss"
+        },
+        {
+            "name": "Zell Liew",
+            "url": "https://zellwk.com/rss.xml"
+        },
+        {
+            "name": "Ryan Trimble",
+            "url": "https://ryantrimble.com/rss.xml"
+        },
+        {
+            "name": "iamsteve • RSS feed",
+            "url": "https://iamsteve.me/feed.xml"
+        },
+        {
+            "name": "Benny Powers: Web Developer",
+            "url": "https://bennypowers.dev/feed.xml"
+        },
+        {
+            "name": "Dan Mall",
+            "url": "https://v4.danmall.com/rss/full.xml"
+        },
+        {
+            "name": "Taha Shashtari's Blog",
+            "url": "https://tahazsh.com/rss"
+        },
+        {
+            "name": "Apple Annie’s Weblog",
+            "url": "https://weblog.anniegreens.lol/rss.xml"
+        },
+        {
+            "name": "Artur Bień",
+            "url": "https://expensive.toys/rss.xml"
+        },
+        {
+            "name": "Heather Buchel",
+            "url": "https://heather-buchel.com/feed/feed.xml"
+        },
+        {
+            "name": "Elizabeth Tai",
+            "url": "https://elizabethtai.com/feed/"
+        },
+        {
+            "name": "Konnor’s Site",
+            "url": "https://konnorrogers.com/feed.xml"
+        },
+        {
+            "name": "Blog by Vesa Piittinen",
+            "url": "https://vesa.piittinen.name/blog/rss.xml"
+        },
+        {
+            "name": "Roma’s Unpolished Posts",
+            "url": "https://blog.kizu.dev/rss.xml"
+        },
+        {
+            "name": "PJ Onori’s blog",
+            "url": "https://pjonori.blog/rss.xml"
+        },
+        {
+            "name": "Posts on Maciej Mionskowski",
+            "url": "https://mionskowski.pl/posts/feed.xml"
+        },
+        {
+            "name": "Sven Luijten",
+            "url": "https://svenluijten.com/feeds/all.xml"
+        },
+        {
+            "name": "Amelia Wattenberger",
+            "url": "https://2019.wattenberger.com/rss"
+        },
+        {
+            "name": "equk's blog",
+            "url": "https://equk.co.uk/atom.xml"
+        },
+        {
+            "name": "carbonemike.com",
+            "url": "https://carbonemike.com/rss.xml"
+        },
+        {
+            "name": "Daniela Kubesch",
+            "url": "https://dnikub.dev/feed.xml"
+        },
+        {
+            "name": "Hi! I'm Zander, I make websites",
+            "url": "https://zander.wtf/blog.rss.xml"
+        },
+        {
+            "name": "ReverentGeek",
+            "url": "https://reverentgeek.com/feed.xml"
+        },
+        {
+            "name": "James Ives",
+            "url": "https://jamesiv.es/feeds/rss.xml"
+        },
+        {
+            "name": "Neil Clarke",
+            "url": "https://neil-clarke.com/feed/"
+        },
+        {
+            "name": "Insince.re, the blog of Clive Murray",
+            "url": "https://blog.clivemurray.com/feed.xml"
+        },
+        {
+            "name": "Own Your Web",
+            "url": "https://buttondown.email/ownyourweb/rss"
+        },
+        {
+            "name": "Ryan Mulligan",
+            "url": "https://ryanmulligan.dev/feed.xml"
+        },
+        {
+            "name": "felix waller",
+            "url": "https://felixwaller.dev/rss.xml"
+        },
+        {
+            "name": "Hawk Ticehurst",
+            "url": "https://hawkticehurst.com/rss.xml"
+        },
+        {
+            "name": "Sarah Gebauer",
+            "url": "https://www.sarahgebauer.com/feed.xml"
+        },
+        {
+            "name": "9elements Blog",
+            "url": "https://9elements.com/blog/rss.xml"
+        },
+        {
+            "name": "Andrew Miracle",
+            "url": "https://andrewmiracle.com/feed/"
+        },
+        {
+            "name": "Gift Egwuenu",
+            "url": "https://giftegwuenu.com/rss.xml"
+        },
+        {
+            "name": "Citation Needed",
+            "url": "https://www.citationneeded.news/rss/"
+        },
+        {
+            "name": "Benjamin Parry",
+            "url": "https://benjamin.parry.is//writing/feed.xml"
+        },
+        {
+            "name": "Łukasz Wójcik",
+            "url": "https://blog.lukaszwojcik.net/full.xml"
+        },
+        {
+            "name": "Thudfactor",
+            "url": "https://www.thudfactor.com/feed.xml"
+        },
+        {
+            "name": "Samantha Gordashko",
+            "url": "https://samiamdesigns.substack.com/feed"
+        },
+        {
+            "name": "Craig Edney",
+            "url": "https://craigedney.ai/rss/feed.xml"
+        },
+        {
+            "name": "The Cascade",
+            "url": "https://www.csscade.com/feed.rss"
+        },
+        {
+            "name": "bencallahan.com",
+            "url": "https://bencallahan.com/feed.rss"
+        },
+        {
+            "name": "Geoff Graham",
+            "url": "https://geoffgraham.wpengine.com/feed/"
+        },
+        {
+            "name": "Vladyslav Zubko",
+            "url": "https://whatislove.dev/feed.xml"
+        },
+        {
+            "name": "esmevane.com",
+            "url": "https://esmevane.com/rss.xml"
+        },
+        {
+            "name": "Always Twisted| Articles",
+            "url": "https://www.alwaystwisted.com/feed.xml"
+        },
+        {
+            "name": "John Voss’s Writing on Design",
+            "url": "https://www.jovo.design/writing/rss.xml"
+        },
+        {
+            "name": "Medienbäcker Thomas Günther",
+            "url": "https://medienbaecker.com/articles.xml"
+        },
+        {
+            "name": "Tony Ward",
+            "url": "https://www.tonyward.dev/feed.xml"
+        },
+        {
+            "name": "Jeremias Menichelli",
+            "url": "https://jeremias.codes/feed.xml"
+        },
+        {
+            "name": "Håvard Brynjulfsen",
+            "url": "https://www.havardbrynjulfsen.design/feed.xml"
+        }
+    ],
+    "space": [
+        {
+            "name": "/r/space: news, articles and discussion",
+            "url": "https://www.reddit.com/r/space/.rss?format=xml"
+        },
+        {
+            "name": "NASA Breaking News",
+            "url": "https://www.nasa.gov/rss/dyn/breaking_news.rss"
+        },
+        {
+            "name": "New Scientist - Space",
+            "url": "https://www.newscientist.com/subject/space/feed/"
+        },
+        {
+            "name": "Sky & Telescope",
+            "url": "https://www.skyandtelescope.com/feed/"
+        },
+        {
+            "name": "Space | The Guardian",
+            "url": "https://www.theguardian.com/science/space/rss"
+        },
+        {
+            "name": "Space.com",
+            "url": "https://www.space.com/feeds/all"
+        },
+        {
+            "name": "SpaceX",
+            "url": "https://www.youtube.com/feeds/videos.xml?user=spacexchannel"
+        }
+    ],
+    "sports": [
+        {
+            "name": "BBC Sport - Sport",
+            "url": "http://feeds.bbci.co.uk/sport/rss.xml"
+        },
+        {
+            "name": "Reddit Sports",
+            "url": "https://www.reddit.com/r/sports.rss"
+        },
+        {
+            "name": "Sports News - Latest Sports and Football News | Sky News",
+            "url": "http://feeds.skynews.com/feeds/rss/sports.xml"
+        },
+        {
+            "name": "Sportskeeda",
+            "url": "https://www.sportskeeda.com/feed"
+        },
+        {
+            "name": "Yahoo! Sports - News, Scores, Standings, Rumors, Fantasy Games",
+            "url": "https://sports.yahoo.com/rss/"
+        },
+        {
+            "name": "www.espn.com - TOP",
+            "url": "https://www.espn.com/espn/rss/news"
+        }
+    ],
+    "travel": [
+        {
+            "name": "Atlas Obscura - Latest Articles and Places",
+            "url": "https://www.atlasobscura.com/feeds/latest"
+        },
+        {
+            "name": "Live Life Travel",
+            "url": "https://www.livelifetravel.world/feed/"
+        },
+        {
+            "name": "Lonely Planet Travel News",
+            "url": "https://www.lonelyplanet.com/news/feed/atom/"
+        },
+        {
+            "name": "NYT > Travel",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml"
+        },
+        {
+            "name": "Nomadic Matt's Travel Site",
+            "url": "https://www.nomadicmatt.com/travel-blog/feed/"
+        },
+        {
+            "name": "Travel | The Guardian",
+            "url": "https://www.theguardian.com/uk/travel/rss"
+        }
+    ],
+    "photography": [
+        {
+            "name": "500px",
+            "url": "https://iso.500px.com/feed/"
+        },
+        {
+            "name": "500px:",
+            "url": "https://500px.com/editors.rss"
+        },
+        {
+            "name": "Big Picture",
+            "url": "https://www.bostonglobe.com/rss/bigpicture"
+        },
+        {
+            "name": "Canon Rumors – Your best source for Canon rumors, leaks and gossip",
+            "url": "https://www.canonrumors.com/feed/"
+        },
+        {
+            "name": "Digital Photography School",
+            "url": "https://feeds.feedburner.com/DigitalPhotographySchool"
+        },
+        {
+            "name": "Light Stalking",
+            "url": "https://www.lightstalking.com/feed/"
+        },
+        {
+            "name": "Lightroom Killer Tips",
+            "url": "https://lightroomkillertips.com/feed/"
+        },
+        {
+            "name": "One Big Photo",
+            "url": "http://feeds.feedburner.com/OneBigPhoto"
+        },
+        {
+            "name": "PetaPixel",
+            "url": "https://petapixel.com/feed/"
+        },
+        {
+            "name": "Strobist",
+            "url": "http://feeds.feedburner.com/blogspot/WOBq"
+        },
+        {
+            "name": "Stuck in Customs",
+            "url": "https://stuckincustoms.com/feed/"
+        },
+        {
+            "name": "The Sartorialist",
+            "url": "https://feeds.feedburner.com/TheSartorialist"
+        }
+    ],
+    "books": [
+        {
+            "name": "A year of reading the world",
+            "url": "https://ayearofreadingtheworld.com/feed/"
+        },
+        {
+            "name": "Aestas Book Blog",
+            "url": "https://aestasbookblog.com/feed/"
+        },
+        {
+            "name": "BOOK RIOT",
+            "url": "https://bookriot.com/feed/"
+        },
+        {
+            "name": "Kirkus Reviews",
+            "url": "https://www.kirkusreviews.com/feeds/rss/"
+        },
+        {
+            "name": "Page Array – NewInBooks",
+            "url": "https://www.newinbooks.com/feed/"
+        },
+        {
+            "name": "So many books, so little time",
+            "url": "https://reddit.com/r/books/.rss"
+        },
+        {
+            "name": "Wokeread",
+            "url": "https://wokeread.home.blog/feed/"
+        }
+    ],
+    "DIY": [
+        {
+            "name": "A Beautiful Mess",
+            "url": "https://abeautifulmess.com/feed"
+        },
+        {
+            "name": "Apartment Therapy| Saving the world, one room at a time",
+            "url": "https://www.apartmenttherapy.com/projects.rss"
+        },
+        {
+            "name": "Blog – Hackaday",
+            "url": "https://hackaday.com/blog/feed/"
+        },
+        {
+            "name": "Centsational Style",
+            "url": "https://centsationalstyle.com/feed/"
+        },
+        {
+            "name": "Doityourself.com",
+            "url": "https://www.doityourself.com/feed"
+        },
+        {
+            "name": "Etsy Journal",
+            "url": "https://blog.etsy.com/en/feed/"
+        },
+        {
+            "name": "How-To Geek",
+            "url": "https://www.howtogeek.com/feed/"
+        },
+        {
+            "name": "IKEA Hackers",
+            "url": "https://www.ikeahackers.net/feed"
+        },
+        {
+            "name": "MUO - Feed",
+            "url": "https://www.makeuseof.com/feed/"
+        },
+        {
+            "name": "Oh Happy Day!",
+            "url": "http://ohhappyday.com/feed/"
+        },
+        {
+            "name": "WonderHowTo",
+            "url": "https://www.wonderhowto.com/rss.xml"
+        }
+    ],
+    "Business & economy": [
+        {
+            "name": "All News",
+            "url": "https://www.investing.com/rss/news.rss"
+        },
+        {
+            "name": "Bloomberg Quicktake",
+            "url": "https://www.youtube.com/feeds/videos.xml?user=Bloomberg"
+        },
+        {
+            "name": "Breaking News on Seeking Alpha",
+            "url": "https://seekingalpha.com/market_currents.xml"
+        },
+        {
+            "name": "Business Insider",
+            "url": "https://www.youtube.com/feeds/videos.xml?user=businessinsider"
+        },
+        {
+            "name": "Duct Tape Marketing",
+            "url": "https://ducttape.libsyn.com/rss"
+        },
+        {
+            "name": "Economic Times",
+            "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms"
+        },
+        {
+            "name": "Forbes - Business",
+            "url": "https://www.forbes.com/business/feed/"
+        },
+        {
+            "name": "Fortune",
+            "url": "https://fortune.com/feed"
+        },
+        {
+            "name": "HBR IdeaCast",
+            "url": "http://feeds.harvardbusiness.org/harvardbusiness/ideacast"
+        },
+        {
+            "name": "Home Page",
+            "url": "https://www.business-standard.com/rss/home_page_top_stories.rss"
+        },
+        {
+            "name": "How I Built This with Guy Raz",
+            "url": "https://feeds.npr.org/510313/podcast.xml"
+        },
+        {
+            "name": "Startup Stories - Mixergy",
+            "url": "https://feeds.feedburner.com/Mixergy-main-podcast"
+        },
+        {
+            "name": "The Blog of Author Tim Ferriss",
+            "url": "https://tim.blog/feed/"
+        },
+        {
+            "name": "The Growth Show",
+            "url": "http://thegrowthshow.hubspot.libsynpro.com/"
+        },
+        {
+            "name": "US Top News and Analysis",
+            "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html"
+        },
+        {
+            "name": "Yahoo Finance",
+            "url": "https://finance.yahoo.com/news/rssindex"
+        }
+    ],
+    "fashion": [
+        {
+            "name": "Fashion - ELLE",
+            "url": "https://www.elle.com/rss/fashion.xml/"
+        },
+        {
+            "name": "Fashion | The Guardian",
+            "url": "https://www.theguardian.com/fashion/rss"
+        },
+        {
+            "name": "Fashion – Indian Fashion Blog",
+            "url": "https://www.fashionlady.in/category/fashion/feed"
+        },
+        {
+            "name": "FashionBeans Men's Fashion and Style Feed",
+            "url": "https://www.fashionbeans.com/rss-feed/?category=fashion"
+        },
+        {
+            "name": "Fashionista",
+            "url": "https://fashionista.com/.rss/excerpt/"
+        },
+        {
+            "name": "NYT > Style",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml"
+        },
+        {
+            "name": "POPSUGAR Fashion",
+            "url": "https://www.popsugar.com/fashion/feed"
+        },
+        {
+            "name": "Refinery29",
+            "url": "https://www.refinery29.com/fashion/rss.xml"
+        },
+        {
+            "name": "THE YESSTYLIST – Asian Fashion Blog – brought to you by YesStyle.com",
+            "url": "https://www.yesstyle.com/blog/category/trend-and-style/feed/"
+        },
+        {
+            "name": "Who What Wear",
+            "url": "https://www.whowhatwear.com/rss"
+        }
+    ],
+    "funny": [
+        {
+            "name": "AwkwardFamilyPhotos.com",
+            "url": "https://awkwardfamilyphotos.com/feed/"
+        },
+        {
+            "name": "Cracked: All Posts",
+            "url": "http://feeds.feedburner.com/CrackedRSS"
+        },
+        {
+            "name": "Explosm.net",
+            "url": "http://feeds.feedburner.com/Explosm"
+        },
+        {
+            "name": "FAIL Blog",
+            "url": "http://feeds.feedburner.com/failblog"
+        },
+        {
+            "name": "I Can Has Cheezburger?",
+            "url": "http://feeds.feedburner.com/icanhascheezburger"
+        },
+        {
+            "name": "PHD Comics",
+            "url": "http://phdcomics.com/gradfeed.php"
+        },
+        {
+            "name": "Penny Arcade",
+            "url": "https://www.penny-arcade.com/feed"
+        },
+        {
+            "name": "PostSecret",
+            "url": "https://postsecret.com/feed/?alt=rss"
+        },
+        {
+            "name": "Saturday Morning Breakfast Cereal",
+            "url": "https://www.smbc-comics.com/comic/rss"
+        },
+        {
+            "name": "The Bloggess",
+            "url": "https://thebloggess.com/feed/"
+        },
+        {
+            "name": "The Daily WTF",
+            "url": "http://syndication.thedailywtf.com/TheDailyWtf"
+        },
+        {
+            "name": "The Oatmeal - Comics by Matthew Inman",
+            "url": "http://feeds.feedburner.com/oatmealfeed"
+        },
+        {
+            "name": "The Onion",
+            "url": "https://www.theonion.com/rss"
+        },
+        {
+            "name": "xkcd.com",
+            "url": "https://xkcd.com/rss.xml"
+        }
+    ],
+    "gaming": [
+        {
+            "name": "Escapist Magazine",
+            "url": "https://www.escapistmagazine.com/v2/feed/"
+        },
+        {
+            "name": "Eurogamer.net",
+            "url": "https://www.eurogamer.net/?format=rss"
+        },
+        {
+            "name": "Gamasutra News",
+            "url": "http://feeds.feedburner.com/GamasutraNews"
+        },
+        {
+            "name": "GameSpot - All Content",
+            "url": "https://www.gamespot.com/feeds/mashup/"
+        },
+        {
+            "name": "IGN All",
+            "url": "http://feeds.ign.com/ign/all"
+        },
+        {
+            "name": "Indie Games Plus",
+            "url": "https://indiegamesplus.com/feed"
+        },
+        {
+            "name": "Kotaku",
+            "url": "https://kotaku.com/rss"
+        },
+        {
+            "name": "Makeup and Beauty Blog | Makeup Reviews, Swatches and How-To Makeup",
+            "url": "https://www.makeupandbeautyblog.com/feed/"
+        },
+        {
+            "name": "PlayStation.Blog",
+            "url": "http://feeds.feedburner.com/psblog"
+        },
+        {
+            "name": "Polygon -  All",
+            "url": "https://www.polygon.com/rss/index.xml"
+        },
+        {
+            "name": "Rock, Paper, Shotgun",
+            "url": "http://feeds.feedburner.com/RockPaperShotgun"
+        },
+        {
+            "name": "Steam RSS News Feed",
+            "url": "https://store.steampowered.com/feeds/news.xml"
+        },
+        {
+            "name": "The Ancient Gaming Noob",
+            "url": "http://feeds.feedburner.com/TheAncientGamingNoob"
+        },
+        {
+            "name": "TouchArcade - iPhone, iPad, Android Games Forum",
+            "url": "https://toucharcade.com/community/forums/-/index.rss"
+        },
+        {
+            "name": "Xbox's Major Nelson",
+            "url": "https://majornelson.com/feed/"
+        },
+        {
+            "name": "r/gaming",
+            "url": "https://www.reddit.com/r/gaming.rss"
+        }
+    ],
+    "history": [
+        {
+            "name": "30 For 30 Podcasts",
+            "url": "https://feeds.megaphone.fm/ESP5765452710"
+        },
+        {
+            "name": "Blog Feed",
+            "url": "https://americanhistory.si.edu/blog/feed"
+        },
+        {
+            "name": "Dan Carlin's Hardcore History",
+            "url": "https://feeds.feedburner.com/dancarlin/history?format=xml"
+        },
+        {
+            "name": "History in 28-minutes",
+            "url": "https://www.historyisnowmagazine.com/blog?format=RSS"
+        },
+        {
+            "name": "HistoryNet",
+            "url": "http://www.historynet.com/feed"
+        },
+        {
+            "name": "Lore",
+            "url": "https://feeds.megaphone.fm/lore"
+        },
+        {
+            "name": "Revisionist History",
+            "url": "https://feeds.megaphone.fm/revisionisthistory"
+        },
+        {
+            "name": "The History Reader",
+            "url": "https://www.thehistoryreader.com/feed/"
+        },
+        {
+            "name": "Throughline",
+            "url": "https://feeds.npr.org/510333/podcast.xml"
+        },
+        {
+            "name": "You Must Remember This",
+            "url": "https://feeds.megaphone.fm/YMRT7068253588"
+        },
+        {
+            "name": "the memory palace",
+            "url": "http://feeds.thememorypalace.us/thememorypalace"
+        }
+    ],
+    "World News": [
+        {
+            "name": "BBC News - World",
+            "url": "http://feeds.bbci.co.uk/news/world/rss.xml"
+        },
+        {
+            "name": "CNN.com",
+            "url": "http://rss.cnn.com/rss/edition_world.rss"
+        },
+        {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/id/100727362/device/rss/rss.html"
+        },
+        {
+            "name": "NDTV News - World-news",
+            "url": "http://feeds.feedburner.com/ndtvnews-world-news"
+        },
+        {
+            "name": "NYT",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml"
+        },
+        {
+            "name": "Google News",
+            "url": "https://news.google.com/rss"
+        },
+        {
+            "name": "WashingtonPost",
+            "url": "http://feeds.washingtonpost.com/rss/world"
+        },
+        {
+            "name": "World News",
+            "url": "https://www.reddit.com/r/worldnews/.rss"
+        },
+        {
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms"
+        },
+        {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/rss"
+        },
+        {
+            "name": "Yahoo News - Latest News & Headlines",
+            "url": "https://www.yahoo.com/news/rss"
+        }
+    ],
+    "India": [
+        {
+            "name": "BBC News - India",
+            "url": "http://feeds.bbci.co.uk/news/world/asia/india/rss.xml"
+        },
+        {
+            "name": "India | The Guardian",
+            "url": "https://www.theguardian.com/world/india/rss"
+        },
+        {
+            "name": "SEBI RSS Feed",
+            "url": "https://www.sebi.gov.in/sebirss.xml"
+        },
+        {
+            "name": "Times of India",
+            "url": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms"
+        },
+        {
+            "name": "The Hindu",
+            "url": "https://www.thehindu.com/feeder/default.rss"
+        },
+        {
+            "name": "NDTV News",
+            "url": "https://feeds.feedburner.com/ndtvnews-top-stories"
+        },
+        {
+            "name": "India Today",
+            "url": "https://www.indiatoday.in/rss/home"
+        },
+        {
+            "name": "The Indian Express",
+            "url": "http://indianexpress.com/print/front-page/feed/"
+        },
+        {
+            "name": "News18.com",
+            "url": "https://www.news18.com/rss/world.xml"
+        },
+        {
+            "name": "DNA India",
+            "url": "https://www.dnaindia.com/feeds/india.xml"
+        },
+        {
+            "name": "Firstpost India Latest News",
+            "url": "https://www.firstpost.com/rss/india.xml"
+        },
+        {
+            "name": "Business Standard",
+            "url": "https://www.business-standard.com/rss/home_page_top_stories.rss"
+        },
+        {
+            "name": "Outlook India",
+            "url": "https://www.outlookindia.com/rss/main/magazine"
+        },
+        {
+            "name": "Free Press Journal",
+            "url": "https://www.freepressjournal.in/stories.rss"
+        },
+        {
+            "name": "Deccan Chronicle - Latest India news | Breaking news | Hyderabad News | World news | Business news | Politics | Technology news",
+            "url": "https://www.deccanchronicle.com/rss_feed/"
+        },
+        {
+            "name": "Moneycontrol Latest News",
+            "url": "http://www.moneycontrol.com/rss/latestnews.xml"
+        },
+        {
+            "name": "Economic Times",
+            "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms"
+        },
+        {
+            "name": "News, Latest News, Today's News Headlines, Breaking News, LIVE News - Oneindia",
+            "url": "https://www.oneindia.com/rss/news-fb.xml"
+        },
+        {
+            "name": "Scroll.in",
+            "url": "http://feeds.feedburner.com/ScrollinArticles.rss"
+        },
+        {
+            "name": "The Financial Express",
+            "url": "https://www.financialexpress.com/feed/"
+        },
+        {
+            "name": "Business Line - Home",
+            "url": "https://www.thehindubusinessline.com/feeder/default.rss"
+        },
+        {
+            "name": "TechGenyz",
+            "url": "http://feeds.feedburner.com/techgenyz"
+        },
+        {
+            "name": "Top Stories News - Gujarat Samachar : World's Leading Gujarati Newspaper",
+            "url": "https://www.gujaratsamachar.com/rss/top-stories"
+        },
+        {
+            "name": "Marathi News: मराठी बातम्या,  Latest News in Marathi, Breaking Marathi News, Marathi News Paper | Maharashtra Times",
+            "url": "https://maharashtratimes.com/rssfeedsdefault.cms"
+        },
+        {
+            "name": "Loksattaदेश-विदेश &#8211; Loksatta",
+            "url": "https://www.loksatta.com/desh-videsh/feed/"
+        },
+        {
+            "name": "Latest News program News18 Lokmat",
+            "url": "https://lokmat.news18.com/rss/program.xml"
+        },
+        {
+            "name": "OpIndia",
+            "url": "https://feeds.feedburner.com/opindia"
+        },
+        {
+            "name": "ThePrint",
+            "url": "https://theprint.in/feed/"
+        },
+        {
+            "name": "Swarajya",
+            "url": "https://prod-qt-images.s3.amazonaws.com/production/swarajya/feed.xml"
+        },
+        {
+            "name": "Latest And Breaking Hindi News Headlines, News In Hindi | अमर उजाला हिंदी न्यूज़ | - Amar Ujala",
+            "url": "https://www.amarujala.com/rss/breaking-news.xml"
+        },
+        {
+            "name": "Navbharat Times",
+            "url": "https://navbharattimes.indiatimes.com/rssfeedsdefault.cms"
+        },
+        {
+            "name": "Patrika : India's Leading Hindi News Portal",
+            "url": "http://api.patrika.com/rss/india-news"
+        },
+        {
+            "name": "JansattaJansatta",
+            "url": "https://www.jansatta.com/feed/"
+        },
+        {
+            "name": "Live Hindustan Rss feed",
+            "url": "https://feed.livehindustan.com/rss/3127"
+        },
+        {
+            "name": "देश | दैनिक भास्कर",
+            "url": "https://www.bhaskar.com/rss-feed/1061/"
+        },
+        {
+            "name": "ઈન્ડિયા | દિવ્ય ભાસ્કર",
+            "url": "https://www.divyabhaskar.co.in/rss-feed/1037/"
+        }
+    ],
+    "Malayalam": [
+        {
+            "name": "Asianet News",
+            "url": "https://www.asianetnews.com/rss"
+        },
+        {
+            "name": "Mathrubhumi News",
+            "url": "https://sitemap.mpp.atexcloud.io/sitemaps/rss"
+        },
+        {
+            "name": "News18",
+            "url": "https://malayalam.news18.com/commonfeeds/v1/mal/rss/kerala.xml"
+        },
+        {
+            "name": "News18 - Movies",
+            "url": "https://malayalam.news18.com/commonfeeds/v1/mal/rss/film/movies.xml"
+        },
+        {
+            "name": "On Manorama",
+            "url": "https://www.onmanorama.com/kerala.feeds.onmrss.xml"
+        },
+        {
+            "name": "One India - News",
+            "url": "https://malayalam.oneindia.com/rss/feeds/malayalam-news-fb.xml"
+        },
+        {
+            "name": "One India - Travel",
+            "url": "https://malayalam.oneindia.com/rss/feeds/malayalam-travel-fb.xml"
+        },
+        {
+            "name": "Gizbot",
+            "url": "https://malayalam.gizbot.com/rss/feeds/gizbot-malayalam-fb.xml"
+        },
+        {
+            "name": "Filmibeat",
+            "url": "https://malayalam.filmibeat.com/rss/feeds/filmibeat-malayalam-fb.xml"
+        },
+        {
+            "name": "Filmibeat",
+            "url": "https://malayalam.filmibeat.com/rss/feeds/filmibeat-malayalam-fb.xml"
+        },
+        {
+            "name": "Filmibeat Bollywood",
+            "url": "https://malayalam.filmibeat.com/rss/feeds/malayalam-bollywood-fb.xml"
+        },
+        {
+            "name": "Ezhuthkuth",
+            "url": "https://www.ezhuthkuth.in/feed/"
+        },
+        {
+            "name": "HistoricAlleys",
+            "url": "https://historicalleys.blogspot.com/feeds/posts/default"
+        },
+        {
+            "name": "Alablog",
+            "url": "https://alablog.in/feed/"
+        }
+    ]
+}
