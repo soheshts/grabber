@@ -1,8 +1,36 @@
 {
   "category": "DIY",
-  "updated": "2026-10-25T15:03:45.047090+00:00",
-  "count": 62,
+  "updated": "2026-10-25T15:33:28.989607+00:00",
+  "count": 64,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/windows-services-hogging-cpu/",
+      "title": "These hidden Windows services are hogging your CPU (and how to shut them down)",
+      "published": "2026-10-25T15:30:19+00:00",
+      "author": "Yadullah Abidi",
+      "description": "Time to give your CPU some breathing room.",
+      "link": "https://www.makeuseof.com/windows-services-hogging-cpu/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/12/backlit-keyboard-on-a-lenovo-legion-laptop-with-error-and-windows-icon.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/a-cheap-office-pc-can-run-your-homelab-but-check-these-things-first/",
+      "title": "A $50 office PC can run your homelab, but check these 5 things first",
+      "published": "2026-10-25T15:30:18+00:00",
+      "author": "Ismar Hrnjicevic",
+      "description": "A $50 office PC could power your homelab for years, or be e-waste from day one.",
+      "link": "https://www.howtogeek.com/a-cheap-office-pc-can-run-your-homelab-but-check-these-things-first/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/06/dell-optiplex-960-desktop-back-view-ports-power-button.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/new-netflix-horror-shows-arriving-right-on-time-for-halloween/",
       "title": "These 4 new Netflix horror shows are arriving on Netflix right on time for Halloween",
