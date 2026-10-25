@@ -1,8 +1,36 @@
 {
   "category": "DIY",
-  "updated": "2026-10-25T20:32:59.981293+00:00",
-  "count": 88,
+  "updated": "2026-10-25T21:03:38.202969+00:00",
+  "count": 90,
   "items": [
+    {
+      "id": "https://www.howtogeek.com/why-im-learning-to-program-in-vim-instead-of-vs-code/",
+      "title": "Why I'm learning to program in Vim instead of VS Code",
+      "published": "2026-10-25T21:00:17+00:00",
+      "author": "Zunaid Ali",
+      "description": "A rough start, now turned into satisfying coding sessions.",
+      "link": "https://www.howtogeek.com/why-im-learning-to-program-in-vim-instead-of-vs-code/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/python-code-in-vim.png",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.makeuseof.com/always-enable-these-pixel-features/",
+      "title": "I love my new Pixel, but I don't get why these features are off by default",
+      "published": "2026-10-25T21:00:17+00:00",
+      "author": "Pankil Shah",
+      "description": "I'm surprised Google keeps these disabled.",
+      "link": "https://www.makeuseof.com/always-enable-these-pixel-features/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/09/google-pixel-11-sitting-face-down-on-a-wooden-panel.png",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/httpsmeetgooglecomjke-tbqi-iod/",
       "title": "I tested every Wi-Fi adapter setting in Device Manager during real video calls, and only 3 made a difference",
