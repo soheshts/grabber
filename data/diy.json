@@ -1,8 +1,50 @@
 {
   "category": "DIY",
-  "updated": "2026-10-25T17:03:43.204873+00:00",
-  "count": 70,
+  "updated": "2026-10-25T17:32:12.215610+00:00",
+  "count": 73,
   "items": [
+    {
+      "id": "https://www.howtogeek.com/microsoft-excel-name-tables-create-table-dialog/",
+      "title": "I've always recommended naming Excel tables, and Microsoft just removed the annoying part",
+      "published": "2026-10-25T17:31:17+00:00",
+      "author": "Tony Phillips",
+      "description": "Two decades after Excel introduced tables, Microsoft has finally made naming them less of a chore.",
+      "link": "https://www.howtogeek.com/microsoft-excel-name-tables-create-table-dialog/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/excel-laptop-screen-insert-tab-table-button.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.makeuseof.com/proper-inventory-every-tool-battery-accessory-i-own/",
+      "title": "I finally have a proper inventory of every tool, battery, and accessory I own",
+      "published": "2026-10-25T17:30:17+00:00",
+      "author": "Jonathon Jachura",
+      "description": "Here's how I keep track of my tool inventory the old school way and the modern method I'll start soon.",
+      "link": "https://www.makeuseof.com/proper-inventory-every-tool-battery-accessory-i-own/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/homebox-on-ipad-pro-1.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://hackaday.com/?p=1354528",
+      "title": "Mesh Network Telephony Over Bluetooth on Android Phones",
+      "published": "2026-10-25T17:00:31+00:00",
+      "author": "Tyler August",
+      "description": "Telephony is a bit of a mixed bag. On the one hand, being able to talk to people in far off places is kind of neat, at least in theory. …read more",
+      "link": "https://hackaday.com/2026/10/25/mesh-network-telephony-over-bluetooth-on-android-phones/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/10/MeshLive-screenshot.png",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/this-os-isnt-linux-isnt-windows-and-it-runs-on-any-pc-you-have-lying-around/",
       "title": "This OS isn't Linux, isn't Windows, it runs on any PC you have lying around, and I used it for a month",
