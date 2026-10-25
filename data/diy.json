@@ -1,8 +1,36 @@
 {
   "category": "DIY",
-  "updated": "2026-10-25T17:32:12.215610+00:00",
-  "count": 73,
+  "updated": "2026-10-25T18:02:21.706609+00:00",
+  "count": 75,
   "items": [
+    {
+      "id": "https://www.howtogeek.com/moonfin-jellyfin-client-made-for-homelabbers/",
+      "title": "Moonfin is the only Jellyfin client that feels like it's actually made for homelabbers",
+      "published": "2026-10-25T18:00:17+00:00",
+      "author": "Adam Davidson",
+      "description": "I don't think you're ready for this Jellyfin client.",
+      "link": "https://www.howtogeek.com/moonfin-jellyfin-client-made-for-homelabbers/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/iphone-on-a-wooden-table-showing-the-moonfin-home-screen-with-my-media-collections-and-games-libraries-plus-continue-watching-and-next-up.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.makeuseof.com/i-almost-bought-a-macbook-neo-until-i-saw-what-600-buys-used/",
+      "title": "I almost bought a MacBook Neo until I saw what $600 buys used",
+      "published": "2026-10-25T18:00:17+00:00",
+      "author": "Dipan Saha",
+      "description": "There's far better deals in the used marketplace.",
+      "link": "https://www.makeuseof.com/i-almost-bought-a-macbook-neo-until-i-saw-what-600-buys-used/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/laptop-dell-latitude-7320-cover.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/microsoft-excel-name-tables-create-table-dialog/",
       "title": "I've always recommended naming Excel tables, and Microsoft just removed the annoying part",
