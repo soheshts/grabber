@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-10-25T19:03:41.569814+00:00",
-  "count": 410,
+  "updated": "2026-10-25T19:33:22.897503+00:00",
+  "count": 412,
   "items": [
     {
       "id": "https://jeffbridgforth.com/?p=12670",
@@ -114,6 +114,20 @@
       "category": "personal blogs",
       "feed_url": "https://hamatti.org/feed/feed.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=hamatti.org&sz=64"
+    },
+    {
+      "id": "https://mattstromawn.com/writing/code-review-was-never-about-the-code/",
+      "title": "Code review was never about the code",
+      "published": "2026-10-25T00:00:00+00:00",
+      "author": "Matt Ström-Awn (matthew.h.strom@gmail.com)",
+      "description": "If you work in software (as a designer, developer, PM, or any adjacent role), you’re probably aware of just how much AI has changed the way code is created. And if you’re an engineer, you’re definitely feeling the downstream impacts of AI’s speed. Way, way more code is being written. But the way we review code hasn’t changed that much. But if you’re not familiar, code review is a step in the software development process where developers look at code before it gets shipped. It’s been a cornersto…",
+      "link": "https://mattstromawn.com/writing/code-review-was-never-about-the-code/",
+      "image": "https://mattstromawn.com/images/og/og-94df2567aa-1200.jpeg",
+      "feed_name": "The personal website of Matthew Ström",
+      "feed_title": "The personal website of Matt Ström-Awn",
+      "category": "personal blogs",
+      "feed_url": "https://matthewstrom.com/feed.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mattstromawn.com&sz=64"
     },
     {
       "id": "https://ronaldsvilcins.com/2026/10/25/what-the-browser-already-does-without-a-framework/",
@@ -1716,7 +1730,7 @@
       "title": "Why 100vh Doesn’t Always Fit a Mobile Screen",
       "published": "2026-10-15T21:00:00+00:00",
       "author": "Ronalds Vilciņš",
-      "description": "Choose svh, lvh, dvh, or a flexible min-height when mobile browser controls make 100vh an awkward fit.",
+      "description": "Why 100vh can exceed the visible mobile screen. Choose svh, lvh, or dvh, let content grow, and put older Safari workarounds in their historical context.",
       "link": "https://ronaldsvilcins.com/2026/10/16/why-100vh-doesnt-always-fit-a-mobile-screen/",
       "image": null,
       "feed_name": "Ronalds Vilciņš",
@@ -3740,6 +3754,20 @@
       "category": "personal blogs",
       "feed_url": "http://mattgemmell.com/atom.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=mattgemmell.scot&sz=64"
+    },
+    {
+      "id": "https://ronaldsvilcins.com/2026/10/05/how-much-javascript-does-a-website-really-need/",
+      "title": "How Much JavaScript Does a Website Really Need?",
+      "published": "2026-10-04T21:00:00+00:00",
+      "author": "Ronalds Vilciņš",
+      "description": "Start with the page's job, use the browser's native features, and add JavaScript only where its behaviour justifies the cost.",
+      "link": "https://ronaldsvilcins.com/2026/10/05/how-much-javascript-does-a-website-really-need/",
+      "image": "https://ronaldsvilcins.com/og.png",
+      "feed_name": "Ronalds Vilciņš",
+      "feed_title": "Ronalds Vilciņš",
+      "category": "personal blogs",
+      "feed_url": "https://ronaldsvilcins.com/atom.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=ronaldsvilcins.com&sz=64"
     },
     {
       "id": "https://rknight.me/blog/kodak-charmera-review/",
