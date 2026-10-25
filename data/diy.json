@@ -1,8 +1,50 @@
 {
   "category": "DIY",
-  "updated": "2026-10-25T21:33:26.544890+00:00",
-  "count": 91,
+  "updated": "2026-10-25T22:03:44.397392+00:00",
+  "count": 94,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/turn-off-android-setting-stop-losing-battery-overnight/",
+      "title": "Turn off this one Android setting to stop your battery draining overnight",
+      "published": "2026-10-25T22:00:18+00:00",
+      "author": "Digvijay Kumar",
+      "description": "A default setting wakes your phone dozens of times every night.",
+      "link": "https://www.makeuseof.com/turn-off-android-setting-stop-losing-battery-overnight/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/phone-displaying-android-battery-level-graph.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/netflix-movies-thrillers-watch-this-week-october-26/",
+      "title": "3 exciting Netflix thrillers to watch this week (October 26-November 1)",
+      "published": "2026-10-25T22:00:17+00:00",
+      "author": "Dan Girolamo",
+      "description": "Thrillers involving a rowdy bear and an unforgettable dinner are some of our picks to watch.",
+      "link": "https://www.howtogeek.com/netflix-movies-thrillers-watch-this-week-october-26/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/netflix-n-logo-over-a-blurred-mountain-landscape.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.makeuseof.com/apple-iphone-duo-ifixit-teardown/",
+      "title": "The iPhone Duo might be easy to break, but this teardown reveals how easy it is to fix",
+      "published": "2026-10-25T21:45:17+00:00",
+      "author": "Brady Snyder",
+      "description": "iFixit took apart Apple's first foldable.",
+      "link": "https://www.makeuseof.com/apple-iphone-duo-ifixit-teardown/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/iphone-duo-1.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/usb-a-is-30-years-old-but-it-still-does-these-x-things-better-than-usb-c/",
       "title": "USB-A is 30 years old, but it still does these 6 things better than USB-C",
