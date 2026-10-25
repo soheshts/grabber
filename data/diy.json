@@ -1,8 +1,50 @@
 {
   "category": "DIY",
-  "updated": "2026-10-25T15:33:28.989607+00:00",
-  "count": 64,
+  "updated": "2026-10-25T16:03:36.181420+00:00",
+  "count": 67,
   "items": [
+    {
+      "id": "https://www.howtogeek.com/right-way-weatherproof-3d-prints-without-using-sealant-epoxy/",
+      "title": "This is the right way to weatherproof your 3D prints without using sealant or epoxy",
+      "published": "2026-10-25T16:00:17+00:00",
+      "author": "Tim Brookes",
+      "description": "Stop \"fixing\" your 3D prints and get them right from the start.",
+      "link": "https://www.howtogeek.com/right-way-weatherproof-3d-prints-without-using-sealant-epoxy/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/02/multiple-colorful-spools-of-3d-printer-filament-loaded-inside-a-bambu-lab-ams-unit.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.makeuseof.com/windows-optimize-drives-secret-ssd-feature/",
+      "title": "The Windows tool you're told never to use on SSDs has a secret",
+      "published": "2026-10-25T16:00:17+00:00",
+      "author": "Oluwademilade Afolabi",
+      "description": "That ‘Optimize’ button isn’t plotting an early funeral for your SSD.",
+      "link": "https://www.makeuseof.com/windows-optimize-drives-secret-ssd-feature/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/defragment-and-optimize-drives-appearing-in-windows-11-search.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.makeuseof.com/i-found-out-how-to-beat-vpn-renewal-prices-and-all-it-took-was-one-huge-bill-in-my-inbox/",
+      "title": "I found out how to beat VPN renewal prices, and all it took was one huge bill in my inbox",
+      "published": "2026-10-25T15:45:19+00:00",
+      "author": "Afam Onyimadu",
+      "description": "Buying a second term early can cost far less than renewing.",
+      "link": "https://www.makeuseof.com/i-found-out-how-to-beat-vpn-renewal-prices-and-all-it-took-was-one-huge-bill-in-my-inbox/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2026/10/nordvpn-subscription-checkout-on-laptop-screen.png",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/windows-services-hogging-cpu/",
       "title": "These hidden Windows services are hogging your CPU (and how to shut them down)",
