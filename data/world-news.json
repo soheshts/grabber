@@ -1,8 +1,64 @@
 {
   "category": "World News",
-  "updated": "2026-10-25T18:02:21.706609+00:00",
-  "count": 216,
+  "updated": "2026-10-25T18:32:22.025025+00:00",
+  "count": 219,
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo#0",
+      "title": "Venezuelan opposition leader María Machado returns after months in exile",
+      "published": "2026-10-25T18:29:00+00:00",
+      "author": null,
+      "description": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
+      "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/116f/live/8cce05e0-d096-11f1-b441-2b33b063138f.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://www.nytimes.com/live/2026/10/25/world/brazil-election/heres-the-latest",
+      "title": "Here’s the latest.",
+      "published": "2026-10-25T18:27:24+00:00",
+      "author": "Adam B. Ellick and Ana Ionova",
+      "description": "",
+      "link": "https://www.nytimes.com/live/2026/10/25/world/brazil-election/heres-the-latest",
+      "image": null,
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "108459891",
+      "title": "Ukraine disputes Elon Musk’s claim that its military violated Starlink terms during drone operations",
+      "published": "2026-10-25T18:18:49+00:00",
+      "author": null,
+      "description": "Ukraine challenged Musk’s claim that its military violated Starlink terms, arguing that commercial Starlink limits prevented medium- and long-range strike use.",
+      "link": "https://www.cnbc.com/2026/10/25/ukraine-musk-starlink-terms-dispute.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108460168-1792949428800-gettyimages-2300466871-ukrinform-ukrainia261016_np2tc.jpeg?v=1792950298&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/us/an-80-ton-boulder-that-had-hung-above-visitors-at-new-hampshires-polar-caves-since-the-park-opened-in-1922-collapsed-on-the-final-day-of-the-2026-season-smashing-a-walkway-but-injuring-no-one/articleshow/135195138.cms",
+      "title": "80-ton boulder collapses at park after 104 years, smashing a walkway but injuring no one",
+      "published": "2026-10-25T17:58:41+00:00",
+      "author": "TOI World Desk",
+      "description": "In a surprising turn of events on October 18, 2026, an 80-ton granite boulder collapsed at Polar Caves Park in Rumney, New Hampshire, smashing a wooden walkway and its safety rails. Fortunately, this incident resulted in no injuries. The boulder's fall is likely due to weather-related erosion. Park authorities are now assessing the situation and implementing repair plans to allow for a safe return of visitors in spring 2027.",
+      "link": "https://timesofindia.indiatimes.com/world/us/an-80-ton-boulder-that-had-hung-above-visitors-at-new-hampshires-polar-caves-since-the-park-opened-in-1922-collapsed-on-the-final-day-of-the-2026-season-smashing-a-walkway-but-injuring-no-one/articleshow/135195138.cms",
+      "image": "https://static.toiimg.com/photo/msid-135196127,imgsize-1319411.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
     {
       "id": "https://www.nytimes.com/2026/10/25/world/europe/france-protests-macron-lepen.html",
       "title": "A Day After Renewed Street Clashes in France, Relief and Anxiety Mix",
@@ -30,6 +86,20 @@
       "category": "World News",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/israel-is-in-danger-netanyahu-shares-ai-image-of-nuclear-blast-in-tel-aviv-12234292#publisher=newsstand",
+      "title": "'Israel Is In Danger': Netanyahu Shares AI Image Of Nuclear Blast In Tel Aviv",
+      "published": "2026-10-25T17:24:08+00:00",
+      "author": null,
+      "description": "Netanahu's post soon faced sharp criticism from his opponents.",
+      "link": "https://www.ndtv.com/world-news/israel-is-in-danger-netanyahu-shares-ai-image-of-nuclear-blast-in-tel-aviv-12234292#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-10/6m16nlfc_netanyahu_625x300_25_October_26.jpeg",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
       "id": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return",
@@ -86,20 +156,6 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo#0",
-      "title": "Venezuelan opposition leader María Machado returns after months in exile",
-      "published": "2026-10-25T16:21:40+00:00",
-      "author": null,
-      "description": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
-      "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/116f/live/8cce05e0-d096-11f1-b441-2b33b063138f.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "CBMiW0FVX3lxTE9xR2Z4WDJTQ2l5Q2steHAxSU9hZmVsVHFQZEljR0c0ajlIRWZVS2E0QmxRb0tCRF84TWdHLXJTRWRfOEt5V1pQVkdvRGpnWTNPYmdBTHhmS1BObFU",
@@ -240,20 +296,6 @@
       "category": "World News",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/israel-is-in-danger-netanyahu-shares-ai-image-of-nuclear-blast-in-tel-aviv-12234292#publisher=newsstand",
-      "title": "Israel Is In Danger': Netanyahu Shares AI Image Of Nuclear Blast In Tel Aviv",
-      "published": "2026-10-25T15:49:45+00:00",
-      "author": null,
-      "description": "Netanahu's post soon faced sharp criticism from his opponents.",
-      "link": "https://www.ndtv.com/world-news/israel-is-in-danger-netanyahu-shares-ai-image-of-nuclear-blast-in-tel-aviv-12234292#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-10/6m16nlfc_netanyahu_625x300_25_October_26.jpeg",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
       "id": "CBMigAFBVV95cUxOeGFIUFc2c0FGcEluOW9wRXpla0F4cjRsYzlGeFExcEFuTkFSLTlVUGlGRWV0amszNEkzMDhjanRoSHJlQVltenBzQzRKRVdKbm1UY3NvQVNxaUFNYTJuQUJLdHRLQllTc1dSenZSSXE2dGhGSTV3NDdSdHBhYkhwMA",
@@ -622,7 +664,7 @@
     {
       "id": "https://www.nytimes.com/2026/10/25/world/americas/brazil-election-lula-bolsonaro-what-to-know.html",
       "title": "What to Know About Brazil’s Election as Bolsonaro Faces Off With Lula",
-      "published": "2026-10-25T14:08:51+00:00",
+      "published": "2026-10-25T14:08:52+00:00",
       "author": "Ana Ionova",
       "description": "Luiz Inácio Lula da Silva, the leftist incumbent, and Flávio Bolsonaro, the right-wing challenger, face off in a narrow race that could redefine the future of Latin America.",
       "link": "https://www.nytimes.com/2026/10/25/world/americas/brazil-election-lula-bolsonaro-what-to-know.html",
