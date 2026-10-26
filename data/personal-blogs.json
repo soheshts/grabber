@@ -1,8 +1,22 @@
 {
   "category": "personal blogs",
-  "updated": "2026-10-26T15:33:30.802495+00:00",
-  "count": 419,
+  "updated": "2026-10-26T16:03:45.807617+00:00",
+  "count": 420,
   "items": [
+    {
+      "id": "https://daverupert.com/2026/10/arc-like-automatic-picture-in-picture-in-chromium/",
+      "title": "Arc-like automatic picture-in-picture in Chromium",
+      "published": "2026-10-26T15:31:00+00:00",
+      "author": null,
+      "description": "There’s a lot to miss about Arc (RIP), but the feature I miss the most has got to be automatic picture-in-picture. You start a video and when you change tabs to jump to another task, the video anchored itself to the corner of your desktop. Go back to the video tab and it slurps up into the video player area. A perfect experience with no interruption. I switched back to Edge (for work) and missed Auto-PiP a lot. I tried building a custom browser extension to restore the functionality myself but…",
+      "link": "https://daverupert.com/2026/10/arc-like-automatic-picture-in-picture-in-chromium/",
+      "image": null,
+      "feed_name": "Dave Rupert",
+      "feed_title": "daverupert.com",
+      "category": "personal blogs",
+      "feed_url": "https://daverupert.com/atom.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=daverupert.com&sz=64"
+    },
     {
       "id": "https://www.lukew.com/ff/entry.asp?2169",
       "title": "Technology Limits are Temporary",
