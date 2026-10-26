@@ -1,8 +1,78 @@
 {
   "category": "technology",
-  "updated": "2026-10-26T14:33:17.055764+00:00",
-  "count": 378,
+  "updated": "2026-10-26T15:02:34.811245+00:00",
+  "count": 398,
   "items": [
+    {
+      "id": "https://blog.google/company-news/outreach-and-initiatives/sustainability/sub-saharan-africa-ignite/",
+      "title": "Powering sub-Saharan Africa beyond the grid",
+      "published": "2026-10-26T15:00:00+00:00",
+      "author": "Irwin Boutboul, Yasha Wallin",
+      "description": "A person holding up a solar panel",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/sustainability/sub-saharan-africa-ignite/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ignite_hero.max-600x600.format-webp.webp",
+      "feed_name": "The Keyword",
+      "feed_title": "News from Google",
+      "category": "technology",
+      "feed_url": "https://www.blog.google/rss/",
+      "feed_icon": "https://blog.google/static/blogv2/images/google.png"
+    },
+    {
+      "id": "https://www.engadget.com/2294298/foldable-electric-bike-downsides/",
+      "title": "What are the downsides of a foldable electric bike?",
+      "published": "2026-10-26T14:45:00+00:00",
+      "author": "Jack Whitcombe",
+      "description": "The foldable form factor comes with some trade-offs.",
+      "link": "https://www.engadget.com/2294298/foldable-electric-bike-downsides/",
+      "image": "https://www.engadget.com/img/gallery/what-are-the-downsides-of-a-foldable-electric-bike/l-intro-1791999912.jpg",
+      "feed_name": "Engadget",
+      "feed_title": "Engadget - Technology News & Expert Reviews",
+      "category": "technology",
+      "feed_url": "https://www.engadget.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
+    {
+      "id": "TheNextWeb=6fc2c6c74f8cde43fc30d378e0aa502b",
+      "title": "EU accepts Temu’s plan to curb illegal products after €200M fine",
+      "published": "2026-10-26T14:42:35+00:00",
+      "author": "Ana-Maria Stanciuc",
+      "description": "The European Commission has accepted Temu’s plan to improve its compliance with the Digital Services Act (DSA), five months after fining the online marketplace €200 million over its failure to properly assess the risk of illegal products on its platform. The Commission announced the decision today, as Temu’s plan sets out five areas of work, including […] This story continues at The Next Web",
+      "link": "https://thenextweb.com/news/eu-accepts-temus-plan-to-curb-illegal-products-after-e200m-fine",
+      "image": "https://media.thenextweb.com/2026/10/woman-speaking-european-commission-podium.avif",
+      "feed_name": "The Next Web",
+      "feed_title": "The Next Web",
+      "category": "technology",
+      "feed_url": "https://thenextweb.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
+    {
+      "id": "https://www.theverge.com/?p=1018528",
+      "title": "Remarkable’s refurbished Paper Pro Move bundle is over $100 off",
+      "published": "2026-10-26T14:41:43+00:00",
+      "author": "Cameron Faulkner",
+      "description": "The Remarkable Paper Pro Move is essentially a digital notepad, with a skinny 7.3-inch E Ink screen that’s easy to hold one-handed to jot down notes or ideas. At $449 new, it’s not exactly cheap, but buying refurbished is a way to save, as always. Remarkable itself offers the refurbished Paper Pro Move for that […]",
+      "link": "https://www.theverge.com/gadgets/1018528/remarkable-paper-pro-move-nintendo-switch-2-fujifilm-deal-sale",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/remarkabledeal.png?quality=90&strip=all&crop=0,0,100,100",
+      "feed_name": "The Verge -  All Posts",
+      "feed_title": "The Verge",
+      "category": "technology",
+      "feed_url": "https://www.theverge.com/rss/index.xml",
+      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
+    },
+    {
+      "id": "TheNextWeb=6bc44bf736056fecfd958fec6893cc83",
+      "title": "Anthropic files for Nasdaq IPO as half-year revenue hits $16.3bn",
+      "published": "2026-10-26T14:38:05+00:00",
+      "author": "Cristian Dina",
+      "description": "Anthropic made its prospectus public on Monday. It filed a registration statement on Form S-1 with the US Securities and Exchange Commission. The company plans to list its Class A shares under the ticker ANT. The filing leaves the price range and the number of shares blank. Goldman Sachs and Morgan Stanley lead a group […] This story continues at The Next Web",
+      "link": "https://thenextweb.com/news/anthropic-ipo-filing-nasdaq-ant-s-1",
+      "image": "https://media.thenextweb.com/2026/10/dario-amodei-anthropic-logo-phone-screen.avif",
+      "feed_name": "The Next Web",
+      "feed_title": "The Next Web",
+      "category": "technology",
+      "feed_url": "https://thenextweb.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
     {
       "id": "5114312",
       "title": "As iPhone Duo Cracked Screen Reports Surface, a New Teardown Shows a Possible Culprit",
@@ -108,7 +178,7 @@
       "author": "Jackson Chen",
       "description": "The company may be valued as high as $2 trillion.",
       "link": "https://www.engadget.com/2296724/anthropic-files-to-go-public/",
-      "image": "https://www.engadget.com/img/gallery/anthropic-has-filed-to-go-public/l-intro-1793021975.jpg",
+      "image": "https://www.engadget.com/img/gallery/anthropic-files-to-go-public/l-intro-1793025062.jpg",
       "feed_name": "Engadget",
       "feed_title": "Engadget - Technology News & Expert Reviews",
       "category": "technology",
@@ -520,6 +590,20 @@
       "category": "technology",
       "feed_url": "https://thenextweb.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
+    {
+      "id": "https://tech.slashdot.org/story/26/10/26/0540245/reddits-largest-open-source-community-dumbfounded-by-ai-ban-i-guess-linux-is-no-longer-allowed?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "title": "Reddit's Largest Open Source Community Dumbfounded By AI Ban: 'I Guess Linux Is No Longer Allowed?'",
+      "published": "2026-10-26T11:34:00+00:00",
+      "author": "EditorDavid",
+      "description": "Kotaku reports: r/opensource, Reddit's primary \"subreddit for everything open source related,\" has banned all AI-assisted and AI-related projects.... As reported by The Verge, the subreddit's October 24 post, titled \"Your tokens aren't valuable: No more AI,\" features four new main rules: all projects must now be at least \"1 year old,\" have \"multiple contributors,\" be posted by someone who must \"speak English,\" and cannot be \"made by\" or \"intended for\" AI... [T]he ban on AI is simple; as the sub…",
+      "link": "https://tech.slashdot.org/story/26/10/26/0540245/reddits-largest-open-source-community-dumbfounded-by-ai-ban-i-guess-linux-is-no-longer-allowed?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+      "feed_name": "Slashdot",
+      "feed_title": "Slashdot",
+      "category": "technology",
+      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
     },
     {
       "id": "07wBZND4sZQkWonbio6lTtG",
@@ -998,6 +1082,20 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
     },
     {
+      "id": "https://news.slashdot.org/story/26/10/26/054248/amazon-deforestation-fell-to-lowest-level-since-1988---and-silva-wins-reelection?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "title": "Amazon Deforestation Fell To Lowest Level Since 1988 - And Silva Wins Reelection",
+      "published": "2026-10-26T07:34:00+00:00",
+      "author": "EditorDavid",
+      "description": "Brazil's 80-year-old president Luiz Inácio Lula da Silva was re-elected Sunday, reports the Guardian, \"defeating his far-right opponent, Flávio Bolsonaro, to claim a historic fourth term in power.\" And the results could impact the climate, suggests the Associated Press, since under da Silva the annual deforestation rate in the Amazon fell to its lowest level since records began in 1988: Official satellite data showed the rainforest lost 3,335 square kilometers (1,300 square miles) from Aug. 202…",
+      "link": "https://news.slashdot.org/story/26/10/26/054248/amazon-deforestation-fell-to-lowest-level-since-1988---and-silva-wins-reelection?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+      "feed_name": "Slashdot",
+      "feed_title": "Slashdot",
+      "category": "technology",
+      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
+    },
+    {
       "id": "03X9k6NRBlDmYwnXqwSkF05",
       "title": "Hurdle hints and answers for October 26, 2026",
       "published": "2026-10-26T05:00:00+00:00",
@@ -1024,6 +1122,20 @@
       "category": "technology",
       "feed_url": "http://feeds.mashable.com/Mashable",
       "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
+    },
+    {
+      "id": "https://news.slashdot.org/story/26/10/26/0420240/microsoft-announces-open-source-tool-evaluating-your-softwares-optimization-for-ai-coding-agents?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "title": "Microsoft Announces Open Source Tool Evaluating Your Software's Optimization For AI Coding Agents",
+      "published": "2026-10-26T04:34:00+00:00",
+      "author": "EditorDavid",
+      "description": "The problem? Understanding how AI coding agents interact with the software you build. \"Whether you're maintaining an SDK, building a command-line interface, or publishing an MCP server or skills... you need to understand whether agents can discover and use what you ship, and what your team can change.\" Results can vary, and configurations keep changing, with behaviors influenced by everything from custom instructions and MCP servers to skills and plugins. So after a year of development Microsof…",
+      "link": "https://news.slashdot.org/story/26/10/26/0420240/microsoft-announces-open-source-tool-evaluating-your-softwares-optimization-for-ai-coding-agents?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+      "feed_name": "Slashdot",
+      "feed_title": "Slashdot",
+      "category": "technology",
+      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
     },
     {
       "id": "050VvDL2cFwkG4aYhtWZhOa",
@@ -1082,6 +1194,20 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
     },
     {
+      "id": "https://news.slashdot.org/story/26/10/26/0131241/25-of-incoming-pull-requests-may-be-ai-slop-finds-study-from-linux-foundation-research?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "title": "25% of Incoming Pull Requests May Be AI Slop, Finds Study From Linux Foundation Research",
+      "published": "2026-10-26T01:34:00+00:00",
+      "author": "EditorDavid",
+      "description": "\"59% of maintainers report growing contribution volume since the rise of GenAI,\" according to a new study published by Linux Foundation Research. But 25% of their incoming pull requests \"are estimated to be low-quality, also known as 'AI slop'.\" And on large projects, 69% see growing contributions — and estimate that 31% are low-quality/AI slop. So what do these results show us? \"Generative AI is fundamentally changing how people participate in open source,\" says the head of Open Source Ecosyst…",
+      "link": "https://news.slashdot.org/story/26/10/26/0131241/25-of-incoming-pull-requests-may-be-ai-slop-finds-study-from-linux-foundation-research?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+      "feed_name": "Slashdot",
+      "feed_title": "Slashdot",
+      "category": "technology",
+      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
+    },
+    {
       "id": "https://www.engadget.com/2294284/fitbit-air-vs-whoop-which-better-fitness-tracking-wearable-screen-less/",
       "title": "Fitbit Air vs. Whoop: Which screenless fitness tracker is better for you?",
       "published": "2026-10-26T00:30:00+00:00",
@@ -1094,6 +1220,20 @@
       "category": "technology",
       "feed_url": "https://www.engadget.com/rss.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
+    {
+      "id": "https://linux.slashdot.org/story/26/10/25/2227243/systemd-merges-support-for-rust-programs?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "title": "Systemd Merges Support for Rust Programs",
+      "published": "2026-10-26T00:08:00+00:00",
+      "author": "EditorDavid",
+      "description": "\"As of today in systemd Git it's now possible for the systemd programs to be written in the Rust programming language as an alternative to C,\" reports Phoronix: Core systemd code like the systemd library doesn't yet support Rust code, but for the various systemd programs / leaf components there is now support for using Rust... The new systemd-keyring-setup utility in Rust is used for provisioning keyrings and enrolling X.509 certificates into the kernel's dm-verity / fs-verity / BPF keyrings du…",
+      "link": "https://linux.slashdot.org/story/26/10/25/2227243/systemd-merges-support-for-rust-programs?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+      "feed_name": "Slashdot",
+      "feed_title": "Slashdot",
+      "category": "technology",
+      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
     },
     {
       "id": "https://www.engadget.com/2294283/ethernet-cables-use-outside-explained/",
@@ -1150,6 +1290,20 @@
       "category": "technology",
       "feed_url": "https://www.engadget.com/rss.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
+    {
+      "id": "https://news.slashdot.org/story/26/10/25/235241/ai-use-convinces-california-math-professor-theres-no-point-grading-homework?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "title": "AI Use Convinces California Math Professor There's 'No Point' Grading Homework",
+      "published": "2026-10-25T23:08:00+00:00",
+      "author": "EditorDavid",
+      "description": "From the student newspaper at the University of California, Berkeley: Richard Borcherds, a UC Berkeley professor and Fields medalist, no longer grades his students' homework. After seeing how many of his students used AI to consistently receive top scores, he felt there was \"no point\" in paying readers to grade for correctness in homework, as AI use is now unavoidable. Borcherds revealed this in a sit-down interview Tuesday, following OpenAI's announcement that AI agents apparently solved one o…",
+      "link": "https://news.slashdot.org/story/26/10/25/235241/ai-use-convinces-california-math-professor-theres-no-point-grading-homework?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+      "feed_name": "Slashdot",
+      "feed_title": "Slashdot",
+      "category": "technology",
+      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
     },
     {
       "id": "https://www.engadget.com/2294241/why-should-use-multiple-desktop-windows/",
@@ -1222,6 +1376,20 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
     },
     {
+      "id": "https://linux.slashdot.org/story/26/10/25/2153202/a-newly-proposed-linux-filesystem-can-fix-corrupted-data?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "title": "A Newly Proposed Linux Filesystem Can Fix Corrupted Data",
+      "published": "2026-10-25T21:56:00+00:00",
+      "author": "EditorDavid",
+      "description": "BeamFS creator Aurelien Desbrieres is not calling for a merge, but is requesting feedback on an 18-patch proposal that takes the place of FTRFS, an earlier filesystem he proposed in April. The Linux/Open Source blog It's FOSS reports: Filesystems that can repair damage, like Btrfs and ZFS, usually do it by falling back on a spare copy of the data. BeamFS skips that and stores Reed-Solomon error-correcting codes inside every block. Every read gets checked against those codes, and small amounts o…",
+      "link": "https://linux.slashdot.org/story/26/10/25/2153202/a-newly-proposed-linux-filesystem-can-fix-corrupted-data?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+      "feed_name": "Slashdot",
+      "feed_title": "Slashdot",
+      "category": "technology",
+      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
+    },
+    {
       "id": "https://www.theverge.com/?p=1018233",
       "title": "iFixit’s look inside the iPhone Duo may explain those broken screens and hinges",
       "published": "2026-10-25T21:40:27+00:00",
@@ -1248,6 +1416,20 @@
       "category": "technology",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
+    },
+    {
+      "id": "https://slashdot.org/story/26/10/25/2040212/ai-delivers-zero-financial-payoff-to-most-companies-economist-says?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "title": "AI Delivers 'Zero Financial Payoff' To Most Companies, Economist Says",
+      "published": "2026-10-25T20:42:00+00:00",
+      "author": "EditorDavid",
+      "description": "\"Despite massive investments and widespread hype around AI , the technology has delivered zero financial payoff to corporate America outside of tech,\" writes the chief economist at U.S. asset management firm Apollo Global. He adds that \"there are still no signs of AI boosting productivity growth... [M]ainstream corporate America is pulling back and starting to view token spending not as a source of growth but as a cost center that weighs on margins.\" VC-backed companies are spending more and mo…",
+      "link": "https://slashdot.org/story/26/10/25/2040212/ai-delivers-zero-financial-payoff-to-most-companies-economist-says?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+      "feed_name": "Slashdot",
+      "feed_title": "Slashdot",
+      "category": "technology",
+      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
     },
     {
       "id": "https://www.theverge.com/?p=1018290",
@@ -1320,6 +1502,20 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
     },
     {
+      "id": "https://tech.slashdot.org/story/26/10/25/1528213/google-says-gmail-and-photos-data-shared-with-ai-search-could-be-used-for-targeted-ads?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "title": "Google Says Gmail and Photos Data Shared with AI Search Could Be Used for Targeted Ads",
+      "published": "2026-10-25T18:34:00+00:00",
+      "author": "EditorDavid",
+      "description": "The blog Android Authority offers this TLDR: Google updated its privacy policy to clarify that it could use information shared through Personal Intelligence to personalize ads. Gmail, Drive, and Photos content isn't used for targeted ads by default, but connecting them to eligible Google services could change that. Digital Trends explains: Google has long promised that your Gmail, Drive, and Google Photos content never helps it personalize ads. However, since October 16, 2026, its privacy polic…",
+      "link": "https://tech.slashdot.org/story/26/10/25/1528213/google-says-gmail-and-photos-data-shared-with-ai-search-could-be-used-for-targeted-ads?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+      "feed_name": "Slashdot",
+      "feed_title": "Slashdot",
+      "category": "technology",
+      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
+    },
+    {
       "id": "https://www.engadget.com/2294275/the-most-unexpected-everyday-tool-can-be-found-on-your-phone/",
       "title": "The most unexpected everyday tool can be found on your phone",
       "published": "2026-10-25T18:30:00+00:00",
@@ -1390,6 +1586,20 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
     },
     {
+      "id": "https://news.slashdot.org/story/26/10/25/0526257/free-software-foundation-hosts-free-encryptfest-event-on-sunday?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "title": "Free Software Foundation Hosts Free 'Encryptfest' Event on Sunday",
+      "published": "2026-10-25T16:30:00+00:00",
+      "author": "EditorDavid",
+      "description": "The Free Software Foundation's \"EncryptFest\" today covers both encryption and privacy. The free two-hour event runs from 13:00-15:00 Eastern Daylight Time (17:00-19:00 UTC), and includes: — A discussion on \"bulk surveillance, and how encryption protects personal privacy\" — A short video from renowned cryptographer Bruce Schneier. — A discussion with Henry Fisher, the founder of Techlore and a digital rights activist — A hands-on workshop on how you can encrypt your email using the FSF's Email S…",
+      "link": "https://news.slashdot.org/story/26/10/25/0526257/free-software-foundation-hosts-free-encryptfest-event-on-sunday?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+      "feed_name": "Slashdot",
+      "feed_title": "Slashdot",
+      "category": "technology",
+      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
+    },
+    {
       "id": "https://www.theverge.com/?p=1018253",
       "title": "Now you can watch Instagram Reels on your Apple TV",
       "published": "2026-10-25T16:20:17+00:00",
@@ -1446,6 +1656,20 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
     },
     {
+      "id": "https://it.slashdot.org/story/26/10/25/0653231/as-emudhra-exits-cert-business-users-face-new-pki-trust-decisions?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "title": "As eMudhra Exits Cert Business, Users Face New PKI Trust Decisions",
+      "published": "2026-10-25T15:33:00+00:00",
+      "author": "EditorDavid",
+      "description": "\"As of 2026, the company has issued more than 60 million digital certificates,\" notes Wikipedia. But now, InfoWorld reports: A certificate authority's decision to abandon the global SSL/TLS market is exposing a weakness many organizations rarely examine: their dependence on complex PKI trust chains. Following the compromise of private keys behind eight of its intermediate certificate authorities, eMudhra is exiting the global SSL/TLS certificate business and is offering customers Sectigo-issued…",
+      "link": "https://it.slashdot.org/story/26/10/25/0653231/as-emudhra-exits-cert-business-users-face-new-pki-trust-decisions?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+      "feed_name": "Slashdot",
+      "feed_title": "Slashdot",
+      "category": "technology",
+      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
+    },
+    {
       "id": "05uButlb97FzArO4KE96ODS",
       "title": "Why Google is linking your phone number to all your signed-in accounts",
       "published": "2026-10-25T15:30:31+00:00",
@@ -1500,6 +1724,20 @@
       "category": "technology",
       "feed_url": "https://thenextweb.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
+    {
+      "id": "https://slashdot.org/story/26/10/24/2319225/getty-images-files-for-us-bankruptcy-advances-restructuring-plan?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "title": "Getty Images Files For US Bankruptcy, Advances Restructuring Plan",
+      "published": "2026-10-25T14:34:00+00:00",
+      "author": "EditorDavid",
+      "description": "Reuters reports: Last week, Getty announced plans to file for bankruptcy, marking a major reset after its planned merger with rival Shutterstock collapsed under the weight of heavy debt and growing competition from AI-generated imagery. Getty said the affiliates of the Getty family and Koch Equity Development, which committed to provide up to $533 million in new equity, will own 100% of the company after the restructuring It's hard to compete against things like the DALL-E image generator. Long…",
+      "link": "https://slashdot.org/story/26/10/24/2319225/getty-images-files-for-us-bankruptcy-advances-restructuring-plan?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+      "feed_name": "Slashdot",
+      "feed_title": "Slashdot",
+      "category": "technology",
+      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
     },
     {
       "id": "TheNextWeb=250865db9679b963f8053cea33eb0f86",
@@ -1752,6 +1990,20 @@
       "category": "technology",
       "feed_url": "https://thenextweb.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
+    {
+      "id": "https://science.slashdot.org/story/26/10/25/062240/old-blood-cells-have-been-transformed-into-brain-stem-cells-that-get-younger?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "title": "Old Blood Cells Have Been Transformed Into Brain Stem Cells That Get Younger",
+      "published": "2026-10-25T11:34:00+00:00",
+      "author": "EditorDavid",
+      "description": "\"Scientists have transformed old blood cells into young brain stem cells, which continued to grow younger as they grew older,\" reports ScienceAlert: Cellular transformations can be done in two main ways. The first, more circuitous route turns a specific cell back into a pluripotent stem cell, or an embryonic \"blank slate,\" and then into a different cell type. The second method involves a \"direct conversion,\" which skips the middle stage and directly transforms a cell into a different type. \"Usi…",
+      "link": "https://science.slashdot.org/story/26/10/25/062240/old-blood-cells-have-been-transformed-into-brain-stem-cells-that-get-younger?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+      "feed_name": "Slashdot",
+      "feed_title": "Slashdot",
+      "category": "technology",
+      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
     },
     {
       "id": "TheNextWeb=ea305a4dfeb1f9f6c10044e2aee7146e",
@@ -2020,6 +2272,20 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
     },
     {
+      "id": "https://it.slashdot.org/story/26/10/25/0446228/cios-admit-they-are-being-forced-to-upgrade-enterprise-it?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "title": "CIOs Admit They Are Being Forced To Upgrade Enterprise IT",
+      "published": "2026-10-25T07:36:00+00:00",
+      "author": "EditorDavid",
+      "description": "Computer Weekly reports: A Censuswide survey of 2,018 CIOs and senior IT decision-makers at large organisations in the US and UK for independent software maintenance provider Origina has found that organisations spend almost $13m on upgrades pushed by IT providers. On average, 28% of enterprise software budgets go on upgrades, migrations and licensing changes driven by their IT suppliers. IT leaders who took part in the study reported that their organisation would not have actively chosen to up…",
+      "link": "https://it.slashdot.org/story/26/10/25/0446228/cios-admit-they-are-being-forced-to-upgrade-enterprise-it?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+      "feed_name": "Slashdot",
+      "feed_title": "Slashdot",
+      "category": "technology",
+      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
+    },
+    {
       "id": "07jHxpgDl0icAOb2ez0fU7X",
       "title": "Hurdle hints and answers for October 25, 2026",
       "published": "2026-10-25T05:00:00+00:00",
@@ -2046,6 +2312,20 @@
       "category": "technology",
       "feed_url": "http://feeds.mashable.com/Mashable",
       "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
+    },
+    {
+      "id": "https://news.slashdot.org/story/26/10/25/0335236/americas-defense-department-is-building-an-elite-new-tech-sabotage-agency?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "title": "America's Defense Department Is Building an 'Elite New Tech Sabotage Agency'",
+      "published": "2026-10-25T04:10:00+00:00",
+      "author": "EditorDavid",
+      "description": "America's Defense Department \"has spent months quietly building an elite new tech agency,\" reports Politico, \"to help covertly disrupt and sabotage foreign technology programs considered threats to American military superiority.\" Information on the Technology Support Office, or TSO as it is called internally, is nearly impossible to find on Pentagon websites, and the agency is mentioned by name only in several previously unreported Defense Department historical records and memoranda. While the…",
+      "link": "https://news.slashdot.org/story/26/10/25/0335236/americas-defense-department-is-building-an-elite-new-tech-sabotage-agency?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+      "feed_name": "Slashdot",
+      "feed_title": "Slashdot",
+      "category": "technology",
+      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
     },
     {
       "id": "05I5tSIFLmtaFvp1QMu2iEi",
