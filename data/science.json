@@ -1,8 +1,36 @@
 {
   "category": "science",
-  "updated": "2026-10-26T00:03:45.673845+00:00",
-  "count": 249,
+  "updated": "2026-10-26T00:16:34.132362+00:00",
+  "count": 251,
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cw80zk9k51j1o#0",
+      "title": "From agriculture to AI-griculture: How tech is changing farming",
+      "published": "2026-10-26T00:13:09+00:00",
+      "author": null,
+      "description": "From remote monitoring of cattle to automation of processes that took up valuable time, farmers in NI are rapidly becoming skilled in technology.",
+      "link": "https://www.bbc.co.uk/news/articles/cw80zk9k51j1o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34b7/live/93f2a830-cefc-11f1-accf-3309656ad0bb.jpg",
+      "feed_name": "BBC News - Science & Environment",
+      "feed_title": "BBC News",
+      "category": "science",
+      "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "news711978901",
+      "title": "Lumina simulation brings the early universe to life on a record-breaking scale",
+      "published": "2026-10-26T00:10:01+00:00",
+      "author": null,
+      "description": "The James Webb Space Telescope (JWST) and Nancy Roman Space Telescope are revealing the universe's earliest chapters in detail. To help astronomers understand what they are seeing, researchers at the Center for Astrophysics | Harvard & Smithsonian have developed \"Lumina,\" one of the largest and most detailed simulations ever created of the early universe.",
+      "link": "https://phys.org/news/2026-10-lumina-simulation-early-universe-life.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/smithsonian-scientists-1.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/c84g10r00221o#0",
       "title": "Majority of homes in NI have power restored after Storm Boelo",
