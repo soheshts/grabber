@@ -1,8 +1,50 @@
 {
   "category": "World News",
-  "updated": "2026-10-26T17:02:59.219720+00:00",
+  "updated": "2026-10-26T17:19:15.720018+00:00",
   "count": 499,
   "items": [
+    {
+      "id": "108464652",
+      "title": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
+      "published": "2026-10-26T17:18:04+00:00",
+      "author": null,
+      "description": "Microsoft is trying to balance a rapid AI infrastructure build-out with capital efficiency.",
+      "link": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108464648-1793029800901-gettyimages-2225682496-MICROSOFT_HACK.jpeg?v=1793029842&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "108462470",
+      "title": "Oil ticks lower as Saudi defense minister travels to Iran for talks to de-escalate conflict",
+      "published": "2026-10-26T17:17:05+00:00",
+      "author": null,
+      "description": "Oil prices fell as investors weighed the threat of further attacks on Saudi Arabian energy infrastructure against concerns that elevated prices could erode demand.",
+      "link": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108421354-1792180537305-gettyimages-2300550189-_24a0706_rjfjbbgj.jpeg?v=1792180665&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
+      "title": "Brazil runoff as it happened: world leaders congratulate Lula on historic election win as Bolsonaro refuses to concede",
+      "published": "2026-10-26T17:10:31+00:00",
+      "author": "Tom Ambrose (now); Martin Belam, Yohannes Lowe, Adam Fulton and Marina Dunbar (earlier)",
+      "description": "Leftist president Luiz Inácio Lula da Silva defeated the far-right senator and was elected president of Brazil for a fourth non-consecutive term Full report: Lula wins fourth term as Brazil’s president over Flávio Bolsonaro Live second round results The local electoral court ordered the immediate restoration of 100% of the bus fleet and ordered the arrest of the municipal transport secretary, Pablo Souza, on suspicion of an electoral offence and disobeying court orders. The arrest warrant could…",
+      "link": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
+      "image": "https://i.guim.co.uk/img/media/3079922263f80f7783f0e582d2c97109a85fc9d1/389_0_4877_3900/master/4877.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=eb5f66ee5fec43059efe8c2fc49e9e95",
+      "feed_name": "The Guardian",
+      "feed_title": "World news | The Guardian",
+      "category": "World News",
+      "feed_url": "https://www.theguardian.com/world/rss",
+      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cm4g14n1e5wko#1",
       "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
@@ -16,34 +58,6 @@
       "category": "World News",
       "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "108462470",
-      "title": "Brent oil tops $117 as Saudi defense minister travels to Iran for talks to de-escalate conflict",
-      "published": "2026-10-26T16:55:45+00:00",
-      "author": null,
-      "description": "Oil prices fell as investors weighed the threat of further attacks on Saudi Arabian energy infrastructure against concerns that elevated prices could erode demand.",
-      "link": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108421354-1792180537305-gettyimages-2300550189-_24a0706_rjfjbbgj.jpeg?v=1792180665&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "108464652",
-      "title": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
-      "published": "2026-10-26T16:51:12+00:00",
-      "author": null,
-      "description": "Microsoft is trying to balance a rapid AI infrastructure build-out with capital efficiency.",
-      "link": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108464648-1793029800901-gettyimages-2225682496-MICROSOFT_HACK.jpeg?v=1793029842&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo#0",
@@ -142,20 +156,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
-      "title": "Brazil runoff live updates: world leaders congratulate Lula on historic election win as Bolsonaro refuses to concede",
-      "published": "2026-10-26T16:39:22+00:00",
-      "author": "Tom Ambrose (now); Martin Belam, Yohannes Lowe, Adam Fulton and Marina Dunbar (earlier)",
-      "description": "Leftist president Luiz Inácio Lula da Silva defeated the far-right senator and was elected president of Brazil for a fourth non-consecutive term Full report: Lula wins fourth term as Brazil’s president over Flávio Bolsonaro Live second round results The local electoral court ordered the immediate restoration of 100% of the bus fleet and ordered the arrest of the municipal transport secretary, Pablo Souza, on suspicion of an electoral offence and disobeying court orders. The arrest warrant could…",
-      "link": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
-      "image": "https://i.guim.co.uk/img/media/3079922263f80f7783f0e582d2c97109a85fc9d1/389_0_4877_3900/master/4877.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=eb5f66ee5fec43059efe8c2fc49e9e95",
-      "feed_name": "The Guardian",
-      "feed_title": "World news | The Guardian",
-      "category": "World News",
-      "feed_url": "https://www.theguardian.com/world/rss",
-      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
     },
     {
       "id": "108435923",
