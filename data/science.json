@@ -1,8 +1,22 @@
 {
   "category": "science",
-  "updated": "2026-10-25T23:33:26.110122+00:00",
+  "updated": "2026-10-26T00:03:45.673845+00:00",
   "count": 249,
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c84g10r00221o#0",
+      "title": "Majority of homes in NI have power restored after Storm Boelo",
+      "published": "2026-10-25T23:53:04+00:00",
+      "author": null,
+      "description": "Northern Ireland Electricity Networks (NIE) said around 12,500 properties were without power at one stage.",
+      "link": "https://www.bbc.co.uk/news/articles/c84g10r00221o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e43/live/38d73e10-d074-11f1-afcb-6b9b9432d8fc.jpg",
+      "feed_name": "BBC News - Science & Environment",
+      "feed_title": "BBC News",
+      "category": "science",
+      "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
     {
       "id": "news711720765",
       "title": "Experienced teachers are quitting or reducing their hours—they're struggling to cope",
@@ -67,20 +81,6 @@
       "description": "The 60-year-old man was struck by the tree near Castle Douglas as Storm Boelo brought strong winds and heavy rain to Scotland.",
       "link": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a290/live/f2b0ec40-d09d-11f1-aeb2-977af36708cb.jpg",
-      "feed_name": "BBC News - Science & Environment",
-      "feed_title": "BBC News",
-      "category": "science",
-      "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c84g10r00221o#0",
-      "title": "Around 6000 still without power in NI and Republic after Storm Boelo",
-      "published": "2026-10-25T20:15:55+00:00",
-      "author": null,
-      "description": "Around 470 incidents, including fallen trees and flooding, have been reported to the Department for Infrastructure.",
-      "link": "https://www.bbc.co.uk/news/articles/c84g10r00221o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a519/live/87830680-d078-11f1-afcb-6b9b9432d8fc.jpg",
       "feed_name": "BBC News - Science & Environment",
       "feed_title": "BBC News",
       "category": "science",
@@ -1714,7 +1714,7 @@
     {
       "id": "https://www.nytimes.com/2026/10/20/science/autoimmune-diseases-evolution-ms.html",
       "title": "Where Do Autoimmune Diseases Come From?",
-      "published": "2026-10-22T22:17:54+00:00",
+      "published": "2026-10-22T22:17:55+00:00",
       "author": "David Quammen",
       "description": "Our genes evolved to fight ancient threats, but in the modern world, some of those changes may be turning against us.",
       "link": "https://www.nytimes.com/2026/10/20/science/autoimmune-diseases-evolution-ms.html",
