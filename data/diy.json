@@ -1,8 +1,36 @@
 {
   "category": "DIY",
-  "updated": "2026-10-26T12:32:43.318140+00:00",
-  "count": 115,
+  "updated": "2026-10-26T13:02:42.019834+00:00",
+  "count": 117,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/double-commander-file-explorer/",
+      "title": "This free open source file explorer beats Windows at its own game",
+      "published": "2026-10-26T13:00:18+00:00",
+      "author": "Pankil Shah",
+      "description": "Two panes, endless tabs, zero cost—meet the perfect File Explorer alternative.",
+      "link": "https://www.makeuseof.com/double-commander-file-explorer/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/09/windows-laptop-showing-double-commander-file-explorer.JPG",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/i-ditched-google-assistant-for-gemini-and-the-change-caught-me-off-guard/",
+      "title": "I ditched Google Assistant for Gemini, and the change caught me off guard",
+      "published": "2026-10-26T13:00:17+00:00",
+      "author": "Sanya Shah",
+      "description": "My phone got a brain upgrade.",
+      "link": "https://www.howtogeek.com/i-ditched-google-assistant-for-gemini-and-the-change-caught-me-off-guard/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/08/gemini-vs-google-assistant-2.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/figma-vs-affinity-review/",
       "title": "I thought Figma was unbeatable until I put Affinity to the test",

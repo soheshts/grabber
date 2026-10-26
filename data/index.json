@@ -1,33 +1,33 @@
 {
-  "updated": "2026-10-26T12:32:43.318140+00:00",
+  "updated": "2026-10-26T13:02:42.019834+00:00",
   "categories": [
     {
       "name": "technology",
       "slug": "technology",
       "file": "technology.json",
       "feeds": 24,
-      "count": 341
+      "count": 350
     },
     {
       "name": "entertainment",
       "slug": "entertainment",
       "file": "entertainment.json",
       "feeds": 17,
-      "count": 390
+      "count": 397
     },
     {
       "name": "science",
       "slug": "science",
       "file": "science.json",
       "feeds": 21,
-      "count": 283
+      "count": 286
     },
     {
       "name": "personal blogs",
       "slug": "personal-blogs",
       "file": "personal-blogs.json",
       "feeds": 339,
-      "count": 417
+      "count": 418
     },
     {
       "name": "space",
@@ -48,14 +48,14 @@
       "slug": "travel",
       "file": "travel.json",
       "feeds": 5,
-      "count": 59
+      "count": 60
     },
     {
       "name": "photography",
       "slug": "photography",
       "file": "photography.json",
       "feeds": 10,
-      "count": 54
+      "count": 55
     },
     {
       "name": "books",
@@ -69,14 +69,14 @@
       "slug": "diy",
       "file": "diy.json",
       "feeds": 9,
-      "count": 115
+      "count": 117
     },
     {
       "name": "Business & economy",
       "slug": "business-economy",
       "file": "business-economy.json",
       "feeds": 15,
-      "count": 580
+      "count": 598
     },
     {
       "name": "fashion",
@@ -90,14 +90,14 @@
       "slug": "funny",
       "file": "funny.json",
       "feeds": 14,
-      "count": 145
+      "count": 149
     },
     {
       "name": "gaming",
       "slug": "gaming",
       "file": "gaming.json",
       "feeds": 14,
-      "count": 242
+      "count": 246
     },
     {
       "name": "history",
@@ -111,7 +111,7 @@
       "slug": "world-news",
       "file": "world-news.json",
       "feeds": 8,
-      "count": 428
+      "count": 436
     },
     {
       "name": "India",
@@ -125,7 +125,7 @@
       "slug": "malayalam",
       "file": "malayalam.json",
       "feeds": 11,
-      "count": 682
+      "count": 707
     }
   ]
 }

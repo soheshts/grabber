@@ -1,8 +1,36 @@
 {
   "category": "science",
-  "updated": "2026-10-26T12:32:43.318140+00:00",
-  "count": 283,
+  "updated": "2026-10-26T13:02:42.019834+00:00",
+  "count": 286,
   "items": [
+    {
+      "id": "news712218559",
+      "title": "Researchers improve RNA extraction from precision-cut lung slices",
+      "published": "2026-10-26T13:00:01+00:00",
+      "author": null,
+      "description": "Precision-cut lung slices allow researchers to study living human lung tissue outside the body, preserving the different cell types and structures that make up the organ. But a material that helps scientists create these slices can also make it difficult to study the genetic activity within them.",
+      "link": "https://phys.org/news/2026-10-rna-precision-lung-slices.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/lung.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "news712217369",
+      "title": "Rain gardens offer a balanced solution for managing urban stormwater near Tokyo",
+      "published": "2026-10-26T12:40:01+00:00",
+      "author": null,
+      "description": "Urban flooding is becoming a growing concern in densely developed neighborhoods, where paved surfaces limit infiltration and intense rainfall can overwhelm drainage systems. Low impact development measures, such as rain barrels (RBs) and rain gardens (RGs), help manage stormwater close to where it falls. RBs collect rooftop runoff for later nonpotable use, while RGs use vegetated depressions and soil to encourage infiltration.",
+      "link": "https://phys.org/news/2026-10-gardens-solution-urban-stormwater-tokyo.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rain-gardens-offer-a-b-1.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
     {
       "id": "news712215141",
       "title": "Greenwashing fears may drive up the cost of climate finance",
@@ -103,7 +131,7 @@
     },
     {
       "id": "https://www.bbc.co.uk/weather/articles/cqwy7w8dryrxo#0",
-      "title": "Storm Boelo clears but more wind and rain bears down on UK",
+      "title": "Storm Boelo clears but more wind and rain bear down on UK",
       "published": "2026-10-26T11:21:24+00:00",
       "author": null,
       "description": "Another area of low pressure will pass close to the north-west UK with a Met Office yellow wind warning issued for Tuesday.",
@@ -486,6 +514,20 @@
       "author": "Linda Nordling",
       "description": "Nature, Published online: 26 October 2026; doi:10.1038/d41586-026-03398-0 Nature’s survey of almost 4,000 researchers shows that you’re not alone if you struggle to make ends meet or your last pay rise is a distant memory.",
       "link": "https://www.nature.com/articles/d41586-026-03398-0",
+      "image": null,
+      "feed_name": "Nature",
+      "feed_title": "Nature",
+      "category": "science",
+      "feed_url": "https://www.nature.com/nature.rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=feeds.nature.com&sz=64"
+    },
+    {
+      "id": "https://www.nature.com/articles/d41586-026-03392-6",
+      "title": "Women might have invented language — but not alone",
+      "published": "2026-10-26T00:00:00+00:00",
+      "author": "Andrew Robinson",
+      "description": "Nature, Published online: 26 October 2026; doi:10.1038/d41586-026-03392-6 An eloquent analysis of the origins of human speech suggests that social cohesion, not conflict, drove our use of words.",
+      "link": "https://www.nature.com/articles/d41586-026-03392-6",
       "image": null,
       "feed_name": "Nature",
       "feed_title": "Nature",
