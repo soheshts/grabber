@@ -1,26 +1,26 @@
 {
-  "updated": "2026-10-26T14:03:47.814960+00:00",
+  "updated": "2026-10-26T14:33:17.055764+00:00",
   "categories": [
     {
       "name": "technology",
       "slug": "technology",
       "file": "technology.json",
       "feeds": 24,
-      "count": 374
+      "count": 378
     },
     {
       "name": "entertainment",
       "slug": "entertainment",
       "file": "entertainment.json",
       "feeds": 17,
-      "count": 410
+      "count": 417
     },
     {
       "name": "science",
       "slug": "science",
       "file": "science.json",
       "feeds": 21,
-      "count": 293
+      "count": 297
     },
     {
       "name": "personal blogs",
@@ -34,7 +34,7 @@
       "slug": "space",
       "file": "space.json",
       "feeds": 5,
-      "count": 85
+      "count": 86
     },
     {
       "name": "sports",
@@ -48,14 +48,14 @@
       "slug": "travel",
       "file": "travel.json",
       "feeds": 5,
-      "count": 59
+      "count": 60
     },
     {
       "name": "photography",
       "slug": "photography",
       "file": "photography.json",
       "feeds": 10,
-      "count": 56
+      "count": 58
     },
     {
       "name": "books",
@@ -69,14 +69,14 @@
       "slug": "diy",
       "file": "diy.json",
       "feeds": 9,
-      "count": 123
+      "count": 126
     },
     {
       "name": "Business & economy",
       "slug": "business-economy",
       "file": "business-economy.json",
       "feeds": 15,
-      "count": 625
+      "count": 642
     },
     {
       "name": "fashion",
@@ -97,7 +97,7 @@
       "slug": "gaming",
       "file": "gaming.json",
       "feeds": 14,
-      "count": 253
+      "count": 260
     },
     {
       "name": "history",
@@ -111,7 +111,7 @@
       "slug": "world-news",
       "file": "world-news.json",
       "feeds": 8,
-      "count": 449
+      "count": 463
     },
     {
       "name": "India",
@@ -125,7 +125,7 @@
       "slug": "malayalam",
       "file": "malayalam.json",
       "feeds": 11,
-      "count": 742
+      "count": 746
     }
   ]
 }

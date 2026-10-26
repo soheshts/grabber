@@ -1,8 +1,50 @@
 {
   "category": "DIY",
-  "updated": "2026-10-26T14:03:47.814960+00:00",
-  "count": 123,
+  "updated": "2026-10-26T14:33:17.055764+00:00",
+  "count": 126,
   "items": [
+    {
+      "id": "https://www.howtogeek.com/these-set-and-forget-docker-containers-do-most-of-my-homelabs-work/",
+      "title": "These 2 set-and-forget Docker containers do most of my homelab’s work",
+      "published": "2026-10-26T14:30:18+00:00",
+      "author": "Patrick Campanale",
+      "description": "Core infrastructure should be invisible, and these two finally are.",
+      "link": "https://www.howtogeek.com/these-set-and-forget-docker-containers-do-most-of-my-homelabs-work/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/03/three-mini-pcs-stacked-on-top-of-each-other-in-a-homelab.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.makeuseof.com/a-few-powershell-commands-can-clean-up-and-speed-up-windows-faster-than-any-app/",
+      "title": "A few PowerShell commands can clean up and speed up Windows faster than any app",
+      "published": "2026-10-26T14:30:18+00:00",
+      "author": "Afam Onyimadu",
+      "description": "Built-in commands will save you the trouble of installing third-party apps on Windows 11.",
+      "link": "https://www.makeuseof.com/a-few-powershell-commands-can-clean-up-and-speed-up-windows-faster-than-any-app/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/03/using-the-powershell.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://hackaday.com/?p=1243246",
+      "title": "The Fascinating World of IrDA and Other Infrared Protocols",
+      "published": "2026-10-26T14:00:36+00:00",
+      "author": "Maya Posch",
+      "description": "Infrared (IR) communication technologies are probably one of the most influential, yet also one of the least flashiest. The fact that IR communication tends to be highly directional and often …read more",
+      "link": "https://hackaday.com/2026/10/26/the-fascinating-world-of-irda-and-other-infrared-protocols/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/10/Optical_IR.jpg",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/stopped-typing-same-things-windows-glorious/",
       "title": "I stopped typing the same things over and over in Windows, and it's glorious",
