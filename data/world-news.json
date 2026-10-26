@@ -1,12 +1,12 @@
 {
   "category": "World News",
-  "updated": "2026-10-26T22:03:25.356249+00:00",
-  "count": 549,
+  "updated": "2026-10-26T22:33:27.315270+00:00",
+  "count": 552,
   "items": [
     {
       "id": "108465785",
       "title": "DOJ charges ex-FBI Director James Comey in new case",
-      "published": "2026-10-26T21:57:26+00:00",
+      "published": "2026-10-26T22:24:36+00:00",
       "author": null,
       "description": "Comey for years has been targeted by President Donald Trump, who fired him as FBI director in 2017.",
       "link": "https://www.cnbc.com/2026/10/26/james-comey-indictment-national-defense-doj-trump.html",
@@ -18,11 +18,39 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
+      "id": "https://www.theguardian.com/australia-news/live/2026/oct/27/one-nation-pauline-hanson-independent-jacqui-lambie-labor-anthony-albanese-coalition-ntwnfb",
+      "title": "Australian politics live: Lambie awaiting Hanson apology over cartoon; security crackdown for nine MPs after alleged Haines attack",
+      "published": "2026-10-26T22:24:22+00:00",
+      "author": "Kat Wong",
+      "description": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Political debate should be ‘robust but respectful’: Ruston A day after MPs addressed the House of Representatives paying tribute to independent Helen Haines , who was injured after an alleged attack in her electorate, Liberal senator Anne Ruston maintains that respect is necessary in political debate. What we do here sets the tone for what the rest of the nation thinks is acceptable. There is a huge responsi…",
+      "link": "https://www.theguardian.com/australia-news/live/2026/oct/27/one-nation-pauline-hanson-independent-jacqui-lambie-labor-anthony-albanese-coalition-ntwnfb",
+      "image": "https://i.guim.co.uk/img/media/09681905fabaf078dfedd3f50f0c72508a1fb9d0/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=0b824730aed8fa210e206baa90e2f49f",
+      "feed_name": "The Guardian",
+      "feed_title": "World news | The Guardian",
+      "category": "World News",
+      "feed_url": "https://www.theguardian.com/world/rss",
+      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/26/world/europe/france-student-protests.html",
+      "title": "France Makes Concessions to Students, but Not Enough to Halt Protests",
+      "published": "2026-10-26T22:22:41+00:00",
+      "author": "Mark Landler",
+      "description": "The government promised to phase out an unpopular university admissions system by 2028. Student groups are pushing for more.",
+      "link": "https://www.nytimes.com/2026/10/26/world/europe/france-student-protests.html",
+      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26int-france-students-1-bvfj/26int-france-students-1-bvfj-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
       "id": "https://www.theguardian.com/world/2026/oct/26/flavio-bolsonaro-brazil-lula-election",
       "title": "Brazil: defeated Flávio Bolsonaro ordered to surrender passports",
       "published": "2026-10-26T21:56:49+00:00",
       "author": "Tiago Rogero in Brasília",
-      "description": "Far-right senator banned from leaving country as supreme court ruling makes reference to money-laundering case The far-right senator Flávio Bolsonaro was banned from leaving Brazil and ordered to surrender his passports just hours after his dramatic loss in the presidential election to the leftist president Luiz Inácio Lula da Silva. The ruling was issued by supreme court justice Alexandre de Moraes, the same justice who oversaw the trial of the senator’s father, the former president Jair Bolso…",
+      "description": "Far-right senator banned from leaving country as supreme court judge’s ruling makes reference to money-laundering case The far-right senator Flávio Bolsonaro was banned from leaving Brazil and ordered to surrender his passports just hours after his dramatic loss in the presidential election to the leftist president Luiz Inácio Lula da Silva. The ruling was issued by supreme court justice Alexandre de Moraes, the same justice who oversaw the trial of the senator’s father, the former president Ja…",
       "link": "https://www.theguardian.com/world/2026/oct/26/flavio-bolsonaro-brazil-lula-election",
       "image": "https://i.guim.co.uk/img/media/0de4d058b50f7c1ef96360807b8a7d704ff3313e/688_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e39789a412717bcb0b233bfa8e01c81e",
       "feed_name": "The Guardian",
@@ -46,18 +74,18 @@
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
-      "id": "https://www.theguardian.com/australia-news/live/2026/oct/27/one-nation-pauline-hanson-independent-jacqui-lambie-labor-anthony-albanese-coalition-ntwnfb",
-      "title": "Australian politics live: Lambie awaiting Hanson apology over cartoon; Liberal candidate’s husband allegedly attacked",
-      "published": "2026-10-26T21:46:12+00:00",
-      "author": "Kat Wong",
-      "description": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Political debate should be ‘robust but respectful’: Ruston A day after MPs addressed the House of Representatives paying tribute to independent Helen Haines , who was injured after an alleged attack in her electorate, Liberal senator Anne Ruston maintains that respect is necessary in political debate. What we do here sets the tone for what the rest of the nation thinks is acceptable. There is a huge responsi…",
-      "link": "https://www.theguardian.com/australia-news/live/2026/oct/27/one-nation-pauline-hanson-independent-jacqui-lambie-labor-anthony-albanese-coalition-ntwnfb",
-      "image": "https://i.guim.co.uk/img/media/09681905fabaf078dfedd3f50f0c72508a1fb9d0/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=0b824730aed8fa210e206baa90e2f49f",
-      "feed_name": "The Guardian",
-      "feed_title": "World news | The Guardian",
+      "id": "https://timesofindia.indiatimes.com/world/europe/france-pledges-education-reforms-after-protests-over-costs-school-funding/articleshow/135219427.cms",
+      "title": "France promises education reforms after nationwide protests",
+      "published": "2026-10-26T21:50:24+00:00",
+      "author": "Prisha Patnaik",
+      "description": "",
+      "link": "https://timesofindia.indiatimes.com/world/europe/france-pledges-education-reforms-after-protests-over-costs-school-funding/articleshow/135219427.cms",
+      "image": "https://static.toiimg.com/photo/msid-135219504,imgsize-271078.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
       "category": "World News",
-      "feed_url": "https://www.theguardian.com/world/rss",
-      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
       "id": "https://www.nytimes.com/2026/10/26/world/middleeast/netanyahu-iran-israel-election.html",
@@ -158,6 +186,20 @@
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
+      "id": "https://www.ndtv.com/world-news/donald-trump-pledges-1-million-for-information-leading-to-vote-fraud-conviction-12240099#publisher=newsstand",
+      "title": "Trump Pledges $1 Million For Information Leading To Vote Fraud Conviction",
+      "published": "2026-10-26T21:00:19+00:00",
+      "author": null,
+      "description": "Donald Trump gave no details of how the reward would be funded or administered.",
+      "link": "https://www.ndtv.com/world-news/donald-trump-pledges-1-million-for-information-leading-to-vote-fraud-conviction-12240099#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-10/rt23ps4o_donald-trump_625x300_27_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
       "id": "https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-win-what-to-know.html",
       "title": "What to Know About Lula’s Election Victory in Brazil, and What Comes Next",
       "published": "2026-10-26T20:55:24+00:00",
@@ -184,6 +226,20 @@
       "category": "World News",
       "feed_url": "https://www.theguardian.com/world/rss",
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/donald-trump-slams-rigged-brazil-election-after-ally-loses-12239993#publisher=newsstand",
+      "title": "Trump Slams Brazil Election As \"Rigged\" And \"Corrupt\" After Lula Wins",
+      "published": "2026-10-26T20:46:23+00:00",
+      "author": null,
+      "description": "Donald Trump claimed on Monday that Brazil's elections were \"rigged\" and \"so corrupt\".",
+      "link": "https://www.ndtv.com/world-news/donald-trump-slams-rigged-brazil-election-after-ally-loses-12239993#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-10/bvb7npt4_donald-trump_625x300_24_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
       "id": "108464652",
@@ -338,20 +394,6 @@
       "category": "World News",
       "feed_url": "https://www.reddit.com/r/worldnews/.rss",
       "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/donald-trump-slams-rigged-brazil-election-after-ally-loses-12239993#publisher=newsstand",
-      "title": "Trump Slams \"Rigged\" Brazil Election After Ally Loses",
-      "published": "2026-10-26T19:58:46+00:00",
-      "author": null,
-      "description": "US President Donald Trump claimed on Monday that Brazil's elections were \"rigged\" and \"so corrupt\" after President Luiz Inacio Lula da Silva beat Trump's right-wing ally Flavio Bolsonaro.",
-      "link": "https://www.ndtv.com/world-news/donald-trump-slams-rigged-brazil-election-after-ally-loses-12239993#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-10/bvb7npt4_donald-trump_625x300_24_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
       "id": "https://timesofindia.indiatimes.com/science/wildlife/in-2025-teams-began-clearing-invasive-rats-and-feral-pigs-from-samoas-nuutele-island-by-october-2026-sea-turtles-were-nesting-after-decades-of-absence-ground-doves-were-breeding-and-native-seedlings-had-returned/articleshow/135218009.cms",
@@ -888,7 +930,7 @@
     {
       "id": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html",
       "title": "María Corina Machado Returns to Venezuela",
-      "published": "2026-10-26T16:40:42+00:00",
+      "published": "2026-10-26T16:40:43+00:00",
       "author": "Julie Turkewitz, Edward Wong and Adam Entous",
       "description": "After nearly 10 months in exile, Ms. Machado, a Nobel laureate, came back to challenge leaders who have sidelined her and press for new elections.",
       "link": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html",
