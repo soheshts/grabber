@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T05:06:36.867696+00:00",
+  "updated": "2026-10-26T05:33:23.061805+00:00",
   "categories": [
     {
       "name": "technology",
@@ -13,7 +13,7 @@
       "slug": "entertainment",
       "file": "entertainment.json",
       "feeds": 17,
-      "count": 323
+      "count": 326
     },
     {
       "name": "science",
@@ -41,7 +41,7 @@
       "slug": "sports",
       "file": "sports.json",
       "feeds": 3,
-      "count": 731
+      "count": 750
     },
     {
       "name": "travel",
@@ -69,14 +69,14 @@
       "slug": "diy",
       "file": "diy.json",
       "feeds": 9,
-      "count": 100
+      "count": 101
     },
     {
       "name": "Business & economy",
       "slug": "business-economy",
       "file": "business-economy.json",
       "feeds": 15,
-      "count": 337
+      "count": 353
     },
     {
       "name": "fashion",
@@ -111,21 +111,21 @@
       "slug": "world-news",
       "file": "world-news.json",
       "feeds": 8,
-      "count": 306
+      "count": 312
     },
     {
       "name": "India",
       "slug": "india",
       "file": "india.json",
       "feeds": 21,
-      "count": 994
+      "count": 1000
     },
     {
       "name": "Malayalam",
       "slug": "malayalam",
       "file": "malayalam.json",
       "feeds": 11,
-      "count": 409
+      "count": 423
     }
   ]
 }

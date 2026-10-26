@@ -1,8 +1,22 @@
 {
   "category": "DIY",
-  "updated": "2026-10-26T05:06:36.867696+00:00",
-  "count": 100,
+  "updated": "2026-10-26T05:33:23.061805+00:00",
+  "count": 101,
   "items": [
+    {
+      "id": "https://hackaday.com/?p=1243330",
+      "title": "Building a Swashplate-less Helicoper Rotor",
+      "published": "2026-10-26T05:00:22+00:00",
+      "author": "Aaron Beckendorf",
+      "description": "A helicopter blade uses a swash plate and a set of linkages to change the angle of the blades. Not only does it vary the collective pitch to increase or …read more",
+      "link": "https://hackaday.com/2026/10/25/building-a-swashplate-less-helicoper-rotor/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/10/helicopter_propeller.png",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://hackaday.com/?p=1354453",
       "title": "Transforming a Tungsten Ditelluride Monolayer into a Transistor",
