@@ -1,8 +1,22 @@
 {
   "category": "DIY",
-  "updated": "2026-10-26T02:02:25.470577+00:00",
-  "count": 99,
+  "updated": "2026-10-26T02:33:28.937504+00:00",
+  "count": 100,
   "items": [
+    {
+      "id": "https://hackaday.com/?p=1354453",
+      "title": "Transforming a Tungsten Ditelluride Monolayer into a Transistor",
+      "published": "2026-10-26T02:00:52+00:00",
+      "author": "Maya Posch",
+      "description": "In the world of silicon semiconductors, the process of creating transistors and similar structures involves various rounds of modifications and additions in order to create the requisite functional layers. A …read more",
+      "link": "https://hackaday.com/2026/10/25/transforming-a-tungsten-ditelluride-monolayer-into-a-transistor/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/10/tmdc_mosfet_seok_young_min_et_al_science_2026.jpg",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/reasons-why-disabled-startup-apps-still-open-when-you-boot-windows-11/",
       "title": "4 reasons your disabled apps still launch when Windows boots up",
