@@ -1,12 +1,40 @@
 {
   "category": "World News",
-  "updated": "2026-10-26T08:33:28.970051+00:00",
-  "count": 360,
+  "updated": "2026-10-26T09:03:50.435513+00:00",
+  "count": 375,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/10/25/world/europe/serbia-vucic-election-defeat.html",
+      "title": "Aleksandar Vucic Concedes Defeat in Serbian Election",
+      "published": "2026-10-26T08:51:09+00:00",
+      "author": "Andrew Higgins and Alisa Dogramadzieva",
+      "description": "“It is clear that we have lost these elections,” Aleksandar Vucic said in a surprisingly early speech congratulating his opponents.",
+      "link": "https://www.nytimes.com/2026/10/25/world/europe/serbia-vucic-election-defeat.html",
+      "image": "https://static01.nyt.com/images/2026/10/25/multimedia/25int-serbia-vucic-mpgv/25int-serbia-vucic-mpgv-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "108463120",
+      "title": "Neocloud stocks fall as Elon Musk says more than 200 of them face 'guppy-level death'",
+      "published": "2026-10-26T08:42:51+00:00",
+      "author": null,
+      "description": "Investors are already questioning the debt-fueled expansion of neoclouds and whether the large AI infrastructure build-out will generate long-term returns.",
+      "link": "https://www.cnbc.com/2026/10/26/neocloud-stocks-today-coreweave-nebius-iren-elon-musk.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108437814-1792509978035-gettyimages-2297775036-1r5_3021_gdulgt9a.jpeg?v=1792537393&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
     {
       "id": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
       "title": "Brazil runoff live updates: world leaders congratulate Lula on historic election win as Bolsonaro refuses to concede",
-      "published": "2026-10-26T08:18:02+00:00",
+      "published": "2026-10-26T08:40:13+00:00",
       "author": "Yohannes Lowe (now) with Adam Fulton and Marina Dunbar (earlier)",
       "description": "Leftist president Luiz Inácio Lula da Silva defeated the far-right senator and was elected president of Brazil for a fourth non-consecutive term Full report: Lula wins fourth term as Brazil’s president over Flávio Bolsonaro Live second round results The local electoral court ordered the immediate restoration of 100% of the bus fleet and ordered the arrest of the municipal transport secretary, Pablo Souza, on suspicion of an electoral offence and disobeying court orders. The arrest warrant could…",
       "link": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
@@ -16,6 +44,34 @@
       "category": "World News",
       "feed_url": "https://www.theguardian.com/world/rss",
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/us/after-a-judge-ruled-that-trumps-name-was-illegally-added-to-washingtons-kennedy-center-a-lawmaker-has-sought-nearly-200-withheld-text-messages-as-a-court-battle-over-the-landmarks-planned-closure-continues/articleshow/135203908.cms",
+      "title": "Trump’s Kennedy Center row deepens as lawmaker demands nearly 200 secret text messages",
+      "published": "2026-10-26T08:35:10+00:00",
+      "author": "TOI World Desk",
+      "description": "A Democratic US lawmaker has asked a federal judge to order the Trump administration to release nearly 200 withheld text messages concerning Washington's Kennedy Center. The request comes amid a legal dispute over plans to close the performing arts centre for renovations, months after a judge ruled that Trump's name had been illegally added to the building and ordered its removal.",
+      "link": "https://timesofindia.indiatimes.com/world/us/after-a-judge-ruled-that-trumps-name-was-illegally-added-to-washingtons-kennedy-center-a-lawmaker-has-sought-nearly-200-withheld-text-messages-as-a-court-battle-over-the-landmarks-planned-closure-continues/articleshow/135203908.cms",
+      "image": "https://static.toiimg.com/photo/msid-135205349,imgsize-778158.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/crx2dyd24188o#0",
+      "title": "Uganda imposes 21-day quarantine on citizens returning from DR Congo",
+      "published": "2026-10-26T08:18:22+00:00",
+      "author": null,
+      "description": "Uganda will also not allow most travellers who have been in DR Congo to transit through the country.",
+      "link": "https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1265/live/b5d85d90-d10a-11f1-ac54-9f7716f7b702.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/us/ford-foundation-is-making-its-biggest-strategic-shift-since-2015-with-7-priorities-reshaping-its-18-billion-funding-strategy-and-700-million-in-grants-expected-in-2027/articleshow/135205859.cms",
@@ -32,6 +88,20 @@
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
+      "id": "t3_1xfqtjz",
+      "title": "Zelensky: Ukraine Offered US 3 Ways to Stop Strikes on Russian Oil Refineries",
+      "published": "2026-10-26T08:09:39+00:00",
+      "author": "/u/ArgentineBeauty",
+      "description": "submitted by /u/ArgentineBeauty [link] [comments]",
+      "link": "https://www.reddit.com/r/worldnews/comments/1xfqtjz/zelensky_ukraine_offered_us_3_ways_to_stop/",
+      "image": "https://external-preview.redd.it/9Zv2cXrsoUUZchOP9F6oBoZ0hC_nnzsS6Yji4kvbLrI.jpeg?width=640&crop=smart&auto=webp&s=bdac85a779f5897b04ea4357a65042946f5b4aa1",
+      "feed_name": "World News",
+      "feed_title": "World News",
+      "category": "World News",
+      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
+      "feed_icon": "https://www.redditstatic.com/icon.png/"
+    },
+    {
       "id": "108461512",
       "title": "Brazil's Lula wins historic presidential election; Bolsonaro reportedly refuses to concede",
       "published": "2026-10-26T08:05:28+00:00",
@@ -44,6 +114,20 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/real-estate/news/in-2024-zendaya-paid-6-5-million-for-ashley-tisdales-former-hollywood-hills-home-she-bought-the-house-next-door-for-over-2-million-in-2026-creating-a-roughly-half-acre-estate-with-the-second-home-now-being-renovated/articleshow/135206349.cms",
+      "title": "Zendaya expands Hollywood Hills estate with another $2M home",
+      "published": "2026-10-26T08:02:01+00:00",
+      "author": "TOI Real Estate Desk",
+      "description": "Zendaya began her real estate journey with a Mediterranean-style home purchased at age 20 in San Fernando Valley. She later acquired a ranch-style estate in Encino and a luxury condo in Brooklyn Heights. Recently, Zendaya bought a mid-century modern home in Hollywood Hills, previously owned by Ashley Tisdale. She subsequently purchased a neighboring property, a fixer-upper, signaling her intent to renovate it.",
+      "link": "https://timesofindia.indiatimes.com/real-estate/news/in-2024-zendaya-paid-6-5-million-for-ashley-tisdales-former-hollywood-hills-home-she-bought-the-house-next-door-for-over-2-million-in-2026-creating-a-roughly-half-acre-estate-with-the-second-home-now-being-renovated/articleshow/135206349.cms",
+      "image": "https://static.toiimg.com/photo/msid-135206467,imgsize-348295.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
       "id": "https://www.ndtv.com/opinion/why-the-west-needs-to-stop-putting-india-in-a-box-12236571#publisher=newsstand",
@@ -100,6 +184,20 @@
       "category": "World News",
       "feed_url": "https://www.theguardian.com/world/rss",
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6n8djd1078ro#3",
+      "title": "China's big political meeting could see Xi 'tighten discipline' in Party",
+      "published": "2026-10-26T07:40:57+00:00",
+      "author": null,
+      "description": "The highly secretive four-day Plenum starts Monday in Beijing.",
+      "link": "https://www.bbc.co.uk/news/articles/c6n8djd1078ro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5db8/live/b9600940-d100-11f1-9d25-c3fafb2ab4de.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/us/in-2020-a-california-homeowner-sought-permission-to-build-a-second-living-unit-on-his-property-he-says-city-delays-lasted-over-three-years-and-cost-him-more-than-1-million-and-an-appeals-court-has-revived-his-lawsuit/articleshow/135205826.cms",
@@ -425,6 +523,20 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cwzd6q630vjeo#1",
+      "title": "Eric Bauza, voice of Bugs Bunny and Daffy Duck, dies aged 46",
+      "published": "2026-10-26T06:16:15+00:00",
+      "author": null,
+      "description": "Bauza had voiced a number of characters in this summer's animated hit Coyote vs. Acme.",
+      "link": "https://www.bbc.co.uk/news/articles/cwzd6q630vjeo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ba1/live/0257f500-d100-11f1-9d25-c3fafb2ab4de.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwzd6q630vjeo#0",
       "title": "Eric Bauza, voice of Bugs Bunny and Daffy Duck, dies aged 46",
       "published": "2026-10-26T06:16:15+00:00",
       "author": null,
@@ -1068,6 +1180,20 @@
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
+      "id": "https://www.bbc.co.uk/news/videos/cmp8g0x4l11yo#2",
+      "title": "Watch: How President Lula turned it around to beat Flávio Bolsonaro",
+      "published": "2026-10-26T02:53:00+00:00",
+      "author": null,
+      "description": "Brazil's left-wing President has been elected for a fourth term after narrowly beating right-wing Flávio Bolsonaro in a knife-edge vote.",
+      "link": "https://www.bbc.co.uk/news/videos/cmp8g0x4l11yo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3247/live/2f1c2d90-d10a-11f1-b441-2b33b063138f.png",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
       "id": "https://www.ndtv.com/world-news/brazil-elections-luiz-inacio-lula-da-silva-vocal-critic-of-president-donald-trump-reelected-in-brazil-12235299#publisher=newsstand",
       "title": "Brazil's Lula da Silva, Vocal Critic Of Trump, Reelected For 4th Time",
       "published": "2026-10-26T02:40:44+00:00",
@@ -1234,20 +1360,6 @@
       "category": "World News",
       "feed_url": "https://www.reddit.com/r/worldnews/.rss",
       "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/10/25/world/europe/serbia-vucic-election-defeat.html",
-      "title": "Aleksandar Vucic Concedes Defeat in Serbian Election",
-      "published": "2026-10-26T01:57:25+00:00",
-      "author": "Andrew Higgins and Alisa Dogramadzieva",
-      "description": "“It is clear that we have lost these elections,” Aleksandar Vucic said in a surprisingly early speech congratulating his opponents.",
-      "link": "https://www.nytimes.com/2026/10/25/world/europe/serbia-vucic-election-defeat.html",
-      "image": "https://static01.nyt.com/images/2026/10/25/multimedia/25int-serbia-vucic-mpgv/25int-serbia-vucic-mpgv-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/rest-of-world/sri-lanka-gives-medical-aid-to-stranded-iranian-sailors/articleshow/135200568.cms",
@@ -1419,7 +1531,7 @@
     },
     {
       "id": "https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election",
-      "title": "Lula wins fourth term as Brazil president after historic upset over far-right Flávio Bolsonaro",
+      "title": "Lula wins historic fourth term as Brazilian president in defeat of far-right Flávio Bolsonaro",
       "published": "2026-10-26T00:19:05+00:00",
       "author": "Tom Phillips in São Paulo and Tiago Rogero in Brasília",
       "description": "Leftist incumbent Lula says unprecedented comeback was a ‘defeat for denialism’ as Bolsonaro refuses to accept election result Lula wins election in stunning comeback – live updates Luiz Inácio Lula da Silva , the Brazilian president, has staged a dramatic election fightback , defeating his far-right opponent, Flávio Bolsonaro , to claim a historic fourth term in power. With 100% of votes counted the 80-year-old leftist received 4.4m votes more than Bolsonaro, with a 51.79% share to his 45-year…",
@@ -1488,6 +1600,20 @@
       "feed_icon": "https://www.redditstatic.com/icon.png/"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo#3",
+      "title": "Big, noisy and coming to a town near you - why the data centre backlash is growing",
+      "published": "2026-10-25T23:44:34+00:00",
+      "author": null,
+      "description": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts.",
+      "link": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68b2/live/52453c80-cc82-11f1-bc2e-018d645d8d21.png",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
       "id": "https://www.nytimes.com/live/2026/10/25/world/brazil-election/the-presidential-election-in-brazil-is-a-test-of-trumps-power-as-a-kingmaker",
       "title": "The presidential election in Brazil is a test of Trump’s power as a kingmaker.",
       "published": "2026-10-25T23:41:49+00:00",
@@ -1517,6 +1643,20 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cqrmyl1mljppo#1",
+      "title": "Rapper Nicki Minaj joins Trump onstage at Michigan rally",
+      "published": "2026-10-25T23:33:19+00:00",
+      "author": null,
+      "description": "The Super Bass singer is the latest big name to campaign in Michigan, where a tight Senate race is playing out ahead of the 3 November midterms.",
+      "link": "https://www.bbc.co.uk/news/articles/cqrmyl1mljppo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8395/live/f35a8d90-d0fc-11f1-9d25-c3fafb2ab4de.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqrmyl1mljppo#0",
       "title": "Rapper Nicki Minaj joins Trump onstage at Michigan rally",
       "published": "2026-10-25T23:33:19+00:00",
       "author": null,
@@ -1621,6 +1761,34 @@
       "description": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
       "link": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c38d/live/19e08ff0-d0a3-11f1-adbe-cd0eaeb0fff9.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo#1",
+      "title": "Deeply divided Israel braces for pivotal election",
+      "published": "2026-10-25T22:11:13+00:00",
+      "author": null,
+      "description": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
+      "link": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c38d/live/19e08ff0-d0a3-11f1-adbe-cd0eaeb0fff9.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo#2",
+      "title": "Why Israel's election is one of the most important in its history",
+      "published": "2026-10-25T22:05:30+00:00",
+      "author": null,
+      "description": "Security and democracy emerge as central issues in Israel's highly anticipated general election, as Middle East correspondent Lucy Williamson reports.",
+      "link": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf80/live/c5aaa2d0-d0ad-11f1-84bc-f3a33719a550.jpg",
       "feed_name": "BBC News - World",
       "feed_title": "BBC News",
       "category": "World News",
@@ -2301,6 +2469,20 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo#0",
+      "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
+      "published": "2026-10-25T15:32:51+00:00",
+      "author": null,
+      "description": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said.",
+      "link": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2825/live/a8b0e250-d07d-11f1-a4ba-351760cfea6a.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo#1",
       "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
       "published": "2026-10-25T15:32:51+00:00",
       "author": null,
@@ -4456,6 +4638,20 @@
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
+      "id": "https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o#2",
+      "title": "Fire engulfs Hitler's mountaintop Eagle's Nest retreat",
+      "published": "2026-10-24T15:56:48+00:00",
+      "author": null,
+      "description": "Police in the southern German state of Bavaria have detained a 33-year-old German man following the fire.",
+      "link": "https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfba/live/f1443bc0-cfbf-11f1-93e1-3b657b665bcf.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo#0",
       "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
       "published": "2026-10-24T15:21:44+00:00",
@@ -4757,6 +4953,20 @@
       "description": "Kaylub Giamanco has been hailed as a hero for killing a teenager who fatally shot three children and a teacher.",
       "link": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2348/live/e4a29f10-cf42-11f1-93e1-3b657b665bcf.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/videos/cqy7lvv0lvzpo#2",
+      "title": "Who actually controls Ukraine's access to Starlink?",
+      "published": "2026-10-23T22:24:36+00:00",
+      "author": null,
+      "description": "President Zelensky says limits to the technology continue to affect Ukrainian forces, while US officials and Elon Musk offer conflicting accounts of who controls it.",
+      "link": "https://www.bbc.co.uk/news/videos/cqy7lvv0lvzpo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a39d/live/2b410510-cf2f-11f1-b441-2b33b063138f.jpg",
       "feed_name": "BBC News - World",
       "feed_title": "BBC News",
       "category": "World News",
