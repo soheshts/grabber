@@ -1,8 +1,22 @@
 {
   "category": "DIY",
-  "updated": "2026-10-26T19:33:25.235552+00:00",
-  "count": 153,
+  "updated": "2026-10-26T20:02:54.166502+00:00",
+  "count": 154,
   "items": [
+    {
+      "id": "https://www.howtogeek.com/this-is-the-add-on-that-convinced-me-to-learn-the-linux-terminal/",
+      "title": "How Kali Linux's Zsh setup turned me into a terminal fan",
+      "published": "2026-10-26T20:00:15+00:00",
+      "author": "Zunaid Ali",
+      "description": "Why use the GUI when a few installations can make the command-line a powerhouse?",
+      "link": "https://www.howtogeek.com/this-is-the-add-on-that-convinced-me-to-learn-the-linux-terminal/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/oh-my-zsh-in-the-terminal-on-kali-linux.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/laptop-makers-finally-have-an-excuse-to-stop-soldering-down-ram/",
       "title": "Laptop makers finally have an excuse to stop soldering down RAM",
