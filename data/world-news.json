@@ -1,12 +1,12 @@
 {
   "category": "World News",
-  "updated": "2026-10-26T21:45:12.637756+00:00",
-  "count": 546,
+  "updated": "2026-10-26T22:03:25.356249+00:00",
+  "count": 549,
   "items": [
     {
       "id": "108465785",
       "title": "DOJ charges ex-FBI Director James Comey in new case",
-      "published": "2026-10-26T21:43:10+00:00",
+      "published": "2026-10-26T21:57:26+00:00",
       "author": null,
       "description": "Comey for years has been targeted by President Donald Trump, who fired him as FBI director in 2017.",
       "link": "https://www.cnbc.com/2026/10/26/james-comey-indictment-national-defense-doj-trump.html",
@@ -16,6 +16,62 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/26/flavio-bolsonaro-brazil-lula-election",
+      "title": "Brazil: defeated Flávio Bolsonaro ordered to surrender passports",
+      "published": "2026-10-26T21:56:49+00:00",
+      "author": "Tiago Rogero in Brasília",
+      "description": "Far-right senator banned from leaving country as supreme court ruling makes reference to money-laundering case The far-right senator Flávio Bolsonaro was banned from leaving Brazil and ordered to surrender his passports just hours after his dramatic loss in the presidential election to the leftist president Luiz Inácio Lula da Silva. The ruling was issued by supreme court justice Alexandre de Moraes, the same justice who oversaw the trial of the senator’s father, the former president Jair Bolso…",
+      "link": "https://www.theguardian.com/world/2026/oct/26/flavio-bolsonaro-brazil-lula-election",
+      "image": "https://i.guim.co.uk/img/media/0de4d058b50f7c1ef96360807b8a7d704ff3313e/688_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e39789a412717bcb0b233bfa8e01c81e",
+      "feed_name": "The Guardian",
+      "feed_title": "World news | The Guardian",
+      "category": "World News",
+      "feed_url": "https://www.theguardian.com/world/rss",
+      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-social-media.html",
+      "title": "How Lula’s Social Media Campaign Helped Him Win Brazil’s Election",
+      "published": "2026-10-26T21:51:52+00:00",
+      "author": "Ana Ionova, Adam B. Ellick and Jack Nicas",
+      "description": "President Luiz Inácio Lula da Silva won another term on Sunday, with the help of a seismic social media campaign that convinced Brazilians to reject his rival.",
+      "link": "https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-social-media.html",
+      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26brazil-election-assess-mwht/26brazil-election-assess-mwht-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.theguardian.com/australia-news/live/2026/oct/27/one-nation-pauline-hanson-independent-jacqui-lambie-labor-anthony-albanese-coalition-ntwnfb",
+      "title": "Australian politics live: Lambie awaiting Hanson apology over cartoon; Liberal candidate’s husband allegedly attacked",
+      "published": "2026-10-26T21:46:12+00:00",
+      "author": "Kat Wong",
+      "description": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Political debate should be ‘robust but respectful’: Ruston A day after MPs addressed the House of Representatives paying tribute to independent Helen Haines , who was injured after an alleged attack in her electorate, Liberal senator Anne Ruston maintains that respect is necessary in political debate. What we do here sets the tone for what the rest of the nation thinks is acceptable. There is a huge responsi…",
+      "link": "https://www.theguardian.com/australia-news/live/2026/oct/27/one-nation-pauline-hanson-independent-jacqui-lambie-labor-anthony-albanese-coalition-ntwnfb",
+      "image": "https://i.guim.co.uk/img/media/09681905fabaf078dfedd3f50f0c72508a1fb9d0/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=0b824730aed8fa210e206baa90e2f49f",
+      "feed_name": "The Guardian",
+      "feed_title": "World news | The Guardian",
+      "category": "World News",
+      "feed_url": "https://www.theguardian.com/world/rss",
+      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/26/world/middleeast/netanyahu-iran-israel-election.html",
+      "title": "Netanyahu Pushed for Attack on Iran Ahead of Israeli Election, Officials Say",
+      "published": "2026-10-26T21:44:15+00:00",
+      "author": "David M. Halbfinger, Ronen Bergman, Natan Odenheimer, Adam Rasgon and Aaron Boxerman",
+      "description": "Israel’s military chief resisted the prime minister, who then pressed in recent days for a separate action, short of an overt strike, according to an official and a person briefed on the matter.",
+      "link": "https://www.nytimes.com/2026/10/26/world/middleeast/netanyahu-iran-israel-election.html",
+      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26int-israel-netanyahu-iran-qmcz/26int-israel-netanyahu-iran-qmcz-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://www.nytimes.com/2026/10/26/world/brazil-serbia-election-results-anthropic.html",
@@ -58,20 +114,6 @@
       "category": "World News",
       "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://www.theguardian.com/australia-news/live/2026/oct/27/one-nation-pauline-hanson-independent-jacqui-lambie-labor-anthony-albanese-coalition-ntwnfb",
-      "title": "Australian politics live: Lambie awaiting Hanson apology over cartoon; Liberal candidate’s husband allegedly attacked",
-      "published": "2026-10-26T21:30:02+00:00",
-      "author": "Kat Wong",
-      "description": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Political debate should be ‘robust but respectful’: Ruston A day after MPs addressed the House of Representatives paying tribute to independent Helen Haines , who was injured after an alleged attack in her electorate, Liberal senator Anne Ruston maintains that respect is necessary in political debate. What we do here sets the tone for what the rest of the nation thinks is acceptable. There is a huge responsi…",
-      "link": "https://www.theguardian.com/australia-news/live/2026/oct/27/one-nation-pauline-hanson-independent-jacqui-lambie-labor-anthony-albanese-coalition-ntwnfb",
-      "image": "https://i.guim.co.uk/img/media/09681905fabaf078dfedd3f50f0c72508a1fb9d0/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=0b824730aed8fa210e206baa90e2f49f",
-      "feed_name": "The Guardian",
-      "feed_title": "World news | The Guardian",
-      "category": "World News",
-      "feed_url": "https://www.theguardian.com/world/rss",
-      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
     },
     {
       "id": "https://timesofindia.indiatimes.com/real-estate/news/built-in-1911-for-grocery-heir-sess-cleveland-and-home-to-his-family-for-60-years-a-5700-sq-ft-historic-mansion-on-houstons-courtlandt-place-that-last-sold-in-2015-after-being-listed-at-2-35-million-is-now-on-the-market-for-nearly-4-million/articleshow/135203027.cms",

@@ -1,8 +1,22 @@
 {
   "category": "space",
-  "updated": "2026-10-26T21:45:12.637756+00:00",
-  "count": 99,
+  "updated": "2026-10-26T22:03:25.356249+00:00",
+  "count": 102,
   "items": [
+    {
+      "id": "https://science.nasa.gov/blog/tingas-tale/",
+      "title": "Tinga’s Tale",
+      "published": "2026-10-26T21:17:02+00:00",
+      "author": null,
+      "description": "Written by Margaret Deahn, Ph.D. candidate at Purdue University Oct. 19, 2026 Once upon a time, NASA’s Mars 2020 rover investigated the southern border of “Idubi,” an outcrop composed primarily of an igneous mineral geologists call olivine. The rover’s “eyes” captured a very exciting geologic feature during its traverse — a contact between distinct rock […]",
+      "link": "https://science.nasa.gov/blog/tingas-tale/",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/mars2020/2026/perseverance-rover-updates/Mars_Perseverance_ZL0_2009_0845281389_428EBY_N0911496ZCAM10039_1100LMJ.jpg?w=1648&h=1200&fit=clip&crop=faces%2Cfocalpoint",
+      "feed_name": "NASA Breaking News",
+      "feed_title": "NASA",
+      "category": "space",
+      "feed_url": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.nasa.gov&sz=64"
+    },
     {
       "id": "https://www.nasa.gov/?p=1059203",
       "title": "NASA’s Perseverance Offers Clues to Protect Crews From Mars Dust",
@@ -30,6 +44,34 @@
       "category": "space",
       "feed_url": "https://www.space.com/feeds/all",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.space.com&sz=64"
+    },
+    {
+      "id": "https://science.nasa.gov/photojournal/neo-surveyors-sunshade-gets-inspected/",
+      "title": "NEO Surveyor’s Sunshade Gets Inspected",
+      "published": "2026-10-26T20:53:13+00:00",
+      "author": null,
+      "description": "Description The large sunshade of NASA’s Near-Earth Object (NEO) Surveyor is mounted on an assembly ring during inspections in a clean room at BAE Systems Space & Mission Systems in Boulder, Colorado, in July 2026. The sunshade structure stands 20 feet (6 meters) tall and measures 8 feet (2.4 meters) wide at its base. Its two flat […]",
+      "link": "https://science.nasa.gov/photojournal/neo-surveyors-sunshade-gets-inspected/",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26780/PIA26780.jpg?w=1024&h=1536&fit=clip&crop=faces%2Cfocalpoint",
+      "feed_name": "NASA Breaking News",
+      "feed_title": "NASA",
+      "category": "space",
+      "feed_url": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.nasa.gov&sz=64"
+    },
+    {
+      "id": "https://science.nasa.gov/photojournal/solar-cells-inspected-on-nasas-neo-surveyor/",
+      "title": "Solar Cells Inspected on NASA’s NEO Surveyor",
+      "published": "2026-10-26T20:52:24+00:00",
+      "author": null,
+      "description": "Description The large sunshade of NASA’s Near-Earth Object (NEO) Surveyor mission is inspected by a technician at BAE Systems Space & Mission Systems in Boulder, Colorado, in late July. Built by Applied Aerospace in Stockton, California, the sunshade structure was outfitted with its solar cells by SolAero Technologies in Albuquerque, New Mexico, in January. Environmental […]",
+      "link": "https://science.nasa.gov/photojournal/solar-cells-inspected-on-nasas-neo-surveyor/",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26715/PIA26715.jpg?w=1536&h=1024&fit=clip&crop=faces%2Cfocalpoint",
+      "feed_name": "NASA Breaking News",
+      "feed_title": "NASA",
+      "category": "space",
+      "feed_url": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.nasa.gov&sz=64"
     },
     {
       "id": "MLftRqzL3b6xLDMnP7iWJB",

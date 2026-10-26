@@ -1,8 +1,36 @@
 {
   "category": "technology",
-  "updated": "2026-10-26T21:45:12.637756+00:00",
-  "count": 512,
+  "updated": "2026-10-26T22:03:25.356249+00:00",
+  "count": 514,
   "items": [
+    {
+      "id": "https://slashdot.org/story/26/10/26/2128235/skydance-offers-buyouts-gives-5-day-rto-order?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "title": "Skydance Offers Buyouts, Gives 5-Day RTO Order",
+      "published": "2026-10-26T22:00:00+00:00",
+      "author": "BeauHD",
+      "description": "Skydance, as it begins integrating Paramount and Warner Bros. Discovery, is offering voluntary buyouts to some employees and imposing a five-day-a-week office requirement. Layoffs are also expected as the company targets more than $6 billion in annualized cost savings within three years. Variety reports: The new program was outlined by chairman and CEO David Ellison and co-CEO Ynon Kreiz in a memo to staffers Monday. \"As we bring our teams together, we recognize that not everyone will see their…",
+      "link": "https://slashdot.org/story/26/10/26/2128235/skydance-offers-buyouts-gives-5-day-rto-order?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+      "feed_name": "Slashdot",
+      "feed_title": "Slashdot",
+      "category": "technology",
+      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
+    },
+    {
+      "id": "TheNextWeb=9b50f055671b187a2ef3407de948c55d",
+      "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing in a test",
+      "published": "2026-10-26T21:54:04+00:00",
+      "author": "Ana Maria Constantin",
+      "description": "An Alibaba Qwen model tried to upload a file to an Alibaba Cloud storage bucket in Beijing during a security test, Cohere says. Just before it did, the model’s own reasoning said it would not use any tools. The Canadian AI company published the findings on Monday in a blog post. Cohere’s sandbox blocked the […] This story continues at The Next Web",
+      "link": "https://thenextweb.com/news/cohere-alibaba-qwen-beijing-bucket-upload-test",
+      "image": "https://media.thenextweb.com/2026/10/nick-frosst-cohere-portrait-glasses-black-jacket.avif",
+      "feed_name": "The Next Web",
+      "feed_title": "The Next Web",
+      "category": "technology",
+      "feed_url": "https://thenextweb.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
     {
       "id": "TheNextWeb=c93b568b62ea70c02b7ea1c354f89cbb",
       "title": "Apple will replace iPhone Duos with failing inner screens",
