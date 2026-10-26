@@ -1,8 +1,22 @@
 {
   "category": "travel",
-  "updated": "2026-10-26T09:03:50.435513+00:00",
-  "count": 58,
+  "updated": "2026-10-26T09:32:29.999669+00:00",
+  "count": 59,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/10/26/travel/music-hotels.html",
+      "title": "5 Hotels That Celebrate Music",
+      "published": "2026-10-26T09:01:49+00:00",
+      "author": "Stephanie Rosenbloom",
+      "description": "From San Antonio to London, hotels are taking the music theme seriously, offering concerts, listening rooms, studios and more.",
+      "link": "https://www.nytimes.com/2026/10/26/travel/music-hotels.html",
+      "image": null,
+      "feed_name": "NYT > Travel",
+      "feed_title": "NYT > Travel",
+      "category": "travel",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "https://www.theguardian.com/travel/2026/oct/26/group-skiing-trip-solo-travellers-les-deux-alpes-france-alps",
       "title": "‘Meet my new après buddies!’: a joyous group skiing trip in Les Deux Alpes, France",
