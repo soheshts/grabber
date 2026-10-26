@@ -1,8 +1,22 @@
 {
   "category": "DIY",
-  "updated": "2026-10-26T21:02:35.920563+00:00",
-  "count": 160,
+  "updated": "2026-10-26T21:33:29.503047+00:00",
+  "count": 161,
   "items": [
+    {
+      "id": "https://www.howtogeek.com/i-couldnt-figure-out-why-my-files-kept-getting-corrupted-it-turns-out-my-ram-was-to-blame/",
+      "title": "I couldn't figure out why my files kept getting corrupted. It turns out my RAM was to blame",
+      "published": "2026-10-26T21:31:15+00:00",
+      "author": "Monica J. White",
+      "description": "I learned the hard way that corrupted files don't always mean a failing SSD",
+      "link": "https://www.howtogeek.com/i-couldnt-figure-out-why-my-files-kept-getting-corrupted-it-turns-out-my-ram-was-to-blame/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/crucial-ram-in-slot.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/open-source-tool-lets-me-mount-any-website-as-a-folder-on-linux/",
       "title": "This open-source tool lets me mount any website as a folder on Linux",

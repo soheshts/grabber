@@ -1,8 +1,50 @@
 {
   "category": "science",
-  "updated": "2026-10-26T21:02:35.920563+00:00",
-  "count": 358,
+  "updated": "2026-10-26T21:33:29.503047+00:00",
+  "count": 362,
   "items": [
+    {
+      "id": "news712253282",
+      "title": "Metalens microscope switches focus with voltage, not moving optics",
+      "published": "2026-10-26T21:20:10+00:00",
+      "author": null,
+      "description": "Just as it is difficult for a camera to keep both a nearby flower and a distant mountain sharply focused at the same time, conventional optical microscopes face a similar challenge when imaging structures located at different depths inside the body. Tighter focusing of light improves spatial resolution, but at the same time reduces the depth range over which the image remains sharply focused.",
+      "link": "https://phys.org/news/2026-10-metalens-microscope-focus-voltage-optics.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-metalens-photoacoust.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "news712232964",
+      "title": "Beyond trial and error: Integrating computation, processing, and AI to design high-entropy alloys",
+      "published": "2026-10-26T21:20:01+00:00",
+      "author": null,
+      "description": "Designing structural high-entropy alloys (SHEAs) means solving a problem with an enormous number of moving parts: which combinations of composition and processing conditions will yield the phases, microstructures, and mechanical properties a given application demands? Because these alloys mix multiple principal elements in comparable proportions, that question spans length and time scales that no single experiment or model can cover on its own.",
+      "link": "https://phys.org/news/2026-10-trial-error-ai-high-entropy.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/beyond-trial-and-error.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/26/science/space/early-universe-simulation-lumina.html",
+      "title": "Gaze at the Cosmic Dawn in Dizzying Detail",
+      "published": "2026-10-26T21:14:48+00:00",
+      "author": "Katrina Miller",
+      "description": "A new simulation offers a highly immersive look at what happened during the first couple of billion years following the Big Bang.",
+      "link": "https://www.nytimes.com/2026/10/26/science/space/early-universe-simulation-lumina.html",
+      "image": null,
+      "feed_name": "NYT > Science",
+      "feed_title": "NYT > Science",
+      "category": "science",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "news712252441",
       "title": "Silent bacterial genes yield potential leads for future cancer drugs",
@@ -30,6 +72,20 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8jt8",
+      "title": "The Life Scientific: Gillian Forrester",
+      "published": "2026-10-26T21:00:00+00:00",
+      "author": "BBC World Service",
+      "description": "What do the very first writhing movements of babies have in common with orangutans solving problems for food? Well, according to Gillian Forrester they may both offer clues about how we humans developed language. Working with her great ape colleagues, Gilly Forrester – Professor of Comparative Cognition at the University of Sussex – has dedicated her career to finding out how we became the talkative, tool-using troop we are today. Examining the link between movement, spoken language and social…",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8jt8",
+      "image": "https://ichef.bbci.co.uk/images/ic/1200x675/p0kxnch7.jpg",
+      "feed_name": "Discovery",
+      "feed_title": "Discovery",
+      "category": "science",
+      "feed_url": "https://podcasts.files.bbci.co.uk/p002w557.rss",
+      "feed_icon": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0p7r0yl.jpg"
     },
     {
       "id": "https://flowingdata.com/?p=83189",
