@@ -1,8 +1,22 @@
 {
   "category": "travel",
-  "updated": "2026-10-26T16:32:21.794822+00:00",
+  "updated": "2026-10-26T17:02:59.219720+00:00",
   "count": 61,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/10/23/travel/horse-therapy-retreats.html",
+      "title": "6 Horse Therapy Retreats That Offer Meditation, Yoga and More",
+      "published": "2026-10-26T16:51:35+00:00",
+      "author": "Ondine Cohane",
+      "description": "In new programs, interactions with horses go beyond riding to meditation, yoga and therapy that practitioners say can help restore life balance.",
+      "link": "https://www.nytimes.com/2026/10/23/travel/horse-therapy-retreats.html",
+      "image": null,
+      "feed_name": "NYT > Travel",
+      "feed_title": "NYT > Travel",
+      "category": "travel",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "https://www.atlasobscura.com/places/night-song-at-riverbend-park",
       "title": "‘Night Song’ in Muncie, Indiana",
@@ -226,20 +240,6 @@
       "category": "travel",
       "feed_url": "https://www.atlasobscura.com/feeds/latest",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.atlasobscura.com&sz=64"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/10/23/travel/horse-therapy-retreats.html",
-      "title": "6 Horse Therapy Retreats That Offer Meditation, Yoga and More",
-      "published": "2026-10-23T12:19:34+00:00",
-      "author": "Ondine Cohane",
-      "description": "In new programs, interactions with horses go beyond riding to meditation, yoga and therapy that practitioners say can help restore life balance.",
-      "link": "https://www.nytimes.com/2026/10/23/travel/horse-therapy-retreats.html",
-      "image": null,
-      "feed_name": "NYT > Travel",
-      "feed_title": "NYT > Travel",
-      "category": "travel",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://www.nytimes.com/2026/10/23/t-magazine/tofu-dessert-chefs-restaurants.html",

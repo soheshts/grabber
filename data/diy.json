@@ -1,8 +1,50 @@
 {
   "category": "DIY",
-  "updated": "2026-10-26T16:32:21.794822+00:00",
-  "count": 138,
+  "updated": "2026-10-26T17:02:59.219720+00:00",
+  "count": 141,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/how-to-get-read-receipts-in-gmail-and-outlook/",
+      "title": "How to get read receipts in Gmail and Outlook",
+      "published": "2026-10-26T17:00:18+00:00",
+      "author": "Brandon Miniman",
+      "description": "This is how to get confirmation that someone's read your email.",
+      "link": "https://www.makeuseof.com/how-to-get-read-receipts-in-gmail-and-outlook/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/feat-3.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/i-stopped-paying-for-youtube-premium-after-discovering-braves-secret-filters/",
+      "title": "I stopped paying for YouTube Premium after discovering Brave’s secret filters",
+      "published": "2026-10-26T17:00:17+00:00",
+      "author": "Vishwamoorthy Ramakrishnan",
+      "description": "Brave’s hidden settings fix YouTube’s bloated mobile interface for free.",
+      "link": "https://www.howtogeek.com/i-stopped-paying-for-youtube-premium-after-discovering-braves-secret-filters/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/youtube-on-brave-browser-android.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.makeuseof.com/i-installed-a-firmware-unlock-on-my-rtx-4090-and-i-was-not-ready-for-how-close-it-got-to-pro-workstation-speeds/",
+      "title": "Free firmware unlock nearly doubles AI speed on your RTX 30 and 40 GPU",
+      "published": "2026-10-26T16:57:04+00:00",
+      "author": "Sara Heritage",
+      "description": "A firmware unlock lets RTX 40-series run FP16/BF16 tensor workloads near pro speeds on Linux, but it voids warranties.",
+      "link": "https://www.makeuseof.com/i-installed-a-firmware-unlock-on-my-rtx-4090-and-i-was-not-ready-for-how-close-it-got-to-pro-workstation-speeds/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/psu-gpu.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/sony-qssr-works-better-than-dlss-but-theres-a-catch/",
       "title": "Sony's QSSR works better than DLSS, but there's a catch",
