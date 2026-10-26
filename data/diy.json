@@ -1,8 +1,36 @@
 {
   "category": "DIY",
-  "updated": "2026-10-26T09:32:29.999669+00:00",
-  "count": 102,
+  "updated": "2026-10-26T10:03:47.987561+00:00",
+  "count": 104,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/i-didnt-need-a-kindle-to-get-the-reading-experience-i-wanted/",
+      "title": "I didn't need a Kindle to get the reading experience I wanted",
+      "published": "2026-10-26T10:00:18+00:00",
+      "author": "Rob LeFebvre",
+      "description": "Amazon's app can keep my Kindle books, but everything else goes to a free, open-source reader that does the job better.",
+      "link": "https://www.makeuseof.com/i-didnt-need-a-kindle-to-get-the-reading-experience-i-wanted/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/koreader-on-samsung-galaxy-z-fold-8.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/these-are-the-most-underrated-ryobi-tools/",
+      "title": "5 underrated Ryobi tools you didn’t know you needed",
+      "published": "2026-10-26T10:00:17+00:00",
+      "author": "Cory Gunther",
+      "description": "DIYers and homeowners will love these.",
+      "link": "https://www.howtogeek.com/these-are-the-most-underrated-ryobi-tools/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/08/ryobi-impact-driver-on-its-side.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://hackaday.com/?p=1354536",
       "title": "Hairy Armor For Combat Robot? It’s Not Terrible!",
