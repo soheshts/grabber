@@ -1,8 +1,50 @@
 {
   "category": "DIY",
-  "updated": "2026-10-26T20:02:54.166502+00:00",
-  "count": 154,
+  "updated": "2026-10-26T20:33:29.546223+00:00",
+  "count": 158,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/replacing-your-google-apps-doesnt-get-google-off-your-phone-and-this-is-why/",
+      "title": "Replacing your Google apps doesn’t get Google off your phone, and this is why",
+      "published": "2026-10-26T20:30:17+00:00",
+      "author": "Gregory Gibson",
+      "description": "I disabled every Google app I could find, but Google’s background connections hung on for dear life",
+      "link": "https://www.makeuseof.com/replacing-your-google-apps-doesnt-get-google-off-your-phone-and-this-is-why/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/pcapdroid-showing-connections-to-google-services.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/i-handed-my-google-keep-tasks-to-gemini-and-got-hours-back/",
+      "title": "I handed my Google Keep tasks to Gemini and got hours back",
+      "published": "2026-10-26T20:30:16+00:00",
+      "author": "Sanya Shah",
+      "description": "My lists needed a babysitter.",
+      "link": "https://www.howtogeek.com/i-handed-my-google-keep-tasks-to-gemini-and-got-hours-back/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/google-keep-lists.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/paramount-plus-movies-to-watch-this-week-october-26/",
+      "title": "4 captivating Paramount+ movies to watch this week (October 26-November 1)",
+      "published": "2026-10-26T20:16:15+00:00",
+      "author": "Tyler Dupont",
+      "description": "From a prophetic modern classic to an award-winning blockbuster.",
+      "link": "https://www.howtogeek.com/paramount-plus-movies-to-watch-this-week-october-26/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/09/paramount-logo-over-an-autumn-mountain-landscape.png",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/this-is-the-add-on-that-convinced-me-to-learn-the-linux-terminal/",
       "title": "How Kali Linux's Zsh setup turned me into a terminal fan",
@@ -16,6 +58,20 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://hackaday.com/?p=1354675",
+      "title": "Practice Japanese on an Inkplate 4Tempera eInk Device",
+      "published": "2026-10-26T20:00:01+00:00",
+      "author": "Maya Posch",
+      "description": "Learning a new natural language can be a daunting proposition at the best of times, with repetition and immersion generally considered to be the best ways to build up not …read more",
+      "link": "https://hackaday.com/2026/10/26/practice-japanese-on-an-inkplate-4tempera-eink-device/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/10/enkiplate_epaper_virpo_peter_hraska_github.jpg",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
     },
     {
       "id": "https://www.makeuseof.com/laptop-makers-finally-have-an-excuse-to-stop-soldering-down-ram/",
