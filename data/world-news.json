@@ -1,8 +1,50 @@
 {
   "category": "World News",
-  "updated": "2026-10-26T18:33:31.261053+00:00",
-  "count": 516,
+  "updated": "2026-10-26T19:03:46.329357+00:00",
+  "count": 519,
   "items": [
+    {
+      "id": "108462470",
+      "title": "Oil ticks lower as Saudi defense minister meets with Iran's president in Tehran to de-escalate",
+      "published": "2026-10-26T18:50:05+00:00",
+      "author": null,
+      "description": "Investors are worried about the vulnerability of Saudi energy infrastructure and the risk of another disruption to production, refining or export facilities.",
+      "link": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108421354-1792180537305-gettyimages-2300550189-_24a0706_rjfjbbgj.jpeg?v=1792180665&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "108464922",
+      "title": "Apple responds to user reports of broken iPhone Duo screens on new foldable phone",
+      "published": "2026-10-26T18:43:25+00:00",
+      "author": null,
+      "description": "Apple on Monday said it was aware of the issue and that it would replace the devices under its AppleCare warranty.",
+      "link": "https://www.cnbc.com/2026/10/26/apple-responds-to-user-reports-of-broken-iphone-duo-screens.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108452229-1792771288556-gettyimages-2301112643-APPLE_DUO.jpeg?v=1792771325&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/26/world/middleeast/egypt-military-saudi-houthis.html",
+      "title": "Egypt OKs Military Aid to Saudis in Fight With Houthis",
+      "published": "2026-10-26T18:35:10+00:00",
+      "author": "Erika Solomon and Rania Khaled",
+      "description": "The Egyptians will commit forces for defensive purposes only, officials have said, as the kingdom exchanges increasingly deadly strikes with the Iranian-backed militia in Yemen.",
+      "link": "https://www.nytimes.com/2026/10/26/world/middleeast/egypt-military-saudi-houthis.html",
+      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26int-egypt-3-jwpm/26int-egypt-3-jwpm-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "https://www.nytimes.com/2026/10/26/world/europe/serbia-election-vucic-nationalist-populists.html",
       "title": "Serbia’s Election Shows New Vulnerability for Nationalist Populists",
@@ -32,20 +74,6 @@
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
-      "id": "https://www.nytimes.com/2026/10/26/world/middleeast/egypt-military-saudi-houthis.html",
-      "title": "Egypt OKs Military Aid to Saudis in Fight With Houthis",
-      "published": "2026-10-26T18:26:17+00:00",
-      "author": "Erika Solomon and Rania Khaled",
-      "description": "The Egyptians will commit forces for defensive purposes only, officials have said, as the kingdom exchanges increasingly deadly strikes with the Iranian-backed militia in Yemen.",
-      "link": "https://www.nytimes.com/2026/10/26/world/middleeast/egypt-military-saudi-houthis.html",
-      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26int-egypt-3-jwpm/26int-egypt-3-jwpm-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
       "id": "t3_1xg4bug",
       "title": "Brexit has not “played out” like it was promised to the public, has weakened the economy and the current deal is not good enough, says Andy Burnham",
       "published": "2026-10-26T18:03:53+00:00",
@@ -72,6 +100,20 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/videos/c64g1wy4mdwmo#2",
+      "title": "Sydney's new $5bn airport has one big problem: Getting there is tough",
+      "published": "2026-10-26T18:00:10+00:00",
+      "author": null,
+      "description": "The airport won’t have direct public transportation for a year. How do locals feel about getting there?",
+      "link": "https://www.bbc.co.uk/news/videos/c64g1wy4mdwmo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe66/live/b5f63180-d0d8-11f1-93e1-3b657b665bcf.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/us-canada-tariff-deal-very-close-says-white-house-adviser-ahead-of-midterms/articleshow/135217243.cms",
@@ -144,20 +186,6 @@
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
-      "id": "108462470",
-      "title": "Oil ticks lower as Saudi defense minister meets with Iran's president in Tehran to de-escalate",
-      "published": "2026-10-26T17:42:54+00:00",
-      "author": null,
-      "description": "Investors are worried about the vulnerability of Saudi energy infrastructure and the risk of another disruption to production, refining or export facilities.",
-      "link": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108421354-1792180537305-gettyimages-2300550189-_24a0706_rjfjbbgj.jpeg?v=1792180665&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
       "id": "108464652",
       "title": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
       "published": "2026-10-26T17:40:30+00:00",
@@ -198,6 +226,20 @@
       "category": "World News",
       "feed_url": "https://www.theguardian.com/world/rss",
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
+    {
+      "id": "t3_1xg3h9t",
+      "title": "Russia And Iran Expand Nuclear Cooperation As International Oversight Weakens",
+      "published": "2026-10-26T17:33:07+00:00",
+      "author": "/u/neonpurplestar",
+      "description": "submitted by /u/neonpurplestar [link] [comments]",
+      "link": "https://www.reddit.com/r/worldnews/comments/1xg3h9t/russia_and_iran_expand_nuclear_cooperation_as/",
+      "image": "https://external-preview.redd.it/FkmwgWw8H9aR-tZKFqmgigYSkd-FTE4nBaJ7bP7TwuY.jpeg?width=640&crop=smart&auto=webp&s=3c4270575fc90d1bd8eb773b43227851d23820e9",
+      "feed_name": "World News",
+      "feed_title": "World News",
+      "category": "World News",
+      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
+      "feed_icon": "https://www.redditstatic.com/icon.png/"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/us/an-arizona-father-repeatedly-travelled-to-michigan-to-see-his-child-under-a-custody-order-but-the-mother-obtained-a-protection-order-accusing-him-of-harassment-an-october-23-appeals-court-ordered-that-protection-order-cancelled/articleshow/135216505.cms",
