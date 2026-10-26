@@ -1,8 +1,22 @@
 {
   "category": "DIY",
-  "updated": "2026-10-26T23:02:27.300852+00:00",
-  "count": 164,
+  "updated": "2026-10-26T23:32:11.903134+00:00",
+  "count": 165,
   "items": [
+    {
+      "id": "https://hackaday.com/?p=1393748",
+      "title": "Enable Resizable BAR on Unsupported Motherboards",
+      "published": "2026-10-26T23:00:42+00:00",
+      "author": "Maya Posch",
+      "description": "Recently [Rod Burlamaqui] released the arc-rebar project on GitHub, enabling Intel GPUs to work significantly more efficiently if the system’s mainboard does not support resizable BAR. It does require a …read more",
+      "link": "https://hackaday.com/2026/10/26/enable-resizable-bar-on-unsupported-motherboards/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/10/arc-rebar_fix_rod_burlamaqui_github.png",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/jailbroken-kindle-updates-goodreads-automatically/",
       "title": "I made my jailbroken Kindle update Goodreads automatically and now my reading stats are always up to date",

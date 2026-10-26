@@ -1,8 +1,36 @@
 {
   "category": "technology",
-  "updated": "2026-10-26T23:02:27.300852+00:00",
-  "count": 528,
+  "updated": "2026-10-26T23:32:11.903134+00:00",
+  "count": 531,
   "items": [
+    {
+      "id": "https://yro.slashdot.org/story/26/10/26/2150206/php2shell-security-flaws-now-successfully-exploited?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "title": "PHP2Shell Security Flaws Now Successfully Exploited",
+      "published": "2026-10-26T23:00:00+00:00",
+      "author": "BeauHD",
+      "description": "The critical PHP2Shell vulnerabilities (CVE-2026-109618 and CVE-2026-109619) have now been successfully exploited in the wild, just days after patches were released and initial exploitation attempts failed. BleepingComputer reports: The malicious activity was caught by Adel Karimi, detection and response lead at Perplexity, whose honeypots recorded evidence of confirmed remote code execution against an Apache mod_php installation running PHP 8.4.26. \"This is now confirmed RCE with usable memory…",
+      "link": "https://yro.slashdot.org/story/26/10/26/2150206/php2shell-security-flaws-now-successfully-exploited?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+      "feed_name": "Slashdot",
+      "feed_title": "Slashdot",
+      "category": "technology",
+      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
+    },
+    {
+      "id": "https://www.engadget.com/2294767/ways-to-use-playstation-5-usb-ports/",
+      "title": "6+ ways you can use your PlayStation 5's USB ports",
+      "published": "2026-10-26T23:00:00+00:00",
+      "author": "Ben Stegner",
+      "description": "You can do more than charge your controllers with the USB ports on your PS5. Here are some of the possibilities.",
+      "link": "https://www.engadget.com/2294767/ways-to-use-playstation-5-usb-ports/",
+      "image": "https://www.engadget.com/img/gallery/6-ways-you-can-use-your-playstation-5s-usb-ports/l-intro-1792698653.jpg",
+      "feed_name": "Engadget",
+      "feed_title": "Engadget - Technology News & Expert Reviews",
+      "category": "technology",
+      "feed_url": "https://www.engadget.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
     {
       "id": "https://www.engadget.com/2297806/halide-releases-its-first-batch-of-updates-for-the-iphone-duo/",
       "title": "Halide releases its first batch of updates for the iPhone Duo",
@@ -16,6 +44,20 @@
       "category": "technology",
       "feed_url": "https://www.engadget.com/rss.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
+    {
+      "id": "https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/",
+      "title": "Microsoft offers to buy out a quarter of its workforce",
+      "published": "2026-10-26T22:36:06+00:00",
+      "author": "Nick Indge",
+      "description": "Employees in the US, Canada, India, and the UK may receive offers to leave MS today.",
+      "link": "https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/02/microsoft-500x500.jpg",
+      "feed_name": "Ars Technica",
+      "feed_title": "Ars Technica - All content",
+      "category": "technology",
+      "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
+      "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
     },
     {
       "id": "TheNextWeb=5c0c25e50873e5ced87b46dd37b98e22",
