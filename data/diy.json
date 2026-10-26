@@ -1,8 +1,50 @@
 {
   "category": "DIY",
-  "updated": "2026-10-26T11:33:28.056434+00:00",
-  "count": 109,
+  "updated": "2026-10-26T12:03:45.588696+00:00",
+  "count": 112,
   "items": [
+    {
+      "id": "https://www.howtogeek.com/linux-apps-make-me-feel-like-a-90s-hollywood-hacker/",
+      "title": "These 5 Linux apps make me feel like a '90s Hollywood hacker (also works on Windows)",
+      "published": "2026-10-26T12:00:18+00:00",
+      "author": "Dibakar Ghosh",
+      "description": "If you’ve ever wanted your screen to look like it belongs in a ‘90s technothriller, these five apps will do it for you.",
+      "link": "https://www.howtogeek.com/linux-apps-make-me-feel-like-a-90s-hollywood-hacker/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/close-up-of-a-monitor-running-hollywood-inside-cool-retro-term-with-hex-dump-htop-and-man-page-panes.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.makeuseof.com/i-turned-on-system-doh-and-my-browser-ignored-it-completely/",
+      "title": "I turned on system DoH and my browser ignored it completely",
+      "published": "2026-10-26T12:00:18+00:00",
+      "author": "Yasir Mahmood",
+      "description": "Chrome had its own plans.",
+      "link": "https://www.makeuseof.com/i-turned-on-system-doh-and-my-browser-ignored-it-completely/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/google-chrome-gemini-7.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.makeuseof.com/windows-11-boost-performance-toggle-for-these-cpus/",
+      "title": "Windows 11 now comes with a functional performance boost toggle, but only for these CPUs",
+      "published": "2026-10-26T11:43:28+00:00",
+      "author": "Hamed Paydarfar",
+      "description": "Microsoft exposes an experimental APX toggle that promises fewer loads and stores once compilers and CPUs catch up.",
+      "link": "https://www.makeuseof.com/windows-11-boost-performance-toggle-for-these-cpus/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/09/windows-task-manager-displaying-high-cpu-usage.png",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/hp-omnibook-ultra-16-review/",
       "title": "HP OmniBook Ultra 16 review: A great RTX Spark laptop with one catch",

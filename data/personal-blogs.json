@@ -1,21 +1,35 @@
 {
   "category": "personal blogs",
-  "updated": "2026-10-26T11:33:28.056434+00:00",
-  "count": 415,
+  "updated": "2026-10-26T12:03:45.588696+00:00",
+  "count": 417,
   "items": [
     {
       "id": "https://medienbaecker.com/articles/number-go-up",
       "title": "Number go up",
       "published": "2026-10-26T11:00:00+00:00",
       "author": null,
-      "description": "Read more",
+      "description": "Best read on my website When I was talking to a client recently, I was surprised to learn how incredibly motivated she was to write all the alt texts ❶ for images on her site. I’m used to spending quite a lot of time convincing, explaining, sometimes begging, so that was cool. Talking to her some more, I realised Alter , my plugin for reviewing alt texts in the Kirby Panel, has something to do with it. In the plugin’s view, you can see the number of images with alt texts and that indicator turn…",
       "link": "https://medienbaecker.com/articles/number-go-up",
-      "image": "https://medienbaecker.com/media/pages/articles/number-go-up/6828c71fe2-1793012539/og.png",
+      "image": "https://medienbaecker.com/media/pages/articles/number-go-up/75f89d304f-1793012539/counter-874.webp",
       "feed_name": "Medienbäcker Thomas Günther",
       "feed_title": "Thomas Günther",
       "category": "personal blogs",
       "feed_url": "https://medienbaecker.com/articles.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=medienbaecker.com&sz=64"
+    },
+    {
+      "id": "http://localhost:4000/weeknotes/2026/10/26/weeknotes-no99.html",
+      "title": "Weeknotes No.99",
+      "published": "2026-10-26T07:30:00+00:00",
+      "author": null,
+      "description": "The weekend flew by, but I swear people sleep on Bradford all the time. As you should know by now, I’m a huge fan of the place. The city has a vibe, and the restaurants are silly good. We ate at Bab Tooma , and it was just amazing. The food was insane, the interior was great, the kids loved it, and we ordered the feast, which was so, so good. In short, go. Eat. Onto the week… It’s been a slower week than I expected. Work isn’t flowing in quite as much as I thought it would, but loads of little…",
+      "link": "http://localhost:4000/weeknotes/2026/10/26/weeknotes-no99.html",
+      "image": null,
+      "feed_name": "Michael Cattell",
+      "feed_title": "Michael Cattell",
+      "category": "personal blogs",
+      "feed_url": "https://www.michaelcattell.com/feed.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=localhost:4000&sz=64"
     },
     {
       "id": "https://mattgemmell.scot/books/once-upon-a-time/stories/shortages/",
@@ -660,6 +674,20 @@
       "category": "personal blogs",
       "feed_url": "http://feeds.feedburner.com/elliotjaystocks",
       "feed_icon": "https://elliotjaystocks.com/images/icons/favicon-196.png"
+    },
+    {
+      "id": "http://localhost:4000/thoughts/2026/10/22/ive-spent-years-removing-friction-now-i-deliberately-add-it.html",
+      "title": "I’ve spent years removing friction. Now I deliberately add it",
+      "published": "2026-10-22T06:30:00+00:00",
+      "author": null,
+      "description": "There’s something I hear all the time, and when I say all the time - I damn mean it! “Good UX means fewer clicks.” I’m not sure where that came from, but whenever it comes up, I nearly always share my screen and buy something on Amazon. That ain’t three clicks. Booking a holiday isn’t three clicks. Buying most things isn’t three clicks, and that’s absolutely fine. Clicking three times isn’t good UX. Clicking ten times isn’t bad UX. What matters is clicking with purpose and getting the job done…",
+      "link": "http://localhost:4000/thoughts/2026/10/22/ive-spent-years-removing-friction-now-i-deliberately-add-it.html",
+      "image": null,
+      "feed_name": "Michael Cattell",
+      "feed_title": "Michael Cattell",
+      "category": "personal blogs",
+      "feed_url": "https://www.michaelcattell.com/feed.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=localhost:4000&sz=64"
     },
     {
       "id": "https://snook.ca/everything/new-iphone/",
@@ -2024,9 +2052,9 @@
       "title": "Limitations",
       "published": "2026-10-14T11:13:00+00:00",
       "author": null,
-      "description": "medienbaecker.com has become my personal site. It’s a place where I talk about topics that are important to me, not strictly limited to web stuff. Read more",
+      "description": "medienbaecker.com has become my personal site. It’s a place where I talk about topics that are important to me, not strictly limited to web stuff.",
       "link": "https://medienbaecker.com/articles/limitations",
-      "image": null,
+      "image": "https://medienbaecker.com/media/assets/site/cache/medienbaecker.kirby-mastodon.media/avatars/1114316616-1791976506/3f514efd59a286982c0e5517132cfdc9-48x48-crop-dither.webp",
       "feed_name": "Medienbäcker Thomas Günther",
       "feed_title": "Thomas Günther",
       "category": "personal blogs",
