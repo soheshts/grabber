@@ -1,8 +1,22 @@
 {
   "category": "personal blogs",
-  "updated": "2026-10-26T19:03:46.329357+00:00",
-  "count": 422,
+  "updated": "2026-10-26T19:33:25.235552+00:00",
+  "count": 423,
   "items": [
+    {
+      "id": "https://www.bennadel.com/blog/4921-code-kata-arraymerge-polyfill-in-adobe-coldfusion.htm",
+      "title": "Code Kata: ArrayMerge() Polyfill In Adobe ColdFusion",
+      "published": "2026-10-27T00:08:20+00:00",
+      "author": null,
+      "description": "Ben Nadel creates a polyfill for ArrayMerge() in Adobe ColdFusion 2025 as a code kata using various techniques....",
+      "link": "https://www.bennadel.com/blog/4921-code-kata-arraymerge-polyfill-in-adobe-coldfusion.htm",
+      "image": "https://bennadel-cdn.com/resources/uploads/2026/array-merge-polyfill-variadic-acf@2x.png",
+      "feed_name": "Ben Nadel",
+      "feed_title": "Ben Nadel's Web Development and User Experience Feed @ BenNadel.com",
+      "category": "personal blogs",
+      "feed_url": "http://www.bennadel.com/index.cfm?dax=blog.rss&lst_tag_id=14,16,3,5,9,6,7,13,18,20,10,15",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.bennadel.com&sz=64"
+    },
     {
       "id": "https://daverupert.com/2026/10/arc-like-automatic-picture-in-picture-in-chromium/",
       "title": "Arc-like automatic picture-in-picture in Chromium",
