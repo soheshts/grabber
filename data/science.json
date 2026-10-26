@@ -1,8 +1,22 @@
 {
   "category": "science",
-  "updated": "2026-10-26T02:33:28.937504+00:00",
-  "count": 251,
+  "updated": "2026-10-26T03:02:55.953664+00:00",
+  "count": 253,
   "items": [
+    {
+      "id": "https://www.sciencedaily.com/releases/2026/10/261025222339.htm",
+      "title": "A simple liquid can stop cavities without drilling, major study confirms",
+      "published": "2026-10-26T02:41:13+00:00",
+      "author": null,
+      "description": "A simple liquid painted onto teeth in seconds can stop cavities without drilling, injections, or anesthesia, according to a major clinical trial involving young children. The inexpensive treatment could spare thousands of children painful dental procedures and surgery while paving the way for broader FDA-approved use.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261025222339.htm",
+      "image": "https://www.sciencedaily.com/images/1920/molar-teeth-cavities.webp",
+      "feed_name": "Latest Science News -- ScienceDaily",
+      "feed_title": "Latest Science News -- ScienceDaily",
+      "category": "science",
+      "feed_url": "https://www.sciencedaily.com/rss/all.xml",
+      "feed_icon": "https://www.sciencedaily.com/images/scidaily-logo-rss.png"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o#0",
       "title": "Two men killed by falling trees as Storm Boelo leaves 90,000 properties without power",
@@ -16,6 +30,20 @@
       "category": "science",
       "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2026/10/261024222024.htm",
+      "title": "Scientists overcome a hidden obstacle to more powerful quantum computers",
+      "published": "2026-10-26T01:42:48+00:00",
+      "author": null,
+      "description": "Scientists have discovered a way to operate multiple silicon qubits simultaneously with remarkable accuracy, overcoming a major challenge in scaling up quantum computers. Their new technique maintained accuracy of approximately 99.9% even when all five qubits were running at once, opening the door to larger and more powerful quantum processors.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261024222024.htm",
+      "image": "https://www.sciencedaily.com/images/1920/futuristic-quantum-computer-system-glowing.webp",
+      "feed_name": "Latest Science News -- ScienceDaily",
+      "feed_title": "Latest Science News -- ScienceDaily",
+      "category": "science",
+      "feed_url": "https://www.sciencedaily.com/rss/all.xml",
+      "feed_icon": "https://www.sciencedaily.com/images/scidaily-logo-rss.png"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cw80zk9k51j1o#0",

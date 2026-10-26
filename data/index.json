@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T02:33:28.937504+00:00",
+  "updated": "2026-10-26T03:02:55.953664+00:00",
   "categories": [
     {
       "name": "technology",
@@ -13,14 +13,14 @@
       "slug": "entertainment",
       "file": "entertainment.json",
       "feeds": 17,
-      "count": 300
+      "count": 302
     },
     {
       "name": "science",
       "slug": "science",
       "file": "science.json",
       "feeds": 21,
-      "count": 251
+      "count": 253
     },
     {
       "name": "personal blogs",
@@ -41,7 +41,7 @@
       "slug": "sports",
       "file": "sports.json",
       "feeds": 3,
-      "count": 621
+      "count": 641
     },
     {
       "name": "travel",
@@ -76,7 +76,7 @@
       "slug": "business-economy",
       "file": "business-economy.json",
       "feeds": 15,
-      "count": 300
+      "count": 302
     },
     {
       "name": "fashion",
@@ -90,14 +90,14 @@
       "slug": "funny",
       "file": "funny.json",
       "feeds": 14,
-      "count": 141
+      "count": 140
     },
     {
       "name": "gaming",
       "slug": "gaming",
       "file": "gaming.json",
       "feeds": 14,
-      "count": 223
+      "count": 224
     },
     {
       "name": "history",
@@ -111,21 +111,21 @@
       "slug": "world-news",
       "file": "world-news.json",
       "feeds": 8,
-      "count": 281
+      "count": 283
     },
     {
       "name": "India",
       "slug": "india",
       "file": "india.json",
       "feeds": 21,
-      "count": 800
+      "count": 819
     },
     {
       "name": "Malayalam",
       "slug": "malayalam",
       "file": "malayalam.json",
       "feeds": 11,
-      "count": 314
+      "count": 340
     }
   ]
 }
