@@ -1,8 +1,36 @@
 {
   "category": "DIY",
-  "updated": "2026-10-26T17:32:18.749151+00:00",
-  "count": 144,
+  "updated": "2026-10-26T18:03:46.155165+00:00",
+  "count": 147,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/cloud-gaming-looked-like-the-future-but-we-may-never-get-there/",
+      "title": "Cloud gaming looked like the future, but we may never get there",
+      "published": "2026-10-26T18:00:18+00:00",
+      "author": "Shaheer Khan",
+      "description": "Personal hardware over subscription services anyday.",
+      "link": "https://www.makeuseof.com/cloud-gaming-looked-like-the-future-but-we-may-never-get-there/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/04/geforce-now-ultimate-5-2.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/netflix-movies-shows-downloading-on-kids-tablet-before-road-trip/",
+      "title": "5 Netflix movies and shows I'm downloading on my kid's tablet before our next road trip",
+      "published": "2026-10-26T18:00:17+00:00",
+      "author": "Adam Davidson",
+      "description": "Keeping the peace, one episode at a time.",
+      "link": "https://www.howtogeek.com/netflix-movies-shows-downloading-on-kids-tablet-before-road-trip/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-phone-with-the-netflix-logo-and-a-download-icon.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/microsoft-edge-surf-game/",
       "title": "I keep Microsoft Edge around for this offline browser game that beats Chrome's dinosaur game",
@@ -16,6 +44,20 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://hackaday.com/?p=1393764",
+      "title": "Arduino Engine Runs Many Games",
+      "published": "2026-10-26T17:30:33+00:00",
+      "author": "Bryan Cockfield",
+      "description": "A few years ago, [Smashcat] ported a ZX Spectrum game called Manic Miner to the Arduino Uno. The Arduino has less memory than the original Spectrum did, so doing all this …read more",
+      "link": "https://hackaday.com/2026/10/26/arduino-engine-runs-many-games/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/10/zx-arduino-main.jpg",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
     },
     {
       "id": "https://www.makeuseof.com/why-dll-files-can-stop-windows-programs-launching/",

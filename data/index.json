@@ -1,40 +1,40 @@
 {
-  "updated": "2026-10-26T17:32:18.749151+00:00",
+  "updated": "2026-10-26T18:03:46.155165+00:00",
   "categories": [
     {
       "name": "technology",
       "slug": "technology",
       "file": "technology.json",
       "feeds": 24,
-      "count": 446
+      "count": 451
     },
     {
       "name": "entertainment",
       "slug": "entertainment",
       "file": "entertainment.json",
       "feeds": 17,
-      "count": 532
+      "count": 554
     },
     {
       "name": "science",
       "slug": "science",
       "file": "science.json",
       "feeds": 21,
-      "count": 324
+      "count": 328
     },
     {
       "name": "personal blogs",
       "slug": "personal-blogs",
       "file": "personal-blogs.json",
       "feeds": 339,
-      "count": 420
+      "count": 419
     },
     {
       "name": "space",
       "slug": "space",
       "file": "space.json",
       "feeds": 5,
-      "count": 91
+      "count": 92
     },
     {
       "name": "sports",
@@ -69,35 +69,35 @@
       "slug": "diy",
       "file": "diy.json",
       "feeds": 9,
-      "count": 144
+      "count": 147
     },
     {
       "name": "Business & economy",
       "slug": "business-economy",
       "file": "business-economy.json",
       "feeds": 15,
-      "count": 783
+      "count": 807
     },
     {
       "name": "fashion",
       "slug": "fashion",
       "file": "fashion.json",
       "feeds": 8,
-      "count": 154
+      "count": 155
     },
     {
       "name": "funny",
       "slug": "funny",
       "file": "funny.json",
       "feeds": 14,
-      "count": 151
+      "count": 154
     },
     {
       "name": "gaming",
       "slug": "gaming",
       "file": "gaming.json",
       "feeds": 14,
-      "count": 303
+      "count": 307
     },
     {
       "name": "history",
@@ -111,7 +111,7 @@
       "slug": "world-news",
       "file": "world-news.json",
       "feeds": 8,
-      "count": 502
+      "count": 512
     },
     {
       "name": "India",
@@ -125,7 +125,7 @@
       "slug": "malayalam",
       "file": "malayalam.json",
       "feeds": 11,
-      "count": 804
+      "count": 820
     }
   ]
 }
