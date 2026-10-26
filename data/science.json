@@ -1,8 +1,50 @@
 {
   "category": "science",
-  "updated": "2026-10-26T17:19:15.720018+00:00",
-  "count": 322,
+  "updated": "2026-10-26T17:32:18.749151+00:00",
+  "count": 324,
   "items": [
+    {
+      "id": "news712226144",
+      "title": "Fractional calculus helps 1D model mimic correlations seen in 2D phase transitions",
+      "published": "2026-10-26T17:30:06+00:00",
+      "author": null,
+      "description": "Phase transitions are strongly constrained by spatial dimension. In conventional one-dimensional systems with short-range interactions, thermal fluctuations generally prevent continuous degrees of freedom from maintaining order over long distances.",
+      "link": "https://phys.org/news/2026-10-fractional-calculus-1d-mimic-2d.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fractional-calculus-re.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo#0",
+      "title": "Storm Boelo leaves 22,000 without power as Met Office issues new wind warning",
+      "published": "2026-10-26T17:22:51+00:00",
+      "author": null,
+      "description": "The Met Office has issued a fresh wind warning from 18:00 on Monday across the west coast of England, Wales and Scotland and eastern parts of Northern Ireland.",
+      "link": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3365/live/16d03480-d118-11f1-b441-2b33b063138f.jpg",
+      "feed_name": "BBC News - Science & Environment",
+      "feed_title": "BBC News",
+      "category": "science",
+      "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "news712234995",
+      "title": "Clouds on a lava planet challenge what astronomers expected",
+      "published": "2026-10-26T17:20:01+00:00",
+      "author": null,
+      "description": "A rocky lava planet once thought to be too extreme to have an atmosphere appears to be wrapped in one with a reflective layer of vaporized silicate mineral clouds, the same family of compounds that make up quartz and sand.",
+      "link": "https://phys.org/news/2026-10-clouds-lava-planet-astronomers.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/artists-concept-of-the.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
     {
       "id": "news711979441",
       "title": "Emotional content can improve how people process conversations",
@@ -30,20 +72,6 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo#0",
-      "title": "Storm Boelo leaves 90,000 without power as Met Office issues new wind warning",
-      "published": "2026-10-26T16:54:11+00:00",
-      "author": null,
-      "description": "Around 90,000 properties are without power after Scotland and north England is battered by strong winds.",
-      "link": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3365/live/16d03480-d118-11f1-b441-2b33b063138f.jpg",
-      "feed_name": "BBC News - Science & Environment",
-      "feed_title": "BBC News",
-      "category": "science",
-      "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "news712225893",

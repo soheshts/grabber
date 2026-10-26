@@ -1,8 +1,36 @@
 {
   "category": "DIY",
-  "updated": "2026-10-26T17:19:15.720018+00:00",
-  "count": 142,
+  "updated": "2026-10-26T17:32:18.749151+00:00",
+  "count": 144,
   "items": [
+    {
+      "id": "https://www.howtogeek.com/microsoft-edge-surf-game/",
+      "title": "I keep Microsoft Edge around for this offline browser game that beats Chrome's dinosaur game",
+      "published": "2026-10-26T17:31:17+00:00",
+      "author": "Tony Phillips",
+      "description": "Four game modes, speed boosts, and a hungry kraken make this hidden Edge game surprisingly hard to put down.",
+      "link": "https://www.howtogeek.com/microsoft-edge-surf-game/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/laptop-screen-displaying-microsoft-edge-surf-gameplay.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.makeuseof.com/why-dll-files-can-stop-windows-programs-launching/",
+      "title": "Why one tiny DLL file can stop an entire Windows program from launching",
+      "published": "2026-10-26T17:30:18+00:00",
+      "author": "Oluwademilade Afolabi",
+      "description": "That cryptic DLL error is basically your app yelling, “Has anyone seen Dave?!”",
+      "link": "https://www.makeuseof.com/why-dll-files-can-stop-windows-programs-launching/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/windows-program-missing-dll-error.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/google-fitbit-edge-review/",
       "title": "Google Fitbit Edge review: The anti-smartwatch sweet spot",
