@@ -1,8 +1,50 @@
 {
   "category": "science",
-  "updated": "2026-10-26T21:33:29.503047+00:00",
-  "count": 362,
+  "updated": "2026-10-26T21:45:12.637756+00:00",
+  "count": 365,
   "items": [
+    {
+      "id": "news712234886",
+      "title": "Could ecological roles offer clues to how life began?",
+      "published": "2026-10-26T21:40:16+00:00",
+      "author": null,
+      "description": "Producers, consumers, and decomposers play different roles in today's ecosystems. Thinking about these familiar roles led me to a question: Could their differences partly reflect the different physical and chemical environments in which early life developed? I wondered whether the organization of ecosystems might offer a useful starting point for thinking about life's beginnings.",
+      "link": "https://phys.org/news/2026-10-ecological-roles-clues-life-began.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/could-ecological-roles.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "news712233329",
+      "title": "Expanding hemp could boost Kentucky water quality and ecological diversity",
+      "published": "2026-10-26T21:40:01+00:00",
+      "author": null,
+      "description": "Hemp has long been pitched to Kentucky farmers as a way to diversify their income. Research now suggests it could diversify the landscape itself, with measurable benefits for the state's water and wildlife.",
+      "link": "https://phys.org/news/2026-10-hemp-boost-kentucky-quality-ecological.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hemp.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/26/arts/design/museums-mix-science-art.html",
+      "title": "The Science Behind Your Reaction to Art",
+      "published": "2026-10-26T21:33:51+00:00",
+      "author": "Michael Janofsky",
+      "description": "The Honolulu Museum of Art is showing how art can influence thinking, perspective and mood, in an exhibition that is part of a trend by museums to mix science and art.",
+      "link": "https://www.nytimes.com/2026/10/26/arts/design/museums-mix-science-art.html",
+      "image": null,
+      "feed_name": "NYT > Science",
+      "feed_title": "NYT > Science",
+      "category": "science",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "news712253282",
       "title": "Metalens microscope switches focus with voltage, not moving optics",

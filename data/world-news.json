@@ -1,8 +1,50 @@
 {
   "category": "World News",
-  "updated": "2026-10-26T21:33:29.503047+00:00",
-  "count": 544,
+  "updated": "2026-10-26T21:45:12.637756+00:00",
+  "count": 546,
   "items": [
+    {
+      "id": "108465785",
+      "title": "DOJ charges ex-FBI Director James Comey in new case",
+      "published": "2026-10-26T21:43:10+00:00",
+      "author": null,
+      "description": "Comey for years has been targeted by President Donald Trump, who fired him as FBI director in 2017.",
+      "link": "https://www.cnbc.com/2026/10/26/james-comey-indictment-national-defense-doj-trump.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108204233-1758840400232-gettyimages-693965984-may-dcformer170608_np6Go.jpeg?v=1764021465&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/26/world/brazil-serbia-election-results-anthropic.html",
+      "title": "Election Surprises",
+      "published": "2026-10-26T21:37:28+00:00",
+      "author": "Katrin Bennhold",
+      "description": "Serbia and Brazil are very different countries. But their unexpected election results tell us a lot.",
+      "link": "https://www.nytimes.com/2026/10/26/world/brazil-serbia-election-results-anthropic.html",
+      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27int-theworld-elections-lula-tkhg-promo/27int-theworld-elections-lula-tkhg-promo-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/26/world/americas/mexico-election-official-resigns.html",
+      "title": "Mexico’s Top Election Official Resigns Amid Corruption Scandal",
+      "published": "2026-10-26T21:35:14+00:00",
+      "author": "Paulina Villegas",
+      "description": "Guadalupe Taddei Zavala, the head of the electoral watchdog, stepped down after facing accusations of corruption and influence peddling.",
+      "link": "https://www.nytimes.com/2026/10/26/world/americas/mexico-election-official-resigns.html",
+      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26mexico-1-vphz/26mexico-1-vphz-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cmy4xwp22xyqo#1",
       "title": "'Maxxing' selected as Dictionary.com word of the year",
@@ -32,18 +74,18 @@
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
     },
     {
-      "id": "108465785",
-      "title": "DOJ charges ex-FBI Director James Comey in new case",
-      "published": "2026-10-26T21:29:53+00:00",
-      "author": null,
-      "description": "Comey for years has been targeted by President Donald Trump, who fired him as FBI director in 2017.",
-      "link": "https://www.cnbc.com/2026/10/26/james-comey-indictment-national-defense-doj-trump.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108204233-1758840400232-gettyimages-693965984-may-dcformer170608_np6Go.jpeg?v=1764021465&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
+      "id": "https://timesofindia.indiatimes.com/real-estate/news/built-in-1911-for-grocery-heir-sess-cleveland-and-home-to-his-family-for-60-years-a-5700-sq-ft-historic-mansion-on-houstons-courtlandt-place-that-last-sold-in-2015-after-being-listed-at-2-35-million-is-now-on-the-market-for-nearly-4-million/articleshow/135203027.cms",
+      "title": "Historic Houston Mansion Listing: 1911 Cleveland home asks $3.995m; price up about 70% from 2015",
+      "published": "2026-10-26T21:27:00+00:00",
+      "author": "TOI World Desk",
+      "description": "A remarkable mansion steeped in history, previously tied to the Cleveland family, has hit the market for $3.995 million in Houston. Dating back to 1911, this residence artfully blends timeless architectural features with contemporary enhancements. Nestled within Courtlandt Place, a registered historic district known for its notable early 20th-century homes, this property showcases a substantial value increase since its previous sale at $2.",
+      "link": "https://timesofindia.indiatimes.com/real-estate/news/built-in-1911-for-grocery-heir-sess-cleveland-and-home-to-his-family-for-60-years-a-5700-sq-ft-historic-mansion-on-houstons-courtlandt-place-that-last-sold-in-2015-after-being-listed-at-2-35-million-is-now-on-the-market-for-nearly-4-million/articleshow/135203027.cms",
+      "image": "https://static.toiimg.com/photo/msid-135203048,imgsize-1407401.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
       "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
       "id": "https://www.nytimes.com/2026/10/26/world/europe/russia-ukraine-energy-strikes-un.html",
@@ -100,20 +142,6 @@
       "category": "World News",
       "feed_url": "https://www.theguardian.com/world/rss",
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/10/26/world/brazil-serbia-election-results-anthropic.html",
-      "title": "Election Surprises",
-      "published": "2026-10-26T20:45:10+00:00",
-      "author": "Katrin Bennhold",
-      "description": "Serbia and Brazil are very different countries. But their unexpected election results tell us a lot.",
-      "link": "https://www.nytimes.com/2026/10/26/world/brazil-serbia-election-results-anthropic.html",
-      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27int-theworld-elections-lula-tkhg-promo/27int-theworld-elections-lula-tkhg-promo-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "108464652",
