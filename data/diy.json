@@ -1,8 +1,36 @@
 {
   "category": "DIY",
-  "updated": "2026-10-26T10:33:30.859976+00:00",
-  "count": 105,
+  "updated": "2026-10-26T11:02:09.037844+00:00",
+  "count": 107,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/what-the-3-in-mp3-actually-means/",
+      "title": "The \"3\" in \"MP3\" doesn’t mean what most people think",
+      "published": "2026-10-26T11:00:19+00:00",
+      "author": "Oluwademilade Afolabi",
+      "description": "That “3” has nothing to do with version numbers.",
+      "link": "https://www.makeuseof.com/what-the-3-in-mp3-actually-means/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/ipod-and-z-fold.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/essential-excel-formulas-every-beginner-should-learn-first/",
+      "title": "6 essential Excel formulas every beginner should learn first",
+      "published": "2026-10-26T11:00:18+00:00",
+      "author": "Sanya Shah",
+      "description": "Start using Excel like a pro",
+      "link": "https://www.howtogeek.com/essential-excel-formulas-every-beginner-should-learn-first/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/excel-table-name-tblsales-cell-a1-monitor-screen.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/free-tools-that-are-way-better-than-adobe-acrobat/",
       "title": "X Free Tools That are way better than Adobe Acrobat",
