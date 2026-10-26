@@ -1,8 +1,36 @@
 {
   "category": "DIY",
-  "updated": "2026-10-26T11:02:09.037844+00:00",
-  "count": 107,
+  "updated": "2026-10-26T11:33:28.056434+00:00",
+  "count": 109,
   "items": [
+    {
+      "id": "https://www.howtogeek.com/hp-omnibook-ultra-16-review/",
+      "title": "HP OmniBook Ultra 16 review: A great RTX Spark laptop with one catch",
+      "published": "2026-10-26T11:31:18+00:00",
+      "author": "Patrick Campanale",
+      "description": "The RTX Spark chip is excellent, but 32GB leaves almost nothing for local AI",
+      "link": "https://www.howtogeek.com/hp-omnibook-ultra-16-review/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/omnibook-ultra-16-rtx-spark-sticker.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://hackaday.com/?p=1377807",
+      "title": "Hiding Virtualization From Other Software",
+      "published": "2026-10-26T11:00:56+00:00",
+      "author": "Bryan Cockfield",
+      "description": "The Kernel-based Virtual Machine (KVM) allows Linux systems to function as hypervisors without needing any extra software, but VMs created with it don’t behave exactly like real hardware does. Sometimes …read more",
+      "link": "https://hackaday.com/2026/10/26/hiding-virtualization-from-other-software/",
+      "image": "https://hackaday.com/wp-content/uploads/2017/10/computers.jpg",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/what-the-3-in-mp3-actually-means/",
       "title": "The \"3\" in \"MP3\" doesn’t mean what most people think",

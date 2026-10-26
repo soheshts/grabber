@@ -1,8 +1,50 @@
 {
   "category": "technology",
-  "updated": "2026-10-26T11:02:09.037844+00:00",
-  "count": 323,
+  "updated": "2026-10-26T11:33:28.056434+00:00",
+  "count": 336,
   "items": [
+    {
+      "id": "TheNextWeb=50e56f562dd428b3e5972dd153192877",
+      "title": "PHP warns of a third PHP2Shell flaw but won’t rush out a fix",
+      "published": "2026-10-26T11:25:07+00:00",
+      "author": "Ana Maria Constantin",
+      "description": "PHP has warned of a third flaw that could let an attacker run code on a web server, two days after its emergency fixes for the PHP2Shell bugs. This time it will not rush out a fix. In a short advisory on 23 October, PHP said the new bug, CVE-2026-115560, needs an unusual mix of […] This story continues at The Next Web",
+      "link": "https://thenextweb.com/news/php2shell-third-flaw-php-no-emergency-fix",
+      "image": "https://media.thenextweb.com/2026/10/php-elephant-plush-laptop-code.avif",
+      "feed_name": "The Next Web",
+      "feed_title": "The Next Web",
+      "category": "technology",
+      "feed_url": "https://thenextweb.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
+    {
+      "id": "https://www.engadget.com/2296535/elvis-presley-estate-suing-ai-company-for-copyright-infringement/",
+      "title": "Elvis Presley's estate is suing Anthropic over copyright infringement",
+      "published": "2026-10-26T11:23:48+00:00",
+      "author": "Steve Dent",
+      "description": "The latest AI copyright infringement suit centers around a single music artist from decades past: Elvis.",
+      "link": "https://www.engadget.com/2296535/elvis-presley-estate-suing-ai-company-for-copyright-infringement/",
+      "image": "https://www.engadget.com/img/gallery/elvis-presleys-estate-is-suing-anthropic-over-copyright-infringement/l-intro-1793013810.jpg",
+      "feed_name": "Engadget",
+      "feed_title": "Engadget - Technology News & Expert Reviews",
+      "category": "technology",
+      "feed_url": "https://www.engadget.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
+    {
+      "id": "TheNextWeb=9fd634bf75695080ccdbb2c3942fa9cc",
+      "title": "Spain’s opposition posts AI deepfakes of Sánchez’s wife before election",
+      "published": "2026-10-26T11:05:02+00:00",
+      "author": "Ana-Maria Stanciuc",
+      "description": "Spain’s main opposition party has posted a campaign video built with AI deepfakes. In it, likenesses of people linked to Prime Minister Pedro Sánchez’s Socialists appear to confess to wrongdoing. The conservative People’s party (PP) shared it on 21 October, five weeks before the 29 November general election. By Friday the video had nearly 2 […] This story continues at The Next Web",
+      "link": "https://thenextweb.com/news/spain-deepfake-video-pp-sanchez-wife-election",
+      "image": "https://media.thenextweb.com/2026/10/pedro-sanchez-speaking-microphone-oliva-command-post.avif",
+      "feed_name": "The Next Web",
+      "feed_title": "The Next Web",
+      "category": "technology",
+      "feed_url": "https://thenextweb.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
     {
       "id": "TheNextWeb=ce72a9088fe78e9d6ee22b932ced6638",
       "title": "Swedish startup Strawberry launches AI browser for non-technical teams",
@@ -32,6 +74,48 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
     },
     {
+      "id": "02uRHg4LKuvtxaOvUAFARlr",
+      "title": "The Marshall Monitor III headphones have never been cheaper: How to save $80 before Black Friday",
+      "published": "2026-10-26T10:28:07+00:00",
+      "author": null,
+      "description": "Get the best headphones deal. Save 29% on the Marshall Monitor III at Amazon",
+      "link": "https://mashable.com/tech/oct-26-marshall-monitor-iii-headphones-deal",
+      "image": "https://helios-i.mashable.com/imagery/articles/02uRHg4LKuvtxaOvUAFARlr/hero-image.png",
+      "feed_name": "Mashable",
+      "feed_title": "Mashable",
+      "category": "technology",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
+    },
+    {
+      "id": "039mvWFCNFCuK8eMl9QrhSe",
+      "title": "The Magic: The Gathering Marvel Super Heroes Play Booster Box is close to market price at Amazon — save over $70",
+      "published": "2026-10-26T10:23:06+00:00",
+      "author": null,
+      "description": "Amazon has slashed 38% off the MTG Marvel Super Heroes Play Booster Box, bringing 30 packs down to $129.99.",
+      "link": "https://mashable.com/life/oct-26-magic-the-gathering-marvel-super-heroes-play-booster-box-deal",
+      "image": "https://helios-i.mashable.com/imagery/articles/039mvWFCNFCuK8eMl9QrhSe/hero-image.jpg",
+      "feed_name": "Mashable",
+      "feed_title": "Mashable",
+      "category": "technology",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
+    },
+    {
+      "id": "04MwnXLOkBb5LsnYU9xvlfg",
+      "title": "The Ruko F11PRO 2 drone is under $240 for a limited time — save $150 at Amazon",
+      "published": "2026-10-26T10:18:33+00:00",
+      "author": null,
+      "description": "Get the best drone deal. Save 38% on the Ruko F11PRO 2 Drone at Amazon.",
+      "link": "https://mashable.com/tech/oct-26-ruko-drone-deal",
+      "image": "https://helios-i.mashable.com/imagery/articles/04MwnXLOkBb5LsnYU9xvlfg/hero-image.png",
+      "feed_name": "Mashable",
+      "feed_title": "Mashable",
+      "category": "technology",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
+    },
+    {
       "id": "TheNextWeb=11579bc9c6230253f0241b88f4ea1aef",
       "title": "Elon Musk says SpaceX has raised $40bn in debt to buy AI chips",
       "published": "2026-10-26T10:12:43+00:00",
@@ -46,6 +130,48 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
     },
     {
+      "id": "01c4ARvMoegtp39fioAY2sC",
+      "title": "The CMF Watch 3 Pro has dropped to its lowest-ever price at Amazon — save $20",
+      "published": "2026-10-26T10:10:18+00:00",
+      "author": null,
+      "description": "Get the best fitness tracker deal. Save 25% on Nothing CMF Watch 3 Pro at Amazon.",
+      "link": "https://mashable.com/tech/oct-26-cmf-watch-3-pro-fitness-tracker-deal",
+      "image": "https://helios-i.mashable.com/imagery/articles/01c4ARvMoegtp39fioAY2sC/hero-image.png",
+      "feed_name": "Mashable",
+      "feed_title": "Mashable",
+      "category": "technology",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
+    },
+    {
+      "id": "07fDSQTAeAubbXaPMSh2lrD",
+      "title": "Walmart has dropped the Pokémon TCG 30th Celebration ETB closer to market price — save over $100",
+      "published": "2026-10-26T10:08:37+00:00",
+      "author": null,
+      "description": "Walmart has cut the Pokémon TCG 30th Celebration ETB to $132.98, saving $105, so here's how it compares to market price.",
+      "link": "https://mashable.com/life/oct-26-pokemon-tcg-30th-celebration-elite-trainer-box-deal",
+      "image": "https://helios-i.mashable.com/imagery/articles/07fDSQTAeAubbXaPMSh2lrD/hero-image.jpg",
+      "feed_name": "Mashable",
+      "feed_title": "Mashable",
+      "category": "technology",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
+    },
+    {
+      "id": "01pOikpLbkb0E8M8qTNag9J",
+      "title": "Stephen King clashes with Elon Musk over the midterms on X",
+      "published": "2026-10-26T10:04:50+00:00",
+      "author": null,
+      "description": "Stephen King and Elon Musk have clashed on X over the US Senate race in Texas.",
+      "link": "https://mashable.com/life/stephen-king-elon-musk-james-talarico",
+      "image": "https://helios-i.mashable.com/imagery/articles/01pOikpLbkb0E8M8qTNag9J/hero-image.jpg",
+      "feed_name": "Mashable",
+      "feed_title": "Mashable",
+      "category": "technology",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
+    },
+    {
       "id": "TheNextWeb=839e73b5bdb55fda42d7a5b9707763d7",
       "title": "Instacart is exploring a sale, and Uber has already walked away",
       "published": "2026-10-26T10:03:57+00:00",
@@ -58,6 +184,20 @@
       "category": "technology",
       "feed_url": "https://thenextweb.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
+    {
+      "id": "01pu7mTRkfifPrNogyszhRV",
+      "title": "The Pokémon TCG Ascended Heroes Mega Meganium ex Box is close to best-ever price on Amazon — save $20",
+      "published": "2026-10-26T10:02:19+00:00",
+      "author": null,
+      "description": "Save 25% on the Pokémon TCG Ascended Heroes Mega Meganium ex Box at Amazon, now $59.99 and nearly its lowest-ever price.",
+      "link": "https://mashable.com/life/oct-26-pokemon-tcg-ascended-heroes-mega-meganium-ex-box-deal",
+      "image": "https://helios-i.mashable.com/imagery/articles/01pu7mTRkfifPrNogyszhRV/hero-image.jpg",
+      "feed_name": "Mashable",
+      "feed_title": "Mashable",
+      "category": "technology",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
     },
     {
       "id": "https://www.theverge.com/?p=1017836",
@@ -88,6 +228,34 @@
       "feed_icon": "https://i0.wp.com/stratechery.com/wp-content/uploads/2018/03/cropped-android-chrome-512x512-1.png?fit=32%2C32&ssl=1"
     },
     {
+      "id": "04tbkRa9tIU6nV74o1crBWl",
+      "title": "Lenovo’s student-ready Idea Tab bundle comes with a pen and case for under $230",
+      "published": "2026-10-26T09:57:09+00:00",
+      "author": null,
+      "description": "Save 11% on the Lenovo Idea Tab bundle at Amazon. Get an 11-inch 2.5K display, 256GB storage, stylus, and folio case for $229.99.",
+      "link": "https://mashable.com/tech/oct-26-lenovo-idea-tab-deal",
+      "image": "https://helios-i.mashable.com/imagery/articles/04tbkRa9tIU6nV74o1crBWl/hero-image.png",
+      "feed_name": "Mashable",
+      "feed_title": "Mashable",
+      "category": "technology",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
+    },
+    {
+      "id": "016ECVDzQbglEAx4b4AmFex",
+      "title": "Amazon’s Fire HD 10 tablet is matching its Prime Day low ahead of Black Friday",
+      "published": "2026-10-26T09:55:39+00:00",
+      "author": null,
+      "description": "Save 53% on the Amazon Fire HD 10 tablet. Score the Mashable Choice-winning 10.1-inch entertainment slate for $72.99 on Amazon.",
+      "link": "https://mashable.com/tech/oct-26-amazon-fire-hd-10-tablet-deal",
+      "image": "https://helios-i.mashable.com/imagery/articles/016ECVDzQbglEAx4b4AmFex/hero-image.png",
+      "feed_name": "Mashable",
+      "feed_title": "Mashable",
+      "category": "technology",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
+    },
+    {
       "id": "TheNextWeb=b111f719755c5775436490c91efaf102",
       "title": "Google’s privacy policy now lets Gmail and Photos content shape your ads",
       "published": "2026-10-26T09:52:48+00:00",
@@ -114,6 +282,20 @@
       "category": "technology",
       "feed_url": "https://thenextweb.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
+    {
+      "id": "02UyFxnPGRYHtgUUvBRzOt6",
+      "title": "This heavy-duty Anker Solix power station is $600 off at Amazon, but not for long",
+      "published": "2026-10-26T09:37:10+00:00",
+      "author": null,
+      "description": "Score 40% off the Anker Solix C2000 Gen 2 power station at Amazon. Grab a 2,048Wh emergency battery for $899.98 before this limited-time deal ends.",
+      "link": "https://mashable.com/tech/oct-26-anker-solix-c2000-portable-power-station-deal",
+      "image": "https://helios-i.mashable.com/imagery/articles/02UyFxnPGRYHtgUUvBRzOt6/hero-image.jpg",
+      "feed_name": "Mashable",
+      "feed_title": "Mashable",
+      "category": "technology",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
     },
     {
       "id": "https://www.engadget.com/2296498/ifixit-teardown-of-iphone-duo-shows-potential-causes-for-cracked-screens/",
