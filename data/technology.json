@@ -1,8 +1,106 @@
 {
   "category": "technology",
-  "updated": "2026-10-26T13:33:35.356212+00:00",
-  "count": 359,
+  "updated": "2026-10-26T14:03:47.814960+00:00",
+  "count": 374,
   "items": [
+    {
+      "id": "https://www.theverge.com/?p=1018264",
+      "title": "Kevin Roose is AGI-pilled. Why aren’t you?",
+      "published": "2026-10-26T14:00:00+00:00",
+      "author": "Nilay Patel",
+      "description": "Today, I’m talking to Kevin Roose, journalist and author of the new book The AGI Chronicles, which details the recent and explosive transformation of the AI industry. Kevin was a longtime New York Times reporter and host of the popular podcast Hard Fork, but he and friend of the show Casey Newton just left the […]",
+      "link": "https://www.theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_Kevin_Roose.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "feed_name": "The Verge -  All Posts",
+      "feed_title": "The Verge",
+      "category": "technology",
+      "feed_url": "https://www.theverge.com/rss/index.xml",
+      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
+    },
+    {
+      "id": "https://blog.google/company-news/outreach-and-initiatives/google-org/digital-public-infrastructure-farmers/",
+      "title": "We’re helping farmers around the world connect to essential services online.",
+      "published": "2026-10-26T14:00:00+00:00",
+      "author": "Rowan Barnett",
+      "description": "Google.org is investing $2.5M to help 1 million farmers access AI-powered agricultural services via the World Bank's ONA. See how it works.",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/google-org/digital-public-infrastructure-farmers/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IFC_BlogHeader.max-600x600.format-webp.webp",
+      "feed_name": "The Keyword",
+      "feed_title": "News from Google",
+      "category": "technology",
+      "feed_url": "https://www.blog.google/rss/",
+      "feed_icon": "https://blog.google/static/blogv2/images/google.png"
+    },
+    {
+      "id": "https://www.engadget.com/2294295/how-to-declutter-phone-address-book-remove-unnecessary-contacts/",
+      "title": "How to declutter your phone's address book and remove unnecessary contacts",
+      "published": "2026-10-26T13:45:00+00:00",
+      "author": "Ben Stegner",
+      "description": "Clean up your contacts list to prioritize the people you actually want to talk to.",
+      "link": "https://www.engadget.com/2294295/how-to-declutter-phone-address-book-remove-unnecessary-contacts/",
+      "image": "https://www.engadget.com/img/gallery/how-to-declutter-your-phones-address-book-and-remove-unnecessary-contacts/l-intro-1791835912.jpg",
+      "feed_name": "Engadget",
+      "feed_title": "Engadget - Technology News & Expert Reviews",
+      "category": "technology",
+      "feed_url": "https://www.engadget.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
+    {
+      "id": "https://www.engadget.com/2296724/anthropic-files-to-go-public/",
+      "title": "Anthropic files to go public",
+      "published": "2026-10-26T13:41:26+00:00",
+      "author": "Jackson Chen",
+      "description": "The company may be valued as high as $2 trillion.",
+      "link": "https://www.engadget.com/2296724/anthropic-files-to-go-public/",
+      "image": "https://www.engadget.com/img/gallery/anthropic-has-filed-to-go-public/l-intro-1793021975.jpg",
+      "feed_name": "Engadget",
+      "feed_title": "Engadget - Technology News & Expert Reviews",
+      "category": "technology",
+      "feed_url": "https://www.engadget.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
+    {
+      "id": "https://www.theverge.com/?p=1018476",
+      "title": "Anthropic’s IPO filing lays out a plan to ‘revolutionize every area of human endeavor’ with AI",
+      "published": "2026-10-26T13:32:49+00:00",
+      "author": "Robert Hart",
+      "description": "Anthropic has filed its S-1 prospectus with the Securities and Exchange Commission, preparing the company behind Claude to beat OpenAI to the punch with an IPO. In a filing with the SEC, Anthropic said it plans to list on the Nasdaq exchange under the ticker symbol \"ANT.\" The AI company confidentially filed with the SEC […]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "feed_name": "The Verge -  All Posts",
+      "feed_title": "The Verge",
+      "category": "technology",
+      "feed_url": "https://www.theverge.com/rss/index.xml",
+      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
+    },
+    {
+      "id": "01M5NC26SYD4MCEPA1S9H2MRVA",
+      "title": "The Out-of-Touch Adults' Guide to Kid Culture: What Is 'Ballhog'?",
+      "published": "2026-10-26T13:30:00+00:00",
+      "author": "Stephen Johnson",
+      "description": "Learn all about the street fashion trend that's taking over young people's closets.",
+      "link": "https://lifehacker.com/entertainment/the-out-of-touch-adults-guide-to-kid-culture-what-is-ballhog?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M5NC26SYD4MCEPA1S9H2MRVA/hero-image.jpg",
+      "feed_name": "Lifehacker",
+      "feed_title": "Lifehacker",
+      "category": "technology",
+      "feed_url": "https://lifehacker.com/rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=lifehacker.com&sz=64"
+    },
+    {
+      "id": "5114370",
+      "title": "Apple’s New iPad Mini Gets OLED and Water Resistance",
+      "published": "2026-10-26T13:27:29+00:00",
+      "author": "Scott Stein",
+      "description": "On the heels of the Duo, here comes the Mini. It’s arriving Nov. 6.",
+      "link": "https://www.cnet.com/tech/computing/apples-new-ipad-mini-gets-oled-and-water-resistance/",
+      "image": "https://www.cnet.com/wp-content/uploads/sites/2/Apple-iPad-mini-hero-261026.jpg",
+      "feed_name": "CNET News",
+      "feed_title": "News – CNET",
+      "category": "technology",
+      "feed_url": "https://www.cnet.com/rss/news/",
+      "feed_icon": "https://www.cnet.com/wp-content/uploads/sites/2/cropped-favicon-480.png?w=32"
+    },
     {
       "id": "TheNextWeb=0027131816dbabbbe0696c5468e37ba8",
       "title": "Amazon pledges 30,000 entry-level UK jobs to young people by 2030",
@@ -24,7 +122,7 @@
       "author": "Igor Bonifacic",
       "description": "The new tablet stats at $699.",
       "link": "https://www.engadget.com/2296637/apple-updates-the-ipad-mini-with-an-a20-processor-and-oled-display/",
-      "image": "https://www.engadget.com/img/gallery/apple-updates-the-ipad-mini-with-an-a20-processor-and-oled-display/l-intro-1793020756.jpg",
+      "image": "https://www.engadget.com/img/gallery/apple-updates-the-ipad-mini-with-an-a20-processor-and-oled-display/l-intro-1793022599.jpg",
       "feed_name": "Engadget",
       "feed_title": "Engadget - Technology News & Expert Reviews",
       "category": "technology",
@@ -74,11 +172,25 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
     },
     {
+      "id": "06IHkIweT0UP0MHoS66ijSq",
+      "title": "Starbucks confirms the viral Bearista glass cold cup is returning (with a twist) — how to claim",
+      "published": "2026-10-26T13:10:35+00:00",
+      "author": null,
+      "description": "Starbucks Bearista glass cup 2026: What we know about the drop.",
+      "link": "https://mashable.com/life/starbucks-bearista-glass-cold-cup-how-to-claim",
+      "image": "https://helios-i.mashable.com/imagery/articles/06IHkIweT0UP0MHoS66ijSq/hero-image.jpg",
+      "feed_name": "Mashable",
+      "feed_title": "Mashable",
+      "category": "technology",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
+    },
+    {
       "id": "https://www.theverge.com/?p=1017801",
       "title": "Apple updates the iPad Mini with a larger OLED display",
       "published": "2026-10-26T13:05:03+00:00",
       "author": "Emma Roth, Jay Peters",
-      "description": "Apple announced a new iPad Mini with a larger, 8.5-inch OLED display. The company revealed the new device just days before its \"Pro and tell\" event on Wednesday. It starts at $699 for the Wi-Fi-only model, and $849 for Wi-Fi and cellular. At 5.4mm thick, the iPad Mini is thinner and lighter than its predecessor. […]",
+      "description": "Apple announced a new iPad Mini with a larger, 8.5-inch OLED display. The company revealed the new device just days before its \"Pro and tell\" event on Wednesday. The iPad Mini starts at $699 for the Wi-Fi-only model, and $849 for Wi-Fi and cellular. At 5.4mm thick, the iPad Mini is thinner and lighter than […]",
       "link": "https://www.theverge.com/tech/1017801/ipad-mini-oled-display-apple-announce",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ipadmini.jpg?quality=90&strip=all&crop=0,0,100,100",
       "feed_name": "The Verge -  All Posts",
@@ -158,6 +270,20 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=lifehacker.com&sz=64"
     },
     {
+      "id": "00bly3NxVIcyJ7Qh1ILwhjd",
+      "title": "Starbucks Red Cup Day 2026: How to score a free reusable holiday cup",
+      "published": "2026-10-26T12:52:25+00:00",
+      "author": null,
+      "description": "When is Starbucks Red Cup Day in 2026. Launch date, free cup rules, and holiday menu drop.",
+      "link": "https://mashable.com/life/starbucks-red-cup-day-2026",
+      "image": "https://helios-i.mashable.com/imagery/articles/00bly3NxVIcyJ7Qh1ILwhjd/hero-image.jpg",
+      "feed_name": "Mashable",
+      "feed_title": "Mashable",
+      "category": "technology",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
+    },
+    {
       "id": "TheNextWeb=a8f31f19c965106a8803a8c233b5fb0f",
       "title": "Verizon raises 2026 forecast and signs $2bn AI deal with AWS",
       "published": "2026-10-26T12:51:25+00:00",
@@ -214,6 +340,20 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=lifehacker.com&sz=64"
     },
     {
+      "id": "01gvS3huXQW195QLNhE0W4x",
+      "title": "Apples beastly 16-inch M5 Pro MacBook Pro just got a $250 discount at Amazon",
+      "published": "2026-10-26T12:27:30+00:00",
+      "author": null,
+      "description": "Save $250 on the 16.2-inch Apple MacBook Pro with the M5 Pro chip, 24GB memory, and 1TB SSD. Grab it on Amazon for $2,749.",
+      "link": "https://mashable.com/tech/oct-26-apple-macbook-pro-2026-deal",
+      "image": "https://helios-i.mashable.com/imagery/articles/01gvS3huXQW195QLNhE0W4x/hero-image.png",
+      "feed_name": "Mashable",
+      "feed_title": "Mashable",
+      "category": "technology",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
+    },
+    {
       "id": "5111032",
       "title": "Why You Shouldn’t Use AI Chatbots to Decide Who to Vote For",
       "published": "2026-10-26T12:20:00+00:00",
@@ -240,6 +380,20 @@
       "category": "technology",
       "feed_url": "https://thenextweb.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
+    {
+      "id": "06mdLSKe8SDG0tbDu61CRQW",
+      "title": "Get side-by-side top AI model answers while lifetime Clearafi is just $49.99",
+      "published": "2026-10-26T12:16:43+00:00",
+      "author": null,
+      "description": "Get Clearafi AI Tier 1 lifetime access for $49.99 (reg. $299), with 120 annual consensus queries, multi-model comparisons, and research tools.",
+      "link": "https://mashable.com/tech/oct-26-clearafi-ai-tier-1-lifetime-subscription",
+      "image": "https://helios-i.mashable.com/imagery/articles/06mdLSKe8SDG0tbDu61CRQW/hero-image.png",
+      "feed_name": "Mashable",
+      "feed_title": "Mashable",
+      "category": "technology",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
     },
     {
       "id": "https://www.engadget.com/2289047/what-happens-when-pc-cmos-battery-dies/",
@@ -312,6 +466,20 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
     },
     {
+      "id": "07wBZND4sZQkWonbio6lTtG",
+      "title": "Pokémon is giving away free legendary promo cards — how to claim Kyogre, Groudon, and Giratina",
+      "published": "2026-10-26T11:31:06+00:00",
+      "author": null,
+      "description": "Pokémon is rolling out exclusive free promo cards at major retailers across the U.S., Canada, and Australia. How to claim free Kyogre, Groudon, and Giratina.",
+      "link": "https://mashable.com/life/pokemon-tcg-free-promo-cards-how-to-claim-kyogre-groudon-giratina",
+      "image": "https://helios-i.mashable.com/imagery/articles/07wBZND4sZQkWonbio6lTtG/hero-image.jpg",
+      "feed_name": "Mashable",
+      "feed_title": "Mashable",
+      "category": "technology",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
+    },
+    {
       "id": "TheNextWeb=50e56f562dd428b3e5972dd153192877",
       "title": "PHP warns of a third PHP2Shell flaw but won’t rush out a fix",
       "published": "2026-10-26T11:25:07+00:00",
@@ -340,6 +508,34 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
     },
     {
+      "id": "049zRIHJDzT8vrJlg9pgcVN",
+      "title": "Cynthia Erivos SNL UK pop song parody is hilarious viewing",
+      "published": "2026-10-26T11:10:11+00:00",
+      "author": null,
+      "description": "Cynthia Erivo teamed up with Annabel Marlow on \"SNL UK\" for a parody of modern pop music.",
+      "link": "https://mashable.com/entertainment/cynthia-erivo-snl-uk-pop-song-parody",
+      "image": "https://helios-i.mashable.com/imagery/videos/049zRIHJDzT8vrJlg9pgcVN/hero-image.png",
+      "feed_name": "Mashable",
+      "feed_title": "Mashable",
+      "category": "technology",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
+    },
+    {
+      "id": "01VdY0Ezt5KvI7oDvu5hP06",
+      "title": "Owala’s new striped launch just landed: Shop the Sweet Talk and Punch Line collection",
+      "published": "2026-10-26T11:05:12+00:00",
+      "author": null,
+      "description": "Owala has dropped two new striped colorways, Sweet Talk and Punch Line, across its popular FreeSip, Sway, and SmoothSip Slider lineup, starting at $29.99.",
+      "link": "https://mashable.com/life/owala-drop-sweet-talk-punch-line-colors",
+      "image": "https://helios-i.mashable.com/imagery/articles/01VdY0Ezt5KvI7oDvu5hP06/hero-image.png",
+      "feed_name": "Mashable",
+      "feed_title": "Mashable",
+      "category": "technology",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
+    },
+    {
       "id": "TheNextWeb=9fd634bf75695080ccdbb2c3942fa9cc",
       "title": "Spain’s opposition posts AI deepfakes of Sánchez’s wife before election",
       "published": "2026-10-26T11:05:02+00:00",
@@ -352,6 +548,20 @@
       "category": "technology",
       "feed_url": "https://thenextweb.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
+    {
+      "id": "00ZUyXr35WoXZeIOsbllIFp",
+      "title": "The Apple iPhone 18 Pro is (almost) free before Black Friday — how to claim",
+      "published": "2026-10-26T11:01:08+00:00",
+      "author": null,
+      "description": "How to get the Apple iPhone for free. The Apple iPhone 18 Pro is almost free when you switch to T-Mobile.",
+      "link": "https://mashable.com/tech/oct-26-free-apple-iphone-18-deal",
+      "image": "https://helios-i.mashable.com/imagery/articles/00ZUyXr35WoXZeIOsbllIFp/hero-image.jpg",
+      "feed_name": "Mashable",
+      "feed_title": "Mashable",
+      "category": "technology",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
     },
     {
       "id": "https://arstechnica.com/gadgets/2026/10/from-impulse-purchase-to-pocket-studio-the-m-vave-fm-1/",
@@ -2525,7 +2735,7 @@
     },
     {
       "id": "5108396",
-      "title": "The iPhone Duo Just Passed 20,000 in Our Fold-a-Phone Testing Machine. Can It Beat the Galaxy Z Fold 8?",
+      "title": "The iPhone Duo Just Passed 55,000 in Our Fold-a-Phone Testing Machine. Can It Beat the Galaxy Z Fold 8?",
       "published": "2026-10-23T21:30:35+00:00",
       "author": "Matthew Murray",
       "description": "We’re folding Apple’s iPhone Duo 900 times an hour to test how its hinge will last.",

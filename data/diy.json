@@ -1,8 +1,36 @@
 {
   "category": "DIY",
-  "updated": "2026-10-26T13:33:35.356212+00:00",
-  "count": 121,
+  "updated": "2026-10-26T14:03:47.814960+00:00",
+  "count": 123,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/stopped-typing-same-things-windows-glorious/",
+      "title": "I stopped typing the same things over and over in Windows, and it's glorious",
+      "published": "2026-10-26T14:00:18+00:00",
+      "author": "Yadullah Abidi",
+      "description": "Shortcuts for your sentences, not just your keyboard.",
+      "link": "https://www.makeuseof.com/stopped-typing-same-things-windows-glorious/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/08/deskt-with-windows-and-linux-laptop.JPG",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/micro-usb-was-the-worst-generation-of-usb-heres-why-pi-zero-and-other-sbcs-still-use-it-anyway/",
+      "title": "Micro-USB was the worst generation of USB. Here's why Pi Zero and other SBCs still use it anyway",
+      "published": "2026-10-26T14:00:17+00:00",
+      "author": "Andrew Heinzman",
+      "description": "Say hello to my least favorite USB connector.",
+      "link": "https://www.howtogeek.com/micro-usb-was-the-worst-generation-of-usb-heres-why-pi-zero-and-other-sbcs-still-use-it-anyway/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/05/pi-zero-2w-micro-usb-1.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/what-happens-to-passkeys-when-your-phone-dies/",
       "title": "I found out what happens to my passkeys when my phone dies",
