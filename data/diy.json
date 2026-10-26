@@ -1,8 +1,36 @@
 {
   "category": "DIY",
-  "updated": "2026-10-26T12:03:45.588696+00:00",
-  "count": 112,
+  "updated": "2026-10-26T12:32:43.318140+00:00",
+  "count": 115,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/figma-vs-affinity-review/",
+      "title": "I thought Figma was unbeatable until I put Affinity to the test",
+      "published": "2026-10-26T12:31:18+00:00",
+      "author": "Jack Mitchell",
+      "description": "I tried an experiment to see which of these two free image editing apps measured up, and discovered two very different solutions.",
+      "link": "https://www.makeuseof.com/figma-vs-affinity-review/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/affinity-on-macbook.png",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/buying-a-cheap-oled-tv-is-an-expensive-mistake-save-up-for-a-better-model/",
+      "title": "Buying a cheap OLED TV is an expensive mistake, save up for a better model",
+      "published": "2026-10-26T12:30:17+00:00",
+      "author": "Ismar Hrnjicevic",
+      "description": "Don't pay a premium for a budget experience.",
+      "link": "https://www.howtogeek.com/buying-a-cheap-oled-tv-is-an-expensive-mistake-save-up-for-a-better-model/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2025/09/img20250926023939.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/linux-apps-make-me-feel-like-a-90s-hollywood-hacker/",
       "title": "These 5 Linux apps make me feel like a '90s Hollywood hacker (also works on Windows)",
@@ -30,6 +58,20 @@
       "category": "DIY",
       "feed_url": "https://www.makeuseof.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.apartmenttherapy.com/rainbow-mural-playroom-37696512",
+      "title": "A Carpeted Dining Room Is Now a Vibrant Playroom Thanks to a Rainbow Mural",
+      "published": "2026-10-26T12:00:00+00:00",
+      "author": "Cullen Ormond",
+      "description": "In some homes, it makes sense to tuck a play area away — in a basement or living room corner, for example. But sometimes, if you have the right space, a playroom can serve as the center and soul of a house. After a pitch-perfect makeover, that’s now exactly the case for Vicky Burton’s family.Initially, their playroom was the dining room in their home in Bristol, United Kingdom. READ MORE...",
+      "link": "https://www.apartmenttherapy.com/rainbow-mural-playroom-37696512?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+projects",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//cb/editorial/2026/2026-05/victoria-b-kids-room/victoria-b-kids-room-before-lead",
+      "feed_name": "Apartment Therapy| Saving the world, one room at a time",
+      "feed_title": "Apartment Therapy| Saving the world, one room at a time",
+      "category": "DIY",
+      "feed_url": "https://www.apartmenttherapy.com/projects.rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.apartmenttherapy.com&sz=64"
     },
     {
       "id": "https://www.makeuseof.com/windows-11-boost-performance-toggle-for-these-cpus/",
