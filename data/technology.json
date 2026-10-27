@@ -1,16 +1,58 @@
 {
   "category": "technology",
-  "updated": "2026-10-27T17:03:43.282475+00:00",
-  "count": 680,
+  "updated": "2026-10-27T17:33:30.554562+00:00",
+  "count": 690,
   "summary": {
-    "text": "• Apple updated Creator Studio with MotionVFX and AI features and refreshed the 14-inch MacBook Pro with M6 chips.\n• Google announced Genie 4, a world model for real-time interactive simulation with more realistic worlds and native audio.\n• Firefox's Smart Window gained AI form filling based on open tabs and webpage monitoring.\n• PlayStation 5 now shows who is speaking in party voice chat.\n• Matic launched the quieter, pricier Matic Serene robot vacuum.",
-    "generated_at": "2026-10-27T16:34:17.081309+00:00",
+    "text": "• AI: Anthropic faces scrutiny over balancing its IPO with its safety mission, while Oracle will offer Cerebras AI computers from 2027.\n• Legal: A New Mexico ruling against Meta followed a $17 billion settlement, and a cybersecurity CEO was indicted for allegedly scamming ransomware victims.\n• Gaming and film: Pokémon Unite shuts down in March 2027, and Dune: Part Three's final trailer is out.\n• Devices: Apple raised iPad and Mac trade-in values, and the FCC is reportedly targeting Minions routers.",
+    "generated_at": "2026-10-27T17:33:30.554562+00:00",
     "window_minutes": 60,
-    "item_count": 10,
-    "key": "2b1cfd784a9d5b05878a0684659873b0a301f777",
+    "item_count": 11,
+    "key": "1a7d48700674913088bdeb040817eaa8df783077",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.theverge.com/?p=1017064",
+      "title": "VisionQuest is what happens when AI really goes rogue",
+      "published": "2026-10-27T17:30:00+00:00",
+      "author": "Charles Pulliam-Moore",
+      "description": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home. The series is deeply fantastical, yet it plays with some of the ideas that have come to dominate the conversation about real-world generative artificial […]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/107-90190_RC.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "feed_name": "The Verge -  All Posts",
+      "feed_title": "The Verge",
+      "category": "technology",
+      "feed_url": "https://www.theverge.com/rss/index.xml",
+      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
+    },
+    {
+      "id": "02nLc6wmPlhFkwAYQOu8U3z",
+      "title": "Dune: Part Three final trailer: Timothée Chalamet, Zendaya, and Florence Pugh return to Arrakis",
+      "published": "2026-10-27T17:17:25+00:00",
+      "author": null,
+      "description": "Cue the theme music! The final chapter of Academy Award-nominated filmmaker Denis Villeneuve's epic trilogy is coming soon.",
+      "link": "https://mashable.com/entertainment/dune-part-three-final-trailer",
+      "image": "https://helios-i.mashable.com/imagery/videos/02nLc6wmPlhFkwAYQOu8U3z/hero-image.jpg",
+      "feed_name": "Mashable",
+      "feed_title": "Mashable",
+      "category": "technology",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
+    },
+    {
+      "id": "04G1UnfqxzCCrFI58hDWJSN",
+      "title": "Apple massively increases trade-in values for iPads and Macs. See the list.",
+      "published": "2026-10-27T17:07:10+00:00",
+      "author": null,
+      "description": "Have you been meaning to trade-in your old Apple device? Now may be the best time to do it. Apple just increased trade-in values for Macs and iPads.",
+      "link": "https://mashable.com/tech/apple-increases-trade-in-values-for-ipads-and-macs-oct-2026",
+      "image": "https://helios-i.mashable.com/imagery/articles/04G1UnfqxzCCrFI58hDWJSN/hero-image.jpg",
+      "feed_name": "Mashable",
+      "feed_title": "Mashable",
+      "category": "technology",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
+    },
     {
       "id": "https://www.theverge.com/?p=1019484",
       "title": "The Super Mouse puts a touchscreen macro pad under your hand",
@@ -24,6 +66,20 @@
       "category": "technology",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
+    },
+    {
+      "id": "https://it.slashdot.org/story/26/10/27/1550230/cybersecurity-ceo-indicted-for-allegedly-scamming-millions-from-ransomware-victims?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "title": "Cybersecurity CEO Indicted For Allegedly Scamming Millions From Ransomware Victims",
+      "published": "2026-10-27T17:00:00+00:00",
+      "author": "BeauHD",
+      "description": "An anonymous reader quotes a report from ProPublica: A Florida man who was the subject of a 2019 investigation by ProPublica was indicted last month on federal charges that he defrauded clients of his ransomware data recovery firm. According to the Justice Department, the man, Zohar Pinhasi, told customers he could recover their encrypted files without having to pay hackers, when, in reality, he paid the ransom and charged victims a hefty fee on top. The indictment mirrors the findings from Pro…",
+      "link": "https://it.slashdot.org/story/26/10/27/1550230/cybersecurity-ceo-indicted-for-allegedly-scamming-millions-from-ransomware-victims?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+      "feed_name": "Slashdot",
+      "feed_title": "Slashdot",
+      "category": "technology",
+      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
     },
     {
       "id": "https://www.engadget.com/2298514/pokemon-unite-is-shutting-down/",
@@ -82,6 +138,20 @@
       "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
     },
     {
+      "id": "02t2RkeX4TCb18WRvPAigS1",
+      "title": "Subway National Sandwich Day BOGO: How to score free Footlongs until Nov. 8",
+      "published": "2026-10-27T16:37:44+00:00",
+      "author": null,
+      "description": "How to get free Subway for National Sandwich Day 2026. Get BOGO on Footlongs until Nov. 8.",
+      "link": "https://mashable.com/life/subway-national-sandwich-day-free-deal",
+      "image": "https://helios-i.mashable.com/imagery/articles/02t2RkeX4TCb18WRvPAigS1/hero-image.jpg",
+      "feed_name": "Mashable",
+      "feed_title": "Mashable",
+      "category": "technology",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
+    },
+    {
       "id": "TheNextWeb=5ad912e33bb1d9f760f8ece124e0c2d7",
       "title": "Oracle will offer Cerebras AI computers in its cloud from 2027",
       "published": "2026-10-27T16:33:57+00:00",
@@ -96,6 +166,34 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
     },
     {
+      "id": "03cntGM2hl6hd39sKbDHIeD",
+      "title": "I found 19 early Black Friday Lego deals including Pokémon, Star Wars, and Lego advent calendars",
+      "published": "2026-10-27T16:31:41+00:00",
+      "author": null,
+      "description": "Early Black Friday deals on Lego sets include Pokémon, Disney, and Lego Icons.",
+      "link": "https://mashable.com/life/best-early-black-friday-lego-deals-2026",
+      "image": "https://helios-i.mashable.com/imagery/articles/03cntGM2hl6hd39sKbDHIeD/hero-image.jpg",
+      "feed_name": "Mashable",
+      "feed_title": "Mashable",
+      "category": "technology",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
+    },
+    {
+      "id": "05WgCmy3xhEMJX36mtRXFDp",
+      "title": "How to watch Verity: When and where the latest Colleen Hoover adaptation is streaming",
+      "published": "2026-10-27T16:22:38+00:00",
+      "author": null,
+      "description": "Anne Hathaway and Dakota Johnson star in the latest Hoover book-to-screen adaptation.",
+      "link": "https://mashable.com/entertainment/how-to-watch-verity",
+      "image": "https://helios-i.mashable.com/imagery/articles/05WgCmy3xhEMJX36mtRXFDp/hero-image.webp",
+      "feed_name": "Mashable",
+      "feed_title": "Mashable",
+      "category": "technology",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
+    },
+    {
       "id": "https://www.engadget.com/2298428/apple-creator-studio-update-adds-motionvfx-to-final-cut-and-ai-to-everywhere/",
       "title": "Apple Creator Studio update adds MotionVFX to Final Cut, and AI to everywhere",
       "published": "2026-10-27T16:21:44+00:00",
@@ -108,6 +206,20 @@
       "category": "technology",
       "feed_url": "https://www.engadget.com/rss.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
+    {
+      "id": "07E98Frc7IBRchTVKQK7mom",
+      "title": "Teenage girl gift ideas that are actually unique",
+      "published": "2026-10-27T16:15:32+00:00",
+      "author": null,
+      "description": "If you're buying for a teenager this year, don't just guess. We did serious research to find cool gift ideas that teen girls actually want in 2026.",
+      "link": "https://mashable.com/gifts/best-gifts-for-teenage-girls",
+      "image": "https://helios-i.mashable.com/imagery/roundups/07E98Frc7IBRchTVKQK7mom/hero-image.png",
+      "feed_name": "Mashable",
+      "feed_title": "Mashable",
+      "category": "technology",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
     },
     {
       "id": "https://www.engadget.com/2296032/apple-iphone-duo-vs-google-pixel-11-pro-fold/",
@@ -136,6 +248,48 @@
       "category": "technology",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
+    },
+    {
+      "id": "00iFTwXe50SXhINlvKi5Ocv",
+      "title": "A new GTA 6 Ultimate Edition deal for the PS5 just dropped: How to save $15 with clever hack",
+      "published": "2026-10-27T16:13:37+00:00",
+      "author": null,
+      "description": "Get the best deal on 'GTA 6 Ultimate Edition.' Shop GTA 6 for $85 with this clever hack.",
+      "link": "https://mashable.com/tech/gta-6-rare-preorder-price-drop-deal",
+      "image": "https://helios-i.mashable.com/imagery/articles/00iFTwXe50SXhINlvKi5Ocv/hero-image.jpg",
+      "feed_name": "Mashable",
+      "feed_title": "Mashable",
+      "category": "technology",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
+    },
+    {
+      "id": "04PK7zYwHACbONFMyLCWEBd",
+      "title": "Best early Black Friday deals under $50: Save on home security cameras, earbuds, and more",
+      "published": "2026-10-27T16:10:07+00:00",
+      "author": null,
+      "description": "As of Oct. 27, shop early Black Friday deals under $50 at Amazon and beat the rush.",
+      "link": "https://mashable.com/tech/best-early-black-friday-under-50-deals-2026",
+      "image": "https://helios-i.mashable.com/imagery/articles/04PK7zYwHACbONFMyLCWEBd/hero-image.png",
+      "feed_name": "Mashable",
+      "feed_title": "Mashable",
+      "category": "technology",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
+    },
+    {
+      "id": "03b4IyMsr8bYYMnBdlAl3KQ",
+      "title": "Microsoft offers buyouts to 60,000 employees amid AI investment",
+      "published": "2026-10-27T16:08:32+00:00",
+      "author": null,
+      "description": "Microsoft is giving around 60,000 employees the choice to voluntarily leave the company.",
+      "link": "https://mashable.com/tech/microsoft-buyouts-60000-employees",
+      "image": "https://helios-i.mashable.com/imagery/articles/03b4IyMsr8bYYMnBdlAl3KQ/hero-image.jpg",
+      "feed_name": "Mashable",
+      "feed_title": "Mashable",
+      "category": "technology",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
     },
     {
       "id": "https://www.theverge.com/?p=1019478",
@@ -276,20 +430,6 @@
       "category": "technology",
       "feed_url": "https://lifehacker.com/rss",
       "feed_icon": "https://www.google.com/s2/favicons?domain=lifehacker.com&sz=64"
-    },
-    {
-      "id": "07E98Frc7IBRchTVKQK7mom",
-      "title": "Teenage girl gift ideas that are actually unique",
-      "published": "2026-10-27T15:25:46+00:00",
-      "author": null,
-      "description": "If you're buying for a teenager this year, don't just guess. We did serious research to find cool gift ideas that teen girls actually want in 2026.",
-      "link": "https://mashable.com/gifts/best-gifts-for-teenage-girls",
-      "image": "https://helios-i.mashable.com/imagery/roundups/07E98Frc7IBRchTVKQK7mom/hero-image.png",
-      "feed_name": "Mashable",
-      "feed_title": "Mashable",
-      "category": "technology",
-      "feed_url": "http://feeds.mashable.com/Mashable",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
     },
     {
       "id": "TheNextWeb=7e126bc8fb86a8cb152765761138ae35",
@@ -3331,7 +3471,7 @@
     },
     {
       "id": "5110890",
-      "title": "Watch Us Fold the iPhone Duo Thousands of Times on Our Weeks-Long Livestream",
+      "title": "Live Now! Watch Us Fold the iPhone Duo Thousands of Times",
       "published": "2026-10-26T17:00:15+00:00",
       "author": "Mike Sorrentino",
       "description": "We’re using our in-house robot to open and close the iPhone Duo hundreds of thousands of times. Watch along and get your questions answered by CNET editors live.",
