@@ -1,16 +1,58 @@
 {
   "category": "technology",
-  "updated": "2026-10-27T20:33:11.623069+00:00",
-  "count": 726,
+  "updated": "2026-10-27T21:03:44.062625+00:00",
+  "count": 730,
   "summary": {
-    "text": "• Rockstar UK workers will hold a union vote as GTA 6 launches; GTA 6 reportedly needs a 210GB download.\n• Apple's Pro and Tell event added MotionVFX and AI assistants to Creator Studio; Oracle launched Media Fabric, combining AI video tools and live streaming.\n• Google's Android Registered App Stores program opens applications before its Dec. 1 launch.\n• Ford's most affordable EV, the Fathom, will offer built-in bidirectional home charging.\n• Musk says Ukraine's military violated Starlink's terms of service.",
-    "generated_at": "2026-10-27T20:03:44.945858+00:00",
+    "text": "• OpenAI announced breakthroughs in mathematics, computer science, and physics, but researchers say the company is gatekeeping its findings despite promising a more open communication approach.\n• Invesco is bringing its model portfolios and practice tools into Anthropic's Claude for Financial Advisors, with CAIS, Conquest, and FINNY adding their own connectors.\n• A critical code-execution flaw in EDK2 UEFI firmware could let attackers run code early in boot, putting most servers at risk.\n• Lighter items: a review of Ace Combat 8 praises its punchy dogfights and anime storytelling, Sony's Bravia 6 OLED TV is up to 40% off, and an acoustic imaging camera that makes sound visible was shown.",
+    "generated_at": "2026-10-27T21:03:44.062625+00:00",
     "window_minutes": 60,
-    "item_count": 8,
-    "key": "7080d8f7d5e8a3b06a09ea5089148b55128b1bd9",
+    "item_count": 6,
+    "key": "367fa7e35f6d1687714c43000273a8c0ff3b8417",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.theverge.com/?p=1019921",
+      "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+      "published": "2026-10-27T20:48:58+00:00",
+      "author": "Robert Hart",
+      "description": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to The Verge are growing increasingly tired of the company's antics. It has been a turbulent few months between OpenAI […]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS537_AI_MATH_7.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "feed_name": "The Verge -  All Posts",
+      "feed_title": "The Verge",
+      "category": "technology",
+      "feed_url": "https://www.theverge.com/rss/index.xml",
+      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
+    },
+    {
+      "id": "4994182",
+      "title": "Ace Combat 8 Elevates High-Voltage Dogfights With Wistful Melodrama",
+      "published": "2026-10-27T20:37:07+00:00",
+      "author": "David Lumb",
+      "description": "The latest Ace Combat game feels like a polished, punchy airborne adventure — unapologetically anime in its storytelling and a joy to play.",
+      "link": "https://www.cnet.com/tech/gaming/ace-combat-8-review/",
+      "image": "https://www.cnet.com/wp-content/uploads/sites/2/AC8_lede.jpg",
+      "feed_name": "CNET News",
+      "feed_title": "News – CNET",
+      "category": "technology",
+      "feed_url": "https://www.cnet.com/rss/news/",
+      "feed_icon": "https://www.cnet.com/wp-content/uploads/sites/2/cropped-favicon-480.png?w=32"
+    },
+    {
+      "id": "01M5ZEAQRZZWFE5XWZK5S39VFN",
+      "title": "Sony’s Bravia 6 OLED TV Is up to 40% Off Right Now",
+      "published": "2026-10-27T20:30:58+00:00",
+      "author": "Naima Karp",
+      "description": "It offers deep blacks, 4K gaming at 120Hz, and four HDMI 2.1 inputs.",
+      "link": "https://lifehacker.com/tech/sonys-bravia-6-oled-tv-deal-october-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M5ZEAQRZZWFE5XWZK5S39VFN/hero-image.jpg",
+      "feed_name": "Lifehacker",
+      "feed_title": "Lifehacker",
+      "category": "technology",
+      "feed_url": "https://lifehacker.com/rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=lifehacker.com&sz=64"
+    },
     {
       "id": "TheNextWeb=13bcf5a0a0e9d1c24a89aab30e2dacdb",
       "title": "Invesco brings its model portfolios into Anthropic’s Claude for advisers",
@@ -24,6 +66,20 @@
       "category": "technology",
       "feed_url": "https://thenextweb.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
+    {
+      "id": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+      "title": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
+      "published": "2026-10-27T20:25:55+00:00",
+      "author": "Dan Goodin",
+      "description": "Critical flaw in EDK2 allows attackers to execute code early in the boot process.",
+      "link": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/malware-500x500.jpg",
+      "feed_name": "Ars Technica",
+      "feed_title": "Ars Technica - All content",
+      "category": "technology",
+      "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
+      "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
     },
     {
       "id": "yt:video:ai1gIWacf0I",
@@ -139,7 +195,7 @@
     },
     {
       "id": "https://arstechnica.com/gadgets/2026/10/googles-android-registered-app-stores-program-launches-dec-1-applications-now-open/",
-      "title": "Google's Android Registered App Stores program launches Dec. 1, applications now open",
+      "title": "Google begins certifying Registered App Stores for Android, but not in the US",
       "published": "2026-10-27T19:32:07+00:00",
       "author": "Ryan Whitwam",
       "description": "Easier app installs are coming to third-party stores, pending Google's stamp of approval.",

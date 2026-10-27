@@ -1,16 +1,30 @@
 {
   "category": "gaming",
-  "updated": "2026-10-27T20:33:11.623069+00:00",
-  "count": 532,
+  "updated": "2026-10-27T21:03:44.062625+00:00",
+  "count": 533,
   "summary": {
-    "text": "• Nine games are running limited-time Halloween 2026 events.\n• World of Warcraft: Forever opens character name reservations today.\n• The Elden Ring movie from A24 and Alex Garland keeps its script secret, and Amazon MGM has streaming rights for the 2028 release.\n• Sam Greszes alleges Jackbox Games plagiarized his board game Die on this Hill after the studio went silent on a demo request.\n• Virgin Media's Irish promotion will pay one person to play GTA 6.",
-    "generated_at": "2026-10-27T20:03:44.945858+00:00",
+    "text": "• Toei Animation reportedly tried to cancel its Yu-Gi-Oh! anime, so Weekly Shonen Jump threatened to pull its Dragon Ball license.\n• Magic: The Gathering's new Star Trek Secret Lair reprints Thrasios, Triton Hero as Lower Decks' Tendi.\n• A leak reveals McDonald's upcoming Pokémon Happy Meal surprise, which brings back a product missing from Happy Meals for nearly a decade.\n• A Kotaku piece describes one Dark Souls room as a personal waking nightmare.",
+    "generated_at": "2026-10-27T21:03:44.062625+00:00",
     "window_minutes": 60,
-    "item_count": 7,
-    "key": "ccef19fe3fbd7b8475c2aa44f9d8e1a55653dadc",
+    "item_count": 4,
+    "key": "13808cbf112309af8eff0f488a090cd53a6bd8ad",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://kotaku.com/?p=2000750199",
+      "title": "Toei Animation Tried To Cancel Its Yu-Gi-Oh! Anime, So Weekly Shonen Jump Threatened To Pull Its Dragon Ball License",
+      "published": "2026-10-27T21:00:20+00:00",
+      "author": "Lewis Parker",
+      "description": "My grandpa's publishing company has no pathetic anime IPs, Kaiba!",
+      "link": "https://kotaku.com/toei-animation-tried-to-cancel-its-yu-gi-oh-anime-so-weekly-shonen-jump-threatened-to-pull-its-dragon-ball-license-2000750199",
+      "image": "https://kotaku.com/app/uploads/2026/10/Yu-Gi-Oh-anime.jpg",
+      "feed_name": "Kotaku",
+      "feed_title": "Kotaku",
+      "category": "gaming",
+      "feed_url": "https://kotaku.com/rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=kotaku.com&sz=64"
+    },
     {
       "id": "https://www.polygon.com/magic-gathering-mtg-star-trek-commander-reprint/",
       "title": "Magic Is Reprinting a $20 Commander Powerhouse as a Star Trek Fan Favorite",
