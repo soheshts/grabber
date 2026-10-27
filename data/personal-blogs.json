@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-10-27T01:02:52.255249+00:00",
-  "count": 419,
+  "updated": "2026-10-27T01:33:05.799928+00:00",
+  "count": 420,
   "items": [
     {
       "id": "https://www.bennadel.com/blog/4921-code-kata-arraymerge-polyfill-in-adobe-coldfusion.htm",
@@ -16,6 +16,20 @@
       "category": "personal blogs",
       "feed_url": "http://www.bennadel.com/index.cfm?dax=blog.rss&lst_tag_id=14,16,3,5,9,6,7,13,18,20,10,15",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.bennadel.com&sz=64"
+    },
+    {
+      "id": "https://ronaldsvilcins.com/2026/10/27/using-html-attribute-values-inside-css-with-attr/",
+      "title": "Using HTML Attribute Values Inside CSS With attr()",
+      "published": "2026-10-26T22:00:00+00:00",
+      "author": "Ronalds Vilciņš",
+      "description": "CSS attr() reads HTML attributes for generated labels and typed calculations. Use working examples, check support, and handle missing or invalid values.",
+      "link": "https://ronaldsvilcins.com/2026/10/27/using-html-attribute-values-inside-css-with-attr/",
+      "image": "https://ronaldsvilcins.com/og.png",
+      "feed_name": "Ronalds Vilciņš",
+      "feed_title": "Ronalds Vilciņš",
+      "category": "personal blogs",
+      "feed_url": "https://ronaldsvilcins.com/atom.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=ronaldsvilcins.com&sz=64"
     },
     {
       "id": "https://jeffbridgforth.com/?p=12699",
