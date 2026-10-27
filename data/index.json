@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T02:33:25.466219+00:00",
+  "updated": "2026-10-27T03:03:43.421253+00:00",
   "categories": [
     {
       "name": "technology",
@@ -13,14 +13,14 @@
       "slug": "entertainment",
       "file": "entertainment.json",
       "feeds": 17,
-      "count": 754
+      "count": 757
     },
     {
       "name": "science",
       "slug": "science",
       "file": "science.json",
       "feeds": 21,
-      "count": 384
+      "count": 386
     },
     {
       "name": "personal blogs",
@@ -111,7 +111,7 @@
       "slug": "world-news",
       "file": "world-news.json",
       "feeds": 8,
-      "count": 590
+      "count": 593
     },
     {
       "name": "India",
@@ -125,7 +125,7 @@
       "slug": "malayalam",
       "file": "malayalam.json",
       "feeds": 11,
-      "count": 979
+      "count": 1000
     }
   ]
 }
