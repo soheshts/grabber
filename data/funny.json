@@ -1,8 +1,15 @@
 {
   "category": "funny",
-  "updated": "2026-10-27T18:03:28.533577+00:00",
+  "updated": "2026-10-27T18:32:45.192559+00:00",
   "count": 176,
-  "summary": null,
+  "summary": {
+    "text": "• The Onion reports that a stop-motion scene taking an animator 120 hours to make was ruined by a text message, a satirical headline about the frustrations of the craft.",
+    "generated_at": "2026-10-27T18:32:45.192559+00:00",
+    "window_minutes": 60,
+    "item_count": 1,
+    "key": "8fa87c2519b2d833609bbdf1b78bfe2d1b73e3c3",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
     {
       "id": "https://theonion.com/?p=1851709736",

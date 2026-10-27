@@ -1,16 +1,58 @@
 {
   "category": "gaming",
-  "updated": "2026-10-27T18:03:28.533577+00:00",
-  "count": 488,
+  "updated": "2026-10-27T18:32:45.192559+00:00",
+  "count": 498,
   "summary": {
-    "text": "• World of Warcraft Forever launches November 4. Blizzard detailed its Skyborne design, update plans, and future content tied to vanilla continents.\n• Kingdom Come: Deliverance developer Warhorse Studios confirmed a \"serious\" cyberattack and is assessing its full extent.\n• Fire Emblem: Fortune's Weave datamining revealed cut paired endings, including one for Leda and Bertrand.\n• Assassin's Creed IV: Black Flag Resynced's final patch adds a harder New Game+.\n• A South Korean politician urged the president to play Modern Warfare 4 to understand invasion devastation.",
-    "generated_at": "2026-10-27T17:33:30.554562+00:00",
+    "text": "• GTA 6 on PS5 will need over 200 GB, reportedly 210 GB for the $80 standard edition, and UK Rockstar developers will hold a union vote November 12–26.\n• CD Projekt Red job listings hint at multiplayer quests in the Cyberpunk 2077 sequel.\n• Xbox highlights one of the highest-rated Call of Duty games for play today, and Polygon posted beginner tips for MW4's DMZ mode.\n• Best Buy published its full holiday sale schedule, including Black Friday and last-minute Christmas deals.",
+    "generated_at": "2026-10-27T18:32:45.192559+00:00",
     "window_minutes": 60,
-    "item_count": 11,
-    "key": "22ed3a73c5cdcaaa40bf865692c98e18efc9a895",
+    "item_count": 10,
+    "key": "5a8bdf02b940889740e3c4a13e7c7ce4efb08d11",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.polygon.com/cyberpunk-2-multiplayer-quests-leak-cd-projekt-red/",
+      "title": "Cyberpunk 2 Listing Hints at Multiplayer Quests in CD Projekt Red Sequel",
+      "published": "2026-10-27T18:23:22+00:00",
+      "author": "Willa Rowe",
+      "description": "Cybperunk 2077's sequel teases multiplayer component in new leak from CD Projekt Red job listings",
+      "link": "https://www.polygon.com/cyberpunk-2-multiplayer-quests-leak-cd-projekt-red/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/07/cyberpunk-2077-switch-2.jpg",
+      "feed_name": "Polygon -  All",
+      "feed_title": "Polygon.com",
+      "category": "gaming",
+      "feed_url": "https://www.polygon.com/rss/index.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.polygon.com&sz=64"
+    },
+    {
+      "id": "https://www.polygon.com/gta-6-storage-size-install-ps5-xbox-series-x/",
+      "title": "GTA 6 Install Size Officially Revealed",
+      "published": "2026-10-27T18:11:55+00:00",
+      "author": "Michael McWhertor",
+      "description": "Grand Theft Auto 6 on PlayStation 5 will require more than 200 GB of storage space, according to a new report.",
+      "link": "https://www.polygon.com/gta-6-storage-size-install-ps5-xbox-series-x/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/img_1128.webp",
+      "feed_name": "Polygon -  All",
+      "feed_title": "Polygon.com",
+      "category": "gaming",
+      "feed_url": "https://www.polygon.com/rss/index.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.polygon.com&sz=64"
+    },
+    {
+      "id": "https://kotaku.com/?p=2000750216",
+      "title": "Rockstar Games Devs In The UK Will Hold A Union Vote During The Launch Of GTA 6",
+      "published": "2026-10-27T18:05:51+00:00",
+      "author": "Rebekah Valentine",
+      "description": "The voting period runs from November 12 through 26",
+      "link": "https://kotaku.com/rockstar-games-devs-in-the-uk-will-hold-a-union-vote-during-the-launch-of-gta-6-2000750216",
+      "image": "https://kotaku.com/app/uploads/2026/06/gta-online-2-1280x720.jpg",
+      "feed_name": "Kotaku",
+      "feed_title": "Kotaku",
+      "category": "gaming",
+      "feed_url": "https://kotaku.com/rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=kotaku.com&sz=64"
+    },
     {
       "id": "https://kotaku.com/?p=2000750182",
       "title": "Shelley Duvall Is Still Horror Gaming’s Scream Queen",
@@ -52,6 +94,34 @@
       "category": "gaming",
       "feed_url": "https://www.polygon.com/rss/index.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.polygon.com&sz=64"
+    },
+    {
+      "id": "1936307",
+      "title": "GTA 6 File Size Revealed, And It’s Massive",
+      "published": "2026-10-27T17:48:21+00:00",
+      "author": "Eddie Makuch",
+      "description": "Ahead of the game's release in November, GTA 6' s file size has been revealed, and it is massive. PlayStation Game Size reports that the $80 standard edition will take up 210GB of storage capacity. Size details for the $100 Ultimate Edition--which includes a ton of content not in the regular version--were not made available. We also don't know the Xbox Series X|S file size, but it's likely around the same. As announced previously, preloading for GTA 6 begins on November 12, which is good news c…",
+      "link": "https://www.gamespot.com/articles/gta-6-file-size-revealed-and-its-massive/",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Lucia_Caminos_07.jpg?w=300",
+      "feed_name": "GameSpot - All Content",
+      "feed_title": "GameSpot - All Content",
+      "category": "gaming",
+      "feed_url": "https://www.gamespot.com/feeds/mashup/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.gamespot.com&sz=64"
+    },
+    {
+      "id": "cf4c0583-e40a-43f8-be25-cfeefbdec1bd",
+      "title": "Best Buy’s Black Friday Sale Schedule Announced",
+      "published": "2026-10-27T17:43:33+00:00",
+      "author": "Chris Reed",
+      "description": "Best Buy has taken to its corporate blog to announce the retailer's full holiday sale schedule, including Black Friday and last-minute Christmas sales.",
+      "link": "https://www.ign.com/articles/best-buys-black-friday-holiday-sale-schedule-announced",
+      "image": "http://assets1.ignimgs.com/2018/02/06/bestbuy1517944363114.jpg",
+      "feed_name": "IGN All",
+      "feed_title": "IGN Articles",
+      "category": "gaming",
+      "feed_url": "http://feeds.ign.com/ign/all",
+      "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
     },
     {
       "id": "https://www.polygon.com/dune-part-3-final-trailer-book-changes/",
@@ -97,7 +167,7 @@
     },
     {
       "id": "https://www.polygon.com/fire-emblem-fortunes-weave-datamine-leaked-endings/",
-      "title": "Fire Emblem: Fortune’s Weave’s Endings Are Extremely Weird",
+      "title": "Fire Emblem: Fortune’s Weave’s Leaked Endings Are Extremely Weird",
       "published": "2026-10-27T17:30:20+00:00",
       "author": "Josh Broadwell",
       "description": "Fire Emblem Fortune's Weave datamining brought up a number of cut paired endings, and some of them, including one for Leda and Bertrand, kinda suck",
@@ -108,6 +178,20 @@
       "category": "gaming",
       "feed_url": "https://www.polygon.com/rss/index.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.polygon.com&sz=64"
+    },
+    {
+      "id": "76b8484c-7791-4ac6-bfd4-a6dbec54c73a",
+      "title": "What You Need to Know About Roco Kingdom, the Creature-Collecting Sensation Going Global",
+      "published": "2026-10-27T17:27:15+00:00",
+      "author": "George Forsyth-Nash",
+      "description": "In the brand new free-to-play game Roco Kingdom , developed by Tencent’s Morefun Studios, you journey through the bright, colorful world of Carosiaas a Roco, a mage from the magic academy, who sets off on an adventure to collect Jinies. These Jinies are magical creatures that are native to Carosia, and there are a ton of different Jinies roaming the land. Morefun’s closed beta test is currently ongoing, and players are already experiencing what the magical world of Carosia and all that Roco Kin…",
+      "link": "https://www.ign.com/articles/what-you-need-to-know-about-roco-kingdom-the-creature-collecting-sensation-going-global",
+      "image": "https://assets-prd.ignimgs.com/2026/10/27/header-key-art-1793120731574.jpg",
+      "feed_name": "IGN All",
+      "feed_title": "IGN Articles",
+      "category": "gaming",
+      "feed_url": "http://feeds.ign.com/ign/all",
+      "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
     },
     {
       "id": "1936273",
@@ -122,6 +206,34 @@
       "category": "gaming",
       "feed_url": "https://www.gamespot.com/feeds/mashup/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.gamespot.com&sz=64"
+    },
+    {
+      "id": "1c012cb2-77e3-4f84-9195-5c7f26961a9c",
+      "title": "GTA 6 Sparks Unlikely Cliff Richard Resurgence, but the 86-Year-Old Singer Still Doesn't Know What It Is",
+      "published": "2026-10-27T17:10:44+00:00",
+      "author": "Kirk McKeand",
+      "description": "British singer Cliff Richard is enjoying an unlikely resurgence at the age of 86 after one of his old songs featured in the GTA 6 Extended Look on Netflix, but it seems the whole Rockstar Games phenomenon has passed him by.",
+      "link": "https://www.ign.com/articles/devil-woman-singer-cliff-richard-didnt-know-gta-6",
+      "image": "https://assets-prd.ignimgs.com/2026/10/27/gettyimages-2285327041-1793120285351.jpg",
+      "feed_name": "IGN All",
+      "feed_title": "IGN Articles",
+      "category": "gaming",
+      "feed_url": "http://feeds.ign.com/ign/all",
+      "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
+    },
+    {
+      "id": "5d882199-2b38-4e2b-abfa-5ca5f2384097",
+      "title": "The Bambu Lab Early Black Friday Sale Starts Now at Best Buy: The Best Deals on Our Favorite 3D Printers",
+      "published": "2026-10-27T17:10:00+00:00",
+      "author": "Eric Song",
+      "description": "Lowest prices of 2026.",
+      "link": "https://www.ign.com/articles/bambu-lab-early-black-friday-sale-2026-at-best-buy",
+      "image": "https://assets-prd.ignimgs.com/2026/10/27/bambup2s-1793119704317.jpg",
+      "feed_name": "IGN All",
+      "feed_title": "IGN Articles",
+      "category": "gaming",
+      "feed_url": "http://feeds.ign.com/ign/all",
+      "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
     },
     {
       "id": "https://www.polygon.com/wow-forever-making-of-interview/",
@@ -348,6 +460,20 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.polygon.com&sz=64"
     },
     {
+      "id": "urn:uuid:0b8f558c-1c39-4f90-8c07-6ccede15509d",
+      "title": "Aloft and Conan Exiles Enhanced launch on PS5 in early 2027",
+      "published": "2026-10-27T16:00:43+00:00",
+      "author": "Jarle Hrafn Grindhaug",
+      "description": "We’ve just launched Dune: Awakening on PlayStation 5, but we’re only getting started. We’re excited to bring two more of our open-world survival adventures to PlayStation 5 in early 2027. Soar the skies in Aloft, then visit the unforgiving Exiled Lands in Conan Exiles Enhanced. Aloft: Build a home among the clouds After six years of heartfelt development […]",
+      "link": "https://blog.playstation.com/2026/10/27/aloft-and-conan-exiles-enhanced-launch-on-ps5-in-early-2027/",
+      "image": "https://live.staticflickr.com/65535/55603923383_6c9614f623_4k.jpg",
+      "feed_name": "PlayStation.Blog",
+      "feed_title": "PlayStation.Blog",
+      "category": "gaming",
+      "feed_url": "http://feeds.feedburner.com/psblog",
+      "feed_icon": "https://blog.playstation.com/tachyon/2019/03/cropped-pslogo.png?fit=32%2C32"
+    },
+    {
       "id": "https://kotaku.com/?p=2000750167",
       "title": "Call Of Duty Movie Director Promises Storytelling About ‘The Cost Of War’ That The Series Never Lives Up To",
       "published": "2026-10-27T16:00:30+00:00",
@@ -542,6 +668,20 @@
       "category": "gaming",
       "feed_url": "https://www.polygon.com/rss/index.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.polygon.com&sz=64"
+    },
+    {
+      "id": "urn:uuid:9f14a5fe-ddb0-41c9-bf61-5453ba19cda8",
+      "title": "Where Winds Meet’s climactic Hutuo Battlefield narrative arc revealed, out Nov 13",
+      "published": "2026-10-27T15:01:34+00:00",
+      "author": "Eric Zheng",
+      "description": "Today, we are proud to unveil the most climactic narrative arc in Where Winds Meet yet: Hutuo, a sprawling new region launching November 13 alongside the game’s first global anniversary update. Marking a major turning point in Where Winds Meet, Hutuo invites you onto an epic, war-torn frontier to experience a story of unwavering conviction, […]",
+      "link": "https://blog.playstation.com/2026/10/27/where-winds-meets-climactic-hutuo-battlefield-narrative-arc-revealed-out-nov-13/",
+      "image": "https://blog.playstation.com/content/themes/playstation-2018/images/placeholder.svg",
+      "feed_name": "PlayStation.Blog",
+      "feed_title": "PlayStation.Blog",
+      "category": "gaming",
+      "feed_url": "http://feeds.feedburner.com/psblog",
+      "feed_icon": "https://blog.playstation.com/tachyon/2019/03/cropped-pslogo.png?fit=32%2C32"
     },
     {
       "id": "https://www.eurogamer.net/roblox-counter-strike-playstation-homepage-super-hot-simpsons-hit-and-run",

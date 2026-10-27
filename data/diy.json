@@ -1,16 +1,44 @@
 {
   "category": "DIY",
-  "updated": "2026-10-27T18:03:28.533577+00:00",
-  "count": 209,
+  "updated": "2026-10-27T18:32:45.192559+00:00",
+  "count": 211,
   "summary": {
-    "text": "• PC hardware: AMD says filling every RAM slot on a motherboard may not be a good idea.\n• Dual booting: Common beginner mistakes can turn a Linux and Windows setup into an ongoing headache.\n• Smart home: An Anthropic AI worm warning raises questions about how smart home devices are set up.\n• Google Pixel: A columnist asks whether Pixel camera quality is getting worse.\n• Windows 11: New controls let users manage which apps can access the camera and microphone without blocking all apps.",
-    "generated_at": "2026-10-27T17:33:30.554562+00:00",
+    "text": "• Smart TV privacy: one reader disabled three TV privacy settings and saw no ill effects, regaining control over their data.\n• Mini PCs: a trio of mini PCs is presented as a smarter buy than a single desktop tower, given how capable they've become.\n• Android: a phone setting can stop background tasks the user never approved.\n• DIY build: a builder created a small kitchen TV using a modern monitor and a hidden streaming stick.",
+    "generated_at": "2026-10-27T18:32:45.192559+00:00",
     "window_minutes": 60,
-    "item_count": 5,
-    "key": "d9663dcdd2a8f7d0b6b4a9d33962fe2c0701dae3",
+    "item_count": 4,
+    "key": "cb01a3c69cf7feb5a2fba86ad5c8a8555fe91344",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.makeuseof.com/i-disabled-smart-tv-privacy-settings-and-nothing-broke-heres-what-changed/",
+      "title": "I disabled 3 smart TV privacy settings, and nothing broke. Here's what changed",
+      "published": "2026-10-27T18:30:16+00:00",
+      "author": "Jack Mitchell",
+      "description": "I was worried about adverse effects when my TV stopped collecting my data, but all that happened was I took back control.",
+      "link": "https://www.makeuseof.com/i-disabled-smart-tv-privacy-settings-and-nothing-broke-heres-what-changed/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/tv-privacy-options-samsung.png",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/why-a-trio-of-mini-pcs-is-a-smarter-buy-than-a-single-desktop-tower/",
+      "title": "Why a trio of mini PCs is a smarter buy than a single desktop tower",
+      "published": "2026-10-27T18:30:15+00:00",
+      "author": "Monica J. White",
+      "description": "Those mini PCs have gotten mighty good in the last few years.",
+      "link": "https://www.howtogeek.com/why-a-trio-of-mini-pcs-is-a-smarter-buy-than-a-single-desktop-tower/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/03/three-mini-pcs-stacked-on-top-of-each-other-in-a-homelab.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/android-background-process-limit-setting/",
       "title": "Your Android is running background tasks you never approved and this one setting kills them",

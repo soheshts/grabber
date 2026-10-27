@@ -1,9 +1,58 @@
 {
   "category": "space",
-  "updated": "2026-10-27T18:03:28.533577+00:00",
-  "count": 113,
-  "summary": null,
+  "updated": "2026-10-27T18:32:45.192559+00:00",
+  "count": 116,
+  "summary": {
+    "text": "• Cowboy Space unveiled \"Big Iron,\" its rocket for launching a planned constellation of 20,000 AI data centers, with a debut targeted for late 2028.\n• NASA released an image from October 26, 2026, of a technician inspecting the 20-foot sunshade of its Near-Earth Object (NEO) Surveyor mission.\n• Space.com has published a guide to November's full Beaver Moon, covering peak viewing times and skywatching highlights.",
+    "generated_at": "2026-10-27T18:32:45.192559+00:00",
+    "window_minutes": 60,
+    "item_count": 3,
+    "key": "7086f314de0ebe667e26d7a6d457873f316f44b2",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "EhuVdbmaenf2KcAANwEfx4",
+      "title": "November full moon 2026: When, where and how to see the Beaver Moon",
+      "published": "2026-10-27T18:00:00+00:00",
+      "author": "Anthony Wood",
+      "description": "Your guide to November's full Beaver Moon, from peak times to skywatching highlights.",
+      "link": "https://www.space.com/stargazing/november-full-moon-2026-when-where-and-how-to-see-the-beaver-moon",
+      "image": "https://cdn.mos.cms.futurecdn.net/cCumP2kADy3aTSJc9aaLRP-1920-80.jpg",
+      "feed_name": "Space.com",
+      "feed_title": "Latest from Space.com",
+      "category": "space",
+      "feed_url": "https://www.space.com/feeds/all",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.space.com&sz=64"
+    },
+    {
+      "id": "6MjpBEeXSp7rVDrCnrfgm9",
+      "title": "Cowboy Space unveils 'Big Iron' rocket to launch 20,000 AI data centers",
+      "published": "2026-10-27T18:00:00+00:00",
+      "author": "Mike Wall",
+      "description": "Cowboy Space just gave us our first look at its \"Big Iron\" rocket, which the company will use to build its AI data center constellation. Big Iron's debut is targeted for late 2028.",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/cowboy-space-unveils-big-iron-rocket-to-launch-20-000-ai-data-centers",
+      "image": "https://cdn.mos.cms.futurecdn.net/y3SBdSPdw5xKKFPYS279h4-1920-80.jpg",
+      "feed_name": "Space.com",
+      "feed_title": "Latest from Space.com",
+      "category": "space",
+      "feed_url": "https://www.space.com/feeds/all",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.space.com&sz=64"
+    },
+    {
+      "id": "https://www.nasa.gov/?post_type=image-article&p=1059371",
+      "title": "NASA’s Neo Surveyor Sunshade",
+      "published": "2026-10-27T17:58:57+00:00",
+      "author": "HQ Web Team",
+      "description": "A technician inspects the large sunshade of NASA’s Near-Earth Object (NEO) Surveyor mission in this image released on Oct. 26, 2026. The sunshade structure, which stands 20 feet (6 meters) tall and measures 8 feet (2.4 meters) wide at its base, will keep the infrared space telescope cool as it searches for near-Earth asteroids and […]",
+      "link": "https://www.nasa.gov/image-article/nasas-neo-surveyor-sunshade/",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26715-bae-sunshade-inspection-1.jpg?w=2048",
+      "feed_name": "NASA Breaking News",
+      "feed_title": "NASA",
+      "category": "space",
+      "feed_url": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.nasa.gov&sz=64"
+    },
     {
       "id": "GfwvcXPreiZ6tCnBYZ32C3",
       "title": "'Dungeon Crawler Carl' is getting a killer new comic book series",
