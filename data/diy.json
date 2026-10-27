@@ -1,16 +1,44 @@
 {
   "category": "DIY",
-  "updated": "2026-10-27T22:32:21.168289+00:00",
-  "count": 226,
+  "updated": "2026-10-27T23:03:05.147006+00:00",
+  "count": 229,
   "summary": {
-    "text": "• How-To Geek covers four Netflix reboots that honor their originals instead of feeling like cash grabs.\n• A second How-To Geek piece looks at four PC ports that outlived their inventors and still persist.\n• Both items are from How-To Geek, and neither is a practical DIY guide.",
-    "generated_at": "2026-10-27T22:03:42.130140+00:00",
+    "text": "• Samsung's One UI 9 update is prompting one How-To Geek writer to rethink their Galaxy phone habits, calling it a win.\n• Hackaday's blog traces the origins of ubiquitous personal computing, starting from the original IBM PC and a single university project.\n• How-To Geek argues smart speakers are no longer worthwhile and suggests an ESP32 or an old phone can do a better job.",
+    "generated_at": "2026-10-27T23:03:05.147006+00:00",
     "window_minutes": 60,
-    "item_count": 2,
-    "key": "f3c815418a728e0551752c616e0df0e0548ac084",
+    "item_count": 3,
+    "key": "645d16031259f33bef1afcc3dd479c4dd6220800",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.howtogeek.com/samsungs-one-ui-9-update-has-me-rethinking-my-galaxy-phone-habits/",
+      "title": "Samsung's One UI 9 update has me rethinking my Galaxy phone habits (for the better)",
+      "published": "2026-10-27T23:00:15+00:00",
+      "author": "Sanya Shah",
+      "description": "One UI 9, a win of mine.",
+      "link": "https://www.howtogeek.com/samsungs-one-ui-9-update-has-me-rethinking-my-galaxy-phone-habits/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/08/person-holding-the-samsung-galaxy-s26-fe-showing-the-now-nudge-settings-menu_55490084236_o.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://hackaday.com/?p=1394036",
+      "title": "How a Single University Project Started Everything",
+      "published": "2026-10-27T23:00:07+00:00",
+      "author": "Jenny List",
+      "description": "If we care to cast an eye over the history of ubiquitous personal computing as we know it today, we might immediately point at the original IBM PC. After all, …read more",
+      "link": "https://hackaday.com/2026/10/27/how-a-single-university-project-started-everything/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/10/sun1-cpu-featured.jpg",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/smart-speakers-dont-make-sense-anymore/",
       "title": "Smart speakers don’t make sense anymore—an ESP32 or an old phone can do a better job",
@@ -38,6 +66,20 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.apartmenttherapy.com/industrial-living-room-new-york-ba-37695834",
+      "title": "This Apartment’s Living Room Used to Be Bedrooms — You’d Never Know It Now",
+      "published": "2026-10-27T22:00:00+00:00",
+      "author": "LJ Smelker",
+      "description": "When a room’s layout isn’t working, you change it to work for you. In Sean Matthew Robinson’s case, he flipped his entire apartment because the layout wasn’t working. Originally in his Hell’s Kitchen apartment a tiny living room was at the front of the railway-style apartment, and two small bedrooms were at the opposite end. READ MORE...",
+      "link": "https://www.apartmenttherapy.com/industrial-living-room-new-york-ba-37695834?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+projects",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2026/august/sean-r/before-after/sean-r-living-room-before-tag",
+      "feed_name": "Apartment Therapy| Saving the world, one room at a time",
+      "feed_title": "Apartment Therapy| Saving the world, one room at a time",
+      "category": "DIY",
+      "feed_url": "https://www.apartmenttherapy.com/projects.rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.apartmenttherapy.com&sz=64"
     },
     {
       "id": "https://www.howtogeek.com/these-4-pc-hardware-ports-are-so-irreplaceable-that-they-outlived-their-inventors/",
@@ -321,7 +363,7 @@
     },
     {
       "id": "https://www.makeuseof.com/what-anthropics-ai-worm-warning-means-for-smart-home-devices/",
-      "title": "What Anthropic’s AI worm warning means for smart home devices",
+      "title": "What Anthropic’s AI-worm warning means for smart home devices",
       "published": "2026-10-27T17:00:17+00:00",
       "author": "Chris Hachey",
       "description": "Make sure you understand how your smart home is set up.",

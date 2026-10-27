@@ -1,16 +1,58 @@
 {
   "category": "technology",
-  "updated": "2026-10-27T22:32:21.168289+00:00",
-  "count": 745,
+  "updated": "2026-10-27T23:03:05.147006+00:00",
+  "count": 752,
   "summary": {
-    "text": "• Scams and security: Engadget explains wrong-number text scams as the start of an attack on your money, while Slashdot reports a code-execution flaw in UEFI boot firmware that threatens most servers worldwide.\n• Apple devices: Reports suggest the iPhone 18e will get a 2nm A20 chip and a 60Hz screen, and CNET is livestreaming a durability test of the foldable iPhone Duo, which has passed 75,000 folds.\n• AI and copyright: Anthropic and Suno are sued by music publishers over allegedly training AI models on copyrighted songs by Madonna, Johnny Cash and Joni Mitchell.\n• AI tools: ChatGPT can now work with iCloud Mail and Calendar through new plugin support, including updating events and searching email.\n• Platform news: An animated arm taking over the X composer is pushing users to pay to promote posts.",
-    "generated_at": "2026-10-27T22:03:42.130140+00:00",
+    "text": "• Apple refreshed the iMac and entry-level MacBook Pro with the M6 chip; the N1 chip adds Wi-Fi 7 and Bluetooth 6.\n• Oura is suing Ultrahuman again for patent infringement, seeking to ban the Ring Pro.\n• Engadget covers spotting AI glasses and customizing Android Auto displays.\n• South Carolina's measles outbreak jumped to Washington state five times in two weeks.\n• A DIA assessment suggests China may soon deploy space-based directed energy weapons; its secret spaceplane can't hide in low orbit.",
+    "generated_at": "2026-10-27T23:03:05.147006+00:00",
     "window_minutes": 60,
-    "item_count": 9,
-    "key": "fa505a62e2f74d88a7df2240375968146ff03662",
+    "item_count": 6,
+    "key": "74cb001ea5661a3b328f993f6a73631a11cdc4a5",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.engadget.com/2296047/how-to-change-customize-android-auto-display/",
+      "title": "How to change and customize your Android Auto display",
+      "published": "2026-10-27T23:00:00+00:00",
+      "author": "Gabriela Vătu",
+      "description": "Tailor your tech to fit your daily drive seamlessly.",
+      "link": "https://www.engadget.com/2296047/how-to-change-customize-android-auto-display/",
+      "image": "https://www.engadget.com/img/gallery/how-to-change-and-customize-your-android-auto-display/l-intro-1792678996.jpg",
+      "feed_name": "Engadget",
+      "feed_title": "Engadget - Technology News & Expert Reviews",
+      "category": "technology",
+      "feed_url": "https://www.engadget.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
+    {
+      "id": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/",
+      "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
+      "published": "2026-10-27T22:37:30+00:00",
+      "author": "Samuel Axon",
+      "description": "Additionally, the N1 chip brings Wi-Fi 7 and Bluetooth 6.",
+      "link": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/M6-iMac-500x500.jpg",
+      "feed_name": "Ars Technica",
+      "feed_title": "Ars Technica - All content",
+      "category": "technology",
+      "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
+      "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
+    },
+    {
+      "id": "5117587",
+      "title": "Battle of the Smart Rings: Oura Sues Ultrahuman for Patent Infringement — Again",
+      "published": "2026-10-27T22:30:37+00:00",
+      "author": "Anna Gragert",
+      "description": "The smart ring maker wants to ban the Ultrahuman Ring Pro.",
+      "link": "https://www.cnet.com/tech/mobile/battle-smart-rings-oura-filed-lawsuit-against-ultrahuman-again/",
+      "image": "https://www.cnet.com/wp-content/uploads/sites/2/fe885823-eb36-4d14-b2ac-c555c9eb66cf.jpg",
+      "feed_name": "CNET News",
+      "feed_title": "News – CNET",
+      "category": "technology",
+      "feed_url": "https://www.cnet.com/rss/news/",
+      "feed_icon": "https://www.cnet.com/wp-content/uploads/sites/2/cropped-favicon-480.png?w=32"
+    },
     {
       "id": "https://www.engadget.com/2296049/best-ways-tell-if-someone-wearing-ai-glasses/",
       "title": "The best ways to tell if someone is using AI glasses",
@@ -24,6 +66,34 @@
       "category": "technology",
       "feed_url": "https://www.engadget.com/rss.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
+    {
+      "id": "https://arstechnica.com/health/2026/10/domestic-travel-poses-growing-risk-for-measles-and-a-new-challenge-for-states/",
+      "title": "South Carolina's measles outbreak jumped to Washington state 5 times in 2 weeks",
+      "published": "2026-10-27T22:22:32+00:00",
+      "author": "Beth Mole",
+      "description": "International travel used to be the main risk of measles cases in the US—not anymore.",
+      "link": "https://arstechnica.com/health/2026/10/domestic-travel-poses-growing-risk-for-measles-and-a-new-challenge-for-states/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-930111236-500x500.jpeg",
+      "feed_name": "Ars Technica",
+      "feed_title": "Ars Technica - All content",
+      "category": "technology",
+      "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
+      "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
+    },
+    {
+      "id": "https://arstechnica.com/space/2026/10/chinas-top-secret-spaceplane-cant-hide-in-low-earth-orbit/",
+      "title": "China's top-secret spaceplane can't hide in low-Earth orbit",
+      "published": "2026-10-27T22:04:50+00:00",
+      "author": "Stephen Clark",
+      "description": "The DIA's threat assessment suggests China may soon place directed energy weapons in space.",
+      "link": "https://arstechnica.com/space/2026/10/chinas-top-secret-spaceplane-cant-hide-in-low-earth-orbit/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/shenlong_maxar-500x500.jpg",
+      "feed_name": "Ars Technica",
+      "feed_title": "Ars Technica - All content",
+      "category": "technology",
+      "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
+      "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
     },
     {
       "id": "https://www.engadget.com/2296048/wrong-number-text-scams-how-avoid/",
@@ -82,6 +152,20 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=lifehacker.com&sz=64"
     },
     {
+      "id": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+      "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
+      "published": "2026-10-27T21:50:04+00:00",
+      "author": "Jon Brodkin",
+      "description": "Owners of AI-run firms would evade liability for \"reckless\" AI, US Rep. Comer says.",
+      "link": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot-phone-headset-500x500-1793134828.jpg",
+      "feed_name": "Ars Technica",
+      "feed_title": "Ars Technica - All content",
+      "category": "technology",
+      "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
+      "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
+    },
+    {
       "id": "yt:video:GIUty8-h_N0",
       "title": "Are humans special? #Vergecast",
       "published": "2026-10-27T21:45:03+00:00",
@@ -108,6 +192,20 @@
       "category": "technology",
       "feed_url": "https://www.engadget.com/rss.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
+    {
+      "id": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
+      "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+      "published": "2026-10-27T21:31:14+00:00",
+      "author": "Kyle Orland",
+      "description": "Seven potential AI nightmares pulled from Anthropic's 93-page \"Risk Factor\" tome.",
+      "link": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/anthropic-crystal-ball-500x500.jpg",
+      "feed_name": "Ars Technica",
+      "feed_title": "Ars Technica - All content",
+      "category": "technology",
+      "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
+      "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
     },
     {
       "id": "https://it.slashdot.org/story/26/10/27/2121232/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth?utm_source=rss1.0mainlinkanon&utm_medium=feed",
@@ -293,7 +391,7 @@
     },
     {
       "id": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
-      "title": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
+      "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
       "published": "2026-10-27T20:25:55+00:00",
       "author": "Dan Goodin",
       "description": "Critical flaw in EDK2 allows attackers to execute code early in the boot process.",

@@ -1,16 +1,30 @@
 {
   "category": "fashion",
-  "updated": "2026-10-27T22:32:21.168289+00:00",
-  "count": 234,
+  "updated": "2026-10-27T23:03:05.147006+00:00",
+  "count": 235,
   "summary": {
-    "text": "• Nordstrom has marked down 29 items, with shoppers finding deals that seem almost too good to be true.\n• NYT Style reports that \"leaked\" photos from Taylor Swift's wedding reveal little, with the piece framing complete secrecy as the new luxury.",
-    "generated_at": "2026-10-27T22:03:42.130140+00:00",
+    "text": "• ELLE reports five runway-approved denim skirt trends for fall and winter.\n• The piece highlights chic ways to wear denim skirts, which it calls this season's wardrobe hero.\n• This is the only fashion item in the past hour.",
+    "generated_at": "2026-10-27T23:03:05.147006+00:00",
     "window_minutes": 60,
-    "item_count": 2,
-    "key": "ef6b5766c6658474a9cd56227a9e2c692648a674",
+    "item_count": 1,
+    "key": "afaf96b615511221bbabae08f3c5e7626a1626d9",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "http://www.elle.com/fashion/trend-reports/a74195111/denim-skirt-trend-2026/",
+      "title": "The 5 Runway-Approved Denim Skirt Trends to Know for Fall and Winter",
+      "published": "2026-10-27T22:33:46+00:00",
+      "author": null,
+      "description": "Discover the chicest ways to wear this season’s wardrobe hero.",
+      "link": "https://www.elle.com/fashion/trend-reports/a74195111/denim-skirt-trend-2026/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/9ce9df66-dfad-4232-91ec-ae7da078aad7.jpg?crop=1xw:0.868xh;0xw,0.03xh&resize=1200:*",
+      "feed_name": "Fashion - ELLE",
+      "feed_title": "Fashion - ELLE",
+      "category": "fashion",
+      "feed_url": "https://www.elle.com/rss/fashion.xml/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.elle.com&sz=64"
+    },
     {
       "id": "DQw8Ti4Mbo3a6tRwWg98JE",
       "title": "Surprise! These 29 Impressive Items Were Just Marked Down at Nordstrom",
