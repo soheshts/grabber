@@ -1,16 +1,72 @@
 {
   "category": "World News",
-  "updated": "2026-10-27T19:03:04.489550+00:00",
-  "count": 840,
+  "updated": "2026-10-27T19:33:27.591776+00:00",
+  "count": 851,
   "summary": {
-    "text": "• Israel's Tuesday election is unlikely to yield quick answers on the next government; Netanyahu accused Arab citizens of \"trying to steal the elections.\"\n• Norway and Finland leaders held a rare call with Putin, splitting European leaders over outreach to end the Ukraine war.\n• South Africa deployed 500 soldiers after a mob beat a foreign national to death during anti-immigrant violence.\n• Jordan says its deadly Syria strikes targeted Islamic State, retaliating for an attack on a Jordanian church.",
-    "generated_at": "2026-10-27T19:03:04.489550+00:00",
+    "text": "• Israel's election: Netanyahu warns of a grim economic outlook and accuses Arab citizens of trying to steal the vote.\n• Brazil: Flavio Bolsonaro reportedly fled after losing the presidential polls and faces two federal investigations.\n• Nigeria: An inquiry found the deaths of 33 detainees in Minna state were entirely preventable.\n• Boeing shares fell 10% after the company said 737 Max output won't significantly ramp up until late 2027.",
+    "generated_at": "2026-10-27T19:33:27.591776+00:00",
     "window_minutes": 60,
-    "item_count": 17,
-    "key": "3c96258e89b41639b769043e9822511ddcc9d0e1",
+    "item_count": 18,
+    "key": "9230724fa1a36815d8aa451b83d06527ac035315",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.nytimes.com/live/2026/10/27/world/israel-elections/israels-economic-future-is-on-the-ballot-after-netanyahu-offers-a-grim-forecast",
+      "title": "Israel’s economic future is on the ballot after Netanyahu offers a grim forecast.",
+      "published": "2026-10-27T19:30:04+00:00",
+      "author": "Isabel Kershner",
+      "description": "Prime Minister Benjamin Netanyahu has argued that Israel’s economy is healthy, but warned that its financial isolation could deepen.",
+      "link": "https://www.nytimes.com/live/2026/10/27/world/israel-elections/israels-economic-future-is-on-the-ballot-after-netanyahu-offers-a-grim-forecast",
+      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27israel-economy-jmcw/27israel-economy-jmcw-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/brazil-election-flavio-bolsonaro-flees-brazil-hours-after-losing-presidential-polls-12245354#publisher=newsstand",
+      "title": "Flavio Bolsonaro Flees Brazil Hours After Losing Presidential Polls: Report",
+      "published": "2026-10-27T19:19:30+00:00",
+      "author": null,
+      "description": "Flavio Bolsonaro is subject to at least two federal investigations.",
+      "link": "https://www.ndtv.com/world-news/brazil-election-flavio-bolsonaro-flees-brazil-hours-after-losing-presidential-polls-12245354#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-10/dss1mkpk_flavio-bolsonaro_625x300_05_October_26.jpeg",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
+      "id": "https://www.nytimes.com/live/2026/10/27/world/israel-elections/israeli-elections-have-great-consequences-for-palestinians-but-they-dont-get-to-vote",
+      "title": "Israeli elections have great consequences for Palestinians, but they don’t get to vote.",
+      "published": "2026-10-27T19:18:48+00:00",
+      "author": "Adam Rasgon",
+      "description": "Election fliers in Beit Kahil in the West Bank on Tuesday.",
+      "link": "https://www.nytimes.com/live/2026/10/27/world/israel-elections/israeli-elections-have-great-consequences-for-palestinians-but-they-dont-get-to-vote",
+      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27israel-westbank-mpbq/27israel-westbank-mpbq-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "108448107",
+      "title": "Boeing stock sinks 10% as company says it won't significantly ramp up 737 Max production until late 2027",
+      "published": "2026-10-27T19:10:24+00:00",
+      "author": null,
+      "description": "Boeing is set to brief investors on its aircraft production outlook when it reports quarterly results before the market opens Tuesday.",
+      "link": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108448328-1792700899335-gettyimages-2284942318-AFP_B9W49EE.jpeg?v=1792700980&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
     {
       "id": "https://www.nytimes.com/2026/10/27/world/americas/callout-reader-questions-us-midterm-elections.html",
       "title": "Do You Have Questions About the U.S. Midterm Elections?",
@@ -24,6 +80,20 @@
       "category": "World News",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmgel8pqj5rwo#1",
+      "title": "Deaths in detention cells in Nigeria were entirely preventable, inquiry finds",
+      "published": "2026-10-27T19:01:16+00:00",
+      "author": null,
+      "description": "Overcrowding and poor ventilation caused the deaths of 33 detainees in a prison cell in Minna state.",
+      "link": "https://www.bbc.co.uk/news/articles/cmgel8pqj5rwo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a16e/live/5844f360-d226-11f1-a701-fddedf244c16.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-four-things.html",
@@ -52,6 +122,20 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/baloch-prince-son-of-khan-of-kalat-kidnapped-with-his-3-gunmen-in-pakistan-12245091#publisher=newsstand",
+      "title": "Baloch Prince, Son Of Khan Of Kalat, Kidnapped With His 3 Gunmen In Pakistan",
+      "published": "2026-10-27T18:54:56+00:00",
+      "author": null,
+      "description": "According to initial probe, Prince Ahmedzai's vehicle was intercepted by armed men on Monday. (File)",
+      "link": "https://www.ndtv.com/world-news/baloch-prince-son-of-khan-of-kalat-kidnapped-with-his-3-gunmen-in-pakistan-12245091#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-10/vfh3049_baloch-prince-muhammad-khan-ahmedzai_625x300_27_October_26.jpeg",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
       "id": "https://www.nytimes.com/live/2026/10/27/world/israel-elections/netanyahu-accuses-arab-citizens-of-trying-to-steal-the-elections-in-racial-appeal-to-voters",
@@ -110,6 +194,34 @@
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
+      "id": "https://www.ndtv.com/world-news/massive-arab-israeli-poll-turnout-benjamin-netanyahus-end-to-jewish-state-charge-12245436#publisher=newsstand",
+      "title": "Massive Arab-Israeli Poll Turnout, Netanyahu's \"End To Jewish State\" Charge",
+      "published": "2026-10-27T18:50:11+00:00",
+      "author": null,
+      "description": "Benjamin called the election an \"emergency\" and a \"matter of life or death\" for the Israeli right",
+      "link": "https://www.ndtv.com/world-news/massive-arab-israeli-poll-turnout-benjamin-netanyahus-end-to-jewish-state-charge-12245436#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-04/321k48lg_netanyahu_625x300_13_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwz0vg2j442lo#0",
+      "title": "Ghanaian twin brothers and US woman plead guilty to $9m romance scam",
+      "published": "2026-10-27T18:43:41+00:00",
+      "author": null,
+      "description": "The group targeted elderly people across US and Europe, luring them into romantic relationship before persuading them to transfer large sums of money.",
+      "link": "https://www.bbc.co.uk/news/articles/cwz0vg2j442lo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bbe/live/217282b0-d22d-11f1-b441-2b33b063138f.png",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
       "id": "https://timesofindia.indiatimes.com/world/europe/an-irish-dairy-farmer-devoted-only-1-5-acres-of-his-110-acre-holding-to-1008-solar-panels-kept-sheep-grazing-underneath-and-secured-a-15-year-electricity-agreement-to-supply-power-equivalent-to-about-150-homes/articleshow/135243018.cms",
       "title": "Irish farmer builds solar farm on 1.5 acres, powers 150 homes while sheep graze beneath panels",
       "published": "2026-10-27T18:41:09+00:00",
@@ -122,6 +234,20 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/india-to-host-scos-1st-civilisational-dialogue-forum-pakistan-minister-invited-12245400#publisher=newsstand",
+      "title": "India To Host SCO's 1st Civilisational Dialogue Forum, Pakistan Minister Invited",
+      "published": "2026-10-27T18:35:31+00:00",
+      "author": null,
+      "description": "Pakistan has yet to confirm who will represent it at the forum. (File Photo)",
+      "link": "https://www.ndtv.com/world-news/india-to-host-scos-1st-civilisational-dialogue-forum-pakistan-minister-invited-12245400#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2025-09/87h67qc_pm-narendra-modi-at-sco-summit-in-china_625x300_02_September_25.jpeg",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cxdd8nq55d74o#1",
@@ -208,6 +334,20 @@
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
     },
     {
+      "id": "https://www.ndtv.com/world-news/nepal-halts-himalayan-trekking-permits-amid-avalanche-risks-12245380#publisher=newsstand",
+      "title": "Nepal Halts Himalayan Trekking Permits Amid Avalanche Risks",
+      "published": "2026-10-27T18:26:52+00:00",
+      "author": null,
+      "description": "Such warnings have become a recurring feature in Nepal in recent weeks. (Representational Photo)",
+      "link": "https://www.ndtv.com/world-news/nepal-halts-himalayan-trekking-permits-amid-avalanche-risks-12245380#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-09/6ck9ke1s_avalanche_625x300_27_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
       "id": "t3_1xh0idm",
       "title": "Senator Flávio Bolsonaro heads to US following Brazil election loss",
       "published": "2026-10-27T18:26:42+00:00",
@@ -250,6 +390,34 @@
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
+      "id": "https://www.ndtv.com/world-news/bioweapons-blackmail-risks-to-humanity-in-anthropics-pre-ipo-warning-12245357#publisher=newsstand",
+      "title": "Bioweapons, Blackmail, Risks To Humanity In Anthropic's Pre-IPO Warning",
+      "published": "2026-10-27T18:14:38+00:00",
+      "author": null,
+      "description": "The company raised concerns about AI agents taking actions before humans can stop them",
+      "link": "https://www.ndtv.com/world-news/bioweapons-blackmail-risks-to-humanity-in-anthropics-pre-ipo-warning-12245357#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-06/b5sgvj6o_anthropic-pbc-chief-executive-officer-dario-amodei-_625x300_11_June_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/south-korean-politician-urges-president-to-play-call-of-duty-over-north-korea-threat-are-we-prepared-12244757#publisher=newsstand",
+      "title": "South Korean Politician Urges President To Play Call of Duty 4: Modern Warfare Over North Korea Threat: 'Are We Prepared?'",
+      "published": "2026-10-27T17:53:59+00:00",
+      "author": null,
+      "description": "Han Dong-hoon urges President Lee Jae-myung to play Call Of Duty to understand North Korean threats.",
+      "link": "https://www.ndtv.com/world-news/south-korean-politician-urges-president-to-play-call-of-duty-over-north-korea-threat-are-we-prepared-12244757#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-10/tebaokas_as_625x300_27_October_26.jpeg",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
       "id": "108469244",
       "title": "Honda warns 50% Canada auto tariffs would be catastrophic for industry",
       "published": "2026-10-27T17:53:47+00:00",
@@ -276,6 +444,20 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/direct-hit-houthis-claim-targeted-saudi-ministry-with-ballistic-missile-12244247#publisher=newsstand",
+      "title": "\"Direct Hit\": Houthis' Claim Targeted Saudi Ministry With Ballistic Missile",
+      "published": "2026-10-27T17:51:20+00:00",
+      "author": null,
+      "description": "Explosions were reportedly heard in Riyadh earlier in the day. (File Photo)",
+      "link": "https://www.ndtv.com/world-news/direct-hit-houthis-claim-targeted-saudi-ministry-with-ballistic-missile-12244247#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-10/pqkv2njg_riyadh_625x300_14_October_26.jpeg",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
       "id": "t3_1xgzho1",
@@ -460,6 +642,20 @@
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
+      "id": "https://www.bbc.co.uk/news/videos/cqy43w2wpy3vo#2",
+      "title": "Watch: The Mbappé-Chairman Mao controversy explained",
+      "published": "2026-10-27T17:11:27+00:00",
+      "author": null,
+      "description": "Kylian Mbappé has apologised for \"ill-judged\" comments he made about late Chinese leader Mao Zedong.",
+      "link": "https://www.bbc.co.uk/news/videos/cqy43w2wpy3vo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2306/live/4e8e4460-d227-11f1-93e1-3b657b665bcf.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cmx28de233r2o#1",
       "title": "Nanotyrannus skeleton sells for $47.3m in New York auction",
       "published": "2026-10-27T17:10:15+00:00",
@@ -500,20 +696,6 @@
       "category": "World News",
       "feed_url": "https://www.reddit.com/r/worldnews/.rss",
       "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/baloch-prince-son-of-khan-of-kalat-kidnapped-with-his-3-gunmen-in-pakistan-12245091#publisher=newsstand",
-      "title": "Baloch Prince, Son Of Khan Of Kalat, Kidnapped With His 3 Gunmen In Pakistan",
-      "published": "2026-10-27T17:00:28+00:00",
-      "author": null,
-      "description": "According to initial probe, Prince Ahmedzai's vehicle was intercepted by armed men on Monday. (File)",
-      "link": "https://www.ndtv.com/world-news/baloch-prince-son-of-khan-of-kalat-kidnapped-with-his-3-gunmen-in-pakistan-12245091#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-10/vfh3049_baloch-prince-muhammad-khan-ahmedzai_625x300_27_October_26.jpeg",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/uk/in-1969-a-family-purchased-an-edvard-munch-woodcut-in-norway-57-years-later-the-rare-print-has-resurfaced-in-england-with-a-50000-to-80000-auction-estimate-bidding-is-set-for-october-28/articleshow/135240497.cms",
@@ -782,20 +964,6 @@
       "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
-      "id": "https://www.ndtv.com/world-news/south-korean-politician-urges-president-to-play-call-of-duty-over-north-korea-threat-are-we-prepared-12244757#publisher=newsstand",
-      "title": "South Korean Politician Urges President To Play Call Of Duty Over North Korea Threat: 'Are We Prepared?'",
-      "published": "2026-10-27T15:57:57+00:00",
-      "author": null,
-      "description": "Han Dong-hoon urges PM Lee Jae-myung to play Call Of Duty to understand North Korean threats.",
-      "link": "https://www.ndtv.com/world-news/south-korean-politician-urges-president-to-play-call-of-duty-over-north-korea-threat-are-we-prepared-12244757#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-10/tebaokas_as_625x300_27_October_26.jpeg",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
       "id": "108464732",
       "title": "Fed expected to hold rates steady, but Warsh may point way to more hikes",
       "published": "2026-10-27T15:52:26+00:00",
@@ -864,20 +1032,6 @@
       "category": "World News",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "108448107",
-      "title": "Boeing stock sinks 9% as company says it won't significantly ramp up 737 Max production until late 2027",
-      "published": "2026-10-27T15:45:49+00:00",
-      "author": null,
-      "description": "Boeing is set to brief investors on its aircraft production outlook when it reports quarterly results before the market opens Tuesday.",
-      "link": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108448328-1792700899335-gettyimages-2284942318-AFP_B9W49EE.jpeg?v=1792700980&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cj5ynkk6v3pzo#1",
@@ -1034,20 +1188,6 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
-      "id": "https://www.ndtv.com/world-news/direct-hit-houthis-claim-targeted-saudi-ministry-with-ballistic-missile-12244247#publisher=newsstand",
-      "title": "\"Direct Hit\": Houthis' Claim Targeted Saudi Ministry With Ballistic Missile",
-      "published": "2026-10-27T15:02:30+00:00",
-      "author": null,
-      "description": "Explosions were reportedly heard in Riyadh earlier in the day. (File Photo)",
-      "link": "https://www.ndtv.com/world-news/direct-hit-houthis-claim-targeted-saudi-ministry-with-ballistic-missile-12244247#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-10/pqkv2njg_riyadh_625x300_14_October_26.jpeg",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
       "id": "https://timesofindia.indiatimes.com/world/us/florida-manatee-habitat-ruling-sent-back-to-court-after-us-wildlife-agency-changed-the-definition-of-harm-under-endangered-species-law/articleshow/135230579.cms",
       "title": "Florida manatee habitat ruling sent back after US agency changes harm definition",
       "published": "2026-10-27T15:00:00+00:00",
@@ -1119,6 +1259,20 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c6x2qgyqr79wo#0",
+      "title": "Ballon d'Or ceremony raises case of French sports journalist jailed in Algeria",
+      "published": "2026-10-27T14:29:39+00:00",
+      "author": null,
+      "description": "He is in jail accused of supporting terrorism after travelling to the politically sensitive region Kabylie.",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2qgyqr79wo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f138/live/2d67b730-d204-11f1-b441-2b33b063138f.png",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6x2qgyqr79wo#1",
       "title": "Ballon d'Or ceremony raises case of French sports journalist jailed in Algeria",
       "published": "2026-10-27T14:29:39+00:00",
       "author": null,
@@ -1276,7 +1430,7 @@
       "title": "MP calls for rethink of pre-poll voting amid heightened security concerns in wake of Haines incident",
       "published": "2026-10-27T14:00:36+00:00",
       "author": "Tess Ikonomou",
-      "description": "Liberal-National MP Garth Hamilton says he has ‘witnessed three interactions between cars and people at pre-poll, two accidental’ Get our daily political email , free app or daily news podcast A Liberal-National MP has called for a rethink of pre-poll voting at federal elections, including potentially shortening the amount of time booths are open, amid concerns of threats to voters and volunteers. Security risks to politicians and their staff have been front and centre this week, as parliament…",
+      "description": "Liberal-National MP Garth Hamilton says he has ‘witnessed three interactions between cars and people at pre-poll, two accidental’ Get our daily political email , free app or daily news podcast A Coalition MP has called for a rethink of pre-poll voting at federal elections, including potentially shortening the amount of time booths are open, amid concerns of threats to voters and volunteers. Security risks to politicians and their staff have been front and centre this week, as parliament returne…",
       "link": "https://www.theguardian.com/australia-news/2026/oct/27/mp-calls-rethink-pre-poll-voting-helen-haines-heightened-security-concerns-ntwnfb",
       "image": "https://i.guim.co.uk/img/media/ca5e0fe7c3a13c5e587924f0140cb2cf6f5cec4e/253_0_6440_5152/master/6440.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=951dcb1000671f81e9e473b486043233",
       "feed_name": "The Guardian",

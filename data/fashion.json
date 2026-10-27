@@ -1,16 +1,30 @@
 {
   "category": "fashion",
-  "updated": "2026-10-27T19:03:04.489550+00:00",
-  "count": 228,
+  "updated": "2026-10-27T19:33:27.591776+00:00",
+  "count": 229,
   "summary": {
-    "text": "• Snakeskin shoes are being pitched as this season's statement neutral, adding instant edge to any outfit.\n• Accessories trends for 2027 are previewed, spanning bags and jewelry.\n• Pear diamond studs are catching on with Hollywood's it girls, with Margot Robbie, Kylie Jenner, and Hailey Bieber wearing the cool-girl silhouette.",
-    "generated_at": "2026-10-27T19:03:04.489550+00:00",
+    "text": "• Snakeskin shoes are being positioned as a statement neutral that adds edge to any outfit this season.\n• Pear diamond studs are catching on with Hollywood's it girls, including Margot Robbie, Kylie Jenner, and Hailey Bieber.\n• Who What Wear previews major accessories trends for 2027, covering bags and jewelry.\n• The NYT examines \"true vintage,\" noting it is pricey and trend-driven, but its gems still delight.\n• Who What Wear shares a 72-hour diary of Tommy Hilfiger's weekend at the US Grand Prix in Austin.",
+    "generated_at": "2026-10-27T19:33:27.591776+00:00",
     "window_minutes": 60,
-    "item_count": 3,
-    "key": "c890ca7c444c5210caf742743a53ef56430bf752",
+    "item_count": 5,
+    "key": "4f72d2ac79c7554640cacf0e7f9e9a757c712fae",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "ZJA7a6DnAi9pKbeLhhxPDL",
+      "title": "72 Hours With Tommy Hilfiger at the US Grand Prix in Austin",
+      "published": "2026-10-27T19:25:33+00:00",
+      "author": "Natalie Gray Herder",
+      "description": "Everything I wore and saw at last weekend's F1 race.",
+      "link": "https://www.whowhatwear.com/fashion/tommy-hilfiger-austin-f1-grand-prix-recap-2026",
+      "image": "https://cdn.mos.cms.futurecdn.net/xdrFSJWSyqfUrwvMZTkzC4-1920-80.jpg",
+      "feed_name": "Who What Wear",
+      "feed_title": "Latest from Who What Wear",
+      "category": "fashion",
+      "feed_url": "https://www.whowhatwear.com/rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.whowhatwear.com&sz=64"
+    },
     {
       "id": "http://www.elle.com/fashion/shopping/a74244023/best-snakeskin-shoes-trend/",
       "title": "Snakeskin Shoes Are the Statement-Making Neutral Taking Over This Season",
@@ -38,6 +52,20 @@
       "category": "fashion",
       "feed_url": "https://www.whowhatwear.com/rss",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.whowhatwear.com&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/27/style/true-vintage-bidstitch.html",
+      "title": "The Truth About ‘True Vintage’",
+      "published": "2026-10-27T18:59:35+00:00",
+      "author": "Jacob Gallagher",
+      "description": "It’s expensive and subject to trends, but the gems still delight.",
+      "link": "https://www.nytimes.com/2026/10/27/style/true-vintage-bidstitch.html",
+      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27NL-FASH-bidstitch-glkh/27NL-FASH-bidstitch-glkh-facebookJumbo-v2.jpg",
+      "feed_name": "NYT > Style",
+      "feed_title": "NYT > Style",
+      "category": "fashion",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "http://www.elle.com/fashion/shopping/a74209057/pear-diamond-stud-trend/",
@@ -159,20 +187,6 @@
       "description": "Cast members from HBO’s “The Gilded Age” snacked on cheese tortelloni and duck shawarma and had their portraits sketched at the Plaza Hotel on Monday night.",
       "link": "https://www.nytimes.com/2026/10/27/style/gilded-age-party-nyc-plaza-hotel.html",
       "image": "https://static01.nyt.com/images/2026/10/27/multimedia/ST-GILDEDAGE-PARTY-01-thlw/ST-GILDEDAGE-PARTY-01-thlw-mediumSquareAt3X.jpg",
-      "feed_name": "NYT > Style",
-      "feed_title": "NYT > Style",
-      "category": "fashion",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/10/27/style/true-vintage-bidstitch.html",
-      "title": "The Truth About ‘True Vintage’",
-      "published": "2026-10-27T16:49:22+00:00",
-      "author": "Jacob Gallagher",
-      "description": "It’s expensive and subject to trends, but the gems still delight.",
-      "link": "https://www.nytimes.com/2026/10/27/style/true-vintage-bidstitch.html",
-      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27NL-FASH-bidstitch-glkh/27NL-FASH-bidstitch-glkh-facebookJumbo-v2.jpg",
       "feed_name": "NYT > Style",
       "feed_title": "NYT > Style",
       "category": "fashion",

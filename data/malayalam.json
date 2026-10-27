@@ -1,16 +1,58 @@
 {
   "category": "Malayalam",
-  "updated": "2026-10-27T19:03:04.489550+00:00",
+  "updated": "2026-10-27T19:33:27.591776+00:00",
   "count": 1000,
   "summary": {
-    "text": "• Cyclone Arnab nears Andhra Pradesh and Odisha: over a lakh evacuated, about 100 trains and 21 flights hit, and one elderly man electrocuted.\n• Guwahati hospital shooting killed five; a suspect was arrested.\n• Bengal rape-murder accused killed in police encounter; Varkala swimming coach arrested for molesting a Class 8 student.\n• Houthis claim attacks on Saudi defence ministry; Saudi Arabia has not responded.\n• Nigeria attack killed 62 villagers. SIR final roll removes 99.32 lakh names.",
-    "generated_at": "2026-10-27T19:03:04.489550+00:00",
+    "text": "• Cyclone Arnab nears Andhra Pradesh and Odisha: flights cancelled, trains halted, schools shut, and over 100,000 people evacuated.\n• Record voter turnout in Israel's election, with Arab voters casting ballots in large numbers.\n• A shooting at a Guwahati hospital killed five; a suspect has been arrested.\n• A rape-murder accused in Bengal was killed in a police encounter.\n• A Varkala swimming coach was arrested for sexually assaulting an eighth-grade girl.\n• Other: 99.32 lakh names removed from the final SIR electoral roll; Houthis claim attacks on Saudi Arabia's defence ministry.",
+    "generated_at": "2026-10-27T19:33:27.591776+00:00",
     "window_minutes": 60,
-    "item_count": 15,
-    "key": "e3b9b016ac5868b69c36d0e7e69b33eb35e7893a",
+    "item_count": 16,
+    "key": "c5a980fbc4c6a330c157a6eb35ceee47d20ca4b2",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://malayalam.oneindia.com/news/international/arab-voters-head-to-polling-booths-in-large-numbers-record-voter-turnout-in-israel-election-leaves-602485.html",
+      "title": "അറബ് വോട്ടർമാർ കൂട്ടത്തോടെ പോളിംഗ് ബൂത്തിലേക്ക്, ഇസ്രായേലിൽ റെക്കോർഡ് പോളിംഗ്, വിറച്ച് നെതന്യാഹു",
+      "published": "2026-10-27T19:20:19+00:00",
+      "author": null,
+      "description": "Record Voter Turnout in Israel in Crucial Election That Could Determine Benjamin Netanyahu's Political Future| അറബ് വോട്ടർമാർ കൂട്ടത്തോടെ പോളിംഗ് ബൂത്തിലേക്ക്, ഇസ്രായേലിൽ റെക്കോർഡ് പോളിംഗ്, വിറച്ച് നെതന്യാഹു",
+      "link": "https://malayalam.oneindia.com/news/international/arab-voters-head-to-polling-booths-in-large-numbers-record-voter-turnout-in-israel-election-leaves-602485.html",
+      "image": "https://imagesvs.oneindia.com/webp/ml/img/2026/10/1-49731793128622.jpg",
+      "feed_name": "One India - News",
+      "feed_title": "Latest Malayalam News (ലേറ്റസ്റ്റ് മലയാളം വാർത്ത), Malayalam News Online, News of Kerala - Oneindia Malayalam",
+      "category": "Malayalam",
+      "feed_url": "https://malayalam.oneindia.com/rss/feeds/malayalam-news-fb.xml",
+      "feed_icon": "https://imagesvs.oneindia.com/images/oneindia-lm-logo-1721304500709.svg"
+    },
+    {
+      "id": "https://www.asianetnews.com/india-news/cyclone-arnab-school-closed-flight-services-cancelled-articleshow-zb6gdt7",
+      "title": "തൊടാനൊരുങ്ങി അർണബ്, വിമാന സർവ്വീസുകൾ നിർത്തി വച്ചു, സ്കൂളുകൾക്ക് അവധി",
+      "published": "2026-10-27T19:18:59+00:00",
+      "author": "Elsa TJ",
+      "description": "വിജയവാഡ, വിശാഖപട്ടണം എന്നിവിടങ്ങളിലേക്കുള്ള വിമാന സർവീസുകൾ പൂർണ്ണമായും റദ്ദാക്കി. ഒഡിഷയിൽ 26 ട്രെയിനുകൾ റദ്ദാക്കുകയും 16 ജില്ലകളിലെ സ്കൂളുകൾക്ക് അവധി പ്രഖ്യാപിക്കുകയും ചെയ്തു. കൂടാതെ 48,000 പേരെ സുരക്ഷിത സ്ഥാനങ്ങളിലേക്ക് മാറ്റിപ്പാർപ്പിച്ചു.",
+      "link": "https://www.asianetnews.com/india-news/cyclone-arnab-school-closed-flight-services-cancelled-articleshow-zb6gdt7",
+      "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-01m5w90zy650pdkk1x69vhv11s,imgname-cyclone-arnab--2--1793024098246.jpg",
+      "feed_name": "Asianet News",
+      "feed_title": "Asianet News Malayalam",
+      "category": "Malayalam",
+      "feed_url": "https://www.asianetnews.com/rss",
+      "feed_icon": "https://static-assets.asianetnews.com/images/ogimages/OG_Malayalam.jpg"
+    },
+    {
+      "id": "https://www.mathrubhumi.com/news/kerala/kozhikode-85-year-old-pathumma-abandoned-by-son-tkiz33y6",
+      "title": "മകൻ സ്വത്ത് തട്ടിയെടുത്ത് വഴിയാധാരമാക്കി; 85-കാരിയായ അമ്മ ദുരിതത്തിൽ",
+      "published": "2026-10-27T19:09:27+00:00",
+      "author": null,
+      "description": "",
+      "link": "https://www.mathrubhumi.com/news/kerala/kozhikode-85-year-old-pathumma-abandoned-by-son-tkiz33y6",
+      "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uq6b93mfer4jb4zy8m/0/mother-jpg.jpg?w=384",
+      "feed_name": "Mathrubhumi News",
+      "feed_title": "Mathrubhumi",
+      "category": "Malayalam",
+      "feed_url": "https://sitemap.mpp.atexcloud.io/sitemaps/rss",
+      "feed_icon": "https://sitemap.mpp.atexcloud.io/sitemaps/logo.png"
+    },
     {
       "id": "https://www.asianetnews.com/india-news/cyclone-arnab-could-intensify-double-stronger-than-imd-forecast-warns-us-navys-joint-typhoon-warning-center-articleshow-a2iyown",
       "title": "പ്രവചിച്ചതിന്റെ ഇരട്ടിവേഗതയിൽ കരയിലേക്കെത്തും, അർണബ് ചുഴലിക്കാറ്റിൽ പുതിയ മുന്നറിയിപ്പുമായി യുഎസ് നാവികസേന",
@@ -6501,10 +6543,10 @@
       "description": "ബോളിവുഡിലെ ഏറ്റവും ജനപ്രിയ താരദമ്പതികളിൽ ഒരു ജോ‍ഡിയാണ് രൺബീർ കപൂറും ആലിയ ഭട്ടും. എന്നാൽ രൺബീർ സിംഗിളായിരുന്ന കാലത്ത് തന്റെ മകന് അനുയോജ്യയായ പെൺകുട്ടി എങ്ങനെയായിരിക്കണം എന്നതിനെ കുറിച്ച് മുതിർന്ന നടിയും താരത്തിന്റെ അമ്മയുമായ നീതു കപൂർ പറഞ്ഞ വാക്കുകൾ ഏറെ ശ്രദ്ധ നേടിയിരുന്നു. Before Alia Bhatt, Neetu Kapoor Revealed What She Wanted In Ranbir Kapoor's Future Wife",
       "link": "https://malayalam.filmibeat.com/bollywood/before-alia-bhatt-neetu-kapoor-revealed-what-she-wanted-in-ranbir-kapoor-s-future-wife-145841.html",
       "image": "https://images.filmibeat.com/webp/ml/img/2026/10/alianew-56731793076612.jpg",
-      "feed_name": "Filmibeat",
-      "feed_title": "Malayalam Film News, Reviews, Box Office | മലയാളം സിനിമ വാർത്തകൾ, റിവ്യൂ, ഗോസിപ്പ്, ബോക്സ് ഓഫീസ് റിപ്പോർട്ട് - Filmibeat Malayalam",
+      "feed_name": "Filmibeat Bollywood",
+      "feed_title": "Bollywood Movie News in Malayalam | Movie Reviews Malayalam | List of Malayalam Movies Malayalam – FilmiBeat Malayalam",
       "category": "Malayalam",
-      "feed_url": "https://malayalam.filmibeat.com/rss/feeds/filmibeat-malayalam-fb.xml",
+      "feed_url": "https://malayalam.filmibeat.com/rss/feeds/malayalam-bollywood-fb.xml",
       "feed_icon": "https://images.oneindia.com/images/rss/filmibeat-malayalam-logo.png"
     },
     {
@@ -13968,48 +14010,6 @@
       "category": "Malayalam",
       "feed_url": "https://sitemap.mpp.atexcloud.io/sitemaps/rss",
       "feed_icon": "https://sitemap.mpp.atexcloud.io/sitemaps/logo.png"
-    },
-    {
-      "id": "https://www.asianetnews.com/football-sports/yamal-mbappe-or-harry-kane-ballon-d-or-2026-winner-to-be-revealed-tonight-timing-and-how-to-watch-in-india-articleshow-9u8n3y2",
-      "title": "യമാൽ, എംബാപ്പെ, ഹാരി കെയ്ൻ?, ബാലണ്‍ ഡി ഓർ ജേതാവിനെ ഇന്നറിയാം; ഇന്ത്യൻ സമയം, കാണാനുള്ള വഴികൾ",
-      "published": "2026-10-26T08:25:40+00:00",
-      "author": "Gopalakrishnan C",
-      "description": "ഫുട്ബോളിലെ ഏറ്റവും മികച്ച താരത്തിനുള്ള ബാലൺ ഡി ഓർ പുരസ്കാരങ്ങള്‍ ഇന്ന് ലണ്ടനിൽ പ്രഖ്യാപിക്കും. ഹാരി കെയ്ന്‍, ലമീൻ യമാൽ, കിലിയൻ എംബാപ്പെ തുടങ്ങിയ പ്രമുഖരാണ് ഇത്തവണത്തെ പ്രധാന സാധ്യത പട്ടികയിലുള്ളത്.",
-      "link": "https://www.asianetnews.com/football-sports/yamal-mbappe-or-harry-kane-ballon-d-or-2026-winner-to-be-revealed-tonight-timing-and-how-to-watch-in-india-articleshow-9u8n3y2",
-      "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-01m2gd505va12s6fkj5k4zeaq2,imgname-lamine-yamal-vs-kylian-mbappe-1783999239678-1789404545210.jpg",
-      "feed_name": "Asianet News",
-      "feed_title": "Asianet News Malayalam",
-      "category": "Malayalam",
-      "feed_url": "https://www.asianetnews.com/rss",
-      "feed_icon": "https://static-assets.asianetnews.com/images/ogimages/OG_Malayalam.jpg"
-    },
-    {
-      "id": "https://www.mathrubhumi.com/movies-music/news/orijinal-film-review-time-travel-adventure-xdgztvut",
-      "title": "ബി ആൻ ഒറിജിനൽ! ടൈം ട്രാവലിന്റെ കൗതുകവുമായി ‘ഒറിജിനൽ’; ചിത്രത്തിന് മികച്ച പ്രതികരണം",
-      "published": "2026-10-26T08:23:41+00:00",
-      "author": "മൂവി ഡെസ്ക്",
-      "description": "",
-      "link": "https://www.mathrubhumi.com/movies-music/news/orijinal-film-review-time-travel-adventure-xdgztvut",
-      "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1up1iw86repy4ldrn6m/0/orijinal-jpg.jpg?w=384",
-      "feed_name": "Mathrubhumi News",
-      "feed_title": "Mathrubhumi",
-      "category": "Malayalam",
-      "feed_url": "https://sitemap.mpp.atexcloud.io/sitemaps/rss",
-      "feed_icon": "https://sitemap.mpp.atexcloud.io/sitemaps/logo.png"
-    },
-    {
-      "id": "https://www.asianetnews.com/entertainment-news/roshan-basheer-movie-band-of-brothers-teaser-articleshow-gdq53qz",
-      "title": "റോഷൻ ബഷീറിന്റെ ത്രില്ലർ പടം 'ബാൻഡ് ഓഫ് ബ്രദേഴ്‌സി'ന്റെ ടീസർ റിലീസ് ചെയ്തു",
-      "published": "2026-10-26T08:22:16+00:00",
-      "author": "Nithya G Robinson",
-      "description": "റോഷൻ ബഷീർ നായകനാകുന്ന 'ബാൻഡ് ഓഫ് ബ്രദേഴ്‌സ്' എന്ന ചിത്രത്തിന്റെ ടീസർ പുറത്തിറങ്ങി. ബിജോയ് പി.ഐ രചനയും സംവിധാനവും നിർവ്വഹിക്കുന്ന ഈ ഡ്രാമ ത്രില്ലർ ചിത്രം വാണിമഹൽ ക്രിയേഷൻസിന്റെ ബാനറിലാണ് നിർമ്മിക്കുന്നത്.",
-      "link": "https://www.asianetnews.com/entertainment-news/roshan-basheer-movie-band-of-brothers-teaser-articleshow-gdq53qz",
-      "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-01m5vmtzf5xdp0jv4kz8nvxyms,imgname-befunky-collage--9--1793002929636.jpg",
-      "feed_name": "Asianet News",
-      "feed_title": "Asianet News Malayalam",
-      "category": "Malayalam",
-      "feed_url": "https://www.asianetnews.com/rss",
-      "feed_icon": "https://static-assets.asianetnews.com/images/ogimages/OG_Malayalam.jpg"
     }
   ]
 }

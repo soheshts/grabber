@@ -1,16 +1,72 @@
 {
   "category": "gaming",
-  "updated": "2026-10-27T19:03:04.489550+00:00",
-  "count": 508,
+  "updated": "2026-10-27T19:33:27.591776+00:00",
+  "count": 518,
   "summary": {
-    "text": "• GTA 6 reportedly needs over 200 GB of storage on PS5, and UK-based Rockstar developers will hold a union recognition vote from November 12 to 26, during the game's launch.\n• A leaked CD Projekt Red job listing hints at a multiplayer component in the Cyberpunk 2077 sequel.\n• Dropout and Dimension 20 announced season 2 of the actual play series A Starstruck Odyssey.\n• Man of Tomorrow actor Matthew Lillard teased a mystery role in the new DCU.",
-    "generated_at": "2026-10-27T19:03:04.489550+00:00",
+    "text": "• Rockstar: Virgin Media is offering an Ireland-only promotion paying one person to play GTA 6, while UK Rockstar developers will vote on union recognition during the November launch.\n• Elden Ring movie: A24 and Alex Garland keep the script secret as Amazon MGM secures streaming rights for the 2028 release.\n• Jackbox Games is accused by solo developer Sam Greszes of going silent after a demo request, then launching Debate and Switch.\n• WoW: Forever nears release, with a new animated music video on the Horde–Alliance war.",
+    "generated_at": "2026-10-27T19:33:27.591776+00:00",
     "window_minutes": 60,
-    "item_count": 6,
-    "key": "666fc28368b2629621619cfddff3cebb694676bc",
+    "item_count": 8,
+    "key": "227745c07b712f6ee79aa79831a2c1286d8df4a4",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://kotaku.com/?p=2000750185",
+      "title": "Did The You Don’t Know Jack Devs Plagiarize A Solo Dev’s Board Game?",
+      "published": "2026-10-27T19:25:28+00:00",
+      "author": "Ash Parrish",
+      "description": "Sam Greszes says that Jackbox Games went silent after requesting a demo of his board game Die on this Hill . A year later, it launches Debate and Switch .",
+      "link": "https://kotaku.com/did-the-you-dont-know-jack-devs-plagiarize-a-solo-devs-board-game-2000750185",
+      "image": "https://kotaku.com/app/uploads/2026/10/Dieonthishill-1280x961.jpg",
+      "feed_name": "Kotaku",
+      "feed_title": "Kotaku",
+      "category": "gaming",
+      "feed_url": "https://kotaku.com/rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=kotaku.com&sz=64"
+    },
+    {
+      "id": "https://www.polygon.com/elden-ring-movie-script-secrecy-a24-amazon-streaming/",
+      "title": "Elden Ring Movie Shrouded in Secrecy as New Streaming Deal Confirmed",
+      "published": "2026-10-27T19:05:11+00:00",
+      "author": "Michael McWhertor",
+      "description": "A24 and Alex Garland's Elden Ring movie is keeping its script under lock and key, as Amazon MGM locks in streaming rights to the 2028 release.",
+      "link": "https://www.polygon.com/elden-ring-movie-script-secrecy-a24-amazon-streaming/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/elden-ring_vyke.jpg",
+      "feed_name": "Polygon -  All",
+      "feed_title": "Polygon.com",
+      "category": "gaming",
+      "feed_url": "https://www.polygon.com/rss/index.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.polygon.com&sz=64"
+    },
+    {
+      "id": "1936373",
+      "title": "This Company Is Paying You To Play GTA 6, But It’s A Long Shot",
+      "published": "2026-10-27T19:03:48+00:00",
+      "author": "Eddie Makuch",
+      "description": "A company, Virgin Media, has announced a promotional campaign where one lucky person will get paid to play GTA 6 . The promotion, which is limited to Ireland, requires people to explain in 100-200 words on this contest site why they deserve to get paid to play GTA 6. Virgin Media will then select a winner, and if that's you, Virgin Media will get you a copy of the game and your only requirement is to play it for eight hours and post a review on Instagram or TikTok, tagging Virgin Media and disc…",
+      "link": "https://www.gamespot.com/articles/this-company-is-paying-you-to-play-gta-6-but-its-a-long-shot/",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Vice_City_05_669da2.jpg?w=300",
+      "feed_name": "GameSpot - All Content",
+      "feed_title": "GameSpot - All Content",
+      "category": "gaming",
+      "feed_url": "https://www.gamespot.com/feeds/mashup/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.gamespot.com&sz=64"
+    },
+    {
+      "id": "1936772",
+      "title": "Official WoW: Forever AMV Will Get You Super Hyped",
+      "published": "2026-10-27T19:01:52+00:00",
+      "author": "Cameron Koch",
+      "description": "World of Warcraft: Forever is almost here, and in case players weren't already excited to return to classic Azeroth, a new animated music video highlighting the war between the Horde and the Alliance is sure to get your inner player vs. player hyped up to spill some blood for your faction. Called \"Warpath,\" the animated trailer made in collaboration between developer Blizzard and Brunch Studio features a banger of a track performed by YouTuber turned musician Poppy, Amy Lee of Evanescence fame,…",
+      "link": "https://www.gamespot.com/articles/official-wow-forever-amv-will-get-you-super-hyped/",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/10/WoW-Forever-AMV.jpg?w=300",
+      "feed_name": "GameSpot - All Content",
+      "feed_title": "GameSpot - All Content",
+      "category": "gaming",
+      "feed_url": "https://www.gamespot.com/feeds/mashup/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.gamespot.com&sz=64"
+    },
     {
       "id": "https://www.polygon.com/superman-man-of-tomorrow-dc-matthew-lillard-mystery-role/",
       "title": "Matthew Lillard Officially Teases Mystery Superman Man of Tomorrow Role",
@@ -24,6 +80,20 @@
       "category": "gaming",
       "feed_url": "https://www.polygon.com/rss/index.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.polygon.com&sz=64"
+    },
+    {
+      "id": "58410f5f-5f9d-4edb-b83e-23df193c8114",
+      "title": "Lupin: Part 4 Review",
+      "published": "2026-10-27T18:42:22+00:00",
+      "author": "Scott Collura",
+      "description": "After a three-year hiatus, Netflix’s French heist series Lupin returns for Part 4 with a soap opera bent, and it’s all the better for it.",
+      "link": "https://www.ign.com/articles/lupin-part-4-netflix-review",
+      "image": "https://assets-prd.ignimgs.com/2026/10/27/lupin-part-4-thumb-1793125805252.jpg",
+      "feed_name": "IGN All",
+      "feed_title": "IGN Articles",
+      "category": "gaming",
+      "feed_url": "http://feeds.ign.com/ign/all",
+      "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
     },
     {
       "id": "https://www.polygon.com/dimension-20-starstruck-odyssey-season-2-announced/",
@@ -54,6 +124,48 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.rockpapershotgun.com&sz=64"
     },
     {
+      "id": "f13e112d-1f0c-4240-b595-42db871e226c",
+      "title": "'Physical Books, But Not Physical Games?' — PlayStation Book Announcement Prompts Confusion Over Sony's Physical Media Stance",
+      "published": "2026-10-27T18:30:51+00:00",
+      "author": "Blythe Dujardin",
+      "description": "Preorders have opened for PlayStation: The First 30 Years, a physical book honoring the gaming giant’s tenured history, but fans aren't exactly in a celebratory mood.",
+      "link": "https://www.ign.com/articles/physical-books-but-not-physical-games-playstation-book-announcement-prompts-confusion-over-sonys-physical-media-stance",
+      "image": "https://assets-prd.ignimgs.com/2026/10/27/playstationbook-1793123909530.jpg",
+      "feed_name": "IGN All",
+      "feed_title": "IGN Articles",
+      "category": "gaming",
+      "feed_url": "http://feeds.ign.com/ign/all",
+      "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
+    },
+    {
+      "id": "eb0ad033-eb46-4109-ad79-e5c057eae64b",
+      "title": "Save 28% Off the New SanDisk Portable SSD With Speeds of up to 1,000MB/s Ahead of Black Friday",
+      "published": "2026-10-27T18:30:00+00:00",
+      "author": "Eric Song",
+      "description": "A solid price for brand name, high-speed portable SSD storage in today's market.",
+      "link": "https://www.ign.com/articles/sandisk-portable-ssd-deal-october-2026",
+      "image": "https://assets-prd.ignimgs.com/2026/10/27/sandiskportablessdnew-1793124475585.jpg",
+      "feed_name": "IGN All",
+      "feed_title": "IGN Articles",
+      "category": "gaming",
+      "feed_url": "http://feeds.ign.com/ign/all",
+      "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
+    },
+    {
+      "id": "30e3b9bd-6770-4ca6-a3de-d653d7902e4e",
+      "title": "The Dune: Part Three Final Trailer Reveals Just How Different This Sequel Is",
+      "published": "2026-10-27T18:28:41+00:00",
+      "author": "Jesse Schedeen",
+      "description": "The final trailer for Dune: Part Three reveals just how different this sequel will be from the books, and it all centers around Zendaya's Chani and her children.",
+      "link": "https://www.ign.com/articles/dune-part-three-final-trailer-sequel-differences-messiah",
+      "image": "https://assets-prd.ignimgs.com/2026/10/27/dune-part-three-final-trailer-breakdown-blogroll-1793125581356.jpg",
+      "feed_name": "IGN All",
+      "feed_title": "IGN Articles",
+      "category": "gaming",
+      "feed_url": "http://feeds.ign.com/ign/all",
+      "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
+    },
+    {
       "id": "https://www.polygon.com/cyberpunk-2-multiplayer-quests-leak-cd-projekt-red/",
       "title": "Cyberpunk 2 Listing Hints at Multiplayer Quests in CD Projekt Red Sequel",
       "published": "2026-10-27T18:23:22+00:00",
@@ -80,6 +192,20 @@
       "category": "gaming",
       "feed_url": "https://www.polygon.com/rss/index.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.polygon.com&sz=64"
+    },
+    {
+      "id": "c9328147-ace4-4429-aee2-3c4e46b859bc",
+      "title": "World of Warcraft Forever Name Reservation Is Broken Ahead of Launch",
+      "published": "2026-10-27T18:06:57+00:00",
+      "author": "Jacqueline Thomas",
+      "description": "The World of Warcraft Forever beta ended last week, and in the space in between that and the full launch on November 4, Blizzard is offering players the ability to reserve character names ahead of launch. There's only one problem, the system looks like it's broken.",
+      "link": "https://www.ign.com/articles/world-of-warcraft-forever-name-reservation-is-broken-ahead-of-launch",
+      "image": "https://assets-prd.ignimgs.com/2026/09/19/wow-forever-scenic-announce-skyborne-customization-062-1789806035954.png",
+      "feed_name": "IGN All",
+      "feed_title": "IGN Articles",
+      "category": "gaming",
+      "feed_url": "http://feeds.ign.com/ign/all",
+      "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
     },
     {
       "id": "https://kotaku.com/?p=2000750216",
@@ -164,6 +290,20 @@
       "category": "gaming",
       "feed_url": "https://www.polygon.com/rss/index.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.polygon.com&sz=64"
+    },
+    {
+      "id": "33398935-fbae-4111-b52e-62937ed656e2",
+      "title": "Today’s Top Deals: MTG Play Booster Boxes, Pokémon TCG 30th Celebration, and LEGO Star Wars",
+      "published": "2026-10-27T17:50:00+00:00",
+      "author": "Danielle Abraham",
+      "description": "Plus, check out more discounts on a GameSir G7 Pro Controller, Audible subscription, and plenty more",
+      "link": "https://www.ign.com/articles/best-deals-for-october-27-2026",
+      "image": "https://assets-prd.ignimgs.com/2026/10/27/untitled-design-21-1793121689742.png",
+      "feed_name": "IGN All",
+      "feed_title": "IGN Articles",
+      "category": "gaming",
+      "feed_url": "http://feeds.ign.com/ign/all",
+      "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
     },
     {
       "id": "1936307",

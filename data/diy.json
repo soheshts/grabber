@@ -1,16 +1,44 @@
 {
   "category": "DIY",
-  "updated": "2026-10-27T19:03:04.489550+00:00",
-  "count": 214,
+  "updated": "2026-10-27T19:33:27.591776+00:00",
+  "count": 216,
   "summary": {
-    "text": "• Android apps: Two items cover ways to get paid Android apps free outside the Play Store, and a privacy-focused, on-device alternative to Grammarly.\n• Smart TV privacy: One writer disabled three smart TV privacy settings and reports nothing broke, only regaining control over data collection.\n• Laptop deal: A 40% discount on the Asus Vivobook S16 touchscreen laptop is pitched as a fast, lightweight option for most tasks.\n• Mini PCs: A trio of mini PCs is presented as a smarter buy than a single desktop tower, given their recent improvements.",
-    "generated_at": "2026-10-27T19:03:04.489550+00:00",
+    "text": "• Deals: Four DeWalt tools under $100 are highlighted as versatile and affordable, and a 40% discount on the Asus Vivobook S16 touchscreen laptop is being promoted.\n• Apps: Three paid Android apps can be had free outside the Play Store, and a Grammarly alternative checks writing entirely on-device, with its own Oxford comma setting.\n• Windows: Billions of Windows programs still begin with one man's initials, a 1980s Easter egg kept for decades.",
+    "generated_at": "2026-10-27T19:33:27.591776+00:00",
     "window_minutes": 60,
     "item_count": 5,
-    "key": "09267189c2ab749855528d5641a5e81e14516063",
+    "key": "b9f652eda079b49f3ca06bcf359c8a7858969648",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.makeuseof.com/why-windows-exe-files-start-with-mz/",
+      "title": "Billions of Windows programs still begin with one man’s initials",
+      "published": "2026-10-27T19:31:16+00:00",
+      "author": "Oluwademilade Afolabi",
+      "description": "Windows has been carrying this little 1980s Easter egg for decades.",
+      "link": "https://www.makeuseof.com/why-windows-exe-files-start-with-mz/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/hxd-showing-the-mz-signature-dos-stub-text-and-pe-header-inside-a-windows-executable.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/versatile-dewalt-tools-under-100-worth-buying/",
+      "title": "4 DeWalt tools under $100 worth buying",
+      "published": "2026-10-27T19:30:15+00:00",
+      "author": "Cory Gunther",
+      "description": "Versatile yet affordable.",
+      "link": "https://www.howtogeek.com/versatile-dewalt-tools-under-100-worth-buying/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/02/dewalt-drill-driving-a-screw.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/paid-android-apps-free-outside-of-the-play-store/",
       "title": "These 3 paid Android apps are 100% free outside of the Play Store",
