@@ -1,8 +1,51 @@
 {
   "category": "DIY",
-  "updated": "2026-10-27T11:33:29.894394+00:00",
-  "count": 177,
+  "updated": "2026-10-27T12:03:53.249057+00:00",
+  "count": 181,
+  "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/one-free-app-fixed-the-hardest-part-of-running-a-jellyfin-server/",
+      "title": "One free app fixed the hardest part of running a Jellyfin server",
+      "published": "2026-10-27T12:00:16+00:00",
+      "author": "Abhijith N Arjunan",
+      "description": "You don't really need an expensive monthly subscription to stream your media server from anywhere in the world!",
+      "link": "https://www.makeuseof.com/one-free-app-fixed-the-hardest-part-of-running-a-jellyfin-server/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/jellyfin-on-ipad-and-desktop-tailscale.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/how-to-reinstall-googlebook-os-and-do-a-full-recovery/",
+      "title": "How to to fully reinstall Googlebook OS and recover your device effectively",
+      "published": "2026-10-27T12:00:15+00:00",
+      "author": "Zachary Boddy",
+      "description": "Does your Googlebook need emergency aid? Here's how to hopefully bring it back to life.",
+      "link": "https://www.howtogeek.com/how-to-reinstall-googlebook-os-and-do-a-full-recovery/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/lenovo-googlebook-15-recovery-01.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.makeuseof.com/this-free-tool-can-reclaim-around-15gb-by-trimming-windows-11/",
+      "title": "This free tool can reclaim around 15GB by trimming Windows 11",
+      "published": "2026-10-27T11:45:05+00:00",
+      "author": "Hamed Paydarfar",
+      "description": "Redesigned Tiny11 Builder adds a WinUI visual selector, custom trims, and resumable builds for cleaner installs.",
+      "link": "https://www.makeuseof.com/this-free-tool-can-reclaim-around-15gb-by-trimming-windows-11/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/04/a-laptop-screen-displaying-the-tiny11-image-creator-terminal-modifying-windows-registry-settings.png",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/google-maps-share-trip-progress-eta/",
       "title": "Google Maps can save you from the most annoying question on a road trip",
@@ -58,6 +101,20 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://hackaday.com/?p=1393933",
+      "title": "SIMD-accelerated Machine Vision on an ESP32-S3",
+      "published": "2026-10-27T11:00:12+00:00",
+      "author": "Maya Posch",
+      "description": "Recently [shraiwi] decided to have a bit of good nerdy fun and implement the FAST machine vision algorithm on an ESP32-S3 using its SIMD ISA. This involves using the assembly …read more",
+      "link": "https://hackaday.com/2026/10/27/simd-accelerated-machine-vision-on-an-esp32-s3/",
+      "image": "https://hackaday.com/wp-content/uploads/2016/02/computersaretakingover.jpg",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
     },
     {
       "id": "https://www.makeuseof.com/i-audited-every-device-on-my-wi-fi-and-found-some-surprises/",
