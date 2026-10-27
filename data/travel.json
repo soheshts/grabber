@@ -1,8 +1,36 @@
 {
   "category": "travel",
-  "updated": "2026-10-27T09:03:44.654164+00:00",
-  "count": 64,
+  "updated": "2026-10-27T09:32:45.125438+00:00",
+  "count": 66,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/10/27/travel/discounts-holiday-travel.html",
+      "title": "Holiday Travel Costs Are Soaring. Here’s How to Save.",
+      "published": "2026-10-27T09:02:51+00:00",
+      "author": "Elaine Glusac",
+      "description": "As airfares and gas prices surge, here’s how you can extend your travel budget.",
+      "link": "https://www.nytimes.com/2026/10/27/travel/discounts-holiday-travel.html",
+      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/trav-inflation-holidays-01-gmfh/trav-inflation-holidays-01-gmfh-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Travel",
+      "feed_title": "NYT > Travel",
+      "category": "travel",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/27/travel/new-jimmy-buffett-exhibit-mobile-alabama.html",
+      "title": "Celebrating the Life of Jimmy Buffett on Alabama’s Gulf Coast",
+      "published": "2026-10-27T09:00:52+00:00",
+      "author": "Carl Hulse and Micah Green",
+      "description": "The “son of a son of a sailor” grew up on the Gulf, and a new museum, hoping to attract the Parrothead nation, celebrates his early life and career. A Times journalist and friend offers a look.",
+      "link": "https://www.nytimes.com/2026/10/27/travel/new-jimmy-buffett-exhibit-mobile-alabama.html",
+      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/trav-buffett-mobile-gkcf/trav-buffett-mobile-gkcf-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Travel",
+      "feed_title": "NYT > Travel",
+      "category": "travel",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "https://www.theguardian.com/travel/2026/oct/27/cs-lewis-narnia-inspiration-northern-ireland-belfast",
       "title": "‘The view from the Mournes was CS Lewis’s idea of Narnia’: how Northern Ireland inspired a magical kingdom",
