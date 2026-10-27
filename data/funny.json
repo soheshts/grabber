@@ -1,8 +1,22 @@
 {
   "category": "funny",
-  "updated": "2026-10-27T11:03:47.095294+00:00",
-  "count": 164,
+  "updated": "2026-10-27T11:33:29.894394+00:00",
+  "count": 165,
   "items": [
+    {
+      "id": "https://thedailywtf.com/articles/security-fourth",
+      "title": "News Roundup: Security Fourth",
+      "published": "2026-10-27T06:30:00+00:00",
+      "author": "Remy Porter",
+      "description": "A bit ago, I broke with my usual pattern and wrote up some security issues that I felt were particularly funny. It was a change of pace, a different thing, but not a thing that'd become a habit. After all, I'm not a security expert, this isn't a security site, and seriously, what are the odds that suitably funny security issues would crop up again less than a week later? Well. Let's start with the actual serious issue, PHP2Shell . In terms of scope, every version of PHP for the past twenty year…",
+      "link": "https://thedailywtf.com/articles/security-fourth",
+      "image": "https://thedailywtf.com/images/inedo/proget-icon.png",
+      "feed_name": "The Daily WTF",
+      "feed_title": "The Daily WTF",
+      "category": "funny",
+      "feed_url": "http://syndication.thedailywtf.com/TheDailyWtf",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thedailywtf.com&sz=64"
+    },
     {
       "id": "https://cheezburger.com/47220741/wife-demands-husband-stop-sharing-details-about-their-arguments-to-his-mom-he-accuses-her-of-being",
       "title": "Wife demands husband stop sharing details about their arguments to his mom, he accuses her of being ‘too controlling’ in response: ‘I don’t want his mother having a front-row seat to our conflicts’",
