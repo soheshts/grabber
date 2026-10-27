@@ -1,16 +1,30 @@
 {
   "category": "space",
-  "updated": "2026-10-27T19:33:27.591776+00:00",
-  "count": 117,
+  "updated": "2026-10-27T20:03:44.945858+00:00",
+  "count": 118,
   "summary": {
-    "text": "• Astronomers are uncovering new details about a \"string of pearls,\" a unique relic left by a supernova that humanity witnessed around 850 years ago.\n• The relic has a \"zombie star\" at its heart.\n• Scientists are still learning about the object and its origins.",
-    "generated_at": "2026-10-27T19:03:04.489550+00:00",
+    "text": "• NASA is inviting media to the completion of a yearlong Mars simulation.\n• Four volunteers lived and worked in a simulated Mars mission for 378 days of isolation at an agency facility.\n• The crew is scheduled to exit their habitat on Saturday, Oct. 31.",
+    "generated_at": "2026-10-27T20:03:44.945858+00:00",
     "window_minutes": 60,
     "item_count": 1,
-    "key": "882e9343ea2169a04b4c6f00bd8c0e9d9bd0d308",
+    "key": "dd0c40653e519b3f54c1159e69e8df7706eda71e",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.nasa.gov/?post_type=press-release&p=1059680",
+      "title": "NASA Invites Media to Crew Completion of Yearlong Mars Simulation",
+      "published": "2026-10-27T19:27:22+00:00",
+      "author": "Lauren E. Low",
+      "description": "The four volunteers who lived and worked in a simulated NASA Mars mission for more than a year will exit their habitat on Saturday, Oct. 31, after 378 days of isolation in a facility at the agency’s Johnson Space Center in Houston. Health and performance data collected from the simulation can help NASA develop methods […]",
+      "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation/",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/chapeamission2.jpg?w=2048",
+      "feed_name": "NASA Breaking News",
+      "feed_title": "NASA",
+      "category": "space",
+      "feed_url": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.nasa.gov&sz=64"
+    },
     {
       "id": "TDYqr9g4CdLb2ZcwrbG3oa",
       "title": "Astronomers discover the secrets of 'string of pearls' supernova relic and the zombie star at its heart",

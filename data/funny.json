@@ -1,9 +1,30 @@
 {
   "category": "funny",
-  "updated": "2026-10-27T19:33:27.591776+00:00",
-  "count": 179,
-  "summary": null,
+  "updated": "2026-10-27T20:03:44.945858+00:00",
+  "count": 180,
+  "summary": {
+    "text": "• The Onion published a piece titled \"Should Food Cost More?\", the only item in this batch.",
+    "generated_at": "2026-10-27T20:03:44.945858+00:00",
+    "window_minutes": 60,
+    "item_count": 1,
+    "key": "a9f2ed60e6032b39bb146ea6ee8c07d1dc2f55d6",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "https://theonion.com/?p=1851709744",
+      "title": "Should Food Cost More?",
+      "published": "2026-10-27T19:58:55+00:00",
+      "author": "The Onion Staff",
+      "description": "The post Should Food Cost More? appeared first on The Onion .",
+      "link": "https://theonion.com/should-food-cost-more/",
+      "image": null,
+      "feed_name": "The Onion",
+      "feed_title": "The Onion",
+      "category": "funny",
+      "feed_url": "https://www.theonion.com/rss",
+      "feed_icon": "https://theonion.com/wp-content/uploads/2024/07/cropped-site-icon.png?w=32"
+    },
     {
       "id": "https://theonion.com/?p=1851709736",
       "title": "Scene That Took Stop-Motion Animator 120 Hours To Make Texted Through",

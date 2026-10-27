@@ -1,9 +1,30 @@
 {
   "category": "travel",
-  "updated": "2026-10-27T19:33:27.591776+00:00",
-  "count": 69,
-  "summary": null,
+  "updated": "2026-10-27T20:03:44.945858+00:00",
+  "count": 70,
+  "summary": {
+    "text": "• Atlas Obscura features the Quang Trung Museum in Tây Sơn district, Vietnam, a monument to Emperor Quang Trung, described as one of Vietnam's most brilliant military commanders.",
+    "generated_at": "2026-10-27T20:03:44.945858+00:00",
+    "window_minutes": 60,
+    "item_count": 1,
+    "key": "6ab92c9714c16d995f9ab7041183e504eed3c1bb",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "https://www.atlasobscura.com/places/quang-trung-museum",
+      "title": "Quang Trung Museum in Tây Sơn, Vietnam",
+      "published": "2026-10-27T20:00:00+00:00",
+      "author": null,
+      "description": "Set against the rural backdrop of Tay Son district, the Quang Trung Museum rises as a powerful monument to one of the most brilliant military commanders in Vietnamese history, Emperor Quang Trung (Nguyen Hue). Erected directly upon the ancestral soil of the legendary Tay Son brothers, the museum grounds shelter deeply sacred living relics, including an ancient tamarind tree and a stone well dating back to the family's childhood. Inside the exhibition halls, an extensive collection of rare weapo…",
+      "link": "https://www.atlasobscura.com/places/quang-trung-museum",
+      "image": "https://img.atlasobscura.com/w8Ar6GLXb_qdJ1vks8KTM6vH0HO-JILMrU0pG776x3E/rs:fill:300:200:1/g:ce/c:1200:800:nowe:0:598/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9mNjI3/YzdkOS03MDE3LTQz/MmUtOGUwZC0xMGI0/NjlkOTNmNDJjN2Fk/MmIzNjk2MjAyYTZk/ZmRfMTAwMDAwOTMx/OS5wbmc.png",
+      "feed_name": "Atlas Obscura - Latest Articles and Places",
+      "feed_title": "Atlas Obscura - Latest Articles and Places",
+      "category": "travel",
+      "feed_url": "https://www.atlasobscura.com/feeds/latest",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.atlasobscura.com&sz=64"
+    },
     {
       "id": "https://www.atlasobscura.com/places/laredos-palace",
       "title": "Laredo’s Palace in Alcalá de Henares, Spain",

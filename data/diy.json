@@ -1,16 +1,44 @@
 {
   "category": "DIY",
-  "updated": "2026-10-27T19:33:27.591776+00:00",
-  "count": 216,
+  "updated": "2026-10-27T20:03:44.945858+00:00",
+  "count": 218,
   "summary": {
-    "text": "• Deals: Four DeWalt tools under $100 are highlighted as versatile and affordable, and a 40% discount on the Asus Vivobook S16 touchscreen laptop is being promoted.\n• Apps: Three paid Android apps can be had free outside the Play Store, and a Grammarly alternative checks writing entirely on-device, with its own Oxford comma setting.\n• Windows: Billions of Windows programs still begin with one man's initials, a 1980s Easter egg kept for decades.",
-    "generated_at": "2026-10-27T19:33:27.591776+00:00",
+    "text": "• Apple: The AirPods Max 2 are $100 off in a rare deal.\n• Windows: Windows 11 still feels chaotic five years on, with outdated interfaces, extra clicks, and uneven design. Separately, Windows programs still begin with a 1980s Easter egg bearing one man's initials.\n• Tools: Four DeWalt tools under $100 are highlighted as versatile and affordable.",
+    "generated_at": "2026-10-27T20:03:44.945858+00:00",
     "window_minutes": 60,
-    "item_count": 5,
-    "key": "b9f652eda079b49f3ca06bcf359c8a7858969648",
+    "item_count": 4,
+    "key": "d050c68a7ef86cdef2938cd68163b74bdb3c6f67",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.howtogeek.com/save-100-on-the-airpods-max-2-with-this-rare-apple-deal/",
+      "title": "Save $100 on the AirPods Max 2 with this rare Apple deal",
+      "published": "2026-10-27T20:01:15+00:00",
+      "author": "Saeed Wazir",
+      "description": "You won't find them at this price again.",
+      "link": "https://www.howtogeek.com/save-100-on-the-airpods-max-2-with-this-rare-apple-deal/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/10/apple-airpods-max-2-wireless-over-ear-headphones-midnight-feature333.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/windows-11-still-feels-chaotic-5-years-later/",
+      "title": "Why Windows 11 still feels chaotic 5 years later",
+      "published": "2026-10-27T20:00:16+00:00",
+      "author": "Tony Phillips",
+      "description": "Windows 11 has come a long way, but outdated interfaces, extra clicks, and uneven design still undermine its modern appearance.",
+      "link": "https://www.howtogeek.com/windows-11-still-feels-chaotic-5-years-later/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/windows-dark-mode-settings-white-control-panel.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/why-windows-exe-files-start-with-mz/",
       "title": "Billions of Windows programs still begin with one man’s initials",
