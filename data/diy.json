@@ -1,8 +1,22 @@
 {
   "category": "DIY",
-  "updated": "2026-10-27T09:32:45.125438+00:00",
-  "count": 169,
+  "updated": "2026-10-27T10:03:41.472544+00:00",
+  "count": 170,
   "items": [
+    {
+      "id": "https://www.howtogeek.com/stopped-buying-smart-bulbs-started-putting-smart-relays-behind-switches/",
+      "title": "Why I stopped buying smart bulbs and started putting smart relays behind my switches",
+      "published": "2026-10-27T10:00:15+00:00",
+      "author": "Nate Pangaro",
+      "description": "Smart bulbs are easy to use but have drawbacks like cost and getting cut off when wall switches are flipped, leading me to try smart relays.",
+      "link": "https://www.howtogeek.com/stopped-buying-smart-bulbs-started-putting-smart-relays-behind-switches/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/img_5813-1.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://hackaday.com/?p=1393924",
       "title": "ESP32 Rotary Display Makes Ideal Timer",
