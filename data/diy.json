@@ -1,16 +1,44 @@
 {
   "category": "DIY",
-  "updated": "2026-10-27T16:02:49.639023+00:00",
-  "count": 199,
+  "updated": "2026-10-27T16:34:17.081309+00:00",
+  "count": 201,
   "summary": {
-    "text": "• Wi-Fi 8 is coming, but a Wi-Fi 5 router may still suffice, since your internet plan and devices set the actual speed.\n• A $5 ESP32 board can make power tools start automatically, with sensors reacting to air quality and machine state.\n• A government database lets readers check how bad a bridge is.\n• Apple's new iMac M6 brings a faster chip, Wi-Fi 7, and a higher price, while a separate piece compares Gemini 4 Argon with GPT-6.",
-    "generated_at": "2026-10-27T15:33:31.977173+00:00",
+    "text": "• Two items highlight Ryobi power tools: cheap tools that prove surprisingly useful around the house and in DIY projects, and five low-cost accessories that transform them.\n• Windows tips: rather than debloating blindly, use Task Manager and Resource Monitor to pinpoint slowdowns from resident processes and startup programs.\n• Two Windows settings that restore your work after a restart are off by default and can be enabled.\n• Also in the feed: a piece on a fantasy binge on Prime Video that isn't an Amazon original.",
+    "generated_at": "2026-10-27T16:34:17.081309+00:00",
     "window_minutes": 60,
     "item_count": 5,
-    "key": "d0e309673a8b6af53218fd5dcf64c2926137a734",
+    "key": "6e51a9710f9feec81bc0034ae30605ecff7267ff",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.makeuseof.com/best-fantasy-binge-amazon-prime-video-merlin/",
+      "title": "The best fantasy binge I found on Prime Video wasn't made by Amazon",
+      "published": "2026-10-27T16:30:17+00:00",
+      "author": "Dan Selcke",
+      "description": "Back to the classics.",
+      "link": "https://www.makeuseof.com/best-fantasy-binge-amazon-prime-video-merlin/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2026/10/characters-from-merlin-with-the-prime-video-logo.png",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/stop-debloating-windows-blindly-find-out-whats-actually-slowing-your-pc-down/",
+      "title": "Stop debloating Windows blindly: find out what’s actually slowing your PC down",
+      "published": "2026-10-27T16:30:15+00:00",
+      "author": "Sydney Butler",
+      "description": "Trace slowdowns with Task Manager and Resource Monitor to pinpoint resident processes and startup offenders precisely.",
+      "link": "https://www.howtogeek.com/stop-debloating-windows-blindly-find-out-whats-actually-slowing-your-pc-down/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/laptop-ram-task-manager-open.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/cheap-ryobi-tools-super-useful/",
       "title": "These cheap Ryobi tools have no business being this useful",
@@ -184,7 +212,7 @@
       "title": "Are Milwaukee tools at Home Depot worth buying?",
       "published": "2026-10-27T13:30:16+00:00",
       "author": "Cory Gunther",
-      "description": "/are-milwaukee-tools-at-home-depot-worth-buying/",
+      "description": "Powerful tools you'll love.",
       "link": "https://www.howtogeek.com/are-milwaukee-tools-at-home-depot-worth-buying/",
       "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/m12-drill-drawer-pull.jpg",
       "feed_name": "How-To Geek",

@@ -1,16 +1,30 @@
 {
   "category": "fashion",
-  "updated": "2026-10-27T16:02:49.639023+00:00",
-  "count": 216,
+  "updated": "2026-10-27T16:34:17.081309+00:00",
+  "count": 218,
   "summary": {
-    "text": "• Gen Z teens are in no rush to get driver's licenses, as much of their lives now happen online (NYT Style).\n• Who What Wear highlights affordable Spring 2027 trends seen from New York to Paris.\n• For a $150 budget, Who What Wear suggests expensive-looking buys, with options starting at $45.",
-    "generated_at": "2026-10-27T15:33:31.977173+00:00",
+    "text": "• Gilded Age cast marked the Plaza Hotel's last pre-renovation party on Monday night, with tortelloni, duck shawarma and sketched portraits.\n• Fashionista's must-reads cover Matthieu Blazy's first year at Chanel and Bernard Arnault on running LVMH.\n• Industry concern is growing over AI-generated models, also flagged in the same Fashionista roundup.\n• Who What Wear highlights Dove's Beauty Bar scent now sold as a fragrance for under $20, plus 31 Nordstrom finds under $150.\n• A printed bag trend is also gaining traction, described as cooler than the usual black or brown options.",
+    "generated_at": "2026-10-27T16:34:17.081309+00:00",
     "window_minutes": 60,
-    "item_count": 3,
-    "key": "94ce05c2f8eb52f1384d36d7036051923b0a0277",
+    "item_count": 5,
+    "key": "84641798002220cf5d28dbf4f0e8ec5e4963275d",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/10/27/style/gilded-age-party-nyc-plaza-hotel.html",
+      "title": "Before the Plaza’s Glow-Up, One Last ‘Gilded’ Party",
+      "published": "2026-10-27T16:29:55+00:00",
+      "author": "Sarah Bahr",
+      "description": "Cast members from HBO’s “The Gilded Age” snacked on cheese tortelloni and duck shawarma and had their portraits sketched at the Plaza Hotel on Monday night.",
+      "link": "https://www.nytimes.com/2026/10/27/style/gilded-age-party-nyc-plaza-hotel.html",
+      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/ST-GILDEDAGE-PARTY-01-thlw/ST-GILDEDAGE-PARTY-01-thlw-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Style",
+      "feed_title": "NYT > Style",
+      "category": "fashion",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "https://fashionista.com/2026/10/inside-mattheiu-blazys-first-year-at-chanel",
       "title": "Must Read: Inside Matthieu Blazy's First Year at Chanel, Bernard Arnault on Running LVMH",
@@ -24,6 +38,20 @@
       "category": "fashion",
       "feed_url": "https://fashionista.com/.rss/excerpt/",
       "feed_icon": "https://fashionista.com/site/images/apple-touch-icon.png"
+    },
+    {
+      "id": "bD7U3ZZCfsaE65TJhgLLfC",
+      "title": "Dove's Beauty Bar Is the Most Iconic \"Clean\" Scent of All Time—Now You Can Buy It As a Fragrance",
+      "published": "2026-10-27T16:00:00+00:00",
+      "author": "Jamie Chevron",
+      "description": "And it's under $20.",
+      "link": "https://www.whowhatwear.com/beauty/fragrance/dove-original-fragrance-launch",
+      "image": "https://cdn.mos.cms.futurecdn.net/LfmkJUjXXGc227gQfBYvAL-1920-80.jpg",
+      "feed_name": "Who What Wear",
+      "feed_title": "Latest from Who What Wear",
+      "category": "fashion",
+      "feed_url": "https://www.whowhatwear.com/rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.whowhatwear.com&sz=64"
     },
     {
       "id": "kszSrHEdBHoAvQdtjmapcU",
