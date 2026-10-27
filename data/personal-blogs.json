@@ -1,6 +1,6 @@
 {
   "category": "personal blogs",
-  "updated": "2026-10-27T15:02:57.987193+00:00",
+  "updated": "2026-10-27T15:33:31.977173+00:00",
   "count": 423,
   "summary": null,
   "items": [
@@ -73,6 +73,20 @@
       "category": "personal blogs",
       "feed_url": "http://www.bennadel.com/index.cfm?dax=blog.rss&lst_tag_id=14,16,3,5,9,6,7,13,18,20,10,15",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.bennadel.com&sz=64"
+    },
+    {
+      "id": "https://meiert.com/blog/ntrnllnk-wordpress-linking/",
+      "title": "Automatic Internal Linking in WordPress, a Plugin: ntrnllnk",
+      "published": "2026-10-26T23:00:00+00:00",
+      "author": null,
+      "description": "To automatically improve internal links on your WordPress site, consider ntrnllnk to manage in-content links and related posts.",
+      "link": "https://meiert.com/blog/ntrnllnk-wordpress-linking/",
+      "image": "https://d3rdtowr0c5lpf.cloudfront.net/media/social.png",
+      "feed_name": "Blog (Web Development, Mostly) · Jens Oliver Meiert",
+      "feed_title": "Jens Oliver Meiert · Code Optimization, Digital Defense, World Models",
+      "category": "personal blogs",
+      "feed_url": "https://meiert.com/en/feed/",
+      "feed_icon": "https://meiert.com/media/social.png"
     },
     {
       "id": "https://ronaldsvilcins.com/2026/10/27/using-html-attribute-values-inside-css-with-attr/",
@@ -5197,20 +5211,6 @@
       "category": "personal blogs",
       "feed_url": "https://www.kooslooijesteijn.net/feed.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.kooslooijesteijn.net&sz=64"
-    },
-    {
-      "id": "https://daverupert.com/2026/09/play-tupo/",
-      "title": "Tupo",
-      "published": "2026-09-27T15:26:00+00:00",
-      "author": null,
-      "description": "“Triple Threat” Josh Collinsworth has a brand new daily puzzler game called Tupo . On it’s surface it looks like a simplified 4×4 Sudoku block but with colored squares. That is the foundation for a simple ruleset: Every row and column contains each number exactly once Every row and column contains each color exactly once Every number + color combination appears exactly once Mini Sudoku with colors. Got it. How hard could it be? Hahahahahahahahahaha. You naive bastard. It’s deceptively difficult…",
-      "link": "https://daverupert.com/2026/09/play-tupo/",
-      "image": "https://cdn.daverupert.com/posts/2026/tupo.png",
-      "feed_name": "Dave Rupert",
-      "feed_title": "daverupert.com",
-      "category": "personal blogs",
-      "feed_url": "https://daverupert.com/atom.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=daverupert.com&sz=64"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",

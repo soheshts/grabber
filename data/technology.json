@@ -1,16 +1,114 @@
 {
   "category": "technology",
-  "updated": "2026-10-27T15:02:57.987193+00:00",
-  "count": 631,
+  "updated": "2026-10-27T15:33:31.977173+00:00",
+  "count": 642,
   "summary": {
-    "text": "• Intel agreed to buy Israeli quantum software firm Classiq for about $2.3bn. Disruptive closed a $10bn fund for AI and defence startups.\n• Apple launched a 24-inch iMac and entry-level MacBook Pro with the M6 chip, and is adding an AI assistant to Pages, Keynote and Numbers. A touchscreen MacBook is expected.\n• Anduril and Qualcomm plan US-made government laptops called BlueChip.\n• Anthropic faces growing regulatory worries before the midterms. The Arc browser sunsets on December 22, 2026.",
-    "generated_at": "2026-10-27T14:33:35.979443+00:00",
+    "text": "• Tesla designed the Cybercab battery pack with spare room for cheaper LFP cells later.\n• Apple's 14-inch MacBook Pro gains the M6 chip and up to 24 hours of battery life.\n• China's AI stock valuations have crashed, while AI-generated election disinformation is outpacing moderation before the US midterms.\n• Nintendo's 15-minute Indie World showcase is set for October 28.",
+    "generated_at": "2026-10-27T15:33:31.977173+00:00",
     "window_minutes": 60,
-    "item_count": 10,
-    "key": "2f4e5c9e817bc0548f24b8b0a33eb778d5b1aa14",
+    "item_count": 9,
+    "key": "eb216a5339a72f889c9c979d29b5bdf8b3b70218",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "TheNextWeb=7e126bc8fb86a8cb152765761138ae35",
+      "title": "Tesla built the Cybercab’s battery pack with room for cheaper LFP cells",
+      "published": "2026-10-27T15:20:46+00:00",
+      "author": "Darius Popa",
+      "description": "Tesla designed the Cybercab’s battery pack with spare space so it can later use cheaper lithium iron phosphate (LFP) cells, battery engineer Robert Sumpf told Munro Live. The robotaxi now uses Tesla’s 4680 cells. Tesla also said the Cybercab line can build cars faster than it deploys them. Tesla designed the battery pack in its […] This story continues at The Next Web",
+      "link": "https://thenextweb.com/news/tesla-cybercab-lfp-battery-pack",
+      "image": "https://media.thenextweb.com/2026/08/Tesla-Cybercab.avif",
+      "feed_name": "The Next Web",
+      "feed_title": "The Next Web",
+      "category": "technology",
+      "feed_url": "https://thenextweb.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
+    {
+      "id": "https://www.engadget.com/2295961/reason-why-usb-ports-orange/",
+      "title": "The reason why some USB ports are orange",
+      "published": "2026-10-27T15:15:00+00:00",
+      "author": "Thomas Godwin",
+      "description": "USB colors and symbols provide an idea of a port's capabilities, but are not as standardized as they should be.",
+      "link": "https://www.engadget.com/2295961/reason-why-usb-ports-orange/",
+      "image": "https://www.engadget.com/img/gallery/the-reason-why-some-usb-ports-are-orange/l-intro-1792790118.jpg",
+      "feed_name": "Engadget",
+      "feed_title": "Engadget - Technology News & Expert Reviews",
+      "category": "technology",
+      "feed_url": "https://www.engadget.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
+    {
+      "id": "TheNextWeb=d52853eda077852a177846e7bd836b76",
+      "title": "Apple launches 14-inch MacBook Pro with M6 and 24-hour battery",
+      "published": "2026-10-27T15:07:27+00:00",
+      "author": "Ana-Maria Stanciuc",
+      "description": "Apple has updated its 14-inch MacBook Pro with the M6 chip, promising faster graphics, better on-device AI performance, and up to 24 hours of battery life, the longest runtime the company has offered in a Mac. The new MacBook Pro was announced today alongside a refreshed iMac. Pre-orders open on Wednesday in 35 countries, with […] This story continues at The Next Web",
+      "link": "https://thenextweb.com/news/apple-macbook-pro-m6-14-inch",
+      "image": "https://media.thenextweb.com/2026/10/macbook-pro-m6-side-view-glowing-m6.avif",
+      "feed_name": "The Next Web",
+      "feed_title": "The Next Web",
+      "category": "technology",
+      "feed_url": "https://thenextweb.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
+    {
+      "id": "https://www.engadget.com/2298300/nintendo-sets-an-indie-world-showcase-for-october-28/",
+      "title": "Nintendo sets an Indie World showcase for October 28",
+      "published": "2026-10-27T15:06:04+00:00",
+      "author": "Kris Holt",
+      "description": "The stream will run for around 15 minutes and feature games coming to Switch and Switch 2.",
+      "link": "https://www.engadget.com/2298300/nintendo-sets-an-indie-world-showcase-for-october-28/",
+      "image": "https://www.engadget.com/img/gallery/nintendo-sets-an-indie-world-showcase-for-october-28/l-intro-1793113525.jpg",
+      "feed_name": "Engadget",
+      "feed_title": "Engadget - Technology News & Expert Reviews",
+      "category": "technology",
+      "feed_url": "https://www.engadget.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
+    {
+      "id": "01M5N46QK4CXSWXQVMHRTTRPE1",
+      "title": "10 Hacks Every Google Messages User Should Know",
+      "published": "2026-10-27T15:00:05+00:00",
+      "author": "Emily Long",
+      "description": "Communicate better and more safely.",
+      "link": "https://lifehacker.com/tech/best-google-messages-hacks?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M5N46QK4CXSWXQVMHRTTRPE1/hero-image.jpg",
+      "feed_name": "Lifehacker",
+      "feed_title": "Lifehacker",
+      "category": "technology",
+      "feed_url": "https://lifehacker.com/rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=lifehacker.com&sz=64"
+    },
+    {
+      "id": "https://slashdot.org/story/26/10/27/0218203/in-china-the-ai-bubble-has-already-burst?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "title": "In China, the AI Bubble Has Already Burst",
+      "published": "2026-10-27T15:00:00+00:00",
+      "author": "BeauHD",
+      "description": "An anonymous reader quotes a report from Reuters: While global tech stocks teeter, in China they have already crashed as lofty valuations collapse under worries about AI demand and curbs on Chinese exports. The meltdown, tanking the mainland STAR50 index of AI and semiconductor leaders by 40% in less than four months and vaporizing some $480 billion in market value, is an ill omen for wobbly world markets and a dampener on China's efforts at encouraging its savers into stocks to fund the AI boo…",
+      "link": "https://slashdot.org/story/26/10/27/0218203/in-china-the-ai-bubble-has-already-burst?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+      "feed_name": "Slashdot",
+      "feed_title": "Slashdot",
+      "category": "technology",
+      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
+    },
+    {
+      "id": "https://blog.google/products-and-platforms/products/gemini/gemini-4-argon-in-action/",
+      "title": "8 examples of Gemini 4 Argon in action",
+      "published": "2026-10-27T15:00:00+00:00",
+      "author": "Kimberly Fusaro",
+      "description": "Collage of various uses of Gemini 4 Argon",
+      "link": "https://blog.google/products-and-platforms/products/gemini/gemini-4-argon-in-action/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ExamplesofArgon_Hero.max-600x600.format-webp.webp",
+      "feed_name": "The Keyword",
+      "feed_title": "News from Google",
+      "category": "technology",
+      "feed_url": "https://www.blog.google/rss/",
+      "feed_icon": "https://blog.google/static/blogv2/images/google.png"
+    },
     {
       "id": "TheNextWeb=84a3767ceae1f2999fa59e3fae983582",
       "title": "AI disinformation is outpacing platform moderation before US midterms",
@@ -82,6 +180,20 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
     },
     {
+      "id": "https://arstechnica.com/gadgets/2026/10/apple-iphone-duo-review-two-screens-two-experiences-two-thousand-dollars/",
+      "title": "Apple iPhone Duo review: Two screens, two experiences, two thousand dollars",
+      "published": "2026-10-27T14:20:26+00:00",
+      "author": "Andrew Cunningham",
+      "description": "I respect Apple's first crack at a foldable phone, but I'm not sure I like it.",
+      "link": "https://arstechnica.com/gadgets/2026/10/apple-iphone-duo-review-two-screens-two-experiences-two-thousand-dollars/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/IMG_3790-500x500.jpeg",
+      "feed_name": "Ars Technica",
+      "feed_title": "Ars Technica - All content",
+      "category": "technology",
+      "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
+      "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
+    },
+    {
       "id": "https://www.engadget.com/2298214/anthropics-political-problem-will-get-worse-before-it-gets-better/",
       "title": "Anthropic's political problem will get worse before it gets better",
       "published": "2026-10-27T14:16:27+00:00",
@@ -122,6 +234,20 @@
       "category": "technology",
       "feed_url": "https://thenextweb.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
+    {
+      "id": "https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/",
+      "title": "Some iPhone Duo screens are already failing, Apple says only a \"small number\" are affected",
+      "published": "2026-10-27T14:00:49+00:00",
+      "author": "Ryan Whitwam",
+      "description": "Apple's \"precision-engineered\" hinge is apparently damaging some iPhone Duo screens.",
+      "link": "https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/iphone-duo-oops-500x500.jpg",
+      "feed_name": "Ars Technica",
+      "feed_title": "Ars Technica - All content",
+      "category": "technology",
+      "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
+      "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
     },
     {
       "id": "https://www.theverge.com/?p=1019288",
@@ -194,6 +320,20 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
     },
     {
+      "id": "https://arstechnica.com/science/2026/10/scientists-recreate-the-1600-year-old-recipe-of-lycurgus-cup/",
+      "title": "Sculpture recreates odd optical effects of famed Lycurgus Cup",
+      "published": "2026-10-27T13:32:35+00:00",
+      "author": "Jennifer Ouellette",
+      "description": "University of Sheffield researchers figured out how to recreate the 1600-year-old glass recipe.",
+      "link": "https://arstechnica.com/science/2026/10/scientists-recreate-the-1600-year-old-recipe-of-lycurgus-cup/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/lycurgusTOP-500x500.jpg",
+      "feed_name": "Ars Technica",
+      "feed_title": "Ars Technica - All content",
+      "category": "technology",
+      "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
+      "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
+    },
+    {
       "id": "01KZZPCC834R27S8KQSJK9XB4T",
       "title": "This Blink Outdoor 2K Camera and Doorbell Bundle Is 74% Off Right Now",
       "published": "2026-10-27T13:30:00+00:00",
@@ -234,6 +374,20 @@
       "category": "technology",
       "feed_url": "https://www.engadget.com/rss.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
+    {
+      "id": "https://arstechnica.com/tech-policy/2026/10/us-officials-want-section-702-renewed-before-damaging-court-ruling-goes-public/",
+      "title": "US officials want Section 702 renewed before damaging court ruling goes public",
+      "published": "2026-10-27T13:22:16+00:00",
+      "author": "Dell Cameron, wired.com",
+      "description": "Senators say officials hid a ruling on warrantless searches past its release deadline.",
+      "link": "https://arstechnica.com/tech-policy/2026/10/us-officials-want-section-702-renewed-before-damaging-court-ruling-goes-public/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/court-spy-500x500.jpg",
+      "feed_name": "Ars Technica",
+      "feed_title": "Ars Technica - All content",
+      "category": "technology",
+      "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
+      "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
     },
     {
       "id": "TheNextWeb=3120b877bdb57e90cd8d34b030ae255d",
@@ -2726,20 +2880,6 @@
       "category": "technology",
       "feed_url": "https://thenextweb.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
-    },
-    {
-      "id": "https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/",
-      "title": "Some iPhone Duo screens are already failing",
-      "published": "2026-10-26T16:51:49+00:00",
-      "author": "Ryan Whitwam",
-      "description": "Apple's \"precision-engineered\" hinge is apparently damaging some iPhone Duo screens.",
-      "link": "https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/iphone-duo-oops-500x500.jpg",
-      "feed_name": "Ars Technica",
-      "feed_title": "Ars Technica - All content",
-      "category": "technology",
-      "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
-      "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
     },
     {
       "id": "TheNextWeb=1a712230b67b35ad0db4b96d5bc7426e",
@@ -7430,6 +7570,20 @@
       "category": "technology",
       "feed_url": "https://lifehacker.com/rss",
       "feed_icon": "https://www.google.com/s2/favicons?domain=lifehacker.com&sz=64"
+    },
+    {
+      "id": "5100503",
+      "title": "Trying an iPhone Duo at the Apple Store? Don’t Leave Without Testing These 6 Things",
+      "published": "2026-10-22T12:00:00+00:00",
+      "author": "Blake Stimac",
+      "description": "The iPhone Duo is now in Apple stores, even if most buyers won’t get theirs until January. Here’s how to make the most of a hands-on demo.",
+      "link": "https://www.cnet.com/tech/mobile/test-iphone-duo-things-to-try-at-apple-store/",
+      "image": "https://www.cnet.com/wp-content/uploads/sites/2/iPhone-Duo-still-4.jpg",
+      "feed_name": "CNET News",
+      "feed_title": "News – CNET",
+      "category": "technology",
+      "feed_url": "https://www.cnet.com/rss/news/",
+      "feed_icon": "https://www.cnet.com/wp-content/uploads/sites/2/cropped-favicon-480.png?w=32"
     },
     {
       "id": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virtual-power-plant-1-gigawatt/",

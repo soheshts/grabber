@@ -1,16 +1,30 @@
 {
   "category": "DIY",
-  "updated": "2026-10-27T15:02:57.987193+00:00",
-  "count": 195,
+  "updated": "2026-10-27T15:33:31.977173+00:00",
+  "count": 196,
   "summary": {
-    "text": "• Gemini can read Gmail messages you haven't opened yet. A MUO guide explains how to keep it out of your inbox and what you give up by doing so.\n• A How-To Geek writer switched to a Linux web browser as their daily default after months of use.\n• How-To Geek lists six affordable Harbor Freight mechanics tools worth keeping in your car trunk.",
-    "generated_at": "2026-10-27T14:33:35.979443+00:00",
+    "text": "• Wi-Fi 8 is coming, but a Wi-Fi 5 router may still suffice, since your internet plan and devices set the actual speed.\n• A $5 ESP32 board can make power tools start automatically, with sensors reacting to air quality and machine state.\n• A government database lets readers check how bad a bridge is.\n• Apple's new iMac M6 brings a faster chip, Wi-Fi 7, and a higher price, while a separate piece compares Gemini 4 Argon with GPT-6.",
+    "generated_at": "2026-10-27T15:33:31.977173+00:00",
     "window_minutes": 60,
-    "item_count": 3,
-    "key": "b20345b710943d67bb05a5a8ce5f3e6529a9bbdf",
+    "item_count": 5,
+    "key": "d0e309673a8b6af53218fd5dcf64c2926137a734",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.howtogeek.com/wi-fi-8-is-coming-but-your-wi-fi-5-router-probably-doesnt-need-replacing/",
+      "title": "Wi-Fi 8 is coming, but your Wi-Fi 5 router probably doesn't need replacing",
+      "published": "2026-10-27T15:30:16+00:00",
+      "author": "Patrick Campanale",
+      "description": "New Wi-Fi standards are exciting, but your internet plan and devices decide your speed.",
+      "link": "https://www.howtogeek.com/wi-fi-8-is-coming-but-your-wi-fi-5-router-probably-doesnt-need-replacing/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/08/front-view-of-amazon-eero-wi-fi-router.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/gemini-4-argon-vs-gpt-6-showdown/",
       "title": "Gemini 4 Argon vs. GPT-6 wasn't the showdown I expected",

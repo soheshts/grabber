@@ -1,9 +1,58 @@
 {
   "category": "fashion",
-  "updated": "2026-10-27T15:02:57.987193+00:00",
-  "count": 211,
-  "summary": null,
+  "updated": "2026-10-27T15:33:31.977173+00:00",
+  "count": 213,
+  "summary": {
+    "text": "• Gen Z teens are in no rush to get driver's licenses, as much of their lives now happen online (NYT Style).\n• Who What Wear highlights affordable Spring 2027 trends seen from New York to Paris.\n• For a $150 budget, Who What Wear suggests expensive-looking buys, with options starting at $45.",
+    "generated_at": "2026-10-27T15:33:31.977173+00:00",
+    "window_minutes": 60,
+    "item_count": 3,
+    "key": "94ce05c2f8eb52f1384d36d7036051923b0a0277",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/10/24/style/drivers-license-gen-z-teens-learners-permit.html",
+      "title": "Why Gen Z Teens Are in No Rush to Get Their Driver’s Licenses",
+      "published": "2026-10-27T15:18:49+00:00",
+      "author": "Callie Holtermann",
+      "description": "Gen Z teenagers are no longer racing toward this rite of passage. What’s the hurry, with so much of their lives happening online?",
+      "link": "https://www.nytimes.com/2026/10/24/style/drivers-license-gen-z-teens-learners-permit.html",
+      "image": "https://static01.nyt.com/images/2026/10/24/fashion/24ST-DRIVERS-LICENSE-DIP-promo/24ST-DRIVERS-LICENSE-DIP-clueless-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Style",
+      "feed_title": "NYT > Style",
+      "category": "fashion",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "YrEdie8YenSvAAjG6iqHwa",
+      "title": "From New York to Paris, These Are the Affordable Trends We're Calling for Spring 2027",
+      "published": "2026-10-27T15:00:00+00:00",
+      "author": "Sierra Mayhew",
+      "description": "I'm so ready to wear these trends.",
+      "link": "https://www.whowhatwear.com/fashion/runway/spring-summer-affordable-fashion-trends-2027",
+      "image": "https://cdn.mos.cms.futurecdn.net/zL3fQG7kuB7KwfoQY79BXn-1920-80.jpg",
+      "feed_name": "Who What Wear",
+      "feed_title": "Latest from Who What Wear",
+      "category": "fashion",
+      "feed_url": "https://www.whowhatwear.com/rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.whowhatwear.com&sz=64"
+    },
+    {
+      "id": "CXjKyMQ59yCiW6DxX9RD5",
+      "title": "If Your Vibe Is Expensive Looking and Your Budget Is $150, Here's What to Buy",
+      "published": "2026-10-27T15:00:00+00:00",
+      "author": "Audry Hiaoui",
+      "description": "Starting at $45.",
+      "link": "https://www.whowhatwear.com/fashion/shopping/expensive-looking-under-150-items",
+      "image": "https://cdn.mos.cms.futurecdn.net/ipf2TUuv4mQwdnWDnGUdrB-1920-80.jpg",
+      "feed_name": "Who What Wear",
+      "feed_title": "Latest from Who What Wear",
+      "category": "fashion",
+      "feed_url": "https://www.whowhatwear.com/rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.whowhatwear.com&sz=64"
+    },
     {
       "id": "ruGYuzSdQoSSNoDXPEXXiR",
       "title": "Wow, This Nordstrom Sale Has All of the Items Fashion People Want to Wear—These Chic Finds Won't Stay in Stock",
@@ -21,7 +70,7 @@
     {
       "id": "https://www.nytimes.com/2026/10/27/style/street-style-look-highlighter-chic.html",
       "title": "Street Style Look of the Week: ‘Highlighter Chic’",
-      "published": "2026-10-27T13:00:02+00:00",
+      "published": "2026-10-27T13:00:03+00:00",
       "author": "Simbarashe Cha",
       "description": "A couple on their way to an art fair in London paused to extol the virtues of color, which they called “the greatest source of joy in our lives.”",
       "link": "https://www.nytimes.com/2026/10/27/style/street-style-look-highlighter-chic.html",
@@ -90,10 +139,10 @@
     },
     {
       "id": "EvNUv2HESoAx3cg9uGzASc",
-      "title": "I’ve Noticed That the Chicest Women In Their 50s Keep These 3 Knitwear Trends In Their Rotation",
+      "title": "I’ve Noticed That the Chicest Women in Their 50s Keep These 3 Knitwear Trends in Their Rotation",
       "published": "2026-10-27T12:32:25+00:00",
       "author": "Natalie Munro",
-      "description": "I keep recommending them.",
+      "description": "The only three knits you need.",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/knitwear-trends-kelly-rutherford-2026",
       "image": "https://cdn.mos.cms.futurecdn.net/uDwLCLcV5pgBJQwTadRPsa-1920-80.jpg",
       "feed_name": "Who What Wear",
@@ -479,20 +528,6 @@
       "category": "fashion",
       "feed_url": "https://www.whowhatwear.com/rss",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.whowhatwear.com&sz=64"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/10/24/style/drivers-license-gen-z-teens-learners-permit.html",
-      "title": "Why Gen Z Teens Are in No Rush to Get Their Driver’s Licenses",
-      "published": "2026-10-27T02:39:23+00:00",
-      "author": "Callie Holtermann",
-      "description": "Gen Z teenagers are no longer racing toward this rite of passage. What’s the hurry, with so much of their lives happening online?",
-      "link": "https://www.nytimes.com/2026/10/24/style/drivers-license-gen-z-teens-learners-permit.html",
-      "image": "https://static01.nyt.com/images/2026/10/24/fashion/24ST-DRIVERS-LICENSE-DIP-promo/24ST-DRIVERS-LICENSE-DIP-clueless-mediumSquareAt3X.jpg",
-      "feed_name": "NYT > Style",
-      "feed_title": "NYT > Style",
-      "category": "fashion",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "amoH6YMipbC4CUYGNzCqMS",

@@ -1,20 +1,34 @@
 {
   "category": "World News",
-  "updated": "2026-10-27T15:02:57.987193+00:00",
-  "count": 776,
+  "updated": "2026-10-27T15:33:31.977173+00:00",
+  "count": 785,
   "summary": {
-    "text": "• Two British men were charged over helping Iranian intelligence at RAF Fairford, a US base used in the Iran war. Jordan says its Syria strikes targeted Islamic State.\n• Arab citizens' votes could decide Israel's election, which pits nationalism against founding ideals.\n• Norway and Finland leaders held a rare call with Putin, the first direct European contact in over a year.\n• Nvidia and AMD will invest $4 billion in Meta. Coca-Cola lifts its earnings outlook, and Boeing narrows its Q3 loss.",
-    "generated_at": "2026-10-27T14:33:35.979443+00:00",
+    "text": "• Markets: UPS beat expectations and raised guidance again; Coca-Cola lifted its outlook; Boeing fell 9% as it said 737 Max output won't significantly ramp until late 2027.\n• Fed expected to hold rates, though Warsh may hint at more hikes.\n• Ukraine's Oleshky truce aims to let aid in and civilians out; Houthis claimed a missile hit a Saudi ministry in Riyadh.\n• Lula won Brazil's presidential runoff after trailing in round one; Israel's Arab citizens could help decide its election.",
+    "generated_at": "2026-10-27T15:33:31.977173+00:00",
     "window_minutes": 60,
-    "item_count": 17,
-    "key": "0dbc7b06bdf149e34394e4c2412a0c8f9da400f4",
+    "item_count": 12,
+    "key": "1290fdbfd7fe92b5b4d1450169ad504f428aceee",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
     {
+      "id": "108465402",
+      "title": "UPS beats quarterly expectations, raises full-year guidance again",
+      "published": "2026-10-27T15:29:49+00:00",
+      "author": null,
+      "description": "UPS beat Wall Street expectations for its third-quarter results and raised its full-year guidance for the second quarter in a row.",
+      "link": "https://www.cnbc.com/2026/10/27/ups-ups-q3-2026-earnings.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108448305-1792699554870-gettyimages-2288050422-golba-dailylif260728_np4i3.jpeg?v=1792699723&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
       "id": "108448107",
-      "title": "Boeing doesn't expect to significantly ramp up 737 Max production until late 2027",
-      "published": "2026-10-27T15:01:59+00:00",
+      "title": "Boeing stock sinks 9% as company says it won't significantly ramp up 737 Max production until late 2027",
+      "published": "2026-10-27T15:28:11+00:00",
       "author": null,
       "description": "Boeing is set to brief investors on its aircraft production outlook when it reports quarterly results before the market opens Tuesday.",
       "link": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
@@ -26,9 +40,79 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
+      "id": "https://www.theguardian.com/world/live/2026/oct/27/brazil-election-reader-questions-lula-bolsonaro",
+      "title": "Reader Q&A: After Lula’s sensational victory in Brazil’s presidential election, the Guardian’s Latin America correspondent answers your questions",
+      "published": "2026-10-27T15:26:38+00:00",
+      "author": "Tom Phillips, Michael Hubbard and Guardian moderators",
+      "description": "Having lost the first round of Brazil’s presidential election to far right rival Flávio Bolsonaro, incumbent Luiz Inácio Lula da Silva spectacularly triumphed in the second. What comes next for Brazil? The Guardian’s Tom Phillips is answering your questions now. Ask a question: log in or sign up here to comment, or email conversations@theguardian.com ThirdHandLuke asks: What are your views on Flávio Bolsonaro being banned from leaving Brazil so soon after losing the election? As an interested o…",
+      "link": "https://www.theguardian.com/world/live/2026/oct/27/brazil-election-reader-questions-lula-bolsonaro",
+      "image": "https://i.guim.co.uk/img/media/f7975b381e5fff70c5e117ef42e308e459969785/0_0_2000_1600/master/2000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=3146e4c326ba9a25ffb05fd9c3aca076",
+      "feed_name": "The Guardian",
+      "feed_title": "World news | The Guardian",
+      "category": "World News",
+      "feed_url": "https://www.theguardian.com/world/rss",
+      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
+    {
+      "id": "108469069",
+      "title": "Ex-FBI official's lawyers slam unusual new criminal charge: 'Outrageous government conduct'",
+      "published": "2026-10-27T15:19:50+00:00",
+      "author": null,
+      "description": "Two ex-FBI officials were initially accused by the DOJ of lying when they testified to Congress in 2023 about their involvement in Hunter Biden investigations.",
+      "link": "https://www.cnbc.com/2026/10/27/fbi-hunter-biden-congress-charges-doj.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108469071-1793108548085-Biden_Laptop_FBI_Officials_Charged-26296558759831-AP.jpg?v=1793108598&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/live/2026/10/27/world/israel-elections/heres-the-latest",
+      "title": "Here’s the latest.",
+      "published": "2026-10-27T15:16:38+00:00",
+      "author": "Aaron Boxerman, David M. Halbfinger and Leo Sands",
+      "description": "",
+      "link": "https://www.nytimes.com/live/2026/10/27/world/israel-elections/heres-the-latest",
+      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27israel-header-lght-promo/27israel-header-lght-facebookJumbo.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo#0",
+      "title": "Truce begins in Ukraine city where residents ate weeds to survive",
+      "published": "2026-10-27T15:13:24+00:00",
+      "author": null,
+      "description": "The Oleshky ceasefire, which the White House said was secured by US First Lady Melania Trump, is meant to allow aid to get in and civilians to get out.",
+      "link": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af90/live/ca109650-d1b0-11f1-93f3-e3ba7480d857.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "108464732",
+      "title": "Fed expected to hold rates steady, but Warsh may point way to more hikes",
+      "published": "2026-10-27T15:12:30+00:00",
+      "author": null,
+      "description": "Markets overwhelmingly expect no change in benchmark interest rates following September's increase.",
+      "link": "https://www.cnbc.com/2026/10/27/federal-reserve-rates-kevin-warsh.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108363899-1789583615904-gettyimages-2295044865-AFP_C8HX7CN.jpeg?v=1789583633&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
       "id": "108464525",
       "title": "Coca-Cola hikes earnings outlook, even as it sees lackluster demand in North America",
-      "published": "2026-10-27T14:49:29+00:00",
+      "published": "2026-10-27T15:04:36+00:00",
       "author": null,
       "description": "Coca-Cola stock has climbed about 32% so far this year, raising the beverage company's market cap to roughly $398 billion.",
       "link": "https://www.cnbc.com/2026/10/27/coca-cola-ko-q3-2026-earnings.html",
@@ -38,6 +122,34 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/direct-hit-houthis-claim-targeted-saudi-ministry-with-ballistic-missile-12244247#publisher=newsstand",
+      "title": "\"Direct Hit\": Houthis' Claim Targeted Saudi Ministry With Ballistic Missile",
+      "published": "2026-10-27T15:02:30+00:00",
+      "author": null,
+      "description": "Explosions were reportedly heard in Riyadh earlier in the day. (File Photo)",
+      "link": "https://www.ndtv.com/world-news/direct-hit-houthis-claim-targeted-saudi-ministry-with-ballistic-missile-12244247#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-10/pqkv2njg_riyadh_625x300_14_October_26.jpeg",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/us/florida-manatee-habitat-ruling-sent-back-to-court-after-us-wildlife-agency-changed-the-definition-of-harm-under-endangered-species-law/articleshow/135230579.cms",
+      "title": "Florida manatee habitat ruling sent back after US agency changes harm definition",
+      "published": "2026-10-27T15:00:00+00:00",
+      "author": "TOI World Desk",
+      "description": "A federal appeals court has remanded a legal dispute concerning Florida's wastewater regulations back to a lower court, focusing on their potential effects on manatee habitats in the North Indian River Lagoon. The case initially favored Bear Warriors United, Inc., citing violations of the Endangered Species Act. Recent modifications to federal definitions of harm prompted further review, ensuring the new regulations will play a role in the proceedings.",
+      "link": "https://timesofindia.indiatimes.com/world/us/florida-manatee-habitat-ruling-sent-back-to-court-after-us-wildlife-agency-changed-the-definition-of-harm-under-endangered-species-law/articleshow/135230579.cms",
+      "image": "https://static.toiimg.com/photo/msid-135230752,imgsize-187515.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
       "id": "https://www.nytimes.com/live/2026/10/27/world/israel-elections/votes-from-israels-arab-citizens-could-help-decide-the-election",
@@ -68,20 +180,6 @@
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
-      "id": "108464732",
-      "title": "Fed expected to hold rates steady, but Warsh may point way to more hikes",
-      "published": "2026-10-27T14:33:33+00:00",
-      "author": null,
-      "description": "Markets overwhelmingly expect no change in benchmark interest rates following September's increase.",
-      "link": "https://www.cnbc.com/2026/10/27/federal-reserve-rates-kevin-warsh.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108363899-1789583615904-gettyimages-2295044865-AFP_C8HX7CN.jpeg?v=1789583633&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
       "id": "https://timesofindia.indiatimes.com/world/rest-of-world/moved-back-from-canada-but-now-cannot-wait-to-return-redditor-says-homesickness-drove-him-back-home-but-mumbai-is-not-the-same/articleshow/135237729.cms",
       "title": "'Moved back from Canada but now cannot wait to return': Redditor says homesickness drove him back home but Mumbai is not the same",
       "published": "2026-10-27T14:33:30+00:00",
@@ -108,6 +206,20 @@
       "category": "World News",
       "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/congo-rare-earths-minerals-vectus-global-erik-prince-a-us-mercenary-group-a-fragile-peace-and-global-race-for-critical-minerals-12239881#publisher=newsstand",
+      "title": "A US Mercenary Group, A Fragile Peace And Global Race For Critical Minerals",
+      "published": "2026-10-27T14:28:31+00:00",
+      "author": null,
+      "description": "Illustration by Prapti Upadhayay.",
+      "link": "https://www.ndtv.com/world-news/congo-rare-earths-minerals-vectus-global-erik-prince-a-us-mercenary-group-a-fragile-peace-and-global-race-for-critical-minerals-12239881#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-10/ebc5ennc_congo-vectus-_625x300_27_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
       "id": "https://www.nytimes.com/2026/10/27/world/europe/raf-fairford-charges-uk-air-base-us-iran.html",
@@ -222,6 +334,34 @@
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
+      "id": "t3_1xgtivl",
+      "title": "Chinese markets lose trillions as race for AI supremacy with US takes its toll",
+      "published": "2026-10-27T14:07:50+00:00",
+      "author": "/u/Loquacious-of-Borg",
+      "description": "submitted by /u/Loquacious-of-Borg [link] [comments]",
+      "link": "https://www.reddit.com/r/worldnews/comments/1xgtivl/chinese_markets_lose_trillions_as_race_for_ai/",
+      "image": "https://external-preview.redd.it/3jV43SBn5kMZu3s9ABqkzu34mhdbANLZt-D0qfLS4Bg.jpeg?width=640&crop=smart&auto=webp&s=470ede4e6cd4754f331811a6b6ca54de296c7350",
+      "feed_name": "World News",
+      "feed_title": "World News",
+      "category": "World News",
+      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
+      "feed_icon": "https://www.redditstatic.com/icon.png/"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/2-men-charged-over-incident-at-uk-airbase-used-by-us-police-link-it-to-iran-12244161#publisher=newsstand",
+      "title": "2 Men Charged Over Incident At UK Airbase Used By US, Police Link It To Iran",
+      "published": "2026-10-27T14:05:41+00:00",
+      "author": null,
+      "description": "A week ago police said they had re-arrested two of the suspects, one of whom has now been charged.",
+      "link": "https://www.ndtv.com/world-news/2-men-charged-over-incident-at-uk-airbase-used-by-us-police-link-it-to-iran-12244161#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-09/uf34imd_uk-air-base_625x300_28_September_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
       "id": "https://www.theguardian.com/australia-news/2026/oct/27/mp-calls-rethink-pre-poll-voting-helen-haines-heightened-security-concerns-ntwnfb",
       "title": "MP calls for rethink of pre-poll voting amid heightened security concerns in wake of Haines incident",
       "published": "2026-10-27T14:00:36+00:00",
@@ -264,6 +404,20 @@
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
     },
     {
+      "id": "https://www.ndtv.com/world-news/finland-norway-leaders-hold-frank-call-with-putin-on-ukraine-war-12244115#publisher=newsstand",
+      "title": "Finland, Norway Leaders Hold \"Frank\" Call With Putin On Ukraine War",
+      "published": "2026-10-27T14:00:17+00:00",
+      "author": null,
+      "description": "The Kremlin said the three leaders had \"agreed to continue maintaining direct contact by telephone\".",
+      "link": "https://www.ndtv.com/world-news/finland-norway-leaders-hold-frank-call-with-putin-on-ukraine-war-12244115#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2023-12/ef7e3qq_vladimir-putin-afp-_625x300_08_December_23.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
       "id": "https://www.nytimes.com/2026/10/27/world/europe/meghan-junior-masterchef-australia.html",
       "title": "Meghan, Actress Turned Duchess, Will Join Australian Cooking Show",
       "published": "2026-10-27T13:56:22+00:00",
@@ -276,6 +430,20 @@
       "category": "World News",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/houthis-claim-missile-strike-on-saudi-oil-refinery-as-blasts-shake-riyadh-12244075#publisher=newsstand",
+      "title": "Houthis Claim Missile Strike On Saudi Oil Refinery As Blasts Shake Riyadh",
+      "published": "2026-10-27T13:53:25+00:00",
+      "author": null,
+      "description": "The Saudi-led coalition fighting the Houthis earlier said it had shot down three missiles.",
+      "link": "https://www.ndtv.com/world-news/houthis-claim-missile-strike-on-saudi-oil-refinery-as-blasts-shake-riyadh-12244075#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2024-01/g3a4rqsk_houthi-rebels_625x300_26_January_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
       "id": "https://www.nytimes.com/2026/10/27/world/middleeast/jordan-syria-strikes-attack.html",
@@ -332,20 +500,6 @@
       "category": "World News",
       "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://www.nytimes.com/live/2026/10/27/world/israel-elections/heres-the-latest",
-      "title": "Here’s the latest.",
-      "published": "2026-10-27T13:25:44+00:00",
-      "author": "Aaron Boxerman, David M. Halbfinger and Leo Sands",
-      "description": "",
-      "link": "https://www.nytimes.com/live/2026/10/27/world/israel-elections/heres-the-latest",
-      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27israel-header-lght-promo/27israel-header-lght-facebookJumbo.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cmx28de233r2o#0",
@@ -430,20 +584,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "108465402",
-      "title": "UPS beats quarterly expectations, raises full-year guidance again",
-      "published": "2026-10-27T13:04:02+00:00",
-      "author": null,
-      "description": "UPS beat Wall Street expectations for its third-quarter results and raised its full-year guidance for the second quarter in a row.",
-      "link": "https://www.cnbc.com/2026/10/27/ups-ups-q3-2026-earnings.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108448305-1792699554870-gettyimages-2288050422-golba-dailylif260728_np4i3.jpeg?v=1792699723&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
       "id": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-avigdor-liberman-naftali-bennett.html",
@@ -726,20 +866,6 @@
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo#0",
-      "title": "Truce begins in Ukraine city where residents ate weeds to survive",
-      "published": "2026-10-27T11:53:57+00:00",
-      "author": null,
-      "description": "The Oleshky ceasefire, which the White House said was secured by US First Lady Melania Trump, is meant to allow aid to get in and civilians to get out.",
-      "link": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af90/live/ca109650-d1b0-11f1-93f3-e3ba7480d857.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
       "id": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/an-indiana-candidate-asked-a-judge-to-force-an-election-commission-meeting-before-november-3-over-complaints-including-a-disputed-60000-campaign-contribution-the-judge-refused-delaying-review-until-after-voting/articleshow/135233065.cms",
       "title": "Indiana judge rejects bid to hear campaign finance complaints before midterms",
       "published": "2026-10-27T11:52:11+00:00",
@@ -934,6 +1060,20 @@
       "category": "World News",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "108465630",
+      "title": "Anthropic's IPO is risky business",
+      "published": "2026-10-27T11:00:01+00:00",
+      "author": null,
+      "description": "Anthropic's much-anticipated IPO is giving potential investors some perspective on the risky business of artificial intelligence.",
+      "link": "https://www.cnbc.com/2026/10/27/anthropic-five-surprising-risks-s1.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108463862-1793017402792-gettyimages-2297777280-kbd25007_3xi96vkq.jpeg?v=1793017658&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
       "id": "https://www.ndtv.com/world-news/white-house-official-jokes-nicki-minaj-could-be-next-press-secretary-we-may-have-found-12242771#publisher=newsstand",
@@ -2504,20 +2644,6 @@
       "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
-      "id": "https://www.ndtv.com/world-news/congo-rare-earths-minerals-vectus-global-erik-prince-a-us-mercenary-group-a-fragile-peace-and-global-race-for-critical-minerals-12239881#publisher=newsstand",
-      "title": "A US Mercenary Group, A Fragile Peace And Global Race For Critical Minerals",
-      "published": "2026-10-27T02:37:16+00:00",
-      "author": null,
-      "description": "Illustration by Prapti Upadhayay.",
-      "link": "https://www.ndtv.com/world-news/congo-rare-earths-minerals-vectus-global-erik-prince-a-us-mercenary-group-a-fragile-peace-and-global-race-for-critical-minerals-12239881#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-10/ebc5ennc_congo-vectus-_625x300_27_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
       "id": "https://www.ndtv.com/world-news/this-arab-factor-holds-critical-balance-of-power-in-israel-elections-12240465#publisher=newsstand",
       "title": "This 'Arab' Factor Holds Critical Balance Of Power In Israel Elections",
       "published": "2026-10-27T02:29:54+00:00",
@@ -2966,20 +3092,6 @@
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
-      "id": "https://www.theguardian.com/world/live/2026/oct/27/brazil-election-reader-questions-lula-bolsonaro",
-      "title": "Reader Q&A: After Lula’s sensational victory in Brazil’s presidential election, the Guardian’s Latin America correspondent answers your questions",
-      "published": "2026-10-27T00:00:03+00:00",
-      "author": "Tom Phillips, Michael Hubbard and Guardian moderators",
-      "description": "Having lost the first round of Brazil’s presidential election to far right rival Flávio Bolsonaro, incumbent Luiz Inácio Lula da Silva spectacularly triumphed in the second. What comes next for Brazil? The Guardian’s Tom Phillips is answering your questions now. Ask a question: log in or sign up here to comment, or email conversations@theguardian.com After losing the first round of Brazil’s presidential election to far right rival Flávio Bolsonaro, incumbent Luiz Inácio Lula da Silva, better kn…",
-      "link": "https://www.theguardian.com/world/live/2026/oct/27/brazil-election-reader-questions-lula-bolsonaro",
-      "image": "https://i.guim.co.uk/img/media/f7975b381e5fff70c5e117ef42e308e459969785/0_0_2000_1600/master/2000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=3146e4c326ba9a25ffb05fd9c3aca076",
-      "feed_name": "The Guardian",
-      "feed_title": "World news | The Guardian",
-      "category": "World News",
-      "feed_url": "https://www.theguardian.com/world/rss",
-      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
-    },
-    {
       "id": "https://www.nytimes.com/2026/10/26/world/americas/flavio-bolsonaro-passport-brazil.html",
       "title": "Brazil Supreme Court Orders Flávio Bolsonaro to Hand Over Passports in Money Laundering Inquiry",
       "published": "2026-10-26T23:55:16+00:00",
@@ -3104,6 +3216,20 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
+      "id": "108360561",
+      "title": "From Wall Street to Silicon Valley, Anthropic IPO poised to have massive 'trickle-down effect'",
+      "published": "2026-10-26T22:50:07+00:00",
+      "author": null,
+      "description": "With the AI trade sputtering of late and interest rates on the rise, Anthropic's IPO is taking on outsized importance.",
+      "link": "https://www.cnbc.com/2026/10/26/anthropic-ipo-might-trigger-tech-reset-if-ipo-underperforms.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108181967-1758834890156-GettyImages-2194795244.jpg?v=1793028030&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
       "id": "108460149",

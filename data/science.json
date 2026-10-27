@@ -1,16 +1,58 @@
 {
   "category": "science",
-  "updated": "2026-10-27T15:02:57.987193+00:00",
-  "count": 458,
+  "updated": "2026-10-27T15:33:31.977173+00:00",
+  "count": 462,
   "summary": {
-    "text": "• The UN says greenhouse gas concentrations hit new record highs in 2025, locking in centuries of climate impacts. Colorado's most prominent glaciers thinned dramatically after record-low snow and record-warm temperatures.\n• Webb telescope ice data links interstellar comet 3I/ATLAS to objects beyond Neptune through similar ice signatures.\n• Research on an ancient fault suggests earthquake heating may amplify tsunami-triggering slip, based on Japan's 2011 quake.\n• About 40% of plants and animals in protected Northern Ireland sites fall short of \"favourable condition.\"",
-    "generated_at": "2026-10-27T14:33:35.979443+00:00",
+    "text": "• Scientists reveal a staggering number of bat deaths at US wind turbines.\n• Extreme weather is driving support for green voting in Europe, while Scotland braces for a third storm in three days.\n• Fossils suggest the 121-million-year-old bird Longipteryx had no tail feathers; a Nanotyrannus skeleton sold for $47.3 million.\n• Radio images reveal a mysterious companion disturbing Betelgeuse.\n• A marine molecule may help combat the brain-eating amoeba.",
+    "generated_at": "2026-10-27T15:33:31.977173+00:00",
     "window_minutes": 60,
     "item_count": 11,
-    "key": "98f63fb70d49678a26d61592c843f7dd2072702d",
+    "key": "9dace04857c831e802dc9f4ee23b63a98c0dd894",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "news712319317",
+      "title": "Scientists reveal the staggering number of bat deaths at wind turbines",
+      "published": "2026-10-27T15:29:50+00:00",
+      "author": null,
+      "description": "Bat populations across the United States face numerous threats, and one of the biggest may be the number of collisions with wind turbines. According to the most comprehensive study of the problem to date, published in the journal Proceedings of the National Academy of Sciences, more than 18 million bats may have died at wind energy facilities between 1981 and 2024.",
+      "link": "https://phys.org/news/2026-10-scientists-reveal-staggering-deaths-turbines.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-reveal-the-1.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "news712305921",
+      "title": "Extreme weather drives support for green voting in Europe",
+      "published": "2026-10-27T15:20:20+00:00",
+      "author": null,
+      "description": "In representative democracies, it is important that climate change policies are developed through transparent processes and with citizen representation, which in turn requires an understanding of how climate-related events influence public support for such policies.",
+      "link": "https://phys.org/news/2026-10-extreme-weather-green-voting-europe.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/climate-change-policie.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "news712312880",
+      "title": "121-million-year-old fossils suggest Longipteryx had no tail feathers",
+      "published": "2026-10-27T15:20:16+00:00",
+      "author": null,
+      "description": "Around 121 million years ago, somewhere in modern northeastern China, an early bird took to the skies. If you drew its silhouette, you'd notice something was missing. Unlike any bird alive today, it had no tail feathers.",
+      "link": "https://phys.org/news/2026-10-million-year-fossils-longipteryx-tail.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/121-million-year-old-f.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
     {
       "id": "news712303699",
       "title": "The upside of untidiness: Why a little mess can be good for your home",
@@ -38,6 +80,20 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "6adf721fa8783bd475575090",
+      "title": "How video games can power up your parenting | Hannah Boquet (re-release)",
+      "published": "2026-10-27T15:00:00+00:00",
+      "author": "TED",
+      "description": "Parenting an eye-rolling teenager glued to a gaming system is not a simple feat, but what if you could turn screen time into an opportunity for connection? Hannah Boquet shares how she decided to play video games with her kids and discovered the power of esports to foster trust, communication and essential life skills. Dive deeper into how you can strengthen family bonds, support your child’s development — and maybe even be considered “cool” by your kid. (This episode originally aired in 2025.)…",
+      "link": "http://go.ted.com/hannahbouquet",
+      "image": null,
+      "feed_name": "TED Talks Daily (SD video)",
+      "feed_title": "TED Talks Daily",
+      "category": "science",
+      "feed_url": "https://pa.tedcdn.com/feeds/talks.rss",
+      "feed_icon": "https://assets.pippa.io/shows/67587e77c705e441797aff96/show-cover.png"
     },
     {
       "id": "news712315254",
@@ -70,11 +126,11 @@
     {
       "id": "https://www.nytimes.com/2026/10/27/us/jodi-dinosaur-skeleton-auction-sothebys.html",
       "title": "Skeleton of Nanotyrannus ‘Jodi,’ T. Rex’s Cousin, Is Auctioned for $47.3 Million",
-      "published": "2026-10-27T14:41:52+00:00",
+      "published": "2026-10-27T14:41:53+00:00",
       "author": "Sopan Deb",
       "description": "The Nanotyrannus specimen is the latest dinosaur fossil to fetch a high price at a private auction, this time at Sotheby’s.",
       "link": "https://www.nytimes.com/2026/10/27/us/jodi-dinosaur-skeleton-auction-sothebys.html",
-      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27xp-jodi/27xp-jodi-mediumSquareAt3X.jpg",
+      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27xp-jodi/27xp-jodi-mediumSquareAt3X-v2.jpg",
       "feed_name": "NYT > Science",
       "feed_title": "NYT > Science",
       "category": "science",
