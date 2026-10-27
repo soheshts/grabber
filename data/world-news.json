@@ -1,12 +1,54 @@
 {
   "category": "World News",
-  "updated": "2026-10-27T01:33:05.799928+00:00",
-  "count": 574,
+  "updated": "2026-10-27T02:03:41.275544+00:00",
+  "count": 577,
   "items": [
+    {
+      "id": "108466212",
+      "title": "China industrial profits post strongest growth in three months, rising 14.4%",
+      "published": "2026-10-27T01:45:58+00:00",
+      "author": null,
+      "description": "The global AI boom and higher commodity prices stemming from the war in Iran have lifted earnings at miners, chipmakers and raw-material suppliers.",
+      "link": "https://www.cnbc.com/2026/10/27/china-industrial-profits-september-ai-tech-exports-.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108466293-1793058508094-gettyimages-2301856982-vcg111676709129.jpeg?v=1793058537&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/middle-east/bibi-denies-reports-about-escalation-with-iran-in-last-day-before-polls/articleshow/135222481.cms",
+      "title": "Bibi denies reports about escalation with Iran in last day before polls",
+      "published": "2026-10-27T01:44:35+00:00",
+      "author": null,
+      "description": "",
+      "link": "https://timesofindia.indiatimes.com/world/middle-east/bibi-denies-reports-about-escalation-with-iran-in-last-day-before-polls/articleshow/135222481.cms",
+      "image": "https://static.toiimg.com/photo/msid-135222485,imgsize-51568.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/china/china-begins-key-meet-setting-stage-for-xis-fourth-term/articleshow/135222469.cms",
+      "title": "China begins key meet, setting stage for Xi’s fourth term",
+      "published": "2026-10-27T01:40:08+00:00",
+      "author": null,
+      "description": "",
+      "link": "https://timesofindia.indiatimes.com/world/china/china-begins-key-meet-setting-stage-for-xis-fourth-term/articleshow/135222469.cms",
+      "image": "https://static.toiimg.com/photo/msid-135222475,imgsize-44266.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
     {
       "id": "https://www.theguardian.com/australia-news/live/2026/oct/27/one-nation-pauline-hanson-independent-jacqui-lambie-labor-anthony-albanese-coalition-ntwnfb",
       "title": "Australian politics live: UN condemns Labor and Coalition blocking bill to ban shackling pregnant women; texting triple-zero trial begins",
-      "published": "2026-10-27T01:28:12+00:00",
+      "published": "2026-10-27T01:36:52+00:00",
       "author": "Kat Wong",
       "description": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Political debate should be ‘robust but respectful’, Anne Ruston says A day after MPs addressed the House of Representatives paying tribute to the independent Helen Haines , who was injured after an alleged attack in her electorate, the Liberal senator Anne Ruston maintains that respect is necessary in political debate. What we do here sets the tone for what the rest of the nation thinks is acceptable. There…",
       "link": "https://www.theguardian.com/australia-news/live/2026/oct/27/one-nation-pauline-hanson-independent-jacqui-lambie-labor-anthony-albanese-coalition-ntwnfb",
@@ -16,6 +58,20 @@
       "category": "World News",
       "feed_url": "https://www.theguardian.com/world/rss",
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/26/world/middleeast/netanyahu-iran-israel-election.html",
+      "title": "Netanyahu Pushed for Attack on Iran Ahead of Israeli Election, Officials Say",
+      "published": "2026-10-27T01:34:24+00:00",
+      "author": "David M. Halbfinger, Ronen Bergman, Natan Odenheimer, Adam Rasgon and Aaron Boxerman",
+      "description": "Israel’s military chief resisted the prime minister, who then pressed in recent days for a separate action, short of an overt strike, according to an official and a person briefed on the matter.",
+      "link": "https://www.nytimes.com/2026/10/26/world/middleeast/netanyahu-iran-israel-election.html",
+      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26int-israel-netanyahu-iran-qmcz/26int-israel-netanyahu-iran-qmcz-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/us/trump-escalates-attacks-on-muslim-senate-hopeful-drawing-arab-american-rebuke/articleshow/135222375.cms",
@@ -326,20 +382,6 @@
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
     },
     {
-      "id": "https://www.nytimes.com/2026/10/26/world/middleeast/netanyahu-iran-israel-election.html",
-      "title": "Netanyahu Pushed for Attack on Iran Ahead of Israeli Election, Officials Say",
-      "published": "2026-10-26T22:44:39+00:00",
-      "author": "David M. Halbfinger, Ronen Bergman, Natan Odenheimer, Adam Rasgon and Aaron Boxerman",
-      "description": "Israel’s military chief resisted the prime minister, who then pressed in recent days for a separate action, short of an overt strike, according to an official and a person briefed on the matter.",
-      "link": "https://www.nytimes.com/2026/10/26/world/middleeast/netanyahu-iran-israel-election.html",
-      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26int-israel-netanyahu-iran-qmcz/26int-israel-netanyahu-iran-qmcz-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
       "id": "https://www.ndtv.com/world-news/united-flight-diverts-after-passenger-allegedly-threatens-to-hijack-plane-12240208#publisher=newsstand",
       "title": "United Flight Diverts After Passenger Allegedly Threatens To \"Hijack\" Plane",
       "published": "2026-10-26T22:42:05+00:00",
@@ -594,7 +636,7 @@
     {
       "id": "https://www.nytimes.com/2026/10/25/world/americas/brazil-election-president-lula-bolsonaro.html",
       "title": "Lula Defeats Bolsonaro for Brazil Presidency, in Blow to Latin America’s Right",
-      "published": "2026-10-26T20:32:15+00:00",
+      "published": "2026-10-26T20:32:16+00:00",
       "author": "Ana Ionova and Adam B. Ellick",
       "description": "President Luiz Inácio Lula da Silva triumphed over Flávio Bolsonaro, the eldest son of the right-wing leader he defeated four years ago.",
       "link": "https://www.nytimes.com/2026/10/25/world/americas/brazil-election-president-lula-bolsonaro.html",
