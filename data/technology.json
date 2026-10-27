@@ -1,7 +1,7 @@
 {
   "category": "technology",
-  "updated": "2026-10-27T20:03:44.945858+00:00",
-  "count": 721,
+  "updated": "2026-10-27T20:33:11.623069+00:00",
+  "count": 726,
   "summary": {
     "text": "• Rockstar UK workers will hold a union vote as GTA 6 launches; GTA 6 reportedly needs a 210GB download.\n• Apple's Pro and Tell event added MotionVFX and AI assistants to Creator Studio; Oracle launched Media Fabric, combining AI video tools and live streaming.\n• Google's Android Registered App Stores program opens applications before its Dec. 1 launch.\n• Ford's most affordable EV, the Fathom, will offer built-in bidirectional home charging.\n• Musk says Ukraine's military violated Starlink's terms of service.",
     "generated_at": "2026-10-27T20:03:44.945858+00:00",
@@ -11,6 +11,62 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "TheNextWeb=13bcf5a0a0e9d1c24a89aab30e2dacdb",
+      "title": "Invesco brings its model portfolios into Anthropic’s Claude for advisers",
+      "published": "2026-10-27T20:27:38+00:00",
+      "author": "Ana Maria Constantin",
+      "description": "Invesco is working with Anthropic to let financial advisers use its model portfolios and practice tools inside Claude for Financial Advisors. CAIS, Conquest and FINNY added their own connectors the same day, a day after Anthropic filed for its IPO. Invesco is working with Anthropic to bring its model portfolios into Claude, the asset manager […] This story continues at The Next Web",
+      "link": "https://thenextweb.com/news/invesco-anthropic-claude-financial-advisors-connector",
+      "image": "https://media.thenextweb.com/2026/10/anthropic-wordmark-3d-render-purple-glass.avif",
+      "feed_name": "The Next Web",
+      "feed_title": "The Next Web",
+      "category": "technology",
+      "feed_url": "https://thenextweb.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
+    {
+      "id": "yt:video:ai1gIWacf0I",
+      "title": "This can SEE Sound!",
+      "published": "2026-10-27T20:14:55+00:00",
+      "author": "Marques Brownlee",
+      "description": "This is an acoustic imaging camera",
+      "link": "https://www.youtube.com/shorts/ai1gIWacf0I",
+      "image": "https://i2.ytimg.com/vi/ai1gIWacf0I/hqdefault.jpg",
+      "feed_name": "Marques Brownlee",
+      "feed_title": "Marques Brownlee",
+      "category": "technology",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?user=marquesbrownlee",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64"
+    },
+    {
+      "id": "https://tech.slashdot.org/story/26/10/27/1841227/googles-genie-4-world-model-adds-audio-more-realistic-worlds?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "title": "Google's Genie 4 World Model Adds Audio, More Realistic Worlds",
+      "published": "2026-10-27T20:00:00+00:00",
+      "author": "BeauHD",
+      "description": "An anonymous reader quotes a report from TechCrunch: Google DeepMind released its newest world model, Genie 4, in research preview on Tuesday. The latest model generates the most photorealistic and interactive worlds yet, allowing users to type prompts mid-simulation to change the scene. The model also generates real-time audio that matches the simulated world, including music, ambient noises, and interactive dialogue. [...] Google released its predecessor, Genie 3, as a research preview a litt…",
+      "link": "https://tech.slashdot.org/story/26/10/27/1841227/googles-genie-4-world-model-adds-audio-more-realistic-worlds?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+      "feed_name": "Slashdot",
+      "feed_title": "Slashdot",
+      "category": "technology",
+      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
+    },
+    {
+      "id": "01KECZ1614F2JM7CQ6C2J2KP20",
+      "title": "You Can Get These 'Nothing' Over-Ear Headphones for $55 Right Now",
+      "published": "2026-10-27T20:00:00+00:00",
+      "author": "Daniel Oropeza",
+      "description": "Nothing's budget-friendly over-ear headphones boast 100 hours of battery life.",
+      "link": "https://lifehacker.com/tech/cmf-nothing-headphone-pros-sale-october-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01KECZ1614F2JM7CQ6C2J2KP20/hero-image.png",
+      "feed_name": "Lifehacker",
+      "feed_title": "Lifehacker",
+      "category": "technology",
+      "feed_url": "https://lifehacker.com/rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=lifehacker.com&sz=64"
+    },
     {
       "id": "https://www.engadget.com/2298907/rockstar-workers-in-uk-hold-union-vote-as-gta-6-release/",
       "title": "Rockstar workers in the UK will hold a union vote just as GTA 6 is released",
@@ -38,6 +94,20 @@
       "category": "technology",
       "feed_url": "https://www.cnet.com/rss/news/",
       "feed_icon": "https://www.cnet.com/wp-content/uploads/sites/2/cropped-favicon-480.png?w=32"
+    },
+    {
+      "id": "yt:video:Hc-APyZ_YGU",
+      "title": "Apple refreshes the iMac with M6 chips #Vergecast",
+      "published": "2026-10-27T19:48:15+00:00",
+      "author": "The Verge",
+      "description": "Apple refreshes the iMac with M6 chips, Palmer Luckey’s Anduril is getting into laptops, OpenAI announces three big scientific discoveries, and The Verge looks at how data center backlash is uniting America. Here are today’s top headlines. Subscribe: http://goo.gl/G5RXGs Like The Verge on Facebook: https://goo.gl/2P1aGc Follow on Twitter: https://goo.gl/XTWX61 Follow on Instagram: https://goo.gl/7ZeLv Watch The Vergecast on YouTube: https://bit.ly/40RFRkg The Vergecast Podcast: https://bit.ly/3…",
+      "link": "https://www.youtube.com/shorts/Hc-APyZ_YGU",
+      "image": "https://i1.ytimg.com/vi/Hc-APyZ_YGU/hqdefault.jpg",
+      "feed_name": "The Verge",
+      "feed_title": "The Verge",
+      "category": "technology",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?user=TheVerge",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64"
     },
     {
       "id": "TheNextWeb=fad8be65d9e5eb1d835ecdd34a1bd2c2",
@@ -171,7 +241,7 @@
       "published": "2026-10-27T18:39:30+00:00",
       "author": "Omar Gallaga",
       "description": "AI is finding new holes in the infrastructure of the internet. Is anyone around to patch them?",
-      "link": "https://www.cnet.com/tech/services-and-software/php-warning-web-vulnerability-2/",
+      "link": "https://www.cnet.com/tech/services-and-software/php-warning-web-vulnerability/",
       "image": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2301068370.jpg",
       "feed_name": "CNET News",
       "feed_title": "News – CNET",

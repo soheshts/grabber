@@ -1,6 +1,6 @@
 {
   "category": "personal blogs",
-  "updated": "2026-10-27T20:03:44.945858+00:00",
+  "updated": "2026-10-27T20:33:11.623069+00:00",
   "count": 423,
   "summary": null,
   "items": [
@@ -17,6 +17,20 @@
       "category": "personal blogs",
       "feed_url": "https://www.kooslooijesteijn.net/feed.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.kooslooijesteijn.net&sz=64"
+    },
+    {
+      "id": "https://gomakethings.com/articles/signal-your-virtues/",
+      "title": "Signal your virtues",
+      "published": "2026-10-27T14:30:00+00:00",
+      "author": null,
+      "description": "Virtual signalling is often used as an insult, but it’s good to signal your virtues, actually. A few months back, I read a story on Bluesky from a hispanic woman who’s immigrant mother got lost in the city. Her phone ran of battery, she didn’t speak much English, and she had no idea how to get home. She approached a young woman with bright blue hair who was able to use her phone’s translation app to get the mother’s address and help her get home.",
+      "link": "https://gomakethings.com/articles/signal-your-virtues/",
+      "image": "https://gomakethings.com/img/articles/patches.jpg",
+      "feed_name": "Go Make Things",
+      "feed_title": "Go Make Things",
+      "category": "personal blogs",
+      "feed_url": "https://gomakethings.com/feed/index.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=gomakethings.com&sz=64"
     },
     {
       "id": "http://finley.im/2026/10/27/be-killing-sin/",
@@ -5197,20 +5211,6 @@
       "category": "personal blogs",
       "feed_url": "https://zander.wtf/blog.rss.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=zander.wtf&sz=64"
-    },
-    {
-      "id": "https://thomasrigby.com/posts/2026-w39/",
-      "title": "Weeknotes: 2026-W39",
-      "published": "2026-09-27T20:05:32+00:00",
-      "author": "Thomas Rigby (rss@thomasrigby.com)",
-      "description": "In which I'm up before the sun",
-      "link": "https://thomasrigby.com/posts/2026-w39/",
-      "image": "https://thomasrigby.com/images/Z4bWSg0_7Y-600.jpeg",
-      "feed_name": "Thomas Rigby",
-      "feed_title": "Thomas Rigby",
-      "category": "personal blogs",
-      "feed_url": "https://thomasrigby.com/feed.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=thomasrigby.com&sz=64"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",

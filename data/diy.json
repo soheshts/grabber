@@ -1,7 +1,7 @@
 {
   "category": "DIY",
-  "updated": "2026-10-27T20:03:44.945858+00:00",
-  "count": 218,
+  "updated": "2026-10-27T20:33:11.623069+00:00",
+  "count": 222,
   "summary": {
     "text": "• Apple: The AirPods Max 2 are $100 off in a rare deal.\n• Windows: Windows 11 still feels chaotic five years on, with outdated interfaces, extra clicks, and uneven design. Separately, Windows programs still begin with a 1980s Easter egg bearing one man's initials.\n• Tools: Four DeWalt tools under $100 are highlighted as versatile and affordable.",
     "generated_at": "2026-10-27T20:03:44.945858+00:00",
@@ -11,6 +11,48 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.makeuseof.com/why-apple-maps-beats-google-maps/",
+      "title": "Everyone defaults to Google Maps, but Apple Maps won me over in the car",
+      "published": "2026-10-27T20:30:16+00:00",
+      "author": "Jonathon Jachura",
+      "description": "Here's why I now default to Apple Maps after years of being a heavy Google Maps user.",
+      "link": "https://www.makeuseof.com/why-apple-maps-beats-google-maps/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/03/iphone-on-a-table-with-a-restaurant-visible-on-apple-maps-2.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/5-legendary-console-games-unofficial-android-ports/",
+      "title": "These 5 legendary console games now have unofficial Android ports",
+      "published": "2026-10-27T20:30:15+00:00",
+      "author": "Tyler Dupont",
+      "description": "You don't have to become a pirate to play your favorite console games on your phone.",
+      "link": "https://www.howtogeek.com/5-legendary-console-games-unofficial-android-ports/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/20261026_162727.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/youre-doing-plex-wrong-how-i-learned-to-stop-worrying-and-love-the-transcoding/",
+      "title": "You're doing Plex wrong: How I learned to stop worrying and love the transcoding",
+      "published": "2026-10-27T20:16:15+00:00",
+      "author": "Sydney Butler",
+      "description": "From stubborn handbrake sessions to smart server tricks, discover why occasional re-encoding saves time.",
+      "link": "https://www.howtogeek.com/youre-doing-plex-wrong-how-i-learned-to-stop-worrying-and-love-the-transcoding/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/08/20260801_205558.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/save-100-on-the-airpods-max-2-with-this-rare-apple-deal/",
       "title": "Save $100 on the AirPods Max 2 with this rare Apple deal",
@@ -24,6 +66,20 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://hackaday.com/?p=1394014",
+      "title": "2026 Retrocomputing Challenge: Explore Space with a Credit Card Reader",
+      "published": "2026-10-27T20:00:33+00:00",
+      "author": "Tom Nardi",
+      "description": "The humble credit card reader — most of us have used hundreds, perhaps even thousands of them over the years. But even for folks like us, it’s not the sort …read more",
+      "link": "https://hackaday.com/2026/10/27/2026-retrocomputing-challenge-explore-space-with-a-credit-card-reader/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/10/z80planets_feat.jpg",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
     },
     {
       "id": "https://www.howtogeek.com/windows-11-still-feels-chaotic-5-years-later/",
