@@ -1,7 +1,7 @@
 {
   "category": "World News",
-  "updated": "2026-10-27T14:33:35.979443+00:00",
-  "count": 773,
+  "updated": "2026-10-27T15:02:57.987193+00:00",
+  "count": 776,
   "summary": {
     "text": "• Two British men were charged over helping Iranian intelligence at RAF Fairford, a US base used in the Iran war. Jordan says its Syria strikes targeted Islamic State.\n• Arab citizens' votes could decide Israel's election, which pits nationalism against founding ideals.\n• Norway and Finland leaders held a rare call with Putin, the first direct European contact in over a year.\n• Nvidia and AMD will invest $4 billion in Meta. Coca-Cola lifts its earnings outlook, and Boeing narrows its Q3 loss.",
     "generated_at": "2026-10-27T14:33:35.979443+00:00",
@@ -11,6 +11,90 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "108448107",
+      "title": "Boeing doesn't expect to significantly ramp up 737 Max production until late 2027",
+      "published": "2026-10-27T15:01:59+00:00",
+      "author": null,
+      "description": "Boeing is set to brief investors on its aircraft production outlook when it reports quarterly results before the market opens Tuesday.",
+      "link": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108448328-1792700899335-gettyimages-2284942318-AFP_B9W49EE.jpeg?v=1792700980&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "108464525",
+      "title": "Coca-Cola hikes earnings outlook, even as it sees lackluster demand in North America",
+      "published": "2026-10-27T14:49:29+00:00",
+      "author": null,
+      "description": "Coca-Cola stock has climbed about 32% so far this year, raising the beverage company's market cap to roughly $398 billion.",
+      "link": "https://www.cnbc.com/2026/10/27/coca-cola-ko-q3-2026-earnings.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108464534-1793027769008-gettyimages-2296453825-dellatorre-notitle260906_np6GQ.jpeg?v=1793027790&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/live/2026/10/27/world/israel-elections/votes-from-israels-arab-citizens-could-help-decide-the-election",
+      "title": "Votes from Israel’s Arab citizens could help decide the election.",
+      "published": "2026-10-27T14:47:46+00:00",
+      "author": "Natan Odenheimer and Heedo Abu Laban",
+      "description": "A Palestinian citizen of Israel casting a ballot on Tuesday in Umm al-Fahm, Israel.",
+      "link": "https://www.nytimes.com/live/2026/10/27/world/israel-elections/votes-from-israels-arab-citizens-could-help-decide-the-election",
+      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27israel-arab-israelis-topart-01-kfqp/27israel-arab-israelis-topart-01-kfqp-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/science/discovery/meet-the-mit-students-who-built-a-system-that-turns-lunar-waste-into-useful-materials-for-future-moon-missions-winning-both-tracks-of-nasas-lunarecycle-challenge-and-925000-in-prizes/articleshow/135237075.cms",
+      "title": "MIT students tackle lunar waste with recycling system",
+      "published": "2026-10-27T14:37:17+00:00",
+      "author": "TOI Science Desk",
+      "description": "MIT students have pioneered a revolutionary recycling solution aimed at mitigating waste buildup on the Moon. As new supplies begin to arrive, it is vital to have efficient methods for dealing with packaging waste. This ambitious project, which has garnered accolades from NASA, seeks to transform waste into useful materials for lunar bases, setting a precedent for potential sustainability improvements both on the Moon and Earth.",
+      "link": "https://timesofindia.indiatimes.com/science/discovery/meet-the-mit-students-who-built-a-system-that-turns-lunar-waste-into-useful-materials-for-future-moon-missions-winning-both-tracks-of-nasas-lunarecycle-challenge-and-925000-in-prizes/articleshow/135237075.cms",
+      "image": "https://static.toiimg.com/photo/msid-135237160,imgsize-413629.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
+      "id": "108464732",
+      "title": "Fed expected to hold rates steady, but Warsh may point way to more hikes",
+      "published": "2026-10-27T14:33:33+00:00",
+      "author": null,
+      "description": "Markets overwhelmingly expect no change in benchmark interest rates following September's increase.",
+      "link": "https://www.cnbc.com/2026/10/27/federal-reserve-rates-kevin-warsh.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108363899-1789583615904-gettyimages-2295044865-AFP_C8HX7CN.jpeg?v=1789583633&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/rest-of-world/moved-back-from-canada-but-now-cannot-wait-to-return-redditor-says-homesickness-drove-him-back-home-but-mumbai-is-not-the-same/articleshow/135237729.cms",
+      "title": "'Moved back from Canada but now cannot wait to return': Redditor says homesickness drove him back home but Mumbai is not the same",
+      "published": "2026-10-27T14:33:30+00:00",
+      "author": "Poulomi Ghosh",
+      "description": "",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/moved-back-from-canada-but-now-cannot-wait-to-return-redditor-says-homesickness-drove-him-back-home-but-mumbai-is-not-the-same/articleshow/135237729.cms",
+      "image": "https://static.toiimg.com/photo/msid-135237873,imgsize-171682.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/c6x2qgyqr79wo#0",
       "title": "Ballon d'Or ceremony raises case of French sports journalist jailed in Algeria",
@@ -24,34 +108,6 @@
       "category": "World News",
       "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "108464732",
-      "title": "Fed expected to hold rates steady, but Warsh may point way to more hikes",
-      "published": "2026-10-27T14:26:57+00:00",
-      "author": null,
-      "description": "Markets overwhelmingly expect no change in benchmark interest rates following September's increase.",
-      "link": "https://www.cnbc.com/2026/10/27/federal-reserve-rates-kevin-warsh.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108363899-1789583615904-gettyimages-2295044865-AFP_C8HX7CN.jpeg?v=1789583633&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "108464525",
-      "title": "Coca-Cola hikes earnings outlook, even as it sees lackluster demand in North America",
-      "published": "2026-10-27T14:25:34+00:00",
-      "author": null,
-      "description": "Coca-Cola stock has climbed about 32% so far this year, raising the beverage company's market cap to roughly $398 billion.",
-      "link": "https://www.cnbc.com/2026/10/27/coca-cola-ko-q3-2026-earnings.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108464534-1793027769008-gettyimages-2296453825-dellatorre-notitle260906_np6GQ.jpeg?v=1793027790&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
       "id": "https://www.nytimes.com/2026/10/27/world/europe/raf-fairford-charges-uk-air-base-us-iran.html",
@@ -96,20 +152,6 @@
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
-      "id": "https://www.nytimes.com/live/2026/10/27/world/israel-elections/votes-from-israels-arab-citizens-could-help-decide-the-election",
-      "title": "Votes from Israel’s Arab citizens could help decide the election.",
-      "published": "2026-10-27T14:20:05+00:00",
-      "author": "Natan Odenheimer and Heedo Abu Laban",
-      "description": "Palestinian citizens of Israel at the old port of Jaffa this month.",
-      "link": "https://www.nytimes.com/live/2026/10/27/world/israel-elections/votes-from-israels-arab-citizens-could-help-decide-the-election",
-      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27israel-arab-israelis-jbkg/27israel-arab-israelis-jbkg-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
       "id": "108467883",
       "title": "Nvidia, AMD to invest $4 billion in Meta as tech giants deepen AI partnership",
       "published": "2026-10-27T14:19:36+00:00",
@@ -150,6 +192,20 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
+      "id": "t3_1xgtmee",
+      "title": "Photos show Ukraine's Starlink was throttled during Russian strike that killed 5 in park",
+      "published": "2026-10-27T14:11:45+00:00",
+      "author": "/u/OksLocksmiths",
+      "description": "submitted by /u/OksLocksmiths [link] [comments]",
+      "link": "https://www.reddit.com/r/worldnews/comments/1xgtmee/photos_show_ukraines_starlink_was_throttled/",
+      "image": "https://external-preview.redd.it/PPC1DLsjr9fBsPSPiznb6_S8b2X6eilIAJE6JCaCqrA.jpeg?width=320&crop=smart&auto=webp&s=00167d39e9aa95acd6df32d403279815ffdc9677",
+      "feed_name": "World News",
+      "feed_title": "World News",
+      "category": "World News",
+      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
+      "feed_icon": "https://www.redditstatic.com/icon.png/"
     },
     {
       "id": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-identity.html",
@@ -234,20 +290,6 @@
       "category": "World News",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "108448107",
-      "title": "Boeing narrows third-quarter loss as defense sales rise, but focus remains on 737 Max production",
-      "published": "2026-10-27T13:42:26+00:00",
-      "author": null,
-      "description": "Boeing is set to brief investors on its aircraft production outlook when it reports quarterly results before the market opens Tuesday.",
-      "link": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108448328-1792700899335-gettyimages-2284942318-AFP_B9W49EE.jpeg?v=1792700980&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
       "id": "t3_1xgslde",
@@ -2925,10 +2967,10 @@
     },
     {
       "id": "https://www.theguardian.com/world/live/2026/oct/27/brazil-election-reader-questions-lula-bolsonaro",
-      "title": "Reader Q&A: After Lula’s sensational victory in Brazil’s presidential election, post your questions for the Guardian’s Latin America correspondent",
+      "title": "Reader Q&A: After Lula’s sensational victory in Brazil’s presidential election, the Guardian’s Latin America correspondent answers your questions",
       "published": "2026-10-27T00:00:03+00:00",
       "author": "Tom Phillips, Michael Hubbard and Guardian moderators",
-      "description": "Having lost the first round of Brazil’s presidential election to far right rival Flávio Bolsonaro, incumbent Luiz Inácio Lula da Silva spectacularly triumphed in the second. What comes next for Brazil? The Guardian’s Tom Phillips will be answering your questions from 15:00 GMT today. Ask a question: log in or sign up here to comment, or email conversations@theguardian.com After losing the first round of Brazil’s presidential election to far right rival Flávio Bolsonaro, incumbent Luiz Inácio Lu…",
+      "description": "Having lost the first round of Brazil’s presidential election to far right rival Flávio Bolsonaro, incumbent Luiz Inácio Lula da Silva spectacularly triumphed in the second. What comes next for Brazil? The Guardian’s Tom Phillips is answering your questions now. Ask a question: log in or sign up here to comment, or email conversations@theguardian.com After losing the first round of Brazil’s presidential election to far right rival Flávio Bolsonaro, incumbent Luiz Inácio Lula da Silva, better kn…",
       "link": "https://www.theguardian.com/world/live/2026/oct/27/brazil-election-reader-questions-lula-bolsonaro",
       "image": "https://i.guim.co.uk/img/media/f7975b381e5fff70c5e117ef42e308e459969785/0_0_2000_1600/master/2000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=3146e4c326ba9a25ffb05fd9c3aca076",
       "feed_name": "The Guardian",

@@ -1,7 +1,7 @@
 {
   "category": "technology",
-  "updated": "2026-10-27T14:33:35.979443+00:00",
-  "count": 628,
+  "updated": "2026-10-27T15:02:57.987193+00:00",
+  "count": 631,
   "summary": {
     "text": "• Intel agreed to buy Israeli quantum software firm Classiq for about $2.3bn. Disruptive closed a $10bn fund for AI and defence startups.\n• Apple launched a 24-inch iMac and entry-level MacBook Pro with the M6 chip, and is adding an AI assistant to Pages, Keynote and Numbers. A touchscreen MacBook is expected.\n• Anduril and Qualcomm plan US-made government laptops called BlueChip.\n• Anthropic faces growing regulatory worries before the midterms. The Arc browser sunsets on December 22, 2026.",
     "generated_at": "2026-10-27T14:33:35.979443+00:00",
@@ -11,6 +11,48 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "TheNextWeb=84a3767ceae1f2999fa59e3fae983582",
+      "title": "AI disinformation is outpacing platform moderation before US midterms",
+      "published": "2026-10-27T14:58:04+00:00",
+      "author": "Ana-Maria Stanciuc",
+      "description": "AI-generated election misinformation is spreading across social media ahead of the US midterm elections, and experts warn that much of it may be escaping detection as platforms scale back human moderation and rely more heavily on automated systems. AI tools make it cheap to produce convincing fake images, videos, and claims in large volumes. Meanwhile, […] This story continues at The Next Web",
+      "link": "https://thenextweb.com/news/ai-disinformation-us-midterms-platform-moderation",
+      "image": "https://media.thenextweb.com/2026/10/us-flag-capitol-dome-washington.avif",
+      "feed_name": "The Next Web",
+      "feed_title": "The Next Web",
+      "category": "technology",
+      "feed_url": "https://thenextweb.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
+    {
+      "id": "https://www.engadget.com/2295883/why-some-iphone-apps-dont-appear-carplay/",
+      "title": "Why some iPhone apps don't appear in Apple CarPlay",
+      "published": "2026-10-27T14:45:00+00:00",
+      "author": "Roger Fingas",
+      "description": "The CarPlay experience comes down to the apps, but most of what's on your phone aren't compatible for various reasons.",
+      "link": "https://www.engadget.com/2295883/why-some-iphone-apps-dont-appear-carplay/",
+      "image": "https://www.engadget.com/img/gallery/why-some-iphone-apps-dont-appear-in-apple-carplay/l-intro-1792786994.jpg",
+      "feed_name": "Engadget",
+      "feed_title": "Engadget - Technology News & Expert Reviews",
+      "category": "technology",
+      "feed_url": "https://www.engadget.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
+    {
+      "id": "01M5X2SWE81DDF2G6GXFBYZ9D1",
+      "title": "These Retro-Chic Nothing Headphones Are $100 Off Right Now",
+      "published": "2026-10-27T14:30:00+00:00",
+      "author": "Naima Karp",
+      "description": "These distinctive noise-canceling headphones with a retro cassette tape housing, customizable sound, and up to 80 hours of battery life are down to $199.",
+      "link": "https://lifehacker.com/tech/nothing-headphones-1-sale-october-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M5X2SWE81DDF2G6GXFBYZ9D1/hero-image.jpg",
+      "feed_name": "Lifehacker",
+      "feed_title": "Lifehacker",
+      "category": "technology",
+      "feed_url": "https://lifehacker.com/rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=lifehacker.com&sz=64"
+    },
     {
       "id": "TheNextWeb=3128b33a072cf16061282eb389e4ffff",
       "title": "Intel to buy quantum software firm Classiq for about $2.3bn",
@@ -1416,7 +1458,7 @@
       "title": "Apple’s ‘Pro and Tell’ Event: Everything Announced So Far This Week",
       "published": "2026-10-26T22:21:38+00:00",
       "author": "Corinne Reichert",
-      "description": "A new iPad Mini and possible upgrades to the MacBook Pro and iMac are coming. Here’s what we’re anticipating in another big week for Apple.",
+      "description": "It’s another big week for Apple, with a new iPad Mini, MacBook Pro and iMac, and more yet to come.",
       "link": "https://www.cnet.com/tech/computing/apple-pro-and-tell-event-macbook-oled-touchscreen-ipad-mini/",
       "image": "https://www.cnet.com/wp-content/uploads/sites/2/image-8-4.png",
       "feed_name": "CNET News",
