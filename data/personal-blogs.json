@@ -1,9 +1,30 @@
 {
   "category": "personal blogs",
-  "updated": "2026-10-27T16:34:17.081309+00:00",
-  "count": 423,
-  "summary": null,
+  "updated": "2026-10-27T17:03:43.282475+00:00",
+  "count": 424,
+  "summary": {
+    "text": "• Koos Looijesteijn shares a quote from Robert Henri-style artistic philosophy: the aim is not to make art but to reach a state where art becomes inevitable. The full post is on his website.",
+    "generated_at": "2026-10-27T17:03:43.282475+00:00",
+    "window_minutes": 60,
+    "item_count": 1,
+    "key": "509b1adbc0b63474b0f76d6391207daed4c9fe9e",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "https://www.kooslooijesteijn.net/blog/you-are-the-best-artist",
+      "title": "You are the best artist",
+      "published": "2026-10-27T17:41:00+00:00",
+      "author": null,
+      "description": "“The object isn’t to make art, it’s to be in that wonderful state which makes art inevitable.” Please continue to my website to read the post.",
+      "link": "https://www.kooslooijesteijn.net/blog/you-are-the-best-artist",
+      "image": "https://www.kooslooijesteijn.net/_astro/you-are-the-best.DLzon3nC.png",
+      "feed_name": "Koos Looijesteijn",
+      "feed_title": "Koos Looijesteijn",
+      "category": "personal blogs",
+      "feed_url": "https://www.kooslooijesteijn.net/feed.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.kooslooijesteijn.net&sz=64"
+    },
     {
       "id": "http://finley.im/2026/10/27/be-killing-sin/",
       "title": "Be Killing Sin",

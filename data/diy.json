@@ -1,7 +1,7 @@
 {
   "category": "DIY",
-  "updated": "2026-10-27T16:34:17.081309+00:00",
-  "count": 201,
+  "updated": "2026-10-27T17:03:43.282475+00:00",
+  "count": 204,
   "summary": {
     "text": "• Two items highlight Ryobi power tools: cheap tools that prove surprisingly useful around the house and in DIY projects, and five low-cost accessories that transform them.\n• Windows tips: rather than debloating blindly, use Task Manager and Resource Monitor to pinpoint slowdowns from resident processes and startup programs.\n• Two Windows settings that restore your work after a restart are off by default and can be enabled.\n• Also in the feed: a piece on a fantasy binge on Prime Video that isn't an Amazon original.",
     "generated_at": "2026-10-27T16:34:17.081309+00:00",
@@ -11,6 +11,48 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.makeuseof.com/what-anthropics-ai-worm-warning-means-for-smart-home-devices/",
+      "title": "What Anthropic’s AI worm warning means for smart home devices",
+      "published": "2026-10-27T17:00:17+00:00",
+      "author": "Chris Hachey",
+      "description": "Make sure you understand how your smart home is set up.",
+      "link": "https://www.makeuseof.com/what-anthropics-ai-worm-warning-means-for-smart-home-devices/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/07/samsung-home-1.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/am-i-crazy-or-are-google-pixel-cameras-getting-worse/",
+      "title": "Am I crazy, or are Google Pixel cameras getting worse?",
+      "published": "2026-10-27T17:00:15+00:00",
+      "author": "Arol Wright",
+      "description": "Tell me I'm not the only one.",
+      "link": "https://www.howtogeek.com/am-i-crazy-or-are-google-pixel-cameras-getting-worse/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/08/pixel-11-pro-xl-camera-closeup.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/windows-11-is-finally-giving-you-more-control-over-which-apps-can-access-your-camera-and-microphone/",
+      "title": "Windows 11 is finally giving you more control over which apps can access your camera and microphone",
+      "published": "2026-10-27T16:43:56+00:00",
+      "author": "Viraj Gawde",
+      "description": "Easier to manage your privacy without blocking access for every app on your PC.",
+      "link": "https://www.howtogeek.com/windows-11-is-finally-giving-you-more-control-over-which-apps-can-access-your-camera-and-microphone/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/windows-11-laptop-with-the-windows-app-drawer-open-in-the-start-menu.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/best-fantasy-binge-amazon-prime-video-merlin/",
       "title": "The best fantasy binge I found on Prime Video wasn't made by Amazon",

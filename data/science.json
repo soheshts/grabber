@@ -1,7 +1,7 @@
 {
   "category": "science",
-  "updated": "2026-10-27T16:34:17.081309+00:00",
-  "count": 473,
+  "updated": "2026-10-27T17:03:43.282475+00:00",
+  "count": 476,
   "summary": {
     "text": "• Map of Life warns global biodiversity efforts must be stepped up to protect habitats and endangered species. A separate study finds high-ranking humans and chimpanzees both favor risk.\n• NASA's Perseverance rover measured ultrafine Martian dust clinging to spacesuit materials, offering clues to protect crews.\n• Earth may have formed much of its water as rocky pebbles reacted with its young hydrogen-rich atmosphere.\n• A Nanotyrannus skeleton was auctioned in New York for $47.3m, amid debate over private versus public display.",
     "generated_at": "2026-10-27T16:34:17.081309+00:00",
@@ -11,6 +11,76 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "news712315690",
+      "title": "Avian influenza threatens vulture populations worldwide",
+      "published": "2026-10-27T17:00:01+00:00",
+      "author": null,
+      "description": "Vultures are one of the most threatened groups of birds in the world. Currently, at least 16 of the 23 species of vulture are of conservation concern, largely as a result of poisoning and other threats due to human activity.",
+      "link": "https://phys.org/news/2026-10-avian-influenza-threatens-vulture-populations.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/vulture.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c3dxwjx7xpj0o#1",
+      "title": "Tiny zebra-striped bee in West a 'huge surprise'",
+      "published": "2026-10-27T16:50:13+00:00",
+      "author": null,
+      "description": "A zebra-striped bee is seen in Somerset for the first time, offering hope in restored saltmarshes.",
+      "link": "https://www.bbc.co.uk/news/articles/c3dxwjx7xpj0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf0f/live/507a4be0-d135-11f1-be77-d1864d279cb0.jpg",
+      "feed_name": "BBC News - Science & Environment",
+      "feed_title": "BBC News",
+      "category": "science",
+      "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c5vgj8xwyj1zo#0",
+      "title": "New weather warning as third storm hits Scotland",
+      "published": "2026-10-27T16:49:10+00:00",
+      "author": null,
+      "description": "The country is braced for the third storm in as many days as communities continue to clean up after the weekend.",
+      "link": "https://www.bbc.co.uk/news/articles/c5vgj8xwyj1zo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aba6/live/8eb52fa0-d14a-11f1-9eb5-811878e0f07d.jpg",
+      "feed_name": "BBC News - Science & Environment",
+      "feed_title": "BBC News",
+      "category": "science",
+      "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "news712307182",
+      "title": "Mapping the green transition of Asia-Pacific economies",
+      "published": "2026-10-27T16:40:10+00:00",
+      "author": null,
+      "description": "Countries in the Asia-Pacific can accelerate the shift to clean energy while building competitive local industries as long as policies don't slow access to affordable technologies, a new report has found.",
+      "link": "https://phys.org/news/2026-10-green-transition-asia-pacific-economies.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mapping-the-green-tran.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "news712315081",
+      "title": "Greenhouse gases hit record highs, yet again",
+      "published": "2026-10-27T16:40:04+00:00",
+      "author": null,
+      "description": "Levels of carbon dioxide (CO₂) and other major greenhouse gases in the atmosphere reached unprecedented highs in 2025, locking in more long-term warming for the planet, according to a new report from the World Meteorological Organization (WMO).",
+      "link": "https://phys.org/news/2026-10-greenhouse-gases-highs.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/greenhouse-gases-hit-r.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
     {
       "id": "news712307127",
       "title": "Map of Life: More progress needed to safeguard global biodiversity, new report finds",
@@ -262,20 +332,6 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c5vgj8xwyj1zo#0",
-      "title": "New weather warning as third storm hits Scotland",
-      "published": "2026-10-27T14:47:08+00:00",
-      "author": null,
-      "description": "The country is braced for the third storm in as many days as communities continue to clean up after the weekend.",
-      "link": "https://www.bbc.co.uk/news/articles/c5vgj8xwyj1zo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aba6/live/8eb52fa0-d14a-11f1-9eb5-811878e0f07d.jpg",
-      "feed_name": "BBC News - Science & Environment",
-      "feed_title": "BBC News",
-      "category": "science",
-      "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "https://www.nytimes.com/2026/10/27/us/jodi-dinosaur-skeleton-auction-sothebys.html",
@@ -1004,20 +1060,6 @@
       "category": "science",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c3dxwjx7xpj0o#1",
-      "title": "Tiny zebra-striped bee in West a 'huge surprise'",
-      "published": "2026-10-27T06:20:58+00:00",
-      "author": null,
-      "description": "A zebra-striped bee is seen in Somerset for the first time, offering hope in restored saltmarshes.",
-      "link": "https://www.bbc.co.uk/news/articles/c3dxwjx7xpj0o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf0f/live/507a4be0-d135-11f1-be77-d1864d279cb0.jpg",
-      "feed_name": "BBC News - Science & Environment",
-      "feed_title": "BBC News",
-      "category": "science",
-      "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "news712211383",
