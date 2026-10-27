@@ -1,9 +1,44 @@
 {
   "category": "DIY",
-  "updated": "2026-10-27T14:03:47.548530+00:00",
-  "count": 188,
-  "summary": null,
+  "updated": "2026-10-27T14:33:35.979443+00:00",
+  "count": 190,
+  "summary": {
+    "text": "• Gemini can read Gmail messages you haven't opened yet. A MUO guide explains how to keep it out of your inbox and what you give up by doing so.\n• A How-To Geek writer switched to a Linux web browser as their daily default after months of use.\n• How-To Geek lists six affordable Harbor Freight mechanics tools worth keeping in your car trunk.",
+    "generated_at": "2026-10-27T14:33:35.979443+00:00",
+    "window_minutes": 60,
+    "item_count": 3,
+    "key": "b20345b710943d67bb05a5a8ce5f3e6529a9bbdf",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "https://www.makeuseof.com/checked-how-much-gmail-access-gemini-had-changed-these-settings/",
+      "title": "I checked how much Gmail access I'd given Gemini and changed these settings",
+      "published": "2026-10-27T14:30:17+00:00",
+      "author": "Judy Sanhz",
+      "description": "Gemini can read emails you haven't even opened yet. Here's how to keep it out of your inbox, and what you'll give up if you do.",
+      "link": "https://www.makeuseof.com/checked-how-much-gmail-access-gemini-had-changed-these-settings/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/09/gmail-storage-feature-final.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/i-finally-tried-the-best-linux-web-browser-and-its-my-new-default/",
+      "title": "I finally tried the best Linux web browser, and it’s my new default",
+      "published": "2026-10-27T14:30:16+00:00",
+      "author": "Dibakar Ghosh",
+      "description": "The Linux community has been buzzing about this browser for a while — and after months of daily use, I finally get why.",
+      "link": "https://www.howtogeek.com/i-finally-tried-the-best-linux-web-browser-and-its-my-new-default/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/a-desktop-monitor-with-ubuntu-running-and-zen-browser-open-inside-it-with-three-websites-open-in-split-view-mode.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/harbor-freight-mechanics-tools-i-always-keep-in-my-cars-trunk/",
       "title": "6 Harbor Freight mechanics tools I always keep in my car’s trunk",

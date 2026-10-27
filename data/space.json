@@ -1,8 +1,15 @@
 {
   "category": "space",
-  "updated": "2026-10-27T14:03:47.548530+00:00",
+  "updated": "2026-10-27T14:33:35.979443+00:00",
   "count": 112,
-  "summary": null,
+  "summary": {
+    "text": "• On Oct. 27, 1961, NASA launched the first test flight of its Saturn I rocket from Florida, setting the stage for the Saturn V moon rocket.\n• Space.com's \"On this day in space\" feature explains why that Saturn I launch mattered.\n• Space.com's space photo of the day for Oct. 27, 2026 shows rover tracks on Mars left by NASA's Perseverance rover during a historic drive.",
+    "generated_at": "2026-10-27T14:33:35.979443+00:00",
+    "window_minutes": 60,
+    "item_count": 2,
+    "key": "5d0f94f53d49499c76a75f6f24140cdab5832ac7",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
     {
       "id": "qV2bLqfwQuvn2seAgURFJS",

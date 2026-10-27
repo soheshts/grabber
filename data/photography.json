@@ -1,9 +1,44 @@
 {
   "category": "photography",
-  "updated": "2026-10-27T14:03:47.548530+00:00",
-  "count": 76,
-  "summary": null,
+  "updated": "2026-10-27T14:33:35.979443+00:00",
+  "count": 78,
+  "summary": {
+    "text": "• Apple's Creator Studio, its answer to Adobe's Creative Cloud, received what Apple calls its most exciting update, with major improvements including to Final Cut Pro.\n• Apple's new colorful iMac is out, powered by the M6 chip. The iMac family dates back to 1998.\n• A soccer club backed down after asking photographers to stop wearing revealing outfits and leggings, after a prominent female sports photographer felt targeted.",
+    "generated_at": "2026-10-27T14:33:35.979443+00:00",
+    "window_minutes": 60,
+    "item_count": 3,
+    "key": "1c503085c426cc308697be6550eb82eff23826a8",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "https://petapixel.com/?p=889605",
+      "title": "Apple Creator Studio Update Brings Massive Final Cut Pro Improvements",
+      "published": "2026-10-27T14:11:17+00:00",
+      "author": "Jeremy Gray",
+      "description": "Apple's answer to Adobe's Creative Cloud, Creator Studio, has received what Apple calls its most exciting update yet. There are major improvements across the board, including to Final Cut Pro and Pixelmator Pro. [ Read More ]",
+      "link": "https://petapixel.com/2026/10/27/apple-creator-studio-update-brings-massive-final-cut-pro-improvements/",
+      "image": "https://petapixel.com/assets/uploads/2026/10/creator-studio-update-featured.jpg",
+      "feed_name": "PetaPixel",
+      "feed_title": "PetaPixel",
+      "category": "photography",
+      "feed_url": "https://petapixel.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=petapixel.com&sz=64"
+    },
+    {
+      "id": "https://petapixel.com/?p=889529",
+      "title": "Soccer Club Backtracks After Telling Photographers to Stop Wearing Revealing Outfits at Stadium",
+      "published": "2026-10-27T14:07:23+00:00",
+      "author": "Pesala Bandara",
+      "description": "A soccer club has been forced to back down after a prominent female sports photographer felt targeted by its request that photographers stop wearing revealing outfits and leggings. [ Read More ]",
+      "link": "https://petapixel.com/2026/10/27/soccer-club-backtracks-after-telling-photographers-to-stop-wearing-revealing-outfits-at-stadium/",
+      "image": "https://petapixel.com/assets/uploads/2026/10/3-soccer-club-photographer.jpg",
+      "feed_name": "PetaPixel",
+      "feed_title": "PetaPixel",
+      "category": "photography",
+      "feed_url": "https://petapixel.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=petapixel.com&sz=64"
+    },
     {
       "id": "https://petapixel.com/?p=889584",
       "title": "Apple’s Very Colorful iMac Gets the M6 Treatment",

@@ -1,8 +1,15 @@
 {
   "category": "travel",
-  "updated": "2026-10-27T14:03:47.548530+00:00",
+  "updated": "2026-10-27T14:33:35.979443+00:00",
   "count": 67,
-  "summary": null,
+  "summary": {
+    "text": "• Atlas Obscura features the Melvin-Lewis Pioneer Cemetery in Aurora, Colorado.\n• The small cemetery sits behind a Chick-fil-A, on a roughly 200 by 120 foot patch of grass.\n• A wrought iron fence borders the site, which holds the remains of early settlers and, per the excerpt, the ashes of others.",
+    "generated_at": "2026-10-27T14:33:35.979443+00:00",
+    "window_minutes": 60,
+    "item_count": 1,
+    "key": "db77d43c1551867824e0a4e4ed144a81197dbe39",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
     {
       "id": "https://www.atlasobscura.com/places/melvin-lewis-pioneer-cemetery",
