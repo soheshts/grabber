@@ -1,16 +1,30 @@
 {
   "category": "DIY",
-  "updated": "2026-10-27T21:33:12.522645+00:00",
-  "count": 224,
+  "updated": "2026-10-27T22:03:42.130140+00:00",
+  "count": 225,
   "summary": {
-    "text": "• Apple Maps won over a long-time Google Maps user in the car, and he now defaults to it.\n• Five legendary console games now have unofficial Android ports for playing on phones.\n• A How-To Geek piece argues occasional Plex transcoding can save time over repeated HandBrake sessions, and shares server tricks.",
-    "generated_at": "2026-10-27T21:03:44.062625+00:00",
+    "text": "• How-To Geek covers four Netflix reboots that honor their originals instead of feeling like cash grabs.\n• A second How-To Geek piece looks at four PC ports that outlived their inventors and still persist.\n• Both items are from How-To Geek, and neither is a practical DIY guide.",
+    "generated_at": "2026-10-27T22:03:42.130140+00:00",
     "window_minutes": 60,
-    "item_count": 3,
-    "key": "1058b27d4fdf81a6e842967ae8b597bd90dc7fa7",
+    "item_count": 2,
+    "key": "f3c815418a728e0551752c616e0df0e0548ac084",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.howtogeek.com/netflix-reboots-do-originals-justice/",
+      "title": "4 Netflix reboots that honor the originals instead of just feeling like a cash grab",
+      "published": "2026-10-27T22:00:15+00:00",
+      "author": "Tyler Dupont",
+      "description": "Some reboots get it right, and these are proof.",
+      "link": "https://www.howtogeek.com/netflix-reboots-do-originals-justice/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/09/netflix-logo-over-a-mountain-sunset-1.png",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/these-4-pc-hardware-ports-are-so-irreplaceable-that-they-outlived-their-inventors/",
       "title": "4 PC ports that outlived their inventors and still refuse to die",

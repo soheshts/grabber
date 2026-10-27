@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-10-27T21:33:12.522645+00:00",
-  "count": 423,
+  "updated": "2026-10-27T22:03:42.130140+00:00",
+  "count": 424,
   "summary": null,
   "items": [
     {
@@ -101,6 +101,20 @@
       "category": "personal blogs",
       "feed_url": "http://www.bennadel.com/index.cfm?dax=blog.rss&lst_tag_id=14,16,3,5,9,6,7,13,18,20,10,15",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.bennadel.com&sz=64"
+    },
+    {
+      "id": "https://www.mikestreety.co.uk/blog/rolling-out-a-self-hosted-infisical/",
+      "title": "Rolling out a self-hosted Infisical",
+      "published": "2026-10-27T00:00:00+00:00",
+      "author": null,
+      "description": "Back in July I compared Bitwarden Secrets Manager to Infisical [https://www.mikestreety.co.uk/blog/comparing-bitwarden-secrets-manager-to-infisical/]. Since then we've been running a self-hosted version of Infisical which, after a bit of setup, has been quietly providing our secrets ever since. Before committing to anything, we had a couple of requirements for whatever secrets manager we picked: * It shouldn't add mountains of setup or extra commands for our developers * Client servers shouldn'…",
+      "link": "https://www.mikestreety.co.uk/blog/rolling-out-a-self-hosted-infisical/",
+      "image": "https://www.mikestreety.co.uk/assets/img/og/blog-rolling-out-a-self-hosted-infisical.png",
+      "feed_name": "Mike Street's Blog",
+      "feed_title": "Mike Street's Blog",
+      "category": "personal blogs",
+      "feed_url": "https://www.mikestreety.co.uk/rss",
+      "feed_icon": "https://www.mikestreety.co.uk/assets/img/favicon-512.png"
     },
     {
       "id": "https://meiert.com/blog/ntrnllnk-wordpress-linking/",

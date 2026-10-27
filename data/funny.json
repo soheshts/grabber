@@ -1,16 +1,30 @@
 {
   "category": "funny",
-  "updated": "2026-10-27T21:33:12.522645+00:00",
-  "count": 183,
+  "updated": "2026-10-27T22:03:42.130140+00:00",
+  "count": 184,
   "summary": {
-    "text": "• The Onion reports that Japan passed unpopular revisions to imperial succession, allowing only males to become emperor.\n• The change reportedly excludes Princess Aiko, who is described as popular, from becoming empress.\n• The item comes from The Onion, a satirical outlet, and the excerpt is cut off, so details are limited.",
-    "generated_at": "2026-10-27T21:33:12.522645+00:00",
+    "text": "• A FAIL Blog post describes a 21-year-old sister who refuses to buy her older brother a Christmas gift after he gave her no birthday card, though he earns 5K a month and says he hates presents.\n• The post's author asks why some people care about gifts only when receiving them, and says they side with the sister.\n• The Onion reports that Japan passed deeply unpopular imperial succession revisions allowing only males to become emperor, which bars Princess Aiko from becoming empress.",
+    "generated_at": "2026-10-27T22:03:42.130140+00:00",
     "window_minutes": 60,
-    "item_count": 1,
-    "key": "912862c3fa6498f8148c9c8a045eedb58417d580",
+    "item_count": 2,
+    "key": "e6df01c72f5ff6652f1da6cfd39512a6ce912101",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://cheezburger.com/47220997/21-year-old-sister-refuses-to-buy-older-brother-a-christmas-gift-after-he-doesnt-even-get-her-a-card",
+      "title": "21-year-old sister refuses to buy older brother a Christmas gift after he doesn't even get her a card for her birthday despite earning 5K a month: 'He said he hates presents so I don't see the problem'",
+      "published": "2026-10-27T21:15:00+00:00",
+      "author": "Celeste Mello",
+      "description": "Why do some people only care about gifts when they're receiving them, but not when it's their turn to give one? I'm on the sister's side here. We're ALL on the sister 's side. I would be hurt if my brother didn't even get me a birthday card and then even dare to expect me to shop from his Christmas wish list. Oh, I see his objections to presents come with seasonal exceptions. That must be convenient, right? And no, having a birthday doesn't entitle me to an expensive present. But it is a day wh…",
+      "link": "https://cheezburger.com/47220997/21-year-old-sister-refuses-to-buy-older-brother-a-christmas-gift-after-he-doesnt-even-get-her-a-card",
+      "image": "https://i.chzbgr.com/thumb-large/47220997/h3ED099AC/for-her-birthday-despite-earning-5k-a-month-he-said-he-hates-presents-so-i-dont-see-the-problem",
+      "feed_name": "FAIL Blog",
+      "feed_title": "FAIL Blog",
+      "category": "funny",
+      "feed_url": "http://feeds.feedburner.com/failblog",
+      "feed_icon": "https://i.chzbgr.com/s/unversioned/images/logos/FailBlog_ol.png"
+    },
     {
       "id": "https://theonion.com/?p=1851709750",
       "title": "Japan Enshrines Male-Only Imperial Succession",
