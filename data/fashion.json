@@ -1,7 +1,7 @@
 {
   "category": "fashion",
-  "updated": "2026-10-27T17:33:30.554562+00:00",
-  "count": 221,
+  "updated": "2026-10-27T18:03:28.533577+00:00",
+  "count": 225,
   "summary": {
     "text": "• Amy Winehouse's personal style is getting renewed attention 20 years after her Back to Black album, with ELLE remembering the late singer's look.\n• Skims launched its holiday shop, with Kim Kardashian and her sisters featuring limited-edition styles and gifts in the campaign.\n• At the Plaza Hotel on Monday night, cast members from HBO's \"The Gilded Age\" attended a party with food and portrait sketches.\n• The New York Times examines \"true vintage\" clothing, noting it can be expensive and trend-driven but still delights shoppers.",
     "generated_at": "2026-10-27T17:33:30.554562+00:00",
@@ -11,6 +11,76 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "http://www.elle.com/fashion/shopping/a74244158/best-half-moon-bags-trend/",
+      "title": "Half-Moon Bags Are the Polished Accessory Trend to Shop Now",
+      "published": "2026-10-27T18:00:00+00:00",
+      "author": null,
+      "description": "From luxe leather to cozy suede, these curved bags work for day or night.",
+      "link": "https://www.elle.com/fashion/shopping/a74244158/best-half-moon-bags-trend/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/38db36bf-fa4b-4bdb-a139-16ec4dea9a89.jpg?crop=1xw:0.333xh;0xw,0.464xh&resize=1200:*",
+      "feed_name": "Fashion - ELLE",
+      "feed_title": "Fashion - ELLE",
+      "category": "fashion",
+      "feed_url": "https://www.elle.com/rss/fashion.xml/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.elle.com&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/27/style/taylor-swift-wedding-photos-daily-mail.html",
+      "title": "“Leaked” Photos From Taylor Swift Wedding Don’t Reveal Much",
+      "published": "2026-10-27T17:58:30+00:00",
+      "author": "Alisha Haridasani Gupta",
+      "description": "Complete secrecy is the new luxury.",
+      "link": "https://www.nytimes.com/2026/10/27/style/taylor-swift-wedding-photos-daily-mail.html",
+      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27st-swiftwed-gcmt/27st-swiftwed-gcmt-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Style",
+      "feed_title": "NYT > Style",
+      "category": "fashion",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "4Quf2vWGY3bGpMqoiWQ7oA",
+      "title": "I'm a Shopping Director—These New Items From Free People Will Make You Look Chic",
+      "published": "2026-10-27T17:54:49+00:00",
+      "author": "Bobby Schuessler",
+      "description": "This trench, though.",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-fashion-free-people-2026",
+      "image": "https://cdn.mos.cms.futurecdn.net/oT6rdAgD8pbFrcZ6fMtfhN-1920-80.jpg",
+      "feed_name": "Who What Wear",
+      "feed_title": "Latest from Who What Wear",
+      "category": "fashion",
+      "feed_url": "https://www.whowhatwear.com/rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.whowhatwear.com&sz=64"
+    },
+    {
+      "id": "http://www.elle.com/fashion/shopping/a74193411/tory-burch-bunny-knot-bag/",
+      "title": "Tory Burch’s New Bunny Knot Bag Makes a Case for the Modern Heirloom",
+      "published": "2026-10-27T17:39:33+00:00",
+      "author": null,
+      "description": "Meet the season’s most sought-after purse.",
+      "link": "https://www.elle.com/fashion/shopping/a74193411/tory-burch-bunny-knot-bag/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/9424b21c-428e-4ab0-b159-7b901424fd51.jpg?crop=1xw:0.888xh;0xw,0.023xh&resize=1200:*",
+      "feed_name": "Fashion - ELLE",
+      "feed_title": "Fashion - ELLE",
+      "category": "fashion",
+      "feed_url": "https://www.elle.com/rss/fashion.xml/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.elle.com&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/26/style/jonathan-van-meter-kim-kardashian-book.html",
+      "title": "Why Kim Kardashian and Oprah Trust Him With Their Secrets",
+      "published": "2026-10-27T17:37:00+00:00",
+      "author": "Katie Rogers",
+      "description": "Jonathan Van Meter has a new book out on Kardashian. She is just one of the world’s most famous women who have confided in him.",
+      "link": "https://www.nytimes.com/2026/10/26/style/jonathan-van-meter-kim-kardashian-book.html",
+      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26ST-VAN-METER-1-tkzm/26ST-VAN-METER-1-tkzm-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Style",
+      "feed_title": "NYT > Style",
+      "category": "fashion",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "http://www.elle.com/fashion/celebrity-style/a74252039/amy-winehouse-back-to-black-20th-anniversary-fashion/",
       "title": "20 Years Later, Amy Winehouse’s Personal Style Is More Important Than Ever",
@@ -122,20 +192,6 @@
       "category": "fashion",
       "feed_url": "https://www.whowhatwear.com/rss",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.whowhatwear.com&sz=64"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/10/26/style/jonathan-van-meter-kim-kardashian-book.html",
-      "title": "The Why Kim Kardashian and Oprah Trust Him With Their Secrets",
-      "published": "2026-10-27T15:31:53+00:00",
-      "author": "Katie Rogers",
-      "description": "Jonathan Van Meter has a new book out on Kardashian. She is just one of the world’s most famous women who have confided in him.",
-      "link": "https://www.nytimes.com/2026/10/26/style/jonathan-van-meter-kim-kardashian-book.html",
-      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26ST-VAN-METER-1-tkzm/26ST-VAN-METER-1-tkzm-mediumSquareAt3X.jpg",
-      "feed_name": "NYT > Style",
-      "feed_title": "NYT > Style",
-      "category": "fashion",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://www.nytimes.com/2026/10/24/style/drivers-license-gen-z-teens-learners-permit.html",
@@ -1427,7 +1483,7 @@
     },
     {
       "id": "https://www.nytimes.com/2026/10/25/style/glp-1-weight-loss-wardrobe-shopping.html",
-      "title": "They Lost Weight on GLP-1s. Shopping For New Clothes Was Another Journey",
+      "title": "They Lost Weight on GLP-1s. Shopping for New Clothes Was Another Journey",
       "published": "2026-10-25T09:00:10+00:00",
       "author": "Yola Mzizi",
       "description": "These GLP-1 users knew they would eventually have to buy new clothing. Many did not expect that the retail experience would elicit an identity crisis.",

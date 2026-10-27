@@ -1,7 +1,7 @@
 {
   "category": "gaming",
-  "updated": "2026-10-27T17:33:30.554562+00:00",
-  "count": 482,
+  "updated": "2026-10-27T18:03:28.533577+00:00",
+  "count": 488,
   "summary": {
     "text": "• World of Warcraft Forever launches November 4. Blizzard detailed its Skyborne design, update plans, and future content tied to vanilla continents.\n• Kingdom Come: Deliverance developer Warhorse Studios confirmed a \"serious\" cyberattack and is assessing its full extent.\n• Fire Emblem: Fortune's Weave datamining revealed cut paired endings, including one for Leda and Bertrand.\n• Assassin's Creed IV: Black Flag Resynced's final patch adds a harder New Game+.\n• A South Korean politician urged the president to play Modern Warfare 4 to understand invasion devastation.",
     "generated_at": "2026-10-27T17:33:30.554562+00:00",
@@ -11,6 +11,76 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://kotaku.com/?p=2000750182",
+      "title": "Shelley Duvall Is Still Horror Gaming’s Scream Queen",
+      "published": "2026-10-27T18:00:10+00:00",
+      "author": "Ashley Bardhan",
+      "description": "The queen of the Overlook Hotel looks on",
+      "link": "https://kotaku.com/shelley-duvall-is-still-horror-gamings-scream-queen-2000750182",
+      "image": "https://kotaku.com/app/uploads/2026/10/Anya.jpg",
+      "feed_name": "Kotaku",
+      "feed_title": "Kotaku",
+      "category": "gaming",
+      "feed_url": "https://kotaku.com/rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=kotaku.com&sz=64"
+    },
+    {
+      "id": "https://news.xbox.com/en-us/?p=227686",
+      "title": "Play One of the Highest-Rated Call of Duty Games Ever Today",
+      "published": "2026-10-27T18:00:00+00:00",
+      "author": "Mike Nelson, XBOX Wire Editor",
+      "description": "The post Play One of the Highest-Rated Call of Duty Games Ever Today appeared first on XBOX Wire .",
+      "link": "https://news.xbox.com/en-us/2026/10/27/play-one-of-the-highest-rated-call-of-duty-games-ever-today/",
+      "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/HVk8eKDa8AAfh3U-4b99ce53fff453b2faa3.jpg",
+      "feed_name": "Xbox's Major Nelson",
+      "feed_title": "XBOX Wire",
+      "category": "gaming",
+      "feed_url": "https://majornelson.com/feed/",
+      "feed_icon": "https://xboxwire.thesourcemediaassets.com/sites/2/2019/12/Nexus_GRN_on_WHT2.png"
+    },
+    {
+      "id": "https://www.polygon.com/mw4-modern-warfare-4-dmz-tips-best/",
+      "title": "8 MW4 DMZ beginner's tips to help you conquer Hajin",
+      "published": "2026-10-27T17:55:36+00:00",
+      "author": "Ford James",
+      "description": "A guide full of tips and tricks for players looking to succeed in Modern Warfare 4's DMZ mode.",
+      "link": "https://www.polygon.com/mw4-modern-warfare-4-dmz-tips-best/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/modern-warfare-4-dmz-tips-header.jpg",
+      "feed_name": "Polygon -  All",
+      "feed_title": "Polygon.com",
+      "category": "gaming",
+      "feed_url": "https://www.polygon.com/rss/index.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.polygon.com&sz=64"
+    },
+    {
+      "id": "https://www.polygon.com/dune-part-3-final-trailer-book-changes/",
+      "title": "Dune: Part 3 Final Trailer Reveals Key Change From the Books",
+      "published": "2026-10-27T17:35:38+00:00",
+      "author": "Elijah Gonzalez",
+      "description": "'Dune: Part 3' just got a new trailer that teases Chani's more crucial role compared to the book.",
+      "link": "https://www.polygon.com/dune-part-3-final-trailer-book-changes/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/chani-dune-part-3.jpg",
+      "feed_name": "Polygon -  All",
+      "feed_title": "Polygon.com",
+      "category": "gaming",
+      "feed_url": "https://www.polygon.com/rss/index.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.polygon.com&sz=64"
+    },
+    {
+      "id": "1936310",
+      "title": "World of Warcraft: Forever – “WARPATH” AMV Launch Trailer",
+      "published": "2026-10-27T17:33:29+00:00",
+      "author": "Ben Janca",
+      "description": "Alliance. Horde. War. Rally your party and brave the wilds of World of Warcraft: Forever on Nov 4 with a WoW Subscription or game time. Made in partnership with Brunch Studio. “End of You” Performed by Poppy, Amy Lee, Courtney LaPlante Courtesy of Sumerian Records Under license from Virgin Music Group",
+      "link": "https://www.gamespot.com/videos/world-of-warcraft-forever-warpath-amv-launch-trailer/",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/10/11_71ed16.jpg?w=300",
+      "feed_name": "GameSpot - All Content",
+      "feed_title": "GameSpot - All Content",
+      "category": "gaming",
+      "feed_url": "https://www.gamespot.com/feeds/mashup/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.gamespot.com&sz=64"
+    },
     {
       "id": "https://kotaku.com/?p=2000750202",
       "title": "There’s No Way Your Video Game Halloween Costume Is As Good As This",
@@ -38,6 +108,20 @@
       "category": "gaming",
       "feed_url": "https://www.polygon.com/rss/index.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.polygon.com&sz=64"
+    },
+    {
+      "id": "1936273",
+      "title": "Elden Ring Movie Might Be Extremely Long, And It Could Have Twitch Integration Eventually",
+      "published": "2026-10-27T17:25:46+00:00",
+      "author": "Eddie Makuch",
+      "description": "New details have come to light about A24's Elden Ring movie, including how Amazon could be involved and its beefy runtime. According to Deadline , Amazon MGM is buying up the Elden Ring movie's Pay-1 streaming rights for numerous international markets in a deal potentially worth \"tens of millions of dollars.\" The site reported that there could be \"interesting activations\" on Amazon's Twitch platform as part of the deal. A Pay-1 rights deal means the company gets exclusive rights to broadcast a…",
+      "link": "https://www.gamespot.com/articles/elden-ring-movie-might-be-extremely-long-and-it-could-have-twitch-integration-eventually/",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/10/ER.jpg?w=300",
+      "feed_name": "GameSpot - All Content",
+      "feed_title": "GameSpot - All Content",
+      "category": "gaming",
+      "feed_url": "https://www.gamespot.com/feeds/mashup/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.gamespot.com&sz=64"
     },
     {
       "id": "https://www.polygon.com/wow-forever-making-of-interview/",

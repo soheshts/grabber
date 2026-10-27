@@ -1,7 +1,7 @@
 {
   "category": "DIY",
-  "updated": "2026-10-27T17:33:30.554562+00:00",
-  "count": 206,
+  "updated": "2026-10-27T18:03:28.533577+00:00",
+  "count": 209,
   "summary": {
     "text": "• PC hardware: AMD says filling every RAM slot on a motherboard may not be a good idea.\n• Dual booting: Common beginner mistakes can turn a Linux and Windows setup into an ongoing headache.\n• Smart home: An Anthropic AI worm warning raises questions about how smart home devices are set up.\n• Google Pixel: A columnist asks whether Pixel camera quality is getting worse.\n• Windows 11: New controls let users manage which apps can access the camera and microphone without blocking all apps.",
     "generated_at": "2026-10-27T17:33:30.554562+00:00",
@@ -11,6 +11,34 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.makeuseof.com/android-background-process-limit-setting/",
+      "title": "Your Android is running background tasks you never approved and this one setting kills them",
+      "published": "2026-10-27T18:00:16+00:00",
+      "author": "Digvijay Kumar",
+      "description": "Your phone is busy even when you’re not.",
+      "link": "https://www.makeuseof.com/android-background-process-limit-setting/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/samsung-phone-showing-battery-usage-graph.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/small-kitchen-tvs-dont-exist-anymore-so-i-built-one-myself/",
+      "title": "Small kitchen TVs don't exist anymore, so I built one myself",
+      "published": "2026-10-27T18:00:15+00:00",
+      "author": "Nate Pangaro",
+      "description": "A DIY tiny TV brings kitchen counter nostalgia back to life with a modern monitor and hidden streaming stick.",
+      "link": "https://www.howtogeek.com/small-kitchen-tvs-dont-exist-anymore-so-i-built-one-myself/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/img_5338.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/filling-all-ram-slots-cut-speeds-amd/",
       "title": "Your empty RAM slots aren’t an invitation to fill them, according to AMD",
@@ -38,6 +66,20 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://hackaday.com/?p=1393991",
+      "title": "Where Did Your Mouse Come From?",
+      "published": "2026-10-27T17:00:23+00:00",
+      "author": "Jenny List",
+      "description": "Many readers will be familiar with Douglas Englebart’s 1968 so-called “Mother of All Demos”, in which he described many of the devices and technologies we would be using two or …read more",
+      "link": "https://hackaday.com/2026/10/27/where-did-your-mouse-come-from/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/10/mouse-history-featured.jpg",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
     },
     {
       "id": "https://www.makeuseof.com/what-anthropics-ai-worm-warning-means-for-smart-home-devices/",

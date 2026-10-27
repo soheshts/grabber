@@ -1,7 +1,7 @@
 {
   "category": "technology",
-  "updated": "2026-10-27T17:33:30.554562+00:00",
-  "count": 690,
+  "updated": "2026-10-27T18:03:28.533577+00:00",
+  "count": 696,
   "summary": {
     "text": "• AI: Anthropic faces scrutiny over balancing its IPO with its safety mission, while Oracle will offer Cerebras AI computers from 2027.\n• Legal: A New Mexico ruling against Meta followed a $17 billion settlement, and a cybersecurity CEO was indicted for allegedly scamming ransomware victims.\n• Gaming and film: Pokémon Unite shuts down in March 2027, and Dune: Part Three's final trailer is out.\n• Devices: Apple raised iPad and Mac trade-in values, and the FCC is reportedly targeting Minions routers.",
     "generated_at": "2026-10-27T17:33:30.554562+00:00",
@@ -11,6 +11,34 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "yt:video:DZSYaQmxBLM",
+      "title": "Pros Try AI-Cloned Engineering Tools",
+      "published": "2026-10-27T17:56:58+00:00",
+      "author": "Linus Tech Tips",
+      "description": "Choose the LTT collab Carpio wrist rest that suits your needs at: https://go.deltahub.io/carpio-ltt First the vibe-coders came for Adobe - the subscription everyone wishes they could ditch - but our team wasn't too impressed. But the plague of subscription software isn’t just limited to graphics. Will Vibe-Coded engineering apps impress our team? Discuss on the forum: https://linustechtips.com/topic/1643989-pros-try-ai-cloned-engineering-tools/ We tried Version 0.16.2 of SolidCraft, and an un-n…",
+      "link": "https://www.youtube.com/watch?v=DZSYaQmxBLM",
+      "image": "https://i1.ytimg.com/vi/DZSYaQmxBLM/hqdefault.jpg",
+      "feed_name": "Linus Tech Tips",
+      "feed_title": "Linus Tech Tips",
+      "category": "technology",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?user=LinusTechTips",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64"
+    },
+    {
+      "id": "caee738c-c3c7-11f0-8340-9f65b8fe20d0",
+      "title": "Inside the early days of the AI revolution",
+      "published": "2026-10-27T17:32:00+00:00",
+      "author": "The Verge",
+      "description": "Kevin Roose's new book, The AGI Chronicles, tells the story of the AI revolution. He joins the show to explain its earliest beginnings: the researchers who discovered what language models could do, the people who debated whether humans or computers should are more special, and the executives who started the companies that currently rule our economy. What do they want, and what are they building? Further reading: Kevin Roose is AGI-pilled. Why aren’t you? Machine Gods The AGI Chronicles Apple re…",
+      "link": null,
+      "image": null,
+      "feed_name": "The Vergecast",
+      "feed_title": "The Vergecast",
+      "category": "technology",
+      "feed_url": "https://feeds.megaphone.fm/vergecast",
+      "feed_icon": "https://megaphone.imgix.net/podcasts/e4c412e6-e1f0-11e8-9bde-83f9d376f059/image/fa367fa8b1b6ca01fc4b8c34d83ba4d8.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
     {
       "id": "https://www.theverge.com/?p=1017064",
       "title": "VisionQuest is what happens when AI really goes rogue",
@@ -24,6 +52,20 @@
       "category": "technology",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
+    },
+    {
+      "id": "TheNextWeb=ee445365f5f87ac6a6017afd9411a04a",
+      "title": "Whop raises $200M at $5.1B valuation after shipping three products in three months",
+      "published": "2026-10-27T17:29:37+00:00",
+      "author": "Veronika Furs",
+      "description": "Palo Alto-based Whop has closed a $200 million Series D led by Sequoia Capital and Shopify Ventures at a $5.1 billion valuation, and plans to open offices in Europe and Colombia, Bloomberg reported. 2The company said the capital will fund its expansion abroad and research into payments and advertising. Tether invested $200 million in Whop […] This story continues at The Next Web",
+      "link": "https://thenextweb.com/news/whop-200m-series-d-5-1b-valuation-sequoia",
+      "image": "https://media.thenextweb.com/2026/10/whop-trillionaire-billboard-new-york-street.avif",
+      "feed_name": "The Next Web",
+      "feed_title": "The Next Web",
+      "category": "technology",
+      "feed_url": "https://thenextweb.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
     },
     {
       "id": "02nLc6wmPlhFkwAYQOu8U3z",
@@ -208,6 +250,20 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
     },
     {
+      "id": "https://arstechnica.com/cars/2026/10/ford-builds-bidrectional-charging-into-its-30k-electric-truck/",
+      "title": "Ford simplifies using your EV as a home battery with the $30K Fathom",
+      "published": "2026-10-27T16:17:58+00:00",
+      "author": "Jonathan M. Gitlin",
+      "description": "The Fathom pickup won’t need a wall-mounted inverter to output 10 kW to your house.",
+      "link": "https://arstechnica.com/cars/2026/10/ford-builds-bidrectional-charging-into-its-30k-electric-truck/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/UEV_Ebox_1-500x500.jpg",
+      "feed_name": "Ars Technica",
+      "feed_title": "Ars Technica - All content",
+      "category": "technology",
+      "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
+      "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
+    },
+    {
       "id": "07E98Frc7IBRchTVKQK7mom",
       "title": "Teenage girl gift ideas that are actually unique",
       "published": "2026-10-27T16:15:32+00:00",
@@ -306,6 +362,20 @@
       "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
     },
     {
+      "id": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/",
+      "title": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
+      "published": "2026-10-27T16:00:22+00:00",
+      "author": "Ryan Whitwam",
+      "description": "Genie 4 will roll out to developers and Google AI Ultra subscribers soon.",
+      "link": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/vlcsnap-2026-10-27-10h06m52s461-500x500.png",
+      "feed_name": "Ars Technica",
+      "feed_title": "Ars Technica - All content",
+      "category": "technology",
+      "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
+      "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
+    },
+    {
       "id": "https://www.theverge.com/?p=1019076",
       "title": "Google’s next Genie AI model generates more realistic experiences",
       "published": "2026-10-27T16:00:00+00:00",
@@ -360,6 +430,20 @@
       "category": "technology",
       "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
       "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
+    },
+    {
+      "id": "https://arstechnica.com/gadgets/2026/10/from-cheap-tool-to-premium-subscription-when-a-beloved-apps-price-skyrockets/",
+      "title": "From cheap tool to premium subscription: When a beloved app's price skyrockets",
+      "published": "2026-10-27T15:50:19+00:00",
+      "author": "Scharon Harding",
+      "description": "Huge price hikes force loyal users to reconsider their favorite apps.",
+      "link": "https://arstechnica.com/gadgets/2026/10/from-cheap-tool-to-premium-subscription-when-a-beloved-apps-price-skyrockets/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1321941710-500x500.jpg",
+      "feed_name": "Ars Technica",
+      "feed_title": "Ars Technica - All content",
+      "category": "technology",
+      "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
+      "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
     },
     {
       "id": "https://www.engadget.com/2284038/playstation-5-display-whos-speaking-party-voice-feature/",
@@ -993,10 +1077,10 @@
     },
     {
       "id": "https://arstechnica.com/science/2026/10/scientists-recreate-the-1600-year-old-recipe-of-lycurgus-cup/",
-      "title": "Sculpture recreates odd optical effects of famed Lycurgus Cup",
+      "title": "Sculpture re-creates odd optical effects of famed Lycurgus Cup",
       "published": "2026-10-27T13:32:35+00:00",
       "author": "Jennifer Ouellette",
-      "description": "University of Sheffield researchers figured out how to recreate the 1600-year-old glass recipe.",
+      "description": "University of Sheffield researchers figured out how to re-create the 1,600-year-old glass recipe.",
       "link": "https://arstechnica.com/science/2026/10/scientists-recreate-the-1600-year-old-recipe-of-lycurgus-cup/",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/lycurgusTOP-500x500.jpg",
       "feed_name": "Ars Technica",
