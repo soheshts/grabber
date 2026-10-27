@@ -1,14 +1,42 @@
 {
   "category": "science",
-  "updated": "2026-10-27T10:03:41.472544+00:00",
-  "count": 395,
+  "updated": "2026-10-27T10:32:42.643729+00:00",
+  "count": 397,
   "items": [
     {
+      "id": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo#0",
+      "title": "More high winds hit parts of UK as Storm Boelo clean-up continues",
+      "published": "2026-10-27T10:30:40+00:00",
+      "author": null,
+      "description": "A Met Office weather warning is in place for Scotland and Northern Ireland for much of Tuesday.",
+      "link": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fd9/live/430c9a00-d1d3-11f1-93e1-3b657b665bcf.jpg",
+      "feed_name": "BBC News - Science & Environment",
+      "feed_title": "BBC News",
+      "category": "science",
+      "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "news712299704",
+      "title": "El Niño watch: The impacts around the world this week",
+      "published": "2026-10-27T10:20:01+00:00",
+      "author": null,
+      "description": "The effects of El Niño are being felt globally, ranging from floods in Argentina to deadly fires in Peru and drought in French Guiana, and prompting a U.N. call for speedy action to face an unprecedented \"wrecking ball\" this year.",
+      "link": "https://phys.org/news/2026-10-el-nio-impacts-world-week-1.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/top-un-officials-celes.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
       "id": "news712297087",
-      "title": "India braces for Cyclone Arnab with evacuations",
+      "title": "India orders evacuations as Cyclone Arnab looms",
       "published": "2026-10-27T09:19:27+00:00",
       "author": null,
-      "description": "Indian authorities ordered evacuations in southwestern Andhra Pradesh ahead of a severe cyclone expected to make landfall by Wednesday, the national weather office said.",
+      "description": "Indian authorities ordered nearly 100,000 people to evacuate homes in Andhra Pradesh and Odisha ahead of a severe cyclone the national weather office expects to make landfall by Wednesday.",
       "link": "https://phys.org/news/2026-10-india-braces-cyclone-arnab-evacuations.html",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-vendor-selling-prawn.jpg",
       "feed_name": "Phys.org - latest science and technology news stories",
@@ -88,6 +116,20 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
     },
     {
+      "id": "38b7e19a-c64d-11f1-89c3-fba0f38e00e1",
+      "title": "Finding Nutrition Truth in a World of Myths [Sponsored]",
+      "published": "2026-10-27T08:00:00+00:00",
+      "author": "Scientific American",
+      "description": "From fearmongering about ingredients to misleading dietary trends, nutrition misinformation is everywhere. In this podcast, nutrition scientist Jessica Knurick explores why food myths spread, how to recognize unreliable health claims and distinguish credible research from pseudoscience, and what decades of scientific evidence reveal about making healthier food choices. This podcast was produced for Bayer by Scientific American Custom Media, a division separate from the magazine’s board of edito…",
+      "link": null,
+      "image": null,
+      "feed_name": "60-Second Science",
+      "feed_title": "60-Second Science",
+      "category": "science",
+      "feed_url": "http://rss.sciam.com/sciam/60secsciencepodcast",
+      "feed_icon": "https://megaphone.imgix.net/podcasts/9e578524-a403-11ee-a6cf-cbcdcc0e11fb/image/ec5ff1c72de2a19d67bc6425661674b1.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
       "id": "https://www.nytimes.com/2026/10/27/science/docktober-nudibranchs.html",
       "title": "It’s Docktober. Do You Know Where the Sea Slugs Are?",
       "published": "2026-10-27T06:45:25+00:00",
@@ -142,20 +184,6 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo#0",
-      "title": "Storm Boelo leaves thousands without power as Met Office issues new wind warning",
-      "published": "2026-10-27T04:13:56+00:00",
-      "author": null,
-      "description": "A yellow warning for strong winds came in effect at 18:00 on Monday across the west coast of England, Wales and Scotland and eastern parts of Northern Ireland.",
-      "link": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fd9/live/430c9a00-d1d3-11f1-93e1-3b657b665bcf.jpg",
-      "feed_name": "BBC News - Science & Environment",
-      "feed_title": "BBC News",
-      "category": "science",
-      "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "news712228199",

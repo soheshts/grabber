@@ -1,8 +1,36 @@
 {
   "category": "DIY",
-  "updated": "2026-10-27T10:03:41.472544+00:00",
-  "count": 170,
+  "updated": "2026-10-27T10:32:42.643729+00:00",
+  "count": 172,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/move-resize-windows-11-taskbar/",
+      "title": "Microsoft finally fixed the Windows 11 taskbar, and it only took 5 years",
+      "published": "2026-10-27T10:30:16+00:00",
+      "author": "Pankil Shah",
+      "description": "Taskbar is finally flexible.",
+      "link": "https://www.makeuseof.com/move-resize-windows-11-taskbar/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/windows-11-settings-with-taskbar-at-top.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/old-android-phone-as-smart-home-remote-guests-can-understand/",
+      "title": "I turned my old Android phone into a remote that guests can understand",
+      "published": "2026-10-27T10:30:15+00:00",
+      "author": "Adam Davidson",
+      "description": "My home is smart, my guests not so much.",
+      "link": "https://www.howtogeek.com/old-android-phone-as-smart-home-remote-guests-can-understand/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/samsung-phone-angled-on-a-wooden-table-showing-the-guest-remote-main-screen-with-lights-heating-and-television-buttons.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/stopped-buying-smart-bulbs-started-putting-smart-relays-behind-switches/",
       "title": "Why I stopped buying smart bulbs and started putting smart relays behind my switches",
