@@ -1,7 +1,7 @@
 {
   "category": "technology",
-  "updated": "2026-10-27T22:03:42.130140+00:00",
-  "count": 739,
+  "updated": "2026-10-27T22:32:21.168289+00:00",
+  "count": 745,
   "summary": {
     "text": "• Scams and security: Engadget explains wrong-number text scams as the start of an attack on your money, while Slashdot reports a code-execution flaw in UEFI boot firmware that threatens most servers worldwide.\n• Apple devices: Reports suggest the iPhone 18e will get a 2nm A20 chip and a 60Hz screen, and CNET is livestreaming a durability test of the foldable iPhone Duo, which has passed 75,000 folds.\n• AI and copyright: Anthropic and Suno are sued by music publishers over allegedly training AI models on copyrighted songs by Madonna, Johnny Cash and Joni Mitchell.\n• AI tools: ChatGPT can now work with iCloud Mail and Calendar through new plugin support, including updating events and searching email.\n• Platform news: An animated arm taking over the X composer is pushing users to pay to promote posts.",
     "generated_at": "2026-10-27T22:03:42.130140+00:00",
@@ -11,6 +11,20 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.engadget.com/2296049/best-ways-tell-if-someone-wearing-ai-glasses/",
+      "title": "The best ways to tell if someone is using AI glasses",
+      "published": "2026-10-27T22:30:00+00:00",
+      "author": "Jack Peachey",
+      "description": "While it can be jarring to discover that your companion is using AI glasses, there are some steps you can take to recognize them ASAP.",
+      "link": "https://www.engadget.com/2296049/best-ways-tell-if-someone-wearing-ai-glasses/",
+      "image": "https://www.engadget.com/img/gallery/the-best-ways-to-tell-if-someone-is-using-ai-glasses/l-intro-1792775168.jpg",
+      "feed_name": "Engadget",
+      "feed_title": "Engadget - Technology News & Expert Reviews",
+      "category": "technology",
+      "feed_url": "https://www.engadget.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
     {
       "id": "https://www.engadget.com/2296048/wrong-number-text-scams-how-avoid/",
       "title": "What are wrong number text scams, and how can you avoid them?",
@@ -24,6 +38,48 @@
       "category": "technology",
       "feed_url": "https://www.engadget.com/rss.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
+    {
+      "id": "https://news.slashdot.org/story/26/10/27/2130245/growing-list-of-firms-object-to-okx-ice-tokenized-stock-plans?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "title": "Growing List of Firms Object to OKX-ICE Tokenized Stock Plans",
+      "published": "2026-10-27T22:00:00+00:00",
+      "author": "BeauHD",
+      "description": "Intel, Oracle, IBM and IonQ have joined a growing list of companies objecting to having tokenized versions of their shares traded through OKX and Intercontinental Exchange's blockchain venture, bringing the total number of objections to 26. About 37% of the companies on OKXICE's original list have now opted out, according to CoinDesk. From the report: The four companies were named in an updated public notice (PDF) dated Monday, Oct. 26, from OKXICE, the two firms' joint venture. They join earli…",
+      "link": "https://news.slashdot.org/story/26/10/27/2130245/growing-list-of-firms-object-to-okx-ice-tokenized-stock-plans?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+      "feed_name": "Slashdot",
+      "feed_title": "Slashdot",
+      "category": "technology",
+      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
+    },
+    {
+      "id": "5117455",
+      "title": "Halloween Candy Prices Take a Scary Bite Out of Shoppers’ Budgets",
+      "published": "2026-10-27T21:58:49+00:00",
+      "author": "Julian Dossett",
+      "description": "Americans could spend over $4 billion on Halloween candy this year.",
+      "link": "https://www.cnet.com/news/halloween-candy-prices-take-a-scary-bite-out-of-shoppers-budgets/",
+      "image": "https://www.cnet.com/wp-content/uploads/sites/2/halloween-candy-with-price-GettyImages-2301364316.jpg",
+      "feed_name": "CNET News",
+      "feed_title": "News – CNET",
+      "category": "technology",
+      "feed_url": "https://www.cnet.com/rss/news/",
+      "feed_icon": "https://www.cnet.com/wp-content/uploads/sites/2/cropped-favicon-480.png?w=32"
+    },
+    {
+      "id": "01K6182WX6ZDMX6P1Y4STAJQJ2",
+      "title": "Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place",
+      "published": "2026-10-27T21:52:15+00:00",
+      "author": "Daniel Oropeza",
+      "description": "Keep up with all of the best deals that Lifehacker publishes, including laptops, speakers, TVs, security cameras, and more.",
+      "link": "https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg",
+      "feed_name": "Lifehacker",
+      "feed_title": "Lifehacker",
+      "category": "technology",
+      "feed_url": "https://lifehacker.com/rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=lifehacker.com&sz=64"
     },
     {
       "id": "yt:video:GIUty8-h_N0",
@@ -110,6 +166,20 @@
       "feed_icon": "https://www.cnet.com/wp-content/uploads/sites/2/cropped-favicon-480.png?w=32"
     },
     {
+      "id": "02wKFmzjDKf44mGwWulic2z",
+      "title": "Discord will let public server messages be discoverable in Google Search",
+      "published": "2026-10-27T21:21:24+00:00",
+      "author": null,
+      "description": "Discord is going public with new Server Web Pages that will allow Google to index public server discussion for search.",
+      "link": "https://mashable.com/tech/discord-public-server-web-pages-messages-discoverable-in-google-search",
+      "image": "https://helios-i.mashable.com/imagery/articles/02wKFmzjDKf44mGwWulic2z/hero-image.jpg",
+      "feed_name": "Mashable",
+      "feed_title": "Mashable",
+      "category": "technology",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
+    },
+    {
       "id": "yt:video:y9MEguUq-FY",
       "title": "Fold-A-Phone Day 2: We Hit 75K Folds!",
       "published": "2026-10-27T21:17:36+00:00",
@@ -136,6 +206,34 @@
       "category": "technology",
       "feed_url": "https://www.engadget.com/rss.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
+    {
+      "id": "03ozW3J64DwNLQ3VFpN7lux",
+      "title": "Just to be clear: The most passive-aggressive email phrases, according to workers",
+      "published": "2026-10-27T21:10:39+00:00",
+      "author": null,
+      "description": "A poll of 2,000 professionals uncovered the email phrases that drive people batty.",
+      "link": "https://mashable.com/life/passive-aggressive-email-phrases",
+      "image": "https://helios-i.mashable.com/imagery/articles/03ozW3J64DwNLQ3VFpN7lux/hero-image.jpg",
+      "feed_name": "Mashable",
+      "feed_title": "Mashable",
+      "category": "technology",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
+    },
+    {
+      "id": "07HHahFsobt8tAMXCIBL8dD",
+      "title": "A WNBA championship before lunch? Fans call out Game 6 scheduling.",
+      "published": "2026-10-27T20:59:37+00:00",
+      "author": null,
+      "description": "WNBA Finals Game 6 will tip off Thursday at 12:30 p.m. ET, frustrating fans who could miss a championship while at work or school.",
+      "link": "https://mashable.com/life/wnba-finals-game-6-time-change-fan-backlash",
+      "image": "https://helios-i.mashable.com/imagery/articles/07HHahFsobt8tAMXCIBL8dD/hero-image.jpg",
+      "feed_name": "Mashable",
+      "feed_title": "Mashable",
+      "category": "technology",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
     },
     {
       "id": "https://www.theverge.com/?p=1019921",
@@ -2992,20 +3090,6 @@
       "category": "technology",
       "feed_url": "https://www.cnet.com/rss/news/",
       "feed_icon": "https://www.cnet.com/wp-content/uploads/sites/2/cropped-favicon-480.png?w=32"
-    },
-    {
-      "id": "01K6182WX6ZDMX6P1Y4STAJQJ2",
-      "title": "Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place",
-      "published": "2026-10-26T22:19:07+00:00",
-      "author": "Daniel Oropeza",
-      "description": "Keep up with all of the best deals that Lifehacker publishes, including laptops, speakers, TVs, security cameras, and more.",
-      "link": "https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg",
-      "feed_name": "Lifehacker",
-      "feed_title": "Lifehacker",
-      "category": "technology",
-      "feed_url": "https://lifehacker.com/rss",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=lifehacker.com&sz=64"
     },
     {
       "id": "TheNextWeb=a344918f23428ba2167ec557b09a2369",

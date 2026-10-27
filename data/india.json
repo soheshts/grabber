@@ -1,6 +1,6 @@
 {
   "category": "India",
-  "updated": "2026-10-27T22:03:42.130140+00:00",
+  "updated": "2026-10-27T22:32:21.168289+00:00",
   "count": 1000,
   "summary": {
     "text": "• Cyclone Arnab has made landfall near Narsapur, Andhra Pradesh, bringing heavy rain to Odisha and Andhra and battering Vizag.\n• RJD's Sanjeev Kumar Singh won the Patna teacher-seat MLC poll amid uproar during counting. The Bihar CM ordered a probe into a legal notice served to RJD MP Sudhakar Singh.\n• Indore Congress held a rally alleging vote theft and demanding CEC Gyanesh Kumar's resignation.\n• MP Cabinet approved ₹8,225 crore for development schemes.\n• Supreme Court said the pharma industry cannot be allowed to \"run amok\" in the name of free market.",
@@ -11,6 +11,76 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://timesofindia.indiatimes.com/india/build-ai-to-secure-systems-serve-humanity-pm-modi/articleshow/135246802.cms",
+      "title": "Build AI to secure systems, serve humanity: PM Modi",
+      "published": "2026-10-27T22:19:06+00:00",
+      "author": "TNN",
+      "description": "",
+      "link": "https://timesofindia.indiatimes.com/india/build-ai-to-secure-systems-serve-humanity-pm-modi/articleshow/135246802.cms",
+      "image": "https://static.toiimg.com/photo/msid-135247199,imgsize-161718.cms",
+      "feed_name": "Times of India",
+      "feed_title": "Times of India",
+      "category": "India",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "feed_icon": "https://static.toiimg.com/photo/msid-98638255.cms"
+    },
+    {
+      "id": "https://www.amarujala.com/live/uttar-pradesh/up-mlc-election-results-2026-live-counting-for-11-seats-begins-hindi-news-2026-10-27",
+      "title": "UP MLC Election Results LIVE: लखनऊ-बरेली में खिला कमल, मेरठ में दोनों सीटें भाजपा के नाम; वाराणसी में सपा जीती",
+      "published": "2026-10-27T22:12:35+00:00",
+      "author": "अमर उजाला नेटवर्क, नोएडा",
+      "description": "यूपी में मंगलवार यानी आज 11 विधान परिषद सीटों के लिए वोटों की गिनती होगी। मुख्य निर्वाचन अधिकारी नवदीप रिणवा ने बताया कि उत्तर प्रदेश विधान परिषद के 5 खंड स्नातक और 6 खंड शिक्षक निर्वाचन क्षेत्रों की मतगणना मंगलवार को",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-mlc-election-results-2026-live-counting-for-11-seats-begins-hindi-news-2026-10-27",
+      "image": "https://staticimg.amarujala.com/assets/images/2026/10/27/up-mlc-election-results_d1b489cf948f85de309ad01b4cf4920a.jpeg?w=1200&dpr=1.0",
+      "feed_name": "Latest And Breaking Hindi News Headlines, News In Hindi | अमर उजाला हिंदी न्यूज़ | - Amar Ujala",
+      "feed_title": "Latest And Breaking Hindi News Headlines, News In Hindi | अमर उजाला हिंदी न्यूज़ | - Amar Ujala",
+      "category": "India",
+      "feed_url": "https://www.amarujala.com/rss/breaking-news.xml",
+      "feed_icon": "https://staticimg.amarujala.com/assets/images/uploads/amar-ujala-editors-picks_57a04a59684eb.png"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/india/cabinet-secretary-lists-12-types-of-secretaries-file-throwers-file-sitters-latecomers-/articleshow/135245839.cms",
+      "title": "Cabinet secretary lists 12 types of secretaries: File throwers, file sitters, latecomers",
+      "published": "2026-10-27T22:11:06+00:00",
+      "author": "DIPAK K DASH",
+      "description": "",
+      "link": "https://timesofindia.indiatimes.com/india/cabinet-secretary-lists-12-types-of-secretaries-file-throwers-file-sitters-latecomers-/articleshow/135245839.cms",
+      "image": "https://static.toiimg.com/photo/msid-135245869,imgsize-179188.cms",
+      "feed_name": "Times of India",
+      "feed_title": "Times of India",
+      "category": "India",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "feed_icon": "https://static.toiimg.com/photo/msid-98638255.cms"
+    },
+    {
+      "id": "https://www.indiatoday.in/world/story/pope-leo-lung-cancer-surgery-reshapes-catholic-views-vatican-3026549-2026-10-28?utm_source=rss",
+      "title": "Pope Leo's cancer diagnosis 'gamechanger' for his 'Superman' image: Vatican official",
+      "published": "2026-10-27T22:05:57+00:00",
+      "author": null,
+      "description": "Pope Leos cancer diagnosis gamechanger for his Superman image Vatican official",
+      "link": "https://www.indiatoday.in/world/story/pope-leo-lung-cancer-surgery-reshapes-catholic-views-vatican-3026549-2026-10-28?utm_source=rss",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/religion-pope-leo-270327740-16x9_0.jpg?VersionId=UxtH_EAPCIRKveZ4NN2.xh42..SUtH3_",
+      "feed_name": "India Today",
+      "feed_title": "India Today | Latest Stories",
+      "category": "India",
+      "feed_url": "https://www.indiatoday.in/rss/home",
+      "feed_icon": "https://akm-img-a-in.tosshub.com/indiatoday/images/mediamanager/itlogo.png"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/rest-of-world/over-100-killed-113-injured-in-drone-strike-on-sudan-market/articleshow/135245811.cms",
+      "title": "Over 100 killed, 113 injured in drone strike on Sudan market",
+      "published": "2026-10-27T21:59:35+00:00",
+      "author": "PRISHA PATNAIK",
+      "description": "",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/over-100-killed-113-injured-in-drone-strike-on-sudan-market/articleshow/135245811.cms",
+      "image": "https://static.toiimg.com/photo/msid-135245827,imgsize-133864.cms",
+      "feed_name": "Times of India",
+      "feed_title": "Times of India",
+      "category": "India",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "feed_icon": "https://static.toiimg.com/photo/msid-98638255.cms"
+    },
     {
       "id": "https://www.amarujala.com/live/bihar/patna/bihar-mlc-result-live-kosi-tirhut-darbhanga-saran-teacher-patna-graduate-result-bihar-news-2026-10-27",
       "title": "Bihar MLC Result LIVE: पटना शिक्षक निर्वाचन सीट पर जीते राजद के संजीव कुमार सिंह, मतगणना के दौरान हुआ हंगामा",
@@ -24,6 +94,20 @@
       "category": "India",
       "feed_url": "https://www.amarujala.com/rss/breaking-news.xml",
       "feed_icon": "https://staticimg.amarujala.com/assets/images/uploads/amar-ujala-editors-picks_57a04a59684eb.png"
+    },
+    {
+      "id": "article-71630714",
+      "title": "HC asks ex-finance secretary to mute ‘defamatory’ remarks against BJP MP Nishikant Dubey in podcast",
+      "published": "2026-10-27T21:53:18+00:00",
+      "author": null,
+      "description": "TMC MP Mahua Moitra's counsel also assured that she would remove certain related allegedly defamatory posts on X",
+      "link": "https://www.thehindu.com/news/cities/Delhi/delhi-hc-asks-former-finance-secretary-to-mute-defamatory-remarks-against-bjp-mp-nishikant-dubey-in-a-podcast/article71630714.ece",
+      "image": "https://th-i.thgim.com/public/incoming/gtdmue/article71630860.ece/alternates/LANDSCAPE_1200/Nearby_Shape-wiGVAGLCDC8.3.jpg.jpg",
+      "feed_name": "The Hindu",
+      "feed_title": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+      "category": "India",
+      "feed_url": "https://www.thehindu.com/feeder/default.rss",
+      "feed_icon": "https://www.thehindu.com/theme/images/th-online/OG-sections.png"
     },
     {
       "id": "https://www.amarujala.com/live/india-news/cyclone-arnab-live-updates-landfall-andhra-pradesh-odisha-heavy-rains-strong-winds-2026-10-28",
@@ -180,6 +264,34 @@
       "feed_icon": "https://static.toiimg.com/photo/msid-98638255.cms"
     },
     {
+      "id": "article-71632769",
+      "title": "Fifty years ago | ITDC plan to build hotels abroad",
+      "published": "2026-10-27T21:17:02+00:00",
+      "author": null,
+      "description": "",
+      "link": "https://www.thehindu.com/archives/from-the-hindu-archives-october-28-1976-itdc-plan-to-build-hotels-abroad/article71632769.ece",
+      "image": "https://www.thehindu.com/theme/images/og-image.png",
+      "feed_name": "The Hindu",
+      "feed_title": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+      "category": "India",
+      "feed_url": "https://www.thehindu.com/feeder/default.rss",
+      "feed_icon": "https://www.thehindu.com/theme/images/th-online/OG-sections.png"
+    },
+    {
+      "id": "article-71631976",
+      "title": "A hundred years ago | Message from Mars?",
+      "published": "2026-10-27T21:16:22+00:00",
+      "author": null,
+      "description": "",
+      "link": "https://www.thehindu.com/archives/from-the-hindu-archives-october-28-1926-message-from-mars/article71631976.ece",
+      "image": "https://www.thehindu.com/theme/images/og-image.png",
+      "feed_name": "The Hindu",
+      "feed_title": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+      "category": "India",
+      "feed_url": "https://www.thehindu.com/feeder/default.rss",
+      "feed_icon": "https://www.thehindu.com/theme/images/th-online/OG-sections.png"
+    },
+    {
       "id": "article-71632093",
       "title": "Bihar CM orders probe into legal notice served to RJD MP Sudhakar Singh by Kundan Krishnan",
       "published": "2026-10-27T21:04:59+00:00",
@@ -220,20 +332,6 @@
       "category": "India",
       "feed_url": "https://www.indiatoday.in/rss/home",
       "feed_icon": "https://akm-img-a-in.tosshub.com/indiatoday/images/mediamanager/itlogo.png"
-    },
-    {
-      "id": "https://www.amarujala.com/live/uttar-pradesh/up-mlc-election-results-2026-live-counting-for-11-seats-begins-hindi-news-2026-10-27",
-      "title": "UP MLC Election Results LIVE: मेरठ में भाजपा दोनों सीटें जीती, बरेली में भी खिला कमल; वाराणसी में सपा की जीत",
-      "published": "2026-10-27T20:52:48+00:00",
-      "author": "अमर उजाला नेटवर्क, नोएडा",
-      "description": "यूपी में मंगलवार यानी आज 11 विधान परिषद सीटों के लिए वोटों की गिनती होगी। मुख्य निर्वाचन अधिकारी नवदीप रिणवा ने बताया कि उत्तर प्रदेश विधान परिषद के 5 खंड स्नातक और 6 खंड शिक्षक निर्वाचन क्षेत्रों की मतगणना मंगलवार को",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-mlc-election-results-2026-live-counting-for-11-seats-begins-hindi-news-2026-10-27",
-      "image": "https://staticimg.amarujala.com/assets/images/2026/10/27/up-mlc-election-results_d1b489cf948f85de309ad01b4cf4920a.jpeg?w=1200&dpr=1.0",
-      "feed_name": "Latest And Breaking Hindi News Headlines, News In Hindi | अमर उजाला हिंदी न्यूज़ | - Amar Ujala",
-      "feed_title": "Latest And Breaking Hindi News Headlines, News In Hindi | अमर उजाला हिंदी न्यूज़ | - Amar Ujala",
-      "category": "India",
-      "feed_url": "https://www.amarujala.com/rss/breaking-news.xml",
-      "feed_icon": "https://staticimg.amarujala.com/assets/images/uploads/amar-ujala-editors-picks_57a04a59684eb.png"
     },
     {
       "id": "https://timesofindia.indiatimes.com/india/poll-panel-keeps-rti-applicant-waiting-for-reply/articleshow/135245571.cms",
@@ -419,7 +517,7 @@
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/middle-east/israel-election-exit-polls-show-no-clear-winner-as-netanyahu-and-rivals-fall-short-of-majority/articleshow/135245388.cms",
-      "title": "Israel election exit polls show no clear winner as Netanyahu and rivals fall short of majority",
+      "title": "Israel exit polls show no clear winner as Netanyahu and rivals fall short of majority",
       "published": "2026-10-27T20:21:35+00:00",
       "author": "PRISHA PATNAIK",
       "description": "",
@@ -996,7 +1094,7 @@
       "title": "तूफान अर्नब का लैंडफॉल, हवा की रफ्तार 150kmph से ज्यादा:ओडिशा-आंध्र में 4000 शेल्टर बनाए गए; 50 ट्रेनें-21 फ्लाइट्स कैंसिल; MP-UP, महाराष्ट्र तक बारिश होगी",
       "published": "2026-10-27T19:15:00+00:00",
       "author": null,
-      "description": "चक्रवाती तूफान 'अर्नब' बुधवार तड़के विशाखापत्तनम के पास लैंडफॉल कर सकता है। चक्रवात तेज रफ्तार से आंध्र प्रदेश की ओर बढ़ रहा है। इसके 28 अक्टूबर को तड़के 2 बजे से 4 बजे के बीच तट से टकराने की उम्मीद है। लैंडफॉल के समय, हवा की निरंतर गति 125-135kmph रहने और बीच-बीच में 150kmph तक पहुंचने का अनुमान है। इसे देखते हुए आंध्र प्रदेश और ओडिशा ने लगभग 4,000 साइक्लोन शेल्टर बनाए हैं। हजारों लोगों को सुरक्षित स्थानों पर पहुंचाया है। साथ ही, रेलवे ने 50 ट्रेनों को रद्द कर दिया है। इसके अलावा विजयवाड़ा और…",
+      "description": "चक्रवाती तूफान 'अर्नब' ने विशाखापत्तनम के पास लैंडफॉल करना शुरू कर दिया है। चक्रवात तेज रफ्तार से बढ़ रहा है। लैंडफॉल के समय, हवा की गति 150kmph के करीब है। आंध्र प्रदेश और ओडिशा ने लगभग 4,000 साइक्लोन शेल्टर बनाए हैं। हजारों लोगों को सुरक्षित स्थानों पर पहुंचाया है। साथ ही, रेलवे ने 50 ट्रेनों को रद्द कर दिया है। इसके अलावा विजयवाड़ा और विशाखापत्तनम एयरपोर्ट पर 21 फ्लाइट्स रद्द कर दी गईं हैं। ओडिशा में मंगलवार से ही भारी बारिश हो रही है। इसके चलते राज्य के 16 जिलों में स्कूल बंद कर दिए गए हैं।…",
       "link": "https://www.bhaskar.com/national/news/cyclone-arnab-landfall-odisha-andhra-pradesh-flights-trains-cancel-139508978.html",
       "image": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2026/10/28/dbgifmagic_1793129238202.gif",
       "feed_name": "देश | दैनिक भास्कर",
@@ -12276,20 +12374,6 @@
       "feed_icon": "https://static.toiimg.com/photo/msid-98638255.cms"
     },
     {
-      "id": "article-71630714",
-      "title": "Delhi HC asks former finance secretary to mute 'defamatory' remarks against BJP MP Nishikant Dubey in a podcast",
-      "published": "2026-10-27T10:29:30+00:00",
-      "author": null,
-      "description": "TMC MP Mahua Moitra's counsel also assured that she would remove certain related allegedly defamatory posts on X",
-      "link": "https://www.thehindu.com/news/cities/Delhi/delhi-hc-asks-former-finance-secretary-to-mute-defamatory-remarks-against-bjp-mp-nishikant-dubey-in-a-podcast/article71630714.ece",
-      "image": "https://th-i.thgim.com/public/incoming/gtdmue/article71630860.ece/alternates/LANDSCAPE_1200/Nearby_Shape-wiGVAGLCDC8.3.jpg.jpg",
-      "feed_name": "The Hindu",
-      "feed_title": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
-      "category": "India",
-      "feed_url": "https://www.thehindu.com/feeder/default.rss",
-      "feed_icon": "https://www.thehindu.com/theme/images/th-online/OG-sections.png"
-    },
-    {
       "id": "https://www.indiatoday.in/india/karnataka/story/karnataka-final-voter-list-crore-lakh-names-deleted-after-sir-exercise-3026021-2026-10-27?utm_source=rss",
       "title": "Karnataka's final voter list out, over 1 crore names deleted after SIR",
       "published": "2026-10-27T10:29:06+00:00",
@@ -13926,90 +14010,6 @@
       "category": "India",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
       "feed_icon": "https://static.toiimg.com/photo/msid-98638255.cms"
-    },
-    {
-      "id": "article-71630352",
-      "title": "Cyclone ‘Arnab’: 64 train services cancelled on October 27 and 28",
-      "published": "2026-10-27T09:28:03+00:00",
-      "author": null,
-      "description": "Long-distance express trains connecting Telangana with coastal Andhra Pradesh and Odisha among those affected; passengers advised to check status before travel",
-      "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-train-services-cancelled-on-october-27-and-28/article71630352.ece",
-      "image": "https://th-i.thgim.com/public/incoming/kyz9qz/article71630609.ece/alternates/LANDSCAPE_1200/VSP30_Montha_Railway%201.JPG",
-      "feed_name": "The Hindu",
-      "feed_title": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
-      "category": "India",
-      "feed_url": "https://www.thehindu.com/feeder/default.rss",
-      "feed_icon": "https://www.thehindu.com/theme/images/th-online/OG-sections.png"
-    },
-    {
-      "id": "article-71556915",
-      "title": "L-G enforces major administrative reshuffle in J&K, ruffles feathers with elected government",
-      "published": "2026-10-27T09:27:47+00:00",
-      "author": null,
-      "description": "The L-G must have enforced these transfers with a good vision, says CM Omar Abdullah, adding that the elected government will prepare to work with these officers now",
-      "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/l-g-enforces-major-administrative-reshuffle-in-jk-ruffles-feathers-with-elected-government/article71556915.ece",
-      "image": "https://th-i.thgim.com/public/incoming/mrnstg/article71557077.ece/alternates/LANDSCAPE_1200/PTI10_02_2026_000195B.jpg",
-      "feed_name": "The Hindu",
-      "feed_title": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
-      "category": "India",
-      "feed_url": "https://www.thehindu.com/feeder/default.rss",
-      "feed_icon": "https://www.thehindu.com/theme/images/th-online/OG-sections.png"
-    },
-    {
-      "id": "article-71630439",
-      "title": "Sudan drone strikes kill 21, cause mass outages in east amid ongoing violence",
-      "published": "2026-10-27T09:27:43+00:00",
-      "author": null,
-      "description": "A drone strike on a market in Nyala, the de facto capital of Sudan’s paramilitary RSF, in Darfur, killed 21 people and wounded at least 40 others, a medical source and witnesses told AFP",
-      "link": "https://www.thehindu.com/news/international/drone-strike-kills-21-in-sudan-cripples-power-in-east-amid-ongoing-violence/article71630439.ece",
-      "image": "https://th-i.thgim.com/public/incoming/a9itsf/article71630487.ece/alternates/LANDSCAPE_1200/28-killed-in-a-GV1G0MAAV.4.jpg.jpg",
-      "feed_name": "The Hindu",
-      "feed_title": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
-      "category": "India",
-      "feed_url": "https://www.thehindu.com/feeder/default.rss",
-      "feed_icon": "https://www.thehindu.com/theme/images/th-online/OG-sections.png"
-    },
-    {
-      "id": "article-71630324",
-      "title": "VC-Syndicate rift escalates over nominations at MG University in Keralam as 12 members quit",
-      "published": "2026-10-27T09:26:52+00:00",
-      "author": null,
-      "description": "Dispute centres on the appointment of university representatives to the statutory governing bodies and management councils of private and aided colleges",
-      "link": "https://www.thehindu.com/news/national/kerala/vc-syndicate-rift-escalates-over-nominations-at-mg-university-in-keralam-as-12-members-quit/article71630324.ece",
-      "image": "https://th-i.thgim.com/public/news/national/kerala/bl2dq/article71630575.ece/alternates/LANDSCAPE_1200/MG%20University%20Kottayam.jpg",
-      "feed_name": "The Hindu",
-      "feed_title": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
-      "category": "India",
-      "feed_url": "https://www.thehindu.com/feeder/default.rss",
-      "feed_icon": "https://www.thehindu.com/theme/images/th-online/OG-sections.png"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/india/not-in-line-with-expectations-up-ceo-apologises-for-thank-god-ram-didnt-hit-any-minority-post/articleshow/135229691.cms",
-      "title": "UP CEO apologises for 'thank God Ram didn't hit any minority' post",
-      "published": "2026-10-27T09:25:56+00:00",
-      "author": "ROHITASHWA RANJAN",
-      "description": "",
-      "link": "https://timesofindia.indiatimes.com/india/not-in-line-with-expectations-up-ceo-apologises-for-thank-god-ram-didnt-hit-any-minority-post/articleshow/135229691.cms",
-      "image": "https://static.toiimg.com/photo/msid-135229716,imgsize-743147.cms",
-      "feed_name": "Times of India",
-      "feed_title": "Times of India",
-      "category": "India",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-      "feed_icon": "https://static.toiimg.com/photo/msid-98638255.cms"
-    },
-    {
-      "id": "https://techgenyz.com/?p=347796",
-      "title": "Motorola’s Motorollers App: Powerful Features, Tribes, Privacy and Android Availability",
-      "published": "2026-10-27T09:25:40+00:00",
-      "author": "Baishakhi Dasgupta",
-      "description": "Motorola’s Motorollers app is extending its brand community beyond its smartphone customers, letting people share interests, publish posts, and interact with other users. The Motorollers Commnuity app offers familiar social functions, following accounts, commenting on posts, and discovering conversations, with interest-based groups at its center. That wider eligibility is the key distinction for potential users. […]",
-      "link": "https://techgenyz.com/motorolas-motorollers-app-features-tribes-privacy/",
-      "image": "https://techgenyz.com/wp-content/uploads/2026/10/motorollers.webp",
-      "feed_name": "TechGenyz",
-      "feed_title": "Techgenyz",
-      "category": "India",
-      "feed_url": "http://feeds.feedburner.com/techgenyz",
-      "feed_icon": "https://techgenyz.com/wp-content/uploads/2026/02/techgenyz-icon-96x96.png"
     }
   ]
 }

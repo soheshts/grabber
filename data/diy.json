@@ -1,7 +1,7 @@
 {
   "category": "DIY",
-  "updated": "2026-10-27T22:03:42.130140+00:00",
-  "count": 225,
+  "updated": "2026-10-27T22:32:21.168289+00:00",
+  "count": 226,
   "summary": {
     "text": "• How-To Geek covers four Netflix reboots that honor their originals instead of feeling like cash grabs.\n• A second How-To Geek piece looks at four PC ports that outlived their inventors and still persist.\n• Both items are from How-To Geek, and neither is a practical DIY guide.",
     "generated_at": "2026-10-27T22:03:42.130140+00:00",
@@ -11,6 +11,20 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.howtogeek.com/smart-speakers-dont-make-sense-anymore/",
+      "title": "Smart speakers don’t make sense anymore—an ESP32 or an old phone can do a better job",
+      "published": "2026-10-27T22:30:15+00:00",
+      "author": "Adam Davidson",
+      "description": "Alexa, I think we should see other devices.",
+      "link": "https://www.howtogeek.com/smart-speakers-dont-make-sense-anymore/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/09/an-old-third-generation-echo-dot-on-a-desk.png",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/netflix-reboots-do-originals-justice/",
       "title": "4 Netflix reboots that honor the originals instead of just feeling like a cash grab",
