@@ -1,16 +1,30 @@
 {
   "category": "space",
-  "updated": "2026-10-27T18:32:45.192559+00:00",
-  "count": 116,
+  "updated": "2026-10-27T19:03:04.489550+00:00",
+  "count": 117,
   "summary": {
-    "text": "• Cowboy Space unveiled \"Big Iron,\" its rocket for launching a planned constellation of 20,000 AI data centers, with a debut targeted for late 2028.\n• NASA released an image from October 26, 2026, of a technician inspecting the 20-foot sunshade of its Near-Earth Object (NEO) Surveyor mission.\n• Space.com has published a guide to November's full Beaver Moon, covering peak viewing times and skywatching highlights.",
-    "generated_at": "2026-10-27T18:32:45.192559+00:00",
+    "text": "• Astronomers are uncovering new details about a \"string of pearls,\" a unique relic left by a supernova that humanity witnessed around 850 years ago.\n• The relic has a \"zombie star\" at its heart.\n• Scientists are still learning about the object and its origins.",
+    "generated_at": "2026-10-27T19:03:04.489550+00:00",
     "window_minutes": 60,
-    "item_count": 3,
-    "key": "7086f314de0ebe667e26d7a6d457873f316f44b2",
+    "item_count": 1,
+    "key": "882e9343ea2169a04b4c6f00bd8c0e9d9bd0d308",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "TDYqr9g4CdLb2ZcwrbG3oa",
+      "title": "Astronomers discover the secrets of 'string of pearls' supernova relic and the zombie star at its heart",
+      "published": "2026-10-27T19:00:00+00:00",
+      "author": "Robert Lea",
+      "description": "Scientists are still learning about a cosmic 'string of pearls,' a unique celestial relic left by a supernova witnessed by humanity around 850 years ago, which has a zombie star at its heart.",
+      "link": "https://www.space.com/astronomy/stars/astronomers-discover-the-secrets-of-string-of-pearls-supernova-relic-and-the-zombie-star-at-its-heart",
+      "image": "https://cdn.mos.cms.futurecdn.net/UxSnXkJcnBna79YHmjQnwL-1920-80.png",
+      "feed_name": "Space.com",
+      "feed_title": "Latest from Space.com",
+      "category": "space",
+      "feed_url": "https://www.space.com/feeds/all",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.space.com&sz=64"
+    },
     {
       "id": "EhuVdbmaenf2KcAANwEfx4",
       "title": "November full moon 2026: When, where and how to see the Beaver Moon",

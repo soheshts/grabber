@@ -1,16 +1,58 @@
 {
   "category": "gaming",
-  "updated": "2026-10-27T18:32:45.192559+00:00",
-  "count": 498,
+  "updated": "2026-10-27T19:03:04.489550+00:00",
+  "count": 508,
   "summary": {
-    "text": "• GTA 6 on PS5 will need over 200 GB, reportedly 210 GB for the $80 standard edition, and UK Rockstar developers will hold a union vote November 12–26.\n• CD Projekt Red job listings hint at multiplayer quests in the Cyberpunk 2077 sequel.\n• Xbox highlights one of the highest-rated Call of Duty games for play today, and Polygon posted beginner tips for MW4's DMZ mode.\n• Best Buy published its full holiday sale schedule, including Black Friday and last-minute Christmas deals.",
-    "generated_at": "2026-10-27T18:32:45.192559+00:00",
+    "text": "• GTA 6 reportedly needs over 200 GB of storage on PS5, and UK-based Rockstar developers will hold a union recognition vote from November 12 to 26, during the game's launch.\n• A leaked CD Projekt Red job listing hints at a multiplayer component in the Cyberpunk 2077 sequel.\n• Dropout and Dimension 20 announced season 2 of the actual play series A Starstruck Odyssey.\n• Man of Tomorrow actor Matthew Lillard teased a mystery role in the new DCU.",
+    "generated_at": "2026-10-27T19:03:04.489550+00:00",
     "window_minutes": 60,
-    "item_count": 10,
-    "key": "5a8bdf02b940889740e3c4a13e7c7ce4efb08d11",
+    "item_count": 6,
+    "key": "666fc28368b2629621619cfddff3cebb694676bc",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.polygon.com/superman-man-of-tomorrow-dc-matthew-lillard-mystery-role/",
+      "title": "Matthew Lillard Officially Teases Mystery Superman Man of Tomorrow Role",
+      "published": "2026-10-27T18:59:39+00:00",
+      "author": "Willa Rowe",
+      "description": "Man of Tomorrow actor Mathew Lillard reveals an unexpected hint about his secret role in the new DCU",
+      "link": "https://www.polygon.com/superman-man-of-tomorrow-dc-matthew-lillard-mystery-role/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/otk-201-02041_r.jpg",
+      "feed_name": "Polygon -  All",
+      "feed_title": "Polygon.com",
+      "category": "gaming",
+      "feed_url": "https://www.polygon.com/rss/index.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.polygon.com&sz=64"
+    },
+    {
+      "id": "https://www.polygon.com/dimension-20-starstruck-odyssey-season-2-announced/",
+      "title": "New Dimension 20 Season Officially Announced",
+      "published": "2026-10-27T18:42:18+00:00",
+      "author": "Austin Manchester",
+      "description": "Dropout and Dimension 20 have announced the next season of the actual play series: A Starstruck Odyssey season 2.",
+      "link": "https://www.polygon.com/dimension-20-starstruck-odyssey-season-2-announced/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25160464/dimension_20_junior_year.jpg",
+      "feed_name": "Polygon -  All",
+      "feed_title": "Polygon.com",
+      "category": "gaming",
+      "feed_url": "https://www.polygon.com/rss/index.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.polygon.com&sz=64"
+    },
+    {
+      "id": "https://www.rockpapershotgun.com/uk-based-rockstar-devs-will-be-putting-their-union-recognition-to-a-vote-during-gta-6s-launch-next-month",
+      "title": "UK-based Rockstar devs will be putting their union recognition to a vote during GTA 6's launch next month",
+      "published": "2026-10-27T18:37:53+00:00",
+      "author": "Oisin Kuhnke",
+      "description": "November is potentially going to be big for Rockstar Games, and not just because of that GTA 6 thing they're doing. As shared in a press release from the Independent Workers of Great Britain (IWGB), recognition of the IWGB Union at Rockstar will be voted upon by staffers at the studio, with votes being held from November 12th (a week before GTA 6's launch date) and November 26th. Read more",
+      "link": "https://www.rockpapershotgun.com/uk-based-rockstar-devs-will-be-putting-their-union-recognition-to-a-vote-during-gta-6s-launch-next-month",
+      "image": "https://assetsio.gnwcdn.com/grand-theft-auto-6-trailer-1-cap-o.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "feed_name": "Rock, Paper, Shotgun",
+      "feed_title": "Rock, Paper, Shotgun",
+      "category": "gaming",
+      "feed_url": "http://feeds.feedburner.com/RockPaperShotgun",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.rockpapershotgun.com&sz=64"
+    },
     {
       "id": "https://www.polygon.com/cyberpunk-2-multiplayer-quests-leak-cd-projekt-red/",
       "title": "Cyberpunk 2 Listing Hints at Multiplayer Quests in CD Projekt Red Sequel",
@@ -80,6 +122,34 @@
       "category": "gaming",
       "feed_url": "https://majornelson.com/feed/",
       "feed_icon": "https://xboxwire.thesourcemediaassets.com/sites/2/2019/12/Nexus_GRN_on_WHT2.png"
+    },
+    {
+      "id": "https://www.rockpapershotgun.com/a-leaked-trailer-for-transformers-reactivate-shows-off-the-only-lick-of-gameplay-well-likely-ever-see-of-the-cancelled-co-op-action-game",
+      "title": "A leaked trailer for Transformers: Reactivate shows off the only lick of gameplay we'll likely ever see of the cancelled co-op action game",
+      "published": "2026-10-27T18:00:00+00:00",
+      "author": "Oisin Kuhnke",
+      "description": "Back in 2022, Gears Tactics studio Splash Damage revealed that they were working on a Transformers game . It was called Transformers: Reactivate , and at the time was set to be a 1-4 player co-op action game, but come 2025 and the game gets canned all while parent company Tencent was going on a funding withdrawal spree in the games industry. Nothing substantial was ever really shown off of the game, but a trailer has now been leaked featuring what was apparently meant to be an internal look at…",
+      "link": "https://www.rockpapershotgun.com/a-leaked-trailer-for-transformers-reactivate-shows-off-the-only-lick-of-gameplay-well-likely-ever-see-of-the-cancelled-co-op-action-game",
+      "image": "https://assetsio.gnwcdn.com/transformers-reactivate.png?width=690&quality=85&format=jpg&auto=webp",
+      "feed_name": "Rock, Paper, Shotgun",
+      "feed_title": "Rock, Paper, Shotgun",
+      "category": "gaming",
+      "feed_url": "http://feeds.feedburner.com/RockPaperShotgun",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.rockpapershotgun.com&sz=64"
+    },
+    {
+      "id": "https://www.rockpapershotgun.com/assassins-creed-black-flag-resynced-is-wrapping-things-up-with-one-last-big-update-that-adds-in-new-game-plus-and-a-throwback-to-the-original-game",
+      "title": "Assassin's Creed Black Flag Resynced is wrapping things up with one last big update that adds in new game plus and a throwback to the original game",
+      "published": "2026-10-27T17:58:44+00:00",
+      "author": "Oisin Kuhnke",
+      "description": "Assassin's Creed Black Flag Resynced is setting sail for quieter pastures. That's because the game's last big update arrived today, with Ubisoft explaining that there are only plans for quality-of-life updates for the game going forward. Still, it's a meaty enough sounding update, and one that could in theory keep you going forever if you'd like to torture yourself by relegating your life to a single video game. Read more",
+      "link": "https://www.rockpapershotgun.com/assassins-creed-black-flag-resynced-is-wrapping-things-up-with-one-last-big-update-that-adds-in-new-game-plus-and-a-throwback-to-the-original-game",
+      "image": "https://assetsio.gnwcdn.com/ubisoft-barcelona-layoff-protest-black-flag-resynced-01.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "feed_name": "Rock, Paper, Shotgun",
+      "feed_title": "Rock, Paper, Shotgun",
+      "category": "gaming",
+      "feed_url": "http://feeds.feedburner.com/RockPaperShotgun",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.rockpapershotgun.com&sz=64"
     },
     {
       "id": "https://www.polygon.com/mw4-modern-warfare-4-dmz-tips-best/",
@@ -178,6 +248,20 @@
       "category": "gaming",
       "feed_url": "https://www.polygon.com/rss/index.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.polygon.com&sz=64"
+    },
+    {
+      "id": "https://www.rockpapershotgun.com/demanding-300gb-to-install-despite-its-actual-size-of-145gb-phantom-blade-zero-makes-me-question-what-a-gigabyte-is-worth",
+      "title": "Demanding 300GB to install despite its actual size of 145GB, Phantom Blade Zero makes me question what a gigabyte is worth",
+      "published": "2026-10-27T17:30:00+00:00",
+      "author": "Ashley Schofield",
+      "description": "We're not in a very cheap era for PC parts. A ( possibly manufactured! ) GPU shortage making cards that can actually run modern games near-inaccessible to the vast majority of people, combined with RAM and SSDs just generally being horrifically expensive due to demand for their use in data centers , is making contemporary games with high performance requirements very difficult for some people to justify even trying to run, let alone buy. S-Game's recent reveal of wuxia action game Phantom Blade…",
+      "link": "https://www.rockpapershotgun.com/demanding-300gb-to-install-despite-its-actual-size-of-145gb-phantom-blade-zero-makes-me-question-what-a-gigabyte-is-worth",
+      "image": "https://assetsio.gnwcdn.com/Phantom-Blade-Zero_vkoaxhx.png?width=690&quality=85&format=jpg&auto=webp",
+      "feed_name": "Rock, Paper, Shotgun",
+      "feed_title": "Rock, Paper, Shotgun",
+      "category": "gaming",
+      "feed_url": "http://feeds.feedburner.com/RockPaperShotgun",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.rockpapershotgun.com&sz=64"
     },
     {
       "id": "76b8484c-7791-4ac6-bfd4-a6dbec54c73a",
@@ -320,6 +404,20 @@
       "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
     },
     {
+      "id": "https://www.rockpapershotgun.com/this-is-a-serious-incident-kingdom-come-deliverance-2-devs-warhorse-hit-by-cyberattack-targeting-their-systems-and-data",
+      "title": "\"This is a serious incident\": Kingdom Come: Deliverance 2 devs Warhorse hit by cyberattack targeting their systems and data",
+      "published": "2026-10-27T17:00:00+00:00",
+      "author": "Mark Warren",
+      "description": "Kingdom Come Deliverance 2 developers Warhorse, who're also working on a Lord of the Rings RPG , have revealed that they've been targeted by a cyberattack aiming to access their systems and data. The studio are currently working to make sure their locks are all clicked back into place and tolearn exactly how the incident happened. Read more",
+      "link": "https://www.rockpapershotgun.com/this-is-a-serious-incident-kingdom-come-deliverance-2-devs-warhorse-hit-by-cyberattack-targeting-their-systems-and-data",
+      "image": "https://assetsio.gnwcdn.com/kingdom-come-deliverance-2-multiplayer-mod-work-in-progress-01.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "feed_name": "Rock, Paper, Shotgun",
+      "feed_title": "Rock, Paper, Shotgun",
+      "category": "gaming",
+      "feed_url": "http://feeds.feedburner.com/RockPaperShotgun",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.rockpapershotgun.com&sz=64"
+    },
+    {
       "id": "https://www.eurogamer.net/warhorse-cyberattack-kingdom-come-deliverance",
       "title": "\"This is a serious incident\" - Kingdom Come: Deliverance developer Warhorse suffers cyberattack",
       "published": "2026-10-27T16:53:16+00:00",
@@ -374,6 +472,20 @@
       "category": "gaming",
       "feed_url": "https://www.polygon.com/rss/index.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.polygon.com&sz=64"
+    },
+    {
+      "id": "https://www.rockpapershotgun.com/street-fighter-v-temporarily-delisted-and-online-functions-turned-off-due-to-issues-caused-by-last-weeks-php-security-flaw",
+      "title": "Street Fighter V temporarily delisted and online functions turned off due to issues caused by last week's PHP security flaw",
+      "published": "2026-10-27T16:30:29+00:00",
+      "author": "Ashley Schofield",
+      "description": "Though Street Fighter 6 has been the most popular fighting game in the world for three years running, there are still dedicated soldiers playing Street Fighter V right now. Be that due to its much larger character roster (thanks to many more years of updates, obviously, but I do personally miss G), its unique V-Skill and V-Trigger mechanics, or people just not liking Drive Rush or throw loops in 6, the playerbase is still very much there. Unfortunately, that playerbase is currently facing the c…",
+      "link": "https://www.rockpapershotgun.com/street-fighter-v-temporarily-delisted-and-online-functions-turned-off-due-to-issues-caused-by-last-weeks-php-security-flaw",
+      "image": "https://assetsio.gnwcdn.com/Ryu_s242zoh.png?width=690&quality=85&format=jpg&auto=webp",
+      "feed_name": "Rock, Paper, Shotgun",
+      "feed_title": "Rock, Paper, Shotgun",
+      "category": "gaming",
+      "feed_url": "http://feeds.feedburner.com/RockPaperShotgun",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.rockpapershotgun.com&sz=64"
     },
     {
       "id": "f44cd943-5b7a-4309-ac08-dd287434c6e5",
@@ -544,6 +656,20 @@
       "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
     },
     {
+      "id": "https://www.rockpapershotgun.com/virtue-and-a-sledgehammer-review",
+      "title": "Virtue and a Sledgehammer review – a haunting sci-fi drama about breaking walls, AI faces, and your heart",
+      "published": "2026-10-27T16:00:00+00:00",
+      "author": "James Archer",
+      "description": "It’s been well over a week since my final swing of Virtue and a Sledgehammer ’s righteous whacking stick, and I’m still finding it difficult to shift the game from my thoughtspace. Having tempted me in with promises of cathartic, base-instinct vengeance against a town of roboticised arseholes, it’s since had me picking through the rubble of my own demolition spree, not so much looking for meaning as trying to parse the abundance of it. I’d gladly invite you to join me in the wreckage. Read more",
+      "link": "https://www.rockpapershotgun.com/virtue-and-a-sledgehammer-review",
+      "image": "https://assetsio.gnwcdn.com/Virtue-and-a-Sledgehammer-review-header-BB.png?width=690&quality=85&format=jpg&auto=webp",
+      "feed_name": "Rock, Paper, Shotgun",
+      "feed_title": "Rock, Paper, Shotgun",
+      "category": "gaming",
+      "feed_url": "http://feeds.feedburner.com/RockPaperShotgun",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.rockpapershotgun.com&sz=64"
+    },
+    {
       "id": "https://www.polygon.com/mtg-dnd-wizards-of-the-coast-new-president-hasbro-announced/",
       "title": "D&D Boss Officially Named Head of Wizards of the Coast",
       "published": "2026-10-27T15:59:33+00:00",
@@ -584,6 +710,20 @@
       "category": "gaming",
       "feed_url": "https://www.gamespot.com/feeds/mashup/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.gamespot.com&sz=64"
+    },
+    {
+      "id": "https://www.rockpapershotgun.com/every-piece-is-unified-dark-messiah-of-might-and-magic-returns-with-co-op-an-adventure-mode-a-level-generator-and-new-game-in-the-64-bit-community-edition",
+      "title": "\"Every piece is unified\": Dark Messiah of Might and Magic returns with co-op, an Adventure mode, a level generator and New Game+ in the 64-bit Community Edition",
+      "published": "2026-10-27T15:38:47+00:00",
+      "author": "Ashley Schofield",
+      "description": "First announced back in March , Dark Messiah of Might and Magic: Community Edition is a fan-made mod (for Dark Messiah of Might and Magic , obvs) that spruces up Arkane's 2006 RPG, including upgrading it to a newer version of the Source engine. Details have been scarce since then, but an updated Steam page confirms what other additions the mod – which is being made with the blessing of both Valve and original publishers Ubisoft – is making. Read more",
+      "link": "https://www.rockpapershotgun.com/every-piece-is-unified-dark-messiah-of-might-and-magic-returns-with-co-op-an-adventure-mode-a-level-generator-and-new-game-in-the-64-bit-community-edition",
+      "image": "https://assetsio.gnwcdn.com/Of-Might-and-Magic.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "feed_name": "Rock, Paper, Shotgun",
+      "feed_title": "Rock, Paper, Shotgun",
+      "category": "gaming",
+      "feed_url": "http://feeds.feedburner.com/RockPaperShotgun",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.rockpapershotgun.com&sz=64"
     },
     {
       "id": "https://www.eurogamer.net/ecstatica-now-playing",
@@ -1413,7 +1553,7 @@
     },
     {
       "id": "https://www.rockpapershotgun.com/boltgun-2-and-warhammer-survivors-devs-auroch-digital-say-theyre-laying-of-25-of-their-staff-in-now-deleted-posts",
-      "title": "Boltgun 2 and Warhammer Survivors devs Auroch Digital say they're laying of 25% of their staff in now-deleted posts",
+      "title": "Boltgun 2 and Warhammer Survivors devs Auroch Digital say they're laying off 25% of their staff in now-deleted posts",
       "published": "2026-10-27T10:06:45+00:00",
       "author": "Ashley Schofield",
       "description": "Not long after releasing boomer shooter Warhammer 40,000: Boltgun II and right before Warhammer Survivors launches in November, developers Auroch Digital have unfortunately given a public statement confirming that roughly a quarter of its current staff will be laid off as part of a restructuring. What's strange — to the point that layoffs are, unfortunately, expected — is that the initial social media posts, on both LinkedIn and Twitter , have now been deleted. Read more",

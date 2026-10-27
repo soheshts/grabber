@@ -1,9 +1,30 @@
 {
   "category": "books",
-  "updated": "2026-10-27T18:32:45.192559+00:00",
-  "count": 89,
-  "summary": null,
+  "updated": "2026-10-27T19:03:04.489550+00:00",
+  "count": 90,
+  "summary": {
+    "text": "• Book Riot published a list of 31 of the most popular horror books on Libby.\n• The list includes longstanding classics, new releases, and a few adapted titles.\n• This is the only books item from the past hour.",
+    "generated_at": "2026-10-27T19:03:04.489550+00:00",
+    "window_minutes": 60,
+    "item_count": 1,
+    "key": "9c06ea9558196a6c8be3c1b6de7e70cd98112dfb",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "https://bookriot.com/?p=664163",
+      "title": "31 of the Most Popular Horror Books on Libby",
+      "published": "2026-10-27T18:36:05+00:00",
+      "author": "Community",
+      "description": "The most popular horror books on Libby include longstanding classics, new releases, and even a few adapted titles.",
+      "link": "https://bookriot.com/most-popular-horror-books-on-libby-october-2026/",
+      "image": "https://bookriot.com/wp-content/uploads/2026/10/spooky-libby-logo.jpg.optimal.jpg",
+      "feed_name": "BOOK RIOT",
+      "feed_title": "BOOK RIOT",
+      "category": "books",
+      "feed_url": "https://bookriot.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=bookriot.com&sz=64"
+    },
     {
       "id": "https://www.newinbooks.com/new-mystery-and-thriller-books-to-read-october-27-2026/",
       "title": "New Mystery and Thriller Books to Read | October 27",
