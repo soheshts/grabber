@@ -1,8 +1,22 @@
 {
   "category": "personal blogs",
-  "updated": "2026-10-27T08:02:50.988258+00:00",
-  "count": 420,
+  "updated": "2026-10-27T08:33:09.750762+00:00",
+  "count": 421,
   "items": [
+    {
+      "id": "https://www.silvestar.codes/articles/chrome-theme-cita/",
+      "title": "Chrome Theme CiTA",
+      "published": "2026-10-27T09:00:00+00:00",
+      "author": "s (Silvestar Bistrović",
+      "description": "After the VS Code theme, I built a Chrome theme based on my website colors. I built light and dark versions, so you can choose the one that suits you better.",
+      "link": "https://www.silvestar.codes/articles/chrome-theme-cita/",
+      "image": "https://www.silvestar.codes/og.png?text=Chrome+Theme+CiTA",
+      "feed_name": "Blog of fearless web developer Silvestar Bistrović",
+      "feed_title": "Blog of fearless web developer Silvestar Bistrović",
+      "category": "personal blogs",
+      "feed_url": "https://www.silvestar.codes/rss.xml",
+      "feed_icon": "https://www.silvestar.codes/android-chrome-512x512.png"
+    },
     {
       "id": "https://www.bennadel.com/blog/4921-code-kata-arraymerge-polyfill-in-adobe-coldfusion.htm",
       "title": "Code Kata: ArrayMerge() Polyfill In Adobe ColdFusion",
