@@ -1,16 +1,30 @@
 {
   "category": "technology",
-  "updated": "2026-10-27T23:03:05.147006+00:00",
-  "count": 752,
+  "updated": "2026-10-27T23:33:13.681814+00:00",
+  "count": 758,
   "summary": {
-    "text": "• Apple refreshed the iMac and entry-level MacBook Pro with the M6 chip; the N1 chip adds Wi-Fi 7 and Bluetooth 6.\n• Oura is suing Ultrahuman again for patent infringement, seeking to ban the Ring Pro.\n• Engadget covers spotting AI glasses and customizing Android Auto displays.\n• South Carolina's measles outbreak jumped to Washington state five times in two weeks.\n• A DIA assessment suggests China may soon deploy space-based directed energy weapons; its secret spaceplane can't hide in low orbit.",
-    "generated_at": "2026-10-27T23:03:05.147006+00:00",
+    "text": "• Apple refreshed the iMac and entry-level MacBook Pro with the M6 chip; the N1 chip brings Wi-Fi 7.\n• Some new iPhone Duo foldables reportedly have broken inner screens, possibly tied to the hinge.\n• Ford's $28,350 Fathom electric truck will offer built-in bidirectional home charging up to 10 kW.\n• AT&T is paying its $177 million data breach settlement; claims filed by Dec. 18, 2025 may get checks up to $7,500.",
+    "generated_at": "2026-10-27T23:33:13.681814+00:00",
     "window_minutes": 60,
     "item_count": 6,
-    "key": "74cb001ea5661a3b328f993f6a73631a11cdc4a5",
+    "key": "0efa64d0dc55689e1710fafff7ff174528213884",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.engadget.com/2299126/discord-server-messages-google-searchable-opt-out/",
+      "title": "Discord public server messages may be soon searchable on Google, but you can opt out",
+      "published": "2026-10-27T23:04:49+00:00",
+      "author": "Anna Washenko",
+      "description": "The platform's Discoverable Servers are about to get a lot more discoverable.",
+      "link": "https://www.engadget.com/2299126/discord-server-messages-google-searchable-opt-out/",
+      "image": "https://www.engadget.com/img/gallery/discord-public-server-messages-may-be-soon-searchable-on-google-but-you-can-opt-out/l-intro-1793141144.jpg",
+      "feed_name": "Engadget",
+      "feed_title": "Engadget - Technology News & Expert Reviews",
+      "category": "technology",
+      "feed_url": "https://www.engadget.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
     {
       "id": "https://www.engadget.com/2296047/how-to-change-customize-android-auto-display/",
       "title": "How to change and customize your Android Auto display",
@@ -24,6 +38,48 @@
       "category": "technology",
       "feed_url": "https://www.engadget.com/rss.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
+    {
+      "id": "https://hardware.slashdot.org/story/26/10/27/2151204/fords-most-affordable-ev-will-offer-built-in-bidirectional-home-charging?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "title": "Ford's Most Affordable EV Will Offer Built-In Bidirectional Home Charging",
+      "published": "2026-10-27T23:00:00+00:00",
+      "author": "BeauHD",
+      "description": "Ford's upcoming $28,350 Fathom electric truck will include a built-in inverter capable of supplying up to 10 kW of AC power to a home, bringing bidirectional charging to a significantly cheaper EV. Owners will still need additional Ford home hardware for features like outage backup and peak-rate energy management, but the company expects the necessary equipment to cost substantially less than its previous-generation system. CNET reports: The upcoming Fathom will be based on what Ford calls its…",
+      "link": "https://hardware.slashdot.org/story/26/10/27/2151204/fords-most-affordable-ev-will-offer-built-in-bidirectional-home-charging?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+      "feed_name": "Slashdot",
+      "feed_title": "Slashdot",
+      "category": "technology",
+      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
+    },
+    {
+      "id": "5117562",
+      "title": "AT&T Is Paying Out Its $177 Million Data Breach Settlement. You Might Get a Check Soon",
+      "published": "2026-10-27T22:56:47+00:00",
+      "author": "Tyler Graham",
+      "description": "If you filed a claim by Dec. 18, 2025, a check for up to $7,500 could be on its way within the next few months.",
+      "link": "https://www.cnet.com/tech/mobile/att-is-paying-out-its-177-million-data-breach-settlement-you-might-get-a-check-soon/",
+      "image": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2299681702.jpg",
+      "feed_name": "CNET News",
+      "feed_title": "News – CNET",
+      "category": "technology",
+      "feed_url": "https://www.cnet.com/rss/news/",
+      "feed_icon": "https://www.cnet.com/wp-content/uploads/sites/2/cropped-favicon-480.png?w=32"
+    },
+    {
+      "id": "https://www.theverge.com/?p=1020145",
+      "title": "Here’s why the iPhone Duo’s hinge could be cracking the screen",
+      "published": "2026-10-27T22:55:05+00:00",
+      "author": "Jay Peters",
+      "description": "Within hours of the iPhone Duo launch last Friday, people reported that the inner screen on some brand new foldable phones was already broken. The issue was similar across many photos shared on social media: some kind of issue or crack would appear in the middle of the screen above the hinge, with lines appearing […]",
+      "link": "https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/iPhone-Duo_208.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "feed_name": "The Verge -  All Posts",
+      "feed_title": "The Verge",
+      "category": "technology",
+      "feed_url": "https://www.theverge.com/rss/index.xml",
+      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
     },
     {
       "id": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/",
@@ -122,6 +178,34 @@
       "category": "technology",
       "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
       "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
+    },
+    {
+      "id": "019JsP5BqYtIfED6nCAONwa",
+      "title": "Never mow your lawn again: Roborock’s RockMow X130H robot lawn mower is $500 off at Amazon",
+      "published": "2026-10-27T22:00:00+00:00",
+      "author": null,
+      "description": "Tackle up to one acre with zero perimeter wires. Roborock’s 4WD RockMow X130H robot lawn mower is 20% off at Amazon, hitting an all-time best price of $1,999.98.",
+      "link": "https://mashable.com/tech/oct-27-roborock-rockmow-x130h-robot-lawn-mower-deal",
+      "image": "https://helios-i.mashable.com/imagery/articles/019JsP5BqYtIfED6nCAONwa/hero-image.png",
+      "feed_name": "Mashable",
+      "feed_title": "Mashable",
+      "category": "technology",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
+    },
+    {
+      "id": "03bqoxD7Iia905PWKn5YjZV",
+      "title": "Your projects need a plan — Microsoft Project 2024 is on sale for just $49.97",
+      "published": "2026-10-27T22:00:00+00:00",
+      "author": null,
+      "description": "Get Microsoft Project Professional 2024 for Windows for $49.97 through Nov. 1, with a lifetime license for one PC, scheduling tools, and built-in reports.",
+      "link": "https://mashable.com/tech/oct-27-microsoft-project-professional-2024-lifetime-license-for-windows",
+      "image": "https://helios-i.mashable.com/imagery/articles/03bqoxD7Iia905PWKn5YjZV/hero-image.jpg",
+      "feed_name": "Mashable",
+      "feed_title": "Mashable",
+      "category": "technology",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
     },
     {
       "id": "5117455",

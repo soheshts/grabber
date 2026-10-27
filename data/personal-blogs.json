@@ -1,9 +1,23 @@
 {
   "category": "personal blogs",
-  "updated": "2026-10-27T23:03:05.147006+00:00",
-  "count": 424,
+  "updated": "2026-10-27T23:33:13.681814+00:00",
+  "count": 425,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.raymondcamden.com/2026/10/27/generating-pdf-invoices-from-word-templates-with-officeparser",
+      "title": "Generating PDF Invoices from Word Templates with officeParser",
+      "published": "2026-10-27T18:00:00+00:00",
+      "author": "Raymond Camden",
+      "description": "Last week I shared a demo ( \"Generating PDFs from Word Templates with officeParser\" ) that made use of the awesome officeParser open source library. That demo was a simple \"customer report\" web app that took custom data and a Word template. Once the form was submitted, the library converted tokens in the Word template to real data and output a PDF. I decided to build another demo using the library, this time on the server with a simple Node.js script. As I mentioned previously, this new feature…",
+      "link": "https://www.raymondcamden.com/2026/10/27/generating-pdf-invoices-from-word-templates-with-officeparser",
+      "image": "https://static.raymondcamden.com/images/2026/10/word1.jpg",
+      "feed_name": "Raymond Camden",
+      "feed_title": "Raymond Camden",
+      "category": "personal blogs",
+      "feed_url": "https://www.raymondcamden.com/feed.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.raymondcamden.com&sz=64"
+    },
     {
       "id": "https://www.kooslooijesteijn.net/blog/you-are-the-best-artist",
       "title": "You are the best artist",

@@ -1,16 +1,44 @@
 {
   "category": "science",
-  "updated": "2026-10-27T23:03:05.147006+00:00",
-  "count": 545,
+  "updated": "2026-10-27T23:33:13.681814+00:00",
+  "count": 547,
   "summary": {
-    "text": "• Rubin Observatory spotted a dwarf planet candidate, 2026 ED138, beyond Pluto.\n• An open database standardizes satellite data to track Earth's water cycle, and riverbank trees are being studied to cool salmon rivers.\n• Three-quarters of responses to a 2023 UK smoke-free consultation were reportedly AI bot-generated.\n• Vesicle models show how nonreciprocal interactions produce lifelike behavior, while a counteranion boosts light-driven chemistry.",
-    "generated_at": "2026-10-27T23:03:05.147006+00:00",
+    "text": "• Biodiversity hotspots in southwestern Germany are losing species richness as climate change and land-use shifts alter habitats and plant diversity.\n• Earth's climate \"thermostat\" may have worked differently during the Pangea era.\n• Models show identical vesicles can behave differently through spontaneous asymmetry, yielding lifelike behavior.\n• Brain perception may explain the Bloody Mary mirror legend.\n• A \"simple recipe\" eases mass spectrometry imaging of tissue for cancer and brain research.",
+    "generated_at": "2026-10-27T23:33:13.681814+00:00",
     "window_minutes": 60,
-    "item_count": 8,
-    "key": "66bc6ff5c5684516ceac0ad07d2655a473a7a96f",
+    "item_count": 5,
+    "key": "cb24e3839e667faad8660e9326701f23121b60fe",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "news712318621",
+      "title": "Biodiversity hotspots in southwestern Germany are losing their species richness",
+      "published": "2026-10-27T23:20:09+00:00",
+      "author": null,
+      "description": "Climate change and shifts in land use are affecting habitats and, consequently, plant diversity. To better understand the consequences of these developments, long-term and comprehensive data are essential. The \"Floristic Mapping of Baden-Württemberg,\" coordinated by the Stuttgart State Museum of Natural History, provides a foundation for this. The data collected over five decades as part of this citizen science project document significant changes in the flora of southwestern Germany, drawing o…",
+      "link": "https://phys.org/news/2026-10-biodiversity-hotspots-southwestern-germany-species.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/biodiversity-hotspots.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "news712329541",
+      "title": "The way Earth's 'thermostat' works may have changed during Pangea era",
+      "published": "2026-10-27T23:20:06+00:00",
+      "author": null,
+      "description": "Life arose on Earth at least 3.5 billion years ago, and our planet has remained habitable ever since—not too hot, not too cold. These life-sustaining conditions are possible in part thanks to a built-in, carbon cycle–based climate \"thermostat\" that controls the amount of carbon dioxide in the atmosphere.",
+      "link": "https://phys.org/news/2026-10-earth-thermostat-pangea-era.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/illustrated-image-of-p.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
     {
       "id": "news712326001",
       "title": "Identical vesicles, different behaviors: Model reveals how spontaneous asymmetry gives rise to lifelike behavior",

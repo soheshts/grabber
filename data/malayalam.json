@@ -1,16 +1,58 @@
 {
   "category": "Malayalam",
-  "updated": "2026-10-27T23:03:05.147006+00:00",
+  "updated": "2026-10-27T23:33:13.681814+00:00",
   "count": 1000,
   "summary": {
-    "text": "• Police: A senior civil police officer allegedly stole a found phone at Chandery station. In Theni, 13 of 17 jail escapees are in custody and nine officers are suspended.\n• Cyclone Arnab hit the coast before dawn, causing damage before landfall.\n• Koyyam road lacks safety barriers as accidents recur. Karinchola-Ettekara road's surface collapsed after soil slipped from its base.\n• Neeleshwaram fireworks tragedy marks two years. Nooalpuzha was named India's first e-waste-free panchayat.",
-    "generated_at": "2026-10-27T23:03:05.147006+00:00",
+    "text": "• A 47-year-old was sentenced to 28 years' rigorous imprisonment and a fine under POCSO for a 2018 assault on a second-grade girl.\n• Nine police officers were suspended after 17 undertrial prisoners escaped from Theni district jail; 13 have since been taken into custody.\n• The UAE honored Fly Dubai staff, including Smith Machar, for subduing an attacker and saving 174 passengers.\n• Nooppuzha became India's first e-waste-free panchayat, while CIAL launched DigiYatra for international passengers.",
+    "generated_at": "2026-10-27T23:33:13.681814+00:00",
     "window_minutes": 60,
-    "item_count": 29,
-    "key": "a3a0377f6af828a714cd17e5d8b0d0f3770df1d3",
+    "item_count": 26,
+    "key": "150921661f12add3afe48aae6689a6c98dfbe9ab",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.asianetnews.com/crime-news/47-year-old-repeated-offender-gets-28-year-sin-prison-for-raping-second-standard-student-articleshow-37lgztg",
+      "title": "രണ്ടാം ക്ലാസ് വിദ്യാർത്ഥിനിയെ ലൈംഗികമായി പീഡിപ്പിച്ച 47കാരന് 28 വർഷം കഠിനതടവും പിഴയും ശിക്ഷ",
+      "published": "2026-10-27T23:18:52+00:00",
+      "author": "Elsa TJ",
+      "description": "രണ്ടായിരത്തിപ്പതിനെട്ടിൽ നടന്ന ഈ സംഭവത്തിൽ പോക്സോ നിയമ പ്രകാരമാണ് ശിക്ഷ. ഇയാൾ പത്തനംതിട്ടയിലെ മറ്റൊരു പോക്സോ കേസിലും നിലവിൽ ശിക്ഷ അനുഭവിച്ചുവരുന്ന കുറ്റവാളിയാണ്.",
+      "link": "https://www.asianetnews.com/crime-news/47-year-old-repeated-offender-gets-28-year-sin-prison-for-raping-second-standard-student-articleshow-37lgztg",
+      "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-01m5zsn8k5sjn7s68pyfjxxztg,imgname-pocso-jail-1793142202981.jpg",
+      "feed_name": "Asianet News",
+      "feed_title": "Asianet News Malayalam",
+      "category": "Malayalam",
+      "feed_url": "https://www.asianetnews.com/rss",
+      "feed_icon": "https://static-assets.asianetnews.com/images/ogimages/OG_Malayalam.jpg"
+    },
+    {
+      "id": "https://www.asianetnews.com/pravasam/smith-machar-and-flydubai-crew-honoured-with-first-class-order-of-zayed-ii-by-uae-articleshow-qrd1h49",
+      "title": "സ്മിത്ത് മച്ചാർ ഉൾപ്പടെ ഫ്ളൈ ദുബായ് ജീവനക്കാർക്ക് യുഎഇയുടെ ഉന്നത ബഹുമതി",
+      "published": "2026-10-27T23:08:49+00:00",
+      "author": "Elsa TJ",
+      "description": "പരിക്കേറ്റിട്ടും അക്രമിയെ ചെറുത്ത് 174 യാത്രക്കാരുടെ ജീവൻ രക്ഷിച്ചതിനാണ് ആദരം. യാത്രക്കാരുടെയും മറ്റ് പൈലറ്റുമാരുടെയും സഹായത്തോടെ വിമാനം സൗദിയിൽ സുരക്ഷിതമായി ഇറക്കി വലിയ ദുരന്തം ഒഴിവാക്കിയിരുന്നു",
+      "link": "https://www.asianetnews.com/pravasam/smith-machar-and-flydubai-crew-honoured-with-first-class-order-of-zayed-ii-by-uae-articleshow-qrd1h49",
+      "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-01m485z91sktbddb6yb5q4rv21,imgname-captain-smith-undergoes-emergency-operation-1791276065847.png",
+      "feed_name": "Asianet News",
+      "feed_title": "Asianet News Malayalam",
+      "category": "Malayalam",
+      "feed_url": "https://www.asianetnews.com/rss",
+      "feed_icon": "https://static-assets.asianetnews.com/images/ogimages/OG_Malayalam.jpg"
+    },
+    {
+      "id": "https://www.mathrubhumi.com/news/kerala/cheranalloor-accident-wife-demands-justice-judge-dismissal-i4iy4fng",
+      "title": "‘കാര്യങ്ങൾ മാറ്റിമറിച്ചത് ജഡ്ജിയുടെ ആ വാക്കുകൾ ’",
+      "published": "2026-10-27T23:01:58+00:00",
+      "author": "കെ.വി. രാജശേഖരൻ",
+      "description": "",
+      "link": "https://www.mathrubhumi.com/news/kerala/cheranalloor-accident-wife-demands-justice-judge-dismissal-i4iy4fng",
+      "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uqaux03dbljd7ulute/0/bindu-jpg.jpg?w=384",
+      "feed_name": "Mathrubhumi News",
+      "feed_title": "Mathrubhumi",
+      "category": "Malayalam",
+      "feed_url": "https://sitemap.mpp.atexcloud.io/sitemaps/rss",
+      "feed_icon": "https://sitemap.mpp.atexcloud.io/sitemaps/logo.png"
+    },
     {
       "id": "https://www.mathrubhumi.com/kasaragod/news/localnews-kasaragod-w1rk3ifs",
       "title": "പൊളിച്ചുനീക്കാനും സാങ്കേതിക കടമ്പകൾ അപകടഭീഷണി തുടർന്ന് ജലസംഭരണി",
@@ -340,7 +382,7 @@
       "author": null,
       "description": "",
       "link": "https://www.mathrubhumi.com/news/india/arnab-cyclone-andhra-pradesh-high-alert-updates-2026-e81bar9o",
-      "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uqa8n0vyfc9rezaf83/0/arnab-cyclone-jpg.jpg?w=384",
+      "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uqa8n0vyfc9rezaf83/1/arnab-cyclone-jpg.jpg?w=384",
       "feed_name": "Mathrubhumi News",
       "feed_title": "Mathrubhumi",
       "category": "Malayalam",
@@ -8027,10 +8069,10 @@
       "description": "ബോളിവുഡിലെ ഏറ്റവും ജനപ്രിയ താരദമ്പതികളിൽ ഒരു ജോ‍ഡിയാണ് രൺബീർ കപൂറും ആലിയ ഭട്ടും. എന്നാൽ രൺബീർ സിംഗിളായിരുന്ന കാലത്ത് തന്റെ മകന് അനുയോജ്യയായ പെൺകുട്ടി എങ്ങനെയായിരിക്കണം എന്നതിനെ കുറിച്ച് മുതിർന്ന നടിയും താരത്തിന്റെ അമ്മയുമായ നീതു കപൂർ പറഞ്ഞ വാക്കുകൾ ഏറെ ശ്രദ്ധ നേടിയിരുന്നു. Before Alia Bhatt, Neetu Kapoor Revealed What She Wanted In Ranbir Kapoor's Future Wife",
       "link": "https://malayalam.filmibeat.com/bollywood/before-alia-bhatt-neetu-kapoor-revealed-what-she-wanted-in-ranbir-kapoor-s-future-wife-145841.html",
       "image": "https://images.filmibeat.com/webp/ml/img/2026/10/alianew-56731793076612.jpg",
-      "feed_name": "Filmibeat",
-      "feed_title": "Malayalam Film News, Reviews, Box Office | മലയാളം സിനിമ വാർത്തകൾ, റിവ്യൂ, ഗോസിപ്പ്, ബോക്സ് ഓഫീസ് റിപ്പോർട്ട് - Filmibeat Malayalam",
+      "feed_name": "Filmibeat Bollywood",
+      "feed_title": "Bollywood Movie News in Malayalam | Movie Reviews Malayalam | List of Malayalam Movies Malayalam – FilmiBeat Malayalam",
       "category": "Malayalam",
-      "feed_url": "https://malayalam.filmibeat.com/rss/feeds/filmibeat-malayalam-fb.xml",
+      "feed_url": "https://malayalam.filmibeat.com/rss/feeds/malayalam-bollywood-fb.xml",
       "feed_icon": "https://images.oneindia.com/images/rss/filmibeat-malayalam-logo.png"
     },
     {
@@ -13968,48 +14010,6 @@
       "category": "Malayalam",
       "feed_url": "https://www.asianetnews.com/rss",
       "feed_icon": "https://static-assets.asianetnews.com/images/ogimages/OG_Malayalam.jpg"
-    },
-    {
-      "id": "https://www.asianetnews.com/videos/news/lost-faith-in-judiciary-no-law-or-police-support-for-us-videoshow-0go57p5",
-      "title": "'ഒരു നിയമമോ പൊലീസോ ഞങ്ങള്‍ക്കൊപ്പമില്ല, ജുഡീഷ്യറിയോടുള്ള വിശ്വാസം നഷ്ടപ്പെട്ടു'",
-      "published": "2026-10-26T11:35:04+00:00",
-      "author": "Web Desk",
-      "description": "<p>'ഒരു നിയമമോ പൊലീസോ ഞങ്ങള്‍ക്കൊപ്പമില്ല, ജുഡീഷ്യറിയോടുള്ള വിശ്വാസം നഷ്ടപ്പെട്ടു, നടപടി എടുക്കും വരെ ഞങ്ങള്‍ ഇവിടെ ഉണ്ടാകും; ചേരാനല്ലൂര്‍ പൊലീസ് സ്റ്റേഷന് മുന്നില്‍ കുത്തിയിരുന്ന് ജയബാലകൃഷ്ണന്‍റെ കുടുംബം</p>",
-      "link": "https://www.asianetnews.com/videos/news/lost-faith-in-judiciary-no-law-or-police-support-for-us-videoshow-0go57p5",
-      "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-7161b50f-2b1c-4020-8381-af46ca062987.jpg",
-      "feed_name": "Asianet News",
-      "feed_title": "Asianet News Malayalam",
-      "category": "Malayalam",
-      "feed_url": "https://www.asianetnews.com/rss",
-      "feed_icon": "https://static-assets.asianetnews.com/images/ogimages/OG_Malayalam.jpg"
-    },
-    {
-      "id": "https://www.onmanorama.com/kerala/top-news/2026/10/26/rack-collapses-at-corporation-s-multi-level-car-parking-facility.html",
-      "title": "Rack collapses at Kannur Corporation's multi-level car parking facility, major disaster averted",
-      "published": "2026-10-26T11:34:25+00:00",
-      "author": null,
-      "description": "A storage rack collapsed at Kannur’s automated car park during maintenance, causing no injuries. While Mayor P. Indira blamed a slipped jack, locals demanded safety audits after the troubled facility suffered previous neglect.",
-      "link": "https://www.onmanorama.com/kerala/top-news/2026/10/26/rack-collapses-at-corporation-s-multi-level-car-parking-facility.html",
-      "image": "https://img.onmanorama.com/content/dam/mm/en/archive/kerala/top-news/images/2026/10/26/Untitled design (82).jpg",
-      "feed_name": "On Manorama",
-      "feed_title": "Kerala",
-      "category": "Malayalam",
-      "feed_url": "https://www.onmanorama.com/kerala.feeds.onmrss.xml",
-      "feed_icon": "https://img.onmanorama.com/content/dam/mm/en/onm-newlogos/onmanorama-new-logo-feb.jpg"
-    },
-    {
-      "id": "https://www.mathrubhumi.com/videos/specials/veliyathunad-mushroom-village-kerala-pk4mod6b",
-      "title": "10-ൽ നിന്ന് 2,000 കർഷകരിലേക്ക്: ഒരു നാട് ഒന്നാകെ 'കൂൺ ഗ്രാമം' ആയ കഥ",
-      "published": "2026-10-26T11:34:18+00:00",
-      "author": null,
-      "description": "",
-      "link": "https://www.mathrubhumi.com/videos/specials/veliyathunad-mushroom-village-kerala-pk4mod6b",
-      "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1up38low1cj72x1if2n/0/ytthumb_02-jpg-jpeg.jpg?w=384",
-      "feed_name": "Mathrubhumi News",
-      "feed_title": "Mathrubhumi",
-      "category": "Malayalam",
-      "feed_url": "https://sitemap.mpp.atexcloud.io/sitemaps/rss",
-      "feed_icon": "https://sitemap.mpp.atexcloud.io/sitemaps/logo.png"
     }
   ]
 }
