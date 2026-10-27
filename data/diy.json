@@ -1,9 +1,51 @@
 {
   "category": "DIY",
-  "updated": "2026-10-27T12:33:31.813799+00:00",
-  "count": 182,
+  "updated": "2026-10-27T13:03:12.270034+00:00",
+  "count": 185,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/opera-new-browser-turns-webpages-into-3d-playgrounds/",
+      "title": "You can now drop working webpages into 3D rooms with Opera's latest update",
+      "published": "2026-10-27T13:01:16+00:00",
+      "author": "Sara Heritage",
+      "description": "On-device AI powers a hands-on playground with eight local APIs for prompts summarization translation and semantic embedding.",
+      "link": "https://www.makeuseof.com/opera-new-browser-turns-webpages-into-3d-playgrounds/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2026/10/html-canvas-opera.png",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.makeuseof.com/android-sensors-off-tile/",
+      "title": "Android hides a tile that cuts every sensor and it’s the best privacy feature yet",
+      "published": "2026-10-27T13:01:16+00:00",
+      "author": "Keval Shukla",
+      "description": "Explore the untapped potential of Android's secret Quick Settings tile and uncover a game-changing privacy feature.",
+      "link": "https://www.makeuseof.com/android-sensors-off-tile/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/09/sensor-off-tile-feature-image.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/ive-been-observing-iphone-users-and-theres-one-thing-they-all-hate/",
+      "title": "I've been observing iPhone users and there's one thing they all hate",
+      "published": "2026-10-27T13:00:15+00:00",
+      "author": "Joe Fedewa",
+      "description": "Do you want to eat pizza? The iPhone keyboard says emancipate slipper animals.",
+      "link": "https://www.howtogeek.com/ive-been-observing-iphone-users-and-theres-one-thing-they-all-hate/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/iphone-keyboard-with-angry-emoji.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/bosch-has-a-cross-brand-battery-that-works-on-over-150-tools/",
       "title": "Bosch has an 18V battery that works with 10 different tool brands",
