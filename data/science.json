@@ -1,8 +1,36 @@
 {
   "category": "science",
-  "updated": "2026-10-27T06:33:32.458762+00:00",
-  "count": 388,
+  "updated": "2026-10-27T07:02:31.062439+00:00",
+  "count": 389,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/10/27/science/docktober-nudibranchs.html",
+      "title": "It’s Docktober. Do You Know Where the Sea Slugs Are?",
+      "published": "2026-10-27T06:45:25+00:00",
+      "author": "Chona Kasinger and Alan Burdick",
+      "description": "Where there are floating docks, there are often communities of colorful marine organisms just below — and a community of curious people just above.",
+      "link": "https://www.nytimes.com/2026/10/27/science/docktober-nudibranchs.html",
+      "image": null,
+      "feed_name": "NYT > Science",
+      "feed_title": "NYT > Science",
+      "category": "science",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c5vgj8xwyj1zo#0",
+      "title": "New weather warnings as third storm set to hit Scotland",
+      "published": "2026-10-27T06:35:26+00:00",
+      "author": null,
+      "description": "The country is braced for the third storm in as many days as communities continue to clean up after the weekend.",
+      "link": "https://www.bbc.co.uk/news/articles/c5vgj8xwyj1zo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aba6/live/8eb52fa0-d14a-11f1-9eb5-811878e0f07d.jpg",
+      "feed_name": "BBC News - Science & Environment",
+      "feed_title": "BBC News",
+      "category": "science",
+      "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/c3dxwjx7xpj0o#1",
       "title": "Tiny zebra-striped bee in West a 'huge surprise'",
@@ -38,7 +66,7 @@
       "author": null,
       "description": "A yellow warning for strong winds came in effect at 18:00 on Monday across the west coast of England, Wales and Scotland and eastern parts of Northern Ireland.",
       "link": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45fe/live/d45701d0-d165-11f1-93e1-3b657b665bcf.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fd9/live/430c9a00-d1d3-11f1-93e1-3b657b665bcf.jpg",
       "feed_name": "BBC News - Science & Environment",
       "feed_title": "BBC News",
       "category": "science",
@@ -268,20 +296,6 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c5vgj8xwyj1zo#0",
-      "title": "New weather warnings as third storm set to hit Scotland",
-      "published": "2026-10-26T23:00:14+00:00",
-      "author": null,
-      "description": "The country is braced for the third storm in as many days as communities continue to clean up after the weekend.",
-      "link": "https://www.bbc.co.uk/news/articles/c5vgj8xwyj1zo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aba6/live/8eb52fa0-d14a-11f1-9eb5-811878e0f07d.jpg",
-      "feed_name": "BBC News - Science & Environment",
-      "feed_title": "BBC News",
-      "category": "science",
-      "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "news712234922",
