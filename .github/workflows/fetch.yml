@@ -1,6 +1,4 @@
 on:
-  schedule:
-    - cron: "7,28,49 * * * *"   # ~every 21 min, avoiding the :00 rush
   workflow_dispatch:
 permissions:
   contents: write
@@ -16,6 +14,9 @@ jobs:
         with: { python-version: "3.12" }
       - run: pip install feedparser requests
       - run: python fetch.py
+        env:
+          AICREDITS_API_KEY: ${{ secrets.AICREDITS_API_KEY }}
+          SUMMARY_MODEL: ${{ vars.SUMMARY_MODEL }}
       - run: |
           git config user.name "bot"
           git config user.email "bot@users.noreply.github.com"
