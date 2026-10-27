@@ -1,7 +1,7 @@
 {
   "category": "fashion",
-  "updated": "2026-10-27T21:03:44.062625+00:00",
-  "count": 232,
+  "updated": "2026-10-27T21:33:12.522645+00:00",
+  "count": 233,
   "summary": {
     "text": "• Nordstrom has new sweaters under $100, including crewnecks and cardigans.\n• Fine gold jewelry is worth wearing every day, not just for special occasions, according to a Who What Wear piece highlighting Tiffany's HardWear collection.",
     "generated_at": "2026-10-27T21:03:44.062625+00:00",
@@ -11,6 +11,34 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/10/27/style/taylor-swift-wedding-photos-daily-mail.html",
+      "title": "“Leaked” Photos From Taylor Swift Wedding Don’t Reveal Much",
+      "published": "2026-10-27T21:11:29+00:00",
+      "author": "Alisha Haridasani Gupta",
+      "description": "Complete secrecy is the new luxury.",
+      "link": "https://www.nytimes.com/2026/10/27/style/taylor-swift-wedding-photos-daily-mail.html",
+      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27st-swiftwed-gcmt/27st-swiftwed-gcmt-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Style",
+      "feed_title": "NYT > Style",
+      "category": "fashion",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "wdZdP74YWBaayKDhFbu53Y",
+      "title": "I Spent Over 10 Years Perfecting a Frizz-Free Hair Routine—These 15 Products Are My Secret",
+      "published": "2026-10-27T21:00:00+00:00",
+      "author": "Sabrina Talbert",
+      "description": "After years of testing, these reign supreme.",
+      "link": "https://www.whowhatwear.com/beauty/hair/products-for-frizzy-hair",
+      "image": "https://cdn.mos.cms.futurecdn.net/8sFa8TvBSu4FiDD3WZmcnR-1920-80.png",
+      "feed_name": "Who What Wear",
+      "feed_title": "Latest from Who What Wear",
+      "category": "fashion",
+      "feed_url": "https://www.whowhatwear.com/rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.whowhatwear.com&sz=64"
+    },
     {
       "id": "NKxNq5EWFhsvaQDcGUNPcJ",
       "title": "These Are the Best New Sweaters at Nordstrom—and They’re All Under $100",
@@ -136,20 +164,6 @@
       "category": "fashion",
       "feed_url": "https://www.elle.com/rss/fashion.xml/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.elle.com&sz=64"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/10/27/style/taylor-swift-wedding-photos-daily-mail.html",
-      "title": "“Leaked” Photos From Taylor Swift Wedding Don’t Reveal Much",
-      "published": "2026-10-27T17:58:30+00:00",
-      "author": "Alisha Haridasani Gupta",
-      "description": "Complete secrecy is the new luxury.",
-      "link": "https://www.nytimes.com/2026/10/27/style/taylor-swift-wedding-photos-daily-mail.html",
-      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27st-swiftwed-gcmt/27st-swiftwed-gcmt-mediumSquareAt3X.jpg",
-      "feed_name": "NYT > Style",
-      "feed_title": "NYT > Style",
-      "category": "fashion",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "4Quf2vWGY3bGpMqoiWQ7oA",

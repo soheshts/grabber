@@ -1,9 +1,30 @@
 {
   "category": "funny",
-  "updated": "2026-10-27T21:03:44.062625+00:00",
-  "count": 182,
-  "summary": null,
+  "updated": "2026-10-27T21:33:12.522645+00:00",
+  "count": 183,
+  "summary": {
+    "text": "• The Onion reports that Japan passed unpopular revisions to imperial succession, allowing only males to become emperor.\n• The change reportedly excludes Princess Aiko, who is described as popular, from becoming empress.\n• The item comes from The Onion, a satirical outlet, and the excerpt is cut off, so details are limited.",
+    "generated_at": "2026-10-27T21:33:12.522645+00:00",
+    "window_minutes": 60,
+    "item_count": 1,
+    "key": "912862c3fa6498f8148c9c8a045eedb58417d580",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "https://theonion.com/?p=1851709750",
+      "title": "Japan Enshrines Male-Only Imperial Succession",
+      "published": "2026-10-27T21:04:21+00:00",
+      "author": "The Onion Staff",
+      "description": "Japan passed deeply unpopular revisions surrounding imperial succession that allows only males to ascend to emperor, snubbing the popular Japanese Princess Aiko from becoming empress. What do you think? The post Japan Enshrines Male-Only Imperial Succession appeared first on The Onion .",
+      "link": "https://theonion.com/japan-enshrines-male-only-imperial-succession/",
+      "image": "https://theonion.com/wp-content/uploads/2025/05/Face-Young-Woman.jpg?w=200",
+      "feed_name": "The Onion",
+      "feed_title": "The Onion",
+      "category": "funny",
+      "feed_url": "https://www.theonion.com/rss",
+      "feed_icon": "https://theonion.com/wp-content/uploads/2024/07/cropped-site-icon.png?w=32"
+    },
     {
       "id": "https://theonion.com/?p=1851709744",
       "title": "Should Food Cost More?",

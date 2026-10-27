@@ -1,9 +1,30 @@
 {
   "category": "space",
-  "updated": "2026-10-27T21:03:44.062625+00:00",
-  "count": 118,
-  "summary": null,
+  "updated": "2026-10-27T21:33:12.522645+00:00",
+  "count": 119,
+  "summary": {
+    "text": "• Space.com published a first-person account of underwater \"spacewalks\" led by Analog Astronaut Commander and Aquanaut Michaela Musilova.\n• The simulated spacewalks were conducted in low visibility conditions.\n• They were designed to test astronaut safety and communication protocols for simulated space missions.\n• The author describes the experience as making them feel like they were really in space.",
+    "generated_at": "2026-10-27T21:33:12.522645+00:00",
+    "window_minutes": 60,
+    "item_count": 1,
+    "key": "ddb4462ffadcc972bb3a1aa53c52cfb832fe1b63",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "zFWTPeZizCvuo8iyUBiNm9",
+      "title": "How 'spacewalking' underwater made me feel like I was really in space",
+      "published": "2026-10-27T21:00:00+00:00",
+      "author": "Michaela Musilova",
+      "description": "Analog Astronaut Commander and Aquanaut Michaela Musilova led underwater simulated “spacewalks” in low visibility to test astronaut safety and communication protocols during simulated space missions.",
+      "link": "https://www.space.com/space-exploration/human-spaceflight/how-spacewalking-underwater-made-me-feel-like-i-was-really-in-space",
+      "image": "https://cdn.mos.cms.futurecdn.net/Z6FVRqWZop3gpQjHAUvt5o-1920-80.png",
+      "feed_name": "Space.com",
+      "feed_title": "Latest from Space.com",
+      "category": "space",
+      "feed_url": "https://www.space.com/feeds/all",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.space.com&sz=64"
+    },
     {
       "id": "https://www.nasa.gov/?post_type=press-release&p=1059680",
       "title": "NASA Invites Media to Crew Completion of Yearlong Mars Simulation",

@@ -1,7 +1,7 @@
 {
   "category": "technology",
-  "updated": "2026-10-27T21:03:44.062625+00:00",
-  "count": 730,
+  "updated": "2026-10-27T21:33:12.522645+00:00",
+  "count": 735,
   "summary": {
     "text": "• OpenAI announced breakthroughs in mathematics, computer science, and physics, but researchers say the company is gatekeeping its findings despite promising a more open communication approach.\n• Invesco is bringing its model portfolios and practice tools into Anthropic's Claude for Financial Advisors, with CAIS, Conquest, and FINNY adding their own connectors.\n• A critical code-execution flaw in EDK2 UEFI firmware could let attackers run code early in boot, putting most servers at risk.\n• Lighter items: a review of Ace Combat 8 praises its punchy dogfights and anime storytelling, Sony's Bravia 6 OLED TV is up to 40% off, and an acoustic imaging camera that makes sound visible was shown.",
     "generated_at": "2026-10-27T21:03:44.062625+00:00",
@@ -11,6 +11,76 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.engadget.com/2299043/iphone-18e-reportedly-comes-with-2nm-a20-chip-and-60hz-screen/",
+      "title": "iPhone 18e reportedly comes with 2nm A20 chip and 60Hz screen",
+      "published": "2026-10-27T21:26:20+00:00",
+      "author": "Anna Washenko",
+      "description": "The leaks suggest the front camera could also see a boost.",
+      "link": "https://www.engadget.com/2299043/iphone-18e-reportedly-comes-with-2nm-a20-chip-and-60hz-screen/",
+      "image": "https://www.engadget.com/img/gallery/iphone-18e-reportedly-comes-with-2nm-a20-chip-and-60hz-screen/l-intro-1793135835.jpg",
+      "feed_name": "Engadget",
+      "feed_title": "Engadget - Technology News & Expert Reviews",
+      "category": "technology",
+      "feed_url": "https://www.engadget.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
+    {
+      "id": "yt:video:RK2nFXMTgRs",
+      "title": "iPhone Duo Livestream: How Many Folds Can Apple’s Phone Take? Day 2",
+      "published": "2026-10-27T21:23:47+00:00",
+      "author": "CNET",
+      "description": "Apple's iPhone Duo is out and we want to see how durable it is. So we built a robot to fold it 20,000+ times a day to test its limits. How long do you think it will last? 100,000 folds? 200,000 folds? 500,000 folds? Tune in and watch the testing live. We'll have CNET's editors online to answer any of your questions. Read more about the iPhone Duo Folding Test on CNET.com The iPhone Duo Is Now in Our Custom-Made Foldable Phone Test Machine. Will It Beat the Galaxy Fold 8? https://zdcs.link/QxoE5…",
+      "link": "https://www.youtube.com/watch?v=RK2nFXMTgRs",
+      "image": "https://i3.ytimg.com/vi/RK2nFXMTgRs/hqdefault.jpg",
+      "feed_name": "CNET",
+      "feed_title": "CNET",
+      "category": "technology",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?user=CNETTV",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64"
+    },
+    {
+      "id": "5116627",
+      "title": "Anthropic, Suno Sued for Unlawfully Using Songs by Madonna, Johnny Cash, Joni Mitchell",
+      "published": "2026-10-27T21:22:44+00:00",
+      "author": "Alex Valdes",
+      "description": "Companies are accused of training their AI models using copyrighted music and lyrics.",
+      "link": "https://www.cnet.com/tech/services-and-software/anthropic-suno-sued-using-songs-madonna-johnny-cash-joni-mitchell/",
+      "image": "https://www.cnet.com/wp-content/uploads/sites/2/johnny-cash-GettyImages-109365611.jpg",
+      "feed_name": "CNET News",
+      "feed_title": "News – CNET",
+      "category": "technology",
+      "feed_url": "https://www.cnet.com/rss/news/",
+      "feed_icon": "https://www.cnet.com/wp-content/uploads/sites/2/cropped-favicon-480.png?w=32"
+    },
+    {
+      "id": "yt:video:y9MEguUq-FY",
+      "title": "Fold-A-Phone Day 2: We Hit 75K Folds!",
+      "published": "2026-10-27T21:17:36+00:00",
+      "author": "CNET",
+      "description": "Join us live Monday through Friday at 1pm ET through 5pm ET to get your questions answered, as well as more phone folding ASMR. #foldaphone #allthingsmobile #iphoneduo #stresstest #apple",
+      "link": "https://www.youtube.com/shorts/y9MEguUq-FY",
+      "image": "https://i2.ytimg.com/vi/y9MEguUq-FY/hqdefault.jpg",
+      "feed_name": "CNET",
+      "feed_title": "CNET",
+      "category": "technology",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?user=CNETTV",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64"
+    },
+    {
+      "id": "https://www.engadget.com/2299026/chatgpt-can-work-with-your-icloud-mail-and-calendar-thanks-to-new-plugin-support/",
+      "title": "ChatGPT can work with your iCloud Mail and Calendar thanks to new plugin support",
+      "published": "2026-10-27T21:13:59+00:00",
+      "author": "Ian Carlos Campbell",
+      "description": "You can use the AI assistant to update calendar events and search your inbox, among other things.",
+      "link": "https://www.engadget.com/2299026/chatgpt-can-work-with-your-icloud-mail-and-calendar-thanks-to-new-plugin-support/",
+      "image": "https://www.engadget.com/img/gallery/chatgpt-can-work-with-your-icloud-mail-and-calendar-thanks-to-new-plugin-support/l-intro-1793135485.jpg",
+      "feed_name": "Engadget",
+      "feed_title": "Engadget - Technology News & Expert Reviews",
+      "category": "technology",
+      "feed_url": "https://www.engadget.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
     {
       "id": "https://www.theverge.com/?p=1019921",
       "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
@@ -248,6 +318,34 @@
       "category": "technology",
       "feed_url": "https://thenextweb.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
+    {
+      "id": "01rUEUwTWbDiEM5GrPIwVBX",
+      "title": "Why is a giant hand appearing on X? Heres what users are seeing.",
+      "published": "2026-10-27T19:18:00+00:00",
+      "author": null,
+      "description": "X users are seeing a giant pointing hand directing them toward the Promote button while drafting posts. Here’s what we know about the prompt.",
+      "link": "https://mashable.com/tech/x-pointing-hand-promote-button-popup",
+      "image": "https://helios-i.mashable.com/imagery/articles/01rUEUwTWbDiEM5GrPIwVBX/hero-image.jpg",
+      "feed_name": "Mashable",
+      "feed_title": "Mashable",
+      "category": "technology",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
+    },
+    {
+      "id": "05Q2HcSXD3xndFKp0VyCLXl",
+      "title": "Mashable announces Gift of the Year winners for 2026",
+      "published": "2026-10-27T19:04:56+00:00",
+      "author": null,
+      "description": "Mashable names its favorite tech and devices to give as gifts this year.",
+      "link": "https://mashable.com/tech/gift-of-the-year-winners-2026",
+      "image": "https://helios-i.mashable.com/imagery/articles/05Q2HcSXD3xndFKp0VyCLXl/hero-image.jpg",
+      "feed_name": "Mashable",
+      "feed_title": "Mashable",
+      "category": "technology",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
     },
     {
       "id": "01KQWR732JFBMPKQJTF1YFGJHB",
@@ -2040,20 +2138,6 @@
       "category": "technology",
       "feed_url": "https://lifehacker.com/rss",
       "feed_icon": "https://www.google.com/s2/favicons?domain=lifehacker.com&sz=64"
-    },
-    {
-      "id": "05Q2HcSXD3xndFKp0VyCLXl",
-      "title": "Mashable announces Gift of the Year winners for 2026",
-      "published": "2026-10-27T11:00:00+00:00",
-      "author": null,
-      "description": "Mashable names its favorite tech and devices to give as gifts this year.",
-      "link": "https://mashable.com/tech/gift-of-the-year-winners-2026",
-      "image": "https://helios-i.mashable.com/imagery/articles/05Q2HcSXD3xndFKp0VyCLXl/hero-image.jpg",
-      "feed_name": "Mashable",
-      "feed_title": "Mashable",
-      "category": "technology",
-      "feed_url": "http://feeds.mashable.com/Mashable",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
     },
     {
       "id": "07N1j9e0s1RoindZTdkYZYq",
@@ -7649,20 +7733,6 @@
       "description": "Apple's iPhone Duo is out and we want to see how durable it is. So we built a robot to fold it 20,000+ times a day to test its limits. How long do you think it will last? 100,000 folds? 200,000 folds? 500,000 folds? Tune in and watch the testing live. We'll have CNET's editors online to answer any of your questions. Read more about the iPhone Duo Folding Test on CNET.com The iPhone Duo Is Now in Our Custom-Made Foldable Phone Test Machine. Will It Beat the Galaxy Fold 8? https://zdcs.link/QxoE5…",
       "link": "https://www.youtube.com/watch?v=P6DR1wZmJ78",
       "image": "https://i1.ytimg.com/vi/P6DR1wZmJ78/hqdefault.jpg",
-      "feed_name": "CNET",
-      "feed_title": "CNET",
-      "category": "technology",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?user=CNETTV",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64"
-    },
-    {
-      "id": "yt:video:RK2nFXMTgRs",
-      "title": "iPhone Duo Livestream: How Many Folds Can Apple’s Phone Take? Day 2",
-      "published": "2026-10-23T21:56:34+00:00",
-      "author": "CNET",
-      "description": "Apple's iPhone Duo is out and we want to see how durable it is. So we built a robot to fold it 20,000+ times a day to test its limits. How long do you think it will last? 100,000 folds? 200,000 folds? 500,000 folds? Tune in and watch the testing live. We'll have CNET's editors online to answer any of your questions. Read more about the iPhone Duo Folding Test on CNET.com The iPhone Duo Is Now in Our Custom-Made Foldable Phone Test Machine. Will It Beat the Galaxy Fold 8? https://zdcs.link/QxoE5…",
-      "link": "https://www.youtube.com/watch?v=RK2nFXMTgRs",
-      "image": "https://i3.ytimg.com/vi/RK2nFXMTgRs/hqdefault.jpg",
       "feed_name": "CNET",
       "feed_title": "CNET",
       "category": "technology",

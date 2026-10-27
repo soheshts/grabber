@@ -1,7 +1,7 @@
 {
   "category": "gaming",
-  "updated": "2026-10-27T21:03:44.062625+00:00",
-  "count": 533,
+  "updated": "2026-10-27T21:33:12.522645+00:00",
+  "count": 541,
   "summary": {
     "text": "• Toei Animation reportedly tried to cancel its Yu-Gi-Oh! anime, so Weekly Shonen Jump threatened to pull its Dragon Ball license.\n• Magic: The Gathering's new Star Trek Secret Lair reprints Thrasios, Triton Hero as Lower Decks' Tendi.\n• A leak reveals McDonald's upcoming Pokémon Happy Meal surprise, which brings back a product missing from Happy Meals for nearly a decade.\n• A Kotaku piece describes one Dark Souls room as a personal waking nightmare.",
     "generated_at": "2026-10-27T21:03:44.062625+00:00",
@@ -11,6 +11,34 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://kotaku.com/?p=2000750261",
+      "title": "Some Discord Server Messages Are About To Show Up In Web Search Results",
+      "published": "2026-10-27T21:30:48+00:00",
+      "author": "Ash Parrish",
+      "description": "Starting next month, discoverable Discord server messages will show up in search results unless administrators opt out",
+      "link": "https://kotaku.com/some-discord-server-messages-are-about-to-show-up-in-web-search-results-2000750261",
+      "image": "https://kotaku.com/app/uploads/2026/10/discord1-1280x720.jpg",
+      "feed_name": "Kotaku",
+      "feed_title": "Kotaku",
+      "category": "gaming",
+      "feed_url": "https://kotaku.com/rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=kotaku.com&sz=64"
+    },
+    {
+      "id": "https://kotaku.com/?p=2000750281",
+      "title": "It Took Mass Effect Fans Less Than 15 Minutes To Crowdfund Billboards Outside EA’s Offices And The Game Awards",
+      "published": "2026-10-27T21:08:44+00:00",
+      "author": "Kenneth Shepard",
+      "description": "The #SaveMassEffect campaign is rallying to be heard in places EA can’t avoid",
+      "link": "https://kotaku.com/savemasseffect-mass-effect-billboard-ea-hq-game-awards-2000750281",
+      "image": "https://kotaku.com/app/uploads/2026/10/IMG_1254-1280x720.jpg",
+      "feed_name": "Kotaku",
+      "feed_title": "Kotaku",
+      "category": "gaming",
+      "feed_url": "https://kotaku.com/rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=kotaku.com&sz=64"
+    },
     {
       "id": "https://kotaku.com/?p=2000750199",
       "title": "Toei Animation Tried To Cancel Its Yu-Gi-Oh! Anime, So Weekly Shonen Jump Threatened To Pull Its Dragon Ball License",
@@ -24,6 +52,48 @@
       "category": "gaming",
       "feed_url": "https://kotaku.com/rss",
       "feed_icon": "https://www.google.com/s2/favicons?domain=kotaku.com&sz=64"
+    },
+    {
+      "id": "4bc9d35b-5a79-438a-9adc-4533ce36f65b",
+      "title": "Obsession Director Releasing New Short Film on YouTube in Time for Halloween",
+      "published": "2026-10-27T20:41:09+00:00",
+      "author": "Rachel Weber",
+      "description": "Curry Barker, writer and director of the brilliantly twisted Obsession, is releasing a new short film on YouTube on October 29.",
+      "link": "https://www.ign.com/articles/obsession-director-releasing-new-short-film-on-youtube-in-time-for-halloween",
+      "image": "https://assets-prd.ignimgs.com/2026/06/30/obsession-ign-deck-1782824951613.png",
+      "feed_name": "IGN All",
+      "feed_title": "IGN Articles",
+      "category": "gaming",
+      "feed_url": "http://feeds.ign.com/ign/all",
+      "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
+    },
+    {
+      "id": "cb4fea73-92d0-4d47-a092-167826ed5d9c",
+      "title": "Life Is Strange Developer Don't Nod Blasted by Union Employees Over 'Illegal' Management Practices as Possible Layoffs Loom",
+      "published": "2026-10-27T20:34:03+00:00",
+      "author": "Virginia Glaze",
+      "description": "An October 27 statement from employees of Don't Nod, the developer best known for making the original Life is Strange games, warn that the company is in danger of insolvency and layoffs, and accused its management of \"illegal\" practices that have caused staff \"uncertainty and anxiety.\"",
+      "link": "https://www.ign.com/articles/life-is-strange-developer-dont-nod-blasted-by-union-employees-over-illegal-management-practices-as-possible-layoffs-loom",
+      "image": "https://assets-prd.ignimgs.com/2024/09/24/life-1727176063674.jpg",
+      "feed_name": "IGN All",
+      "feed_title": "IGN Articles",
+      "category": "gaming",
+      "feed_url": "http://feeds.ign.com/ign/all",
+      "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
+    },
+    {
+      "id": "cdd4b084-9535-44f3-ade9-535c158bee35",
+      "title": "Elden Ring Movie Runtime Could Reach Nearly 3 Hours",
+      "published": "2026-10-27T20:32:53+00:00",
+      "author": "Jim Vejvoda",
+      "description": "A few new details on the story for A24’s Elden Ring movie have emerged, including its possible runtime. And, if that remains the case, it’s going to be epic.",
+      "link": "https://www.ign.com/articles/elden-ring-movie-runtime-could-reach-nearly-3-hours",
+      "image": "https://assets-prd.ignimgs.com/2026/10/27/elden-ring-review-z2z1-1793132685837.jpg",
+      "feed_name": "IGN All",
+      "feed_title": "IGN Articles",
+      "category": "gaming",
+      "feed_url": "http://feeds.ign.com/ign/all",
+      "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
     },
     {
       "id": "https://www.polygon.com/magic-gathering-mtg-star-trek-commander-reprint/",
@@ -52,6 +122,34 @@
       "category": "gaming",
       "feed_url": "https://kotaku.com/rss",
       "feed_icon": "https://www.google.com/s2/favicons?domain=kotaku.com&sz=64"
+    },
+    {
+      "id": "d913dd39-42e3-43ef-a5c6-fa63ec6ef09c",
+      "title": "Call of Duty: Modern Warfare 4 Adds Series Favorite Map, Shipment, to Multiplayer",
+      "published": "2026-10-27T20:28:05+00:00",
+      "author": "Cade Onder",
+      "description": "Shipment, one of Call of Duty's most iconic maps, has officially been added to Modern Warfare 4's multiplayer.",
+      "link": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-adds-series-favorite-map-shipment-to-multiplayer",
+      "image": "https://assets-prd.ignimgs.com/2026/10/20/cod-oo-1792455882717.png",
+      "feed_name": "IGN All",
+      "feed_title": "IGN Articles",
+      "category": "gaming",
+      "feed_url": "http://feeds.ign.com/ign/all",
+      "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
+    },
+    {
+      "id": "2e53b008-06f6-4303-8a96-6975e71bab89",
+      "title": "Save Over 50% Off the JBL Live Buds 3 Noise Canceling Wireless Earbuds Ahead of Black Friday",
+      "published": "2026-10-27T20:20:00+00:00",
+      "author": "Eric Song",
+      "description": "These buds can do it all for Android users.",
+      "link": "https://www.ign.com/articles/jbl-live-buds-3-noise-canceling-wireless-earbuds-deal-october-2026",
+      "image": "https://assets-prd.ignimgs.com/2026/10/27/jbllivebuds3-1793131975975.jpg",
+      "feed_name": "IGN All",
+      "feed_title": "IGN Articles",
+      "category": "gaming",
+      "feed_url": "http://feeds.ign.com/ign/all",
+      "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
     },
     {
       "id": "https://www.polygon.com/mcdonalds-pokemon-happy-meal-toy-card-leak-start-date-tcg-promo/",
@@ -138,6 +236,20 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.gamespot.com&sz=64"
     },
     {
+      "id": "a9df1b1b-1b42-4f2c-98c6-fc52354f8f94",
+      "title": "Two Creators of the Original Doom Are Arguing About its History on Social Media",
+      "published": "2026-10-27T19:45:17+00:00",
+      "author": "Ryan McCaffrey",
+      "description": "The 1993 first-person shooter Doom is legendary. Its place in history is both untouchable and inarguable. The details of that history, though, are currently being debated on social media. Not by fans, mind you, but instead by two of the very people that created it. Doom co-creator John Romero and Doom level- and game-designer Sandy Petersen took to X (formerly Twitter) to dispute each other's recollection of the origin of Doom's groundbreaking DeathMatch PvP multiplayer mode.",
+      "link": "https://www.ign.com/articles/two-creators-of-the-original-doom-are-arguing-about-its-history-on-social-media",
+      "image": "https://assets-prd.ignimgs.com/2026/10/27/doom-1793130599660.jpg",
+      "feed_name": "IGN All",
+      "feed_title": "IGN Articles",
+      "category": "gaming",
+      "feed_url": "http://feeds.ign.com/ign/all",
+      "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
+    },
+    {
       "id": "1936810",
       "title": "GTA 6 Developers Are About To Do Something Historic",
       "published": "2026-10-27T19:43:21+00:00",
@@ -195,7 +307,7 @@
     },
     {
       "id": "https://kotaku.com/?p=2000750185",
-      "title": "Did The You Don’t Know Jack Devs Plagiarize A Solo Dev’s Board Game?",
+      "title": "You Don’t Know Jack Devs Say They Didn’t Plagiarize Board Game: ‘We Intentionally Don’t Share Submissions With Our Game Teams’",
       "published": "2026-10-27T19:25:28+00:00",
       "author": "Ash Parrish",
       "description": "Sam Greszes says that Jackbox Games went silent after requesting a demo of his board game Die on this Hill . A year later, it launches Debate and Switch .",
@@ -405,7 +517,7 @@
     },
     {
       "id": "https://www.polygon.com/gta-6-storage-size-install-ps5-xbox-series-x/",
-      "title": "GTA 6 Install Size Officially Revealed",
+      "title": "GTA 6 Download Install Size Revealed on PS5",
       "published": "2026-10-27T18:11:55+00:00",
       "author": "Michael McWhertor",
       "description": "Grand Theft Auto 6 on PlayStation 5 will require more than 200 GB of storage space, according to a new report.",
