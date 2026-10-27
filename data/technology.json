@@ -1,7 +1,7 @@
 {
   "category": "technology",
-  "updated": "2026-10-27T15:33:31.977173+00:00",
-  "count": 642,
+  "updated": "2026-10-27T16:02:49.639023+00:00",
+  "count": 644,
   "summary": {
     "text": "• Tesla designed the Cybercab battery pack with spare room for cheaper LFP cells later.\n• Apple's 14-inch MacBook Pro gains the M6 chip and up to 24 hours of battery life.\n• China's AI stock valuations have crashed, while AI-generated election disinformation is outpacing moderation before the US midterms.\n• Nintendo's 15-minute Indie World showcase is set for October 28.",
     "generated_at": "2026-10-27T15:33:31.977173+00:00",
@@ -11,6 +11,34 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.engadget.com/2297022/vivos-x500-pro-max-hands-on/",
+      "title": "Vivo's X500 Pro Max is another camera-focused smartphone with more video tricks",
+      "published": "2026-10-27T15:30:00+00:00",
+      "author": "Mat Smith",
+      "description": "Vivo and Oppo are launching similar phones with different priorities.",
+      "link": "https://www.engadget.com/2297022/vivos-x500-pro-max-hands-on/",
+      "image": "https://www.engadget.com/img/gallery/vivos-x500-pro-max-is-another-camera-focused-smartphone-with-more-video-tricks/l-intro-1793029784.jpg",
+      "feed_name": "Engadget",
+      "feed_title": "Engadget - Technology News & Expert Reviews",
+      "category": "technology",
+      "feed_url": "https://www.engadget.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
+    {
+      "id": "01M5T0FT42D7HE80VHAD3AV7JX",
+      "title": "10 Shows Like 'VisionQuest' You Should Watch Next",
+      "published": "2026-10-27T15:30:00+00:00",
+      "author": "Ross Johnson",
+      "description": "Stream these sci-fi shows about artificial people and virtual worlds.",
+      "link": "https://lifehacker.com/entertainment/best-shows-like-visionquest?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M5T0FT42D7HE80VHAD3AV7JX/hero-image.jpg",
+      "feed_name": "Lifehacker",
+      "feed_title": "Lifehacker",
+      "category": "technology",
+      "feed_url": "https://lifehacker.com/rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=lifehacker.com&sz=64"
+    },
     {
       "id": "TheNextWeb=7e126bc8fb86a8cb152765761138ae35",
       "title": "Tesla built the Cybercab’s battery pack with room for cheaper LFP cells",

@@ -1,7 +1,7 @@
 {
   "category": "DIY",
-  "updated": "2026-10-27T15:33:31.977173+00:00",
-  "count": 196,
+  "updated": "2026-10-27T16:02:49.639023+00:00",
+  "count": 199,
   "summary": {
     "text": "• Wi-Fi 8 is coming, but a Wi-Fi 5 router may still suffice, since your internet plan and devices set the actual speed.\n• A $5 ESP32 board can make power tools start automatically, with sensors reacting to air quality and machine state.\n• A government database lets readers check how bad a bridge is.\n• Apple's new iMac M6 brings a faster chip, Wi-Fi 7, and a higher price, while a separate piece compares Gemini 4 Argon with GPT-6.",
     "generated_at": "2026-10-27T15:33:31.977173+00:00",
@@ -11,6 +11,48 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.makeuseof.com/cheap-ryobi-tools-super-useful/",
+      "title": "These cheap Ryobi tools have no business being this useful",
+      "published": "2026-10-27T16:01:17+00:00",
+      "author": "Jonathon Jachura",
+      "description": "These Ryobi power tools surprised me at how useful they are around the house and in DIY projects.",
+      "link": "https://www.makeuseof.com/cheap-ryobi-tools-super-useful/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/01/ryobi-heat-gun-left-side-in-hand-with-snow.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/these-5-cheap-accessories-completely-transformed-my-ryobi-power-tools/",
+      "title": "These 5 cheap accessories completely transformed my Ryobi power tools",
+      "published": "2026-10-27T16:00:16+00:00",
+      "author": "David J. Buck",
+      "description": "Repurposing old tools is rad, especially when you can do it on the cheap.",
+      "link": "https://www.howtogeek.com/these-5-cheap-accessories-completely-transformed-my-ryobi-power-tools/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/ryobi-tools-in-bag-fi.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.makeuseof.com/windows-can-bring-your-work-back-after-restart/",
+      "title": "Windows has two settings that bring your work back after a restart, and both are off by default",
+      "published": "2026-10-27T15:45:17+00:00",
+      "author": "Isaac Akinleye",
+      "description": "Windows could remember my sessions all along, two settings were just off.",
+      "link": "https://www.makeuseof.com/windows-can-bring-your-work-back-after-restart/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/restartable-apps-after-reboot-windows-11-1.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/wi-fi-8-is-coming-but-your-wi-fi-5-router-probably-doesnt-need-replacing/",
       "title": "Wi-Fi 8 is coming, but your Wi-Fi 5 router probably doesn't need replacing",

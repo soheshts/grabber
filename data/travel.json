@@ -1,9 +1,30 @@
 {
   "category": "travel",
-  "updated": "2026-10-27T15:33:31.977173+00:00",
-  "count": 67,
-  "summary": null,
+  "updated": "2026-10-27T16:02:49.639023+00:00",
+  "count": 68,
+  "summary": {
+    "text": "• Atlas Obscura features the Hazelnut Inn in Chilliwack, British Columbia, a three-suite hotel in the rural village of Yarrow.\n• The inn includes a little castle with a moat.\n• Other highlights are a sailing ship wedged into a tower and an underground house beneath an artificial hillside.",
+    "generated_at": "2026-10-27T16:02:49.639023+00:00",
+    "window_minutes": 60,
+    "item_count": 1,
+    "key": "ec43a5810ea3cd9d98c18e570f4f23851bd10b02",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "https://www.atlasobscura.com/places/hazelnut-inn",
+      "title": "Hazelnut Inn in Chilliwack, British Columbia",
+      "published": "2026-10-27T16:00:00+00:00",
+      "author": null,
+      "description": "In the rural village of Yarrow BC, a three-suite hotel contains a little castle with a moat, a sailing ship wedged into a tower, and an underground house beneath an artificial hillside. The Hazelnut Inn was built over nine years by the Imagination Corporation, a theme-park design and fabrication company. Its founders, Peter and Hailey Sawatzky, stayed in a restored Roman villa on their honeymoon and wondered why they couldn't build a small castle hotel of their own in Canada. The Copper Crown S…",
+      "link": "https://www.atlasobscura.com/places/hazelnut-inn",
+      "image": "https://img.atlasobscura.com/eA5r6kmdh3KaukQ_qs1ecQR9EK9p42kMqH8BthdXtPU/rs:fill:300:200:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8yOWVh/MmE3ZC03M2U1LTRl/YTgtYmRjMy00OGI1/Y2I2MjhmODk4NzNl/MjVhMTViOWI1MWMy/NWRfRUwgLSBIYXpl/bG51dCBJbm4gLSBO/b3J0aCBTdGFyIFN1/aXRlIC0gTm9ydGgg/RWxldmF0aW9uIC0g/MDEgLmpwZw.jpg",
+      "feed_name": "Atlas Obscura - Latest Articles and Places",
+      "feed_title": "Atlas Obscura - Latest Articles and Places",
+      "category": "travel",
+      "feed_url": "https://www.atlasobscura.com/feeds/latest",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.atlasobscura.com&sz=64"
+    },
     {
       "id": "https://www.atlasobscura.com/places/melvin-lewis-pioneer-cemetery",
       "title": "Melvin-Lewis Pioneer Cemetery in Aurora, Colorado",
