@@ -1,8 +1,22 @@
 {
   "category": "DIY",
-  "updated": "2026-10-26T23:32:11.903134+00:00",
-  "count": 165,
+  "updated": "2026-10-27T00:03:46.577312+00:00",
+  "count": 166,
   "items": [
+    {
+      "id": "https://www.howtogeek.com/windows-modding-is-back-and-the-open-source-tools-are-better-than-microsofts-own/",
+      "title": "Windows modding is back, and the open-source tools are better than Microsoft's own",
+      "published": "2026-10-27T00:00:15+00:00",
+      "author": "Goran Damnjanovic",
+      "description": "If you want to mod Windows, open source is the best route.",
+      "link": "https://www.howtogeek.com/windows-modding-is-back-and-the-open-source-tools-are-better-than-microsofts-own/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/pxl_20261023_081545535-raw-02-original-1.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://hackaday.com/?p=1393748",
       "title": "Enable Resizable BAR on Unsupported Motherboards",
