@@ -1,7 +1,7 @@
 {
   "category": "science",
-  "updated": "2026-10-28T01:03:44.715563+00:00",
-  "count": 556,
+  "updated": "2026-10-28T01:32:20.237726+00:00",
+  "count": 557,
   "summary": {
     "text": "• Climate risks are growing: a strong El Niño could cut rainfall by up to 80% in parts of Latin America and the Caribbean, while torrential rain brings flooding and landslides. A Lancet Countdown report finds many climate health harms grew faster in the decade since the Paris Agreement, prompting calls for a global health emergency.\n• Northwestern research suggests NFL injuries matter less than assumed, except for highly paid quarterbacks.\n• Nine in 10 major transportation projects go over budget, not always from incompetence.",
     "generated_at": "2026-10-28T01:03:44.715563+00:00",
@@ -11,6 +11,48 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "news712322542",
+      "title": "Researchers discover why some frogs have escaped the current amphibian mass extinction",
+      "published": "2026-10-28T01:20:01+00:00",
+      "author": null,
+      "description": "Amphibians are the most threatened vertebrates on Earth, with 41% of species facing extinction. In the highlands of Central and South America, a killer fungus has wiped out much of the once-abundant amphibian diversity. Yet in the Sierra Nevada de Santa Marta, an isolated mountain range in northern Colombia, amphibians still thrive. The mountain range is home to a remarkable amphibian community of at least 48 species, including 25 found nowhere else on the planet.",
+      "link": "https://phys.org/news/2026-10-frogs-current-amphibian-mass-extinction.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/frog.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/27/climate/trump-methane-rules-epa-greenhouse-gas.html",
+      "title": "E.P.A. Loosens Methane Rules for Oil Firms",
+      "published": "2026-10-28T01:17:36+00:00",
+      "author": "Brad Plumer",
+      "description": "The Biden administration had sought to crack down on methane leaks, a big driver of climate change. Those rules are now being scaled back.",
+      "link": "https://www.nytimes.com/2026/10/27/climate/trump-methane-rules-epa-greenhouse-gas.html",
+      "image": "https://static01.nyt.com/images/2026/10/07/multimedia/00cli-methane-rollback-HFO-tchz/00cli-methane-rollback-HFO-tchz-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Science",
+      "feed_title": "NYT > Science",
+      "category": "science",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/27/science/space/new-dwarf-planet-beyond-pluto.html",
+      "title": "A New Dwarf Planet (Probably) Spotted Beyond Pluto",
+      "published": "2026-10-28T01:05:28+00:00",
+      "author": "Kenneth Chang",
+      "description": "The object, known for now as 2026 ED138, is one of the first discoveries by the new Vera C. Rubin Observatory in Chile.",
+      "link": "https://www.nytimes.com/2026/10/27/science/space/new-dwarf-planet-beyond-pluto.html",
+      "image": null,
+      "feed_name": "NYT > Science",
+      "feed_title": "NYT > Science",
+      "category": "science",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "news712321883",
       "title": "Injuries matter less in the NFL than you think",
@@ -80,20 +122,6 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/10/27/science/space/new-dwarf-planet-beyond-pluto.html",
-      "title": "A New Dwarf Planet (Probably) Spotted Beyond Pluto",
-      "published": "2026-10-27T23:46:16+00:00",
-      "author": "Kenneth Chang",
-      "description": "The object, known for now as 2026 ED138, is one of the first discoveries by the new Vera C. Rubin Observatory in Chile.",
-      "link": "https://www.nytimes.com/2026/10/27/science/space/new-dwarf-planet-beyond-pluto.html",
-      "image": null,
-      "feed_name": "NYT > Science",
-      "feed_title": "NYT > Science",
-      "category": "science",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "news712329901",
@@ -789,20 +817,6 @@
       "description": "Where there are floating docks, there are often communities of colorful marine organisms just below — and a community of curious people just above.",
       "link": "https://www.nytimes.com/2026/10/27/science/docktober-nudibranchs.html",
       "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27SCI-DOCKTOBER-stillpromo2-kmjf/27SCI-DOCKTOBER-stillpromo2-kmjf-mediumSquareAt3X.jpg",
-      "feed_name": "NYT > Science",
-      "feed_title": "NYT > Science",
-      "category": "science",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/10/27/climate/trump-methane-rules-epa-greenhouse-gas.html",
-      "title": "E.P.A. to Loosen Methane Rules for Oil Firms",
-      "published": "2026-10-27T18:42:27+00:00",
-      "author": "Brad Plumer",
-      "description": "The Biden administration had sought to crack down on methane leaks, a big driver of climate change. Those rules are now being scaled back.",
-      "link": "https://www.nytimes.com/2026/10/27/climate/trump-methane-rules-epa-greenhouse-gas.html",
-      "image": "https://static01.nyt.com/images/2026/10/07/multimedia/00cli-methane-rollback-HFO-tchz/00cli-methane-rollback-HFO-tchz-mediumSquareAt3X.jpg",
       "feed_name": "NYT > Science",
       "feed_title": "NYT > Science",
       "category": "science",

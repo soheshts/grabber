@@ -1,9 +1,23 @@
 {
   "category": "personal blogs",
-  "updated": "2026-10-28T01:03:44.715563+00:00",
-  "count": 422,
+  "updated": "2026-10-28T01:32:20.237726+00:00",
+  "count": 423,
   "summary": null,
   "items": [
+    {
+      "id": "https://ronaldsvilcins.com/2026/10/28/css-calculations-with-sibling-index-and-sibling-count/",
+      "title": "CSS Calculations With sibling-index() and sibling-count()",
+      "published": "2026-10-27T22:00:00+00:00",
+      "author": "Ronalds Vilciņš",
+      "description": "Use CSS sibling-index() and sibling-count() for staggered animations and position-based calculations, with working examples and browser support checks.",
+      "link": "https://ronaldsvilcins.com/2026/10/28/css-calculations-with-sibling-index-and-sibling-count/",
+      "image": "https://ronaldsvilcins.com/og.png",
+      "feed_name": "Ronalds Vilciņš",
+      "feed_title": "Ronalds Vilciņš",
+      "category": "personal blogs",
+      "feed_url": "https://ronaldsvilcins.com/atom.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=ronaldsvilcins.com&sz=64"
+    },
     {
       "id": "https://www.raymondcamden.com/2026/10/27/generating-pdf-invoices-from-word-templates-with-officeparser",
       "title": "Generating PDF Invoices from Word Templates with officeParser",
