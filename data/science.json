@@ -1,7 +1,7 @@
 {
   "category": "science",
-  "updated": "2026-10-28T03:03:37.134308+00:00",
-  "count": 562,
+  "updated": "2026-10-28T03:33:31.209293+00:00",
+  "count": 563,
   "summary": {
     "text": "• A review of 2020–2026 research finds digital technologies, additive manufacturing and resource recovery are major themes in the shift toward a circular economy.\n• A Northwestern University election model now updates its forecasts every 10 minutes, tracking 35 races that will decide control of the U.S. Senate.\n• Halloween, a $13.5 billion industry, is drawing attention to ghostly tourism attractions tied to history, raising the question of whether this is a problem.",
     "generated_at": "2026-10-28T03:03:37.134308+00:00",
@@ -11,6 +11,20 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "news712314399",
+      "title": "MapInsights helps police trainees learn the territory",
+      "published": "2026-10-28T03:20:01+00:00",
+      "author": null,
+      "description": "In early 2026, the University of Illinois Division of Public Safety was facing a challenge. It had 11 security guards it planned to convert to community service officers, which meant they would change from being based in one building to working a whole beat.",
+      "link": "https://phys.org/news/2026-10-mapinsights-police-trainees-territory.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mapinsights-helps-poli.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
     {
       "id": "news712327697",
       "title": "Digital tools and 3D printing emerge as key themes in circular economy research",
