@@ -1,9 +1,30 @@
 {
   "category": "DIY",
-  "updated": "2026-10-28T08:02:32.119021+00:00",
-  "count": 232,
-  "summary": null,
+  "updated": "2026-10-28T08:33:34.581374+00:00",
+  "count": 233,
+  "summary": {
+    "text": "• Hackaday features an Arduino-powered car project that uses SLAM (simultaneous localization and mapping) for navigation, going beyond a simple remote-controlled platform to a true robot.",
+    "generated_at": "2026-10-28T08:33:34.581374+00:00",
+    "window_minutes": 60,
+    "item_count": 1,
+    "key": "2ce065caf6e1e94230fbd93c22e7a59a8aa578a4",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "https://hackaday.com/?p=1396477",
+      "title": "SLAM Navigation For an Arduino Powered Car",
+      "published": "2026-10-28T08:00:33+00:00",
+      "author": "Zoe Skyforest",
+      "description": "There are plenty of “robot” projects out there that are really just a small remote control platform of some sort. We often like to think of robots of having some …read more",
+      "link": "https://hackaday.com/2026/10/28/slam-navigation-for-an-arduino-powered-car/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/10/4WD-SLAM-RADAR-2D-ROBOT-CAR-0-25-screenshot.png",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://hackaday.com/?p=1396476",
       "title": "Hacking a Marine Radio Dish",

@@ -1,16 +1,86 @@
 {
   "category": "World News",
-  "updated": "2026-10-28T08:02:32.119021+00:00",
-  "count": 984,
+  "updated": "2026-10-28T08:33:34.581374+00:00",
+  "count": 1000,
   "summary": {
-    "text": "• Israel's election has no clear winner, as exit polls show the Netanyahu and Eisenkot blocs both short of a governing majority.\n• Jio Platforms shares jumped over 21% on debut after India's largest-ever IPO, raising $3.2 billion.\n• UBS third-quarter pre-tax profit rose 27% to $3.59 billion on wealth inflows.\n• The WNBA faces criticism for a weekday afternoon Finals game, with Flavor Flav and Hillary Clinton weighing in.\n• A Montana rancher's dinosaur fossil sold at auction for a record $47.3 million.",
-    "generated_at": "2026-10-28T08:02:32.119021+00:00",
+    "text": "• Israel's election has no clear winner, with exit polls showing Netanyahu's and Gadi Eisenkot's blocs far short of a governing majority.\n• With nearly 60% of polling stations reporting, Netanyahu's bloc stood at 56 seats.\n• Jio Platforms shares jumped over 21% on debut after India's largest-ever IPO, raising $3.2 billion.\n• UBS third-quarter pre-tax profit rose 27% to $3.59 billion on surging wealth inflows.",
+    "generated_at": "2026-10-28T08:33:34.581374+00:00",
     "window_minutes": 60,
-    "item_count": 8,
-    "key": "e6f71db03fb9873e4c7c148e28a0c5c211dd199e",
+    "item_count": 13,
+    "key": "6c8697ed5cf11428161d414b1b06d8b7fff664ca",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.ndtv.com/world-news/benjamin-netanyahu-gadi-eisenkot-arab-parties-who-will-sleep-with-the-enemy-israels-post-poll-dilemma-12247430#publisher=newsstand",
+      "title": "Who Will Sleep With The 'Enemy'? Israel's Post Poll Dilemma",
+      "published": "2026-10-28T08:16:18+00:00",
+      "author": null,
+      "description": "Benjamin Netanyahu, Gadi Eisenkot and Mansour Abbas of Ra'am party",
+      "link": "https://www.ndtv.com/world-news/benjamin-netanyahu-gadi-eisenkot-arab-parties-who-will-sleep-with-the-enemy-israels-post-poll-dilemma-12247430#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-10/8c7cubf8_israel_625x300_28_October_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/ndtv-world-summit-2026-nikhil-kamath-explains-why-india-may-not-need-to-compete-with-us-china-in-every-layer-of-ai-12232114#publisher=newsstand",
+      "title": "NDTV World Summit 2026: Nikhil Kamath On Why India May Not Need To Compete With US, China In Every Layer Of AI",
+      "published": "2026-10-28T08:10:35+00:00",
+      "author": null,
+      "description": "Nikhil Kamath at the NDTV World Summit 2026",
+      "link": "https://www.ndtv.com/world-news/ndtv-world-summit-2026-nikhil-kamath-explains-why-india-may-not-need-to-compete-with-us-china-in-every-layer-of-ai-12232114#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-10/363r0juk_nikhil-kamath_625x300_28_October_26.jpeg",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/us/in-2003-alicia-keys-co-founded-a-charity-to-help-children-affected-by-hiv-two-decades-later-it-has-raised-86-6-million-and-supports-9-3-million-children-young-people-and-families-in-28-countries/articleshow/135257460.cms",
+      "title": "How Alicia Keys’ charity raised $86.6M to help children with HIV",
+      "published": "2026-10-28T08:07:53+00:00",
+      "author": "TOI World Desk",
+      "description": "During her journey to South Africa, Alicia Keys encountered the profound effects of HIV/AIDS on families and children, which ignited her passion to co-found Keep a Child Alive in 2003. The organization has successfully raised over $86 million, benefiting millions globally by ensuring access to medical care while advocating for health, education, and human rights. Collaborations, such as with TodayTix Group, significantly amplify their mission.",
+      "link": "https://timesofindia.indiatimes.com/world/us/in-2003-alicia-keys-co-founded-a-charity-to-help-children-affected-by-hiv-two-decades-later-it-has-raised-86-6-million-and-supports-9-3-million-children-young-people-and-families-in-28-countries/articleshow/135257460.cms",
+      "image": "https://static.toiimg.com/photo/msid-135257720,imgsize-330651.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/i-carry-a-funeral-inside-me-women-recount-abuse-by-3-us-brothers-12247352#publisher=newsstand",
+      "title": "\"I Carry A Funeral Inside Me\": Women Recount Abuse By 3 US Brothers",
+      "published": "2026-10-28T08:07:37+00:00",
+      "author": null,
+      "description": "The Alexander brothers were arrested in 2024 and convicted in March this year.",
+      "link": "https://www.ndtv.com/world-news/i-carry-a-funeral-inside-me-women-recount-abuse-by-3-us-brothers-12247352#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2024-12/stnptgkg_oren-and-tal-alexander-getty_625x300_12_December_24.jpeg",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
+      "id": "108471405",
+      "title": "Israel election appears to have no clear winner with Netanyahu, opponent Eisenkot far short of majorities",
+      "published": "2026-10-28T08:07:22+00:00",
+      "author": null,
+      "description": "Exit polls show Prime Minister Benjamin Netanyahu's alliance and Gadi Eisenkot's opposition bloc both well off the numbers needed to form a governing majority.",
+      "link": "https://www.cnbc.com/2026/10/28/israel-election-netanyahu-trump-gaza-.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108471491-1793144780727-gettyimages-2301467717-AA_25102026_3009268.jpeg?v=1793144798&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
     {
       "id": "108472832",
       "title": "Flavor Flav, Hillary Clinton weigh in as WNBA takes flak for weekday lunchtime finals game",
@@ -24,6 +94,20 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/us/74-year-old-florida-man-charged-with-murder-offers-to-plead-guilty-for-a-philly-cheesesteak-fries-and-pepsi-saying-hell-accept-life-in-prison-judge-rejects-his-bizarre-deal/articleshow/135257046.cms",
+      "title": "74-year-old Florida man offers guilty plea for cheesesteak; judge says no",
+      "published": "2026-10-28T07:49:36+00:00",
+      "author": "TOI World Desk",
+      "description": "",
+      "link": "https://timesofindia.indiatimes.com/world/us/74-year-old-florida-man-charged-with-murder-offers-to-plead-guilty-for-a-philly-cheesesteak-fries-and-pepsi-saying-hell-accept-life-in-prison-judge-rejects-his-bizarre-deal/articleshow/135257046.cms",
+      "image": "https://static.toiimg.com/photo/msid-135257229,imgsize-669898.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
       "id": "https://www.nytimes.com/live/2026/10/28/world/israel-elections/heres-the-latest",
@@ -82,6 +166,20 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
+      "id": "t3_1xhhpgt",
+      "title": "Israel election results: Netanyahu bloc at 56 seats as nearly 60% of polling stations report",
+      "published": "2026-10-28T07:39:46+00:00",
+      "author": "/u/barak500",
+      "description": "submitted by /u/barak500 [link] [comments]",
+      "link": "https://www.reddit.com/r/worldnews/comments/1xhhpgt/israel_election_results_netanyahu_bloc_at_56/",
+      "image": "https://external-preview.redd.it/cwex1NQ19hRJK4Om-fhVeqvLL7mNCtj7SsMPTFBJ7CE.png?width=320&crop=smart&auto=webp&s=92877aa4ee7a6c1c28c0024b46ff2dc2c07bff4c",
+      "feed_name": "World News",
+      "feed_title": "World News",
+      "category": "World News",
+      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
+      "feed_icon": "https://www.redditstatic.com/icon.png/"
+    },
+    {
       "id": "https://timesofindia.indiatimes.com/science/wildlife/scientists-spot-rare-tiny-snakes-in-malaysia-that-do-not-just-slither-but-do-cartwheels-they-roll-at-12-feet-per-second-when-they-sense-danger/articleshow/135254624.cms",
       "title": "Cartwheeling Snakes Escape Danger: Dwarf reeds roll at 12 feet per second; study reveals unusual locomotion",
       "published": "2026-10-28T07:36:22+00:00",
@@ -94,6 +192,34 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/israel-election-results-live-updates-exit-polls-netanyahu-opposition-knesset-gadi-eisenkot-trump-12245676#publisher=newsstand",
+      "title": "Israel Election Results Live: Netanyahu Bloc Ahead With 55 Seats After Half Of Votes Counted",
+      "published": "2026-10-28T07:32:41+00:00",
+      "author": null,
+      "description": "Israel Election Results Live: It is the first election since the October 7 attack.",
+      "link": "https://www.ndtv.com/world-news/israel-election-results-live-updates-exit-polls-netanyahu-opposition-knesset-gadi-eisenkot-trump-12245676#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-10/j7kn377_israel_625x300_28_October_26.jpeg",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/cheesesteak-pepsi-florida-mans-unusual-quid-pro-quo-for-murder-confession-12247050#publisher=newsstand",
+      "title": "Cheesesteak, Pepsi: Florida Man's Unusual Demand For Murder Confession",
+      "published": "2026-10-28T07:30:08+00:00",
+      "author": null,
+      "description": "Kessler said the deal was off and asked the judge to proceed with jury selection.",
+      "link": "https://www.ndtv.com/world-news/cheesesteak-pepsi-florida-mans-unusual-quid-pro-quo-for-murder-confession-12247050#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-10/jqalphbk_robert-kessler_625x300_28_October_26.jpeg",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/us/in-2019-a-montana-rancher-found-a-rare-dinosaur-skeleton-on-her-land-seven-years-later-the-70-complete-nanotyrannus-sold-for-47-3-million-at-a-new-york-auction-far-above-its-9-million-top-estimate/articleshow/135255443.cms",
@@ -110,18 +236,32 @@
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
-      "id": "108471405",
-      "title": "Israel election appears to have no clear winner with Netanyahu, opponent Eisenkot far short of majorities",
-      "published": "2026-10-28T07:29:41+00:00",
+      "id": "https://www.ndtv.com/world-news/us-luxury-cruise-ship-halts-world-tour-over-fuel-costs-passengers-stranded-in-cambodia-12247040#publisher=newsstand",
+      "title": "US Luxury Cruise Ship Halts World Tour Over Fuel Costs, Passengers Stranded In Cambodia",
+      "published": "2026-10-28T07:25:27+00:00",
       "author": null,
-      "description": "Exit polls show Prime Minister Benjamin Netanyahu's alliance and Gadi Eisenkot's opposition bloc both well off the numbers needed to form a governing majority.",
-      "link": "https://www.cnbc.com/2026/10/28/israel-election-netanyahu-trump-gaza-.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108471491-1793144780727-gettyimages-2301467717-AA_25102026_3009268.jpeg?v=1793144798&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
+      "description": "The ship is currently docked in Sihanoukville, Cambodia.",
+      "link": "https://www.ndtv.com/world-news/us-luxury-cruise-ship-halts-world-tour-over-fuel-costs-passengers-stranded-in-cambodia-12247040#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-10/cg9sogm8_villa-vie-residences_625x300_28_October_26.jpeg",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
       "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/pretend-im-on-ballot-trumps-solution-to-those-doubting-republicans-in-us-midterms-12247169#publisher=newsstand",
+      "title": "\"Pretend I'm On Ballot\": Trump's Solution To Those Doubting Republicans",
+      "published": "2026-10-28T07:19:29+00:00",
+      "author": null,
+      "description": "Republicans still love the president, who remains dominant even as he approaches the back half of his second term.",
+      "link": "https://www.ndtv.com/world-news/pretend-im-on-ballot-trumps-solution-to-those-doubting-republicans-in-us-midterms-12247169#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-10/gvotcqc4_trump-midterms-reuters_625x300_28_October_26.jpeg",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
       "id": "t3_1xhh4hi",
@@ -136,6 +276,20 @@
       "category": "World News",
       "feed_url": "https://www.reddit.com/r/worldnews/.rss",
       "feed_icon": "https://www.redditstatic.com/icon.png/"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/russian-ukrainian-couple-make-five-day-escape-to-hungary-from-kyiv-2798839#publisher=newsstand",
+      "title": "Russian-Ukrainian Couple Make Five-Day Escape To Hungary From Kyiv",
+      "published": "2026-10-28T07:01:40+00:00",
+      "author": null,
+      "description": "Russian military attempted to encircle and subdue Ukrainian cities with intensifying bombardments.",
+      "link": "https://www.ndtv.com/world-news/russian-ukrainian-couple-make-five-day-escape-to-hungary-from-kyiv-2798839#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-08/skgk4mus_ukraine-news_625x300_17_August_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/uk/princess-dianas-secret-love-story-she-wanted-to-marry-a-heart-surgeon-she-trusted-most-saying-everybody-sells-me-out-he-is-the-one-person-who-will-never-sell-me-out/articleshow/135255547.cms",
@@ -166,6 +320,20 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
+      "id": "https://www.ndtv.com/world-news/ndtv-world-summit-2026-the-fourth-humiliation-what-anthropic-monks-and-the-cusp-of-consciousness-teach-about-tomorrow-swami-sarvapriyananda-12247055#publisher=newsstand",
+      "title": "The Fourth Humiliation: What Anthropic, Monks And The Cusp Of Consciousness Teach About Tomorrow",
+      "published": "2026-10-28T06:56:08+00:00",
+      "author": null,
+      "description": "Swami Sarvapriyananda at NDTV World Summit 2026",
+      "link": "https://www.ndtv.com/world-news/ndtv-world-summit-2026-the-fourth-humiliation-what-anthropic-monks-and-the-cusp-of-consciousness-teach-about-tomorrow-swami-sarvapriyananda-12247055#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-10/uji8snpg_ndtv-world-summit-2026_625x300_28_October_26.jpeg",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
       "id": "https://www.theguardian.com/world/2026/oct/28/king-charles-confirms-he-will-discuss-legacy-of-slavery-at-commonwealth-summit",
       "title": "King Charles to discuss legacy of slavery with Commonwealth leaders at summit",
       "published": "2026-10-28T06:55:35+00:00",
@@ -178,6 +346,34 @@
       "category": "World News",
       "feed_url": "https://www.theguardian.com/world/rss",
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/donald-trump-approves-flavio-bolsonaros-us-entry-after-he-flees-brazil-losing-election-12247039#publisher=newsstand",
+      "title": "Trump Approves Flavio Bolsonaro's US Entry After He Flees Brazil",
+      "published": "2026-10-28T06:51:29+00:00",
+      "author": null,
+      "description": "Trump made the remarks while talking to reporters on his return from a Texas campaign trip.",
+      "link": "https://www.ndtv.com/world-news/donald-trump-approves-flavio-bolsonaros-us-entry-after-he-flees-brazil-losing-election-12247039#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-10/bvqidk1o_us-brazil-reuters_625x300_28_October_26.jpeg",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/how-victory-of-netanyahus-rival-eisenkot-could-change-course-of-iran-war-12246599#publisher=newsstand",
+      "title": "How Victory Of Netanyahu's Rival Eisenkot Could Change Course Of Iran War",
+      "published": "2026-10-28T06:37:59+00:00",
+      "author": null,
+      "description": "Israeli voters delivered a rebuke to Netanyahu's far-right and religious governing coalition",
+      "link": "https://www.ndtv.com/world-news/how-victory-of-netanyahus-rival-eisenkot-could-change-course-of-iran-war-12246599#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-10/4thc7hlo_israel-polls_625x300_28_October_26.jpeg",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
       "id": "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled",
@@ -222,6 +418,20 @@
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
+      "id": "https://www.ndtv.com/world-news/us-israel-to-strike-iran-after-us-midterm-elections-team-trumps-warning-to-gulf-12246914#publisher=newsstand",
+      "title": "US, Israel To Strike Iran After Midterms? Team Trump's Warning To Gulf",
+      "published": "2026-10-28T06:30:54+00:00",
+      "author": null,
+      "description": "Trump has said he won't attack Iran before the midterms.",
+      "link": "https://www.ndtv.com/world-news/us-israel-to-strike-iran-after-us-midterm-elections-team-trumps-warning-to-gulf-12246914#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-10/6uejpa6s_donald-trump-reuters_625x300_24_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
       "id": "https://timesofindia.indiatimes.com/world/rest-of-world/south-african-athlete-thomas-van-tonder-crosses-600-monkey-bars-suspended-216-metres-above-ground-beneath-bloukrans-bridge-completes-280-metre-crossing-in-47-minutes-in-world-first-stunt/articleshow/135253745.cms",
       "title": "South African athlete crosses 600 monkey bars suspended 216 metres above ground beneath Bloukrans Bridge, completes world-first stunt in 47 minutes",
       "published": "2026-10-28T06:30:00+00:00",
@@ -236,6 +446,20 @@
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
+      "id": "https://www.ndtv.com/world-news/4-men-on-trial-in-uk-for-allegedly-raping-drugged-woman-after-husband-advertised-her-online-12246867#publisher=newsstand",
+      "title": "4 Men On Trial In UK For Allegedly Raping Drugged Woman After Husband Advertised Her Online",
+      "published": "2026-10-28T06:29:36+00:00",
+      "author": null,
+      "description": "The alleged offences took place between 2016 and 2023.",
+      "link": "https://www.ndtv.com/world-news/4-men-on-trial-in-uk-for-allegedly-raping-drugged-woman-after-husband-advertised-her-online-12246867#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-10/0crakvs4_uk-men-on-trial_625x300_28_October_26.jpeg",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
       "id": "https://www.theguardian.com/australia-news/2026/oct/28/australia-democratic-politics-argument-helen-haines-incident-alastair-campbell-ntwnfb",
       "title": "Australia must ‘re-win the argument for democratic politics’ in wake of Haines incident, Alastair Campbell says",
       "published": "2026-10-28T06:24:22+00:00",
@@ -248,20 +472,6 @@
       "category": "World News",
       "feed_url": "https://www.theguardian.com/world/rss",
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/israel-election-results-live-updates-exit-polls-netanyahu-opposition-knesset-gadi-eisenkot-trump-12245676#publisher=newsstand",
-      "title": "Israel Election Results Live: Netanyahu Bloc Ahead With 56 Seats After Half Of Votes Counted",
-      "published": "2026-10-28T06:13:40+00:00",
-      "author": null,
-      "description": "Israel Election Results Live: It is the first election since the October 7 attack.",
-      "link": "https://www.ndtv.com/world-news/israel-election-results-live-updates-exit-polls-netanyahu-opposition-knesset-gadi-eisenkot-trump-12245676#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-10/j7kn377_israel_625x300_28_October_26.jpeg",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
       "id": "https://www.ndtv.com/world-news/us-cruise-ship-odyssey-on-world-voyage-stops-after-fuel-prices-surge-villa-vie-residents-12246813#publisher=newsstand",
@@ -332,6 +542,20 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/rest-of-world/two-spans-of-a-140-year-old-scottish-railway-bridge-fell-into-the-river-spey-engineers-are-investigating-the-collapse-as-restoration-options-could-cost-more-than-1-million/articleshow/135253130.cms",
+      "title": "140-year-old Scottish railway bridge collapses, with repairs topping £1 million",
+      "published": "2026-10-28T06:00:00+00:00",
+      "author": "TOI World Desk",
+      "description": "",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/two-spans-of-a-140-year-old-scottish-railway-bridge-fell-into-the-river-spey-engineers-are-investigating-the-collapse-as-restoration-options-could-cost-more-than-1-million/articleshow/135253130.cms",
+      "image": "https://static.toiimg.com/photo/msid-135253307,imgsize-167614.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
       "id": "https://www.theguardian.com/australia-news/2026/oct/28/jim-chalmers-is-blaming-australias-accelerating-inflation-on-trump-but-voters-arent-buying-it",
@@ -516,20 +740,6 @@
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
     },
     {
-      "id": "https://www.ndtv.com/world-news/how-victory-of-netanyahus-rival-eisenkot-could-change-course-of-iran-war-12246599#publisher=newsstand",
-      "title": "How Victory Of Netanyahu's Rival Eisenkot Could Change Course Of Iran War",
-      "published": "2026-10-28T05:20:18+00:00",
-      "author": null,
-      "description": "Israeli voters delivered a rebuke to Netanyahu's far-right and religious governing coalition",
-      "link": "https://www.ndtv.com/world-news/how-victory-of-netanyahus-rival-eisenkot-could-change-course-of-iran-war-12246599#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-10/4thc7hlo_israel-polls_625x300_28_October_26.jpeg",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
       "id": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-herzog-prime-minister.html",
       "title": "Israel’s President, Isaac Herzog, Faces a Difficult Choice",
       "published": "2026-10-28T05:18:10+00:00",
@@ -696,6 +906,20 @@
       "category": "World News",
       "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
       "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
+      "id": "t3_1xhely1",
+      "title": "Argentina's Milei calls Spain's Sanchez a 'dictator' in Madrid visit",
+      "published": "2026-10-28T04:29:44+00:00",
+      "author": "/u/GuestFromBudushchego",
+      "description": "submitted by /u/GuestFromBudushchego [link] [comments]",
+      "link": "https://www.reddit.com/r/worldnews/comments/1xhely1/argentinas_milei_calls_spains_sanchez_a_dictator/",
+      "image": "https://external-preview.redd.it/Yif-tgVMl0xmeGWW47lbM779TSNkHrf7P0mJ38iDJ7E.jpeg?width=640&crop=smart&auto=webp&s=1fca27df230caeaddfa43f1228ae9eeff450a69f",
+      "feed_name": "World News",
+      "feed_title": "World News",
+      "category": "World News",
+      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
+      "feed_icon": "https://www.redditstatic.com/icon.png/"
     },
     {
       "id": "108471998",
