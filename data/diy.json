@@ -1,9 +1,44 @@
 {
   "category": "DIY",
-  "updated": "2026-10-28T09:32:14.997295+00:00",
-  "count": 233,
-  "summary": null,
+  "updated": "2026-10-28T10:02:59.089328+00:00",
+  "count": 235,
+  "summary": {
+    "text": "• MUO suggests checking your drawer for old RAM, since a spare stick can be worth more to you than its resale price.\n• How-To Geek lists four things the writer dislikes about 3D printing, while saying they have no plans to stop.",
+    "generated_at": "2026-10-28T10:02:59.089328+00:00",
+    "window_minutes": 60,
+    "item_count": 2,
+    "key": "f41fd9a4f9a8c53872d996284852b2d599a180be",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "https://www.makeuseof.com/theres-never-been-a-better-reason-to-check-your-drawer-for-old-ram/",
+      "title": "There's never been a better reason to check your drawer for old RAM",
+      "published": "2026-10-28T10:01:17+00:00",
+      "author": "Afam Onyimadu",
+      "description": "A spare stick can save you more than it sells for.",
+      "link": "https://www.makeuseof.com/theres-never-been-a-better-reason-to-check-your-drawer-for-old-ram/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/04/old-ddr3-ram-memory-sticks-with-latency-close-up.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/things-hate-about-3d-printing/",
+      "title": "4 things I hate about 3D printing",
+      "published": "2026-10-28T10:00:15+00:00",
+      "author": "Tim Brookes",
+      "description": "Not that I’m stopping any time soon.",
+      "link": "https://www.howtogeek.com/things-hate-about-3d-printing/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/08/bambu-lab-p2s-with-an-exposed-toolhead.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://hackaday.com/?p=1396477",
       "title": "SLAM Navigation For an Arduino Powered Car",

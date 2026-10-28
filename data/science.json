@@ -1,16 +1,58 @@
 {
   "category": "science",
-  "updated": "2026-10-28T09:32:14.997295+00:00",
-  "count": 569,
+  "updated": "2026-10-28T10:02:59.089328+00:00",
+  "count": 572,
   "summary": {
-    "text": "• DNA analysis suggests root-dwelling fungi may be keystone species in forest microbial communities.\n• Fungi and bacteria in soil and root systems play pivotal roles in processes such as nutrient cycling.\n• AI emergency alerts are coming, but humans may not be ready, since people already struggle with emergency communication. Chatbots could help if people take them seriously.",
-    "generated_at": "2026-10-28T09:03:49.739615+00:00",
+    "text": "• A new study challenges the idea that comets seeded Earth with the molecular building blocks of life.\n• Engineered albumin helps therapeutic proteins last longer and cross mucosal barriers, addressing their rapid clearance.\n• Antarctic Intermediate Water, a vast Southern Hemisphere ocean layer, has rapidly reversed long-term salinity and density trends.\n• The Trump administration will allow some levels of kratom in products marketed as natural, backing down on an opioid ban after industry lobbying.",
+    "generated_at": "2026-10-28T10:02:59.089328+00:00",
     "window_minutes": 60,
-    "item_count": 2,
-    "key": "5d26cf61a4a89ed267db08cdd8a4eb6227513d89",
+    "item_count": 4,
+    "key": "afa53eb6e478b49ac1abac3a7dec9ac2124c6bb2",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "news712240261",
+      "title": "Comets probably didn't seed life on Earth after all, new study suggests",
+      "published": "2026-10-28T10:00:10+00:00",
+      "author": null,
+      "description": "The theory that comets delivered the molecular building blocks for life on Earth is a long-standing one, since comets are known to carry many of these molecules. However, a new study challenges this idea.",
+      "link": "https://phys.org/news/2026-10-comets-didnt-seed-life-earth.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/comets-probably-didnt.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "news712331017",
+      "title": "Engineered albumin helps a therapeutic protein last longer and cross mucosal barriers",
+      "published": "2026-10-28T10:00:05+00:00",
+      "author": null,
+      "description": "Protein-based medicines have transformed the treatment of many diseases, but they often come with a limitation: they must be injected, sometimes repeatedly, because they are rapidly cleared from the bloodstream. For patients who depend on long-term or lifelong treatment, frequent injections place a considerable burden on everyday life.",
+      "link": "https://phys.org/news/2026-10-albumin-therapeutic-protein-longer-mucosal.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/red-blood-cells.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "news712321742",
+      "title": "Major Southern Hemisphere ocean layer shifts, raising questions about heat and carbon storage",
+      "published": "2026-10-28T10:00:01+00:00",
+      "author": null,
+      "description": "The Antarctic Intermediate Water (AAIW)—a vast layer of fresh water spanning much of the Southern Hemisphere's ocean—has rapidly reversed its long-term trends in salinity and density, according to new research. The AAIW helps store carbon, supply oxygen and drive global ocean currents.",
+      "link": "https://phys.org/news/2026-10-major-southern-hemisphere-ocean-layer.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/antarctic-sea-ice-loss.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
     {
       "id": "https://www.nytimes.com/2026/10/28/us/politics/trump-opioid-kratom.html",
       "title": "Trump Administration Backs Down on an Opioid Ban After Kratom Industry Lobbying",
@@ -304,6 +346,20 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "https://www.nature.com/articles/d41586-026-03445-w",
+      "title": "Preprint-centric publishing approach gets major boost",
+      "published": "2026-10-28T00:00:00+00:00",
+      "author": "Holly Else",
+      "description": "Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03445-w European funders put weight behind controversial ‘publish, review, curate’ model for preprints.",
+      "link": "https://www.nature.com/articles/d41586-026-03445-w",
+      "image": null,
+      "feed_name": "Nature",
+      "feed_title": "Nature",
+      "category": "science",
+      "feed_url": "https://www.nature.com/nature.rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=feeds.nature.com&sz=64"
     },
     {
       "id": "news712329901",
@@ -7962,20 +8018,6 @@
       "category": "science",
       "feed_url": "https://feeds.npr.org/510308/podcast.xml",
       "feed_icon": "https://image.simplecastcdn.com/images/5982e1b7-239c-4b89-81f9-49df1f33fdae/dd71b17c-82bb-441d-a979-e16975aebc1c/3000x3000/hbtilewshankarfinal_rgbsimplecast.jpg?aid=rss_feed"
-    },
-    {
-      "id": "c4054c28-b91f-11f1-a73b-1bccf527b33f",
-      "title": "Fire amoebas, fossilized vomit and AI energy demands",
-      "published": "2026-09-28T09:50:00+00:00",
-      "author": "Scientific American",
-      "description": "In this episode of Science Quickly, we cover discoveries both big and small, from the supersized particle collider needed to find the next subatomic specimen to tropical sea turtles that found new nesting grounds to a recently discovered eukaryote surprising scientists by surviving hellish temperatures and the ever growing energy needed to power artificial intelligence data centers. Recommended Reading: What’s the Smallest Particle in the Universe? Physicists trace particles back to the quantum…",
-      "link": null,
-      "image": null,
-      "feed_name": "60-Second Science",
-      "feed_title": "60-Second Science",
-      "category": "science",
-      "feed_url": "http://rss.sciam.com/sciam/60secsciencepodcast",
-      "feed_icon": "https://megaphone.imgix.net/podcasts/9e578524-a403-11ee-a6cf-cbcdcc0e11fb/image/ec5ff1c72de2a19d67bc6425661674b1.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
     }
   ]
 }

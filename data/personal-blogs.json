@@ -1,9 +1,30 @@
 {
   "category": "personal blogs",
-  "updated": "2026-10-28T09:32:14.997295+00:00",
-  "count": 422,
-  "summary": null,
+  "updated": "2026-10-28T10:02:59.089328+00:00",
+  "count": 423,
+  "summary": {
+    "text": "• CSS Wizardry's \"Web-Perf Wednesday 015\" covers failed modulepreloads needing to recover.\n• WebKit has fixed failed modulepreloads that could block recovery.\n• The item says Safari and Firefox are improving performance tooling and browser responsiveness.",
+    "generated_at": "2026-10-28T10:02:59.089328+00:00",
+    "window_minutes": 60,
+    "item_count": 1,
+    "key": "cae9b058ebc23cf6586a52cac96864a18173b060",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "https://csswizardry.com/2026/10/web-perf-wednesday-015-failed-modulepreloads-need-to-recover/",
+      "title": "Web-Perf Wednesday 015 – Failed Modulepreloads Need to Recover",
+      "published": "2026-10-28T12:00:00+00:00",
+      "author": null,
+      "description": "WebKit fixes failed modulepreloads that could block recovery, while Safari and Firefox improve performance tooling and browser responsiveness.",
+      "link": "https://csswizardry.com/2026/10/web-perf-wednesday-015-failed-modulepreloads-need-to-recover/",
+      "image": null,
+      "feed_name": "CSS Wizardry",
+      "feed_title": "CSS Wizardry",
+      "category": "personal blogs",
+      "feed_url": "http://feeds.feedburner.com/csswizardry",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=csswizardry.com&sz=64"
+    },
     {
       "id": "https://christianheilmann.com/?p=10325",
       "title": "Pardon my dust – re-homing 21 years of blog content of christianheilmann.com",

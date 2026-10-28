@@ -1,16 +1,44 @@
 {
   "category": "gaming",
-  "updated": "2026-10-28T09:32:14.997295+00:00",
-  "count": 565,
+  "updated": "2026-10-28T10:02:59.089328+00:00",
+  "count": 567,
   "summary": {
-    "text": "• Polygon reports that the 129-minute version of Paul Verhoeven's *Starship Troopers* is being cut from Netflix.\n• The film is described as a satirical military thriller that lampoons right-wing militarism.\n• No other items in this batch were available to group with this story.",
-    "generated_at": "2026-10-28T09:03:49.739615+00:00",
+    "text": "• Rockstar Games employees have set a union vote for next month, taking place during the Grand Theft Auto 6 release window. If successful, it would be the largest recognised union across the UK games industry.\n• GTA 6 will reportedly be a 210GB download on PlayStation 5, according to new information cited by Eurogamer.\n• Polygon looks back at Matsuri Hino's shojo classic and its 2008 adaptation, calling them divisive guilty pleasures 18 years on.",
+    "generated_at": "2026-10-28T10:02:59.089328+00:00",
     "window_minutes": 60,
-    "item_count": 1,
-    "key": "eea2285c74cc085b236b366700ac60c656dc1268",
+    "item_count": 3,
+    "key": "fe0d65e839a6dcefabc190bd844dd3f8674a0d57",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.polygon.com/vampire-knight-gothic-romance-guilty-pleasure/",
+      "title": "18 Years Later, The Definitive 2000s Gothic Cult Classic is Still a Divisive Guilty Pleasure",
+      "published": "2026-10-28T10:00:17+00:00",
+      "author": "Debopriyaa Dutta",
+      "description": "Matsuri Hino's shojo classic and its 2008 adaptation are bona fide guilty pleasures.",
+      "link": "https://www.polygon.com/vampire-knight-gothic-romance-guilty-pleasure/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/vampire-knight-yuki-zero.png",
+      "feed_name": "Polygon -  All",
+      "feed_title": "Polygon.com",
+      "category": "gaming",
+      "feed_url": "https://www.polygon.com/rss/index.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.polygon.com&sz=64"
+    },
+    {
+      "id": "https://www.eurogamer.net/rockstar-union-vote-november",
+      "title": "Rockstar Games employees have locked in a union vote next month, and it'll take place over Grand Theft Auto 6's release window",
+      "published": "2026-10-28T09:49:39+00:00",
+      "author": "Connor Makar",
+      "description": "A date has been locked in for Rockstar Games employees to vote on whether to recognise their developer union. If successful, it will become the largest recognised union across the entirety of the UK video games industry. Read more",
+      "link": "https://www.eurogamer.net/rockstar-union-vote-november",
+      "image": "https://assetsio.gnwcdn.com/grand-theft-auto-6-sharing-beer-on-boat.png?width=690&quality=85&format=jpg&auto=webp",
+      "feed_name": "Eurogamer.net",
+      "feed_title": "Eurogamer.net Latest Articles Feed",
+      "category": "gaming",
+      "feed_url": "https://www.eurogamer.net/?format=rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.eurogamer.net&sz=64"
+    },
     {
       "id": "https://www.eurogamer.net/gta-6-ps5-download-size",
       "title": "GTA 6 is a massive 210GB download on PlayStation 5",
@@ -1945,10 +1973,10 @@
     },
     {
       "id": "1936241",
-      "title": "Nintendo Announces Indie World Showcase For October 28",
+      "title": "How To Watch The October Nintendo Indie World Showcase",
       "published": "2026-10-27T13:54:50+00:00",
       "author": "Darryn Bonthuys",
-      "description": "Nintendo has announced a new Indie World Showcase for October 28 at 7 AM PT / 10 AM ET . The broadcast will run about 15 minutes and, like previous streams, will focus on a wide range of games from third-party Nintendo partners. As usual, you can catch the showcase through Nintendo's official YouTube channel . \"Tune in for roughly 15 minutes of new announcements and updates on indie games coming to Nintendo Switch 2 and Nintendo Switch,\" Nintendo's announcement read. Nintendo's last Indie World…",
+      "description": "Nintendo has announced a new Indie World Showcase for October 28 . The broadcast will run about 15 minutes and, like previous streams, will focus on a wide range of games from third-party Nintendo partners. As usual, you can catch the showcase through Nintendo's official YouTube channel . When to watch the Indie World Showcase The Nintendo Indie World Showcase will start at the following time: 7 AM PT 10 AM ET 3 PM GMT 4 PM CET 5 PM AST 11 PM CST 2 AM AEDT (October 29) Where to watch the Indie…",
       "link": "https://www.gamespot.com/articles/nintendo-announces-indie-world-showcase-for-october-28/",
       "image": "https://www.gamespot.com/wp-content/uploads/original/1601/16018044/4660714-indie-world.jpg?w=300",
       "feed_name": "GameSpot - All Content",

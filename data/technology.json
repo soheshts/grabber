@@ -1,16 +1,30 @@
 {
   "category": "technology",
-  "updated": "2026-10-28T09:32:14.997295+00:00",
-  "count": 781,
+  "updated": "2026-10-28T10:02:59.089328+00:00",
+  "count": 783,
   "summary": {
-    "text": "• Meta has launched Waddle World, a Tamagotchi-style AI pet app that Meta describes as a \"daily journal disguised as a pet.\"",
-    "generated_at": "2026-10-28T09:03:49.739615+00:00",
+    "text": "• The FIA has named Amazon Web Services its official partner for AI, cloud computing, machine learning and cloud infrastructure in motor sport, per The Next Web.\n• The US Federal Election Commission has taken its electronic filing system offline after an attempted cyberattack, Reuters reported citing an internal email, ahead of the midterms.\n• A Remesh survey of 107 US and UK HR leaders found that most large companies already listen to employees, arguing that more listening isn't the same as better listening.",
+    "generated_at": "2026-10-28T10:02:59.089328+00:00",
     "window_minutes": 60,
-    "item_count": 1,
-    "key": "11f050d60379d30d13640678a2b7ec1905cc1d7d",
+    "item_count": 3,
+    "key": "5375c84c1918fa0c8f47397d7150250316ff991d",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "TheNextWeb=c8faa8840720b06f75c4265562f3023b",
+      "title": "FIA names AWS its official AI and cloud partner for motor sport",
+      "published": "2026-10-28T09:41:23+00:00",
+      "author": "Ana-Maria Stanciuc",
+      "description": "The FIA, which governs motor sport worldwide, has named Amazon Web Services (AWS) its official partner for AI, cloud computing, machine learning and cloud infrastructure. The deal was announced today, and it covers every level of the sport, from club racing up to Formula 1. Under the agreement, AWS will help shape the technical rules […] This story continues at The Next Web",
+      "link": "https://thenextweb.com/news/fia-aws-ai-cloud-partner",
+      "image": "https://media.thenextweb.com/2026/10/fia-aws-global-partner-logos-blue-server-room.avif",
+      "feed_name": "The Next Web",
+      "feed_title": "The Next Web",
+      "category": "technology",
+      "feed_url": "https://thenextweb.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
     {
       "id": "TheNextWeb=b9be0191ed55c92c1b8085508c632852",
       "title": "US Federal Election Commission filing system down before midterms",
@@ -52,6 +66,20 @@
       "category": "technology",
       "feed_url": "https://thenextweb.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
+    {
+      "id": "02zYhX4AAicDN3mUfcCQFX5",
+      "title": "Block ads and boost your cybersecurity with this $35 deal",
+      "published": "2026-10-28T09:00:00+00:00",
+      "author": null,
+      "description": "Enjoy a more private and peaceful internet experience with this AdGuard VPN and Ad Blocker Family Security Suite.",
+      "link": "https://mashable.com/tech/oct-28-adguard-vpn-ad-blocker-family-security-suite",
+      "image": "https://helios-i.mashable.com/imagery/articles/02zYhX4AAicDN3mUfcCQFX5/hero-image.jpg",
+      "feed_name": "Mashable",
+      "feed_title": "Mashable",
+      "category": "technology",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
     },
     {
       "id": "https://www.engadget.com/2299227/meta-tamagotchi-like-ai-digital-pet-app-waddle-world/",
