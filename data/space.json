@@ -1,9 +1,30 @@
 {
   "category": "space",
-  "updated": "2026-10-28T23:03:24.279757+00:00",
-  "count": 134,
-  "summary": null,
+  "updated": "2026-10-28T23:33:22.935088+00:00",
+  "count": 135,
+  "summary": {
+    "text": "• On Oct. 28, 1971, the United Kingdom launched its first satellite.\n• The satellite, Prospero, was carried into space by a Black Arrow rocket.\n• Space.com's \"On this day in space\" feature explains why the launch mattered.",
+    "generated_at": "2026-10-28T23:33:22.935088+00:00",
+    "window_minutes": 60,
+    "item_count": 1,
+    "key": "18a04c55809dcf365908c4dd37cd72589ae6d405",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "5ACvaYDBGLtuiZSxXHRDqk",
+      "title": "On this day in space! Oct. 28, 1971: Britain launches its 1st satellite Prospero into space on a Black Arrow rocket",
+      "published": "2026-10-28T23:02:12+00:00",
+      "author": "Hanneke Weitering",
+      "description": "On Oct. 28, 1971, the United Kingdom launched its first satellite. Here's why it mattered.",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-28-2026",
+      "image": "https://cdn.mos.cms.futurecdn.net/xBHgYb9Cy8xuNbv5XJHnsC-1920-80.jpg",
+      "feed_name": "Space.com",
+      "feed_title": "Latest from Space.com",
+      "category": "space",
+      "feed_url": "https://www.space.com/feeds/all",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.space.com&sz=64"
+    },
     {
       "id": "https://www.nasa.gov/?p=1060178",
       "title": "NASA Welcomes Vietnam as Newest Artemis Accords Signatory",

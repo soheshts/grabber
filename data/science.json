@@ -1,7 +1,7 @@
 {
   "category": "science",
-  "updated": "2026-10-28T23:03:24.279757+00:00",
-  "count": 688,
+  "updated": "2026-10-28T23:33:22.935088+00:00",
+  "count": 690,
   "summary": {
     "text": "• Researchers at the University of Vienna and TU Wien found that atomic magnetism explains why iron, but not chromium, can make ammonia using sunlight, despite the two materials being nearly identical.\n• A Science Tokyo study shows macromolecular crowding can guide the formation and organization of synthetic DNA droplets, a tool for building artificial cell systems.\n• An international study found wild tomatoes resist the tomato leafminer better than cultivated varieties because of their molecular architecture.",
     "generated_at": "2026-10-28T23:03:24.279757+00:00",
@@ -11,6 +11,34 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "news712421221",
+      "title": "Ultrathin metal layer boosts spin-related signals, opening a door to ultralow-power electronics",
+      "published": "2026-10-28T23:20:02+00:00",
+      "author": null,
+      "description": "Researchers at Kyushu University have found that an ultrathin layer of iridium manganese (IrMn) can improve two spin-related signals in a structure made of a magnetic insulator and a platinum film. By examining how spin currents are generated and absorbed, the team gained insights into how the intermediate layer improves spin transfer. The findings could inform the development of ultralow-power devices for computing and energy harvesting.",
+      "link": "https://phys.org/news/2026-10-ultrathin-metal-layer-boosts-door.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-an-ultrathin-metal-1.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c574pj3zljvjo#0",
+      "title": "Building boom puts 300,000 people in the path of potential Himalayan disasters",
+      "published": "2026-10-28T23:11:59+00:00",
+      "author": null,
+      "description": "The construction of tourism facilities, housing, and infrastructure has surged in parts of Nepal and India's Uttarakhand.",
+      "link": "https://www.bbc.co.uk/news/articles/c574pj3zljvjo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fa1/live/e95162f0-cdf6-11f1-9a39-31b474234113.jpg",
+      "feed_name": "BBC News - Science & Environment",
+      "feed_title": "BBC News",
+      "category": "science",
+      "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
     {
       "id": "news712420921",
       "title": "Atomic magnetism reveals why iron, but not chromium, can produce ammonia using sunlight",

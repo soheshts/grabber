@@ -1,7 +1,7 @@
 {
   "category": "DIY",
-  "updated": "2026-10-28T23:03:24.279757+00:00",
-  "count": 295,
+  "updated": "2026-10-28T23:33:22.935088+00:00",
+  "count": 296,
   "summary": {
     "text": "• How-To Geek shows how to add the Pixel 11's most exclusive feature to a Pixel 8a.\n• A How-To Geek writer put NFC tags on their appliances so they no longer have to search for manuals.\n• Both items are from How-To Geek and were published in the last hour.",
     "generated_at": "2026-10-28T23:03:24.279757+00:00",
@@ -11,6 +11,20 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://hackaday.com/?p=1396582",
+      "title": "Hacking the Modern Tamagotchi With UART",
+      "published": "2026-10-28T23:00:25+00:00",
+      "author": "Bryan Cockfield",
+      "description": "Although not technically the first virtual pet, the Tamagotchi handhelds certainly popularized the idea and made it a worldwide phenomenon. In the late 90s it was hard to go out …read more",
+      "link": "https://hackaday.com/2026/10/28/hacking-the-modern-tamagotchi-with-uart/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/10/tamagotchi-main.png",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/heres-how-i-added-the-pixel-11s-most-exclusive-feature-to-my-pixel-8a/",
       "title": "Here's how I added the Pixel 11's most exclusive feature to my Pixel 8a",
