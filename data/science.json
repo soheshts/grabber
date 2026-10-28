@@ -1,16 +1,30 @@
 {
   "category": "science",
-  "updated": "2026-10-28T02:02:37.220870+00:00",
-  "count": 559,
+  "updated": "2026-10-28T02:33:32.772353+00:00",
+  "count": 560,
   "summary": {
-    "text": "• Invasive brambles have spread across South Africa since the early 1900s, and researchers are nearing a natural enemy to manage them.\n• Some frogs in Central and South American highlands have escaped a deadly fungus driving amphibian extinctions, though 41% of species remain threatened.\n• The EPA has loosened Biden-era methane rules for oil firms, a major driver of climate change.\n• A probable new dwarf planet, 2026 ED138, was spotted beyond Pluto by Chile's Vera C. Rubin Observatory.",
-    "generated_at": "2026-10-28T02:02:37.220870+00:00",
+    "text": "• Halloween, a $13.5 billion fall industry, is driving ghostly tourism at historic sites, raising the question of whether this is a problem.\n• Invasive brambles have spread across South Africa since the early 1900s, having come from North America and Europe. Researchers are closer to finding a natural enemy to manage them.\n• The CONFETI project, coordinated by the Universitat Autònoma de Barcelona, concluded three years of research with a pilot system that produces urea, a nitrogen fertilizer, in the field using biobatteries and solar energy.",
+    "generated_at": "2026-10-28T02:33:32.772353+00:00",
     "window_minutes": 60,
-    "item_count": 5,
-    "key": "c0d6f947738e8ed395bc898f4cf5d267623cf16d",
+    "item_count": 3,
+    "key": "31c61ec9568be2cacdea88c70265ce71d6f181f9",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "news712324524",
+      "title": "Halloween meets history in many ghostly tourism attractions. Is this a problem?",
+      "published": "2026-10-28T02:20:01+00:00",
+      "author": null,
+      "description": "Halloween, the fall holiday and $13.5 billion industry, lurks around the corner.",
+      "link": "https://phys.org/news/2026-10-halloween-history-ghostly-tourism-problem.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/halloween.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
     {
       "id": "news712323204",
       "title": "Brambles are a problem weed in South Africa, but researchers are closer to finding a natural enemy to manage them",

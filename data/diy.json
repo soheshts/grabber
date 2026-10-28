@@ -1,9 +1,30 @@
 {
   "category": "DIY",
-  "updated": "2026-10-28T02:02:37.220870+00:00",
-  "count": 230,
-  "summary": null,
+  "updated": "2026-10-28T02:33:32.772353+00:00",
+  "count": 231,
+  "summary": {
+    "text": "• Hackaday reports on airborne particle monitoring for workshops, noting that fine particles can pose a significant health hazard.\n• The article stresses the importance of maintaining high ventilation standards and of monitoring particle concentration levels.",
+    "generated_at": "2026-10-28T02:33:32.772353+00:00",
+    "window_minutes": 60,
+    "item_count": 1,
+    "key": "3f1d58ea046c95dbde41fbe84b6d904cc26e7ffe",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "https://hackaday.com/?p=1394024",
+      "title": "Airborne Particle Monitoring, the BIG way",
+      "published": "2026-10-28T02:00:01+00:00",
+      "author": "Jenny List",
+      "description": "Airborne micro particles can be a significant health hazard in a workshop, and thus it’s important to maintain a high standard of ventilation. But monitoring their concentration is also important, …read more",
+      "link": "https://hackaday.com/2026/10/27/airborne-particle-monitoring-the-big-way/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/10/pm2.5-featured.jpg",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/hate-smart-home-appliances-built-home-assistant-automations-instead/",
       "title": "I hate smart home appliances, so I built these Home Assistant automations instead",

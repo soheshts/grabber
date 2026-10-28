@@ -1,9 +1,30 @@
 {
   "category": "gaming",
-  "updated": "2026-10-28T02:02:37.220870+00:00",
-  "count": 558,
-  "summary": null,
+  "updated": "2026-10-28T02:33:32.772353+00:00",
+  "count": 559,
+  "summary": {
+    "text": "• PlayStation 11.11 Power Deals returns to Southeast Asia from 30 October to 12 November 2026.\n• The sale covers Singapore, Malaysia, Thailand, Indonesia and Vietnam.\n• Discounts apply to PS5 peripherals and disc versions of PS5 games.",
+    "generated_at": "2026-10-28T02:33:32.772353+00:00",
+    "window_minutes": 60,
+    "item_count": 1,
+    "key": "b6a1967c8ad30d3f23ab1542ef6cdb8c0331a698",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "urn:uuid:302d3c76-d629-46d5-b0c9-a345ba4fb3c7",
+      "title": "(For Southeast Asia) PlayStation 11.11 Power Deals returns from 30 October to 12 November 2026",
+      "published": "2026-10-28T02:01:10+00:00",
+      "author": "Ian Purnomo",
+      "description": "PlayStation 11.11 Power Deals returns to Singapore, Malaysia, Thailand, Indonesia and Vietnam from 30th October to 12th November 2026, with discounts on PS5 peripherals and disc versions of PS5 games from PlayStation Studios. Highlights of this year’s 11.11 Power Deals include: The 2026 PlayStation 11.11 Power Deals promotion will be available at participating retailers (https://www.playstation.com/local/retailers/) […]",
+      "link": "https://blog.playstation.com/2026/10/27/20261028-sale/",
+      "image": "https://blog.playstation.com/tachyon/2026/10/17a5636bd219301186ff075c1626b7f3308cd091-scaled.jpeg",
+      "feed_name": "PlayStation.Blog",
+      "feed_title": "PlayStation.Blog",
+      "category": "gaming",
+      "feed_url": "http://feeds.feedburner.com/psblog",
+      "feed_icon": "https://blog.playstation.com/tachyon/2019/03/cropped-pslogo.png?fit=32%2C32"
+    },
     {
       "id": "https://www.polygon.com/upcoming-games-like-mass-effect/",
       "title": "3 Upcoming Sci-Fi RPGs Better Than Waiting for a New Mass Effect",

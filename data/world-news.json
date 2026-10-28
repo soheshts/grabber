@@ -1,20 +1,20 @@
 {
   "category": "World News",
-  "updated": "2026-10-28T02:02:37.220870+00:00",
-  "count": 924,
+  "updated": "2026-10-28T02:33:32.772353+00:00",
+  "count": 926,
   "summary": {
-    "text": "• Israel's election exit polls show no clear winner, with Netanyahu fighting for a tie. Both he and Eisenkot claim confidence, and final results are due within 48 hours.\n• Australia's inflation rose to 4.3%, fuelling fears of a fifth rate hike this year. The case against the alleged Bondi terrorist, charged with 78 offences, was adjourned to February.\n• Sheikh Hasina accuses Bangladesh's government of \"mass arrests\" and \"torture.\"\n• SK Hynix shares rose over 8% after third-quarter profit beat estimates, and the chipmaker will return $25 billion to investors.",
-    "generated_at": "2026-10-28T02:02:37.220870+00:00",
+    "text": "• Israel's election has no clear winner; exit polls show Netanyahu and Eisenkot both short of a governing majority, and final results are due in 48 hours.\n• Australia's inflation rose to 4.3%, fueling fears of a fifth rate hike this year ahead of next week's RBA decision.\n• Alexander brothers were each sentenced to 30 years in prison for sex trafficking.\n• SK Hynix shares jumped over 8% after third-quarter profit beat estimates.\n• Flavio Bolsonaro and family will get US visas after leaving Brazil.",
+    "generated_at": "2026-10-28T02:33:32.772353+00:00",
     "window_minutes": 60,
-    "item_count": 11,
-    "key": "4b33b78f6d12ace0c89d18866fb75324cea54371",
+    "item_count": 9,
+    "key": "3693a6822e3c4aeed59aab5384cedc561a01d08e",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
     {
       "id": "https://www.nytimes.com/live/2026/10/27/world/israel-elections",
       "title": "Israel Election Live Updates: Rivals Strike Tone of Triumph, but Outcome Is Far From Clear",
-      "published": "2026-10-28T02:00:15+00:00",
+      "published": "2026-10-28T02:32:00+00:00",
       "author": "The New York Times",
       "description": "Addressing supporters after midnight, Prime Minister Benjamin Netanyahu and Gadi Eisenkot, who leads a bloc of opposition parties, both expressed confidence that they will lead Israel’s next government. Vote counting could take days.",
       "link": "https://www.nytimes.com/live/2026/10/27/world/israel-elections",
@@ -24,6 +24,62 @@
       "category": "World News",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.theguardian.com/australia-news/live/2026/oct/28/inflation-abs-labor-anthony-albanese-parliament-greens-david-shoebridge-one-nation-ntwnfb",
+      "title": "Politics live: ABC calls for One Nation to ‘immediately remove’ Bluey cartoon; RBA says no recession on way",
+      "published": "2026-10-28T02:26:59+00:00",
+      "author": "Kat Wong",
+      "description": "Get our breaking news email , free app or daily news podcast Online hate is spilling into the real world, AFP warns AFP Commissioner Krissy Barrett began her late-night appearance at the Senate estimates hearing noting “a heaviness that hangs across Australia” after the alleged attack on independent MP Helen Haines . Lone actors are being motivated by a convergence of personal grievances, mental health vulnerabilities and ideological concerns … What helped keep us safe in recent times, such as…",
+      "link": "https://www.theguardian.com/australia-news/live/2026/oct/28/inflation-abs-labor-anthony-albanese-parliament-greens-david-shoebridge-one-nation-ntwnfb",
+      "image": "https://i.guim.co.uk/img/media/ded625f2f56d2bfbc7f20677b7734b06fc80192c/446_0_4446_3559/master/4446.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=2583a97ba2f2a9e9f5ce630a820a7c59",
+      "feed_name": "The Guardian",
+      "feed_title": "World news | The Guardian",
+      "category": "World News",
+      "feed_url": "https://www.theguardian.com/world/rss",
+      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqn498mng08ro#1",
+      "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
+      "published": "2026-10-28T02:20:25+00:00",
+      "author": null,
+      "description": "The trio - two of whom were high-profile US real estate moguls - were found guilty using their social status to lure women to parties and then raping them.",
+      "link": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c228/live/e6371090-d249-11f1-8ba3-9fd3e261415f.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://www.theguardian.com/australia-news/2026/oct/28/inflation-rate-australia-2026-number-data-consumer-price-index-cpi-release",
+      "title": "Australia’s inflation rate rises to 4.3%, fuelling fears of fifth interest rate hike this year",
+      "published": "2026-10-28T02:17:32+00:00",
+      "author": "Jonathan Barrett and Patrick Commins",
+      "description": "CPI release comes ahead of Reserve Bank decision next week as the Middle East conflict intensifies the cost of living crisis Follow our Australian politics live blog for latest updates Get our daily political email , free app or daily news podcast Australia’s headline inflation rate has accelerated to 4.3%, with a key gauge that strips out volatile prices also elevated, sharpening expectations of another interest rate rise next week. The Reserve Bank of Australia’s preferred measure of consumer…",
+      "link": "https://www.theguardian.com/australia-news/2026/oct/28/inflation-rate-australia-2026-number-data-consumer-price-index-cpi-release",
+      "image": "https://i.guim.co.uk/img/media/64e77a720baeac62ada354b54f34aae458a7f1e6/538_0_6187_4947/master/6187.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dc0c94e1abf4a5f28087db475685674e",
+      "feed_name": "The Guardian",
+      "feed_title": "World news | The Guardian",
+      "category": "World News",
+      "feed_url": "https://www.theguardian.com/world/rss",
+      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
+    {
+      "id": "108471405",
+      "title": "Israel election appears to have no clear winner with Netanyahu, opponent Eisenkot far short of majorities",
+      "published": "2026-10-28T02:15:55+00:00",
+      "author": null,
+      "description": "Exit polls show Prime Minister Benjamin Netanyahu's alliance and Gadi Eisenkot's opposition bloc both well off the numbers needed to form a governing majority.",
+      "link": "https://www.cnbc.com/2026/10/28/israel-election-netanyahu-trump-gaza-.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108471491-1793144780727-gettyimages-2301467717-AA_25102026_3009268.jpeg?v=1793144798&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
       "id": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-exit-polls-close.html",
@@ -54,20 +110,6 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
-      "id": "https://www.theguardian.com/australia-news/live/2026/oct/28/inflation-abs-labor-anthony-albanese-parliament-greens-david-shoebridge-one-nation-ntwnfb",
-      "title": "Politics live: Hanson calls Chalmers and staff ‘hypocrites’; RBA governor says more pain needed to control inflation",
-      "published": "2026-10-28T01:49:55+00:00",
-      "author": "Kat Wong",
-      "description": "Get our breaking news email , free app or daily news podcast Online hate is spilling into the real world, AFP warns AFP Commissioner Krissy Barrett began her late-night appearance at the Senate estimates hearing noting “a heaviness that hangs across Australia” after the alleged attack on independent MP Helen Haines . Lone actors are being motivated by a convergence of personal grievances, mental health vulnerabilities and ideological concerns … What helped keep us safe in recent times, such as…",
-      "link": "https://www.theguardian.com/australia-news/live/2026/oct/28/inflation-abs-labor-anthony-albanese-parliament-greens-david-shoebridge-one-nation-ntwnfb",
-      "image": "https://i.guim.co.uk/img/media/ded625f2f56d2bfbc7f20677b7734b06fc80192c/446_0_4446_3559/master/4446.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=2583a97ba2f2a9e9f5ce630a820a7c59",
-      "feed_name": "The Guardian",
-      "feed_title": "World news | The Guardian",
-      "category": "World News",
-      "feed_url": "https://www.theguardian.com/world/rss",
-      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
-    },
-    {
       "id": "https://www.ndtv.com/world-news/no-clear-winner-in-israel-with-netanyahu-fighting-for-a-tie-exit-polls-show-12245942#publisher=newsstand",
       "title": "No Clear Winner In Israel With Netanyahu Fighting For A Tie, Exit Polls Show",
       "published": "2026-10-28T01:38:30+00:00",
@@ -80,6 +122,20 @@
       "category": "World News",
       "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
       "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
+      "id": "t3_1xhb4lf",
+      "title": "Flavio Bolsonaro and family to receive US visas after leaving Brazil, State Department says",
+      "published": "2026-10-28T01:33:59+00:00",
+      "author": "/u/chanblock",
+      "description": "submitted by /u/chanblock [link] [comments]",
+      "link": "https://www.reddit.com/r/worldnews/comments/1xhb4lf/flavio_bolsonaro_and_family_to_receive_us_visas/",
+      "image": null,
+      "feed_name": "World News",
+      "feed_title": "World News",
+      "category": "World News",
+      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
+      "feed_icon": "https://www.redditstatic.com/icon.png/"
     },
     {
       "id": "https://www.ndtv.com/world-news/sheikh-hasina-accuses-bangladesh-government-of-conducting-mass-arrests-torture-12245947#publisher=newsstand",
@@ -150,20 +206,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.theguardian.com/australia-news/2026/oct/28/inflation-rate-australia-2026-number-data-consumer-price-index-cpi-release",
-      "title": "Australia’s inflation rate rises to 4.3%, fuelling fears of fifth interest rate hike this year",
-      "published": "2026-10-28T01:03:24+00:00",
-      "author": "Jonathan Barrett and Patrick Commins",
-      "description": "CPI release comes ahead of Reserve Bank decision next week as the Middle East conflict intensifies the cost of living crisis Follow our Australian politics live blog for latest updates Get our daily political email , free app or daily news podcast Australia’s headline inflation rate has accelerated to 4.3%, with a key gauge that strips out volatile prices also elevated, sharpening expectations of another interest rate rise next week. The Reserve Bank of Australia’s preferred measure of consumer…",
-      "link": "https://www.theguardian.com/australia-news/2026/oct/28/inflation-rate-australia-2026-number-data-consumer-price-index-cpi-release",
-      "image": "https://i.guim.co.uk/img/media/64e77a720baeac62ada354b54f34aae458a7f1e6/538_0_6187_4947/master/6187.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dc0c94e1abf4a5f28087db475685674e",
-      "feed_name": "The Guardian",
-      "feed_title": "World news | The Guardian",
-      "category": "World News",
-      "feed_url": "https://www.theguardian.com/world/rss",
-      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
     },
     {
       "id": "https://www.ndtv.com/world-news/flavio-bolsonaro-lands-in-us-after-losing-brazil-election-reports-12245887#publisher=newsstand",
@@ -299,20 +341,6 @@
       "description": "Polls have closed in the Israeli election, but there is no clear winner.",
       "link": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c34b/live/eebe6880-d262-11f1-b441-2b33b063138f.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqn498mng08ro#1",
-      "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
-      "published": "2026-10-27T23:41:23+00:00",
-      "author": null,
-      "description": "The trio - two of whom were high-profile US real estate moguls - were found guilty using their social status to lure women to parties and then raping them.",
-      "link": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c228/live/e6371090-d249-11f1-8ba3-9fd3e261415f.jpg",
       "feed_name": "BBC News - World",
       "feed_title": "BBC News",
       "category": "World News",
