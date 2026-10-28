@@ -1,13 +1,13 @@
 {
   "category": "gaming",
-  "updated": "2026-10-28T04:02:31.583247+00:00",
-  "count": 561,
+  "updated": "2026-10-28T04:32:39.987806+00:00",
+  "count": 562,
   "summary": {
-    "text": "• Polygon reports that VisionQuest has brought back Raza, a Ten Rings terrorist.\n• Raza had not appeared since the first Iron Man movie.\n• The report describes him as the MCU's oldest villain.",
-    "generated_at": "2026-10-28T03:03:37.134308+00:00",
+    "text": "• Polygon reports that 29 years ago, Buffy the Vampire Slayer gave its wisest character, Rupert Giles, an unnerving backstory in season 2, which helped the show find its rhythm.\n• IGN reports that the upcoming Blade Runner 2099 board game will tell a different story from the TV series. The news follows Spiel Essen, a major tabletop convention in Germany held last week and over the weekend.",
+    "generated_at": "2026-10-28T04:32:39.987806+00:00",
     "window_minutes": 60,
-    "item_count": 1,
-    "key": "ac934db6d43d9011c36ef5dbd0fbdbdd2404a573",
+    "item_count": 2,
+    "key": "fcbcb794469bec5d31decb70c486954c77a18f2b",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
@@ -24,6 +24,20 @@
       "category": "gaming",
       "feed_url": "https://www.polygon.com/rss/index.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.polygon.com&sz=64"
+    },
+    {
+      "id": "2707f8fe-1b1a-4701-b4ab-a8afc8296b26",
+      "title": "The Upcoming Blade Runner 2099 Board Game Will Feature a Different Story Than the TV Series",
+      "published": "2026-10-28T03:39:28+00:00",
+      "author": "Jacob Kienlen",
+      "description": "Last week and over the weekend, one of, if not the, largest board game and tabletop conventions, Spiel Essen, was held in Germany. Board game designers and publishers the world over made their way over to not only demo their games but also reveal brand new upcoming ones. One such game was Blade Runner 2099 from the folks over at Lucky Duck Games which is slated to launch on Kickstarter next year. Lucky Duck Games, publisher of other such great titles as Unconscious Mind (a game we ranked as one…",
+      "link": "https://www.ign.com/articles/blade-runner-2099-the-board-game-will-feature-a-different-story-than-the-tv-series",
+      "image": "https://assets-prd.ignimgs.com/2026/10/28/blade-runner-board-game-1793158502327.png",
+      "feed_name": "IGN All",
+      "feed_title": "IGN Articles",
+      "category": "gaming",
+      "feed_url": "http://feeds.ign.com/ign/all",
+      "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
     },
     {
       "id": "https://www.polygon.com/visionquest-mcus-oldest-iron-man-villain-raza-hamidmi-al-wazar/",

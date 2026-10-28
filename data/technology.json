@@ -1,8 +1,15 @@
 {
   "category": "technology",
-  "updated": "2026-10-28T04:02:31.583247+00:00",
+  "updated": "2026-10-28T04:32:39.987806+00:00",
   "count": 763,
-  "summary": null,
+  "summary": {
+    "text": "• Engadget reports that iOS 27.2 brings two new features to Apple's CarPlay, along with other changes for the in-car system. The item does not describe the features.",
+    "generated_at": "2026-10-28T04:32:39.987806+00:00",
+    "window_minutes": 60,
+    "item_count": 1,
+    "key": "b514251729efeb98094002ee1ee8bdc434fb23aa",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
     {
       "id": "https://www.engadget.com/2299185/ios-27-2-two-new-features-apple-carplay/",
