@@ -1,16 +1,30 @@
 {
   "category": "fashion",
-  "updated": "2026-10-28T08:33:34.581374+00:00",
-  "count": 254,
+  "updated": "2026-10-28T09:03:49.739615+00:00",
+  "count": 256,
   "summary": {
-    "text": "• Winter shoes: A French friend shared six footwear trends she says every Parisian is wearing this season.\n• Fall '26: One trend is said to make any outfit look expensive, with options starting at $100.\n• Shopping guides: Seven easy fall outfits can be built entirely from Nordstrom, and several chic fall jackets cost under $300.",
-    "generated_at": "2026-10-28T08:33:34.581374+00:00",
+    "text": "• The New York Times Style section reports that New Orleans' legacy of death and rebirth helped shape Anne Rice's imagination.\n• The city is celebrating the 50th anniversary of \"Interview With the Vampire,\" Rice's first novel.\n• The report describes her hometown as her greatest muse.",
+    "generated_at": "2026-10-28T09:03:49.739615+00:00",
     "window_minutes": 60,
-    "item_count": 4,
-    "key": "1985934eae2ca652a25a37a83e9b36b58b7322f6",
+    "item_count": 1,
+    "key": "965f8dad6322cee2668343f3408e3443db8cb4f6",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/10/28/style/new-orleans-anne-rice-interview-with-vampire.html",
+      "title": "New Orleans’ Legacy of Death and Rebirth Helped Shaped Anne Rice’s Imagination",
+      "published": "2026-10-28T09:00:38+00:00",
+      "author": "Shannon Sims and Annie Flanagan",
+      "description": "The Big Easy celebrates the 50th anniversary of ‘Interview With the Vampire,’ the first novel by Anne Rice, whose hometown served as her greatest muse.",
+      "link": "https://www.nytimes.com/2026/10/28/style/new-orleans-anne-rice-interview-with-vampire.html",
+      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/28NOLAS-ANNERICE-17-zcgl/28NOLAS-ANNERICE-17-zcgl-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Style",
+      "feed_title": "NYT > Style",
+      "category": "fashion",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "SEs2J4D2GBY7MtagyDQDF6",
       "title": "I Asked My French Friend for Chic Winter Shoe Ideas—6 Trends She Said Every Parisian Is Wearing",
@@ -626,6 +640,20 @@
       "category": "fashion",
       "feed_url": "https://fashionista.com/.rss/excerpt/",
       "feed_icon": "https://fashionista.com/site/images/apple-touch-icon.png"
+    },
+    {
+      "id": "https://www.fashionbeans.com/?p=1128490",
+      "title": "10 Best Untucked Shirts For Men – All Styles For 2026",
+      "published": "2026-10-27T12:27:05+00:00",
+      "author": "Billy Webb",
+      "description": "Spoiler alert: shirts can be left untucked. Some are designed to hang free, while others just look better that way. Your dad may not have received the memo, but since when did you start listening to anything he said? If you’re the kind of guy that likes a little fabric around his tooshie, then the … Continue reading 10 Best Untucked Shirts For Men – All Styles For 2026 →",
+      "link": "https://www.fashionbeans.com/article/best-untucked-shirts/",
+      "image": "https://www.fashionbeans.com/wp-content/uploads/2023/06/Asket_header.jpg",
+      "feed_name": "FashionBeans Men's Fashion and Style Feed",
+      "feed_title": "FashionBeans Men's Fashion and Style Feed",
+      "category": "fashion",
+      "feed_url": "https://www.fashionbeans.com/rss-feed/?category=fashion",
+      "feed_icon": "https://www.fashionbeans.com/wp-content/uploads/2022/11/FB_Favicon_48x48.png"
     },
     {
       "id": "http://www.elle.com/fashion/trend-reports/a74242778/how-to-style-berry-runway-trend-2026-outfits/",

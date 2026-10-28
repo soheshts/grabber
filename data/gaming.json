@@ -1,16 +1,30 @@
 {
   "category": "gaming",
-  "updated": "2026-10-28T08:33:34.581374+00:00",
-  "count": 563,
+  "updated": "2026-10-28T09:03:49.739615+00:00",
+  "count": 564,
   "summary": {
-    "text": "• Polygon's gaming feed carries a non-gaming piece instead: a list of five funny Peanuts comics about Snoopy's forgotten siblings.",
-    "generated_at": "2026-10-28T08:02:32.119021+00:00",
+    "text": "• Polygon reports that the 129-minute version of Paul Verhoeven's *Starship Troopers* is being cut from Netflix.\n• The film is described as a satirical military thriller that lampoons right-wing militarism.\n• No other items in this batch were available to group with this story.",
+    "generated_at": "2026-10-28T09:03:49.739615+00:00",
     "window_minutes": 60,
     "item_count": 1,
-    "key": "bb4a7cc54de3f5b0064e3c827f90aa2b8dd664f3",
+    "key": "eea2285c74cc085b236b366700ac60c656dc1268",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.polygon.com/starship-troopers-leaving-netflix-november-2026/",
+      "title": "Legendary Sci-Fi Director's 129-Minute War-Action Masterpiece Is Being Cut From Netflix",
+      "published": "2026-10-28T08:33:18+00:00",
+      "author": "Brian VanHooker",
+      "description": "Starship Troopers, directed by Paul Verhoeven, is a satirical military thriller that lampoons right-wing militarism.",
+      "link": "https://www.polygon.com/starship-troopers-leaving-netflix-november-2026/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/msdsttr_ec128-1.jpg",
+      "feed_name": "Polygon -  All",
+      "feed_title": "Polygon.com",
+      "category": "gaming",
+      "feed_url": "https://www.polygon.com/rss/index.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.polygon.com&sz=64"
+    },
     {
       "id": "https://www.polygon.com/snoopy-siblings-peanuts/",
       "title": "5 Funniest 'Peanuts' Comics About Snoopy's Forgotten Siblings",

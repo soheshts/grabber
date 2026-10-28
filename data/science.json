@@ -1,9 +1,44 @@
 {
   "category": "science",
-  "updated": "2026-10-28T08:33:34.581374+00:00",
-  "count": 566,
-  "summary": null,
+  "updated": "2026-10-28T09:03:49.739615+00:00",
+  "count": 568,
+  "summary": {
+    "text": "• DNA analysis suggests root-dwelling fungi may be keystone species in forest microbial communities.\n• Fungi and bacteria in soil and root systems play pivotal roles in processes such as nutrient cycling.\n• AI emergency alerts are coming, but humans may not be ready, since people already struggle with emergency communication. Chatbots could help if people take them seriously.",
+    "generated_at": "2026-10-28T09:03:49.739615+00:00",
+    "window_minutes": 60,
+    "item_count": 2,
+    "key": "5d26cf61a4a89ed267db08cdd8a4eb6227513d89",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "news712242302",
+      "title": "DNA analysis identifies root-dwelling fungi as potential keystone species in forest microbial communities",
+      "published": "2026-10-28T09:00:01+00:00",
+      "author": null,
+      "description": "Beneath the forest floor extends a vast ecosystem where a diverse array of microorganisms inhabit soil and root systems. Here, fungi and bacteria play pivotal roles in processes such as nutrient cycling and carbon sequestration. Within these microbial communities may exist a keystone species, which exerts a disproportionately large influence on the entire structure and function of such an ecosystem.",
+      "link": "https://phys.org/news/2026-10-dna-analysis-root-fungi-potential.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-masterminds-hiding.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "6ae0f8e8b1846b1aa5192467",
+      "title": "AI Emergency Alerts Are Coming. Humans Might Not Be Ready",
+      "published": "2026-10-28T08:30:00+00:00",
+      "author": "Jake Bittle",
+      "description": "Human beings struggle with emergency communication. Chatbots can help—if people take them seriously.",
+      "link": "https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/",
+      "image": "https://media.wired.com/photos/6ae1120223d445186a16d911/master/pass/ai-weather-alerts-emergency.jpg",
+      "feed_name": "Science Latest",
+      "feed_title": "Science Latest",
+      "category": "science",
+      "feed_url": "https://www.wired.com/feed/category/science/latest/rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.wired.com&sz=64"
+    },
     {
       "id": "https://www.sciencedaily.com/releases/2026/10/261027230715.htm",
       "title": "A simple daily fiber supplement reduced arthritis pain and improved strength",

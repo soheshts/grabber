@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-10-28T08:33:34.581374+00:00",
-  "count": 422,
+  "updated": "2026-10-28T09:03:49.739615+00:00",
+  "count": 423,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,20 @@
       "category": "personal blogs",
       "feed_url": "http://feeds.feedburner.com/chrisheilmann",
       "feed_icon": "https://www.google.com/s2/favicons?domain=christianheilmann.com&sz=64"
+    },
+    {
+      "id": "https://hamatti.org/posts/sharing-notes-with-hermes-and-agora/",
+      "title": "Sharing notes with Hermes and Agora",
+      "published": "2026-10-28T00:00:00+00:00",
+      "author": "Juha-Matti Santala (juhis@hamatti.org)",
+      "description": "This project is in its infancy state and I’m sharing my early experiments with hopes that my ideas spark discussions, improvement ideas or inspires someone else to build similar things for themselves. The plugin is not currently installable anywhere but if you want, you can take the code below and build your own. I might publish it at some point in Obsidian plugin directory if it reaches a good enough state. The concept of sharing individual notes with people is a topic that comes up constantly…",
+      "link": "https://hamatti.org/posts/sharing-notes-with-hermes-and-agora/",
+      "image": "https://hamatti.org/assets/img/posts/sharing-notes-with-hermes-and-agora/sharing-notes-with-hermes-and-agora-cover.png.webp",
+      "feed_name": "Juha-Matti Santala - Community Builder. Dreamer. Adventurer.",
+      "feed_title": "Juha-Matti Santala - Community Builder. Dreamer. Adventurer.",
+      "category": "personal blogs",
+      "feed_url": "https://hamatti.org/feed/feed.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hamatti.org&sz=64"
     },
     {
       "id": "https://ronaldsvilcins.com/2026/10/28/css-calculations-with-sibling-index-and-sibling-count/",
