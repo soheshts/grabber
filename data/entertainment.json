@@ -1,6 +1,6 @@
 {
   "category": "entertainment",
-  "updated": "2026-10-28T06:33:31.965983+00:00",
+  "updated": "2026-10-28T07:03:25.397591+00:00",
   "count": 1000,
   "summary": {
     "text": "• Korean webtoon and web novel adaptations, plus new originals, headline the 2027 vertical slate unveiled in Singapore by COL Group, V47 and Virtue Asia, with CJ Group as a development partner.\n• Thai forest spirit horror \"Cher,\" the only Thai entry in the 2026 Tokyo Gap-Financing Market, is joining the lineup after becoming the first Thai winner at Frontières.\n• Netflix released the first trailer for \"Allen,\" an Australian live-action feature from Brisbane's Ludo Studio, known for the children's animated series \"Bluey.\"\n• BMG signed Australian five-piece Parcels to a worldwide publishing deal.\n• A popular HGTV franchise has new hosts, with the original stars passing the torch; the series has premiered in one country, with no US release date yet.",
@@ -11,6 +11,20 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.billboard.com/?p=1236369485",
+      "title": "ABBA’s Mamma Mia! The Party Is Coming to Australia",
+      "published": "2026-10-28T06:41:31+00:00",
+      "author": "Lars Brandle",
+      "description": "The immerse, all-ABBA dining experience is booked for its Australian premiere in March 2027 at Sydney Event Centre at The Star.",
+      "link": "https://www.billboard.com/music/music-news/abba-mamma-mia-the-party-australia-2027-1236369485/",
+      "image": null,
+      "feed_name": "BillBoard",
+      "feed_title": "Billboard",
+      "category": "entertainment",
+      "feed_url": "https://www.billboard.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.billboard.com&sz=64"
+    },
     {
       "id": "https://variety.com/?p=1236932643",
       "title": "Korean Webtoon Adaptations, ‘The Vanishing Act’ Lead 2027 Vertical Slate Unveiled by COL Group, V47 and Virtue Asia",
@@ -251,7 +265,7 @@
     },
     {
       "id": "https://deadline.com/?p=1237206126",
-      "title": "Entertainment Hits $332.B To Become World’s Second Most Valuable Sector As Netflix, YouTube & Spotify Fly – Interbrand Report",
+      "title": "Entertainment Hits $332.5B To Become World’s Second Most Valuable Sector As Netflix, YouTube & Spotify Fly – Interbrand Report",
       "published": "2026-10-28T04:01:00+00:00",
       "author": "Jesse Whittock",
       "description": "Hollywood is struggling with layoffs and budget cuts, but entertainment just overtook the automotive industry to become the world’s second-largest business sector. That’s according to consultancy Interbrand, whose latest Best Global Brands report pegs the cumulative value of entertainment companies at $332.5B, an increase of 12.4% year-on-year. Within that, Netflix’s brand value grew 22%, which […]",
@@ -13996,20 +14010,6 @@
       "category": "entertainment",
       "feed_url": "https://variety.com/feed/",
       "feed_icon": "https://variety.com/wp-content/uploads/2018/06/variety-favicon.png?w=32"
-    },
-    {
-      "id": "https://consequence.net/?p=1646266",
-      "title": "Turnstile Draw 60,000 Fans to Washington Monument, Raise Over $220,000 for Humanitarian Aid",
-      "published": "2026-10-25T17:02:56+00:00",
-      "author": "Alex Krinsky",
-      "description": "The Baltimore band’s massive hometown-area show raised money for relief efforts in Palestine, Sudan, and Lebanon. Turnstile Draw 60,000 Fans to Washington Monument, Raise Over $220,000 for Humanitarian Aid Alex Krinsky",
-      "link": "https://consequence.net/2026/10/turnstile-draw-60000-fans-to-washington-monument-raise-over-220000-for-humanitarian-aid/",
-      "image": "https://consequence.net/wp-content/uploads/2026/10/Turnstile-DC-Free-protest-show.jpg?quality=80",
-      "feed_name": "Consequence",
-      "feed_title": "Consequence",
-      "category": "entertainment",
-      "feed_url": "http://consequenceofsound.net/feed",
-      "feed_icon": "https://consequence.net/wp-content/uploads/2021/04/Consequence-Circle-Blue.png?w=140"
     }
   ]
 }

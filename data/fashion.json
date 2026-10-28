@@ -1,9 +1,44 @@
 {
   "category": "fashion",
-  "updated": "2026-10-28T06:33:31.965983+00:00",
-  "count": 241,
-  "summary": null,
+  "updated": "2026-10-28T07:03:25.397591+00:00",
+  "count": 243,
+  "summary": {
+    "text": "• A Who What Wear piece says an elegant brand's Black Friday sale offers 20% off early, and its best-sellers are back in stock for now.\n• Dove Cameron tells Who What Wear that \"the whole world wants me to go platinum again.\"\n• In the same interview, Cameron talks about drugstore makeup and dying her hair, sharing what she calls all.",
+    "generated_at": "2026-10-28T07:03:25.397591+00:00",
+    "window_minutes": 60,
+    "item_count": 2,
+    "key": "51ecda85590a1544dbf0df7e335e65772c378f57",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "afV43RN69H7iiP3GXpP5km",
+      "title": "I’ve Waited All Year for This Elegant Brand’s Black Friday Sale—Here’s How to Get 20% Off Early",
+      "published": "2026-10-28T07:00:00+00:00",
+      "author": "Florrie Alexander",
+      "description": "The best-sellers are back in stock (for now).",
+      "link": "https://www.whowhatwear.com/fashion/shopping/rise-and-fall-black-friday-sale-2026",
+      "image": "https://cdn.mos.cms.futurecdn.net/LwZS5df5jTKeeYHF2mEaNG-1920-80.jpg",
+      "feed_name": "Who What Wear",
+      "feed_title": "Latest from Who What Wear",
+      "category": "fashion",
+      "feed_url": "https://www.whowhatwear.com/rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.whowhatwear.com&sz=64"
+    },
+    {
+      "id": "6DQJT4cv7u8HGjEuXZYJoh",
+      "title": "\"The Whole World Wants Me to Go Platinum Again\": Dove Cameron on Drugstore Makeup and Dying Her Hair",
+      "published": "2026-10-28T07:00:00+00:00",
+      "author": "Grace Lindsay",
+      "description": "The star shares all.",
+      "link": "https://www.whowhatwear.com/beauty/fragrance/dove-cameron-beauty-tips",
+      "image": "https://cdn.mos.cms.futurecdn.net/VNMTPke5dHba4AdLweUP8N-1920-80.jpg",
+      "feed_name": "Who What Wear",
+      "feed_title": "Latest from Who What Wear",
+      "category": "fashion",
+      "feed_url": "https://www.whowhatwear.com/rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.whowhatwear.com&sz=64"
+    },
     {
       "id": "Q8Jf5QnTVru8Ppnkzkyhhn",
       "title": "Rotating Curling Irons Are Hairstylists' Favorite Styling Hack—6 Models They'd Put In Your Cart",

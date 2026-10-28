@@ -1,7 +1,7 @@
 {
   "category": "World News",
-  "updated": "2026-10-28T06:33:31.965983+00:00",
-  "count": 974,
+  "updated": "2026-10-28T07:03:25.397591+00:00",
+  "count": 977,
   "summary": {
     "text": "• Israel's election is unresolved, with Netanyahu's bloc leading on 56 seats after half the votes were counted.\n• Houthi attacks on a Saudi refinery pushed oil prices higher.\n• Australia: a Coalition MP was ejected from question time after swearing at the PM, and inflation is accelerating.\n• María Corina Machado returned to Venezuela from exile, while North-South Korea tensions stem from a border land mine dispute.\n• UBS pre-tax profit rose 27% to $3.59 billion, and SK Hynix shares jumped over 10% on a profit beat.",
     "generated_at": "2026-10-28T06:33:31.965983+00:00",
@@ -12,11 +12,53 @@
   },
   "items": [
     {
+      "id": "108464173",
+      "title": "SK Hynix shares jump 11% after record quarterly profit, outperforming broader market",
+      "published": "2026-10-28T06:56:49+00:00",
+      "author": null,
+      "description": "Shares of South Korean chipmaker SK Hynix soared 11% on Wednesday as third-quarter profit sharply beats estimates.",
+      "link": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108333293-1783682220679-gettyimages-2283571654-SKOREA_SK_HYNIX.jpeg?v=1783682246&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/28/king-charles-confirms-he-will-discuss-legacy-of-slavery-at-commonwealth-summit",
+      "title": "King Charles to discuss legacy of slavery with Commonwealth leaders at summit",
+      "published": "2026-10-28T06:55:35+00:00",
+      "author": "Natricia Duncan Caribbean correspondent",
+      "description": "Royal tour of Caribbean comes as poll suggests majority support among younger Britons for dialogue on slavery reparations King Charles has confirmed he will discuss the legacy of slavery at a summit with Commonwealth leaders as he begins his Caribbean tour. The king arrived in the Bahamas on Tuesday to a ceremonial welcome and attended a youth rally at Clifford Park, the site where the country officially gained its independence from British colonial rule in 1973. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/oct/28/king-charles-confirms-he-will-discuss-legacy-of-slavery-at-commonwealth-summit",
+      "image": "https://i.guim.co.uk/img/media/f25209cc53130959b013089a2e2c4956336fd11d/1440_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7bfb759ffd2f6a8067b353d33ad8f67a",
+      "feed_name": "The Guardian",
+      "feed_title": "World news | The Guardian",
+      "category": "World News",
+      "feed_url": "https://www.theguardian.com/world/rss",
+      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
+    {
+      "id": "https://www.nytimes.com/live/2026/10/27/world/israel-elections",
+      "title": "Rivals in Israel Election Strike Tone of Triumph, but Outcome Is Far From Clear",
+      "published": "2026-10-28T06:46:19+00:00",
+      "author": "The New York Times",
+      "description": "Addressing supporters after midnight, Prime Minister Benjamin Netanyahu and Gadi Eisenkot, who leads a bloc of opposition parties, both expressed confidence that they will lead Israel’s next government. Vote counting could take days.",
+      "link": "https://www.nytimes.com/live/2026/10/27/world/israel-elections",
+      "image": "https://static01.nyt.com/images/2026/11/25/multimedia/27israel-live-promo9p/25int-israel-election-explainer-promo-gqlj-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
       "id": "108472742",
       "title": "UBS pre-tax profits jump 27% to $3.59 billion in the third quarter",
-      "published": "2026-10-28T06:32:05+00:00",
+      "published": "2026-10-28T06:43:19+00:00",
       "author": null,
-      "description": "",
+      "description": "UBS reported a third quarter pre-tax profit of almost $3.6 billion.",
       "link": "https://www.cnbc.com/2026/10/28/ubs-earnings-third-quarter.html",
       "image": "https://image.cnbcfm.com/api/v1/image/108273552-1772641307274-gettyimages-2264182952-AFP_99XG2WE.jpeg?v=1772641394&w=1920&h=1080",
       "feed_name": "CNBC",
@@ -26,10 +68,24 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
+      "id": "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled",
+      "title": "Flávio Bolsonaro flees Brazil after presidential election loss, reports say",
+      "published": "2026-10-28T06:36:14+00:00",
+      "author": "Tiago Rogero in Brasília and Tom Phillips in São Paulo",
+      "description": "Far-right senator and his family boarded private plane to Ecuador after crossing border to Argentina, Argentina’s government confirms The far-right senator Flávio Bolsonaro has reportedly fled Brazil and is on his way to the United States after losing Sunday’s presidential election to the leftwing incumbent, Luiz Inácio Lula da Silva, who called the act “shameful”. A report by the news website Metrópoles , citing people close to the politician’s family, said he was en route to the US. “The plan…",
+      "link": "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled",
+      "image": "https://i.guim.co.uk/img/media/3ef222ab0dad82e1fda7dafb6d9e2ec911a85e26/945_122_2901_2320/master/2901.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=46bc03a6f28938bc88f49b70a81a94dc",
+      "feed_name": "The Guardian",
+      "feed_title": "World news | The Guardian",
+      "category": "World News",
+      "feed_url": "https://www.theguardian.com/world/rss",
+      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
+    {
       "id": "https://www.theguardian.com/australia-news/live/2026/oct/28/inflation-abs-labor-anthony-albanese-parliament-greens-david-shoebridge-one-nation-ntwnfb",
-      "title": "Australian politics live: Coalition MP ejected from question time after swearing at PM; Payman apologises to Haines for comments after alleged attack",
-      "published": "2026-10-28T06:28:16+00:00",
-      "author": "Achol Arok (now) and Kat Wong (earlier)",
+      "title": "Coalition MP ejected from question time after swearing at PM – as it happened",
+      "published": "2026-10-28T06:35:49+00:00",
+      "author": "Achol Arok and Kat Wong",
       "description": "Get our breaking news email , free app or daily news podcast Online hate is spilling into the real world, AFP warns AFP Commissioner Krissy Barrett began her late-night appearance at the Senate estimates hearing noting “a heaviness that hangs across Australia” after the alleged attack on independent MP Helen Haines . Lone actors are being motivated by a convergence of personal grievances, mental health vulnerabilities and ideological concerns … What helped keep us safe in recent times, such as…",
       "link": "https://www.theguardian.com/australia-news/live/2026/oct/28/inflation-abs-labor-anthony-albanese-parliament-greens-david-shoebridge-one-nation-ntwnfb",
       "image": "https://i.guim.co.uk/img/media/ded625f2f56d2bfbc7f20677b7734b06fc80192c/446_0_4446_3559/master/4446.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=2583a97ba2f2a9e9f5ce630a820a7c59",
@@ -38,6 +94,34 @@
       "category": "World News",
       "feed_url": "https://www.theguardian.com/world/rss",
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/sports/nfl/news/justin-jeffersons-charity-bowling-night-raised-over-45000-for-cancer-research-the-vikings-star-also-surprised-7-year-old-fan-claire-van-epps-who-is-undergoing-treatment-with-super-bowl-tickets/articleshow/135253112.cms",
+      "title": "NFL star Justin Jefferson raises $45,000 for cancer research through charity bowling night, surprises 7-year-old fan battling cancer with Super Bowl tickets",
+      "published": "2026-10-28T06:33:35+00:00",
+      "author": "TOI Sports Desk",
+      "description": "Justin Jefferson’s charity bowling event, aptly named 'Strike Out Cancer', successfully raised over $45,000 for cancer research. This heartwarming gathering united patients, survivors, and caregivers, all supporting the American Cancer Society. Among the attendees was seven-year-old Claire Van Epps, who, battling cancer, received Super Bowl LXI tickets. Jefferson’s initiative sheds light on cancer patients and their families, while his foundation continues its impactful community contributions.",
+      "link": "https://timesofindia.indiatimes.com/sports/nfl/news/justin-jeffersons-charity-bowling-night-raised-over-45000-for-cancer-research-the-vikings-star-also-surprised-7-year-old-fan-claire-van-epps-who-is-undergoing-treatment-with-super-bowl-tickets/articleshow/135253112.cms",
+      "image": "https://static.toiimg.com/photo/msid-135253501,imgsize-1000593.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/rest-of-world/south-african-athlete-thomas-van-tonder-crosses-600-monkey-bars-suspended-216-metres-above-ground-beneath-bloukrans-bridge-completes-280-metre-crossing-in-47-minutes-in-world-first-stunt/articleshow/135253745.cms",
+      "title": "South African athlete crosses 600 monkey bars suspended 216 metres above ground beneath Bloukrans Bridge, completes world-first stunt in 47 minutes",
+      "published": "2026-10-28T06:30:00+00:00",
+      "author": "TOI World Desk",
+      "description": "On October 26, Thomas van Tonder achieved a remarkable feat by completing a crossing under Bloukrans Bridge, navigating through 600 monkey bars in a challenging 280-meter course. This grueling challenge tested his grip strength, endurance, and mental fortitude as he prepared for two rigorous years. He triumphantly finished in 47 minutes and 37 seconds, showcasing his exceptional capabilities in the realm of extreme obstacle racing.",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/south-african-athlete-thomas-van-tonder-crosses-600-monkey-bars-suspended-216-metres-above-ground-beneath-bloukrans-bridge-completes-280-metre-crossing-in-47-minutes-in-world-first-stunt/articleshow/135253745.cms",
+      "image": "https://static.toiimg.com/photo/msid-135253978,imgsize-1242324.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
       "id": "https://www.theguardian.com/australia-news/2026/oct/28/australia-democratic-politics-argument-helen-haines-incident-alastair-campbell-ntwnfb",
@@ -52,20 +136,6 @@
       "category": "World News",
       "feed_url": "https://www.theguardian.com/world/rss",
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
-    },
-    {
-      "id": "https://www.nytimes.com/live/2026/10/27/world/israel-elections",
-      "title": "Rivals in Israel Election Strike Tone of Triumph, but Outcome Is Far From Clear",
-      "published": "2026-10-28T06:14:35+00:00",
-      "author": "The New York Times",
-      "description": "Addressing supporters after midnight, Prime Minister Benjamin Netanyahu and Gadi Eisenkot, who leads a bloc of opposition parties, both expressed confidence that they will lead Israel’s next government. Vote counting could take days.",
-      "link": "https://www.nytimes.com/live/2026/10/27/world/israel-elections",
-      "image": "https://static01.nyt.com/images/2026/11/25/multimedia/27israel-live-promo9p/25int-israel-election-explainer-promo-gqlj-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://www.ndtv.com/world-news/israel-election-results-live-updates-exit-polls-netanyahu-opposition-knesset-gadi-eisenkot-trump-12245676#publisher=newsstand",
@@ -128,7 +198,7 @@
       "title": "Jim Chalmers is blaming Australia’s accelerating inflation on Trump – but voters aren’t buying it",
       "published": "2026-10-28T05:58:24+00:00",
       "author": "Patrick Commins Economics editor",
-      "description": "As next week’s all-but certain rate rise looms, there is one thing we can all agree on: the end of war in the Middle East can’t come soon enough Jim Chalmers is blaming the latest shocking inflation figures on the worsening Middle East conflict, and he has a point. The trouble is, voters aren’t buying what the treasurer is selling. Continue reading...",
+      "description": "As next week’s all but certain rate rise looms, there is one thing we can all agree on: the end of war in the Middle East can’t come soon enough Get our daily political email , free app or daily news podcast Jim Chalmers is blaming the latest shocking inflation figures on the worsening Middle East conflict, and he has a point. The trouble is, voters aren’t buying what the treasurer is selling. Continue reading...",
       "link": "https://www.theguardian.com/australia-news/2026/oct/28/jim-chalmers-is-blaming-australias-accelerating-inflation-on-trump-but-voters-arent-buying-it",
       "image": "https://i.guim.co.uk/img/media/b8c38bd0a9cef8a565c03d4eb81c9092132bc4f4/1240_0_6175_4943/master/6175.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0e2382e1c3706cf64859887e0ee67ed7",
       "feed_name": "The Guardian",
@@ -136,20 +206,6 @@
       "category": "World News",
       "feed_url": "https://www.theguardian.com/world/rss",
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
-    },
-    {
-      "id": "108464173",
-      "title": "SK Hynix shares soar over 10 % as profit beats, chipmaker to return $25 billion to investors",
-      "published": "2026-10-28T05:54:33+00:00",
-      "author": null,
-      "description": "Shares of South Korean chipmaker SK Hynix soared over 10% on Wednesday as third-quarter profit sharply beats estimates.",
-      "link": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108333293-1783682220679-gettyimages-2283571654-SKOREA_SK_HYNIX.jpeg?v=1783682246&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
       "id": "108472655",
@@ -164,6 +220,20 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "t3_1xhg01d",
+      "title": "Bolsonaro Campaign Faces Investigation Over Possible Foreign Funding",
+      "published": "2026-10-28T05:51:21+00:00",
+      "author": "/u/cololz1",
+      "description": "submitted by /u/cololz1 [link] [comments]",
+      "link": "https://www.reddit.com/r/worldnews/comments/1xhg01d/bolsonaro_campaign_faces_investigation_over/",
+      "image": "https://external-preview.redd.it/pIvbtAFdn6QBO0ih216oBJ-4E9-Qaz8UAk72QuZh81w.jpeg?width=640&crop=smart&auto=webp&s=fffed207056cadb3de21b54faecdfc2aff2ddc3c",
+      "feed_name": "World News",
+      "feed_title": "World News",
+      "category": "World News",
+      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
+      "feed_icon": "https://www.redditstatic.com/icon.png/"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/us/jeff-bezos-wife-lauren-snchez-bezos-backed-fund-commits-4-8-million-to-48-climate-solutions-that-missed-earthshot-prize-finals-funding-supports-projects-ranging-from-carbon-removal-to-wildlife-protection/articleshow/135253330.cms",
@@ -564,7 +634,7 @@
       "author": null,
       "description": "Polls have closed in the Israeli election, but there is no clear winner.",
       "link": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c34b/live/eebe6880-d262-11f1-b441-2b33b063138f.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5351/live/42654eb0-d29d-11f1-a701-fddedf244c16.jpg",
       "feed_name": "BBC News - World",
       "feed_title": "BBC News",
       "category": "World News",
@@ -1034,20 +1104,6 @@
       "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
-      "id": "https://www.theguardian.com/world/2026/oct/28/king-charles-confirms-he-will-discuss-legacy-of-slavery-at-commonwealth-summit",
-      "title": "King Charles to discuss legacy of slavery with Commonwealth leaders at summit",
-      "published": "2026-10-28T00:07:22+00:00",
-      "author": "Natricia Duncan Caribbean correspondent",
-      "description": "Royal tour of Caribbean comes as Commonwealth nations renew calls for Britain to engage in reparation talks King Charles has confirmed he will discuss the legacy of slavery at a summit with Commonwealth leaders as he begins his Caribbean tour. The king arrived in the Bahamas to a ceremonial welcome and attended a youth rally at Clifford Park, the site where the country officially gained its independence from British colonial rule in 1973. Continue reading...",
-      "link": "https://www.theguardian.com/world/2026/oct/28/king-charles-confirms-he-will-discuss-legacy-of-slavery-at-commonwealth-summit",
-      "image": "https://i.guim.co.uk/img/media/f25209cc53130959b013089a2e2c4956336fd11d/1440_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7bfb759ffd2f6a8067b353d33ad8f67a",
-      "feed_name": "The Guardian",
-      "feed_title": "World news | The Guardian",
-      "category": "World News",
-      "feed_url": "https://www.theguardian.com/world/rss",
-      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
-    },
-    {
       "id": "https://www.nytimes.com/2026/10/27/world/europe/king-charles-caribbean-tour-uk-commonwealth.html",
       "title": "King Charles Faces High Stakes Test With Caribbean Tour",
       "published": "2026-10-27T23:39:58+00:00",
@@ -1242,20 +1298,6 @@
       "category": "World News",
       "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled",
-      "title": "Flávio Bolsonaro flees Brazil after presidential election loss, reports say",
-      "published": "2026-10-27T22:03:00+00:00",
-      "author": "Tiago Rogero in Brasília and Tom Phillips in São Paulo",
-      "description": "Far-right senator en route to US after missing deadline to hand over his passport since loss to Lula The far-right senator Flávio Bolsonaro has reportedly fled Brazil and is on his way to the United States after losing Sunday’s presidential election to the leftwing incumbent, Luiz Inácio Lula da Silva, who called the act “shameful”. A report by the news website Metrópoles , citing people close to the politician’s family, said he was en route to the US. “The plane is in flight,” Metrópoles repor…",
-      "link": "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled",
-      "image": "https://i.guim.co.uk/img/media/3ef222ab0dad82e1fda7dafb6d9e2ec911a85e26/945_122_2901_2320/master/2901.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=46bc03a6f28938bc88f49b70a81a94dc",
-      "feed_name": "The Guardian",
-      "feed_title": "World news | The Guardian",
-      "category": "World News",
-      "feed_url": "https://www.theguardian.com/world/rss",
-      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/rest-of-world/over-100-killed-113-injured-in-drone-strike-on-sudan-market/articleshow/135245811.cms",

@@ -1,9 +1,44 @@
 {
   "category": "technology",
-  "updated": "2026-10-28T06:33:31.965983+00:00",
-  "count": 763,
-  "summary": null,
+  "updated": "2026-10-28T07:03:25.397591+00:00",
+  "count": 766,
+  "summary": {
+    "text": "• The CDC estimates 19 drug-resistant pathogens cause 9.7 million U.S. infections and more than 50,000 deaths a year, with resistance outpacing new treatments.\n• Proxima Fusion has signed two Japanese deals to build its fusion supply chain.\n• A fusion plant also requires securing thousands of kilometres of specialised materials and the equipment to heat and fuel the plasma.",
+    "generated_at": "2026-10-28T07:03:25.397591+00:00",
+    "window_minutes": 60,
+    "item_count": 2,
+    "key": "718cb7888cabe9d06332f4b2c615ea8ae1b7e814",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "https://science.slashdot.org/story/26/10/28/0256204/cdc-warns-of-rising-threat-of-drug-resistant-germs?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "title": "CDC Warns of Rising Threat of Drug-Resistant Germs",
+      "published": "2026-10-28T07:00:00+00:00",
+      "author": "BeauHD",
+      "description": "The CDC estimates that 19 drug-resistant pathogens cause 9.7 million infections and more than 50,000 deaths annually in the U.S., with resistance continuing to outpace development of new treatments. \"The agency considers this problem to be one of our most urgent public health threats,\" reports NBC News. From the report: The report is the CDC's first comprehensive assessment of these drug-resistant pathogens in seven years. [...] The new report offers a detailed picture of these threats in the U…",
+      "link": "https://science.slashdot.org/story/26/10/28/0256204/cdc-warns-of-rising-threat-of-drug-resistant-germs?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+      "feed_name": "Slashdot",
+      "feed_title": "Slashdot",
+      "category": "technology",
+      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
+    },
+    {
+      "id": "TheNextWeb=1de6a6f96a763635b5fb216036492907",
+      "title": "Proxima Fusion signs two Japanese deals to build its fusion supply chain",
+      "published": "2026-10-28T06:30:03+00:00",
+      "author": "Ana-Maria Stanciuc",
+      "description": "Building a fusion power plant takes more than getting the physics right. It also means securing thousands of kilometres of specialised materials and the equipment needed to heat and fuel the plasma, years before the machine is ready to run. Munich-based Proxima Fusion is working on that supply chain through two new agreements with Japanese […] This story continues at The Next Web",
+      "link": "https://thenextweb.com/news/roxima-fusion-fujikura-kyoto-fusioneering-japan",
+      "image": "https://media.thenextweb.com/2026/10/spool-of-superconducting-tape-close-up.avif",
+      "feed_name": "The Next Web",
+      "feed_title": "The Next Web",
+      "category": "technology",
+      "feed_url": "https://thenextweb.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
     {
       "id": "https://www.engadget.com/2299185/ios-27-2-two-new-features-apple-carplay/",
       "title": "iOS 27.2 brings two new features to Apple's CarPlay",
@@ -31,6 +66,20 @@
       "category": "technology",
       "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
       "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
+    },
+    {
+      "id": "yt:video:-hbRCncfZ4M",
+      "title": "Apple Brings M6 Updates to MacBook Pro and iMac Lines",
+      "published": "2026-10-28T00:39:17+00:00",
+      "author": "CNET",
+      "description": "Mostly same same, but a little bit different. 💻🖥️ On the heels of Apple’s new iPad Mini, Apple has turned its attention to its Mac lineup. Unlike the iPad Mini that received an OLED display and a water-resistant design, today’s Mac updates are mere spec bumps. But Apple’s Pro and Tell week isn’t over. It will culminate with tomorrow’s special event in Los Angeles, where Apple is expected to reveal the long-awaited touchscreen MacBook Pro. CNET Senior Editor Matt Elliott is here to run through w…",
+      "link": "https://www.youtube.com/shorts/-hbRCncfZ4M",
+      "image": "https://i2.ytimg.com/vi/-hbRCncfZ4M/hqdefault.jpg",
+      "feed_name": "CNET",
+      "feed_title": "CNET",
+      "category": "technology",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?user=CNETTV",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64"
     },
     {
       "id": "5117307",
