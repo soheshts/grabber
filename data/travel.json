@@ -1,9 +1,30 @@
 {
   "category": "travel",
-  "updated": "2026-10-28T07:03:25.397591+00:00",
-  "count": 70,
-  "summary": null,
+  "updated": "2026-10-28T07:32:13.910264+00:00",
+  "count": 71,
+  "summary": {
+    "text": "• A Guardian travel feature describes an autumn cycling break in the Veluwe, a wild region of the Netherlands.\n• The area includes a vast national park, palatial houses, and a sculpture garden and museum holding Van Goghs.\n• All of these sights are easily reachable by bike.",
+    "generated_at": "2026-10-28T07:32:13.910264+00:00",
+    "window_minutes": 60,
+    "item_count": 1,
+    "key": "c5e636fcbaefbd660fc64d3ba93d301734fa6a57",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "https://www.theguardian.com/travel/2026/oct/28/cycling-nature-holiday-veluwe-netherlands",
+      "title": "Cycling in the wild heart of the Netherlands: an autumnal break in the Veluwe",
+      "published": "2026-10-28T07:00:03+00:00",
+      "author": "Suzanne Bearne",
+      "description": "The untamed, magical landscape takes in a vast national park, palatial houses and a sculpture garden and museum stuffed with Van Goghs – all easily accessible by bike One minute I’m cycling through an expansive dusty pink stretch of heathland with sloping sand dunes in the distant horizon, the next I’m winding through a fragrant Scots pine forest as sunlight filters through the branches of red-barked trees to make a kaleidoscope of white shapes on the trail floor ahead. I’m in Hoge Veluwe Natio…",
+      "link": "https://www.theguardian.com/travel/2026/oct/28/cycling-nature-holiday-veluwe-netherlands",
+      "image": "https://i.guim.co.uk/img/media/a510959fc3e2f499b519276e65f458a051ea43e8/437_0_4843_3875/master/4843.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=123bfaad843c0e09c95b9fca015b4b46",
+      "feed_name": "Travel | The Guardian",
+      "feed_title": "Travel | The Guardian",
+      "category": "travel",
+      "feed_url": "https://www.theguardian.com/uk/travel/rss",
+      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
     {
       "id": "https://www.atlasobscura.com/places/quang-trung-museum",
       "title": "Quang Trung Museum in Tây Sơn, Vietnam",

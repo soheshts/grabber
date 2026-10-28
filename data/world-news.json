@@ -1,16 +1,58 @@
 {
   "category": "World News",
-  "updated": "2026-10-28T07:03:25.397591+00:00",
-  "count": 977,
+  "updated": "2026-10-28T07:32:13.910264+00:00",
+  "count": 979,
   "summary": {
-    "text": "• Israel's election is unresolved, with Netanyahu's bloc leading on 56 seats after half the votes were counted.\n• Houthi attacks on a Saudi refinery pushed oil prices higher.\n• Australia: a Coalition MP was ejected from question time after swearing at the PM, and inflation is accelerating.\n• María Corina Machado returned to Venezuela from exile, while North-South Korea tensions stem from a border land mine dispute.\n• UBS pre-tax profit rose 27% to $3.59 billion, and SK Hynix shares jumped over 10% on a profit beat.",
-    "generated_at": "2026-10-28T06:33:31.965983+00:00",
+    "text": "• Israel's election has no clear winner, as exit polls show Netanyahu's and Gadi Eisenkot's blocs both well short of a governing majority.\n• Flávio Bolsonaro reportedly fled Brazil for Ecuador via Argentina after losing the presidential election.\n• King Charles will discuss the legacy of slavery with Commonwealth leaders at a summit during his Caribbean tour.\n• UBS third-quarter pre-tax profit rose 27% to $3.59 billion, while SK Hynix shares jumped 11% on record profit.",
+    "generated_at": "2026-10-28T07:32:13.910264+00:00",
     "window_minutes": 60,
-    "item_count": 19,
-    "key": "318290e3c92f44aa3df97fd7ba2f09843eac23af",
+    "item_count": 9,
+    "key": "2fa9f737430c431dcffc369e15efb76abf5be567",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "108471405",
+      "title": "Israel election appears to have no clear winner with Netanyahu, opponent Eisenkot far short of majorities",
+      "published": "2026-10-28T07:29:41+00:00",
+      "author": null,
+      "description": "Exit polls show Prime Minister Benjamin Netanyahu's alliance and Gadi Eisenkot's opposition bloc both well off the numbers needed to form a governing majority.",
+      "link": "https://www.cnbc.com/2026/10/28/israel-election-netanyahu-trump-gaza-.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108471491-1793144780727-gettyimages-2301467717-AA_25102026_3009268.jpeg?v=1793144798&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "108472742",
+      "title": "UBS pre-tax profits jump 27% in third quarter to $3.59 billion as wealth inflows surge",
+      "published": "2026-10-28T07:23:56+00:00",
+      "author": null,
+      "description": "UBS reported a third quarter pre-tax profit of almost $3.6 billion.",
+      "link": "https://www.cnbc.com/2026/10/28/ubs-earnings-third-quarter.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108273552-1772641307274-gettyimages-2264182952-AFP_99XG2WE.jpeg?v=1772641394&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/uk/princess-dianas-secret-love-story-she-wanted-to-marry-a-heart-surgeon-she-trusted-most-saying-everybody-sells-me-out-he-is-the-one-person-who-will-never-sell-me-out/articleshow/135255547.cms",
+      "title": "Princess Diana wanted to marry a surgeon she trusted: ‘He'll never sell me out’",
+      "published": "2026-10-28T07:00:45+00:00",
+      "author": "TOI World Desk",
+      "description": "",
+      "link": "https://timesofindia.indiatimes.com/world/uk/princess-dianas-secret-love-story-she-wanted-to-marry-a-heart-surgeon-she-trusted-most-saying-everybody-sells-me-out-he-is-the-one-person-who-will-never-sell-me-out/articleshow/135255547.cms",
+      "image": "https://static.toiimg.com/photo/msid-135255754,imgsize-1516010.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
     {
       "id": "108464173",
       "title": "SK Hynix shares jump 11% after record quarterly profit, outperforming broader market",
@@ -52,20 +94,6 @@
       "category": "World News",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "108472742",
-      "title": "UBS pre-tax profits jump 27% to $3.59 billion in the third quarter",
-      "published": "2026-10-28T06:43:19+00:00",
-      "author": null,
-      "description": "UBS reported a third quarter pre-tax profit of almost $3.6 billion.",
-      "link": "https://www.cnbc.com/2026/10/28/ubs-earnings-third-quarter.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108273552-1772641307274-gettyimages-2264182952-AFP_99XG2WE.jpeg?v=1772641394&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
       "id": "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled",
@@ -194,10 +222,24 @@
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
+      "id": "108468046",
+      "title": "Europe’s debt stress is hitting corporate borrowing costs. Goldman flags who’s vulnerable",
+      "published": "2026-10-28T06:00:01+00:00",
+      "author": null,
+      "description": "Sovereign debt pressure and heavy bond issuance are raising European corporate borrowing costs, squeezing companies with weaker balance sheets, Goldman said.",
+      "link": "https://www.cnbc.com/2026/10/28/europe-sovereign-debt-corporate-borrowing.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/103644711-GettyImages-457534460.jpg?v=1669023323&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
       "id": "https://www.theguardian.com/australia-news/2026/oct/28/jim-chalmers-is-blaming-australias-accelerating-inflation-on-trump-but-voters-arent-buying-it",
       "title": "Jim Chalmers is blaming Australia’s accelerating inflation on Trump – but voters aren’t buying it",
       "published": "2026-10-28T05:58:24+00:00",
-      "author": "Patrick Commins Economics editor",
+      "author": "Patrick Commins",
       "description": "As next week’s all but certain rate rise looms, there is one thing we can all agree on: the end of war in the Middle East can’t come soon enough Get our daily political email , free app or daily news podcast Jim Chalmers is blaming the latest shocking inflation figures on the worsening Middle East conflict, and he has a point. The trouble is, voters aren’t buying what the treasurer is selling. Continue reading...",
       "link": "https://www.theguardian.com/australia-news/2026/oct/28/jim-chalmers-is-blaming-australias-accelerating-inflation-on-trump-but-voters-arent-buying-it",
       "image": "https://i.guim.co.uk/img/media/b8c38bd0a9cef8a565c03d4eb81c9092132bc4f4/1240_0_6175_4943/master/6175.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0e2382e1c3706cf64859887e0ee67ed7",
@@ -686,7 +728,7 @@
     {
       "id": "https://www.nytimes.com/2026/10/28/world/europe/spain-saic-ferrol-china.html",
       "title": "A Chinese Port Could Be a Lifeline for Spain, but Also a Threat",
-      "published": "2026-10-28T04:01:08+00:00",
+      "published": "2026-10-28T04:01:09+00:00",
       "author": "Jason Horowitz",
       "description": "Residents say a proposed Chinese car plant in northern Spain will create new jobs. Others say it’s a long-term risk, distilling a debate about the costs and perks of ties to China.",
       "link": "https://www.nytimes.com/2026/10/28/world/europe/spain-saic-ferrol-china.html",
@@ -864,20 +906,6 @@
       "category": "World News",
       "feed_url": "https://www.theguardian.com/world/rss",
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
-    },
-    {
-      "id": "108471405",
-      "title": "Israel election appears to have no clear winner with Netanyahu, opponent Eisenkot far short of majorities",
-      "published": "2026-10-28T02:15:55+00:00",
-      "author": null,
-      "description": "Exit polls show Prime Minister Benjamin Netanyahu's alliance and Gadi Eisenkot's opposition bloc both well off the numbers needed to form a governing majority.",
-      "link": "https://www.cnbc.com/2026/10/28/israel-election-netanyahu-trump-gaza-.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108471491-1793144780727-gettyimages-2301467717-AA_25102026_3009268.jpeg?v=1793144798&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
       "id": "https://www.ndtv.com/world-news/israel-election-results-no-question-of-government-backed-by-arab-parties-netanyahus-1st-reaction-as-exit-polls-show-deadlock-12246006#publisher=newsstand",

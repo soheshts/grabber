@@ -1,9 +1,23 @@
 {
   "category": "personal blogs",
-  "updated": "2026-10-28T07:03:25.397591+00:00",
-  "count": 421,
+  "updated": "2026-10-28T07:32:13.910264+00:00",
+  "count": 422,
   "summary": null,
   "items": [
+    {
+      "id": "https://christianheilmann.com/?p=10325",
+      "title": "Pardon my dust – re-homing 21 years of blog content of christianheilmann.com",
+      "published": "2026-10-28T05:20:25+00:00",
+      "author": "Chris Heilmann",
+      "description": "I’ve been a bit silent here lately. The reason is on the one hand life and issues with that but also problems with the hoster of this blog, specifically the SSL certificate. I’ve spent some fun hours on the phone with helpdesk and it’s still, well, complicated. That’s why I finally took the plunge and […]",
+      "link": "https://christianheilmann.com/2026/10/28/pardon-my-dust-re-homing-21-years-of-blog-content-of-christianheilmann-com/",
+      "image": "https://christianheilmann.com/wp-content/uploads/2026/10/christianheilmann.png",
+      "feed_name": "Christian Heilmann",
+      "feed_title": "Christian Heilmann",
+      "category": "personal blogs",
+      "feed_url": "http://feeds.feedburner.com/chrisheilmann",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=christianheilmann.com&sz=64"
+    },
     {
       "id": "https://ronaldsvilcins.com/2026/10/28/css-calculations-with-sibling-index-and-sibling-count/",
       "title": "CSS Calculations With sibling-index() and sibling-count()",

@@ -1,16 +1,44 @@
 {
   "category": "entertainment",
-  "updated": "2026-10-28T07:03:25.397591+00:00",
+  "updated": "2026-10-28T07:32:13.910264+00:00",
   "count": 1000,
   "summary": {
-    "text": "• Korean webtoon and web novel adaptations, plus new originals, headline the 2027 vertical slate unveiled in Singapore by COL Group, V47 and Virtue Asia, with CJ Group as a development partner.\n• Thai forest spirit horror \"Cher,\" the only Thai entry in the 2026 Tokyo Gap-Financing Market, is joining the lineup after becoming the first Thai winner at Frontières.\n• Netflix released the first trailer for \"Allen,\" an Australian live-action feature from Brisbane's Ludo Studio, known for the children's animated series \"Bluey.\"\n• BMG signed Australian five-piece Parcels to a worldwide publishing deal.\n• A popular HGTV franchise has new hosts, with the original stars passing the torch; the series has premiered in one country, with no US release date yet.",
-    "generated_at": "2026-10-28T06:33:31.965983+00:00",
+    "text": "• Foo Fighters played a classic early song on Jimmy Kimmel Live, with the band sounding tight and loud.\n• Amazon MGM Studios has doubled its investment in original Japanese content, including more live-action films and series, according to new Japan head Buddy Marini at TIFFCOM.\n• ABBA's all-ABBA dining show Mamma Mia! The Party makes its Australian premiere in March 2027 at Sydney Event Centre at The Star.",
+    "generated_at": "2026-10-28T07:32:13.910264+00:00",
     "window_minutes": 60,
-    "item_count": 5,
-    "key": "6fde183d80a2b992c7c09f784b520b305f4e71e2",
+    "item_count": 3,
+    "key": "79e87496cd314ec33423a9ebfa7fce6f795538cc",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.billboard.com/?p=1236369494",
+      "title": "Foo Fighters Deliver a Blast From the Past on ‘Kimmel’: Watch",
+      "published": "2026-10-28T07:17:04+00:00",
+      "author": "Lars Brandle",
+      "description": "The Foos were tight, and loud, for a performance of a classic early number.",
+      "link": "https://www.billboard.com/music/rock/foo-fighters-blast-from-the-past-kimmel-watch-1236369494/",
+      "image": null,
+      "feed_name": "BillBoard",
+      "feed_title": "Billboard",
+      "category": "entertainment",
+      "feed_url": "https://www.billboard.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.billboard.com&sz=64"
+    },
+    {
+      "id": "https://deadline.com/?p=1237206872",
+      "title": "Amazon MGM Studios Japan To Double Investment In Original Content; ‘One Piece’ & ‘Kingdom’ Producers Talk IP Strategies – TIFFCOM",
+      "published": "2026-10-28T07:14:27+00:00",
+      "author": "Liz Shackleton",
+      "description": "Buddy Marini, Amazon MGM Studios’ new head of Japan, says the company has doubled its investment in original Japanese content, including an expanded slate of live-action films and series. Marini was speaking on a panel on the opening day of TIFFCOM, which also featured One Piece showrunner Steven Maeda and Kingdom producer Shinzo Matsuhashi, outlining […]",
+      "link": "https://deadline.com/2026/10/one-piece-amazon-mgm-studios-japan-kingdom-tiffcom-1237206872/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/Buddy-Marini-1.jpg",
+      "feed_name": "Deadline",
+      "feed_title": "Deadline",
+      "category": "entertainment",
+      "feed_url": "https://deadline.com/feed/",
+      "feed_icon": "https://deadline.com/wp-content/uploads/2019/04/cropped-icon-512x512.png?w=32"
+    },
     {
       "id": "https://www.billboard.com/?p=1236369485",
       "title": "ABBA’s Mamma Mia! The Party Is Coming to Australia",
@@ -13982,34 +14010,6 @@
       "category": "entertainment",
       "feed_url": "https://feeds2.feedburner.com/slashfilm",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.slashfilm.com&sz=64"
-    },
-    {
-      "id": "https://variety.com/?p=1236930662",
-      "title": "Elon Musk’s Grok Releases First AI-Generated ‘Odyssey’ Episode, Months After Promising ‘Historically Accurate’ Full-Length Film",
-      "published": "2026-10-25T17:22:45+00:00",
-      "author": "Payton Turkeltaub",
-      "description": "Months after Elon Musk promised that his AI tool Grok Imagine would create an entirely AI-generated, feature-length version of “The Odyssey,” the tech mogul has partially followed through on the claim. On Friday, the company shared the first 7-minute, AI-generated episode of the “Odyssey” series on X. The account also credited the “creative collaboration” to […]",
-      "link": "https://variety.com/2026/film/news/elon-musks-grok-ai-generated-odyssey-1236930662/",
-      "image": "https://variety.com/wp-content/uploads/2026/10/elon-odyssey.webp",
-      "feed_name": "Variety",
-      "feed_title": "Variety",
-      "category": "entertainment",
-      "feed_url": "https://variety.com/feed/",
-      "feed_icon": "https://variety.com/wp-content/uploads/2018/06/variety-favicon.png?w=32"
-    },
-    {
-      "id": "https://variety.com/?p=1236930618",
-      "title": "DJ Pikachu: Pokémon Goes EDM With Lasers, Battles and Marshmello in 30th Anniversary Concert at Intuit Dome",
-      "published": "2026-10-25T17:08:29+00:00",
-      "author": "Jordan Moreau",
-      "description": "Gotta rave ’em all! Pokémon celebrated its 30th anniversary with an epic EDM concert at LA’s Intuit Dome with DJs Marshmello and Alison Wonderland on Saturday night. Billed as Pokémon Night Out, the show mixed together the creatures from the popular video games and trading cards with the lasers, pyrotechnics and mind-blowing visuals of EDM […]",
-      "link": "https://variety.com/2026/digital/news/pokemon-marshmello-concert-30th-anniversary-1236930618/",
-      "image": "https://variety.com/wp-content/uploads/2026/10/Pokemon_30th_Celebration_–_Pokemon_Night_Out_Image_3.jpg",
-      "feed_name": "Variety",
-      "feed_title": "Variety",
-      "category": "entertainment",
-      "feed_url": "https://variety.com/feed/",
-      "feed_icon": "https://variety.com/wp-content/uploads/2018/06/variety-favicon.png?w=32"
     }
   ]
 }
