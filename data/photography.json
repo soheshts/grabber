@@ -1,9 +1,58 @@
 {
   "category": "photography",
-  "updated": "2026-10-28T14:03:46.818884+00:00",
-  "count": 90,
-  "summary": null,
+  "updated": "2026-10-28T14:33:33.953630+00:00",
+  "count": 93,
+  "summary": {
+    "text": "• Canon's Q3 2026 results show the company is profitable, with strong imaging sales driven by network cameras, though the imaging division faced some challenges.\n• Life magazine, a major 20th-century photojournalism publication, is returning to print 90 years after its first issue.\n• Sony announced a 50-megapixel Lytia 720 smartphone sensor, promising nearly 17 stops of dynamic range, better low-light performance, and 4Kp60 HDR video.",
+    "generated_at": "2026-10-28T14:33:33.953630+00:00",
+    "window_minutes": 60,
+    "item_count": 3,
+    "key": "db6772bdf3a2554f602e7266f5464f94a45cd8e5",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "https://www.canonrumors.com/?p=93604",
+      "title": "Canon Q3 2026 Results: Strong Imaging Sales Driven by Network Cameras",
+      "published": "2026-10-28T14:19:14+00:00",
+      "author": "Craig Blair",
+      "description": "Canon Inc. has released their Q3 2026 financial results and they look to be a mixed bag for the imaging division. They're making money, which is the point of it all, but there have been challenges. Revenue in the camera and lens business did rise 4% because the average selling price kept climbing, not due […]",
+      "link": "https://www.canonrumors.com/canon-q3-2026-results-strong-imaging-sales-driven-by-network-cameras/",
+      "image": "https://www.canonrumors.com/wp-content/uploads/2026/10/canon-inc-headquarters-1600.jpg",
+      "feed_name": "Canon Rumors – Your best source for Canon rumors, leaks and gossip",
+      "feed_title": "Canon Rumors",
+      "category": "photography",
+      "feed_url": "https://www.canonrumors.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.canonrumors.com&sz=64"
+    },
+    {
+      "id": "https://petapixel.com/?p=889831",
+      "title": "‘Life’ Magazine, Champion of Photography, to Publish Again",
+      "published": "2026-10-28T14:15:22+00:00",
+      "author": "Matt Growcoot",
+      "description": "One of the 20th century's most important photojournalism publications is returning to print 90 years after it was first published. [ Read More ]",
+      "link": "https://petapixel.com/2026/10/28/life-magazine-champion-of-photography-to-publish-again/",
+      "image": "https://petapixel.com/assets/uploads/2026/10/Life-Magazine.jpg",
+      "feed_name": "PetaPixel",
+      "feed_title": "PetaPixel",
+      "category": "photography",
+      "feed_url": "https://petapixel.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=petapixel.com&sz=64"
+    },
+    {
+      "id": "https://petapixel.com/?p=889842",
+      "title": "Sony’s New 50MP Smartphone Sensor Promises Nearly 17 Stops of Dynamic Range and Better Low-Light Photos",
+      "published": "2026-10-28T14:10:55+00:00",
+      "author": "Jeremy Gray",
+      "description": "Sony has announced a new 50-megapixel Lytia (stylized \"LYTIA\") 720 image sensor. The 50-megapixel sensor promises industry-leading low-light performance and supports 4Kp60 HDR video recording. [ Read More ]",
+      "link": "https://petapixel.com/2026/10/28/sonys-new-50mp-smartphone-sensor-promises-nearly-17-stops-of-dynamic-range-and-better-low-light-photos/",
+      "image": "https://petapixel.com/assets/uploads/2026/10/sony-lytia-720-featured.jpg",
+      "feed_name": "PetaPixel",
+      "feed_title": "PetaPixel",
+      "category": "photography",
+      "feed_url": "https://petapixel.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=petapixel.com&sz=64"
+    },
     {
       "id": "https://petapixel.com/?p=889711",
       "title": "Documentary Uncovers Brave Photographer Who Died Protecting His Camera in Mount St. Helens Eruption",

@@ -1,7 +1,7 @@
 {
   "category": "science",
-  "updated": "2026-10-28T14:03:46.818884+00:00",
-  "count": 611,
+  "updated": "2026-10-28T14:33:33.953630+00:00",
+  "count": 613,
   "summary": {
     "text": "• Chemists at Würzburg University isolated long-elusive molecules with boron-oxygen triple bonds, reported in Nature Chemistry.\n• Amber fossils show an ancient Australian landmass helped seed Southeast Asia's tropical forests.\n• A strong 2026 El Niño is driving Indonesian peat fires, polluting the air and releasing centuries of stored carbon.\n• Tibetan Plateau frozen ground is gaining ice despite warming about twice the global average.\n• Earwax's slippery yet sticky texture may inspire safer insect repellents.",
     "generated_at": "2026-10-28T14:03:46.818884+00:00",
@@ -11,6 +11,34 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "news712399742",
+      "title": "Against all expectations, researchers control the magnetic core of a single atom",
+      "published": "2026-10-28T14:20:08+00:00",
+      "author": null,
+      "description": "Researchers at Delft University of Technology (the Netherlands) have succeeded in controlling the magnetism in the nucleus of a single atom with radio waves. This came as a surprise: until now, physicists believed that this nuclear spin could not be manipulated directly. The discovery could open up new possibilities for storing and reading quantum information. The research is published in the journal Nature Communications.",
+      "link": "https://phys.org/news/2026-10-magnetic-core-atom.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/atom.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "news712393466",
+      "title": "Nature-inspired additive could help protect living cells during freezing and thawing",
+      "published": "2026-10-28T14:20:03+00:00",
+      "author": null,
+      "description": "In Australia, around 2,000 people are on the waiting list to receive an organ transplant, but thanks to new research being undertaken at the University of New England (UNE), this number could someday be significantly reduced.",
+      "link": "https://phys.org/news/2026-10-nature-additive-cells.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cryopreservation.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
     {
       "id": "news712398602",
       "title": "A 60-year search is over: Chemists isolate long-elusive molecules with boron-oxygen triple bonds",

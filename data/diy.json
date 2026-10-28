@@ -1,7 +1,7 @@
 {
   "category": "DIY",
-  "updated": "2026-10-28T14:03:46.818884+00:00",
-  "count": 253,
+  "updated": "2026-10-28T14:33:33.953630+00:00",
+  "count": 256,
   "summary": {
     "text": "• Kinect reuse: The Xbox Kinect, which failed as a gaming accessory, is described as very useful even without an Xbox.\n• 3D printing shift: One writer stopped printing \"clever\" projects and now targets practical items like replacement shells and tiny mounts, saying the prints save money.\n• Home audio: A soundbar switched from optical to HDMI reportedly delivered real Dolby Atmos sound.\n• iPhone accessories: A list of 13 things that can connect to an iPhone's USB-C port beyond charging.",
     "generated_at": "2026-10-28T14:03:46.818884+00:00",
@@ -11,6 +11,34 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.makeuseof.com/i-had-no-idea-safari-had-this-ridiculously-useful-shopping-feature/",
+      "title": "I had no idea Safari had this ridiculously useful shopping feature",
+      "published": "2026-10-28T14:30:16+00:00",
+      "author": "Shaheer Khan",
+      "description": "Stop refreshing out-of-stock pages: Safari's Notify Me does the checking for you.",
+      "link": "https://www.makeuseof.com/i-had-no-idea-safari-had-this-ridiculously-useful-shopping-feature/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/safari-featured.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/adobe-wants-840-year-creative-cloud-open-source-project-recreating-free/",
+      "title": "Adobe wants $840 a year for Creative Cloud. This open-source project is recreating it for free",
+      "published": "2026-10-28T14:30:15+00:00",
+      "author": "Nick Lewis",
+      "description": "The apps are still in the alpha phase, but they're already ready to use.",
+      "link": "https://www.howtogeek.com/adobe-wants-840-year-creative-cloud-open-source-project-recreating-free/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/artcraft-app-open-laptop.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/xbox-kinect-failed-as-gaming-accessory-but-ridiculously-useful-without-xbox/",
       "title": "The Xbox Kinect failed as a gaming accessory, but it's ridiculously useful without an Xbox",
@@ -38,6 +66,20 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://hackaday.com/?p=1396498",
+      "title": "JPEG-XL Is Back On The Menu",
+      "published": "2026-10-28T14:00:04+00:00",
+      "author": "Zoe Skyforest",
+      "description": "Many of the image formats we’re familiar with have been around for decades. We all know JPEG and PNG like the back of our hands, and GIF even had a …read more",
+      "link": "https://hackaday.com/2026/10/28/jpeg-xl-is-back-on-the-menu/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/10/jxl_logo.png",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
     },
     {
       "id": "https://www.makeuseof.com/i-switched-my-soundbar-from-optical-to-hdmi-and-finally-got-real-dolby-atmos/",

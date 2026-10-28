@@ -1,9 +1,30 @@
 {
   "category": "space",
-  "updated": "2026-10-28T14:03:46.818884+00:00",
-  "count": 125,
-  "summary": null,
+  "updated": "2026-10-28T14:33:33.953630+00:00",
+  "count": 126,
+  "summary": {
+    "text": "• Space.com's photo of the day for Oct. 28, 2026 shows satellites watching an escaping Antarctic iceberg.\n• The iceberg, A-81, is escaping the Weddell Sea.\n• It is drifting near the edge of South Georgia's underwater shelf.",
+    "generated_at": "2026-10-28T14:33:33.953630+00:00",
+    "window_minutes": 60,
+    "item_count": 1,
+    "key": "56c82dff07c60476c62213e46810c9dfd6b40df6",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "NqLkXo4Zk3brMkTUrwCRGX",
+      "title": "Satellites watch an escaping Antarctic iceberg | Space photo of the day for Oct. 28, 2026",
+      "published": "2026-10-28T14:00:00+00:00",
+      "author": "Chelsea Gohd",
+      "description": "Iceberg A-81 escaping the Weddell Sea and drifting near the edge of South Georgia's underwater shelf.",
+      "link": "https://www.space.com/astronomy/earth/satellites-watch-an-escaping-antarctic-iceberg-space-photo-of-the-day-for-oct-28-2026",
+      "image": "https://cdn.mos.cms.futurecdn.net/WTJygm6KpeTPFvacZfEAe-1920-80.png",
+      "feed_name": "Space.com",
+      "feed_title": "Latest from Space.com",
+      "category": "space",
+      "feed_url": "https://www.space.com/feeds/all",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.space.com&sz=64"
+    },
     {
       "id": "xisev627RSjjfNiVCNrw7c",
       "title": "Astronomers found a mysterious object beyond Neptune, and it could be a new dwarf planet",
