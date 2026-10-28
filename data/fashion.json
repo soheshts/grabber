@@ -1,9 +1,58 @@
 {
   "category": "fashion",
-  "updated": "2026-10-28T19:02:33.386244+00:00",
-  "count": 283,
-  "summary": null,
+  "updated": "2026-10-28T19:33:10.274228+00:00",
+  "count": 286,
+  "summary": {
+    "text": "• ELLE asks why fashion is so obsessed with food, noting the trend has never been as ubiquitous as it is now.\n• Who What Wear highlights a legging color that is suddenly cooler than black and burgundy, spotted on a 2026 \"funny it girl.\"\n• NYT Style's \"Tiny Love Stories\" runs reader-submitted Modern Love stories of no more than 100 words, including \"Turn Off That Dirge!\"",
+    "generated_at": "2026-10-28T19:33:10.274228+00:00",
+    "window_minutes": 60,
+    "item_count": 3,
+    "key": "cc97f7125ec44e90df4cb2ecae0fdb6793f93c5f",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "http://www.elle.com/fashion/trend-reports/a74271649/fashion-food-trend-fall-2026/",
+      "title": "Why Is Fashion So Obsessed With Food?",
+      "published": "2026-10-28T19:30:00+00:00",
+      "author": null,
+      "description": "This trend comes and goes, but it’s never been as ubiquitous as it is now.",
+      "link": "https://www.elle.com/fashion/trend-reports/a74271649/fashion-food-trend-fall-2026/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/a447449f-db43-493f-93e7-00fbb8dcfe97.jpg?crop=1xw:0.333xh;0xw,0.392xh&resize=1200:*",
+      "feed_name": "Fashion - ELLE",
+      "feed_title": "Fashion - ELLE",
+      "category": "fashion",
+      "feed_url": "https://www.elle.com/rss/fashion.xml/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.elle.com&sz=64"
+    },
+    {
+      "id": "uPczDUpDwvgPjauQERUfwW",
+      "title": "The Legging-Color Trend That's Suddenly Cooler Than Black and Burgundy",
+      "published": "2026-10-28T19:19:11+00:00",
+      "author": "Allyson Payer",
+      "description": "Spotted on 2026's funny It girl.",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/cobalt-blue-legging-trend-mary-beth-barone",
+      "image": "https://cdn.mos.cms.futurecdn.net/u37D6ieDZVdAzZND3Sm8zC-1920-80.jpg",
+      "feed_name": "Who What Wear",
+      "feed_title": "Latest from Who What Wear",
+      "category": "fashion",
+      "feed_url": "https://www.whowhatwear.com/rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.whowhatwear.com&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/28/style/tiny-modern-love-stories-turn-off-that-dirge.html",
+      "title": "Tiny Love Stories: ‘Turn Off That Dirge!’",
+      "published": "2026-10-28T19:15:03+00:00",
+      "author": null,
+      "description": "Modern Love in miniature, featuring reader-submitted stories of no more than 100 words.",
+      "link": "https://www.nytimes.com/2026/10/28/style/tiny-modern-love-stories-turn-off-that-dirge.html",
+      "image": "https://static01.nyt.com/images/2020/10/24/style/00OCT-TINYLOVE-ILLO3-copy/00OCT-TINYLOVE-ILLO3-copy-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Style",
+      "feed_title": "NYT > Style",
+      "category": "fashion",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "NAxwWCzhE6uJTJnoY2wZPf",
       "title": "6 Celebrity Date-Night Outfits I'm Stealing for Fall",

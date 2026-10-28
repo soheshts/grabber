@@ -1,16 +1,44 @@
 {
   "category": "DIY",
-  "updated": "2026-10-28T19:02:33.386244+00:00",
-  "count": 281,
+  "updated": "2026-10-28T19:33:10.274228+00:00",
+  "count": 283,
   "summary": {
-    "text": "• Home lab: XPipe eases home server management, while the Intel N100 is no longer a homelab bargain.\n• Retro keyboards: Printable C64-style keycaps fit MX-style keyboards.\n• Raspberry Pi: An accessory the author uses more than the Pi itself.\n• Gadgets: Good Lock adds Galaxy split-screen tricks, Pixel Watch gains three features, and the Aurzen D1R projector is 38% off.",
-    "generated_at": "2026-10-28T19:02:33.386244+00:00",
+    "text": "• A 3D-printable card reveals color shifts, transparency, and tolerance quirks in new filament before you trust a spool.\n• XPipe is described as making home lab management easier, so a home server stops feeling like a pile of chores.\n• An affordable USB accessory can build a subscription-free lossless music library.\n• Three new Google features convinced one writer to keep their Pixel Watch instead of switching to a Galaxy Watch.",
+    "generated_at": "2026-10-28T19:33:10.274228+00:00",
     "window_minutes": 60,
-    "item_count": 7,
-    "key": "c12b65da2ec254283c96fa6ddb94233db6b5a149",
+    "item_count": 4,
+    "key": "3bfcc0e301cdece0f84a855e397be652f405390e",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.makeuseof.com/i-built-a-lossless-music-library/",
+      "title": "I built a subscription-free lossless music library with this affordable USB accessory",
+      "published": "2026-10-28T19:30:16+00:00",
+      "author": "Brady Snyder",
+      "description": "Out with the new, in with the old.",
+      "link": "https://www.makeuseof.com/i-built-a-lossless-music-library/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/asus-optical-drive-2.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/3d-printable-lie-detector-i-use-before-trusting-a-new-spool-of-filament/",
+      "title": "This is the 3D-printable “lie detector” I use before trusting a new spool of filament",
+      "published": "2026-10-28T19:30:15+00:00",
+      "author": "Sydney Butler",
+      "description": "A compact printable card reveals color shifts, transparency, and tiny tolerance quirks that only show after extrusion.",
+      "link": "https://www.howtogeek.com/3d-printable-lie-detector-i-use-before-trusting-a-new-spool-of-filament/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/20261024_131739-1.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/xpipe-open-source-app-a-shot-and-it-put-ssh-docker-proxmox-and-my-remote-files-in-one-place/",
       "title": "XPipe makes managing a home lab feel like it should",

@@ -1,9 +1,30 @@
 {
   "category": "space",
-  "updated": "2026-10-28T19:02:33.386244+00:00",
-  "count": 129,
-  "summary": null,
+  "updated": "2026-10-28T19:33:10.274228+00:00",
+  "count": 130,
+  "summary": {
+    "text": "• Virgin Galactic has unveiled its first \"Delta-class\" space plane.\n• The plane is named Apeiron, chosen through a worldwide vote.\n• The naming vote results were announced alongside the unveiling.",
+    "generated_at": "2026-10-28T19:33:10.274228+00:00",
+    "window_minutes": 60,
+    "item_count": 1,
+    "key": "d4995f7799ddd99f22fbeb637722488c7bbe0172",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "yAFQt4Kq2YXpz7SbXXBngF",
+      "title": "Meet Apeiron, Virgin Galactic's 1st 'Delta-class' space plane",
+      "published": "2026-10-28T19:28:10+00:00",
+      "author": "Josh Dinner",
+      "description": "Virgin Galactic has officially unveiled its first \"Delta-class\" space plane, and announced the results of the worldwide vote to choose its name.",
+      "link": "https://www.space.com/space-exploration/private-spaceflight/meet-apeiron-virgin-galactics-1st-delta-class-space-plane",
+      "image": "https://cdn.mos.cms.futurecdn.net/BuDak7cvUqjKEVN6j4V3RC-1920-80.jpg",
+      "feed_name": "Space.com",
+      "feed_title": "Latest from Space.com",
+      "category": "space",
+      "feed_url": "https://www.space.com/feeds/all",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.space.com&sz=64"
+    },
     {
       "id": "https://www.nasa.gov/?p=1059815",
       "title": "NASA University Challenge Ignites Trajectory of Drone Entrepreneur",
