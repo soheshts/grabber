@@ -1,9 +1,30 @@
 {
   "category": "travel",
-  "updated": "2026-10-28T17:33:30.971280+00:00",
-  "count": 75,
-  "summary": null,
+  "updated": "2026-10-28T18:03:54.534283+00:00",
+  "count": 76,
+  "summary": {
+    "text": "• Atlas Obscura features the Arden Point and Glenclyffe hiking trail in Philipstown, New York.\n• The trail starts at the Metro-North Garrison train station.\n• Its first leg passes what appears to be an abandoned building entrance; the item's description is cut off there.",
+    "generated_at": "2026-10-28T18:03:54.534283+00:00",
+    "window_minutes": 60,
+    "item_count": 1,
+    "key": "b707f56e31b3f5e0a49755e4fe901f2ee9535fda",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "https://www.atlasobscura.com/places/arden-point-and-glenclyffe",
+      "title": "Arden Point and Glenclyffe in Philipstown, New York",
+      "published": "2026-10-28T18:00:00+00:00",
+      "author": null,
+      "description": "Starting at the metro north Garrison train station, this hiking trail has various unique parts. During the first leg, you will find what appears to be an abandoned entrance to a building, in the form of a brick wall with door/window openings covered in vines and graffiti. Second leg you cross over a pedestrian bridge above the train tracks to Arden Point for various views of the Hudson River beyond. Third leg includes some bamboo forested areas as well as the path Benedict Arnold used to flee b…",
+      "link": "https://www.atlasobscura.com/places/arden-point-and-glenclyffe",
+      "image": "https://img.atlasobscura.com/etupqFe3eHdtofSSuq9tQqnLSmSVK-d0rGkrxLf1KZA/rs:fill:300:200:1/g:ce/c:3876:2584:nowe:156:217/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8yNTg3/M2U3NS04NmQ0LTRi/NmItYTU5ZC1jNDBi/NDhiNjRiZWEzZDMy/OGEzYjllOTU5NTY4/NjJfSU1HXzU1MTIu/SlBH.jpg",
+      "feed_name": "Atlas Obscura - Latest Articles and Places",
+      "feed_title": "Atlas Obscura - Latest Articles and Places",
+      "category": "travel",
+      "feed_url": "https://www.atlasobscura.com/feeds/latest",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.atlasobscura.com&sz=64"
+    },
     {
       "id": "https://www.atlasobscura.com/places/worlds-tallest-barber-pole",
       "title": "World’s Tallest Barber Pole in Forest Grove, Oregon",
@@ -147,7 +168,7 @@
     {
       "id": "https://www.nytimes.com/2026/10/27/travel/new-jimmy-buffett-exhibit-mobile-alabama.html",
       "title": "Celebrating the Life of Jimmy Buffett on Alabama’s Gulf Coast",
-      "published": "2026-10-27T09:00:52+00:00",
+      "published": "2026-10-27T09:00:53+00:00",
       "author": "Carl Hulse and Micah Green",
       "description": "The “son of a son of a sailor” grew up on the Gulf, and a new museum, hoping to attract the Parrothead nation, celebrates his early life and career. A Times journalist and friend offers a look.",
       "link": "https://www.nytimes.com/2026/10/27/travel/new-jimmy-buffett-exhibit-mobile-alabama.html",
