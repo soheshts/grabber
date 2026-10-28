@@ -1,16 +1,44 @@
 {
   "category": "science",
-  "updated": "2026-10-28T02:33:32.772353+00:00",
-  "count": 560,
+  "updated": "2026-10-28T03:03:37.134308+00:00",
+  "count": 562,
   "summary": {
-    "text": "• Halloween, a $13.5 billion fall industry, is driving ghostly tourism at historic sites, raising the question of whether this is a problem.\n• Invasive brambles have spread across South Africa since the early 1900s, having come from North America and Europe. Researchers are closer to finding a natural enemy to manage them.\n• The CONFETI project, coordinated by the Universitat Autònoma de Barcelona, concluded three years of research with a pilot system that produces urea, a nitrogen fertilizer, in the field using biobatteries and solar energy.",
-    "generated_at": "2026-10-28T02:33:32.772353+00:00",
+    "text": "• A review of 2020–2026 research finds digital technologies, additive manufacturing and resource recovery are major themes in the shift toward a circular economy.\n• A Northwestern University election model now updates its forecasts every 10 minutes, tracking 35 races that will decide control of the U.S. Senate.\n• Halloween, a $13.5 billion industry, is drawing attention to ghostly tourism attractions tied to history, raising the question of whether this is a problem.",
+    "generated_at": "2026-10-28T03:03:37.134308+00:00",
     "window_minutes": 60,
     "item_count": 3,
-    "key": "31c61ec9568be2cacdea88c70265ce71d6f181f9",
+    "key": "85d85964c024d63224c2676e791f27f188a025a4",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "news712327697",
+      "title": "Digital tools and 3D printing emerge as key themes in circular economy research",
+      "published": "2026-10-28T03:00:01+00:00",
+      "author": null,
+      "description": "A review of the research literature spanning the years 2020 to 2026 has found that digital technologies, additive manufacturing and resource recovery are major themes in the transition toward a sustainable, circular economy. The work, published in the International Journal of Services and Operations Management, highlights the need for more cooperation between businesses and other stakeholders and for better governmental policies to ease the transition.",
+      "link": "https://phys.org/news/2026-10-digital-tools-3d-emerge-key.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/circular-economy.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "news712327045",
+      "title": "New election forecast updates predictions every 10 minutes",
+      "published": "2026-10-28T02:40:01+00:00",
+      "author": null,
+      "description": "From Alaska to Texas, the battle for control of the U.S. Senate is unfolding across 35 races. And a new Northwestern University election model is tracking them all—every 10 minutes.",
+      "link": "https://phys.org/news/2026-10-election-minutes.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-election-forecast.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
     {
       "id": "news712324524",
       "title": "Halloween meets history in many ghostly tourism attractions. Is this a problem?",
