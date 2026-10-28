@@ -1,9 +1,30 @@
 {
   "category": "travel",
-  "updated": "2026-10-28T15:32:43.016297+00:00",
-  "count": 74,
-  "summary": null,
+  "updated": "2026-10-28T16:02:58.471478+00:00",
+  "count": 75,
+  "summary": {
+    "text": "• Atlas Obscura features the world's tallest barber pole, a 73-foot pole standing in a quiet park in Forest Grove, Oregon.",
+    "generated_at": "2026-10-28T16:02:58.471478+00:00",
+    "window_minutes": 60,
+    "item_count": 1,
+    "key": "9d4d869c7871ec0ea517ad1e2a2a317342cf82d1",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "https://www.atlasobscura.com/places/worlds-tallest-barber-pole",
+      "title": "World’s Tallest Barber Pole in Forest Grove, Oregon",
+      "published": "2026-10-28T16:00:00+00:00",
+      "author": null,
+      "description": "There’s something wonderfully absurd about pulling into a quiet Oregon park and finding a 73-foot barber pole just… standing there like it owns the place. I stopped by in May and couldn’t stop grinning. Forest Grove put it up back in the ’70s because some barbershop singers decided Texas’s “tallest” wasn’t tall enough. Classic Oregon energy. What makes it special isn’t the height or the stripes (though those red-white-and-blue bands still look sharp against the sky). It’s the pure, unapologetic…",
+      "link": "https://www.atlasobscura.com/places/worlds-tallest-barber-pole",
+      "image": "https://img.atlasobscura.com/U66JHOeVQqc0knlqDAiSrITelNQp2x2Qa8sIGp5p8fw/rs:fill:300:200:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9iYmE0/ZjE1Zi03ZDUzLTQ2/OTktYWFkNC1kYmRl/ZWU3OGJhZGM4OGU3/MzZkNmZhZmFmNmY4/NTVfUFhMXzIwMjYw/NTA1XzAzNDk1NDAw/OH4yLmpwZw.jpg",
+      "feed_name": "Atlas Obscura - Latest Articles and Places",
+      "feed_title": "Atlas Obscura - Latest Articles and Places",
+      "category": "travel",
+      "feed_url": "https://www.atlasobscura.com/feeds/latest",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.atlasobscura.com&sz=64"
+    },
     {
       "id": "https://www.atlasobscura.com/places/gnome-hill",
       "title": "Gnome Hill in White Hall, Maryland",

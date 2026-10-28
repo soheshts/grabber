@@ -1,9 +1,30 @@
 {
   "category": "photography",
-  "updated": "2026-10-28T15:32:43.016297+00:00",
-  "count": 93,
-  "summary": null,
+  "updated": "2026-10-28T16:02:58.471478+00:00",
+  "count": 94,
+  "summary": {
+    "text": "• McDonald's and Lenovo released a french fry-shaped computer mouse made from recycled Happy Meal toys.\n• The collaboration pairs the fast-food chain with Chinese electronics company Lenovo, shaped like a carton of McDonald's fries.",
+    "generated_at": "2026-10-28T16:02:58.471478+00:00",
+    "window_minutes": 60,
+    "item_count": 1,
+    "key": "afcb628e4349079780f2984192e7b8c28b628d14",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "https://petapixel.com/?p=889866",
+      "title": "McDonald’s and Lenovo Made an Adorable French Fry Mouse From Recycled Happy Meal Toys",
+      "published": "2026-10-28T15:48:42+00:00",
+      "author": "Jeremy Gray",
+      "description": "McDonald's teamed up with Chinese technology and electronics company Lenovo to make an utterly wild mouse shaped like a carton of McDonald's famous french fries. [ Read More ]",
+      "link": "https://petapixel.com/2026/10/28/mcdonalds-and-lenovo-made-an-adorable-french-fry-mouse-from-recycled-happy-meal-toys/",
+      "image": "https://petapixel.com/assets/uploads/2026/10/mcdonalds-lenovo-mouse-featured.jpg",
+      "feed_name": "PetaPixel",
+      "feed_title": "PetaPixel",
+      "category": "photography",
+      "feed_url": "https://petapixel.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=petapixel.com&sz=64"
+    },
     {
       "id": "https://www.canonrumors.com/?p=93604",
       "title": "Canon Q3 2026 Results: Strong Imaging Sales Driven by Network Cameras",
