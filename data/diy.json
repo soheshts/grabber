@@ -1,7 +1,7 @@
 {
   "category": "DIY",
-  "updated": "2026-10-28T20:03:43.215632+00:00",
-  "count": 285,
+  "updated": "2026-10-28T20:33:19.139226+00:00",
+  "count": 288,
   "summary": {
     "text": "• Two items cover software swaps: one reader replaced 7-Zip and WinRAR with an alternative for better PC security, and another replicated three Googlebook features on a $60 Linux laptop.\n• A MUO piece describes building a subscription-free lossless music library using an affordable USB accessory.\n• A How-To Geek item shares a 3D-printable \"lie detector\" card that reveals color shifts, transparency, and tolerance quirks in filament before printing.",
     "generated_at": "2026-10-28T20:03:43.215632+00:00",
@@ -11,6 +11,48 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.howtogeek.com/google-maps-companion-apps-that-fill-its-biggest-gaps/",
+      "title": "5 Google Maps companion apps that fill its biggest gaps",
+      "published": "2026-10-28T20:30:15+00:00",
+      "author": "Sanya Shah",
+      "description": "Why settle for basic maps?",
+      "link": "https://www.howtogeek.com/google-maps-companion-apps-that-fill-its-biggest-gaps/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/5-companion-apps-of-google-maps.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/your-hdr-movies-have-a-subtitle-problem/",
+      "title": "Your HDR movies have a subtitle problem",
+      "published": "2026-10-28T20:16:16+00:00",
+      "author": "Sydney Butler",
+      "description": "Blinding white captions can dominate dark scenes on modern HDR sets and even cause mini LED bloom to flare during evening viewing.",
+      "link": "https://www.howtogeek.com/your-hdr-movies-have-a-subtitle-problem/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/20261016_121427.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://hackaday.com/?p=1396541",
+      "title": "Does Running an E-Paper Display at 30 FPS Destroy It?",
+      "published": "2026-10-28T20:00:33+00:00",
+      "author": "Maya Posch",
+      "description": "Although e-paper displays are famous for being low-power and lasting essentially forever if not damaged physically, the recent push to drive even cheaper e-paper displays at a framerate like 30 …read more",
+      "link": "https://hackaday.com/2026/10/28/does-running-an-e-paper-display-at-30-fps-destroy-it/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/10/ink_boy_bo_made_it_youtube.jpg",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/replace-7-zip-winrar-with-nanazip/",
       "title": "I ditched both 7-Zip and WinRAR for this alternative for this one reason",

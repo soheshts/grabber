@@ -1,9 +1,58 @@
 {
   "category": "books",
-  "updated": "2026-10-28T20:03:43.215632+00:00",
-  "count": 100,
-  "summary": null,
+  "updated": "2026-10-28T20:33:19.139226+00:00",
+  "count": 103,
+  "summary": {
+    "text": "• John Pert discusses his novel A Heaven for the Stars in a new author interview.\n• Morley Swingle is interviewed about The Scent of Deadly Secrets, the fifth Wyatt Blake book.\n• Raúl Quintana Selleras talks about his title Count To Ten in a separate author interview.",
+    "generated_at": "2026-10-28T20:33:19.139226+00:00",
+    "window_minutes": 60,
+    "item_count": 3,
+    "key": "8874b9088a51a85d9dbb7df1b4389fb232828533",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "https://www.newinbooks.com/?p=435346",
+      "title": "Interview with John Pert, Author of A Heaven for the Stars",
+      "published": "2026-10-28T20:32:22+00:00",
+      "author": "NewInBooks",
+      "description": "Author interview for A Heaven for the Stars",
+      "link": "https://www.newinbooks.com/interview-with-john-pert-author-of-a-heaven-for-the-stars/",
+      "image": "https://www.newinbooks.com//wp-content/uploads/2026/02/nib-vector-file-without-tagline-for-web-without-fonts-copy.svg",
+      "feed_name": "Page Array – NewInBooks",
+      "feed_title": "NewInBooks",
+      "category": "books",
+      "feed_url": "https://www.newinbooks.com/feed/",
+      "feed_icon": "https://www.newinbooks.com/wp-content/uploads/2026/02/cropped-just-sqaure-48px-x-48px-1-1-150x150.webp"
+    },
+    {
+      "id": "https://www.newinbooks.com/?p=435334",
+      "title": "Interview with Morley Swingle, Author of The Scent of Deadly Secrets (Wyatt Blake Book 5)",
+      "published": "2026-10-28T20:30:52+00:00",
+      "author": "NewInBooks",
+      "description": "Author interview for The Scent of Deadly Secrets (Wyatt Blake Book 5)",
+      "link": "https://www.newinbooks.com/interview-with-morley-swingle-author-of-the-scent-of-deadly-secrets-wyatt-blake-book-5/",
+      "image": "https://www.newinbooks.com//wp-content/uploads/2026/02/nib-vector-file-without-tagline-for-web-without-fonts-copy.svg",
+      "feed_name": "Page Array – NewInBooks",
+      "feed_title": "NewInBooks",
+      "category": "books",
+      "feed_url": "https://www.newinbooks.com/feed/",
+      "feed_icon": "https://www.newinbooks.com/wp-content/uploads/2026/02/cropped-just-sqaure-48px-x-48px-1-1-150x150.webp"
+    },
+    {
+      "id": "https://www.newinbooks.com/?p=435332",
+      "title": "Interview with Raúl Quintana Selleras, Author of Count To Ten",
+      "published": "2026-10-28T20:28:35+00:00",
+      "author": "NewInBooks",
+      "description": "Author interview for Count To Ten",
+      "link": "https://www.newinbooks.com/interview-with-raul-quintana-selleras-author-of-count-to-ten/",
+      "image": "https://www.newinbooks.com//wp-content/uploads/2026/02/nib-vector-file-without-tagline-for-web-without-fonts-copy.svg",
+      "feed_name": "Page Array – NewInBooks",
+      "feed_title": "NewInBooks",
+      "category": "books",
+      "feed_url": "https://www.newinbooks.com/feed/",
+      "feed_icon": "https://www.newinbooks.com/wp-content/uploads/2026/02/cropped-just-sqaure-48px-x-48px-1-1-150x150.webp"
+    },
     {
       "id": "https://www.newinbooks.com/?p=435319",
       "title": "Interview with Doctah Rippah, Author of Halauwood Bound",

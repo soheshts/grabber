@@ -1,7 +1,7 @@
 {
   "category": "science",
-  "updated": "2026-10-28T20:03:43.215632+00:00",
-  "count": 670,
+  "updated": "2026-10-28T20:33:19.139226+00:00",
+  "count": 674,
   "summary": {
     "text": "• NYU researchers' physics-informed AI \"digital twin\" forecast wildfire spread in near real time in early tests, while separate research found humidity shapes how smoke pollutants change after dark.\n• Carnegie Mellon's low-cost DNA labels can steer cell-derived drug carriers to cancer cells.\n• Over 2 million basketwork eels were counted on Patience Seamount off Tasmania.\n• A study suggests celebrity digital twins may boost trust in customer service.\n• Putin called Elon Musk a \"real genius\" after satellite talks with the SpaceX boss.",
     "generated_at": "2026-10-28T20:03:43.215632+00:00",
@@ -11,6 +11,62 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "news712422061",
+      "title": "150-year-old mystery about the identity of an 'extinct' giant crane solved",
+      "published": "2026-10-28T20:30:01+00:00",
+      "author": null,
+      "description": "Scientists at Bournemouth University (BU) have solved a 150-year-old mystery about the identity of an extinct giant crane that lived in Europe over 20,000 years ago. The work is published in the journal Royal Society Open Science.",
+      "link": "https://phys.org/news/2026-10-year-mystery-identity-extinct-giant.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/common-crane-1.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "news712419121",
+      "title": "New tissue atlas aims to help AI understand cancer",
+      "published": "2026-10-28T20:20:08+00:00",
+      "author": null,
+      "description": "How cells are arranged within tissue can reveal as much about disease as the cells themselves. When doctors examine a cancer tumor, for example, they don't just look at which cells are present; they also want to know how those cells are arranged and how they interact with each other. That's because the way cancer cells interact with neighboring immune cells can offer important clues about how a disease develops or responds to treatment.",
+      "link": "https://phys.org/news/2026-10-tissue-atlas-aims-ai-cancer.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-tissue-atlas-wil.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "news712421821",
+      "title": "Relocating amphibians and reptiles to make way for human development rarely delivers long-term conservation success",
+      "published": "2026-10-28T20:20:05+00:00",
+      "author": null,
+      "description": "Relocating amphibians and reptiles to protect them from development rarely leads to long-term conservation success, a new UBC-led global review has found. The findings highlight the importance of habitat protection rather than relying on moving animals out of harm's way.",
+      "link": "https://phys.org/news/2026-10-relocating-amphibians-reptiles-human-rarely.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/moving-amphibians-and.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "news712421641",
+      "title": "Sun's outer magnetic field mapped in 3D for the first time",
+      "published": "2026-10-28T20:10:02+00:00",
+      "author": null,
+      "description": "A team of researchers has produced the first global, three-dimensional estimates of the sun's magnetic field, including the area beyond the sun's visible edge. This marks a step toward more accurate models of solar activity—and ultimately, better predictions of solar magnetic eruptions, which are the root cause of extreme space weather that can impact critical infrastructure technologies on Earth.",
+      "link": "https://phys.org/news/2026-10-sun-outer-magnetic-field-3d.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-triptych-of-an-image.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
     {
       "id": "news712413082",
       "title": "A new physics-informed AI tool aims to predict wildfire spread in real time and assist wildfire response",

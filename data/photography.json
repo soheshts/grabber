@@ -1,9 +1,30 @@
 {
   "category": "photography",
-  "updated": "2026-10-28T20:03:43.215632+00:00",
-  "count": 98,
-  "summary": null,
+  "updated": "2026-10-28T20:33:19.139226+00:00",
+  "count": 99,
+  "summary": {
+    "text": "• Apple announced touch input for the MacBook Pro, a move Steve Jobs famously rejected years ago, according to PetaPixel.\n• PetaPixel reports that Apple is not locking peak MacBook Pro performance behind the touch OLED model, which the author found unexpected.\n• The item is a truncated preview, so further details are not included.",
+    "generated_at": "2026-10-28T20:33:19.139226+00:00",
+    "window_minutes": 60,
+    "item_count": 1,
+    "key": "724b56a9861a43dd77922be169dc6fcbedcac24a",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "https://petapixel.com/?p=890155",
+      "title": "Apple Isn’t Locking Peak MacBook Pro Performance Behind Touch OLED",
+      "published": "2026-10-28T20:22:24+00:00",
+      "author": "Jaron Schneider",
+      "description": "Today, Apple announced a major shift in its laptop computing by adding touch to the MacBook Pro — a move famously despised by Steve Jobs so many years ago. But in a move that I found to be unexpected, Apple isn’t forcing you to go with this new model if you want the latest and greatest computing performance. [ Read More ]",
+      "link": "https://petapixel.com/2026/10/28/apple-isnt-locking-peak-macbook-pro-performance-behind-touch-oled/",
+      "image": "https://petapixel.com/assets/uploads/2026/10/macbook-pro-featured.jpg",
+      "feed_name": "PetaPixel",
+      "feed_title": "PetaPixel",
+      "category": "photography",
+      "feed_url": "https://petapixel.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=petapixel.com&sz=64"
+    },
     {
       "id": "https://petapixel.com/?p=890017",
       "title": "Apple Unveils Its First-Ever MacBook Pro With a Touchscreen OLED",

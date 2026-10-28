@@ -1,7 +1,7 @@
 {
   "category": "travel",
-  "updated": "2026-10-28T20:03:43.215632+00:00",
-  "count": 78,
+  "updated": "2026-10-28T20:33:19.139226+00:00",
+  "count": 79,
   "summary": {
     "text": "• Atlas Obscura highlights the Salle du Jeu de Paume in Versailles, France, a commemoration of a pivotal event in French history, hidden on a small side street a few blocks from the Palace of Versailles.\n• The New York Times reports that an \"endless\" round-the-world cruise has been suspended, leaving passengers stranded.\n• The cruise had promised a lifetime of sailing for less than the cost of living on land, but it was underfunded and could not absorb rising fuel costs.",
     "generated_at": "2026-10-28T20:03:43.215632+00:00",
@@ -11,6 +11,20 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/10/28/travel/united-flight-hijack-text-las-vegas.html",
+      "title": "Text Message Referencing a ‘Hijack’ Forces United Flight to Return to Vegas",
+      "published": "2026-10-28T20:05:22+00:00",
+      "author": "Ryley Ober",
+      "description": "Now charged with a felony, the passenger who sent the text said that he had been drinking, and that the message was poorly worded banter between co-workers.",
+      "link": "https://www.nytimes.com/2026/10/28/travel/united-flight-hijack-text-las-vegas.html",
+      "image": "https://static01.nyt.com/images/2026/10/28/realestate/28TRAV-HIJACK1/28TRAV-HIJACK1-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Travel",
+      "feed_title": "NYT > Travel",
+      "category": "travel",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "https://www.atlasobscura.com/places/salle-du-jeu-de-paume",
       "title": "Salle du Jeu de Paume in Versailles, France",

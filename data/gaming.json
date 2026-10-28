@@ -1,7 +1,7 @@
 {
   "category": "gaming",
-  "updated": "2026-10-28T20:03:43.215632+00:00",
-  "count": 698,
+  "updated": "2026-10-28T20:33:19.139226+00:00",
+  "count": 703,
   "summary": {
     "text": "• Polygon says Baldur's Gate 3 owes much to Dragon Age: Origins, a 2009 BioWare RPG.\n• Kotaku has a guide to World of Warcraft: Forever's big launch.\n• Alien: Isolation 2 developers are committing to a full physical edition.\n• Backrooms director Kane Parsons teases new projects, sparking speculation about a Portal movie.\n• A bank says GTA 6 Online could launch in early 2027 as Take-Two shares fall 21% this year; GTA 6 arrives in November.",
     "generated_at": "2026-10-28T20:03:43.215632+00:00",
@@ -11,6 +11,76 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.eurogamer.net/epic-genai-fortnite-unreal-engine-6-no-longer-writing-code",
+      "title": "Epic Games further doubles down on gen-AI tools for Fortnite, Unreal Engine 6 and more: \"Our engineers are no longer writing the bulk of the code\"",
+      "published": "2026-10-28T20:08:50+00:00",
+      "author": "Kaan Serin",
+      "description": "To no one's surprise, Epic Games has now confirmed that it's tripling down on its gen-AI push and will use the controversial tech on everything from Fortnite to the next iteration of its widely-used game development engine, Unreal Engine 6. Read more",
+      "link": "https://www.eurogamer.net/epic-genai-fortnite-unreal-engine-6-no-longer-writing-code",
+      "image": "https://assetsio.gnwcdn.com/fortnite-save-the-world.png?width=690&quality=85&format=jpg&auto=webp",
+      "feed_name": "Eurogamer.net",
+      "feed_title": "Eurogamer.net Latest Articles Feed",
+      "category": "gaming",
+      "feed_url": "https://www.eurogamer.net/?format=rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.eurogamer.net&sz=64"
+    },
+    {
+      "id": "fbad5fb5-bbb7-4f36-b6cd-ae5f3597e495",
+      "title": "Save $700 Off the HyperX OMEN Gaming Laptop With GeForce RTX 5060 (115W) Graphics",
+      "published": "2026-10-28T20:00:00+00:00",
+      "author": "Eric Song",
+      "description": "It's actually more powerful than the comparably priced Steam Machine.",
+      "link": "https://www.ign.com/articles/hyperx-omen-gaming-laptop-deal-october-2026",
+      "image": "https://assets-prd.ignimgs.com/2026/10/22/hyperxomen15-1792697402545.jpg",
+      "feed_name": "IGN All",
+      "feed_title": "IGN Articles",
+      "category": "gaming",
+      "feed_url": "http://feeds.ign.com/ign/all",
+      "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
+    },
+    {
+      "id": "0ec4cc7a-67b3-4674-b1af-a52c0ebf2c12",
+      "title": "Winnie-the-Pooh: Blood and Honey 3 Exclusive Trailer",
+      "published": "2026-10-28T20:00:00+00:00",
+      "author": "Jim Vejvoda",
+      "description": "IGN can exclusively reveal the first trailer for Winnie-the-Pooh: Blood and Honey 3, which director Scott Chambers calls “absolute carnage.” The slasher sequel will open in late January 2027.",
+      "link": "https://www.ign.com/articles/winnie-the-pooh-blood-and-honey-3-trailer",
+      "image": "https://assets-prd.ignimgs.com/2026/10/28/wtp3-poster1-thumb-1793212638545.jpg",
+      "feed_name": "IGN All",
+      "feed_title": "IGN Articles",
+      "category": "gaming",
+      "feed_url": "http://feeds.ign.com/ign/all",
+      "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
+    },
+    {
+      "id": "f300bde7-619f-4151-afe0-9eda88c96b9c",
+      "title": "The Steelseries Arctis Nova Pro Omni Gaming Headset With Infinite Battery Life Drops to a New Price Low",
+      "published": "2026-10-28T19:55:00+00:00",
+      "author": "Eric Song",
+      "description": "Successor to the venerable Arctis Nova Pro.",
+      "link": "https://www.ign.com/articles/steelseries-arctis-nova-pro-omni-gaming-headset-deal-october-2026",
+      "image": "https://assets-prd.ignimgs.com/2026/10/12/steelseriesarctisnovaproomniwhite-1791825778815.jpg",
+      "feed_name": "IGN All",
+      "feed_title": "IGN Articles",
+      "category": "gaming",
+      "feed_url": "http://feeds.ign.com/ign/all",
+      "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
+    },
+    {
+      "id": "b35fe51c-389b-432a-ab31-22436ba75e79",
+      "title": "Save $200 Off the 27\" Samsung Odyssey OLED G6 240Hz Gaming Monitor Ahead of Black Friday",
+      "published": "2026-10-28T19:45:00+00:00",
+      "author": "Eric Song",
+      "description": "Includes a 3 year warranty that covers OLED burn-in.",
+      "link": "https://www.ign.com/articles/samsung-odyssey-oled-g6-gaming-monitor-deal-october-2026",
+      "image": "https://assets-prd.ignimgs.com/2026/10/28/samsungodysseyoledg6-1793215998767.jpg",
+      "feed_name": "IGN All",
+      "feed_title": "IGN Articles",
+      "category": "gaming",
+      "feed_url": "http://feeds.ign.com/ign/all",
+      "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
+    },
     {
       "id": "https://www.polygon.com/dragon-age-origins-baldurs-gate-3-underrated/",
       "title": "BG3 Owes Everything to One Underrated 2009 BioWare RPG",
