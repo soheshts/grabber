@@ -1,16 +1,30 @@
 {
   "category": "photography",
-  "updated": "2026-10-28T12:33:13.552599+00:00",
-  "count": 88,
+  "updated": "2026-10-28T13:03:48.155783+00:00",
+  "count": 89,
   "summary": {
-    "text": "• Fashion photo studios are closing as brands increasingly adopt generative AI.\n• According to a Reuters report cited by PetaPixel, the main draw is the large cost savings the technology offers.\n• The shift signals a broader change for commercial photography in the fashion industry.",
-    "generated_at": "2026-10-28T12:33:13.552599+00:00",
+    "text": "• Amazon has announced the Alexa Photo Frame, a digital picture frame with AI.\n• The frame works alongside the widely used Amazon Photos service and is designed to show only your best pictures.\n• Fashion photo studios are closing as brands increasingly adopt generative AI for its big cost savings, according to a Reuters report.",
+    "generated_at": "2026-10-28T13:03:48.155783+00:00",
     "window_minutes": 60,
-    "item_count": 1,
-    "key": "1a9621a55eccfcf8cc4bd5966d1eb2a1fe693049",
+    "item_count": 2,
+    "key": "3d65d6734781c9e80ddf5e10447a166adf9c6ddf",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://petapixel.com/?p=889832",
+      "title": "Amazon’s Photo Frame Has Alexa AI To Show Only Your Best Pics",
+      "published": "2026-10-28T12:58:24+00:00",
+      "author": "Jeremy Gray",
+      "description": "Amazon has announced the Alexa Photo Frame, an AI-equipped digital picture frame that works alongside the company's popular, widely-used Amazon Photos service. [ Read More ]",
+      "link": "https://petapixel.com/2026/10/28/amazons-photo-frame-has-alexa-ai-to-show-only-your-best-pics/",
+      "image": "https://petapixel.com/assets/uploads/2026/10/alexaphotoframe-inline-amazonnews-ck102526.jpg",
+      "feed_name": "PetaPixel",
+      "feed_title": "PetaPixel",
+      "category": "photography",
+      "feed_url": "https://petapixel.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=petapixel.com&sz=64"
+    },
     {
       "id": "https://petapixel.com/?p=889826",
       "title": "Photo Studios Are Closing as the Fashion Industry Embraces Generative AI",

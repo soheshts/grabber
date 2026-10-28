@@ -1,16 +1,44 @@
 {
   "category": "DIY",
-  "updated": "2026-10-28T12:33:13.552599+00:00",
-  "count": 247,
+  "updated": "2026-10-28T13:03:48.155783+00:00",
+  "count": 249,
   "summary": {
-    "text": "• Travel router: a pocket-sized $20 gadget creates a private Wi-Fi network with a firewall and lets all your devices share one connection, fixing hotel or coffee shop Wi-Fi problems.\n• Linux apps: one writer switched from Flathub to a Linux app store that excludes AI-generated (\"AI slop\") apps.\n• PDF software: a free PDF app has replaced all other PDF tools on one PC, according to its user.\n• Retro PC features: a piece suggests four old computer features worth bringing back to modern PCs.",
-    "generated_at": "2026-10-28T12:03:54.214481+00:00",
+    "text": "• Apple Watch can now record conversations with one tap and sync searchable transcripts, summaries, and tasks across devices.\n• A Google TV secret menu is highlighted as a useful feature most people never open.\n• A test of two 4Ah Ryobi batteries under identical conditions examines what the four-bar charge indicator really means.\n• How-To Geek lists five smart home automations that need only a motion sensor.",
+    "generated_at": "2026-10-28T13:03:48.155783+00:00",
     "window_minutes": 60,
     "item_count": 4,
-    "key": "8118bfcc626b02031c6e5d8d8fd9de103963b65e",
+    "key": "0df8d2e7a22b862acbdd46f03376c22ca43be90b",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.makeuseof.com/ai-productivity-app-flowtica-new-releases/",
+      "title": "Your Apple Watch can now turn hallway chats into meeting summaries and action items",
+      "published": "2026-10-28T13:00:17+00:00",
+      "author": "Sara Heritage",
+      "description": "Start recording with one tap on Apple Watch and sync searchable transcripts, summaries, and tasks across devices.",
+      "link": "https://www.makeuseof.com/ai-productivity-app-flowtica-new-releases/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2026/10/flowtica.png",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.makeuseof.com/google-tv-developer-options/",
+      "title": "Your Google TV has a secret menu — here’s what happens when you unlock it",
+      "published": "2026-10-28T13:00:17+00:00",
+      "author": "Pankil Shah",
+      "description": "Most people never use this Google TV menu, but they should.",
+      "link": "https://www.makeuseof.com/google-tv-developer-options/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/07/close-up-of-a-tv-showing-settings-menu.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/timed-two-full-ryobi-batteries/",
       "title": "I timed two “full” Ryobi batteries side by side to see what four bars really means",
@@ -41,7 +69,7 @@
     },
     {
       "id": "https://www.makeuseof.com/your-hotel-or-coffee-shop-wi-fi-has-a-problem-and-this-20-gadget-can-fix-it/",
-      "title": "Your hotel or coffee shop Wi-Fi has a problem, and this $20 gadget can fix it",
+      "title": "Hotel and coffee shop Wi-Fi have a problem, and this $20 gadget can fix it",
       "published": "2026-10-28T12:00:17+00:00",
       "author": "Jack Mitchell",
       "description": "A pocket-sized travel router not only creates a private Wi-Fi shield with firewall, but allows me to connect all my devices to a single network.",
@@ -66,6 +94,20 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.apartmenttherapy.com/kitchen-makeover-brown-cabinets-floral-wallpaper-budget-ba-37696523",
+      "title": "This Renter-Friendly Redo Proves That Reddish-Brown Kitchen Cabinets Work",
+      "published": "2026-10-28T12:00:00+00:00",
+      "author": "Sarah Everett",
+      "description": "When DIYer and content creator Megan Zietz and her family moved from their old apartment into a new one that had cherry reddish-brown kitchen cabinets, Megan learned an important lesson: Sometimes it’s best to work with brown cabinets, not against them. “I finally — after months of fighting the idea — decided to lean into the cabinet color,” she says. READ MORE...",
+      "link": "https://www.apartmenttherapy.com/kitchen-makeover-brown-cabinets-floral-wallpaper-budget-ba-37696523?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+projects",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2025/2025-07/megan-z-kitchen/megan-z-kitchen-before-horiz-tag",
+      "feed_name": "Apartment Therapy| Saving the world, one room at a time",
+      "feed_title": "Apartment Therapy| Saving the world, one room at a time",
+      "category": "DIY",
+      "feed_url": "https://www.apartmenttherapy.com/projects.rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.apartmenttherapy.com&sz=64"
     },
     {
       "id": "https://www.makeuseof.com/pdfgear-free-pdf-editor-windows/",
@@ -3449,20 +3491,6 @@
       "description": "This is my all-time favorite baked macaroni and cheese recipe. I’ve been making it for years (I originally published this baked mac recipe in 2012 and very little has changed). This is my most requested recipe I make at big family events like Thanksgiving or Christmas. And personally, it’s one of my favorite recipes on…",
       "link": "https://abeautifulmess.com/emmas-favorite-baked-macaroni-1/",
       "image": "https://abeautifulmess.com/wp-content/uploads/2012/12/baked-macaroni-and-cheese.jpg",
-      "feed_name": "A Beautiful Mess",
-      "feed_title": "A Beautiful Mess",
-      "category": "DIY",
-      "feed_url": "https://abeautifulmess.com/feed",
-      "feed_icon": "https://abeautifulmess.com/wp-content/uploads/2016/12/cropped-ABM-Favicon-60x60.jpg"
-    },
-    {
-      "id": "https://abeautifulmess.com/?p=117962",
-      "title": "EASY Apple Cobbler",
-      "published": "2026-09-28T13:02:00+00:00",
-      "author": "Emma Chapman",
-      "description": "Recently, we went apple picking with some friends and I came home with way too many apples. Many of them were on the sour side, perfect for baking! This old-fashioned apple cobbler recipe could not be easier and it’s so delicious! The apples are soft and cinnamon-y with a soft, spongy cake top. This cobbler…",
-      "link": "https://abeautifulmess.com/apple-cobbler/",
-      "image": "https://abeautifulmess.com/wp-content/uploads/2023/09/best-apple-cobbler.jpg",
       "feed_name": "A Beautiful Mess",
       "feed_title": "A Beautiful Mess",
       "category": "DIY",

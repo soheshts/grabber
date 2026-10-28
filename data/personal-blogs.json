@@ -1,16 +1,30 @@
 {
   "category": "personal blogs",
-  "updated": "2026-10-28T12:33:13.552599+00:00",
+  "updated": "2026-10-28T13:03:48.155783+00:00",
   "count": 424,
   "summary": {
-    "text": "• Web performance: CSS Wizardry's Web-Perf Wednesday 015 reports that WebKit now fixes failed modulepreloads that could block recovery, alongside Safari and Firefox improvements to performance tooling and responsiveness.\n• Reading log: Finley, I am. describes automating the Shelf page, which has grown to 120 books added by hand over the past couple of years as reading became a major part of the author's life.",
-    "generated_at": "2026-10-28T12:03:54.214481+00:00",
+    "text": "• Terence Eden's blog reviews the SoundPEATS CC3 Pro Bluetooth headphones, rating them 4.5 out of 5 stars.\n• He calls them the most comfortable headphones he has worn, saying he wore them all day without noticing them.\n• SoundPEATS sent him the headphones for review.",
+    "generated_at": "2026-10-28T13:03:48.155783+00:00",
     "window_minutes": 60,
-    "item_count": 2,
-    "key": "d1c2f97eb378a484f022da61d939f65be0d20809",
+    "item_count": 1,
+    "key": "bb96f4334680f8dee8cafc4fba60b351498f9817",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://shkspr.mobi/blog/?p=75488",
+      "title": "Gadget Review: SoundPEATS CC3 Pro Bluetooth Headphones ★★★★⯪",
+      "published": "2026-10-28T12:34:54+00:00",
+      "author": "Terence Eden",
+      "description": "These are easily the most comfortable headphones I've worn. I've literally had them clipped around my ears all day without noticing them. The good folks at SoundPEATS have sent me their latest cans to wrap around my lugs. I'm a big fan of these new-style \"clip on\" headphones. Rather than encasing your ears, or sticking way down into the wax-mines, these clip over your ear. It isn't a tight…",
+      "link": "https://shkspr.mobi/blog/2026/10/gadget-review-soundpeats-cc3-pro-bluetooth-headphones/",
+      "image": "https://shkspr.mobi/blog/wp-content/uploads/2026/09/ccpro3.webp",
+      "feed_name": "Terence Eden’s Blog",
+      "feed_title": "Terence Eden’s Blog",
+      "category": "personal blogs",
+      "feed_url": "https://shkspr.mobi/blog/feed/atom/",
+      "feed_icon": "https://shkspr.mobi/blog/wp-content/uploads/2023/07/cropped-avatar-32x32.jpeg"
+    },
     {
       "id": "https://csswizardry.com/2026/10/web-perf-wednesday-015-failed-modulepreloads-need-to-recover/",
       "title": "Web-Perf Wednesday 015 – Failed Modulepreloads Need to Recover",
@@ -5218,20 +5232,6 @@
       "category": "personal blogs",
       "feed_url": "https://manuelmoreale.com/feed/rss",
       "feed_icon": "https://manuelmoreale.com/media/site/768b30cae2-1759134593/avatar.jpg"
-    },
-    {
-      "id": "https://www.baldurbjarnason.com/2026/04-parasocial-relationships/",
-      "title": "Parasocial media: why influencers really aren't your friend",
-      "published": "2026-09-28T12:35:00+00:00",
-      "author": "Baldur Bjarnason",
-      "description": "An essay version of the video is below . You can subscribe to the audio-only podcast feed over on Apple’s Podcast app and other apps if audio is more your speed. It’s also available as a raw podcast feed if you want to subscribe to it directly in the podcast app of your choice. For fans of video, there’s both the YouTube channel and the TikTok account . Overview # The “parasocial” illusion that’s created by social media platforms helps deceive and misguide you, the audience. Video # Audio # Why…",
-      "link": "https://www.baldurbjarnason.com/2026/04-parasocial-relationships/",
-      "image": null,
-      "feed_name": "Baldur Bjarnason's Notes on the Web",
-      "feed_title": "Baldur Bjarnason's Notes on the Web",
-      "category": "personal blogs",
-      "feed_url": "https://feedpress.me/baldurbjarnason",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.baldurbjarnason.com&sz=64"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",

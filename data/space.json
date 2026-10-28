@@ -1,16 +1,30 @@
 {
   "category": "space",
-  "updated": "2026-10-28T12:33:13.552599+00:00",
-  "count": 124,
+  "updated": "2026-10-28T13:03:48.155783+00:00",
+  "count": 125,
   "summary": {
-    "text": "• Virgin Galactic will unveil its first Delta-class spaceship on Wednesday, Oct. 28, according to Space.com.\n• The spaceship's name was chosen by public vote and will be revealed at the unveiling.\n• After the reveal, the spacecraft will be transported from Arizona to Spaceport America.",
-    "generated_at": "2026-10-28T12:03:54.214481+00:00",
+    "text": "• Astronomers using the Vera Rubin Observatory have discovered a suspected dwarf planet beyond Neptune's orbit.\n• The object is not yet confirmed. If it is, it would be the sixth known dwarf planet in the solar system.\n• Source: Space.com.",
+    "generated_at": "2026-10-28T13:03:48.155783+00:00",
     "window_minutes": 60,
     "item_count": 1,
-    "key": "8d4eaaecbf49fcbd4327205a087642802d8d8081",
+    "key": "464d65001f33854ec76f570eb9bf05cd06c2c586",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "xisev627RSjjfNiVCNrw7c",
+      "title": "Astronomers found a mysterious object beyond Neptune, and it could be a new dwarf planet",
+      "published": "2026-10-28T12:58:18+00:00",
+      "author": "Mike Wall",
+      "description": "The Vera Rubin Observatory has discovered a suspected dwarf planet beyond Neptune's orbit. If confirmed, it would be the sixth known dwarf planet in our solar system.",
+      "link": "https://www.space.com/astronomy/dwarf-planets/astronomers-found-a-mysterious-object-beyond-neptune-and-it-could-be-a-new-dwarf-planet",
+      "image": "https://cdn.mos.cms.futurecdn.net/5UR38v6ujvUPE5EBEzvts3-1920-80.jpg",
+      "feed_name": "Space.com",
+      "feed_title": "Latest from Space.com",
+      "category": "space",
+      "feed_url": "https://www.space.com/feeds/all",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.space.com&sz=64"
+    },
     {
       "id": "dBZgGCWmqnBqT45FkzF9kD",
       "title": "Virgin Galactic is finally revealing its new Delta-class spaceship this week",

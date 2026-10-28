@@ -1,9 +1,58 @@
 {
   "category": "funny",
-  "updated": "2026-10-28T12:33:13.552599+00:00",
-  "count": 189,
-  "summary": null,
+  "updated": "2026-10-28T13:03:48.155783+00:00",
+  "count": 192,
+  "summary": {
+    "text": "• The Onion reports Australian authorities are withholding details of a hiker's death until they settle on the correct collective noun for emus.\n• A separate Onion headline jokes that the electric chair is still warm from the last guy.\n• Porcelain actress Annabelle, speaking to reporters in Los Angeles, discussed the struggle of being typecast as a haunted doll.",
+    "generated_at": "2026-10-28T13:03:48.155783+00:00",
+    "window_minutes": 60,
+    "item_count": 3,
+    "key": "e070181155a78223239c6cdf341c50771b55015a",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "https://theonion.com/?p=1851708820",
+      "title": "Authorities Wait To Release Details Of Hiker’s Death Until They Learn Correct Collective Noun For Emus",
+      "published": "2026-10-28T13:00:00+00:00",
+      "author": "The Onion Staff",
+      "description": "ADELAIDE, AUSTRALIA—Refusing to inform the press or the man’s emergency contacts until they could nail down the vocabulary for the press conference, local authorities were reportedly waiting Wednesday to release the details of a hiker’s death until they had learned the correct collective noun for emus. “Is it a band? A gaggle? We don’t want […] The post Authorities Wait To Release Details Of Hiker’s Death Until They Learn Correct Collective Noun For Emus appeared first on The Onion .",
+      "link": "https://theonion.com/authorities-wait-to-release-details-of-hikers-death-until-they-learn-correct-collective-noun-for-emus/",
+      "image": "https://theonion.com/wp-content/uploads/2026/10/Authorities_Wait_NIB_SS_PH.jpg",
+      "feed_name": "The Onion",
+      "feed_title": "The Onion",
+      "category": "funny",
+      "feed_url": "https://www.theonion.com/rss",
+      "feed_icon": "https://theonion.com/wp-content/uploads/2024/07/cropped-site-icon.png?w=32"
+    },
+    {
+      "id": "https://theonion.com/?p=1851709762",
+      "title": "Electric Chair Still Warm From Last Guy",
+      "published": "2026-10-28T13:00:00+00:00",
+      "author": "The Onion Staff",
+      "description": "The post Electric Chair Still Warm From Last Guy appeared first on The Onion .",
+      "link": "https://theonion.com/electric-chair-still-warm-from-last-guy/",
+      "image": "https://theonion.com/wp-content/uploads/2026/10/ELectric_Chair_Still_SB-IHA-GR-SOCIAL.jpg",
+      "feed_name": "The Onion",
+      "feed_title": "The Onion",
+      "category": "funny",
+      "feed_url": "https://www.theonion.com/rss",
+      "feed_icon": "https://theonion.com/wp-content/uploads/2024/07/cropped-site-icon.png?w=32"
+    },
+    {
+      "id": "https://theonion.com/?p=1851709766",
+      "title": "Annabelle Opens Up About Struggle Of Being \bTypecast As Haunted Doll",
+      "published": "2026-10-28T13:00:00+00:00",
+      "author": "The Onion Staff",
+      "description": "LOS ANGELES—Discussing her craft in a wide-ranging interview with reporters, porcelain actress Annabelle opened up Tuesday about the struggle of being typecast as a haunted doll. “Don’t get me wrong, I’m eternally grateful to the Conjuring universe for launching my career, but it becomes difficult to grow as an artist when you’re basically playing the same […] The post Annabelle Opens Up About Struggle Of Being \bTypecast As Haunted Doll appeared first on The Onion .",
+      "link": "https://theonion.com/annabelle-opens-up-about-struggle-of-being-typecast-as-haunted-doll/",
+      "image": "https://theonion.com/wp-content/uploads/2026/10/Annabelle_Typecast_NIB_IHA_GR.jpg",
+      "feed_name": "The Onion",
+      "feed_title": "The Onion",
+      "category": "funny",
+      "feed_url": "https://www.theonion.com/rss",
+      "feed_icon": "https://theonion.com/wp-content/uploads/2024/07/cropped-site-icon.png?w=32"
+    },
     {
       "id": "https://cheezburger.com/47231237/cat-sibling-memes-for-a-meowjestic-meme-competition-with-your-sibling",
       "title": "Cat Sibling Memes for a Meowjestic Meme Competition With Your Sibling",

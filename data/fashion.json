@@ -1,16 +1,72 @@
 {
   "category": "fashion",
-  "updated": "2026-10-28T12:33:13.552599+00:00",
-  "count": 265,
+  "updated": "2026-10-28T13:03:48.155783+00:00",
+  "count": 269,
   "summary": {
-    "text": "• ELLE reports that stirrup pants are back, with fashion insiders styling them for brunch dates and office looks.\n• Fashionista covers a teen magazine revival: new print titles WYouth and Cuqui champion analog content.\n• Teen Vogue and Seventeen are reaching Gen Z and Gen Alpha online, and the piece suggests mixing print and digital formats may work for teen media.",
-    "generated_at": "2026-10-28T12:03:54.214481+00:00",
+    "text": "• Who What Wear is promoting a £500 Liberty shopping giveaway for a winter wardrobe refresh, plus a edit of partywear pieces for getting dressed for invitations.\n• ELLE reports that fashion is embracing horror folklore, offering a darker take on the runway's fairy-tale obsession.\n• An NYT Style advice column covers a mother of the bride upset that the officiant, the groom's brother, mooned the guests at her daughter's wedding, and asks whether she should confront him.",
+    "generated_at": "2026-10-28T13:03:48.155783+00:00",
     "window_minutes": 60,
-    "item_count": 2,
-    "key": "584c224fe8df6042acdf338d134acc9f7a95a763",
+    "item_count": 4,
+    "key": "5546038549051ebc0f5801afcd402c9a16392e4c",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "P9d3pZKDqBzZvqQFsvgBWg",
+      "title": "Win £500 to Spend at Liberty!",
+      "published": "2026-10-28T13:01:46+00:00",
+      "author": "Who What Wear",
+      "description": "Your winter wardrobe refresh, sorted.",
+      "link": "https://www.whowhatwear.com/fashion/liberty-competition-october-2026",
+      "image": "https://cdn.mos.cms.futurecdn.net/GV29hBsbrVbJ9Cva3p5o5h-1920-80.jpg",
+      "feed_name": "Who What Wear",
+      "feed_title": "Latest from Who What Wear",
+      "category": "fashion",
+      "feed_url": "https://www.whowhatwear.com/rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.whowhatwear.com&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/28/style/wedding-misbehavior-confrontation.html",
+      "title": "The Officiant Mooned the Guests at My Daughter’s Wedding. Help!",
+      "published": "2026-10-28T13:00:03+00:00",
+      "author": "Philip Galanes",
+      "description": "The mother of the bride feels that the groom’s brother tarnished a special day that she had worked hard to make beautiful. Should she confront him?",
+      "link": "https://www.nytimes.com/2026/10/28/style/wedding-misbehavior-confrontation.html",
+      "image": "https://static01.nyt.com/images/2021/06/20/fashion/socialqs-2021-artwork/socialqs-2021-artwork-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Style",
+      "feed_title": "NYT > Style",
+      "category": "fashion",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "nE4nDcYw7rpbNAJXvq8yVa",
+      "title": "The Partywear Pieces That Make Getting Dressed Feel Special",
+      "published": "2026-10-28T12:49:22+00:00",
+      "author": "Humaa Hussain",
+      "description": "Let the invitations roll in.",
+      "link": "https://www.whowhatwear.com/fashion/shopping/www-curates-reiss-partywear-pieces-2026",
+      "image": "https://cdn.mos.cms.futurecdn.net/hvHzTLJkZof4Hbb8pPqX8A-1920-80.jpg",
+      "feed_name": "Who What Wear",
+      "feed_title": "Latest from Who What Wear",
+      "category": "fashion",
+      "feed_url": "https://www.whowhatwear.com/rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.whowhatwear.com&sz=64"
+    },
+    {
+      "id": "http://www.elle.com/fashion/trend-reports/a74260610/horror-folklore-fantasy-trend-spring-2027/",
+      "title": "Fashion Is in Love With Horror Folklore",
+      "published": "2026-10-28T12:49:21+00:00",
+      "author": null,
+      "description": "Consider it a different take on the runway’s fairy-tale obsession.",
+      "link": "https://www.elle.com/fashion/trend-reports/a74260610/horror-folklore-fantasy-trend-spring-2027/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/2262e62c-a6ff-44b6-b070-8d1a87d66cc2.jpeg?crop=1xw:0.333xh;0xw,0.247xh&resize=1200:*",
+      "feed_name": "Fashion - ELLE",
+      "feed_title": "Fashion - ELLE",
+      "category": "fashion",
+      "feed_url": "https://www.elle.com/rss/fashion.xml/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.elle.com&sz=64"
+    },
     {
       "id": "nk2ceQqVuiakXZ9CSJQCDG",
       "title": "I’ve Found Them—The Exact Nail Polish Shades Kendall and Kylie Can’t Get Enough Of",
@@ -2448,6 +2504,20 @@
       "feed_icon": "https://www.fashionbeans.com/wp-content/uploads/2022/11/FB_Favicon_48x48.png"
     },
     {
+      "id": "https://www.refinery29.com/en-us/best-weekend-sales-editors-picks?utm_source=feed&utm_medium=rss",
+      "title": "The 15 Best Weekend Sales Across Fashion, Beauty & Lifestyle",
+      "published": "2026-10-23T19:23:01+00:00",
+      "author": "Esther Newman, written by Esther Newman, written by Victoria Montalti, written by Karina Hoshikawa",
+      "description": "As professional online shoppers, Refinery29 Most Wanted writers have a spidey sense for the best virtual sales and limited-time offers. Whether it's a rare Sephora sale or Nordstrom Rack's constant stream of deals, where there's a clearance rack, there's an R29 shopping editor ready to size up its price-slashed goods. Today, we bring you the best sales across fashion, beauty, wellness, and home happening this weekend. So gird your loins — or err, wallets. The deals on this list must meet at lea…",
+      "link": "https://www.refinery29.com/en-us/best-weekend-sales-editors-picks?utm_source=feed&utm_medium=rss",
+      "image": "https://www.refinery29.com/images/12015149.png?auto=webp&width=737&height=983&quality=85&crop=737:983",
+      "feed_name": "Refinery29",
+      "feed_title": "Refinery29",
+      "category": "fashion",
+      "feed_url": "https://www.refinery29.com/fashion/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.refinery29.com&sz=64"
+    },
+    {
       "id": "https://www.nytimes.com/2026/10/23/style/modern-love-when-my-husband-blacked-out-i-crash-landed-our-plane.html",
       "title": "When My Husband Blacked Out, I Crash-Landed Our Plane",
       "published": "2026-10-23T19:02:46+00:00",
@@ -2474,6 +2544,20 @@
       "category": "fashion",
       "feed_url": "https://www.elle.com/rss/fashion.xml/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.elle.com&sz=64"
+    },
+    {
+      "id": "https://www.refinery29.com/en-us/best-new-collaborations?utm_source=feed&utm_medium=rss",
+      "title": "The Best Collabs This Week From Gap, ACOTAR & More",
+      "published": "2026-10-23T18:20:15+00:00",
+      "author": "Victoria Montalti, written by Victoria Montalti",
+      "description": "If there's one thing we've learned from Refinery29 readers' shopping habits, it's that you love a good brand collaboration (just like us). But among a sea of new partnerships, it can be hard to fish out the best of the best collabs. That's why we're sharing the best lifestyle, beauty, and fashion partnerships worth carting up. This week, there are many, many exciting launches from reader-favorite retailers like Gap and Banana Republic. Across last week and this week, they have notably spotlight…",
+      "link": "https://www.refinery29.com/en-us/best-new-collaborations?utm_source=feed&utm_medium=rss",
+      "image": "https://www.refinery29.com/images/12016483.jpg?auto=webp&width=7927&height=10570&quality=85&crop=7927:10570",
+      "feed_name": "Refinery29",
+      "feed_title": "Refinery29",
+      "category": "fashion",
+      "feed_url": "https://www.refinery29.com/fashion/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.refinery29.com&sz=64"
     },
     {
       "id": "https://www.nytimes.com/2026/10/23/style/elizabeth-holmes-billy-evans-eggs.html",
@@ -3428,20 +3512,6 @@
       "feed_icon": "https://media1.popsugar-assets.com/v4903/static/imgs/feeds/logos/popsugar.png"
     },
     {
-      "id": "https://www.refinery29.com/en-us/best-weekend-sales-editors-picks?utm_source=feed&utm_medium=rss",
-      "title": "The 14 Best Weekend Sales Across Fashion, Beauty & Lifestyle",
-      "published": "2026-10-16T17:31:01+00:00",
-      "author": "Esther Newman, written by Esther Newman, written by Victoria Montalti, written by Karina Hoshikawa",
-      "description": "As professional online shoppers, Refinery29 Most Wanted writers have a spidey sense for the best virtual sales and limited-time offers. Whether it's a rare Sephora sale or Nordstrom Rack's constant stream of deals, where there's a clearance rack, there's an R29 shopping editor ready to size up its price-slashed goods. Today, we bring you the best sales across fashion, beauty, wellness, and home happening this weekend. So gird your loins — or err, wallets. The deals on this list must meet at lea…",
-      "link": "https://www.refinery29.com/en-us/best-weekend-sales-editors-picks?utm_source=feed&utm_medium=rss",
-      "image": "https://www.refinery29.com/images/12015149.png?auto=webp&width=737&height=983&quality=85&crop=737:983",
-      "feed_name": "Refinery29",
-      "feed_title": "Refinery29",
-      "category": "fashion",
-      "feed_url": "https://www.refinery29.com/fashion/rss.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.refinery29.com&sz=64"
-    },
-    {
       "id": "https://www.theguardian.com/fashion/2026/oct/16/social-reckoning-zuckerberg-fashion-costume-design",
       "title": "How to dress a tech oligarch: The Social Reckoning’s costume designer on Zuckerberg’s style evolution",
       "published": "2026-10-16T12:00:10+00:00",
@@ -3538,20 +3608,6 @@
       "category": "fashion",
       "feed_url": "https://www.popsugar.com/fashion/feed",
       "feed_icon": "https://media1.popsugar-assets.com/v4903/static/imgs/feeds/logos/popsugar.png"
-    },
-    {
-      "id": "https://www.refinery29.com/en-us/best-new-collaborations?utm_source=feed&utm_medium=rss",
-      "title": "The Best Collabs This Week From Fan-Favorites Like Lululemon, Ugg & Adidas",
-      "published": "2026-10-14T16:18:15+00:00",
-      "author": "Victoria Montalti, written by Victoria Montalti",
-      "description": "If there's one thing we've learned from Refinery29 readers' shopping habits, it's that you love a good brand collaboration (just like us). But among a sea of new partnerships, it can be hard to fish out the best of the best collabs. That's why we're sharing the best lifestyle, beauty, and fashion partnerships worth carting up. This week, there are many, many exciting launches from reader-favorite retailers like Lululemon , Ugg, Adidas, and LoveShackFancy. They notably feature a few nostalgic ac…",
-      "link": "https://www.refinery29.com/en-us/best-new-collaborations?utm_source=feed&utm_medium=rss",
-      "image": "https://www.refinery29.com/images/12012989.png?auto=webp&width=1000&height=1333&quality=85&crop=1000:1333",
-      "feed_name": "Refinery29",
-      "feed_title": "Refinery29",
-      "category": "fashion",
-      "feed_url": "https://www.refinery29.com/fashion/rss.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.refinery29.com&sz=64"
     },
     {
       "id": "49484495",

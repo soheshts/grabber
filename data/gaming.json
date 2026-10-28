@@ -1,16 +1,44 @@
 {
   "category": "gaming",
-  "updated": "2026-10-28T12:33:13.552599+00:00",
-  "count": 585,
+  "updated": "2026-10-28T13:03:48.155783+00:00",
+  "count": 587,
   "summary": {
-    "text": "• Arc Raiders developer Embark is still undecided on a permanent PvE mode despite a generally favourable test.\n• Eurogamer profiles Buckshot Roulette developer Mike Klubnika, whose horror games feature smoking, club music and post-Soviet malaise.\n• Kotaku revisits Kingdom Hearts' maligned Gummi Ship minigame and praises Wuhu Island in Nintendo Switch Sports Resort.\n• A former BioWare employee says EA's new management asked for an LGBTQ flag to be removed from a canceled Mass Effect game.",
-    "generated_at": "2026-10-28T12:03:54.214481+00:00",
+    "text": "• Showrunners is a fast-paced speed-running roller skating game where players build speed, land tricks, and master movement across massive courses.\n• Valve is looking for solutions after Steam Next Fest drew criticism for an overload of AI-generated game demos, with thousands of entries.\n• Obsession director Curry Barker, whose indie hit Obsession was a success, has released a new short film on YouTube just in time for Halloween.",
+    "generated_at": "2026-10-28T13:03:48.155783+00:00",
     "window_minutes": 60,
-    "item_count": 6,
-    "key": "defadcc83d702fc14ac5009d4662312d4046d59b",
+    "item_count": 3,
+    "key": "8baada4399132d2822955ac9c73a6b1953c579b7",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://indiegamesplus.com/?p=53740",
+      "title": "‘Showrunners’ has you roller skating around massive courses!",
+      "published": "2026-10-28T13:00:00+00:00",
+      "author": "Jupiter Hadley",
+      "description": "Showrunners is a fast paced, speed-running roller skating game where you are trying to build up high speed, land tricks, and master your movement so that you can come out on the... The post ‘Showrunners’ has you roller skating around massive courses! appeared first on Indie Games Plus .",
+      "link": "https://indiegamesplus.com/showrunners-preview/",
+      "image": "https://s3-igpbucket.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/10/24215111/Shark-in-Showrunners-1024x576.jpg",
+      "feed_name": "Indie Games Plus",
+      "feed_title": "Indie Games Plus",
+      "category": "gaming",
+      "feed_url": "https://indiegamesplus.com/feed",
+      "feed_icon": "https://s3-igpbucket.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/07/24193508/cropped-IndieGamesPlus-Micro-32x32.png"
+    },
+    {
+      "id": "1939652",
+      "title": "Valve Knows Steam Next Fest Has An AI Slop Problem, And It’s Looking For Solutions",
+      "published": "2026-10-28T12:30:33+00:00",
+      "author": "Darryn Bonthuys",
+      "description": "Steam Next Fest has come and gone, and one of the big criticisms of the semi-regular showcase for game demos--aside from there being several thousand of them --was that there was simply too much AI slop floating to the top. Valve has responded to the feedback, and for now, its solution to avoiding hastily vibe-coded game demos is to simply be patient and wait a few days before diving in. Speaking at the Steam Indie Connect developer event (via Inven Global ), Tom Giardino and Marc Wilkinson fro…",
+      "link": "https://www.gamespot.com/articles/valve-knows-steam-next-fest-has-an-ai-slop-problem-and-its-looking-for-solutions/",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Next-Fest.jpg?w=300",
+      "feed_name": "GameSpot - All Content",
+      "feed_title": "GameSpot - All Content",
+      "category": "gaming",
+      "feed_url": "https://www.gamespot.com/feeds/mashup/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.gamespot.com&sz=64"
+    },
     {
       "id": "https://www.polygon.com/obsession-director-curry-barker-mama-bear-youtube-short-film/",
       "title": "Obsession Director Reveals Surprise New Release Coming This Week",
