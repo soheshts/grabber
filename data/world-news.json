@@ -1,20 +1,20 @@
 {
   "category": "World News",
-  "updated": "2026-10-28T00:03:01.675696+00:00",
-  "count": 912,
+  "updated": "2026-10-28T00:33:29.320967+00:00",
+  "count": 913,
   "summary": {
-    "text": "• Israel: Exit polls show no clear winner after high turnout. An opposition bloc led by Gadi Eisenkot holds a slim lead over Netanyahu's coalition, but a government could take months.\n• Trump showed off a tanker at a Texas rally and floated Venezuela as a 51st state.\n• Flávio Bolsonaro left Brazil for the U.S. after his election defeat; Washington plans to issue him a visa.\n• The UN nuclear watchdog chief urged Iran to grant access to key facilities.",
-    "generated_at": "2026-10-27T23:33:13.681814+00:00",
+    "text": "• Exit polls show no clear winner in Israel's election. Gadi Eisenkot's bloc seeks to unseat Netanyahu, and record turnout for two leading Arab parties may give them a role in forming the next government.\n• Flávio Bolsonaro left Brazil for the U.S. after his election defeat, and a U.S. official said a visa is planned.\n• King Charles will discuss the legacy of slavery at a Commonwealth summit during his Caribbean tour.\n• The Alexander brothers were each sentenced to 30 years in prison for sex trafficking.",
+    "generated_at": "2026-10-28T00:33:29.320967+00:00",
     "window_minutes": 60,
-    "item_count": 9,
-    "key": "fa15a05456f1a40f14c05d95ca405c896000f2e4",
+    "item_count": 10,
+    "key": "961efe68fd8035b56eca21576fd3289f34ef5766",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
     {
       "id": "https://www.nytimes.com/live/2026/10/27/world/israel-elections",
-      "title": "Live Updates: Exit Polls Show No Clear Winner in Pivotal Israeli Election",
-      "published": "2026-10-28T00:00:55+00:00",
+      "title": "Live Updates: Exit Polls Suggest No Clear Winner in Pivotal Israeli Election",
+      "published": "2026-10-28T00:31:19+00:00",
       "author": "The New York Times",
       "description": "A bloc of parties led by the former military chief Gadi Eisenkot is trying to unseat Prime Minister Benjamin Netanyahu and his right-wing allies. Vote counting continues after a day of strong voter turnout.",
       "link": "https://www.nytimes.com/live/2026/10/27/world/israel-elections",
@@ -28,7 +28,7 @@
     {
       "id": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-arab-parties.html",
       "title": "Arab Parties’ Strong Showing May Bring Role in Formation of Israel’s Next Government",
-      "published": "2026-10-28T00:00:53+00:00",
+      "published": "2026-10-28T00:30:05+00:00",
       "author": "Liam Stack",
       "description": "Voters supporting two leading Arab parties turned out in record numbers to voice their opposition to the Netanyahu government.",
       "link": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-arab-parties.html",
@@ -40,11 +40,25 @@
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
+      "id": "https://www.nytimes.com/2026/10/27/world/americas/brazil-flavio-bolsonaro-flees-election.html",
+      "title": "Flávio Bolsonaro Leaves Brazil for the U.S. After Election Defeat",
+      "published": "2026-10-28T00:26:51+00:00",
+      "author": "Ana Ionova, Edward Wong and Thayz Guimarães",
+      "description": "The U.S. plans to issue a visa to Mr. Bolsonaro, a U.S. official said. Brazilian police had asked him to hand over his passports because of his links to an investigation.",
+      "link": "https://www.nytimes.com/2026/10/27/world/americas/brazil-flavio-bolsonaro-flees-election.html",
+      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27int-brazil-bolsonaro-flight-jtzq/27int-brazil-bolsonaro-flight-jtzq-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
       "id": "108467543",
       "title": "Indian investors rush to Nvidia, SpaceX, Apple as local trading apps roll out access to U.S. stocks",
-      "published": "2026-10-28T00:00:20+00:00",
+      "published": "2026-10-28T00:14:24+00:00",
       "author": null,
-      "description": "Major Indian brokerages unlock access to U.S. markets for millions of retail investors",
+      "description": "Major Indian brokerages are providing retail investors access to U.S. stocks at a time when the local market has been battered.",
       "link": "https://www.cnbc.com/2026/10/28/india-us-stocks-retail-access.html",
       "image": "https://image.cnbcfm.com/api/v1/image/108467546-1793083979300-gettyimages-2286903422-avdjuly26lot2j.jpeg?v=1793083990&w=1920&h=1080",
       "feed_name": "CNBC",
@@ -56,9 +70,9 @@
     {
       "id": "https://www.theguardian.com/australia-news/live/2026/oct/28/inflation-abs-labor-anthony-albanese-parliament-greens-david-shoebridge-one-nation-ntwnfb",
       "title": "Politics live: Australia Post chief paid ‘mind-blowing’ bonus; man charged over alleged false Bondi shooting claim",
-      "published": "2026-10-27T23:54:20+00:00",
+      "published": "2026-10-28T00:12:19+00:00",
       "author": "Kat Wong",
-      "description": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Online hate is spilling into the real world, AFP warns AFP Commissioner Krissy Barrett began her late-night appearance at the Senate estimates hearing noting “a heaviness that hangs across Australia” after the alleged attack on independent MP Helen Haines . Lone actors are being motivated by a convergence of personal grievances, mental health vulnerabilities and ideological concerns … What helped keep us saf…",
+      "description": "Get our breaking news email , free app or daily news podcast Online hate is spilling into the real world, AFP warns AFP Commissioner Krissy Barrett began her late-night appearance at the Senate estimates hearing noting “a heaviness that hangs across Australia” after the alleged attack on independent MP Helen Haines . Lone actors are being motivated by a convergence of personal grievances, mental health vulnerabilities and ideological concerns … What helped keep us safe in recent times, such as…",
       "link": "https://www.theguardian.com/australia-news/live/2026/oct/28/inflation-abs-labor-anthony-albanese-parliament-greens-david-shoebridge-one-nation-ntwnfb",
       "image": "https://i.guim.co.uk/img/media/ded625f2f56d2bfbc7f20677b7734b06fc80192c/446_0_4446_3559/master/4446.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=2583a97ba2f2a9e9f5ce630a820a7c59",
       "feed_name": "The Guardian",
@@ -70,7 +84,7 @@
     {
       "id": "108464173",
       "title": "SK Hynix third-quarter profit sharply beats estimates on AI memory boost",
-      "published": "2026-10-27T23:45:49+00:00",
+      "published": "2026-10-28T00:09:17+00:00",
       "author": null,
       "description": "South Korean chipmaker SK Hynix on Wednesday reported its third-quarter earnings.",
       "link": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
@@ -80,6 +94,34 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/28/king-charles-confirms-he-will-discuss-legacy-of-slavery-at-commonwealth-summit",
+      "title": "King Charles to discuss legacy of slavery with Commonwealth leaders at summit",
+      "published": "2026-10-28T00:07:22+00:00",
+      "author": "Natricia Duncan Caribbean correspondent",
+      "description": "Royal tour of Caribbean comes as Commonwealth nations renew calls for Britain to engage in reparation talks King Charles has confirmed he will discuss the legacy of slavery at a summit with Commonwealth leaders as he begins his Caribbean tour. The king arrived in the Bahamas to a ceremonial welcome and attended a youth rally at Clifford Park, the site where the country officially gained its independence from British colonial rule in 1973. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/oct/28/king-charles-confirms-he-will-discuss-legacy-of-slavery-at-commonwealth-summit",
+      "image": "https://i.guim.co.uk/img/media/f25209cc53130959b013089a2e2c4956336fd11d/1440_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7bfb759ffd2f6a8067b353d33ad8f67a",
+      "feed_name": "The Guardian",
+      "feed_title": "World news | The Guardian",
+      "category": "World News",
+      "feed_url": "https://www.theguardian.com/world/rss",
+      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o#2",
+      "title": "Watch: What happens now after close vote in Israeli election?",
+      "published": "2026-10-28T00:04:29+00:00",
+      "author": null,
+      "description": "Polls have closed in the Israeli election, but there is no clear winner.",
+      "link": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c34b/live/eebe6880-d262-11f1-b441-2b33b063138f.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cqn498mng08ro#1",
@@ -122,20 +164,6 @@
       "category": "World News",
       "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
       "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o#2",
-      "title": "Watch: 'No clear winner' in Israel election - what happens now?",
-      "published": "2026-10-27T23:27:13+00:00",
-      "author": null,
-      "description": "Polls have closed in the Israeli election, but there is no clear winner.",
-      "link": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08f4/live/15b45500-d25c-11f1-93e1-3b657b665bcf.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/rest-of-world/flavio-bolsonaro-flees-brazil-after-lula-defeat-us-offers-visas-to-family/articleshow/135247888.cms",
@@ -206,20 +234,6 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/10/27/world/americas/brazil-flavio-bolsonaro-flees-election.html",
-      "title": "Flávio Bolsonaro Leaves Brazil for the U.S. After Election Defeat",
-      "published": "2026-10-27T22:54:13+00:00",
-      "author": "Ana Ionova, Edward Wong and Thayz Guimarães",
-      "description": "The U.S. plans to issue a visa to Mr. Bolsonaro, a U.S. official said. Brazilian police had asked him to hand over his passports because of his links to an investigation.",
-      "link": "https://www.nytimes.com/2026/10/27/world/americas/brazil-flavio-bolsonaro-flees-election.html",
-      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27int-brazil-bolsonaro-flight-jtzq/27int-brazil-bolsonaro-flight-jtzq-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://www.ndtv.com/world-news/un-nuclear-watchdog-chief-urges-iran-to-grant-access-12245792#publisher=newsstand",
@@ -324,7 +338,7 @@
       "title": "Flávio Bolsonaro flees Brazil after presidential election loss, reports say",
       "published": "2026-10-27T22:03:00+00:00",
       "author": "Tiago Rogero in Brasília and Tom Phillips in São Paulo",
-      "description": "Far-right senator en route to US after missing deadline to hand over his passport since loss to Lula The far-right senator Flávio Bolsonaro has reportedly fled Brazil and is on his way to the United States after losing Sunday’s presidential election to the leftwing incumbent, Luiz Inácio Lula da Silva. A report by the news website Metrópoles , citing people close to the politician’s family, said he was en route to the US. “The plane is in flight,” Metrópoles reported, without making clear where…",
+      "description": "Far-right senator en route to US after missing deadline to hand over his passport since loss to Lula The far-right senator Flávio Bolsonaro has reportedly fled Brazil and is on his way to the United States after losing Sunday’s presidential election to the leftwing incumbent, Luiz Inácio Lula da Silva, who called the act “shameful”. A report by the news website Metrópoles , citing people close to the politician’s family, said he was en route to the US. “The plane is in flight,” Metrópoles repor…",
       "link": "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled",
       "image": "https://i.guim.co.uk/img/media/3ef222ab0dad82e1fda7dafb6d9e2ec911a85e26/945_122_2901_2320/master/2901.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=46bc03a6f28938bc88f49b70a81a94dc",
       "feed_name": "The Guardian",

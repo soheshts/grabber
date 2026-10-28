@@ -1,16 +1,30 @@
 {
   "category": "technology",
-  "updated": "2026-10-28T00:03:01.675696+00:00",
-  "count": 758,
+  "updated": "2026-10-28T00:33:29.320967+00:00",
+  "count": 759,
   "summary": {
-    "text": "• Apple refreshed the iMac and entry-level MacBook Pro with the M6 chip; the N1 chip brings Wi-Fi 7.\n• Some new iPhone Duo foldables reportedly have broken inner screens, possibly tied to the hinge.\n• Ford's $28,350 Fathom electric truck will offer built-in bidirectional home charging up to 10 kW.\n• AT&T is paying its $177 million data breach settlement; claims filed by Dec. 18, 2025 may get checks up to $7,500.",
-    "generated_at": "2026-10-27T23:33:13.681814+00:00",
+    "text": "• CNET News reports a 20-minute Peloton ride featuring astronaut Jessica Meir.\n• The ride teaches viewers about exercise in space.\n• The article describes the workout as unlike anything else.",
+    "generated_at": "2026-10-28T00:33:29.320967+00:00",
     "window_minutes": 60,
-    "item_count": 6,
-    "key": "0efa64d0dc55689e1710fafff7ff174528213884",
+    "item_count": 1,
+    "key": "5d1de22bde92f60c72c816a2a34aa89dd78b5f21",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "5117307",
+      "title": "Houston, We Have a Workout: Watch This Peloton Ride With Astronaut Jessica Meir",
+      "published": "2026-10-28T00:10:23+00:00",
+      "author": "Joe Hindy",
+      "description": "This 20-minute Peloton ride teaches you about exercise in space, and it’s unlike anything else.",
+      "link": "https://www.cnet.com/science/space/astronaut-jessica-meir-peloton-ride-iss-robin-arzon/",
+      "image": "https://www.cnet.com/wp-content/uploads/sites/2/Peloton-Ride-Robin-Arzon-Jessica-Meir.jpg",
+      "feed_name": "CNET News",
+      "feed_title": "News – CNET",
+      "category": "technology",
+      "feed_url": "https://www.cnet.com/rss/news/",
+      "feed_icon": "https://www.cnet.com/wp-content/uploads/sites/2/cropped-favicon-480.png?w=32"
+    },
     {
       "id": "https://www.engadget.com/2299126/discord-server-messages-google-searchable-opt-out/",
       "title": "Discord public server messages may be soon searchable on Google, but you can opt out",

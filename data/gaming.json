@@ -1,13 +1,13 @@
 {
   "category": "gaming",
-  "updated": "2026-10-28T00:03:01.675696+00:00",
-  "count": 554,
+  "updated": "2026-10-28T00:33:29.320967+00:00",
+  "count": 556,
   "summary": {
-    "text": "• Monarchs at Play, a 4X strategy city-builder built around chaining hexagonal tiles, is pitched as a game that takes only about an hour of your day, per Rock, Paper, Shotgun.",
-    "generated_at": "2026-10-27T23:33:13.681814+00:00",
+    "text": "• Polygon highlights five adult fairy tale books full of wizards, fae, and dangerous quests.\n• IGN reports the 2026 55\" LG Evo C6 4K OLED TV has dropped to Black Friday pricing, with a free Xbox controller included.",
+    "generated_at": "2026-10-28T00:33:29.320967+00:00",
     "window_minutes": 60,
-    "item_count": 1,
-    "key": "622fbd10dd79def87878bc3182273824a127f9ad",
+    "item_count": 2,
+    "key": "85bd1db056e3bd311c72abdec2f377966ed67a1d",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
@@ -24,6 +24,34 @@
       "category": "gaming",
       "feed_url": "https://www.polygon.com/rss/index.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.polygon.com&sz=64"
+    },
+    {
+      "id": "77c6c31d-cf64-4595-a8eb-9d32bd6df572",
+      "title": "The 2026 55\" LG Evo C6 4K OLED TV Drops to Black Friday Pricing Plus Get a Free Xbox Controller",
+      "published": "2026-10-28T00:00:00+00:00",
+      "author": "Eric Song",
+      "description": "The best gaming TV paired with one of the best gaming controllers.",
+      "link": "https://www.ign.com/articles/lg-evo-c6-4k-oled-tv-deal-free-xbox-controller-october-2026",
+      "image": "https://assets-prd.ignimgs.com/2026/10/27/lgc6xbox-1793144438942.jpg",
+      "feed_name": "IGN All",
+      "feed_title": "IGN Articles",
+      "category": "gaming",
+      "feed_url": "http://feeds.ign.com/ign/all",
+      "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
+    },
+    {
+      "id": "9f8f45c7-785a-434c-9214-52a55d02a99b",
+      "title": "Masahiro Sakurai Shrugs Off AI Games as ‘Unprofitable Titles’ as Clones and Mods Boom",
+      "published": "2026-10-27T23:27:51+00:00",
+      "author": "Virginia Glaze",
+      "description": "Super Smash Bros creator Masahiro Sakurai explained why the boom in AI-created games isn’t likely to create a lasting demand for such projects, comparing them to “low-quality goods” that could never compare to human-made titles like Shadow of the Colossus.",
+      "link": "https://www.ign.com/articles/masahiro-sakurai-shrugs-off-ai-games-as-unprofitable-titles-as-clones-and-mods-boom",
+      "image": "https://assets-prd.ignimgs.com/2026/10/27/sakurai-on-ai-games-1793143480248.jpg",
+      "feed_name": "IGN All",
+      "feed_title": "IGN Articles",
+      "category": "gaming",
+      "feed_url": "http://feeds.ign.com/ign/all",
+      "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
     },
     {
       "id": "https://www.rockpapershotgun.com/monarchs-at-play-is-a-4x-strategy-city-builder-about-chaining-hexagonal-tiles-that-only-takes-an-hour-out-of-your-day",
