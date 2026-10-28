@@ -1,20 +1,20 @@
 {
   "category": "travel",
-  "updated": "2026-10-28T18:32:21.920119+00:00",
+  "updated": "2026-10-28T19:02:33.386244+00:00",
   "count": 77,
   "summary": {
-    "text": "• Atlas Obscura features the Arden Point and Glenclyffe hiking trail in Philipstown, New York.\n• The trail starts at the Metro-North Garrison train station.\n• Its first leg passes what appears to be an abandoned building entrance; the item's description is cut off there.",
-    "generated_at": "2026-10-28T18:03:54.534283+00:00",
+    "text": "• An \"endless\" round-the-world cruise has been suspended, leaving passengers stranded.\n• The cruise was marketed as a lifetime of sailing at a cost lower than living on land.\n• It was reportedly underfunded and could not absorb rising fuel costs.",
+    "generated_at": "2026-10-28T19:02:33.386244+00:00",
     "window_minutes": 60,
     "item_count": 1,
-    "key": "b707f56e31b3f5e0a49755e4fe901f2ee9535fda",
+    "key": "286b2331270f217849fa6da27f34d69a1659afd2",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
     {
       "id": "https://www.nytimes.com/2026/10/28/travel/endless-cruise-suspended-villa-vie-passengers.html",
       "title": "An ‘Endless’ Cruise Around the World Is Suspended, Leaving Passengers Stranded",
-      "published": "2026-10-28T18:24:49+00:00",
+      "published": "2026-10-28T18:34:16+00:00",
       "author": "Ceylan Yeğinsu",
       "description": "The cruise promised a lifetime of sailing, for less than what it cost to live on land. But it was underfunded and couldn’t absorb the rising cost of fuel.",
       "link": "https://www.nytimes.com/2026/10/28/travel/endless-cruise-suspended-villa-vie-passengers.html",
