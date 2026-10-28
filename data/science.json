@@ -1,16 +1,58 @@
 {
   "category": "science",
-  "updated": "2026-10-28T17:03:28.240830+00:00",
-  "count": 648,
+  "updated": "2026-10-28T17:33:30.971280+00:00",
+  "count": 652,
   "summary": {
-    "text": "• Islands cover 7% of land but hold nearly 20% of biodiversity, yet conservation often overlooks them.\n• A statistical study estimates three in four retired NFL players likely had CTE at death.\n• Aarhus University used AI to help an NMR spectrometer learn to detect weak molecular signals.\n• Hydrogen, the universe's most common element, has been made in a flask despite being scarce on Earth.\n• McGill researchers found a vesicle type released by migrating cancer cells, which may explain spread.",
-    "generated_at": "2026-10-28T17:03:28.240830+00:00",
+    "text": "• Yeast paired with electricity converts CO₂ into a chemical used in biodegradable plastics.\n• Islands cover 7% of land but harbor nearly 20% of biodiversity, yet are overlooked in conservation plans.\n• Elementary school homework may reinforce inequality by favoring families with more time and resources.\n• US health secretary Kennedy will allow broad use of unapproved peptide injections, despite FDA advice.\n• Aarhus researchers used AI to help an NMR spectrometer learn weak signals; hydrogen was made in a flask.",
+    "generated_at": "2026-10-28T17:33:30.971280+00:00",
     "window_minutes": 60,
     "item_count": 7,
-    "key": "a8744eace715a450b7522715f38e98dc5961d5ad",
+    "key": "e0b0185bf4c5c2b037d9133735e9794ce60ba3ba",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "news712410781",
+      "title": "Yeast paired with electricity can convert CO₂ into a chemical used in biodegradable plastics",
+      "published": "2026-10-28T17:20:10+00:00",
+      "author": null,
+      "description": "To limit further climate change, researchers are exploring technologies that can convert atmospheric carbon dioxide (CO₂) into useful products. In collaboration with BOKU University in Vienna (Austria), researchers at the Helmholtz Centre for Environmental Research (UFZ) have demonstrated that electrochemical and microbial processes can be combined to capture CO₂ and produce itaconic acid, a bio-based chemical used in industry. According to the researchers, this new process demonstrates how CO₂…",
+      "link": "https://phys.org/news/2026-10-yeast-paired-electricity-chemical-biodegradable.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/yeast-and-electricity.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "news712405398",
+      "title": "Elementary school homework could be reinforcing educational inequality, study suggests",
+      "published": "2026-10-28T17:20:02+00:00",
+      "author": null,
+      "description": "Homework set by elementary schools could be reinforcing educational inequalities by rewarding families who have more time and resources to spend helping their children, new research from the University of Manchester suggests.",
+      "link": "https://phys.org/news/2026-10-elementary-school-homework-inequality.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/elementary-school-1.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/28/health/peptides-kennedy-fda.html",
+      "title": "Kennedy to Allow Broad Use of Unapproved Peptide Injections",
+      "published": "2026-10-28T17:05:04+00:00",
+      "author": "Christina Jewett",
+      "description": "In a unilateral declaration by the health secretary, several injections promoted by online influencers will become widely available. The F.D.A. had advised against the move.",
+      "link": "https://www.nytimes.com/2026/10/28/health/peptides-kennedy-fda.html",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/00DC-Peptides-mpjh/00DC-Peptides-mpjh-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Science",
+      "feed_title": "NYT > Science",
+      "category": "science",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "news712410361",
       "title": "Islands harbor nearly 20% of Earth's biodiversity, yet remain overlooked in conservation strategies",
@@ -262,6 +304,20 @@
       "category": "science",
       "feed_url": "https://pa.tedcdn.com/feeds/talks.rss",
       "feed_icon": "https://assets.pippa.io/shows/67587e77c705e441797aff96/show-cover.png"
+    },
+    {
+      "id": "https://www.scientificamerican.com/article/landmark-study-finds-three-in-four-nfl-players-die-with-cte/",
+      "title": "Landmark study finds three in four NFL players die with CTE",
+      "published": "2026-10-28T15:00:00+00:00",
+      "author": null,
+      "description": "The staggering new estimate is based on an analysis of thousands of former players’ medical records",
+      "link": "https://www.scientificamerican.com/article/landmark-study-finds-three-in-four-nfl-players-die-with-cte/",
+      "image": "https://static.scientificamerican.com/dam/asset/98b891c6-9c45-4b16-9834-f74e39b1e600/football-helmet.jpg?m=1793199576.231&w=1200",
+      "feed_name": "Scientific American Content: Global",
+      "feed_title": "Scientific American Content: Global",
+      "category": "science",
+      "feed_url": "http://rss.sciam.com/ScientificAmerican-Global",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.scientificamerican.com&sz=64"
     },
     {
       "id": "news712393636",
@@ -6145,7 +6201,7 @@
     },
     {
       "id": "https://www.scientificamerican.com/article/why-partisan-politics-may-be-changing-peoples-accents/",
-      "title": "Why partisan politics may be changing people's accents",
+      "title": "Why partisan politics may be changing people’s accents",
       "published": "2026-10-25T10:00:00+00:00",
       "author": null,
       "description": "With the midterms fast approaching, communicating just the right message has been top of mind on all sides of the political aisle",
@@ -6677,10 +6733,10 @@
     },
     {
       "id": "https://www.scientificamerican.com/article/meet-the-original-ghost-busters-the-17th-century-scientists-who-investigated-hauntings/",
-      "title": "Meet the original 'Ghost Busters'—the 17th-century scientists who investigated hauntings",
+      "title": "Meet the original Ghost Busters—the 17th-century scientists who investigated hauntings",
       "published": "2026-10-24T11:00:00+00:00",
       "author": null,
-      "description": "They weren't afraid of no ghost",
+      "description": "They weren’t afraid of no ghost",
       "link": "https://www.scientificamerican.com/article/meet-the-original-ghost-busters-the-17th-century-scientists-who-investigated-hauntings/",
       "image": null,
       "feed_name": "Scientific American Content: Global",
