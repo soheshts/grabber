@@ -1,7 +1,7 @@
 {
   "category": "DIY",
-  "updated": "2026-10-28T21:03:46.614255+00:00",
-  "count": 290,
+  "updated": "2026-10-28T21:33:09.490962+00:00",
+  "count": 291,
   "summary": {
     "text": "• Software tips: four Photoshop plugins that smooth workflows, and five Google Maps companion apps that fill its biggest gaps.\n• Tool deal: DeWalt's 6-tool cordless combo kit is $370 off, with batteries, charger, and toolbox included.\n• Home theater: blinding white HDR subtitles can dominate dark scenes and cause mini LED bloom during evening viewing.",
     "generated_at": "2026-10-28T21:03:46.614255+00:00",
@@ -11,6 +11,20 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.howtogeek.com/these-mistakes-can-turn-pi-hole-into-least-secure-part-your-home-network/",
+      "title": "These 6 mistakes can turn Pi-hole into the least secure part of your home network",
+      "published": "2026-10-28T21:30:14+00:00",
+      "author": "Umair Khurshid",
+      "description": "Nothing says peace of mind like discovering your favorite privacy tool has a few secrets of its own!",
+      "link": "https://www.howtogeek.com/these-mistakes-can-turn-pi-hole-into-least-secure-part-your-home-network/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/07/pi-hole-dashboard-query-log-advanced-filtering-no-data-available.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/photoshop-plugins-so-essential-they-should-be-built-in/",
       "title": "4 Photoshop plugins so essential they should be built-in",

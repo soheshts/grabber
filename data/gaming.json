@@ -1,7 +1,7 @@
 {
   "category": "gaming",
-  "updated": "2026-10-28T21:03:46.614255+00:00",
-  "count": 703,
+  "updated": "2026-10-28T21:33:09.490962+00:00",
+  "count": 708,
   "summary": {
     "text": "• Epic Games has confirmed it is expanding its generative AI push across its products, including Fortnite and the next version of Unreal Engine.\n• Per a quoted statement, Epic's engineers are \"no longer writing the bulk of the code.\"\n• Eurogamer describes the technology as controversial, but the item is truncated, so further details are unavailable.",
     "generated_at": "2026-10-28T21:03:46.614255+00:00",
@@ -11,6 +11,62 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.polygon.com/larian-dragon-age-takeover-bad-idea/",
+      "title": "The Case Against Larian Saving Dragon Age, No Matter How Tempting It Sounds",
+      "published": "2026-10-28T21:27:38+00:00",
+      "author": "Rebecca Corgan",
+      "description": "Fans want Larian to take over Dragon Age after BioWare’s closure. Here’s why Larian’s own plans, Dragon Age’s DNA, and EA all say no",
+      "link": "https://www.polygon.com/larian-dragon-age-takeover-bad-idea/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/2339608/Dragon-Age-Inquisition-Game-Wallpaper-1409354347233.0.jpg",
+      "feed_name": "Polygon -  All",
+      "feed_title": "Polygon.com",
+      "category": "gaming",
+      "feed_url": "https://www.polygon.com/rss/index.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.polygon.com&sz=64"
+    },
+    {
+      "id": "https://kotaku.com/?p=2000750607",
+      "title": "Xbox’s First Report Card Following Its Big ‘Reset’ Looks A Lot Like All The Others",
+      "published": "2026-10-28T21:13:31+00:00",
+      "author": "Rebekah Valentine",
+      "description": "Hardware down",
+      "link": "https://kotaku.com/xboxs-first-report-card-following-its-big-reset-looks-a-lot-like-all-the-others-2000750607",
+      "image": "https://kotaku.com/app/uploads/2026/05/xbox-logo.jpg",
+      "feed_name": "Kotaku",
+      "feed_title": "Kotaku",
+      "category": "gaming",
+      "feed_url": "https://kotaku.com/rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=kotaku.com&sz=64"
+    },
+    {
+      "id": "73e8fc55-a185-46e0-a147-a6e4ee8f07bc",
+      "title": "Football Fans Share Their Visceral Reactions to Nicolas Cage’s John Madden: ‘A Disgraceful Portrayal of a Great Man’",
+      "published": "2026-10-28T21:00:10+00:00",
+      "author": "Jim Vejvoda",
+      "description": "NFL fans expressed some pretty heated responses on social media to the first clip of Nicolas Cage in the upcoming movie Madden, where the Oscar winner portrays the legendary football TV commentator John Madden.",
+      "link": "https://www.ign.com/articles/nicolas-cage-madden-movie-fan-reactions",
+      "image": "https://assets-prd.ignimgs.com/2026/10/28/nicolas-cage-john-madden-and-joel-murray-1280-1793218952997.jpg",
+      "feed_name": "IGN All",
+      "feed_title": "IGN Articles",
+      "category": "gaming",
+      "feed_url": "http://feeds.ign.com/ign/all",
+      "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
+    },
+    {
+      "id": "2ee0abe3-bf39-43f6-b020-a7aa842f4aba",
+      "title": "Ali G: Who Iz I? Review",
+      "published": "2026-10-28T20:08:54+00:00",
+      "author": "Scott Collura",
+      "description": "Sacha Baron Cohen’s attempt to resurrect Ali G goes disastrously off the rails, with barely a joke to be found.",
+      "link": "https://www.ign.com/articles/ali-g-who-iz-i-review",
+      "image": "https://assets-prd.ignimgs.com/2026/10/28/ali-g-who-iz-i-thumb-1793217850931.jpg",
+      "feed_name": "IGN All",
+      "feed_title": "IGN Articles",
+      "category": "gaming",
+      "feed_url": "http://feeds.ign.com/ign/all",
+      "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
+    },
     {
       "id": "https://www.eurogamer.net/epic-genai-fortnite-unreal-engine-6-no-longer-writing-code",
       "title": "Epic Games further doubles down on gen-AI tools for Fortnite, Unreal Engine 6 and more: \"Our engineers are no longer writing the bulk of the code\"",
@@ -24,6 +80,20 @@
       "category": "gaming",
       "feed_url": "https://www.eurogamer.net/?format=rss",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.eurogamer.net&sz=64"
+    },
+    {
+      "id": "aa73b6f3-06c2-4ec9-9820-1a779871111c",
+      "title": "Wendy's Is Making a Turn-Based RPG and It Actually Looks Really Good",
+      "published": "2026-10-28T20:05:39+00:00",
+      "author": "Virginia Glaze",
+      "description": "Wendy’s — yes, the American fast food chain — is releasing a surprisingly gorgeous, pixelated, turn-based RPG on Steam, and the internet is legitimately stunned by how good it looks.",
+      "link": "https://www.ign.com/articles/wendys-is-making-a-turn-based-rpg-and-it-actually-looks-really-good",
+      "image": "https://assets-prd.ignimgs.com/2026/10/28/wendys-makes-turn-based-rpg-1793217651123.jpg",
+      "feed_name": "IGN All",
+      "feed_title": "IGN Articles",
+      "category": "gaming",
+      "feed_url": "http://feeds.ign.com/ign/all",
+      "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
     },
     {
       "id": "fbad5fb5-bbb7-4f36-b6cd-ae5f3597e495",
@@ -153,7 +223,7 @@
     },
     {
       "id": "https://kotaku.com/?p=2000750543",
-      "title": "Gorgeous Stardew Valley For Witches Cozy Sim Finally Has A Release Date After 10 Years Of Waiting",
+      "title": "Gorgeous Stardew Valley With Magic Cozy Sim Witchbrook Finally Has A Release Date After 10 Years Of Waiting",
       "published": "2026-10-28T19:00:10+00:00",
       "author": "Ash Parrish",
       "description": "Chucklefish is finally ready for players to hop into Witchbrook",
@@ -517,7 +587,7 @@
     },
     {
       "id": "https://kotaku.com/?p=2000750512",
-      "title": "Everything You Need To Know About The Legend Of Zelda: Ocarina Of Time Pre-Orders",
+      "title": "How To Get The Foil Cover Zelda: Ocarina Of Time And Its Impossible-To-Find Special Edition Switch 2 Console",
       "published": "2026-10-28T17:10:40+00:00",
       "author": "Ash Parrish",
       "description": "Nintendo's going all out with a special console, Pro Controller, carrying case, and a special-edition foil game box. Good luck getting any of them",

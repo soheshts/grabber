@@ -1,7 +1,7 @@
 {
   "category": "science",
-  "updated": "2026-10-28T21:03:46.614255+00:00",
-  "count": 679,
+  "updated": "2026-10-28T21:33:09.490962+00:00",
+  "count": 682,
   "summary": {
     "text": "• Wildlife: MBARI filmed a rare barreleye fish in 4K, and the identity of an extinct giant crane was solved.\n• Space: A Nobel laureate explained neutrinos, while researchers mapped the sun's outer magnetic field in 3D.\n• Tech: Weather drones may improve winter storm forecasts, and a new tissue atlas aims to help AI understand cancer.\n• Culture: Medieval ghost stories featured rotting flesh, the walking dead, and spoon-stealing spirits.",
     "generated_at": "2026-10-28T21:03:46.614255+00:00",
@@ -11,6 +11,48 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "news712425961",
+      "title": "Could next-gen artificial intelligence help map out future space outposts?",
+      "published": "2026-10-28T21:30:01+00:00",
+      "author": null,
+      "description": "Planning a successful trip can be challenging, especially when your destination is in outer space. Even before liftoff, space missions require extraordinary amounts of scientific preparation and data analysis to succeed, which can take years to complete. However, as space agencies race to establish a permanent presence on the moon, using artificial intelligence to combine such information into a single system could make mission planning much more efficient.",
+      "link": "https://phys.org/news/2026-10-gen-artificial-intelligence-future-space.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/earth-from-the-moon.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "news712419782",
+      "title": "Same radical, different paths: X-ray snapshots reveal how neighboring molecules shape its movement",
+      "published": "2026-10-28T21:20:13+00:00",
+      "author": null,
+      "description": "Chemical reactions have their own \"impatient molecules.\" Unable to stay still even for a moment, they latch onto other molecules indiscriminately. Researchers have now found that even these molecules change where they \"sit\" and how far they roam depending on who their neighbors are. The findings are expected to help scientists make better medicines and materials by directing reactions only to the desired sites.",
+      "link": "https://phys.org/news/2026-10-radical-paths-ray-snapshots-reveal.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-same-radicalso-why-1.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "news712424914",
+      "title": "Schools increasingly affected by poor air quality as wildfire smoke becomes more common",
+      "published": "2026-10-28T21:20:09+00:00",
+      "author": null,
+      "description": "American children are increasingly exposed to air pollution as wildfire smoke becomes more common, and some schools and child care centers struggle to keep indoor breathing conditions clean, a new national study shows.",
+      "link": "https://phys.org/news/2026-10-schools-affected-poor-air-quality.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/schools-increasingly-a.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
     {
       "id": "news712413005",
       "title": "Medieval ghost stories featured rotten flesh, the walking dead and spoon‑stealing spirits",
