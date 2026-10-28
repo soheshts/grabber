@@ -1,16 +1,86 @@
 {
   "category": "science",
-  "updated": "2026-10-28T13:33:33.139297+00:00",
-  "count": 607,
+  "updated": "2026-10-28T14:03:46.818884+00:00",
+  "count": 611,
   "summary": {
-    "text": "• Consumer searches for \"cyclospora\" coincide with lower bagged salad sales, as the U.S. logged about 20,000 confirmed cases this year, a CDC high.\n• Ants prioritize brain energy during starvation, echoing a pattern seen in humans. A new feed supplement addresses honey bee declines affecting Washington blueberry pollination.\n• Livelihood and education goals shape migration choices under climate-driven hazards, a new study finds.\n• A probable new dwarf planet, 2026 ED138, was spotted beyond Pluto, an early find of Chile's Vera C. Rubin Observatory.",
-    "generated_at": "2026-10-28T13:03:48.155783+00:00",
+    "text": "• Chemists at Würzburg University isolated long-elusive molecules with boron-oxygen triple bonds, reported in Nature Chemistry.\n• Amber fossils show an ancient Australian landmass helped seed Southeast Asia's tropical forests.\n• A strong 2026 El Niño is driving Indonesian peat fires, polluting the air and releasing centuries of stored carbon.\n• Tibetan Plateau frozen ground is gaining ice despite warming about twice the global average.\n• Earwax's slippery yet sticky texture may inspire safer insect repellents.",
+    "generated_at": "2026-10-28T14:03:46.818884+00:00",
     "window_minutes": 60,
-    "item_count": 5,
-    "key": "fa0a0c3289846739f42d7f44ab7e310a6801f334",
+    "item_count": 9,
+    "key": "7c8524cf77dafeddb9022103cae620eedeb11819",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "news712398602",
+      "title": "A 60-year search is over: Chemists isolate long-elusive molecules with boron-oxygen triple bonds",
+      "published": "2026-10-28T14:00:06+00:00",
+      "author": null,
+      "description": "In a new publication in the journal Nature Chemistry, chemists in professor Holger Braunschweig's team at the University of Würzburg, supported by computational work from the team of professor Ashwini K. Phukan at Tezpur University in India, detail their discovery of a method for preparing and isolating a range of surprisingly stable oxoboranes—a challenge that has stood for over 60 years.",
+      "link": "https://phys.org/news/2026-10-year-chemists-isolate-elusive-molecules.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-60-year-search-is-ov.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "news712393398",
+      "title": "Earwax is both slippery and sticky—this weird combo might lead to safer insect repellents",
+      "published": "2026-10-28T14:00:01+00:00",
+      "author": null,
+      "description": "What has the consistency of both toothpaste and dough, can absorb twice its weight in water and still remain sticky, was used by medieval artists as a binder in paint and has been hypothesized by physicians to repel insects? It's earwax.",
+      "link": "https://phys.org/news/2026-10-earwax-slippery-sticky-weird-combo.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/earwax-is-both-slipper.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "news712397281",
+      "title": "Amber fossils reveal how ancient Australian landmass helped seed Southeast Asia's tropical forests",
+      "published": "2026-10-28T13:40:11+00:00",
+      "author": null,
+      "description": "A landmass that broke away from northwestern Australia about 150 million years ago and drifted north for the next 100 million years helped lay the foundations for Southeast Asia's extraordinarily diverse tropical forests, new research has revealed.",
+      "link": "https://phys.org/news/2026-10-amber-fossils-reveal-ancient-australian.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ancient-australian-lan.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "news712393040",
+      "title": "Indonesia's El Niño–driven peat fires are choking the region—and releasing centuries of stored carbon",
+      "published": "2026-10-28T13:40:01+00:00",
+      "author": null,
+      "description": "Right now, people in parts of Indonesia are inhaling what may be the most polluted atmosphere on Earth. As the historically large 2026 El Niño intensifies, parts of Southeast Asia have been plunged into an air quality crisis of catastrophic proportions.",
+      "link": "https://phys.org/news/2026-10-indonesia-el-niodriven-peat-region.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/indonesias-el-niodrive.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/28/us/politics/trump-opioid-kratom.html",
+      "title": "Trump Administration Backs Down on an Opioid Ban After Kratom Industry Lobbying",
+      "published": "2026-10-28T13:36:30+00:00",
+      "author": "Christina Jewett",
+      "description": "Health officials will now allow some levels of a powerful substance to remain in products marketed as natural. The change could help a G.O.P. donor facing wrongful death lawsuits.",
+      "link": "https://www.nytimes.com/2026/10/28/us/politics/trump-opioid-kratom.html",
+      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/00dc-kratom-top-lhgf/00dc-kratom-top-lhgf-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Science",
+      "feed_title": "NYT > Science",
+      "category": "science",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "news712392919",
       "title": "National parenting support strategy could strengthen Australia's efforts to protect children",
@@ -248,20 +318,6 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/10/28/us/politics/trump-opioid-kratom.html",
-      "title": "Trump Administration Backs Down on an Opioid Ban After Kratom Industry Lobbying",
-      "published": "2026-10-28T11:19:51+00:00",
-      "author": "Christina Jewett",
-      "description": "Health officials will now allow some levels of a powerful substance to remain in products marketed as natural. The change could help a G.O.P. donor facing wrongful death lawsuits.",
-      "link": "https://www.nytimes.com/2026/10/28/us/politics/trump-opioid-kratom.html",
-      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/00dc-kratom-top-lhgf/00dc-kratom-top-lhgf-mediumSquareAt3X.jpg",
-      "feed_name": "NYT > Science",
-      "feed_title": "NYT > Science",
-      "category": "science",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://www.sciencedaily.com/releases/2026/10/261026225610.htm",
@@ -844,6 +900,20 @@
       "author": "Jonathan O’Callaghan",
       "description": "Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03476-3 A marked rise in submissions for the European Research Council’s grants is pushing down success rates.",
       "link": "https://www.nature.com/articles/d41586-026-03476-3",
+      "image": null,
+      "feed_name": "Nature",
+      "feed_title": "Nature",
+      "category": "science",
+      "feed_url": "https://www.nature.com/nature.rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=feeds.nature.com&sz=64"
+    },
+    {
+      "id": "https://www.nature.com/articles/d41586-026-03107-x",
+      "title": "Where have all the saucers flown?",
+      "published": "2026-10-28T00:00:00+00:00",
+      "author": "Jeff Hecht",
+      "description": "Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03107-x Missed encounters.",
+      "link": "https://www.nature.com/articles/d41586-026-03107-x",
       "image": null,
       "feed_name": "Nature",
       "feed_title": "Nature",
@@ -8494,20 +8564,6 @@
       "category": "science",
       "feed_url": "https://podcasts.files.bbci.co.uk/p002w557.rss",
       "feed_icon": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0p7r0yl.jpg"
-    },
-    {
-      "id": "b27f54c6-92cc-42ff-8fb3-a330e579e8bb",
-      "title": "How to Make a Difference: Part 2",
-      "published": "2026-09-28T14:00:00+00:00",
-      "author": "Hidden Brain Media",
-      "description": "Think about the last time you had a discouraging thought. Maybe you told yourself, \"This won't work. I'm not cut out for this.\" Did you take that thought as fact? Last week, we talked with psychologist Martin Seligman about why some people come to believe that their actions don’t matter. In the second part of our conversation, he explains how we can strengthen our sense of agency, learn to see new possibilities, and build confidence in our ability to shape what happens next.",
-      "link": "https://www.hiddenbrain.org/",
-      "image": null,
-      "feed_name": "Hidden Brain",
-      "feed_title": "Hidden Brain",
-      "category": "science",
-      "feed_url": "https://feeds.npr.org/510308/podcast.xml",
-      "feed_icon": "https://image.simplecastcdn.com/images/5982e1b7-239c-4b89-81f9-49df1f33fdae/dd71b17c-82bb-441d-a979-e16975aebc1c/3000x3000/hbtilewshankarfinal_rgbsimplecast.jpg?aid=rss_feed"
     }
   ]
 }

@@ -1,16 +1,44 @@
 {
   "category": "DIY",
-  "updated": "2026-10-28T13:33:33.139297+00:00",
-  "count": 251,
+  "updated": "2026-10-28T14:03:46.818884+00:00",
+  "count": 253,
   "summary": {
-    "text": "• Apple Watch can now record conversations with one tap and sync searchable transcripts, summaries, and tasks across devices.\n• A Google TV secret menu is highlighted as a useful feature most people never open.\n• A test of two 4Ah Ryobi batteries under identical conditions examines what the four-bar charge indicator really means.\n• How-To Geek lists five smart home automations that need only a motion sensor.",
-    "generated_at": "2026-10-28T13:03:48.155783+00:00",
+    "text": "• Kinect reuse: The Xbox Kinect, which failed as a gaming accessory, is described as very useful even without an Xbox.\n• 3D printing shift: One writer stopped printing \"clever\" projects and now targets practical items like replacement shells and tiny mounts, saying the prints save money.\n• Home audio: A soundbar switched from optical to HDMI reportedly delivered real Dolby Atmos sound.\n• iPhone accessories: A list of 13 things that can connect to an iPhone's USB-C port beyond charging.",
+    "generated_at": "2026-10-28T14:03:46.818884+00:00",
     "window_minutes": 60,
     "item_count": 4,
-    "key": "0df8d2e7a22b862acbdd46f03376c22ca43be90b",
+    "key": "70f6720609a34343e7c0087e188a1bdc96a8adf3",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.makeuseof.com/xbox-kinect-failed-as-gaming-accessory-but-ridiculously-useful-without-xbox/",
+      "title": "The Xbox Kinect failed as a gaming accessory, but it's ridiculously useful without an Xbox",
+      "published": "2026-10-28T14:00:17+00:00",
+      "author": "Mahnoor Faisal",
+      "description": "Who said you need an Xbox to use a Kinect?",
+      "link": "https://www.makeuseof.com/xbox-kinect-failed-as-gaming-accessory-but-ridiculously-useful-without-xbox/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/xbox-360-kinect-on-a-desk-beside-a-macbook-showing-a-claude-code-terminal-under-pink-light.jpeg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/i-stopped-3d-printing-clever-projects-and-now-my-prints-actually-save-me-money/",
+      "title": "I stopped 3D printing \"clever\" projects, and now my prints actually save me money",
+      "published": "2026-10-28T14:00:16+00:00",
+      "author": "Sydney Butler",
+      "description": "A practical pivot from tinkering to targeted projects, printing replacement shells and tiny mounts that fit perfectly.",
+      "link": "https://www.howtogeek.com/i-stopped-3d-printing-clever-projects-and-now-my-prints-actually-save-me-money/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2025/03/the-elegoo-centauri-carbon-with-numerous-printed-models-in-front-of-it.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/i-switched-my-soundbar-from-optical-to-hdmi-and-finally-got-real-dolby-atmos/",
       "title": "I switched my soundbar from optical to HDMI and finally got real Dolby Atmos",
@@ -88,7 +116,7 @@
       "author": "Adam Davidson",
       "description": "Stop going through the motions.",
       "link": "https://www.howtogeek.com/smart-home-automations-require-nothing-but-a-motion-sensor/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/02/a-motion-sensor-pointing-across-the-threshold-of-a-doorway-into-a-room.png",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/img_3368.avif",
       "feed_name": "How-To Geek",
       "feed_title": "How-To Geek",
       "category": "DIY",

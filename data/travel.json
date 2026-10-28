@@ -1,9 +1,30 @@
 {
   "category": "travel",
-  "updated": "2026-10-28T13:33:33.139297+00:00",
-  "count": 73,
-  "summary": null,
+  "updated": "2026-10-28T14:03:46.818884+00:00",
+  "count": 74,
+  "summary": {
+    "text": "• Baltimore County's NCR Trail is a popular destination for running, walking, biking, and tubing access.\n• Gnome Hill, a unique and colorful landmark, sits less than one mile north of White Hall, Maryland, near the trail.\n• Only one travel item was published in the last hour, and its description is cut off, so further details are unavailable.",
+    "generated_at": "2026-10-28T14:03:46.818884+00:00",
+    "window_minutes": 60,
+    "item_count": 1,
+    "key": "b1e853bbc928d9e6d99bb1ab564ebd258fe8f821",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "https://www.atlasobscura.com/places/gnome-hill",
+      "title": "Gnome Hill in White Hall, Maryland",
+      "published": "2026-10-28T14:00:00+00:00",
+      "author": null,
+      "description": "Baltimore County's NCR Trail is a popular destination for running, walking, biking, and even tubing access. But it's also gnome to a unique and colorful landmark. Less than one mile north of the White Hall NCR Trail parking lot sits a small hill covered in gnomes, and gnome puns. The owner of the property estimates that Gnome Hill has been around for over 20 years, but says that it really gained momentum around 2020. Now, people frequently leave new figures for him to repair and add to the coll…",
+      "link": "https://www.atlasobscura.com/places/gnome-hill",
+      "image": "https://img.atlasobscura.com/jFXQchY0_ogFTgtBUNUCUT44XdhpJl0z_USCVAhwVO0/rs:fill:300:200:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy81ZDFh/YTA0Zi0yYTlkLTQz/MzMtYmRhZS1mZDY1/ZjFkMTk0ZGQ2OWU0/Nzg5NjA0MTkyYWQy/ZTVfMjAyNjA5MjBf/MTA1NTI4LmpwZw.jpg",
+      "feed_name": "Atlas Obscura - Latest Articles and Places",
+      "feed_title": "Atlas Obscura - Latest Articles and Places",
+      "category": "travel",
+      "feed_url": "https://www.atlasobscura.com/feeds/latest",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.atlasobscura.com&sz=64"
+    },
     {
       "id": "https://www.nytimes.com/2026/10/28/world/americas/mexico-seaweed-navy.html",
       "title": "The Ocean ‘Was the Color of Chocolate.’ Mexico Declares War on Seaweed.",
