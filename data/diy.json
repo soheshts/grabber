@@ -1,7 +1,7 @@
 {
   "category": "DIY",
-  "updated": "2026-10-28T13:03:48.155783+00:00",
-  "count": 249,
+  "updated": "2026-10-28T13:33:33.139297+00:00",
+  "count": 251,
   "summary": {
     "text": "• Apple Watch can now record conversations with one tap and sync searchable transcripts, summaries, and tasks across devices.\n• A Google TV secret menu is highlighted as a useful feature most people never open.\n• A test of two 4Ah Ryobi batteries under identical conditions examines what the four-bar charge indicator really means.\n• How-To Geek lists five smart home automations that need only a motion sensor.",
     "generated_at": "2026-10-28T13:03:48.155783+00:00",
@@ -11,6 +11,34 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.makeuseof.com/i-switched-my-soundbar-from-optical-to-hdmi-and-finally-got-real-dolby-atmos/",
+      "title": "I switched my soundbar from optical to HDMI and finally got real Dolby Atmos",
+      "published": "2026-10-28T13:30:16+00:00",
+      "author": "Sagar Naresh",
+      "description": "The sound quality you deserve",
+      "link": "https://www.makeuseof.com/i-switched-my-soundbar-from-optical-to-hdmi-and-finally-got-real-dolby-atmos/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2025/08/hisense-hs2100-soundbar-and-the-subwoofer-placed-together-1.png",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/13-things-you-can-connect-to-your-iphones-usb-c-port/",
+      "title": "13 things you can connect to your iPhone's USB-C port",
+      "published": "2026-10-28T13:30:15+00:00",
+      "author": "Tim Brookes",
+      "description": "Use your iPhone's port for more than just charging.",
+      "link": "https://www.howtogeek.com/13-things-you-can-connect-to-your-iphones-usb-c-port/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2025/09/apple-iphone-17-pro-techwoven-case-with-magsafe-charging-port-cutout.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/ai-productivity-app-flowtica-new-releases/",
       "title": "Your Apple Watch can now turn hallway chats into meeting summaries and action items",

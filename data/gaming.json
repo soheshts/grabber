@@ -1,7 +1,7 @@
 {
   "category": "gaming",
-  "updated": "2026-10-28T13:03:48.155783+00:00",
-  "count": 587,
+  "updated": "2026-10-28T13:33:33.139297+00:00",
+  "count": 592,
   "summary": {
     "text": "• Showrunners is a fast-paced speed-running roller skating game where players build speed, land tricks, and master movement across massive courses.\n• Valve is looking for solutions after Steam Next Fest drew criticism for an overload of AI-generated game demos, with thousands of entries.\n• Obsession director Curry Barker, whose indie hit Obsession was a success, has released a new short film on YouTube just in time for Halloween.",
     "generated_at": "2026-10-28T13:03:48.155783+00:00",
@@ -11,6 +11,62 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://kotaku.com/?p=2000750478",
+      "title": "Fans Can’t Believe Walmart Canceled Zelda: Ocarina Of Time Switch 2 Pre-Orders The Day Before They Were Meant To Arrive",
+      "published": "2026-10-28T13:30:10+00:00",
+      "author": "Kenneth Shepard",
+      "description": "The retailer seemingly oversold its pre-orders for the special-edition console coinciding with the Ocarina of Time remake",
+      "link": "https://kotaku.com/fans-cant-believe-walmart-canceled-zelda-ocarina-of-time-switch-2-pre-orders-the-day-before-they-were-meant-to-arrive-2000750478",
+      "image": "https://kotaku.com/app/uploads/2026/09/NS2_TheLegendofZeldaOcarina15-1280x720.jpg",
+      "feed_name": "Kotaku",
+      "feed_title": "Kotaku",
+      "category": "gaming",
+      "feed_url": "https://kotaku.com/rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=kotaku.com&sz=64"
+    },
+    {
+      "id": "https://www.eurogamer.net/skydance-return-to-office-voluntary-buyouts",
+      "title": "As Skydance merges with Warner Bros. and Paramount, the company offers voluntary redundancy and mandates return to the office",
+      "published": "2026-10-28T13:22:47+00:00",
+      "author": "Connor Makar",
+      "description": "Skydance - the newly formed corporate megazord combining Warner Bros and Paramount - has issued a full five-day return-to-office mandate to employees, and offered voluntary buyouts as the merging of the companies begins. Read more",
+      "link": "https://www.eurogamer.net/skydance-return-to-office-voluntary-buyouts",
+      "image": "https://assetsio.gnwcdn.com/batman-arkham-spin-offs-gotham-knights.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "feed_name": "Eurogamer.net",
+      "feed_title": "Eurogamer.net Latest Articles Feed",
+      "category": "gaming",
+      "feed_url": "https://www.eurogamer.net/?format=rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.eurogamer.net&sz=64"
+    },
+    {
+      "id": "https://kotaku.com/?p=2000750474",
+      "title": "Xbox Says It Has To Fix Its Review Code System After Missing Modern Warfare 4 Metacritic Score",
+      "published": "2026-10-28T13:20:38+00:00",
+      "author": "Ethan Gach",
+      "description": "The new shooter still barely has any critic reviews on Xbox",
+      "link": "https://kotaku.com/xbox-says-it-has-to-fix-its-review-code-system-after-missing-modern-warfare-4-metacritic-score-2000750474",
+      "image": "https://kotaku.com/app/uploads/2026/10/call-duty-1280x722.jpg",
+      "feed_name": "Kotaku",
+      "feed_title": "Kotaku",
+      "category": "gaming",
+      "feed_url": "https://kotaku.com/rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=kotaku.com&sz=64"
+    },
+    {
+      "id": "https://www.polygon.com/star-wars-zero-company-dee-bradley-baker-trick-interview/",
+      "title": "Veteran Star Wars Actor Reveals the Trick to Making Each Clone Feel Unique",
+      "published": "2026-10-28T13:19:38+00:00",
+      "author": "Austin Manchester",
+      "description": "Dee Bradley Baker is the longtime voice of clone troopers throughout Star Wars. He plays Trick in Star Wars Zero Company.",
+      "link": "https://www.polygon.com/star-wars-zero-company-dee-bradley-baker-trick-interview/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/star-wars-zero-company-trick-shooting.jpg",
+      "feed_name": "Polygon -  All",
+      "feed_title": "Polygon.com",
+      "category": "gaming",
+      "feed_url": "https://www.polygon.com/rss/index.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.polygon.com&sz=64"
+    },
     {
       "id": "https://indiegamesplus.com/?p=53740",
       "title": "‘Showrunners’ has you roller skating around massive courses!",
@@ -24,6 +80,20 @@
       "category": "gaming",
       "feed_url": "https://indiegamesplus.com/feed",
       "feed_icon": "https://s3-igpbucket.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/07/24193508/cropped-IndieGamesPlus-Micro-32x32.png"
+    },
+    {
+      "id": "a518633d-a418-449b-997a-341da29bfeb8",
+      "title": "Valve 'Thinking About How to Solve' Steam's AI Slop Problem, but Won't Limit Developer Access",
+      "published": "2026-10-28T12:59:20+00:00",
+      "author": "Kirk McKeand",
+      "description": "Valve’s Steam Business Team took to the stage at the Steam Indie Connect event in Korea and took questions from an audience of game developers. During the chat, the issue of Steam being flooded with generative AI slop games and knockoff AI clones came up, and Valve said it’s still trying to figure out how to navigate this new world.",
+      "link": "https://www.ign.com/articles/valve-ai-slop-on-steam-comments",
+      "image": "https://assets-prd.ignimgs.com/2026/10/28/valve-1793192288925.jpg",
+      "feed_name": "IGN All",
+      "feed_title": "IGN Articles",
+      "category": "gaming",
+      "feed_url": "http://feeds.ign.com/ign/all",
+      "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
     },
     {
       "id": "1939652",

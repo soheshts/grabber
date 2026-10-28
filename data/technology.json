@@ -1,7 +1,7 @@
 {
   "category": "technology",
-  "updated": "2026-10-28T13:03:48.155783+00:00",
-  "count": 847,
+  "updated": "2026-10-28T13:33:33.139297+00:00",
+  "count": 853,
   "summary": {
     "text": "• Amazon's October hardware push includes a $500 Echo Show 16 with a larger screen and an Echo Studio with a camera for Alexa.\n• Kindle Colorsoft Signature Edition is reviewed as pricey at $320, while the Paperwhite Signature Edition gets praise as a premium upgrade, with the regular model still good value.\n• Circuit Mind raises $25m to design circuit boards with AI, led by Norwest.\n• Amazon warns engineers against measuring AI work by token usage or code-change counts.",
     "generated_at": "2026-10-28T13:03:48.155783+00:00",
@@ -11,6 +11,62 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.theverge.com/?p=1020488",
+      "title": "This is how badly X wants you to pay to promote your posts",
+      "published": "2026-10-28T13:26:39+00:00",
+      "author": "Andrew Liszewski",
+      "description": "After Elon Musk warned that \"advertisers who post ads that are ugly, shrill, strident or overstate claims about their product will be barred from advertising\" on X earlier this month, the platform now appears to be using a jarring animated arm that reaches across the screen to draw attention to the \"promote\" button while users […]",
+      "link": "https://www.theverge.com/tech/1020488/x-twitter-animated-hand-point-promote-posts",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/xarm.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "feed_name": "The Verge -  All Posts",
+      "feed_title": "The Verge",
+      "category": "technology",
+      "feed_url": "https://www.theverge.com/rss/index.xml",
+      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
+    },
+    {
+      "id": "https://www.engadget.com/2299367/fcc-clears-amazon-leo-to-acquire-mobile-satellite-operator-globalstar/",
+      "title": "FCC clears Amazon Leo to acquire mobile-satellite operator Globalstar",
+      "published": "2026-10-28T13:13:19+00:00",
+      "author": "Steve Dent",
+      "description": "Amazon Leo's $11.5 billion acquisition of mobile-satellite operator Globalstar has been approved by the FCC.",
+      "link": "https://www.engadget.com/2299367/fcc-clears-amazon-leo-to-acquire-mobile-satellite-operator-globalstar/",
+      "image": "https://www.engadget.com/img/gallery/fcc-clears-amazon-leo-to-acquire-mobile-satellite-operator-globalstar/l-intro-1793193078.jpg",
+      "feed_name": "Engadget",
+      "feed_title": "Engadget - Technology News & Expert Reviews",
+      "category": "technology",
+      "feed_url": "https://www.engadget.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
+    {
+      "id": "TheNextWeb=d551bb4d0927ddcba31e042d93ebf572",
+      "title": "Hackers hired a man to walk into a US law firm, CrowdStrike says",
+      "published": "2026-10-28T13:11:18+00:00",
+      "author": "Ana-Maria Stanciuc",
+      "description": "CrowdStrike calls CHATTY SPIDER the dominant threat to US law firms. The cybercrime group grew its activity 129% in the first eight months of 2026, compared with all of 2024. Law firms made up nearly 90% of its victims, according to CrowdStrike’s new report on the legal sector, published on Wednesday. The report covers September […] This story continues at The Next Web",
+      "link": "https://thenextweb.com/news/crowdstrike-attacks-on-law-firms-chatty-spider-intapp",
+      "image": "https://media.thenextweb.com/2026/10/crowdstrike-2026-legal-threat-landscape-report-cover.avif",
+      "feed_name": "The Next Web",
+      "feed_title": "The Next Web",
+      "category": "technology",
+      "feed_url": "https://thenextweb.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
+    {
+      "id": "01M60KC7JW2JPA2QEPH12A2N54",
+      "title": "This Seven-Piece Eufy Home Security System Is on Sale for $270 Right Now",
+      "published": "2026-10-28T13:00:17+00:00",
+      "author": "Pradershika Sharma",
+      "description": "This DIY alarm system includes local storage and smartphone alerts without a subscription.",
+      "link": "https://lifehacker.com/tech/eufy-home-security-system-deal-october-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M60KC7JW2JPA2QEPH12A2N54/hero-image.jpg",
+      "feed_name": "Lifehacker",
+      "feed_title": "Lifehacker",
+      "category": "technology",
+      "feed_url": "https://lifehacker.com/rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=lifehacker.com&sz=64"
+    },
     {
       "id": "https://www.engadget.com/2299326/kindle-colorsoft-signature-edition-2026-review/",
       "title": "Kindle Colorsoft Signature Edition 2026 review: Nice, but doesn't justify the price",
@@ -38,6 +94,34 @@
       "category": "technology",
       "feed_url": "https://www.engadget.com/rss.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
+    {
+      "id": "5117386",
+      "title": "Fox One Will Track 2026 Midterm Election Results With New App Experience",
+      "published": "2026-10-28T13:00:00+00:00",
+      "author": "Aaron Pruner",
+      "description": "Fox’s streaming service adds a new layer of coverage to the 2026 midterm elections.",
+      "link": "https://www.cnet.com/tech/services-and-software/fox-one-2026-midterm-elections/",
+      "image": "https://www.cnet.com/wp-content/uploads/sites/2/midterm-elections-2026-sign-GettyImages-2259572765.jpg",
+      "feed_name": "CNET News",
+      "feed_title": "News – CNET",
+      "category": "technology",
+      "feed_url": "https://www.cnet.com/rss/news/",
+      "feed_icon": "https://www.cnet.com/wp-content/uploads/sites/2/cropped-favicon-480.png?w=32"
+    },
+    {
+      "id": "https://www.theverge.com/?p=1020267",
+      "title": "TikTok is going after Yelp and Google Maps with an in-app restaurant guide",
+      "published": "2026-10-28T13:00:00+00:00",
+      "author": "Mia Sato",
+      "description": "TikTok is launching an in-app restaurant guide in a challenge to other platforms like Yelp and even Google Maps. The company on Wednesday announced the launch of Must Eat, a new section of the TikTok app built on 40 million posts, reviews, and comments about dining on the platform. The new feature uses videos and […]",
+      "link": "https://www.theverge.com/news/1020267/tiktok-viral-restaurant-recommendations-must-eat-yelp",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Must-Eat-Asset.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "feed_name": "The Verge -  All Posts",
+      "feed_title": "The Verge",
+      "category": "technology",
+      "feed_url": "https://www.theverge.com/rss/index.xml",
+      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
     },
     {
       "id": "TheNextWeb=12c15efaad98c0962036a990410fbcfa",
@@ -340,7 +424,7 @@
       "author": "Kris Holt",
       "description": "Along with speaker and Echo Show upgrades, Amazon unveiled a smart alarm clock and photo frame.",
       "link": "https://www.engadget.com/2299032/all-amazon-echo-news-october-2026/",
-      "image": "https://www.engadget.com/img/gallery/all-the-amazon-echo-devices-announced-today/l-intro-1793135803.jpg",
+      "image": "https://www.engadget.com/img/gallery/all-amazon-echo-news-october-2026/l-intro-1793193337.jpg",
       "feed_name": "Engadget",
       "feed_title": "Engadget - Technology News & Expert Reviews",
       "category": "technology",

@@ -1,6 +1,6 @@
 {
   "category": "World News",
-  "updated": "2026-10-28T13:03:48.155783+00:00",
+  "updated": "2026-10-28T13:33:33.139297+00:00",
   "count": 1000,
   "summary": {
     "text": "• Spain: a high-speed train crash near Toledo has killed at least 30, with CNBC reporting 64, the second deadly collision there this year.\n• Israel: election results leave Netanyahu and Gadi Eisenkot far short of a majority; Israeli bonds and shekel fell.\n• Middle East: Houthi attacks on a Saudi refinery lifted oil prices; Trump says the Iran war ends \"when I want it to.\"\n• Serbia: a minor reportedly tied to Islamic State was shot dead after a knife attack outside the Israeli embassy.",
@@ -11,6 +11,118 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.nytimes.com/live/2026/10/28/world/spain-train-crash-toledo",
+      "title": "Live Updates: At Least 30 Killed in Train Crash in Spain, Official Says",
+      "published": "2026-10-28T13:28:51+00:00",
+      "author": "The New York Times",
+      "description": "One high-speed passenger train rear-ended another one near Toledo, months after a crash involving the same carriers killed dozens and stunned the country.",
+      "link": "https://www.nytimes.com/live/2026/10/28/world/spain-train-crash-toledo",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28spain-crash-header-promo1/28spain-crash-header-ctmh-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-middle-east-relations.html",
+      "title": "For Israel’s Neighbors in Middle East, the Election Offers Little Hope of a Reset",
+      "published": "2026-10-28T13:21:16+00:00",
+      "author": "Christina Goldbaum",
+      "description": "Few countries in the Middle East expect a turning point in relations with Israel. But the outcome of the vote has implications for the regional conflict with Iran.",
+      "link": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-middle-east-relations.html",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28israel-arab-world-zptj/28israel-arab-world-zptj-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "108472577",
+      "title": "FEC campaign finance system offline days before midterms after hackers reportedly target site",
+      "published": "2026-10-28T13:20:54+00:00",
+      "author": null,
+      "description": "Total political ad spending and reservations for the 2026 cycle has topped $11.2 billion, according to AdImpact.",
+      "link": "https://www.cnbc.com/2026/10/28/fec-hack-outage-campaign-finance-filings.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108470180-1793127449553-gettyimages-2301317478-AA_24102026_3007843.jpeg?v=1793127493&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/28/world/europe/italy-protests-students-truckers-meloni.html",
+      "title": "Behind Italy’s Protests: Rising Prices and Sinking Hopes",
+      "published": "2026-10-28T13:16:35+00:00",
+      "author": "Motoko Rich and Josephine de La Bruyère",
+      "description": "Inspired in part by French demonstrations, protests in Italy by students in the north and truckers in the south could affect national elections next year.",
+      "link": "https://www.nytimes.com/2026/10/28/world/europe/italy-protests-students-truckers-meloni.html",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28int-italy-protests-vjmw/28int-italy-protests-vjmw-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "108473103",
+      "title": "Stellantis stock rises as automaker's turnaround plan, cost cuts gain traction",
+      "published": "2026-10-28T13:15:26+00:00",
+      "author": null,
+      "description": "European car giant Stellantis said Wednesday that it recorded a 4 billion euro ($4.5 billion) cash shortfall in the third quarter.",
+      "link": "https://www.cnbc.com/2026/10/28/stellantis-45-billion-cash-drain-turnaround.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108322928-1781659470671-IMG_4178.jpeg?v=1781660932&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "108472655",
+      "title": "Oil prices rise as U.S. reportedly tells Gulf countries to prepare for Iran strikes after midterm elections",
+      "published": "2026-10-28T13:10:31+00:00",
+      "author": null,
+      "description": "Oil prices climbed Wednesday as investors weighed the prospect of a prolonged conflict in the Middle East.",
+      "link": "https://www.cnbc.com/2026/10/28/oil-price-today-wti-brent-hormuz.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108419670-1792156386789-gettyimages-2299888156-US_OIL.jpeg?v=1792156436&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/live/2026/10/28/world/spain-train-crash-toledo/spain-train-crash-toledo",
+      "title": "Here’s the latest.",
+      "published": "2026-10-28T13:08:25+00:00",
+      "author": "Jason Horowitz",
+      "description": "One train rear-ended another, sending two carriages down an embankment.",
+      "link": "https://www.nytimes.com/live/2026/10/28/world/spain-train-crash-toledo/spain-train-crash-toledo",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28spain-crash-header-promo1/28spain-crash-header-ctmh-facebookJumbo.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/28/world/europe/knife-wielding-attacker-fatally-shot-outside-israeli-embassy-in-serbia.html",
+      "title": "Knife-Wielding Attacker Fatally Shot Outside Israeli Embassy in Serbia",
+      "published": "2026-10-28T13:05:37+00:00",
+      "author": "Lynsey Chutel and Alisa Dogramadzieva",
+      "description": "The attacker, a minor, appeared to be a supporter of the Islamic State, the government said. Authorities have described it as a terrorist attack.",
+      "link": "https://www.nytimes.com/2026/10/28/world/europe/knife-wielding-attacker-fatally-shot-outside-israeli-embassy-in-serbia.html",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28int-serbia-attack-wvcz/28int-serbia-attack-wvcz-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "108473516",
       "title": "At least 64 people dead in high-speed Spain train crash",
@@ -68,34 +180,6 @@
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
     },
     {
-      "id": "https://www.nytimes.com/live/2026/10/28/world/spain-train-crash-toledo",
-      "title": "Live Updates: At Least 30 Killed in Train Crash in Spain, Official Says",
-      "published": "2026-10-28T12:44:56+00:00",
-      "author": "The New York Times",
-      "description": "One high-speed passenger train rear-ended another one near Toledo, months after a crash involving the same carriers killed dozens and stunned the country.",
-      "link": "https://www.nytimes.com/live/2026/10/28/world/spain-train-crash-toledo",
-      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28spain-crash-header-promo1/28spain-crash-header-ctmh-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/10/28/world/europe/knife-wielding-attacker-fatally-shot-outside-israeli-embassy-in-serbia.html",
-      "title": "Knife-Wielding Attacker Fatally Shot Outside Israeli Embassy in Serbia",
-      "published": "2026-10-28T12:44:16+00:00",
-      "author": "Lynsey Chutel and Alisa Dogramadzieva",
-      "description": "The attacker, a minor, appeared to be a supporter of the Islamic State, the government said. Authorities have described it as a terrorist attack.",
-      "link": "https://www.nytimes.com/2026/10/28/world/europe/knife-wielding-attacker-fatally-shot-outside-israeli-embassy-in-serbia.html",
-      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28int-serbia-attack-wvcz/28int-serbia-attack-wvcz-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
       "id": "https://www.nytimes.com/live/2026/10/28/world/israel-elections/heres-the-latest",
       "title": "Here’s the latest.",
       "published": "2026-10-28T12:43:48+00:00",
@@ -103,20 +187,6 @@
       "description": "",
       "link": "https://www.nytimes.com/live/2026/10/28/world/israel-elections/heres-the-latest",
       "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28israel-election-promo-tjcg/28israel-election-promo-tjcg-facebookJumbo.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "https://www.nytimes.com/live/2026/10/28/world/spain-train-crash-toledo/spain-train-crash-toledo",
-      "title": "Here’s the latest.",
-      "published": "2026-10-28T12:38:08+00:00",
-      "author": "Jason Horowitz",
-      "description": "One train rear-ended another, sending two carriages down an embankment.",
-      "link": "https://www.nytimes.com/live/2026/10/28/world/spain-train-crash-toledo/spain-train-crash-toledo",
-      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28spain-crash-header-promo1/28spain-crash-header-ctmh-facebookJumbo.jpg",
       "feed_name": "NYT",
       "feed_title": "NYT > World News",
       "category": "World News",
@@ -136,20 +206,6 @@
       "category": "World News",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "108472655",
-      "title": "Oil prices rise as Houthi attacks on Saudi refinery raise supply worries",
-      "published": "2026-10-28T12:34:29+00:00",
-      "author": null,
-      "description": "Oil prices climbed Wednesday as investors weighed the prospect of a prolonged conflict in the Middle East.",
-      "link": "https://www.cnbc.com/2026/10/28/oil-price-today-wti-brent-hormuz.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108419670-1792156386789-gettyimages-2299888156-US_OIL.jpeg?v=1792156436&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/us/how-taylor-swift-and-travis-kelces-donation-helped-a-nashville-free-grocery-store-resume-support-for-families-on-its-waitlist/articleshow/135265150.cms",
@@ -262,34 +318,6 @@
       "category": "World News",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/10/28/world/europe/italy-protests-students-truckers-meloni.html",
-      "title": "Italians Protesting High Prices Fear a Listless Future, Too",
-      "published": "2026-10-28T11:49:56+00:00",
-      "author": "Motoko Rich and Josephine de La Bruyère",
-      "description": "Inspired in part by French demonstrations, protests in Italy by students in the north and truckers in the south could affect national elections next year.",
-      "link": "https://www.nytimes.com/2026/10/28/world/europe/italy-protests-students-truckers-meloni.html",
-      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28int-italy-protests-vjmw/28int-italy-protests-vjmw-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "108473103",
-      "title": "Stellantis reports $4.5 billion cash drain as massive turnaround plan continues",
-      "published": "2026-10-28T11:45:16+00:00",
-      "author": null,
-      "description": "European car giant Stellantis said Wednesday that it recorded a 4 billion euro ($4.5 billion) cash shortfall in the third quarter.",
-      "link": "https://www.cnbc.com/2026/10/28/stellantis-45-billion-cash-drain-turnaround.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108322928-1781659470671-IMG_4178.jpeg?v=1781660932&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
       "id": "https://www.nytimes.com/live/2026/10/28/world/spain-train-crash-toledo/the-crash-comes-months-after-a-fatal-accident-involving-the-same-train-operators",
@@ -486,20 +514,6 @@
       "category": "World News",
       "feed_url": "https://www.reddit.com/r/worldnews/.rss",
       "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-middle-east-relations.html",
-      "title": "For Israel’s Neighbors in Middle East, the Election Offers Little Hope of a Reset",
-      "published": "2026-10-28T10:45:04+00:00",
-      "author": "Christina Goldbaum",
-      "description": "Few countries in the Middle East expect a turning point in relations with Israel. But the outcome of the vote has implications for the regional conflict with Iran.",
-      "link": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-middle-east-relations.html",
-      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28israel-arab-world-zptj/28israel-arab-world-zptj-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://www.ndtv.com/world-news/israelis-await-final-election-results-as-netanyahu-remains-far-from-defeated-12248039#publisher=newsstand",
@@ -892,6 +906,20 @@
       "category": "World News",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/uk/meet-joe-whale-the-artist-who-became-famous-for-doodling-on-a-restaurant-wall-at-9-and-now-at-16-explores-10-human-emotions-through-paintings-and-sculptures-in-london/articleshow/135258577.cms",
+      "title": "Joe Whale, famous for childhood doodles, explores 10 emotions in London art show",
+      "published": "2026-10-28T08:46:38+00:00",
+      "author": "TOI World Desk",
+      "description": "",
+      "link": "https://timesofindia.indiatimes.com/world/uk/meet-joe-whale-the-artist-who-became-famous-for-doodling-on-a-restaurant-wall-at-9-and-now-at-16-explores-10-human-emotions-through-paintings-and-sculptures-in-london/articleshow/135258577.cms",
+      "image": "https://static.toiimg.com/photo/msid-135258662,imgsize-200576.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
       "id": "https://www.ndtv.com/world-news/trump-says-putin-zelensky-meet-very-soon-ukraine-russia-war-lot-of-progress-likely-12247558#publisher=newsstand",
@@ -13982,34 +14010,6 @@
       "category": "World News",
       "feed_url": "https://news.google.com/rss",
       "feed_icon": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w256"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/ukraine-violated-starlink-used-it-to-kill-people-elon-musk-as-speed-restores-starshield-12231802#publisher=newsstand",
-      "title": "'Ukraine Violated Starlink, Used It To Kill People': Elon Musk As Speed Restores",
-      "published": "2026-10-25T03:20:46+00:00",
-      "author": null,
-      "description": "Elon Musk acknowledged that his company SpaceX throttled the Starlink satellite internet service.",
-      "link": "https://www.ndtv.com/world-news/ukraine-violated-starlink-used-it-to-kill-people-elon-musk-as-speed-restores-starshield-12231802#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-10/gju3i77k_starlink-reuters_625x300_25_October_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do#0",
-      "title": "Gunmen kill at least 10 villagers and loot shops in north-east Nigeria",
-      "published": "2026-10-25T03:20:16+00:00",
-      "author": null,
-      "description": "Police are searching for other casualties, with officials warning the actual death toll could rise further.",
-      "link": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db2e/live/b3593830-d017-11f1-b0c1-71a61e4adacb.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     }
   ]
 }
