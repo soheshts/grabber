@@ -1,7 +1,7 @@
 {
   "category": "World News",
-  "updated": "2026-10-28T05:03:51.617762+00:00",
-  "count": 950,
+  "updated": "2026-10-28T05:32:24.855150+00:00",
+  "count": 954,
   "summary": {
     "text": "• Australia: ABC urges One Nation to \"immediately remove\" a Bluey cartoon, and a Coalition MP was ejected from question time; AFP warns online hate is spilling into the real world. Two unions turn on Labor ahead of the Victorian election, and Erin Patterson awaits her appeal ruling.\n• US politics: Trump attacked Michigan Senate candidate Abdul El-Sayed as a security threat, and joked that $5,000 payments would buy \"a hamburger and maybe a small dessert\" as cost of living looms over midterms.\n• Business: Jio Platforms shares jumped over 21% on their debut after India's largest-ever IPO, raising $3.2 billion.\n• Elsewhere: Israel's election closed with no clear winner, and a $65 million scam targeting elderly Americans was traced to India-based call centres.",
     "generated_at": "2026-10-28T05:03:51.617762+00:00",
@@ -13,9 +13,9 @@
   "items": [
     {
       "id": "https://www.theguardian.com/australia-news/live/2026/oct/28/inflation-abs-labor-anthony-albanese-parliament-greens-david-shoebridge-one-nation-ntwnfb",
-      "title": "Australian politics live: ABC calls for One Nation to ‘immediately remove’ Bluey cartoon; Coalition MP ejected from question time for swearing",
-      "published": "2026-10-28T04:59:10+00:00",
-      "author": "Kat Wong",
+      "title": "Australian politics live: Coalition MP ejected from question time after swearing at PM; Payman apologises to Haines for comments after alleged attack",
+      "published": "2026-10-28T05:29:07+00:00",
+      "author": "Achol Arok (now) and Kat Wong (earlier)",
       "description": "Get our breaking news email , free app or daily news podcast Online hate is spilling into the real world, AFP warns AFP Commissioner Krissy Barrett began her late-night appearance at the Senate estimates hearing noting “a heaviness that hangs across Australia” after the alleged attack on independent MP Helen Haines . Lone actors are being motivated by a convergence of personal grievances, mental health vulnerabilities and ideological concerns … What helped keep us safe in recent times, such as…",
       "link": "https://www.theguardian.com/australia-news/live/2026/oct/28/inflation-abs-labor-anthony-albanese-parliament-greens-david-shoebridge-one-nation-ntwnfb",
       "image": "https://i.guim.co.uk/img/media/ded625f2f56d2bfbc7f20677b7734b06fc80192c/446_0_4446_3559/master/4446.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=2583a97ba2f2a9e9f5ce630a820a7c59",
@@ -26,9 +26,23 @@
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
     },
     {
+      "id": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-herzog-prime-minister.html",
+      "title": "Israel’s President, Isaac Herzog, Faces a Difficult Choice",
+      "published": "2026-10-28T05:18:10+00:00",
+      "author": "Ephrat Livni",
+      "description": "The president has a largely ceremonial role, except after elections when it is his responsibility to pick a candidate for prime minister.",
+      "link": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-herzog-prime-minister.html",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28israel-PresidentHerzog-mwqh/28israel-PresidentHerzog-mwqh-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
       "id": "108472497",
       "title": "Meta- and Google-backed Jio Platforms’ shares soar over 21% on trading debut after record IPO",
-      "published": "2026-10-28T04:51:42+00:00",
+      "published": "2026-10-28T05:16:41+00:00",
       "author": null,
       "description": "Jio had offered 270 million shares in the IPO priced at 1,119 rupees apiece, raising 302 billion rupees ($3.2 billion) in the country's largest-ever IPO.",
       "link": "https://www.cnbc.com/2026/10/28/jio-ipo-india-listing-.html",
@@ -38,6 +52,48 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/live/2026/10/27/world/israel-elections",
+      "title": "Rivals in Israel Election Strike Tone of Triumph, but Outcome Is Far From Clear",
+      "published": "2026-10-28T05:14:23+00:00",
+      "author": "The New York Times",
+      "description": "Addressing supporters after midnight, Prime Minister Benjamin Netanyahu and Gadi Eisenkot, who leads a bloc of opposition parties, both expressed confidence that they will lead Israel’s next government. Vote counting could take days.",
+      "link": "https://www.nytimes.com/live/2026/10/27/world/israel-elections",
+      "image": "https://static01.nyt.com/images/2026/11/25/multimedia/27israel-live-promo9p/25int-israel-election-explainer-promo-gqlj-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.theguardian.com/australia-news/2026/oct/28/unions-turn-on-labor-attack-ads-campaign-funds-victorian-election-exclusive",
+      "title": "Two key unions turn on Labor, running attack ads and pulling campaign funds a month out from Victorian election",
+      "published": "2026-10-28T05:10:54+00:00",
+      "author": "Benita Kolovos and Henry Belot",
+      "description": "Exclusive: ASU launches ‘Ben Lied. Labor lies’ ads while ETU diverts money to defending members at royal commission Follow our Australia politics live blog for latest updates Get our breaking news email , free app or daily news podcast Two major unions in Victoria have turned their back on the Labor government a month out from the state election, with one launching attack ads calling Ben Carroll a liar and the other pulling campaign funding. The Labor-aligned Australian Services Union (ASU), wh…",
+      "link": "https://www.theguardian.com/australia-news/2026/oct/28/unions-turn-on-labor-attack-ads-campaign-funds-victorian-election-exclusive",
+      "image": "https://i.guim.co.uk/img/media/f36cfdb01cbff4d9ce4153015dd6242cbca5b6e2/678_0_5040_4032/master/5040.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=168f89eca415c2d38a1c6d8933b3b335",
+      "feed_name": "The Guardian",
+      "feed_title": "World news | The Guardian",
+      "category": "World News",
+      "feed_url": "https://www.theguardian.com/world/rss",
+      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
+    {
+      "id": "https://www.theguardian.com/australia-news/2026/oct/28/beau-lamarre-condon-friend-tells-court-she-drank-champagne-while-he-cleaned-van-ntwnfb",
+      "title": "Beau Lamarre-Condon’s friend tells court she drank champagne while he scrubbed van used to move bodies",
+      "published": "2026-10-28T04:55:48+00:00",
+      "author": "Australian Associated Press",
+      "description": "Lamarre-Condon, who has pleaded not guilty to murders of Jesse Baird and Luke Davies, allegedly told friend he had ‘come to say goodbye’ Follow our Australia politics live blog for latest updates Get our breaking news email , free app or daily news podcast A friend of Beau Lamarre-Condon has described the moment he arrived at her house unannounced to clean the back of the van used to move the bodies of Jesse Baird and Luke Davies. The former police officer has pleaded not guilty to murdering hi…",
+      "link": "https://www.theguardian.com/australia-news/2026/oct/28/beau-lamarre-condon-friend-tells-court-she-drank-champagne-while-he-cleaned-van-ntwnfb",
+      "image": "https://i.guim.co.uk/img/media/9121e130e1a0424273a784f6febc21cfcb53dd1d/444_120_2573_2058/master/2573.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=67e0f6b5b7ae7cc5d83c170cc0338587",
+      "feed_name": "The Guardian",
+      "feed_title": "World news | The Guardian",
+      "category": "World News",
+      "feed_url": "https://www.theguardian.com/world/rss",
+      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/us/i-call-him-muhammed-trump-attacks-michigan-candidate-abdul-suggests-daily-metal-detector-tests-to-sit-in-senate/articleshow/135252128.cms",
@@ -54,18 +110,32 @@
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
-      "id": "https://www.theguardian.com/australia-news/2026/oct/28/unions-turn-on-labor-attack-ads-campaign-funds-victorian-election-exclusive",
-      "title": "Two key unions turn on Labor, running attack ads and pulling campaign funds a month out from Victorian election",
-      "published": "2026-10-28T04:50:29+00:00",
-      "author": "Benita Kolovos and Henry Belot",
-      "description": "Exclusive: ASU launches ‘Ben Lied. Labor lies’ ads while ETU diverts money to defending members at royal commission Follow our Australia politics live blog for latest updates Get our breaking news email , free app or daily news podcast Two major unions in Victoria have turned their back on the Labor government a month out from the state election, with one launching attack ads calling Ben Carroll a liar and the other pulling campaign funding. The Labor-aligned Australian Services Union (ASU), wh…",
-      "link": "https://www.theguardian.com/australia-news/2026/oct/28/unions-turn-on-labor-attack-ads-campaign-funds-victorian-election-exclusive",
-      "image": "https://i.guim.co.uk/img/media/f36cfdb01cbff4d9ce4153015dd6242cbca5b6e2/678_0_5040_4032/master/5040.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=168f89eca415c2d38a1c6d8933b3b335",
-      "feed_name": "The Guardian",
-      "feed_title": "World news | The Guardian",
+      "id": "t3_1xhex5k",
+      "title": "Zelenskiy: \"Ukrainian forces are retaking territory through a series of offensives, including one operation previously unannounced in which Kyiv's troops used gas ​pipelines to outflank Russian positions\"",
+      "published": "2026-10-28T04:47:16+00:00",
+      "author": "/u/Raj_Valiant3011",
+      "description": "submitted by /u/Raj_Valiant3011 [link] [comments]",
+      "link": "https://www.reddit.com/r/worldnews/comments/1xhex5k/zelenskiy_ukrainian_forces_are_retaking_territory/",
+      "image": null,
+      "feed_name": "World News",
+      "feed_title": "World News",
       "category": "World News",
-      "feed_url": "https://www.theguardian.com/world/rss",
-      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
+      "feed_icon": "https://www.redditstatic.com/icon.png/"
+    },
+    {
+      "id": "t3_1xher6v",
+      "title": "UAE honours Captain Smit Machchhar for bravery during flydubai cockpit attack",
+      "published": "2026-10-28T04:37:47+00:00",
+      "author": "/u/Wonderful_Fee_4358",
+      "description": "submitted by /u/Wonderful_Fee_4358 [link] [comments]",
+      "link": "https://www.reddit.com/r/worldnews/comments/1xher6v/uae_honours_captain_smit_machchhar_for_bravery/",
+      "image": "https://external-preview.redd.it/ppwxPxi7q8eSDRaFHWehYjKTu54vjVIKVjhG07O0TdM.jpeg?width=640&crop=smart&auto=webp&s=af3ff3fdceadee98697e4d4696b0103650c67b60",
+      "feed_name": "World News",
+      "feed_title": "World News",
+      "category": "World News",
+      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
+      "feed_icon": "https://www.redditstatic.com/icon.png/"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/us/a-grandmother-raising-her-two-grandchildren-says-their-mother-banged-on-her-door-and-threatened-to-kill-her-but-a-judge-ruled-she-was-not-family-and-could-not-seek-a-protection-order-an-october-19-appeals-court-ruling-in-washington-dc-said-she-can/articleshow/135251151.cms",
@@ -150,20 +220,6 @@
       "category": "World News",
       "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://www.nytimes.com/live/2026/10/27/world/israel-elections",
-      "title": "Israel Election Live Updates: Rivals Strike Tone of Triumph, but Outcome Is Far From Clear",
-      "published": "2026-10-28T04:03:25+00:00",
-      "author": "The New York Times",
-      "description": "Addressing supporters after midnight, Prime Minister Benjamin Netanyahu and Gadi Eisenkot, who leads a bloc of opposition parties, both expressed confidence that they will lead Israel’s next government. Vote counting could take days.",
-      "link": "https://www.nytimes.com/live/2026/10/27/world/israel-elections",
-      "image": "https://static01.nyt.com/images/2026/11/25/multimedia/27israel-live-promo9p/25int-israel-election-explainer-promo-gqlj-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "t3_1xhe4c0",

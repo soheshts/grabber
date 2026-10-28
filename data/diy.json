@@ -1,9 +1,30 @@
 {
   "category": "DIY",
-  "updated": "2026-10-28T05:03:51.617762+00:00",
-  "count": 231,
-  "summary": null,
+  "updated": "2026-10-28T05:32:24.855150+00:00",
+  "count": 232,
+  "summary": {
+    "text": "• Hackaday reports on a project to hack a marine radio dish.\n• The author, [Melan], was inspired by YouTube videos about repurposed satellite dishes.\n• She sourced an Intellian i4, a dish the item describes as built for marine use before the excerpt cuts off.",
+    "generated_at": "2026-10-28T05:32:24.855150+00:00",
+    "window_minutes": 60,
+    "item_count": 1,
+    "key": "45a3ab6f0f0398a1b1fb53a54c95faaec09a8449",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "https://hackaday.com/?p=1396476",
+      "title": "Hacking a Marine Radio Dish",
+      "published": "2026-10-28T05:00:31+00:00",
+      "author": "Zoe Skyforest",
+      "description": "Having watched some fun videos on repurposed satellite dishes on YouTube, [Melan] wanted to get in on the action. She managed to source herself an Intellian i4, a dish built …read more",
+      "link": "https://hackaday.com/2026/10/27/hacking-a-marine-radio-dish/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/10/intellian_i4_roof-e1793151930376.png",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://hackaday.com/?p=1394024",
       "title": "Airborne Particle Monitoring, the BIG way",
