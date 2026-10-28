@@ -1,15 +1,8 @@
 {
   "category": "science",
-  "updated": "2026-10-28T04:32:39.987806+00:00",
+  "updated": "2026-10-28T05:03:51.617762+00:00",
   "count": 567,
-  "summary": {
-    "text": "• A new clinical trial suggests a simple daily fiber supplement may significantly reduce knee osteoarthritis pain.\n• The same trial reportedly found the supplement improved muscle strength and made the body less sensitive to pain.\n• The item is cut off, so trial details and the researchers' full conclusions are not included.",
-    "generated_at": "2026-10-28T04:32:39.987806+00:00",
-    "window_minutes": 60,
-    "item_count": 1,
-    "key": "a4696d32ebcc490c2e5d8a11da6d2316dfcfc95e",
-    "model": "anthropic/claude-haiku-5.5"
-  },
+  "summary": null,
   "items": [
     {
       "id": "https://www.sciencedaily.com/releases/2026/10/261027230715.htm",
@@ -2731,7 +2724,7 @@
       "id": "https://www.nature.com/articles/d41586-026-03449-6",
       "title": "Gene therapy that led to boy’s death had limited efficacy",
       "published": "2026-10-27T00:00:00+00:00",
-      "author": null,
+      "author": "Rachel Fieldhouse",
       "description": "Nature, Published online: 27 October 2026; doi:10.1038/d41586-026-03449-6 Therapy pioneered by biotechnology Chinese firm HuidaGene showed promise in animals but caused a fatal reaction in a child.",
       "link": "https://www.nature.com/articles/d41586-026-03449-6",
       "image": null,

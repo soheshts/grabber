@@ -1,9 +1,44 @@
 {
   "category": "space",
-  "updated": "2026-10-28T04:32:39.987806+00:00",
-  "count": 119,
-  "summary": null,
+  "updated": "2026-10-28T05:03:51.617762+00:00",
+  "count": 121,
+  "summary": {
+    "text": "• NASA's Astronomy Picture of the Day for October 28, 2026 is titled \"The Mutual Occultation of Ganymede and Io.\"\n• The item comes from NASA Breaking News via the APOD science listing.\n• The excerpt contains only site navigation text, so no further details are available.",
+    "generated_at": "2026-10-28T05:03:51.617762+00:00",
+    "window_minutes": 60,
+    "item_count": 1,
+    "key": "42d7a3e217ca8d513ad82b5cc6f1e6797d31a2ae",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "https://science.nasa.gov/image-article/apod-2026-october-28-the-mutual-occultation-of-ganymede-and-io/",
+      "title": "APOD: 2026 October 28 – The Mutual Occultation of Ganymede and Io",
+      "published": "2026-10-28T04:05:00+00:00",
+      "author": null,
+      "description": "APOD Science APOD APOD: 2026 October 28 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. To view […]",
+      "link": "https://science.nasa.gov/image-article/apod-2026-october-28-the-mutual-occultation-of-ganymede-and-io/",
+      "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/october/occultation.jpeg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "feed_name": "NASA Breaking News",
+      "feed_title": "NASA",
+      "category": "space",
+      "feed_url": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.nasa.gov&sz=64"
+    },
+    {
+      "id": "https://science.nasa.gov/earth/earth-observatory/the-land-of-the-standing-up-rocks/",
+      "title": "The Land of the Standing-Up Rocks",
+      "published": "2026-10-28T04:01:00+00:00",
+      "author": null,
+      "description": "A national monument since the 1920s, Chiricahua is America’s newest national park.",
+      "link": "https://science.nasa.gov/earth/earth-observatory/the-land-of-the-standing-up-rocks/",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-land-of-the-standing-up-rocks/chiricahua_oli2_20260702.jpg?w=1440&h=960&fit=clip&crop=faces%2Cfocalpoint",
+      "feed_name": "NASA Breaking News",
+      "feed_title": "NASA",
+      "category": "space",
+      "feed_url": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.nasa.gov&sz=64"
+    },
     {
       "id": "zFWTPeZizCvuo8iyUBiNm9",
       "title": "How 'spacewalking' underwater made me feel like I was really in space",
