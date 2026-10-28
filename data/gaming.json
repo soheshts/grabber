@@ -1,9 +1,30 @@
 {
   "category": "gaming",
-  "updated": "2026-10-28T07:32:13.910264+00:00",
-  "count": 562,
-  "summary": null,
+  "updated": "2026-10-28T08:02:32.119021+00:00",
+  "count": 563,
+  "summary": {
+    "text": "• Polygon's gaming feed carries a non-gaming piece instead: a list of five funny Peanuts comics about Snoopy's forgotten siblings.",
+    "generated_at": "2026-10-28T08:02:32.119021+00:00",
+    "window_minutes": 60,
+    "item_count": 1,
+    "key": "bb4a7cc54de3f5b0064e3c827f90aa2b8dd664f3",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "https://www.polygon.com/snoopy-siblings-peanuts/",
+      "title": "5 Funniest 'Peanuts' Comics About Snoopy's Forgotten Siblings",
+      "published": "2026-10-28T08:00:17+00:00",
+      "author": "Thomas Hindmarch",
+      "description": "Your Beagle Has a Rich Family Life, Charlie Brown",
+      "link": "https://www.polygon.com/snoopy-siblings-peanuts/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/snoopy-snoopys-reunion.jpg",
+      "feed_name": "Polygon -  All",
+      "feed_title": "Polygon.com",
+      "category": "gaming",
+      "feed_url": "https://www.polygon.com/rss/index.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.polygon.com&sz=64"
+    },
     {
       "id": "https://www.polygon.com/buffy-halloween-season-2-rupert-giles-ripper/",
       "title": "29 Years Ago, ‘Buffy’s Wisest Character Got a Shocking Backstory that Redefined the Entire Series",
