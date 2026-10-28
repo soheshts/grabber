@@ -1,7 +1,7 @@
 {
   "category": "science",
-  "updated": "2026-10-28T11:03:47.858881+00:00",
-  "count": 580,
+  "updated": "2026-10-28T11:33:27.846373+00:00",
+  "count": 585,
   "summary": {
     "text": "• Oxford researchers used machine learning simulations, reported in Chemical Science, to trace how a common polymer transforms into hard carbon.\n• A feature explores why people self-harm, looking at mind-body links through the lens of Finnish lore.\n• President Donald Trump announced a sweeping rollback of rules limiting methane emissions from oil and gas producers, a potent greenhouse gas.\n• A cyclone made landfall on India's southeastern coast on Wednesday, bringing strong winds and heavy rain, but officials reported no initial deaths.",
     "generated_at": "2026-10-28T11:03:47.858881+00:00",
@@ -11,6 +11,34 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "news712389976",
+      "title": "Dead tree branches rise and fall with changing humidity, laser scans reveal",
+      "published": "2026-10-28T11:20:01+00:00",
+      "author": null,
+      "description": "Dead tree branches are by no means static but move throughout the day. Geoinformatics researchers at Heidelberg University tracked these movements in a study conducted in cooperation with the Finnish Geospatial Research Institute (FGI).",
+      "link": "https://phys.org/news/2026-10-dead-tree-fall-humidity-laser.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dead-tree-branches.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/28/us/politics/trump-opioid-kratom.html",
+      "title": "Trump Administration Backs Down on an Opioid Ban After Kratom Industry Lobbying",
+      "published": "2026-10-28T11:19:51+00:00",
+      "author": "Christina Jewett",
+      "description": "Health officials will now allow some levels of a powerful substance to remain in products marketed as natural. The change could help a G.O.P. donor facing wrongful death lawsuits.",
+      "link": "https://www.nytimes.com/2026/10/28/us/politics/trump-opioid-kratom.html",
+      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/00dc-kratom-top-lhgf/00dc-kratom-top-lhgf-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Science",
+      "feed_title": "NYT > Science",
+      "category": "science",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "news712321141",
       "title": "Machine learning simulations reveal how plastic transforms into hard carbon",
@@ -38,6 +66,34 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "https://www.scientificamerican.com/article/sci-fi-horror-collides-with-small-town-politics-in-john-scalzis-monsters-of-ohio/",
+      "title": "Sci-fi horror collides with small-town politics in John Scalzi’s Monsters of Ohio",
+      "published": "2026-10-28T11:00:00+00:00",
+      "author": null,
+      "description": "Scientific American talks to author John Scalzi about his tentacle-filled 20th novel, its balance of hope and cynicism—and the possibility of a Chappell Roan crossover",
+      "link": "https://www.scientificamerican.com/article/sci-fi-horror-collides-with-small-town-politics-in-john-scalzis-monsters-of-ohio/",
+      "image": "https://static.scientificamerican.com/dam/asset/74a6a503-2104-43c9-a7ce-51723c513bda/Monsters-of-Ohio-Book-Cover.jpg?m=1793122324.039&w=1200",
+      "feed_name": "Scientific American Content: Global",
+      "feed_title": "Scientific American Content: Global",
+      "category": "science",
+      "feed_url": "http://rss.sciam.com/ScientificAmerican-Global",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.scientificamerican.com&sz=64"
+    },
+    {
+      "id": "https://www.scientificamerican.com/article/animal-borne-shamonda-virus-infects-and-kills-a-human-for-the-first-time/",
+      "title": "Animal-borne Shamonda virus infects and kills a human for the first time",
+      "published": "2026-10-28T10:30:00+00:00",
+      "author": null,
+      "description": "The potential for a wider outbreak is low, but experts are still investigating how the disease-causing virus leaped from animals to humans in the first place",
+      "link": "https://www.scientificamerican.com/article/animal-borne-shamonda-virus-infects-and-kills-a-human-for-the-first-time/",
+      "image": "https://static.scientificamerican.com/dam/asset/a04fa69c-683a-4511-a8c9-dbed4b05e90d/shamonda-virus.jpg?m=1793133585.374&w=1200",
+      "feed_name": "Scientific American Content: Global",
+      "feed_title": "Scientific American Content: Global",
+      "category": "science",
+      "feed_url": "http://rss.sciam.com/ScientificAmerican-Global",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.scientificamerican.com&sz=64"
     },
     {
       "id": "news712386471",
@@ -124,6 +180,34 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
     },
     {
+      "id": "https://www.scientificamerican.com/article/7-spooky-bat-facts-right-in-time-for-halloween/",
+      "title": "7 spooky bat facts—right in time for Halloween",
+      "published": "2026-10-28T10:00:00+00:00",
+      "author": null,
+      "description": "Bats deserve a little more love",
+      "link": "https://www.scientificamerican.com/article/7-spooky-bat-facts-right-in-time-for-halloween/",
+      "image": "https://static.scientificamerican.com/dam/asset/ddb7b41b-91e1-44ca-92d0-f539ffd524ff/bat.jpg?m=1793022992.053&w=1200",
+      "feed_name": "Scientific American Content: Global",
+      "feed_title": "Scientific American Content: Global",
+      "category": "science",
+      "feed_url": "http://rss.sciam.com/ScientificAmerican-Global",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.scientificamerican.com&sz=64"
+    },
+    {
+      "id": "https://www.scientificamerican.com/podcast/episode/why-science-is-on-the-ballot-in-the-2026-midterm-elections/",
+      "title": "Why science is on the ballot in the 2026 midterm elections",
+      "published": "2026-10-28T10:00:00+00:00",
+      "author": null,
+      "description": "From Medicare for All to research grants, science-driven issues are playing a role in the midterm elections",
+      "link": "https://www.scientificamerican.com/podcast/episode/why-science-is-on-the-ballot-in-the-2026-midterm-elections/",
+      "image": "https://static.scientificamerican.com/dam/asset/63a99a1b-774d-4cf4-929a-25fe07b899a0/2610_SQ_WED_MIDTERMS.png?m=1793114709.147&w=1200",
+      "feed_name": "Scientific American Content: Global",
+      "feed_title": "Scientific American Content: Global",
+      "category": "science",
+      "feed_url": "http://rss.sciam.com/ScientificAmerican-Global",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.scientificamerican.com&sz=64"
+    },
+    {
       "id": "b30a82fe-d219-11f1-b069-1f2d3b96c5b3",
       "title": "Why science is on the ballot in the midterms",
       "published": "2026-10-28T09:55:00+00:00",
@@ -136,20 +220,6 @@
       "category": "science",
       "feed_url": "http://rss.sciam.com/sciam/60secsciencepodcast",
       "feed_icon": "https://megaphone.imgix.net/podcasts/9e578524-a403-11ee-a6cf-cbcdcc0e11fb/image/ec5ff1c72de2a19d67bc6425661674b1.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/10/28/us/politics/trump-opioid-kratom.html",
-      "title": "Trump Administration Backs Down on an Opioid Ban After Kratom Industry Lobbying",
-      "published": "2026-10-28T09:03:55+00:00",
-      "author": "Christina Jewett",
-      "description": "Health officials will now allow some levels of a powerful substance to remain in products marketed as natural. The change could help a G.O.P. donor facing wrongful death lawsuits.",
-      "link": "https://www.nytimes.com/2026/10/28/us/politics/trump-opioid-kratom.html",
-      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/00dc-kratom-top-lhgf/00dc-kratom-top-lhgf-mediumSquareAt3X.jpg",
-      "feed_name": "NYT > Science",
-      "feed_title": "NYT > Science",
-      "category": "science",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "news712242302",

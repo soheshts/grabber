@@ -1,9 +1,23 @@
 {
   "category": "funny",
-  "updated": "2026-10-28T11:03:47.858881+00:00",
-  "count": 187,
+  "updated": "2026-10-28T11:33:27.846373+00:00",
+  "count": 189,
   "summary": null,
   "items": [
+    {
+      "id": "https://cheezburger.com/47231237/cat-sibling-memes-for-a-meowjestic-meme-competition-with-your-sibling",
+      "title": "Cat Sibling Memes for a Meowjestic Meme Competition With Your Sibling",
+      "published": "2026-10-28T10:15:00+00:00",
+      "author": "Melissa Knudson",
+      "description": "Have you punched and hugged your sibling today? Yes, preferably both at the same time. Growing up with a sibling is growing up with a friend. A friend that is constantly overstepping their boundaries and talking to your parents too much when you also happened to do something wrong, but a friend, after all. To be fair, you probably told on them as payback a couple of times too. A sibling is always someone you can count on. For example, you can count on them to enter your room and steal your clot…",
+      "link": "https://cheezburger.com/47231237/cat-sibling-memes-for-a-meowjestic-meme-competition-with-your-sibling",
+      "image": "https://i.chzbgr.com/thumb-large/47231237/h169A8D7A/cat-sibling-memes-for-a-meowjestic-meme-competition-with-your-sibling",
+      "feed_name": "I Can Has Cheezburger?",
+      "feed_title": "I Can Has Cheezburger?",
+      "category": "funny",
+      "feed_url": "http://feeds.feedburner.com/icanhascheezburger",
+      "feed_icon": "https://i.chzbgr.com/s/unversioned/images/logos/IcanHas_logo_ol.png"
+    },
     {
       "id": "https://www.penny-arcade.com/comic/2026/10/28/nautical-naughties",
       "title": "Nautical Naughties",
@@ -17,6 +31,20 @@
       "category": "funny",
       "feed_url": "https://www.penny-arcade.com/feed",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.penny-arcade.com&sz=64"
+    },
+    {
+      "id": "https://thedailywtf.com/articles/session-recording",
+      "title": "CodeSOD: Session Recording",
+      "published": "2026-10-28T06:30:00+00:00",
+      "author": "Remy Porter",
+      "description": "We still get a fair bit of old school ASP .Net webforms code, which was cutting edge about twenty years ago, but remains a collection of bad choices that tried to make web programming feel like desktop programming. As an aside, what a reversed world we live in today, where everyone uses Electron and our desktop programming feels like web programming. In any case, Thomas sends us some pretty ugly webforms code. Me .Session( \"Albumid\" ) = CType(e.Item.FindControl( \"lblAlbumID\" ), Label).Text If N…",
+      "link": "https://thedailywtf.com/articles/session-recording",
+      "image": "https://thedailywtf.com/images/inedo/proget-icon.png",
+      "feed_name": "The Daily WTF",
+      "feed_title": "The Daily WTF",
+      "category": "funny",
+      "feed_url": "http://syndication.thedailywtf.com/TheDailyWtf",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thedailywtf.com&sz=64"
     },
     {
       "id": "https://cheezburger.com/47230469/dad-refuses-to-let-mom-buy-halloween-costumes-for-his-2-daughters-but-buys-himself-a-halloween",
