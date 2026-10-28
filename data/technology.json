@@ -1,16 +1,30 @@
 {
   "category": "technology",
-  "updated": "2026-10-28T22:32:18.206635+00:00",
+  "updated": "2026-10-28T23:03:24.279757+00:00",
   "count": 1000,
   "summary": {
-    "text": "• A hacker stole personal data of over 40,000 DHS employees, including names, job titles, phone numbers, emails, and office locations.\n• Apple debuted a $2,899 MacBook Pro with an OLED touch display, and CNET livestreamed durability tests of the iPhone Duo.\n• Google expanded AI Mode ads to 10 countries, including Canada and India, and Alphabet released its Q3 2026 earnings remarks.\n• Akai is embracing community vibe-coded mods for its upcoming MPC Sample Key.",
-    "generated_at": "2026-10-28T22:03:46.487032+00:00",
+    "text": "• CNET published an FAQ about its Fold-A-Phone project explaining why the folds are not randomized.\n• According to the excerpt, randomizing them would have greatly increased development time and complexity for very little measurable benefit.\n• The excerpt is cut off, so no further details are available.",
+    "generated_at": "2026-10-28T23:03:24.279757+00:00",
     "window_minutes": 60,
-    "item_count": 7,
-    "key": "ab5ca03e7b3c7925983441984930524fafe1eaab",
+    "item_count": 1,
+    "key": "c5d501e146b9c58ace7867687dd7dc0c94c24008",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "yt:video:0KtTNkBW4NY",
+      "title": "Fold-A-Phone FAQ: Why Aren't We Randomizing The Folds?",
+      "published": "2026-10-28T22:20:03+00:00",
+      "author": "CNET",
+      "description": "Although we would love to account for every possible use case, doing so along these lines would have drastically increased the development time and complexity of the project for very little measurable gain. Perhaps we can explore more varied interaction methods if/when the Fold-a-Phone 2 test is on our development docket. Host: CNET Labs Director, Matthew Murray Read more about it our Fold-A-Phone machine and iPhone Duo testing at CNET.com: https://www.cnet.com/tech/mobile/watch-us-fold-the-iph…",
+      "link": "https://www.youtube.com/shorts/0KtTNkBW4NY",
+      "image": "https://i1.ytimg.com/vi/0KtTNkBW4NY/hqdefault.jpg",
+      "feed_name": "CNET",
+      "feed_title": "CNET",
+      "category": "technology",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?user=CNETTV",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64"
+    },
     {
       "id": "01M6231702RTPQEFFEW6PFP307",
       "title": "10 Hacks Every Fitbit Edge User Should Know",
@@ -2734,7 +2748,7 @@
       "author": "Cherlynn Low",
       "description": "Reports indicate that a \"MacBook Ultra\" with a touch-sensitive display is likely on the agenda today.",
       "link": "https://www.engadget.com/2299176/apple-pro-and-tell-macbook-event-live-blog/",
-      "image": "https://www.engadget.com/img/gallery/apple-pro-and-tell-macbook-event-live-blog/l-intro-1793207087.jpg",
+      "image": "https://www.engadget.com/img/gallery/apple-pro-and-tell-macbook-event-live-blog/l-intro-1793227331.jpg",
       "feed_name": "Engadget",
       "feed_title": "Engadget - Technology News & Expert Reviews",
       "category": "technology",
@@ -13996,20 +14010,6 @@
       "category": "technology",
       "feed_url": "https://readwrite.com/feed/",
       "feed_icon": "https://readwrite.com/wp-content/uploads/2024/10/cropped-readwrite-favicon-32x32.png"
-    },
-    {
-      "id": "4a5106e0-6e7b-11f1-94bf-1fb71a6a68f7",
-      "title": "The $8 million AI music scam",
-      "published": "2026-10-14T18:29:00+00:00",
-      "author": "The Verge",
-      "description": "A man named Mike Smith was recently sentenced to 18 months in prison, and a fine in excess of $8 million, for creating an AI system that faked billions of streams and earned him millions in royalties. Wired's Kate Knibbs explains how Smith pulled it off, how he got caught, and what this case means for the internet's growing slop problems. Vote for us in the Signal Awards! ⁠Vote Vergecast: Best Technology Podcast⁠ ⁠Vote Version History: Best History Podcast⁠ ⁠Vote Decoder: Best Business Podcast⁠…",
-      "link": null,
-      "image": null,
-      "feed_name": "The Vergecast",
-      "feed_title": "The Vergecast",
-      "category": "technology",
-      "feed_url": "https://feeds.megaphone.fm/vergecast",
-      "feed_icon": "https://megaphone.imgix.net/podcasts/e4c412e6-e1f0-11e8-9bde-83f9d376f059/image/fa367fa8b1b6ca01fc4b8c34d83ba4d8.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
     }
   ]
 }

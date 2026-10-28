@@ -1,16 +1,30 @@
 {
   "category": "DIY",
-  "updated": "2026-10-28T22:32:18.206635+00:00",
-  "count": 294,
+  "updated": "2026-10-28T23:03:24.279757+00:00",
+  "count": 295,
   "summary": {
-    "text": "• Netflix is adding horror movies in time for Halloween watch parties, with titles to keep the scary mood going.\n• Six common mistakes can make Pi-hole, the privacy tool, the least secure part of your home network.",
-    "generated_at": "2026-10-28T22:03:46.487032+00:00",
+    "text": "• How-To Geek shows how to add the Pixel 11's most exclusive feature to a Pixel 8a.\n• A How-To Geek writer put NFC tags on their appliances so they no longer have to search for manuals.\n• Both items are from How-To Geek and were published in the last hour.",
+    "generated_at": "2026-10-28T23:03:24.279757+00:00",
     "window_minutes": 60,
     "item_count": 2,
-    "key": "cfb456df3c36a30341b8f50c1b80b77370c7bbab",
+    "key": "34eedeadbe017edf67de414bb82edbca239a690a",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.howtogeek.com/heres-how-i-added-the-pixel-11s-most-exclusive-feature-to-my-pixel-8a/",
+      "title": "Here's how I added the Pixel 11's most exclusive feature to my Pixel 8a",
+      "published": "2026-10-28T23:00:15+00:00",
+      "author": "Andrew Heinzman",
+      "description": "I'm a Rambler.",
+      "link": "https://www.howtogeek.com/heres-how-i-added-the-pixel-11s-most-exclusive-feature-to-my-pixel-8a/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/using-rambler-voice-typing-with-gboard-on-a-pixel-8a.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/nfc-tags-on-appliances-stops-searching-for-manuals/",
       "title": "I put NFC tags on my appliances so I could stop searching for their manuals",
