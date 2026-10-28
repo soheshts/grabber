@@ -1,9 +1,30 @@
 {
   "category": "space",
-  "updated": "2026-10-28T05:32:24.855150+00:00",
-  "count": 121,
-  "summary": null,
+  "updated": "2026-10-28T06:03:00.402958+00:00",
+  "count": 122,
+  "summary": {
+    "text": "• NASA's Curiosity blog for sols 5043-5049 reports the rover is preparing to drill at a site called \"Nazca,\" per a post by Goddard planetary scientist Lucy Lim.\n• The planning date listed is Friday, Oct. 16, 2026.\n• The update follows the Basque Lakes drill campaign, after which Curiosity returned to a spot the item describes only partially.",
+    "generated_at": "2026-10-28T06:03:00.402958+00:00",
+    "window_minutes": 60,
+    "item_count": 1,
+    "key": "61bae4d50665635d31fd63360d4c97f0af4f4fc8",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "https://science.nasa.gov/blog/curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca/",
+      "title": "Curiosity Blog, Sols 5043-5049: Preparing to Drill at ‘Nazca’",
+      "published": "2026-10-28T05:39:46+00:00",
+      "author": null,
+      "description": "Written by Lucy Lim, Planetary Scientist at NASA’s Goddard Space Flight Center Earth planning date: Friday, Oct. 16, 2026 Following the Basque Lakes drill campaign, Curiosity has returned to a spot just a few meters away from the “Chiu Chiu” block to conduct our next drill campaign. “Chiu Chiu” itself wasn’t a good candidate for […]",
+      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca/",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/october/https___mars.nasa.gov_msl-raw-images_msss_05048_mhli_5048MH0009170001804540R00_DXXX.jpg?w=1584&h=1184&fit=clip&crop=faces%2Cfocalpoint",
+      "feed_name": "NASA Breaking News",
+      "feed_title": "NASA",
+      "category": "space",
+      "feed_url": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.nasa.gov&sz=64"
+    },
     {
       "id": "https://science.nasa.gov/image-article/apod-2026-october-28-the-mutual-occultation-of-ganymede-and-io/",
       "title": "APOD: 2026 October 28 – The Mutual Occultation of Ganymede and Io",
