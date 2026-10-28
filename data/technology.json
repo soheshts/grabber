@@ -1,16 +1,44 @@
 {
   "category": "technology",
-  "updated": "2026-10-28T10:02:59.089328+00:00",
-  "count": 783,
+  "updated": "2026-10-28T10:33:10.195280+00:00",
+  "count": 787,
   "summary": {
-    "text": "• The FIA has named Amazon Web Services its official partner for AI, cloud computing, machine learning and cloud infrastructure in motor sport, per The Next Web.\n• The US Federal Election Commission has taken its electronic filing system offline after an attempted cyberattack, Reuters reported citing an internal email, ahead of the midterms.\n• A Remesh survey of 107 US and UK HR leaders found that most large companies already listen to employees, arguing that more listening isn't the same as better listening.",
-    "generated_at": "2026-10-28T10:02:59.089328+00:00",
+    "text": "• Meta's earnings are framed around Zuckerberg delivering on his promise, with Stratechery arguing that investors who believe in Muse must support its heavy compute spending.\n• The US CFTC is again probing whether Polymarket broke a 2022 deal to keep US users off its offshore platform, Reuters reported, citing two people.\n• The FIA, motor sport's governing body, named AWS its official partner for AI, cloud computing, machine learning and cloud infrastructure.",
+    "generated_at": "2026-10-28T10:33:10.195280+00:00",
     "window_minutes": 60,
     "item_count": 3,
-    "key": "5375c84c1918fa0c8f47397d7150250316ff991d",
+    "key": "55a0c352f36762aad7aa2214b622cb4a57c208bb",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://stratechery.com/?p=20613",
+      "title": "Meta Earnings, Muse and the Frontier, Musebook",
+      "published": "2026-10-28T10:06:13+00:00",
+      "author": "Ben Thompson",
+      "description": "Meta's earnings come in the context of Zuckerberg delivering on his promise; if investors believe in Muse they must support Meta's spending on compute.",
+      "link": "https://stratechery.com/2026/meta-earnings-muse-and-the-frontier-musebook/",
+      "image": null,
+      "feed_name": "Stratechery by Ben Thompson",
+      "feed_title": "Stratechery by Ben Thompson",
+      "category": "technology",
+      "feed_url": "http://stratechery.com/feed/",
+      "feed_icon": "https://i0.wp.com/stratechery.com/wp-content/uploads/2018/03/cropped-android-chrome-512x512-1.png?fit=32%2C32&ssl=1"
+    },
+    {
+      "id": "TheNextWeb=230e0e4dd756111817a12724ece7c83d",
+      "title": "Polymarket faces new CFTC probe over US users on offshore platform",
+      "published": "2026-10-28T10:05:37+00:00",
+      "author": "Alina Maria Stan",
+      "description": "The US Commodity Futures Trading Commission (CFTC) is again looking into whether Polymarket broke a 2022 deal to keep US users off its offshore platform. Reuters reported the news, citing two people familiar with the matter. According to Reuters, the probe is part of a wider CFTC investigation into the prediction market that began earlier this year. TNW […] This story continues at The Next Web",
+      "link": "https://thenextweb.com/news/polymarket-faces-new-cftc-probe-over-us-users-on-offshore-platform",
+      "image": "https://media.thenextweb.com/2026/10/stock-market-screen-red-green-price-charts.avif",
+      "feed_name": "The Next Web",
+      "feed_title": "The Next Web",
+      "category": "technology",
+      "feed_url": "https://thenextweb.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
     {
       "id": "TheNextWeb=c8faa8840720b06f75c4265562f3023b",
       "title": "FIA names AWS its official AI and cloud partner for motor sport",
@@ -82,6 +110,20 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
     },
     {
+      "id": "https://readwrite.com/?p=644696",
+      "title": "Caesars Digital profit jumps 57% as its estimated online casino share slips to 6.4%",
+      "published": "2026-10-28T08:46:15+00:00",
+      "author": "ReadWrite Editor",
+      "description": "Caesars Digital's profit rose 57% in what is likely Caesars' last quarter as a public company, while Las Vegas profit fell and the group's net loss more than doubled. The online unit is earning more even as its estimated share of US online casino and sports betting shrinks. The post Caesars Digital profit jumps 57% as its estimated online casino share slips to 6.4% appeared first on ReadWrite .",
+      "link": "https://readwrite.com/caesars-digital-profit-jumps-57-as-its-estimated-online-casino-share-slips-to-6-4/",
+      "image": "https://readwrite.com/wp-content/uploads/2026/10/match-644696-900x600.jpg",
+      "feed_name": "ReadWrite",
+      "feed_title": "ReadWrite",
+      "category": "technology",
+      "feed_url": "https://readwrite.com/feed/",
+      "feed_icon": "https://readwrite.com/wp-content/uploads/2024/10/cropped-readwrite-favicon-32x32.png"
+    },
+    {
       "id": "https://www.engadget.com/2299227/meta-tamagotchi-like-ai-digital-pet-app-waddle-world/",
       "title": "Meta's Waddle World is a Tamagotchi-like AI pet app",
       "published": "2026-10-28T08:40:19+00:00",
@@ -94,6 +136,20 @@
       "category": "technology",
       "feed_url": "https://www.engadget.com/rss.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
+    {
+      "id": "https://readwrite.com/us-igaming-growth-citizens-q3-2026/",
+      "title": "US iGaming Growth Slows to 12%, the Lowest on Record, Citizens Data Shows",
+      "published": "2026-10-28T08:31:06+00:00",
+      "author": "ReadWrite",
+      "description": "Citizens data shows US iGaming revenue grew 12% year on year in Q3 2026, the slowest rate on record, while sportsbook handle rose 7%. The post US iGaming Growth Slows to 12%, the Lowest on Record, Citizens Data Shows appeared first on ReadWrite .",
+      "link": "https://readwrite.com/us-igaming-growth-citizens-q3-2026/",
+      "image": "https://readwrite.com/wp-content/uploads/2026/10/us-igaming-growth-citizens-q3-2026-900x600.jpg",
+      "feed_name": "ReadWrite",
+      "feed_title": "ReadWrite",
+      "category": "technology",
+      "feed_url": "https://readwrite.com/feed/",
+      "feed_icon": "https://readwrite.com/wp-content/uploads/2024/10/cropped-readwrite-favicon-32x32.png"
     },
     {
       "id": "04sONEhwCHBdkTCSiPT0Yv4",
@@ -9860,7 +9916,7 @@
       "author": "ReadWrite Editor",
       "description": "New Jersey's online casinos posted the third-highest monthly win in the state's history in September 2026 and again beat Atlantic City's casino floors. With sportsbook revenue shrinking by double digits, online play is now carrying the state's gaming growth. The post New Jersey online casinos win $274.8 million in September, outearning Atlantic City floors appeared first on ReadWrite .",
       "link": "https://readwrite.com/new-jersey-online-casinos-outearn-atlantic-city-floors-in-september-and-year-to-date/",
-      "image": "https://readwrite.com/wp-content/uploads/2026/10/new-jersey-state-house-1-900x600.jpg",
+      "image": "https://readwrite.com/wp-content/uploads/2026/10/match-641605-900x506.jpg",
       "feed_name": "ReadWrite",
       "feed_title": "ReadWrite",
       "category": "technology",

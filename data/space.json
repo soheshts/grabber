@@ -1,9 +1,30 @@
 {
   "category": "space",
-  "updated": "2026-10-28T10:02:59.089328+00:00",
-  "count": 122,
-  "summary": null,
+  "updated": "2026-10-28T10:33:10.195280+00:00",
+  "count": 123,
+  "summary": {
+    "text": "• Space.com reports new research suggesting single black holes may split in two, the reverse of the long-known merger of colliding black holes.\n• According to the item, this splitting may happen only if the black holes spin at extreme speeds.\n• The item is truncated, so further details of the research are not available here.",
+    "generated_at": "2026-10-28T10:33:10.195280+00:00",
+    "window_minutes": 60,
+    "item_count": 1,
+    "key": "ea8c42525303dd26e7a7984ea0deefd16bdd7c2f",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "XHrVinFLHrYRHZzj8NuQL7",
+      "title": "Black holes can split in two — but only if they spin at extreme speeds",
+      "published": "2026-10-28T10:00:00+00:00",
+      "author": "Robert Lea",
+      "description": "Scientists have long known that when two black holes collide, they merge to create a more massive black hole. New research suggests that the opposite may happen too: single black holes may split in two.",
+      "link": "https://www.space.com/astronomy/black-holes/black-holes-can-split-in-two-but-only-if-they-spin-at-extreme-speeds",
+      "image": "https://cdn.mos.cms.futurecdn.net/g6GtMnubb79QUr4bKsdaMM-1920-80.png",
+      "feed_name": "Space.com",
+      "feed_title": "Latest from Space.com",
+      "category": "space",
+      "feed_url": "https://www.space.com/feeds/all",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.space.com&sz=64"
+    },
     {
       "id": "https://science.nasa.gov/blog/curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca/",
       "title": "Curiosity Blog, Sols 5043-5049: Preparing to Drill at ‘Nazca’",

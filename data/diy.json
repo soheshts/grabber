@@ -1,16 +1,44 @@
 {
   "category": "DIY",
-  "updated": "2026-10-28T10:02:59.089328+00:00",
-  "count": 235,
+  "updated": "2026-10-28T10:33:10.195280+00:00",
+  "count": 237,
   "summary": {
-    "text": "• MUO suggests checking your drawer for old RAM, since a spare stick can be worth more to you than its resale price.\n• How-To Geek lists four things the writer dislikes about 3D printing, while saying they have no plans to stop.",
-    "generated_at": "2026-10-28T10:02:59.089328+00:00",
+    "text": "• A free Android app offers voice typing features Google reserves for new $800 phones.\n• Three new Android Auto features were highlighted, including some that readers may have missed.\n• An old spare RAM stick can be worth more to you than its resale price.\n• A How-To Geek writer lists four frustrations with 3D printing, though they plan to keep using it.",
+    "generated_at": "2026-10-28T10:33:10.195280+00:00",
     "window_minutes": 60,
-    "item_count": 2,
-    "key": "f41fd9a4f9a8c53872d996284852b2d599a180be",
+    "item_count": 4,
+    "key": "b9b486123ff971da417bd3778d2319f51b03bc7a",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.makeuseof.com/one-app-makes-it-easy-to-dictate-text-on-android/",
+      "title": "I’ve almost stopped typing on my Android with this one app",
+      "published": "2026-10-28T10:30:16+00:00",
+      "author": "Abhijith N Arjunan",
+      "description": "This free-to-use app offers many voice typing features that Google expects you to only get with a new $800 phone.",
+      "link": "https://www.makeuseof.com/one-app-makes-it-easy-to-dictate-text-on-android/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/04/samsung-messages-and-wisper-flow-bubble-on-a-samsung-galaxy-z-flip-6.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/3-new-and-powerful-android-auto-features-you-might-have-missed/",
+      "title": "3 new and powerful Android Auto features you might have missed",
+      "published": "2026-10-28T10:30:15+00:00",
+      "author": "Namerah Saud Fatmi",
+      "description": "Catch up on these three new Android Auto features you slept on.",
+      "link": "https://www.howtogeek.com/3-new-and-powerful-android-auto-features-you-might-have-missed/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/10/google-android-auto-play-gm-may-2026.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/theres-never-been-a-better-reason-to-check-your-drawer-for-old-ram/",
       "title": "There's never been a better reason to check your drawer for old RAM",

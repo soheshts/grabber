@@ -1,16 +1,30 @@
 {
   "category": "gaming",
-  "updated": "2026-10-28T10:02:59.089328+00:00",
-  "count": 567,
+  "updated": "2026-10-28T10:33:10.195280+00:00",
+  "count": 570,
   "summary": {
-    "text": "• Rockstar Games employees have set a union vote for next month, taking place during the Grand Theft Auto 6 release window. If successful, it would be the largest recognised union across the UK games industry.\n• GTA 6 will reportedly be a 210GB download on PlayStation 5, according to new information cited by Eurogamer.\n• Polygon looks back at Matsuri Hino's shojo classic and its 2008 adaptation, calling them divisive guilty pleasures 18 years on.",
-    "generated_at": "2026-10-28T10:02:59.089328+00:00",
+    "text": "• Sucker Punch laid off 24 staff weeks after shipping the Echoes of Sekigahara expansion for Ghost of Yōtei, following earlier PlayStation studio cuts this year.\n• Rockstar employees vote next month on recognising their developer union, during the GTA 6 release window. If successful, it would be the largest recognised union in UK games.\n• The Rings of Power showrunner says season 3 will be a soft reboot, offering a new entry point for fans.\n• Matsuri Hino's shojo classic and its 2008 adaptation remain divisive guilty pleasures 18 years on.",
+    "generated_at": "2026-10-28T10:33:10.195280+00:00",
     "window_minutes": 60,
-    "item_count": 3,
-    "key": "fe0d65e839a6dcefabc190bd844dd3f8674a0d57",
+    "item_count": 4,
+    "key": "db1ff9a6d646a5aae2a168e21106cb28e7b51d7b",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.polygon.com/rings-of-power-season-3-soft-reboot-new-direction/",
+      "title": "The Rings of Power Season 3 Will Be a Soft Reboot, Showrunner Says",
+      "published": "2026-10-28T10:25:25+00:00",
+      "author": "Francesco Cacciatore",
+      "description": "The Rings of Power showrunner reveals that the series is headed in a new direction with season 3, making it a great entry point for new fans.",
+      "link": "https://www.polygon.com/rings-of-power-season-3-soft-reboot-new-direction/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2024/08/LOTR_S2_Teaser_1_01011020_2505130000_3000.jpg",
+      "feed_name": "Polygon -  All",
+      "feed_title": "Polygon.com",
+      "category": "gaming",
+      "feed_url": "https://www.polygon.com/rss/index.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.polygon.com&sz=64"
+    },
     {
       "id": "https://www.polygon.com/vampire-knight-gothic-romance-guilty-pleasure/",
       "title": "18 Years Later, The Definitive 2000s Gothic Cult Classic is Still a Divisive Guilty Pleasure",
@@ -24,6 +38,20 @@
       "category": "gaming",
       "feed_url": "https://www.polygon.com/rss/index.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.polygon.com&sz=64"
+    },
+    {
+      "id": "https://www.escapistmagazine.com/?p=1209216",
+      "title": "Sucker Punch Lays Off 24 Staff Weeks After Ghost of Yōtei’s Echoes of Sekigahara Launch",
+      "published": "2026-10-28T09:50:37+00:00",
+      "author": "The Escapist Editor",
+      "description": "Sucker Punch Productions has cut 24 jobs less than a month after shipping a story expansion for Ghost of Yōtei, a game that sold millions. The layoffs follow earlier PlayStation studio cuts this year, and staff are waiting on an update about the studio's future. The post Sucker Punch Lays Off 24 Staff Weeks After Ghost of Yōtei’s Echoes of Sekigahara Launch appeared first on The Escapist .",
+      "link": "https://www.escapistmagazine.com/sucker-punch-lays-off-24-staff-weeks-after-ghost-of-yoteis-echoes-of-sekigahara-launch/",
+      "image": null,
+      "feed_name": "Escapist Magazine",
+      "feed_title": "The Escapist",
+      "category": "gaming",
+      "feed_url": "https://www.escapistmagazine.com/v2/feed/",
+      "feed_icon": "https://www.escapistmagazine.com/wp-content/uploads/2020/04/cropped-escapist-favicon.jpg?resize=176,176"
     },
     {
       "id": "https://www.eurogamer.net/rockstar-union-vote-november",
@@ -52,6 +80,20 @@
       "category": "gaming",
       "feed_url": "https://www.eurogamer.net/?format=rss",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.eurogamer.net&sz=64"
+    },
+    {
+      "id": "https://www.escapistmagazine.com/rockstar-iwgb-union-recognition-vote-gta-6/",
+      "title": "Rockstar UK Staff Will Vote on IWGB Union Recognition as GTA 6 Launches",
+      "published": "2026-10-28T08:34:22+00:00",
+      "author": "Escapist Staff",
+      "description": "Rockstar staff in the UK will vote on IWGB union recognition from November 12 to 26, while the union-busting tribunal heads into closing arguments. The post Rockstar UK Staff Will Vote on IWGB Union Recognition as GTA 6 Launches appeared first on The Escapist .",
+      "link": "https://www.escapistmagazine.com/rockstar-iwgb-union-recognition-vote-gta-6/",
+      "image": null,
+      "feed_name": "Escapist Magazine",
+      "feed_title": "The Escapist",
+      "category": "gaming",
+      "feed_url": "https://www.escapistmagazine.com/v2/feed/",
+      "feed_icon": "https://www.escapistmagazine.com/wp-content/uploads/2020/04/cropped-escapist-favicon.jpg?resize=176,176"
     },
     {
       "id": "https://www.polygon.com/starship-troopers-leaving-netflix-november-2026/",
