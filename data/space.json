@@ -1,9 +1,30 @@
 {
   "category": "space",
-  "updated": "2026-10-28T15:03:48.519888+00:00",
-  "count": 126,
-  "summary": null,
+  "updated": "2026-10-28T15:32:43.016297+00:00",
+  "count": 127,
+  "summary": {
+    "text": "• Space.com reports that the final trailer for \"Dune: Part Three\" has been released.\n• The spoiler-heavy look reignites war on Arrakis and leaves more questions than answers.\n• It is loaded with action and drama that set it apart from the pages of \"Dune: Messiah.\"",
+    "generated_at": "2026-10-28T15:32:43.016297+00:00",
+    "window_minutes": 60,
+    "item_count": 1,
+    "key": "3bbf8e06417fca86f2fea92740ab177950f1e631",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "gdvwTMguZB6yxEHM7A5hw8",
+      "title": "The final ‘Dune: Part Three’ trailer reignites war on Arrakis and leaves us with more questions than answers",
+      "published": "2026-10-28T15:00:00+00:00",
+      "author": "Fran Ruiz",
+      "description": "The spoilerific final look at Denis Villeneuve's third and final sci-fi epic is loaded with action and drama that set it apart from Dune: Messiah's pages.",
+      "link": "https://www.space.com/entertainment/space-movies-shows/the-final-dune-part-three-trailer-reignites-war-on-arrakis-and-leaves-us-with-more-questions-than-answers",
+      "image": "https://cdn.mos.cms.futurecdn.net/fpJh3YVczoGzvfCVhR2QLf-1920-80.jpg",
+      "feed_name": "Space.com",
+      "feed_title": "Latest from Space.com",
+      "category": "space",
+      "feed_url": "https://www.space.com/feeds/all",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.space.com&sz=64"
+    },
     {
       "id": "NqLkXo4Zk3brMkTUrwCRGX",
       "title": "Satellites watch an escaping Antarctic iceberg | Space photo of the day for Oct. 28, 2026",

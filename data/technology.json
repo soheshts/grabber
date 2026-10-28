@@ -1,7 +1,7 @@
 {
   "category": "technology",
-  "updated": "2026-10-28T15:03:48.519888+00:00",
-  "count": 867,
+  "updated": "2026-10-28T15:32:43.016297+00:00",
+  "count": 884,
   "summary": {
     "text": "• Apple raised the MacBook Neo's student price to $649 on its Education Store, up $150 from the initial $499.\n• Google has begun certifying registered app stores for Android after losing the Epic Games antitrust case.\n• An xAI subsidiary is offering to buy homes near its Mississippi data center if residents don't join a lawsuit over noise.\n• CISA added both PHP2Shell flaws to its Known Exploited Vulnerabilities catalogue, confirming attackers are exploiting them.",
     "generated_at": "2026-10-28T15:03:48.519888+00:00",
@@ -11,6 +11,34 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "TheNextWeb=a9658d64b33995a26866f00a8f5eb50a",
+      "title": "Anthropic’s IPO filing leaves Ben Mann out of its founder voting group",
+      "published": "2026-10-28T15:16:05+00:00",
+      "author": "Cristian Dina",
+      "description": "Anthropic’s IPO filing leaves Ben Mann, who co-leads its Labs team, out of the founder group that will control the company after it lists. A footnote on page 248 of the S-1 prospectus, filed on 26 October, says Mann is “often referred to as a co-founder”. He is not a member of the Founder LLC, […] This story continues at The Next Web",
+      "link": "https://thenextweb.com/news/ben-mann-anthropic-ipo-founder-llc",
+      "image": "https://media.thenextweb.com/2026/10/anthropic-logo-smartphone-laptop-purple.avif",
+      "feed_name": "The Next Web",
+      "feed_title": "The Next Web",
+      "category": "technology",
+      "feed_url": "https://thenextweb.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
+    {
+      "id": "yt:video:J5PBkq6wp_o",
+      "title": "Fold-A-Phone Day 3: We Hit 98K!",
+      "published": "2026-10-28T15:14:21+00:00",
+      "author": "CNET",
+      "description": "Join us live for iPhone Duo ASMR on YouTube at 1pm ET to 5pm ET every Monday through Friday. #foldaphone #iphoneduo #crackgate #apple #allthingsmobile",
+      "link": "https://www.youtube.com/shorts/J5PBkq6wp_o",
+      "image": "https://i3.ytimg.com/vi/J5PBkq6wp_o/hqdefault.jpg",
+      "feed_name": "CNET",
+      "feed_title": "CNET",
+      "category": "technology",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?user=CNETTV",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64"
+    },
     {
       "id": "https://www.theverge.com/?p=1017815",
       "title": "8BitDo’s new Xbox Elite-style controller sets a high bar for customization",
@@ -38,6 +66,20 @@
       "category": "technology",
       "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
       "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
+    },
+    {
+      "id": "TheNextWeb=0a1495097f6963b2b55e52f72585078c",
+      "title": "Musk’s AI Odyssey arrives as a seven-minute episode, and critics pan it",
+      "published": "2026-10-28T14:55:22+00:00",
+      "author": "Ana Maria Constantin",
+      "description": "Elon Musk’s AI Odyssey has arrived as a seven-minute first episode, not the full-length film he promised. Grok Imagine, the video tool behind it, posted the episode on X on 23 October. Wonder Studios, a London-based startup, made it with the US director Dev Walker. Watch Episode 1 of our Odyssey series made with Grok […] This story continues at The Next Web",
+      "link": "https://thenextweb.com/news/musk-ai-odyssey-grok-imagine-wonder-studios",
+      "image": "https://media.thenextweb.com/2026/10/grok-logo-smartphone-laptop-keyboard.avif",
+      "feed_name": "The Next Web",
+      "feed_title": "The Next Web",
+      "category": "technology",
+      "feed_url": "https://thenextweb.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
     },
     {
       "id": "https://www.theverge.com/?p=1020629",
@@ -82,6 +124,20 @@
       "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
     },
     {
+      "id": "00udpv6chff98UIpjk6iBWx",
+      "title": "Amazon just announced the Echo Show 16, and somehow its already on sale",
+      "published": "2026-10-28T14:41:08+00:00",
+      "author": null,
+      "description": "Save $100 on the brand-new Amazon Echo Show 16 during this early preorder deal ahead of the holidays.",
+      "link": "https://mashable.com/tech/oct-28-amazon-echo-show-16-deal",
+      "image": "https://helios-i.mashable.com/imagery/articles/00udpv6chff98UIpjk6iBWx/hero-image.webp",
+      "feed_name": "Mashable",
+      "feed_title": "Mashable",
+      "category": "technology",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
+    },
+    {
       "id": "TheNextWeb=4c6af6098addf983c467d1ff40ec03ea",
       "title": "Satya Nadella says he was wrong to think AI alignment would come with scale",
       "published": "2026-10-28T14:38:38+00:00",
@@ -94,6 +150,20 @@
       "category": "technology",
       "feed_url": "https://thenextweb.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
+    {
+      "id": "06B8lUyFyo0OuYn76nOpTK9",
+      "title": "Pokémon GO has kicked off its 2-part Halloween 2026 event — everything you can catch",
+      "published": "2026-10-28T14:33:03+00:00",
+      "author": null,
+      "description": "Pokémon GO's two-part Halloween 2026 event is officially underway. Here’s the breakdown on costumed Pikachu, Shiny Greavard, and GO Pass rewards.",
+      "link": "https://mashable.com/life/pokemon-go-halloween-2026-event-guide",
+      "image": "https://helios-i.mashable.com/imagery/articles/06B8lUyFyo0OuYn76nOpTK9/hero-image.png",
+      "feed_name": "Mashable",
+      "feed_title": "Mashable",
+      "category": "technology",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
     },
     {
       "id": "01M619S6VG20JXY66C81C857NA",
@@ -110,6 +180,48 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=lifehacker.com&sz=64"
     },
     {
+      "id": "061o31w7DVYxSQRtRdsSAnZ",
+      "title": "Krispy Kremes $13 Halloween dozen is officially live — how to claim through Oct. 29",
+      "published": "2026-10-28T14:27:17+00:00",
+      "author": null,
+      "description": "Krispy Kreme turned its Original Glazed doughnuts bright orange for Halloween. Grab the limited-edition All Jacked Up Dozen for $13 before it disappears on Oct. 29",
+      "link": "https://mashable.com/life/krispy-kreme-halloween-all-jacked-up-dozen-deal",
+      "image": "https://helios-i.mashable.com/imagery/articles/061o31w7DVYxSQRtRdsSAnZ/hero-image.png",
+      "feed_name": "Mashable",
+      "feed_title": "Mashable",
+      "category": "technology",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
+    },
+    {
+      "id": "01qrJjjgZnhPAMtQYB4xPYI",
+      "title": "Apple Pro and Tell event: Everything announced so far, from iPad Mini to musical AI assistant",
+      "published": "2026-10-28T14:26:53+00:00",
+      "author": null,
+      "description": "Apple announced a bunch of new devices ahead of its \"Pro and Tell\" event in Los Angeles. Learn about the new iPad Mini and MacBook devices.",
+      "link": "https://mashable.com/tech/apple-pro-and-tell-event-everything-announced-m6-macbook-pro-ipad-mini",
+      "image": "https://helios-i.mashable.com/imagery/articles/01qrJjjgZnhPAMtQYB4xPYI/hero-image.jpg",
+      "feed_name": "Mashable",
+      "feed_title": "Mashable",
+      "category": "technology",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
+    },
+    {
+      "id": "03RrFLicTV9NLKTJTaSq5Kj",
+      "title": "15+ early Black Friday deals under $25 that dont suck",
+      "published": "2026-10-28T14:25:15+00:00",
+      "author": null,
+      "description": "Shopping on a budget this holiday season? Here are the best early Black Friday deals to shop for less than $25.",
+      "link": "https://mashable.com/tech/best-early-black-friday-deals-under-25-2026",
+      "image": "https://helios-i.mashable.com/imagery/articles/03RrFLicTV9NLKTJTaSq5Kj/hero-image.png",
+      "feed_name": "Mashable",
+      "feed_title": "Mashable",
+      "category": "technology",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
+    },
+    {
       "id": "TheNextWeb=15f8700397126935fd664186eb557198",
       "title": "CISA confirms attackers are exploiting both PHP2Shell flaws",
       "published": "2026-10-28T14:23:18+00:00",
@@ -122,6 +234,20 @@
       "category": "technology",
       "feed_url": "https://thenextweb.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
+    {
+      "id": "058FCSZ847YWgi0JmNe8Zy4",
+      "title": "Proton VPN kicked off Black Friday early with a massive 75% discount — get it for $2.49 per month",
+      "published": "2026-10-28T14:22:39+00:00",
+      "author": null,
+      "description": "Proton VPN kicked off its Black Friday sale, knocking 75% off its 2-year VPN Plus subscription. Grab audited no-logs privacy and high speeds for just $2.49 a month.",
+      "link": "https://mashable.com/tech/oct-28-proton-vpn-black-friday-deal",
+      "image": "https://helios-i.mashable.com/imagery/articles/058FCSZ847YWgi0JmNe8Zy4/hero-image.jpg",
+      "feed_name": "Mashable",
+      "feed_title": "Mashable",
+      "category": "technology",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
     },
     {
       "id": "https://www.theverge.com/?p=1020607",
@@ -192,6 +318,20 @@
       "category": "technology",
       "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
       "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
+    },
+    {
+      "id": "06UWRLUHuuLlOqTCgXeUutq",
+      "title": "Magic: The Gatherings The Hobbit Play Booster Box is down to a new all-time low price — save nearly $70",
+      "published": "2026-10-28T13:34:23+00:00",
+      "author": null,
+      "description": "Amazon drops MTG's The Hobbit Play Booster Box to a new all-time low of $139.99, saving $67.96 on 30 packs.",
+      "link": "https://mashable.com/life/oct-28-magic-the-gathering-the-hobbit-play-booster-box-deal",
+      "image": "https://helios-i.mashable.com/imagery/articles/06UWRLUHuuLlOqTCgXeUutq/hero-image.jpg",
+      "feed_name": "Mashable",
+      "feed_title": "Mashable",
+      "category": "technology",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
     },
     {
       "id": "01M5ZE76691V955TKMJZ42MFTC",
@@ -318,6 +458,48 @@
       "category": "technology",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
+    },
+    {
+      "id": "07jZhR1LLaboyJCSTwlL9VN",
+      "title": "Review: With the Kindle Click, reading has never been cozier",
+      "published": "2026-10-28T13:00:00+00:00",
+      "author": null,
+      "description": "The Kindle Click is Amazon's first page-turning remote. It's the perfect Kindle accessory, although we wish it worked with more Kindles.",
+      "link": "https://mashable.com/tech/kindle-click-review",
+      "image": "https://helios-i.mashable.com/imagery/reviews/07jZhR1LLaboyJCSTwlL9VN/hero-image.jpg",
+      "feed_name": "Mashable",
+      "feed_title": "Mashable",
+      "category": "technology",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
+    },
+    {
+      "id": "00CPfLI1YOmSxHg0SUBWhUf",
+      "title": "The Kindle Paperwhite Signature Edition finally justifies its price tag",
+      "published": "2026-10-28T13:00:00+00:00",
+      "author": null,
+      "description": "The Kindle Paperwhite Signature Edition used to feel like a splurge, but with its upgraded aluminum case, it's Amazon's essential e-reader.",
+      "link": "https://mashable.com/tech/kindle-paperwhite-signature-edition-2026-review",
+      "image": "https://helios-i.mashable.com/imagery/reviews/00CPfLI1YOmSxHg0SUBWhUf/hero-image.jpg",
+      "feed_name": "Mashable",
+      "feed_title": "Mashable",
+      "category": "technology",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
+    },
+    {
+      "id": "00Y4k4X5FaYHk4IbpvCjBsY",
+      "title": "Add buttons to your Kindle with Amazons new Page Turn Cover: Our review",
+      "published": "2026-10-28T13:00:00+00:00",
+      "author": null,
+      "description": "Alongside its 2026 Kindles, Amazon released a new Page Turn Cover. We tried it and love it, but it's a little overpriced.",
+      "link": "https://mashable.com/tech/kindle-page-turn-cover-review",
+      "image": "https://helios-i.mashable.com/imagery/articles/00Y4k4X5FaYHk4IbpvCjBsY/hero-image.jpg",
+      "feed_name": "Mashable",
+      "feed_title": "Mashable",
+      "category": "technology",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
     },
     {
       "id": "TheNextWeb=12c15efaad98c0962036a990410fbcfa",
@@ -486,6 +668,20 @@
       "category": "technology",
       "feed_url": "https://thenextweb.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
+    {
+      "id": "06qyLPLyWhCVfuCOvzqgnsW",
+      "title": "Amazon introduces a host of new smart home devices: Meet the updated Echo line",
+      "published": "2026-10-28T12:02:02+00:00",
+      "author": null,
+      "description": "On Oct. 28, Amazon introduced the new Echo Show 16, Echo Dot, Echo Time, Echo Studio with Home Camera, and Alexa Photo Frame. See all the details here.",
+      "link": "https://mashable.com/tech/amazon-announces-new-echo-dot-studio-time-show-16-alexa-photo-frame",
+      "image": "https://helios-i.mashable.com/imagery/articles/06qyLPLyWhCVfuCOvzqgnsW/hero-image.png",
+      "feed_name": "Mashable",
+      "feed_title": "Mashable",
+      "category": "technology",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
     },
     {
       "id": "TheNextWeb=5a844ce8c6a016e575494ba877c69db1",
@@ -838,6 +1034,34 @@
       "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
     },
     {
+      "id": "03Y2skX6wFjYLz2xLNuXPok",
+      "title": "Preorders for the Pokémon TCG Delta Reign Elite Trainer Box are cut on Amazon — save vs. Walmart",
+      "published": "2026-10-28T11:57:50+00:00",
+      "author": null,
+      "description": "Preorder the Pokémon TCG Delta Reign Elite Trainer Box for $116.40 at Amazon, now 17% off and cheaper than Walmart.",
+      "link": "https://mashable.com/life/oct-28-pokemon-tcg-30th-delta-reign-elite-trainer-box-preorder-deal",
+      "image": "https://helios-i.mashable.com/imagery/articles/03Y2skX6wFjYLz2xLNuXPok/hero-image.jpg",
+      "feed_name": "Mashable",
+      "feed_title": "Mashable",
+      "category": "technology",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
+    },
+    {
+      "id": "00Sdizh1XSSpkmMsrAe2air",
+      "title": "De’Longhi’s all-in-one coffee and espresso machine gets a fresh upgrade — where to buy",
+      "published": "2026-10-28T11:47:36+00:00",
+      "author": null,
+      "description": "De’Longhi redesigned its All-in-One coffee and espresso machine with a 20% smaller frame, a dedicated cold foam frother, rapid cold brew, and 6 brew sizes.",
+      "link": "https://mashable.com/tech/delonghi-all-in-one-coffee-espresso-machine-where-to-buy",
+      "image": "https://helios-i.mashable.com/imagery/articles/00Sdizh1XSSpkmMsrAe2air/hero-image.png",
+      "feed_name": "Mashable",
+      "feed_title": "Mashable",
+      "category": "technology",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
+    },
+    {
       "id": "TheNextWeb=73c58a14d93ab9c29b514e91a846df85",
       "title": "Parents sue OpenAI over ChatGPT advice to cut daughter’s seizure drug",
       "published": "2026-10-28T11:46:03+00:00",
@@ -906,6 +1130,20 @@
       "category": "technology",
       "feed_url": "https://thenextweb.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
+    {
+      "id": "00wxhpmcp219gBiWOFDW9Rp",
+      "title": "The SNL cast taking each other on in Hot Ones Versus is hilariously chaotic",
+      "published": "2026-10-28T11:15:38+00:00",
+      "author": null,
+      "description": "The \"SNL\" cast sat down together for a chaotic game of \"Hot Ones Versus\".",
+      "link": "https://mashable.com/entertainment/snl-cast-hot-ones-versus",
+      "image": "https://helios-i.mashable.com/imagery/videos/00wxhpmcp219gBiWOFDW9Rp/hero-image.png",
+      "feed_name": "Mashable",
+      "feed_title": "Mashable",
+      "category": "technology",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
     },
     {
       "id": "https://arstechnica.com/gadgets/2026/10/google-and-meta-subsea-cables-among-most-at-risk-from-sabotage-in-pacific/",

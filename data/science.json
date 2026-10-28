@@ -1,7 +1,7 @@
 {
   "category": "science",
-  "updated": "2026-10-28T15:03:48.519888+00:00",
-  "count": 618,
+  "updated": "2026-10-28T15:32:43.016297+00:00",
+  "count": 623,
   "summary": {
     "text": "• Physics: Delft researchers controlled a single atom's magnetic core with radio waves, while Einstein's equations suggest gravitational fields may break and reconnect.\n• Heat and drought reduce street trees' cooling capacity in Mediterranean cities, as low soil moisture limits transpiration.\n• Kew launched SeedPOD, an open-access platform aimed at easing the native seed shortage slowing nature restoration.\n• Japan enacted a law regulating genome-edited human embryos and germ cells, a significant step in reproductive governance.",
     "generated_at": "2026-10-28T15:03:48.519888+00:00",
@@ -11,6 +11,48 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/10/28/science/brain-disease-cte-nfl-football.html",
+      "title": "The High-Stakes Effort to Grasp the True Rate of Brain Disease in the N.F.L.",
+      "published": "2026-10-28T15:21:05+00:00",
+      "author": "Carolyn Y. Johnson and John Branch",
+      "description": "Using statistical techniques, a new study has arrived at a harrowing estimate: Three of four retired pro football players most likely had C.T.E. at death.",
+      "link": "https://www.nytimes.com/2026/10/28/science/brain-disease-cte-nfl-football.html",
+      "image": "https://static01.nyt.com/images/2026/10/28/science/28SCI-CTE-BRAINBANK/28SCI-CTE-BRAINBANK-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Science",
+      "feed_title": "NYT > Science",
+      "category": "science",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "news712393999",
+      "title": "Refugees' experiences of loss shape their business ambitions",
+      "published": "2026-10-28T15:20:08+00:00",
+      "author": null,
+      "description": "The severity of the losses refugees experience can shape the kinds of businesses they build in a new country, according to a qualitative study by Tilburg University researcher Kurian George and colleagues.",
+      "link": "https://phys.org/news/2026-10-refugees-loss-business-ambitions.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/refugee-entrepreneurs.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "news712405141",
+      "title": "Portable device accurately and rapidly detects PFAS in water",
+      "published": "2026-10-28T15:20:06+00:00",
+      "author": null,
+      "description": "Per- and polyfluoroalkyl substances (PFAS) are synthetic chemicals known for their exceptional resistance to degradation, earning them the nickname \"forever chemicals.\" These persistent substances can accumulate in water, soil and living organisms, raising concerns about their potential impacts on human health and the environment.",
+      "link": "https://phys.org/news/2026-10-portable-device-accurately-rapidly-pfas.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-portable-device-for-3.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
     {
       "id": "news712239782",
       "title": "Can gravitational fields break and reconnect? Einstein's equations suggest they can",
@@ -26,6 +68,20 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
     },
     {
+      "id": "https://www.nytimes.com/2026/10/28/science/can-scientists-make-football-safer.html",
+      "title": "Can Scientists Make Football Safer?",
+      "published": "2026-10-28T15:00:10+00:00",
+      "author": "Lynne Peeples",
+      "description": "Researchers are exploring novel ways to treat, even prevent, the brain disease C.T.E. One of the most surprising: near-infrared light.",
+      "link": "https://www.nytimes.com/2026/10/28/science/can-scientists-make-football-safer.html",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28SCI-CTE-TREATMENTS-stillpromo-tfck/28SCI-CTE-TREATMENTS-stillpromo-tfck-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Science",
+      "feed_title": "NYT > Science",
+      "category": "science",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
       "id": "news712393679",
       "title": "Urban street trees lose much of their capacity to cool during droughts",
       "published": "2026-10-28T15:00:09+00:00",
@@ -38,6 +94,20 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "6adb8f7a52428fc30bf6f9ca",
+      "title": "How people are using AI to grieve, love and connect | Jennifer Cearns",
+      "published": "2026-10-28T15:00:00+00:00",
+      "author": "TED",
+      "description": "Many people fear AI is eroding our humanity, replacing real relationships with synthetic ones that leave us lonelier than ever. Digital anthropologist Jennifer Cearns believes the opposite may be true. After talking to hundreds of people who turn to AI for grief, love, friendship and more, she pokes holes in this familiar fear — and hints at what these strange new relationships can teach us about ourselves. Hosted on Acast. See acast.com/privacy for more information.",
+      "link": "http://go.ted.com/jennifercearns",
+      "image": null,
+      "feed_name": "TED Talks Daily (SD video)",
+      "feed_title": "TED Talks Daily",
+      "category": "science",
+      "feed_url": "https://pa.tedcdn.com/feeds/talks.rss",
+      "feed_icon": "https://assets.pippa.io/shows/67587e77c705e441797aff96/show-cover.png"
     },
     {
       "id": "news712393636",
@@ -198,7 +268,7 @@
       "title": "Metabolic Psychiatry",
       "published": "2026-10-28T13:19:16+00:00",
       "author": "Steven Novella",
-      "description": "NIH Director Jay Bhattacharya, despite his many faults, did recommend a very accomplished and appropriate scientist to the post of National Institute of Mental Health (NIMH), Vikaas Sohal. However, Science reports that this recommendation was rejected by RFK Jr., who, rather, favors Shebani Sethi, a “metabolic psychiatrist” who has never held an NIH grant and who was rejected by the search committee. […] The post Metabolic Psychiatry first appeared on Science-Based Medicine .",
+      "description": "NIH Director Jay Bhattacharya, despite his many faults, did recommend a very accomplished and appropriate scientist to the post at the National Institute of Mental Health (NIMH), Vikaas Sohal. However, Science reports that this recommendation was rejected by RFK Jr., who, rather, favors Shebani Sethi, a “metabolic psychiatrist” who has never held an NIH grant and who was rejected by the search […] The post Metabolic Psychiatry first appeared on Science-Based Medicine .",
       "link": "http://sciencebasedmedicine.org/metabolic-psychiatry/?utm_source=rss&utm_medium=rss&utm_campaign=metabolic-psychiatry",
       "image": "http://sciencebasedmedicine.org/wp-content/uploads/2026/10/nih_clinical_center-480x360.jpg",
       "feed_name": "Science-Based Medicine",

@@ -1,7 +1,7 @@
 {
   "category": "DIY",
-  "updated": "2026-10-28T15:03:48.519888+00:00",
-  "count": 258,
+  "updated": "2026-10-28T15:32:43.016297+00:00",
+  "count": 260,
   "summary": {
     "text": "• Ryobi runs an official replacement parts store, not Home Depot, which many owners may not know about.\n• A phone that went a month without updates still works like new, but the article asks whether you should keep using it.\n• Safari's Notify Me feature checks out-of-stock pages for you, so you don't have to keep refreshing them.\n• An open-source project is recreating Adobe Creative Cloud, which costs $840 a year, for free. Its apps are still in alpha but usable.",
     "generated_at": "2026-10-28T15:03:48.519888+00:00",
@@ -11,6 +11,34 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.makeuseof.com/jellyfin-feels-like-an-entirely-different-streaming-service-with-this-one-change/",
+      "title": "Jellyfin feels like an entirely different streaming service with this one change",
+      "published": "2026-10-28T15:30:17+00:00",
+      "author": "Jack Mitchell",
+      "description": "This customizable client gives Jellyfin a makeover, with improved navigation, previews, and trailers that make your home media feel premium.",
+      "link": "https://www.makeuseof.com/jellyfin-feels-like-an-entirely-different-streaming-service-with-this-one-change/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/moonfin-on-ipad-1.png",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/ugreen-linkstation-egpu-review/",
+      "title": "Ugreen LinkStation eGPU Dock review: Desktop graphics for your mini PC over a single cable",
+      "published": "2026-10-28T15:30:16+00:00",
+      "author": "Patrick Campanale",
+      "description": "Plug it in when it’s time to game, and switch it off when you’re done.",
+      "link": "https://www.howtogeek.com/ugreen-linkstation-egpu-review/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/ugreen-egpu-dock-yoga-mini-wide.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/outdated-android-phone-security-risks/",
       "title": "I kept using a phone that stopped getting updates for a month, and here's what actually broke",

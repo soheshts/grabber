@@ -1,9 +1,30 @@
 {
   "category": "books",
-  "updated": "2026-10-28T15:03:48.519888+00:00",
-  "count": 95,
-  "summary": null,
+  "updated": "2026-10-28T15:32:43.016297+00:00",
+  "count": 96,
+  "summary": {
+    "text": "• Book Riot's Deals of the Day for October 28, 2026 highlights today's best book deals.\n• Featured offers include Indigenous horror.\n• A literary book about a game of ping-pong is also among the deals.\n• An action thriller by Keanu Reeves is included, along with other deals.",
+    "generated_at": "2026-10-28T15:32:43.016297+00:00",
+    "window_minutes": 60,
+    "item_count": 1,
+    "key": "37a35a42735103e9e7b2df9c9ce967da1c504fe1",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "https://bookriot.com/?p=664232",
+      "title": "Book Riot’s Deals of the Day for October 28, 2026",
+      "published": "2026-10-28T15:19:48+00:00",
+      "author": "Deals",
+      "description": "Indigenous horror, a literary game of ping-pong, an action thriller by Keanu Reeves, and more of today's best book deals.",
+      "link": "https://bookriot.com/book-riots-deals-of-the-day-for-october-28-2026/",
+      "image": "https://bookriot.com/wp-content/uploads/2026/08/everything-is-tuberculosis-199x300.jpg.optimal.jpg",
+      "feed_name": "BOOK RIOT",
+      "feed_title": "BOOK RIOT",
+      "category": "books",
+      "feed_url": "https://bookriot.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=bookriot.com&sz=64"
+    },
     {
       "id": "https://bookriot.com/?p=582395",
       "title": "10 Queer Graphic Novels to Read on Halloween",

@@ -1,9 +1,30 @@
 {
   "category": "funny",
-  "updated": "2026-10-28T15:03:48.519888+00:00",
-  "count": 193,
-  "summary": null,
+  "updated": "2026-10-28T15:32:43.016297+00:00",
+  "count": 194,
+  "summary": {
+    "text": "• Saturday Morning Breakfast Cereal has published a new comic titled \"Signal.\"\n• A bonus panel is available through a click-through link.\n• The comic's hovertext reads: \"This way avoids violence.\"",
+    "generated_at": "2026-10-28T15:32:43.016297+00:00",
+    "window_minutes": 60,
+    "item_count": 1,
+    "key": "53c5470ff3da6679840150e436c0f53fe17dd469",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "https://www.smbc-comics.com/comic/signal-5",
+      "title": "Saturday Morning Breakfast Cereal - Signal",
+      "published": "2026-10-28T15:20:00+00:00",
+      "author": "Zach Weinersmith",
+      "description": "Click here to go see the bonus panel! Hovertext: This way avoids violence. Today's News:",
+      "link": "https://www.smbc-comics.com/comic/signal-5",
+      "image": "https://www.smbc-comics.com/comics/1792967762-20261028.png",
+      "feed_name": "Saturday Morning Breakfast Cereal",
+      "feed_title": "Saturday Morning Breakfast Cereal",
+      "category": "funny",
+      "feed_url": "https://www.smbc-comics.com/comic/rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.smbc-comics.com&sz=64"
+    },
     {
       "id": "https://theonion.com/?p=1851708820",
       "title": "Authorities Wait To Release Details Of Hiker’s Death Until They Learn Correct Collective Noun For Emus",
