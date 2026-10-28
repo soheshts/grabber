@@ -1,7 +1,7 @@
 {
   "category": "DIY",
-  "updated": "2026-10-27T23:33:13.681814+00:00",
-  "count": 229,
+  "updated": "2026-10-28T00:03:01.675696+00:00",
+  "count": 230,
   "summary": {
     "text": "• Samsung's One UI 9 update has led a How-To Geek writer to rethink their Galaxy phone habits, which they describe as a change for the better.\n• A Hackaday blog post looks at the history of ubiquitous personal computing, starting from the original IBM PC.\n• The post's title says a single university project started everything, but the excerpt is cut off before it explains that project.",
     "generated_at": "2026-10-27T23:33:13.681814+00:00",
@@ -11,6 +11,20 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.howtogeek.com/hate-smart-home-appliances-built-home-assistant-automations-instead/",
+      "title": "I hate smart home appliances, so I built these Home Assistant automations instead",
+      "published": "2026-10-28T00:00:15+00:00",
+      "author": "Tim Brookes",
+      "description": "Local, private, and genuinely useful smart features.",
+      "link": "https://www.howtogeek.com/hate-smart-home-appliances-built-home-assistant-automations-instead/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/01/an-aeg-washing-machine-ready-to-start-a-laundry-cycle.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/samsungs-one-ui-9-update-has-me-rethinking-my-galaxy-phone-habits/",
       "title": "Samsung's One UI 9 update has me rethinking my Galaxy phone habits (for the better)",

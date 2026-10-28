@@ -1,7 +1,7 @@
 {
   "category": "science",
-  "updated": "2026-10-27T23:33:13.681814+00:00",
-  "count": 547,
+  "updated": "2026-10-28T00:03:01.675696+00:00",
+  "count": 551,
   "summary": {
     "text": "• Biodiversity hotspots in southwestern Germany are losing species richness as climate change and land-use shifts alter habitats and plant diversity.\n• Earth's climate \"thermostat\" may have worked differently during the Pangea era.\n• Models show identical vesicles can behave differently through spontaneous asymmetry, yielding lifelike behavior.\n• Brain perception may explain the Bloody Mary mirror legend.\n• A \"simple recipe\" eases mass spectrometry imaging of tissue for cancer and brain research.",
     "generated_at": "2026-10-27T23:33:13.681814+00:00",
@@ -11,6 +11,48 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/10/27/science/space/new-dwarf-planet-beyond-pluto.html",
+      "title": "A New Dwarf Planet (Probably) Spotted Beyond Pluto",
+      "published": "2026-10-27T23:46:16+00:00",
+      "author": "Kenneth Chang",
+      "description": "The object, known for now as 2026 ED138, is one of the first discoveries by the new Vera C. Rubin Observatory in Chile.",
+      "link": "https://www.nytimes.com/2026/10/27/science/space/new-dwarf-planet-beyond-pluto.html",
+      "image": null,
+      "feed_name": "NYT > Science",
+      "feed_title": "NYT > Science",
+      "category": "science",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "news712329901",
+      "title": "Decoding the loopy physics of hula hooping with high-tech earthquake sensors",
+      "published": "2026-10-27T23:40:05+00:00",
+      "author": null,
+      "description": "Hula hooping may be literal child's play, but as it turns out, the physics behind the gym-class staple is so complicated that scientists have spent decades trying to understand how the hula hoop defies gravity.",
+      "link": "https://phys.org/news/2026-10-decoding-loopy-physics-hula-hooping.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hula-hoop.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "news712319964",
+      "title": "We studied 1,584 data centers—and found the buildings full of machines are tied to modest local job growth",
+      "published": "2026-10-27T23:40:01+00:00",
+      "author": null,
+      "description": "Data centers require enormous investments: land, buildings, computer equipment and power infrastructure. Yet, once they're up and running, they tend to employ no more than a few dozen people in occupations such as IT technicians, engineers and security guards. With billions of dollars flowing into new data centers across the United States, communities are asking what they will get in return.",
+      "link": "https://phys.org/news/2026-10-centers-full-machines-modest-local.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/data-center-3.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
     {
       "id": "news712318621",
       "title": "Biodiversity hotspots in southwestern Germany are losing their species richness",
@@ -2454,6 +2496,20 @@
       "author": "Jenna Ahart",
       "description": "Nature, Published online: 27 October 2026; doi:10.1038/d41586-026-03461-w A failed rescue mission means that the Swift observatory will fall into Earth’s atmosphere next week, but it leaves a massive archive of data for scientists to explore.",
       "link": "https://www.nature.com/articles/d41586-026-03461-w",
+      "image": null,
+      "feed_name": "Nature",
+      "feed_title": "Nature",
+      "category": "science",
+      "feed_url": "https://www.nature.com/nature.rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=feeds.nature.com&sz=64"
+    },
+    {
+      "id": "https://www.nature.com/articles/d41586-026-03449-6",
+      "title": "Gene therapy that led to boy’s death had limited efficacy",
+      "published": "2026-10-27T00:00:00+00:00",
+      "author": null,
+      "description": "Nature, Published online: 27 October 2026; doi:10.1038/d41586-026-03449-6 Therapy pioneered by biotechnology Chinese firm HuidaGene showed promise in animals but caused a fatal reaction in a child.",
+      "link": "https://www.nature.com/articles/d41586-026-03449-6",
       "image": null,
       "feed_name": "Nature",
       "feed_title": "Nature",

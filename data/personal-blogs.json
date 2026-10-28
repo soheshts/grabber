@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-10-27T23:33:13.681814+00:00",
-  "count": 425,
+  "updated": "2026-10-28T00:03:01.675696+00:00",
+  "count": 422,
   "summary": null,
   "items": [
     {
@@ -5197,48 +5197,6 @@
       "category": "personal blogs",
       "feed_url": "https://bkardell.com/blog/feed.rss",
       "feed_icon": "http://bkardell.com/profile.jpg"
-    },
-    {
-      "id": "https://www.the-haystack.com/public/",
-      "title": "Designing in public, iteration 1",
-      "published": "2026-09-28T00:00:00+00:00",
-      "author": "Stephen Hay",
-      "description": "Work is done for the day. Cooking's done. Dinner devoured, kitchen clean. and I'm seated here, laptop on lap and tall glass of water at hand. And I am excited . It's been four years since my last blog post. There are reasons why, and they're hard to express. I'll do that in time. Well, I can tell you about one of them right now: a bit of software called WordPress. Writing my own static site generator This website, which at the time of this writing has only the default browser styling, used to b…",
-      "link": "https://www.the-haystack.com/public/",
-      "image": null,
-      "feed_name": "The Haystack",
-      "feed_title": "The Haystack",
-      "category": "personal blogs",
-      "feed_url": "https://www.the-haystack.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.the-haystack.com&sz=64"
-    },
-    {
-      "id": "https://www.tempertemper.net/blog/using-light-dark-without-getting-caught-out",
-      "title": "Using light-dark() without getting caught out",
-      "published": "2026-09-28T00:00:00+00:00",
-      "author": "Martin Underhill",
-      "description": "The light-dark() CSS function makes defining colour schemes tidier, but older browsers need some care. Here’s how I’ve handled the fallbacks.",
-      "link": "https://www.tempertemper.net/blog/using-light-dark-without-getting-caught-out",
-      "image": null,
-      "feed_name": "tempertemper",
-      "feed_title": "tempertemper",
-      "category": "personal blogs",
-      "feed_url": "https://www.tempertemper.net/feeds/main.xml",
-      "feed_icon": "https://www.tempertemper.net/assets/img/icons/favicon.png"
-    },
-    {
-      "id": "https://zander.wtf/blog/2026-09-28-moons-2-4-languages/",
-      "title": "Moons speaks six languages",
-      "published": "2026-09-28T00:00:00+00:00",
-      "author": "Zander Martineau",
-      "description": "Moons 2.4 is out in French, German, Spanish, Portuguese and Japanese as well as English, with a feedback link for when a translation reads wrong.",
-      "link": "https://zander.wtf/blog/2026-09-28-moons-2-4-languages/",
-      "image": null,
-      "feed_name": "Hi! I'm Zander, I make websites",
-      "feed_title": "Hi! I'm Zander, I make web things",
-      "category": "personal blogs",
-      "feed_url": "https://zander.wtf/blog.rss.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=zander.wtf&sz=64"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
