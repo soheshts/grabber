@@ -1,9 +1,30 @@
 {
   "category": "books",
-  "updated": "2026-10-28T18:03:54.534283+00:00",
-  "count": 96,
-  "summary": null,
+  "updated": "2026-10-28T18:32:21.920119+00:00",
+  "count": 97,
+  "summary": {
+    "text": "• Book Riot highlights five new novels coming out this fall.\n• All five are historical romances.\n• The article rejects the idea that historical romance is dead, presenting these titles as proof the genre persists.",
+    "generated_at": "2026-10-28T18:32:21.920119+00:00",
+    "window_minutes": 60,
+    "item_count": 1,
+    "key": "d10581b384efaddaade95841264b6d33aa9eb838",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "https://bookriot.com/?p=657946",
+      "title": "5 New Novels This Fall That Prove Historical Romance Isn’t Dead",
+      "published": "2026-10-28T18:13:00+00:00",
+      "author": "Alison Doherty",
+      "description": "I fully reject the notion that historical romance is dead! These five new historical romances are proof the genre persists.",
+      "link": "https://bookriot.com/new-historical-romance-novels-fall-2026/",
+      "image": "https://bookriot.com/wp-content/uploads/2026/08/Queen-of-Lombard-Street-Lisa-Kleypas-cover-300x0.jpg.optimal.jpg",
+      "feed_name": "BOOK RIOT",
+      "feed_title": "BOOK RIOT",
+      "category": "books",
+      "feed_url": "https://bookriot.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=bookriot.com&sz=64"
+    },
     {
       "id": "https://bookriot.com/?p=664232",
       "title": "Book Riot’s Deals of the Day for October 28, 2026",

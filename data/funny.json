@@ -1,9 +1,44 @@
 {
   "category": "funny",
-  "updated": "2026-10-28T18:03:54.534283+00:00",
-  "count": 201,
-  "summary": null,
+  "updated": "2026-10-28T18:32:21.920119+00:00",
+  "count": 203,
+  "summary": {
+    "text": "• The Onion satirically reports that President Donald Trump drowned Wednesday in a two-inch puddle, according to unnamed sources.\n• The Onion has published a list of Stephen King's five best and five worst books, from a career of more than 65 novels and novellas since 1974.\n• Both items are from The Onion's humor coverage.",
+    "generated_at": "2026-10-28T18:32:21.920119+00:00",
+    "window_minutes": 60,
+    "item_count": 2,
+    "key": "b03c393ed281def9fb63f607ab6b07245287d80a",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "https://theonion.com/?p=1851709793",
+      "title": "Trump Drowns In 2-Inch Puddle",
+      "published": "2026-10-28T18:08:03+00:00",
+      "author": "The Onion Staff",
+      "description": "WASHINGTON—Thrashing about in his navy blue suit as dirty water seeped into his mouth and nostrils, President Donald Trump reportedly drowned Wednesday in a two-inch puddle. Sources who wished to remain anonymous told reporters they observed Trump slip on a wet stone paver as he strode en route to Marine One and fall face-first into a the shallow standing […] The post Trump Drowns In 2-Inch Puddle appeared first on The Onion .",
+      "link": "https://theonion.com/trump-drowns-in-2-inch-puddle/",
+      "image": "https://theonion.com/wp-content/uploads/2026/10/Trump_Drowns_NIB_G_GR.jpg",
+      "feed_name": "The Onion",
+      "feed_title": "The Onion",
+      "category": "funny",
+      "feed_url": "https://www.theonion.com/rss",
+      "feed_icon": "https://theonion.com/wp-content/uploads/2024/07/cropped-site-icon.png?w=32"
+    },
+    {
+      "id": "https://theonion.com/?p=1851709579",
+      "title": "Stephen King’s Best And Worst Books",
+      "published": "2026-10-28T18:03:58+00:00",
+      "author": "The Onion Staff",
+      "description": "Since 1974, Stephen King has published more than 65 novels and novellas. The Orion identifies the horror master's five best and five worst works. The post Stephen King’s Best And Worst Books appeared first on The Onion .",
+      "link": "https://theonion.com/stephen-kings-best-and-worst-books/",
+      "image": "https://theonion.com/wp-content/uploads/2025/05/best-sellers-title-side-bg-img.png",
+      "feed_name": "The Onion",
+      "feed_title": "The Onion",
+      "category": "funny",
+      "feed_url": "https://www.theonion.com/rss",
+      "feed_icon": "https://theonion.com/wp-content/uploads/2024/07/cropped-site-icon.png?w=32"
+    },
     {
       "id": "https://theonion.com/?p=1851709752",
       "title": "First Fully AI-Generated Feature Film Released In China",

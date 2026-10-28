@@ -1,7 +1,7 @@
 {
   "category": "travel",
-  "updated": "2026-10-28T18:03:54.534283+00:00",
-  "count": 76,
+  "updated": "2026-10-28T18:32:21.920119+00:00",
+  "count": 77,
   "summary": {
     "text": "• Atlas Obscura features the Arden Point and Glenclyffe hiking trail in Philipstown, New York.\n• The trail starts at the Metro-North Garrison train station.\n• Its first leg passes what appears to be an abandoned building entrance; the item's description is cut off there.",
     "generated_at": "2026-10-28T18:03:54.534283+00:00",
@@ -11,6 +11,20 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/10/28/travel/endless-cruise-suspended-villa-vie-passengers.html",
+      "title": "An ‘Endless’ Cruise Around the World Is Suspended, Leaving Passengers Stranded",
+      "published": "2026-10-28T18:24:49+00:00",
+      "author": "Ceylan Yeğinsu",
+      "description": "The cruise promised a lifetime of sailing, for less than what it cost to live on land. But it was underfunded and couldn’t absorb the rising cost of fuel.",
+      "link": "https://www.nytimes.com/2026/10/28/travel/endless-cruise-suspended-villa-vie-passengers.html",
+      "image": "https://static01.nyt.com/images/2026/10/28/realestate/28trav-cruise-canceled/28trav-cruise-canceled-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Travel",
+      "feed_title": "NYT > Travel",
+      "category": "travel",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "https://www.atlasobscura.com/places/arden-point-and-glenclyffe",
       "title": "Arden Point and Glenclyffe in Philipstown, New York",

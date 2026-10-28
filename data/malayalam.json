@@ -1,6 +1,6 @@
 {
   "category": "Malayalam",
-  "updated": "2026-10-28T18:03:54.534283+00:00",
+  "updated": "2026-10-28T18:32:21.920119+00:00",
   "count": 1000,
   "summary": {
     "text": "• PSC fraud row: critics say the chairman and members have no right to stay on, and a joint health inspector was arrested in the Kovalam spa abuse case.\n• Cheranalloor accident brings police action: Kochi city police commissioner removed and R. Nishanthini named replacement; 17th Theni jail escapee arrested.\n• School sports meet: Atul T M sets a meet record as fastest boy, while age-fraud action strips a sub-junior 400m title.\n• World: a Spain train collision kills over 30, and Israel's election count reaches 70% with no party holding a majority.",
@@ -11,6 +11,34 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.asianetnews.com/kerala-news/students-clash-calicut-university-campus-to-be-closed-sfi-won-in-dsu-election-articleshow-igsmxoq",
+      "title": "സംഘർഷം: കാലിക്കറ്റ് സർവകലാശാല ക്യാമ്പസ് അടച്ചിടും, വിദ്യാർഥികൾ ഹോസ്റ്റൽ ഒഴിയണമെന്ന് നിർദേശം; ഡിഎസ്‍യു തെരഞ്ഞെടുപ്പിൽ എല്ലാസീറ്റും എസ്എഫ്ഐക്ക്",
+      "published": "2026-10-28T18:17:16+00:00",
+      "author": "അഫീഫ്. എം",
+      "description": "നവംബർ രണ്ടുവരെയാണ് സർവകലാശാല ക്യാമ്പസിലെ പഠനവകുപ്പുകൾ അടച്ചിടുന്നത്. വിദ്യാർഥികൾ ഹോസ്റ്റൽ ഒഴിഞ്ഞ് പോകണമെന്നും രജിസ്ട്രാർ നിർദേശിച്ചു. ബുധനാഴ്ച നടന്ന ഡിപ്പാർട്ട്മെന്റൽ സ്റ്റുഡന്റ്സ് യൂണിയൻ തെരഞ്ഞെടുപ്പിനിടെയാണ് സർവകലാശാല ക്യാമ്പസിൽ സംഘർഷമുണ്ടായത്. തെരഞ്ഞെടുപ്പിനിടെ എസ്എഫ്ഐ-യുഡിഎസ്എഫ് പ്രവർത്തകർ ഏറ്റുമുട്ടുകയായിരുന്നു.",
+      "link": "https://www.asianetnews.com/kerala-news/students-clash-calicut-university-campus-to-be-closed-sfi-won-in-dsu-election-articleshow-igsmxoq",
+      "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-01m61w5qbkf9ch7q4eh4hw058r,imgname-calicut-university-dsu-election-2026-1793211948403.jpg",
+      "feed_name": "Asianet News",
+      "feed_title": "Asianet News Malayalam",
+      "category": "Malayalam",
+      "feed_url": "https://www.asianetnews.com/rss",
+      "feed_icon": "https://static-assets.asianetnews.com/images/ogimages/OG_Malayalam.jpg"
+    },
+    {
+      "id": "https://www.asianetnews.com/india-news/cyclone-arnab-8-deaths-including-5-women-articleshow-xxk4dpx",
+      "title": "അർണബ് ചുഴലിക്കാറ്റ്: 5 സ്ത്രീകൾ ഉൾപ്പെടെ 8 മരണം, വൈദ്യുതാഘാതമേറ്റും വീട് തകർന്നും ദാരുണാന്ത്യം",
+      "published": "2026-10-28T18:02:37+00:00",
+      "author": "Sumam Thomas",
+      "description": "വൈദ്യുതാഘാതം ഏറ്റാണ് അഞ്ചുപേർ മരിച്ചത്. രണ്ടുപേർ വീട് തകർന്നും ഒരാൾ മരം വീണും മരിച്ചു. മരിച്ചവരുടെ ആശ്രിതർക്ക് 5 ലക്ഷം രൂപ വീതം സർക്കാർ സഹായധനം പ്രഖ്യാപിച്ചു.",
+      "link": "https://www.asianetnews.com/india-news/cyclone-arnab-8-deaths-including-5-women-articleshow-xxk4dpx",
+      "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-01m61tp7v8rhk50pwsx76av5n7,imgname-fotojet---2026-10-28t232930.267-1793210392424.jpg",
+      "feed_name": "Asianet News",
+      "feed_title": "Asianet News Malayalam",
+      "category": "Malayalam",
+      "feed_url": "https://www.asianetnews.com/rss",
+      "feed_icon": "https://static-assets.asianetnews.com/images/ogimages/OG_Malayalam.jpg"
+    },
     {
       "id": "https://malayalam.oneindia.com/news/india/no-evms-ballot-papers-used-to-mlc-elections-in-all-28-seats-congress-scores-zero-in-all-four-state-602559.html",
       "title": "28 സീറ്റുകളിലേക്കും ബാലറ്റ് പേപ്പറിൽ തിരഞ്ഞെടുപ്പ്, നാല് സംസ്ഥാനത്തും കോൺഗ്രസിന് പൂജ്യം!",
@@ -41,7 +69,7 @@
     },
     {
       "id": "https://www.asianetnews.com/other-sports/athul-emerges-as-the-fastest-athlete-with-a-meet-record-rithuparna-is-the-fastest-among-the-girls-articleshow-4mqawfl",
-      "title": "മീറ്റ്‌ റെക്കോര്‍ഡോടെ അതുല്‍ വേഗതാരമായി, പെണ്‍കുട്ടികളില്‍ ഋതുപര്‍ണ വേഗമേറിയ താരം",
+      "title": "വേഗപ്പോരില്‍ 15 വര്‍ഷം പഴക്കമുള്ള റെക്കോര്‍ഡ്‌ തകര്‍ത്ത്‌ അതുല്‍, സ്‌പ്രിന്റ്‌ പോരില്‍ ആലപ്പുഴയും ജി വി രാജയും തിളങ്ങി",
       "published": "2026-10-28T17:52:53+00:00",
       "author": "Vipulnath P",
       "description": "സംസ്ഥാന സ്‌കൂള്‍ കായിക മേളയില്‍ മീറ്റ്‌ റെക്കോര്‍ഡോടെ ആലപ്പുഴയുടെ അതുല്‍ ടി എം കായിക മേളയിലെ വേഗതാരമായി.മേളയിലെ വേഗറാണിയായത്‌, സീനിയര്‍ പെണ്‍കുട്ടികളുടെ 100 മീറ്ററില്‍ ജേതാവായ ഋതുപര്‍ണയാണ്‌.",
@@ -13977,34 +14005,6 @@
       "description": "<p>നവംബർ 3 മുതൽ ഓടില്ല, സ്വകാര്യ ബസുകൾ സർവീസ് നിർത്തും, പ്രിയദർശിനി പദ്ധതി മൂലം ഉണ്ടായ നഷ്ടത്തിൽ സർക്കാർ പരിഹാരം കാണാത്തതിൽ പ്രതിഷേധം Priyadarshini | Private Bus | Protest</p>",
       "link": "https://www.asianetnews.com/videos/news/private-bus-strike-services-to-halt-from-november-3rd-videoshow-fy76vnq",
       "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-f7e70b23-7d68-4eaf-b848-0fc2eb9c8f25.jpg",
-      "feed_name": "Asianet News",
-      "feed_title": "Asianet News Malayalam",
-      "category": "Malayalam",
-      "feed_url": "https://www.asianetnews.com/rss",
-      "feed_icon": "https://static-assets.asianetnews.com/images/ogimages/OG_Malayalam.jpg"
-    },
-    {
-      "id": "https://www.asianetnews.com/videos/news/child-endangerment-in-kazhakkoottam-child-rights-commission-acts-videoshow-pf9oq59",
-      "title": "കഴക്കൂട്ടത്ത് കാറിൽ കുട്ടിയുമായി അപകടയാത്ര; ബാലാവകാശ കമ്മീഷൻ കേസെടുത്തു | Kazhakkoottam",
-      "published": "2026-10-27T08:37:42+00:00",
-      "author": "Web Desk",
-      "description": "<p>കഴക്കൂട്ടത്ത് കാറിൽ കുട്ടിയുമായി അപകടയാത്ര; ബാലാവകാശ കമ്മീഷൻ കേസെടുത്തു, ഏഷ്യാനെറ്റ് ന്യൂസ് വാർത്തയ്ക്ക് പിന്നാലെയാണ് നടപടി Kazhakkoottam | Child Driving | Road Safety</p>",
-      "link": "https://www.asianetnews.com/videos/news/child-endangerment-in-kazhakkoottam-child-rights-commission-acts-videoshow-pf9oq59",
-      "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-36cc5782-04d8-485e-93e9-02adb6d2766e.jpg",
-      "feed_name": "Asianet News",
-      "feed_title": "Asianet News Malayalam",
-      "category": "Malayalam",
-      "feed_url": "https://www.asianetnews.com/rss",
-      "feed_icon": "https://static-assets.asianetnews.com/images/ogimages/OG_Malayalam.jpg"
-    },
-    {
-      "id": "https://www.asianetnews.com/videos/news/bjp-to-lead-chandni-chowk-march-tomorrow-under-nitin-navin-videoshow-uxoaqn2",
-      "title": "ചാന്ദ്‌നിചൗക്കിൽ നാളെ ബിജെപി മാർച്ച്; നിതിൻ നവീൻ നേതൃത്വം നൽകും | BJP March",
-      "published": "2026-10-27T08:35:29+00:00",
-      "author": "Web Desk",
-      "description": "<p>ചാന്ദ്‌നിചൗക്കിൽ നാളെ ബിജെപി മാർച്ച്, നിതിൻ നവീൻ നേതൃത്വം നൽകും, അരാജകത്വം നീക്കണമെന്ന് മുദ്രാവാക്യം BJP March | BJP | Chandni Chowk</p>",
-      "link": "https://www.asianetnews.com/videos/news/bjp-to-lead-chandni-chowk-march-tomorrow-under-nitin-navin-videoshow-uxoaqn2",
-      "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-29200b04-7cd0-4b0d-b683-f70020e46f9f.jpg",
       "feed_name": "Asianet News",
       "feed_title": "Asianet News Malayalam",
       "category": "Malayalam",

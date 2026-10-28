@@ -1,7 +1,7 @@
 {
   "category": "science",
-  "updated": "2026-10-28T18:03:54.534283+00:00",
-  "count": 658,
+  "updated": "2026-10-28T18:32:21.920119+00:00",
+  "count": 660,
   "summary": {
     "text": "• Climate: Climate change amplified 2024 European floods beyond rainfall, and Eaton Fire smoke may have exposed nearly 7 million people to lead.\n• Policy: U.S. restricts trade with Chinese genomics firm BGI over alleged forced labor; RFK Jr. will allow broad use of unapproved peptide injections.\n• Society: Hugs are remembered for comfort, elementary homework may widen inequality, and polarization adds business uncertainty.\n• Research: Electricity-powered yeast converts CO₂ into a plastics chemical; a Colbert-named spider has a genome 50% larger than ours.",
     "generated_at": "2026-10-28T18:03:54.534283+00:00",
@@ -11,6 +11,34 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "news712412094",
+      "title": "Supersonic waves could explain the strange orbits of hot Jupiters and Neptunes",
+      "published": "2026-10-28T18:20:06+00:00",
+      "author": null,
+      "description": "Using advanced new simulations, a team of astronomers in the U.S. has developed a promising new theory for how giant, gaseous exoplanets migrate into stiflingly close orbits around their host stars. Led by J. J. Zanazzi at The Pennsylvania State University, the team showed how both massive \"hot Jupiters\" and smaller, Neptune-sized planets could migrate from distant, elliptical orbits as they release energy via dramatic shock waves in their outer atmospheres. Their results have been published in…",
+      "link": "https://phys.org/news/2026-10-supersonic-strange-orbits-hot-jupiters.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/supersonic-waves-could.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "news712412003",
+      "title": "US adults say craft and sustained commitment, not fame, separate creators from influencers",
+      "published": "2026-10-28T18:20:03+00:00",
+      "author": null,
+      "description": "The creator economy is a growing global industry that Goldman Sachs Research reports could be worth $480 billion by 2027. But what is a creator, and what is the difference between a creator and an influencer, a celebrity or everyone else who posts online?",
+      "link": "https://phys.org/news/2026-10-adults-craft-sustained-commitment-fame.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/what-makes-a-creator-d.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
     {
       "id": "news712397221",
       "title": "Why hugs become memorable",

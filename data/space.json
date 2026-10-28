@@ -1,9 +1,30 @@
 {
   "category": "space",
-  "updated": "2026-10-28T18:03:54.534283+00:00",
-  "count": 128,
-  "summary": null,
+  "updated": "2026-10-28T18:32:21.920119+00:00",
+  "count": 129,
+  "summary": {
+    "text": "• NASA Breaking News reports on Gavin Gardner, a drone entrepreneur whose path was shaped by the NASA University Challenge.\n• Five years ago, Gardner was a Michigan State University engineering student researching next-generation drone technology under a NASA grant.\n• He expected the research to be demanding, but the item is cut off, so no further details are available.",
+    "generated_at": "2026-10-28T18:32:21.920119+00:00",
+    "window_minutes": 60,
+    "item_count": 1,
+    "key": "fc0f01d8170bf700efd08f5d6263e104a8b379e9",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "https://www.nasa.gov/?p=1059815",
+      "title": "NASA University Challenge Ignites Trajectory of Drone Entrepreneur",
+      "published": "2026-10-28T18:00:28+00:00",
+      "author": "Jim Banke",
+      "description": "Five years ago, Gavin Gardner was a Michigan State University engineering student researching next-generation drone technology as part of a NASA grant. Garder expected the research to be demanding – but he was surprised that navigating the financial side of the work presented an even greater challenge. Although Gardner was used to leading fellow students […]",
+      "link": "https://www.nasa.gov/aeronautics/nasa-challenge-drone-entrepreneur/",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/usrc-gardner-ag3-team.jpg?w=2048",
+      "feed_name": "NASA Breaking News",
+      "feed_title": "NASA",
+      "category": "space",
+      "feed_url": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.nasa.gov&sz=64"
+    },
     {
       "id": "https://science.nasa.gov/get-involved/citizen-science/nasa-selects-19-new-citizen-science-proposals-in-2026/",
       "title": "NASA Selects 19 New Citizen Science Proposals in 2026",

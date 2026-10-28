@@ -1,7 +1,7 @@
 {
   "category": "DIY",
-  "updated": "2026-10-28T18:03:54.534283+00:00",
-  "count": 274,
+  "updated": "2026-10-28T18:32:21.920119+00:00",
+  "count": 278,
   "summary": {
     "text": "• Apple's touchscreen MacBook Pro is here, bringing back a fan-favorite logo as it promises a fresh laptop experience.\n• Samsung earbuds may overheat, according to How-To Geek.\n• The next big Wi-Fi upgrade targets something more important than speed.\n• Microsoft wants storage that lasts 10,000 years, and it isn't an SSD, apparently involving lasers.\n• IKEA lets shoppers tour a room instead of scrolling product pages, while Excel's TRIMRANGE function cleans up dynamic arrays and combines worksheets.",
     "generated_at": "2026-10-28T18:03:54.534283+00:00",
@@ -11,6 +11,62 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.makeuseof.com/samsung-good-lock-gave-my-galaxy-a-feature-i-thought-i-needed-a-new-phone-for/",
+      "title": "Samsung Good Lock gave my Galaxy a feature I thought I needed a new phone for",
+      "published": "2026-10-28T18:30:16+00:00",
+      "author": "Brandon Miniman",
+      "description": "This Good Lock module makes split-screen multitasking feel more like a foldable",
+      "link": "https://www.makeuseof.com/samsung-good-lock-gave-my-galaxy-a-feature-i-thought-i-needed-a-new-phone-for/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/feat2-4.jpeg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/the-intel-n100-isnt-the-homelab-bargain-it-used-to-be-but-you-have-better-options/",
+      "title": "The Intel N100 isn't the homelab bargain it used to be, but you have better options",
+      "published": "2026-10-28T18:30:15+00:00",
+      "author": "Ismar Hrnjicevic",
+      "description": "Your first home server probably shouldn't be an N100-powered mini PC.",
+      "link": "https://www.howtogeek.com/the-intel-n100-isnt-the-homelab-bargain-it-used-to-be-but-you-have-better-options/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/03/a-raspberry-pi-in-a-case-lying-on-top-of-a-beelink-mini-s12-pro-mini-pc.png",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/i-use-this-raspberry-pi-accessory-more-than-i-use-the-pi-itself/",
+      "title": "I use this Raspberry Pi accessory more than I use the Pi itself",
+      "published": "2026-10-28T18:30:15+00:00",
+      "author": "Umair Khurshid",
+      "description": "An accessory carrying the entire setup!",
+      "link": "https://www.howtogeek.com/i-use-this-raspberry-pi-accessory-more-than-i-use-the-pi-itself/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/raspberry-pi-board-in-a-transparent-red-case-a-white-usb-hub-a-power-meter-and-a-hard-drive-setup-on-a-dark-carbon-fiber-surface-connected-to-a-laptop-1.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/aurzen-roku-tv-d1r/",
+      "title": "Get 38% off the Aurzen D1R and watch free channels on a massive screen",
+      "published": "2026-10-28T18:02:54+00:00",
+      "author": "Saeed Wazir",
+      "description": "A portable projector for indoor or outdoor viewing.",
+      "link": "https://www.howtogeek.com/aurzen-roku-tv-d1r/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/10/aurzen-eazze-d1r-air-front-view.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/the-next-big-wi-fi-upgrade-is-tackling-something-more-important-than-speed/",
       "title": "The next big Wi-Fi upgrade is tackling something more important than speed",
