@@ -1,16 +1,44 @@
 {
   "category": "science",
-  "updated": "2026-10-28T00:33:29.320967+00:00",
-  "count": 554,
+  "updated": "2026-10-28T01:03:44.715563+00:00",
+  "count": 556,
   "summary": {
-    "text": "• Transportation megaprojects: nine in ten go over initial budget, and a study says cost overruns aren't always due to incompetence.\n• Youth and violence: a former child soldier argues that punishment alone won't help gang-involved teens.\n• Health and climate: the 2026 Lancet Countdown finds climate health harms grew faster than action in the decade since the Paris Agreement, prompting calls for a global health emergency.\n• Space: a probable new dwarf planet, 2026 ED138, spotted beyond Pluto, one of the first finds by Chile's Vera C. Rubin Observatory.\n• Data centers: a study of 1,584 sites links them to modest local job growth, since they employ only a few dozen people once running.",
-    "generated_at": "2026-10-28T00:33:29.320967+00:00",
+    "text": "• Climate risks are growing: a strong El Niño could cut rainfall by up to 80% in parts of Latin America and the Caribbean, while torrential rain brings flooding and landslides. A Lancet Countdown report finds many climate health harms grew faster in the decade since the Paris Agreement, prompting calls for a global health emergency.\n• Northwestern research suggests NFL injuries matter less than assumed, except for highly paid quarterbacks.\n• Nine in 10 major transportation projects go over budget, not always from incompetence.",
+    "generated_at": "2026-10-28T01:03:44.715563+00:00",
     "window_minutes": 60,
-    "item_count": 6,
-    "key": "1f0da18ff224a942624e7f7baa46db24e486354d",
+    "item_count": 5,
+    "key": "be0ad28f2690114bce13961d9769901ee4a29966",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "news712321883",
+      "title": "Injuries matter less in the NFL than you think",
+      "published": "2026-10-28T01:00:01+00:00",
+      "author": null,
+      "description": "New research from Northwestern's Kellogg School of Management finds that injury matters less in the NFL than is often assumed. With the exception of highly paid quarterbacks, losing players—even the high-dollar ones—to injury is not as fatal to a team's success as one might think.",
+      "link": "https://phys.org/news/2026-10-injuries-nfl.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/nfl-3.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "news712315223",
+      "title": "Report indicates water, food and power at risk by strong El Niño",
+      "published": "2026-10-28T00:40:01+00:00",
+      "author": null,
+      "description": "Rainfall reductions of up to 80% and torrential precipitation leading to severe flooding and landslides are the expected consequences across different areas of Latin America and the Caribbean from the impact of the El Niño phenomenon in 2027, according to a report co-authored by the General Secretariat of the Organization of American States (OAS), which urges member states to strengthen prevention and preparedness during the final months of 2026.",
+      "link": "https://phys.org/news/2026-10-food-power-strong-el-nio.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/flood-2.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
     {
       "id": "news712320326",
       "title": "Cost overruns aren't just due to incompetence, bureaucracy and bad faith",

@@ -1,16 +1,30 @@
 {
   "category": "gaming",
-  "updated": "2026-10-28T00:33:29.320967+00:00",
-  "count": 556,
+  "updated": "2026-10-28T01:03:44.715563+00:00",
+  "count": 557,
   "summary": {
-    "text": "• Polygon highlights five adult fairy tale books full of wizards, fae, and dangerous quests.\n• IGN reports the 2026 55\" LG Evo C6 4K OLED TV has dropped to Black Friday pricing, with a free Xbox controller included.",
-    "generated_at": "2026-10-28T00:33:29.320967+00:00",
+    "text": "• Polygon highlights three upcoming sci-fi RPGs as alternatives while fans wait for a new Mass Effect.\n• The named titles include Exodus and Star Wars: Fate of the Old Republic.\n• The article presents these games as possible next great Mass Effect replacements.",
+    "generated_at": "2026-10-28T01:03:44.715563+00:00",
     "window_minutes": 60,
-    "item_count": 2,
-    "key": "85bd1db056e3bd311c72abdec2f377966ed67a1d",
+    "item_count": 1,
+    "key": "3cbf14ddd6d635ca7ee420be5d479bf7a49c58c5",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.polygon.com/upcoming-games-like-mass-effect/",
+      "title": "3 Upcoming Sci-Fi RPGs Better Than Waiting for a New Mass Effect",
+      "published": "2026-10-28T01:00:17+00:00",
+      "author": "Rebecca Corgan",
+      "description": "From Exodus to Star Wars: Fate of the Old Republic, these upcoming RPGs could be your next great Mass Effect replacement.",
+      "link": "https://www.polygon.com/upcoming-games-like-mass-effect/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/exodus-space-ship.png",
+      "feed_name": "Polygon -  All",
+      "feed_title": "Polygon.com",
+      "category": "gaming",
+      "feed_url": "https://www.polygon.com/rss/index.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.polygon.com&sz=64"
+    },
     {
       "id": "https://www.polygon.com/best-fantasy-books-like-adult-fairy-tales/",
       "title": "5 Adult Fairy Tale Books That Are Magical From Start to Finish",
