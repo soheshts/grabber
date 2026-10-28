@@ -1,16 +1,44 @@
 {
   "category": "technology",
-  "updated": "2026-10-28T10:33:10.195280+00:00",
-  "count": 787,
+  "updated": "2026-10-28T11:03:47.858881+00:00",
+  "count": 789,
   "summary": {
-    "text": "• Meta's earnings are framed around Zuckerberg delivering on his promise, with Stratechery arguing that investors who believe in Muse must support its heavy compute spending.\n• The US CFTC is again probing whether Polymarket broke a 2022 deal to keep US users off its offshore platform, Reuters reported, citing two people.\n• The FIA, motor sport's governing body, named AWS its official partner for AI, cloud computing, machine learning and cloud infrastructure.",
-    "generated_at": "2026-10-28T10:33:10.195280+00:00",
+    "text": "• Volkswagen plans to use technology developed in China in cars sold in other markets, starting with South America, Reuters reported.\n• Malaysian customs seized 30 servers with advanced AI chips at Kuala Lumpur airport, worth about $12.1M.\n• Stratechery says Meta's earnings reflect Zuckerberg delivering on his promise, and that investors backing Muse must support its compute spending.\n• The CFTC is again probing whether Polymarket broke a 2022 deal to keep US users off its offshore platform, Reuters reported.",
+    "generated_at": "2026-10-28T11:03:47.858881+00:00",
     "window_minutes": 60,
-    "item_count": 3,
-    "key": "55a0c352f36762aad7aa2214b622cb4a57c208bb",
+    "item_count": 4,
+    "key": "c9b14cc854d93ca1873295a95b4d9d7ac1ccbcee",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "TheNextWeb=57a12017a3074fdfec8ec0e0428c7fc0",
+      "title": "Volkswagen to take China-developed car technology to global markets",
+      "published": "2026-10-28T10:44:46+00:00",
+      "author": "Darius Popa",
+      "description": "Volkswagen plans to use technology developed in China in cars sold in other markets, starting with South America, Reuters reported from Hefei on Wednesday. Until now, the carmaker kept the technology it built in China for cars sold in China. The plan centres on VW’s Compact Main Platform and its China Electronic Architecture. Both were built […] This story continues at The Next Web",
+      "link": "https://thenextweb.com/news/volkswagen-china-developed-technology-global-markets",
+      "image": "https://media.thenextweb.com/2026/10/oliver-blume-volkswagen-id-polo-iaa-2025-stage.avif",
+      "feed_name": "The Next Web",
+      "feed_title": "The Next Web",
+      "category": "technology",
+      "feed_url": "https://thenextweb.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
+    {
+      "id": "TheNextWeb=d2d53de970d6918f6597c2e65757bc6c",
+      "title": "Malaysia seizes $12.1M of AI chips at Kuala Lumpur airport",
+      "published": "2026-10-28T10:32:13+00:00",
+      "author": "Ana-Maria Stanciuc",
+      "description": "Malaysian customs officers have seized 30 servers containing advanced AI chips at Kuala Lumpur International Airport (KLIA), the authorities said on Wednesday. The shipment was worth about RM49.5m ($12.1m), and it was moving through Malaysia without the required permit. Officers found the servers on 15 October in a warehouse in the airport’s free trade zone. […] This story continues at The Next Web",
+      "link": "https://thenextweb.com/news/malaysia-seizes-12-1m-of-ai-chips-at-kuala-lumpur-airport",
+      "image": "https://media.thenextweb.com/2026/10/circuit-board-processor-chip-macro.avif",
+      "feed_name": "The Next Web",
+      "feed_title": "The Next Web",
+      "category": "technology",
+      "feed_url": "https://thenextweb.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
     {
       "id": "https://stratechery.com/?p=20613",
       "title": "Meta Earnings, Muse and the Frontier, Musebook",

@@ -1,9 +1,58 @@
 {
   "category": "fashion",
-  "updated": "2026-10-28T10:33:10.195280+00:00",
-  "count": 259,
-  "summary": null,
+  "updated": "2026-10-28T11:03:47.858881+00:00",
+  "count": 262,
+  "summary": {
+    "text": "• Prada is reclaiming its status as fashion's hottest brand in Q3 2026, and its top product tops the latest Lyst Index.\n• Who What Wear profiles F1 paddock style, with Lily Muni He and Rebecca Donaldson discussing race-day routines and beauty pit stops.\n• Their highlights include a Sex and the City–inspired vintage Prada skirt and a glossy lip oil.\n• A flat shoe trend that is neither leather nor suede is being styled to make denim look more sophisticated.",
+    "generated_at": "2026-10-28T11:03:47.858881+00:00",
+    "window_minutes": 60,
+    "item_count": 3,
+    "key": "9aeaa00665e7bdc5b700fa9e78fec1a27187d526",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "https://fashionista.com/2026/10/lyst-index-q3-2026-top-popular-brands-prada",
+      "title": "Prada Reclaims Its Spot as Fashion's Hottest Brand in Q3 2026",
+      "published": "2026-10-28T11:00:00+00:00",
+      "author": "Catie Pusateri",
+      "description": "It also boasts the number-one must-have product on the latest Lyst Index.",
+      "link": "https://fashionista.com/2026/10/lyst-index-q3-2026-top-popular-brands-prada",
+      "image": "https://fashionista.com/.image/NTg6MDAwMDAwMDAwODA2MDA0/fashion-photo-session-in-paris-october-2026.jpg?profile=rss",
+      "feed_name": "Fashionista",
+      "feed_title": "Fashionista Full",
+      "category": "fashion",
+      "feed_url": "https://fashionista.com/.rss/excerpt/",
+      "feed_icon": "https://fashionista.com/site/images/apple-touch-icon.png"
+    },
+    {
+      "id": "GEUugJEe76pEF7cvWgkNW6",
+      "title": "Lily Muni He and Rebecca Donaldson Talk F1 Paddock Style, Race-Day Routines, and Beauty Pit Stops",
+      "published": "2026-10-28T11:00:00+00:00",
+      "author": "Alyssa Brascia",
+      "description": "From a Sex and the City–inspired vintage Prada skirt to glossy lip oil.",
+      "link": "https://www.whowhatwear.com/beauty/lily-muni-he-rebecca-donaldson-beauty-interview",
+      "image": "https://cdn.mos.cms.futurecdn.net/DWcsazEfCPwP64d4HxsGRA-1920-80.jpg",
+      "feed_name": "Who What Wear",
+      "feed_title": "Latest from Who What Wear",
+      "category": "fashion",
+      "feed_url": "https://www.whowhatwear.com/rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.whowhatwear.com&sz=64"
+    },
+    {
+      "id": "6dgxvyadRQCP2zYRELBj5Z",
+      "title": "Not Leather, Not Suede—This Flat Shoe Trend Makes Denim Look Even More Sophisticated",
+      "published": "2026-10-28T10:52:59+00:00",
+      "author": "Natalie Munro",
+      "description": "Supremely chic.",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/satin-mules-jeans-outfit-elsa-hosk-2026",
+      "image": "https://cdn.mos.cms.futurecdn.net/tNxWba63LFEVp8awKpRmJe-1920-80.jpg",
+      "feed_name": "Who What Wear",
+      "feed_title": "Latest from Who What Wear",
+      "category": "fashion",
+      "feed_url": "https://www.whowhatwear.com/rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.whowhatwear.com&sz=64"
+    },
     {
       "id": "https://www.nytimes.com/2026/10/28/style/sc103-claire-mckinney-sophie-andes-gascon-new-york.html",
       "title": "SC103, the Downtown New York Brand for Clothes Meant to Show Their Seams",

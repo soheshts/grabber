@@ -1,13 +1,13 @@
 {
   "category": "personal blogs",
-  "updated": "2026-10-28T10:33:10.195280+00:00",
-  "count": 423,
+  "updated": "2026-10-28T11:03:47.858881+00:00",
+  "count": 424,
   "summary": {
-    "text": "• CSS Wizardry's \"Web-Perf Wednesday 015\" covers failed modulepreloads needing to recover.\n• WebKit has fixed failed modulepreloads that could block recovery.\n• The item says Safari and Firefox are improving performance tooling and browser responsiveness.",
-    "generated_at": "2026-10-28T10:02:59.089328+00:00",
+    "text": "• CSS Wizardry's Web-Perf Wednesday 015 covers WebKit fixes for failed modulepreloads that could block recovery, plus Safari and Firefox improvements to performance tooling and browser responsiveness.\n• Baldur Bjarnason's Notes on the Web announces a Premium Newsletter that runs alongside the regular one. The launch price is €25 for a year's membership, a 50% discount off the annual price, during a Halloween sale.",
+    "generated_at": "2026-10-28T11:03:47.858881+00:00",
     "window_minutes": 60,
-    "item_count": 1,
-    "key": "cae9b058ebc23cf6586a52cac96864a18173b060",
+    "item_count": 2,
+    "key": "1b68e83f6ebe4e1ce9b449575898b4b39760cc29",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
@@ -24,6 +24,20 @@
       "category": "personal blogs",
       "feed_url": "http://feeds.feedburner.com/csswizardry",
       "feed_icon": "https://www.google.com/s2/favicons?domain=csswizardry.com&sz=64"
+    },
+    {
+      "id": "https://www.baldurbjarnason.com/2026/out-of-the-ai-crisis-halloween-sale-and-launch/",
+      "title": "Out of the ‘AI’ Crisis – Premium Newsletter launch and Halloween Sale",
+      "published": "2026-10-28T10:40:00+00:00",
+      "author": "Baldur Bjarnason",
+      "description": "Overview # I’m launching a Premium Newsletter that runs in addition to the regular one. The launch price is €25 EUR for a year’s membership, which is a 50% discount off the annual price and a 70% discount off the monthly price. This Halloween launch sale lasts up to (and including) 1 November 2026 . I’m also offering a bundle Halloween sale that includes all the ebooks and a year’s membership in the Premium Newsletter at €50 EUR, a 60% Halloween launch discount until 1 November 2026 … Or, more…",
+      "link": "https://www.baldurbjarnason.com/2026/out-of-the-ai-crisis-halloween-sale-and-launch/",
+      "image": "https://v1.screenshot.11ty.dev/https%3A%2F%2Fwww.baldurbjarnason.com%2F2026%2Fout-of-the-ai-crisis-halloween-sale-and-launch%2F/opengraph/",
+      "feed_name": "Baldur Bjarnason's Notes on the Web",
+      "feed_title": "Baldur Bjarnason's Notes on the Web",
+      "category": "personal blogs",
+      "feed_url": "https://feedpress.me/baldurbjarnason",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.baldurbjarnason.com&sz=64"
     },
     {
       "id": "https://christianheilmann.com/?p=10325",

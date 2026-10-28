@@ -1,16 +1,44 @@
 {
   "category": "gaming",
-  "updated": "2026-10-28T10:33:10.195280+00:00",
-  "count": 570,
+  "updated": "2026-10-28T11:03:47.858881+00:00",
+  "count": 573,
   "summary": {
-    "text": "• Sucker Punch laid off 24 staff weeks after shipping the Echoes of Sekigahara expansion for Ghost of Yōtei, following earlier PlayStation studio cuts this year.\n• Rockstar employees vote next month on recognising their developer union, during the GTA 6 release window. If successful, it would be the largest recognised union in UK games.\n• The Rings of Power showrunner says season 3 will be a soft reboot, offering a new entry point for fans.\n• Matsuri Hino's shojo classic and its 2008 adaptation remain divisive guilty pleasures 18 years on.",
-    "generated_at": "2026-10-28T10:33:10.195280+00:00",
+    "text": "• Polygon highlights Nintendo's spookiest game, a GameCube classic where Luigi searches for his brother, now 25 years old and a must-play on Switch 2.\n• A leaked Mass Effect 5 trailer, surfacing after the game's cancellation, is being re-scored by one of the original trilogy's composers.\n• The Rings of Power showrunner says season 3 will be a soft reboot, making it a good entry point for new fans.",
+    "generated_at": "2026-10-28T11:03:47.858881+00:00",
     "window_minutes": 60,
-    "item_count": 4,
-    "key": "db1ff9a6d646a5aae2a168e21106cb28e7b51d7b",
+    "item_count": 3,
+    "key": "82e4376fc402a6c0aacd73ea0c80c3007b284f76",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.polygon.com/luigis-mansion-gamecube-retrospective-switch-online/",
+      "title": "25 Years Later, Nintendo’s Spookiest Game Is a Must-Play On Switch 2",
+      "published": "2026-10-28T11:00:18+00:00",
+      "author": "Jason Venter",
+      "description": "Luigi searched for his brother in one of the finest (and first) games of the GameCube generation, and we can't forget about it.",
+      "link": "https://www.polygon.com/luigis-mansion-gamecube-retrospective-switch-online/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/assets/4489221/gamecube-controller-photo_1280.jpg",
+      "feed_name": "Polygon -  All",
+      "feed_title": "Polygon.com",
+      "category": "gaming",
+      "feed_url": "https://www.polygon.com/rss/index.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.polygon.com&sz=64"
+    },
+    {
+      "id": "https://www.rockpapershotgun.com/leaked-mass-effect-5-trailer-is-being-re-scored-by-one-of-the-original-trilogys-composers-so-folks-can-get-a-taste-of-his-musical-vision-for-the-game",
+      "title": "Leaked Mass Effect 5 trailer is being \"re-scored\" by one of the original trilogy's composers, so folks can get a taste of his musical vision for the game",
+      "published": "2026-10-28T10:31:35+00:00",
+      "author": "Mark Warren",
+      "description": "One of the composers who contributed to the scores of the original Mass Effect trilogy has decided to re-soundtrack the Mass Effect Universe trailer which leaked following the game's cancellation and BioWare's closure . Sam Hulick's aim, aside from making this year's N7 Day a tiny bit less depressing if he can deliver as planned, is to share some of his \"musical vision\" for the RPG. Read more",
+      "link": "https://www.rockpapershotgun.com/leaked-mass-effect-5-trailer-is-being-re-scored-by-one-of-the-original-trilogys-composers-so-folks-can-get-a-taste-of-his-musical-vision-for-the-game",
+      "image": "https://assetsio.gnwcdn.com/mass-effect-5-trailer-re-score-hulick-01.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "feed_name": "Rock, Paper, Shotgun",
+      "feed_title": "Rock, Paper, Shotgun",
+      "category": "gaming",
+      "feed_url": "http://feeds.feedburner.com/RockPaperShotgun",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.rockpapershotgun.com&sz=64"
+    },
     {
       "id": "https://www.polygon.com/rings-of-power-season-3-soft-reboot-new-direction/",
       "title": "The Rings of Power Season 3 Will Be a Soft Reboot, Showrunner Says",
@@ -66,6 +94,20 @@
       "category": "gaming",
       "feed_url": "https://www.eurogamer.net/?format=rss",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.eurogamer.net&sz=64"
+    },
+    {
+      "id": "https://www.rockpapershotgun.com/part-idle-game-part-automation-game-moon-sweepers-exploits-the-sickness-in-me-that-adores-both-satisfactory-and-cookie-clicker",
+      "title": "Part idle game, part automation game, Moon Sweepers exploits the sickness in me that adores both Satisfactory and Cookie Clicker",
+      "published": "2026-10-28T09:30:00+00:00",
+      "author": "Julian Benson",
+      "description": "When Edwin talked about Moon Sweepers yesterday he focused on the artisanal approach to space rock cleaning. Like the puritan he is, he wants to wipe away all the dust on the moon using a toothbrush. He says you should take pride in your work, stick one spacesuit-clad middle finger up to the machines and say 'Fuck off, robots. Let me show you my art!\" as you get down on all fours and brush away moon dust. I've taken a different approach. Read more",
+      "link": "https://www.rockpapershotgun.com/part-idle-game-part-automation-game-moon-sweepers-exploits-the-sickness-in-me-that-adores-both-satisfactory-and-cookie-clicker",
+      "image": "https://assetsio.gnwcdn.com/_0004_Moon-Sweepers-astronaut.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "feed_name": "Rock, Paper, Shotgun",
+      "feed_title": "Rock, Paper, Shotgun",
+      "category": "gaming",
+      "feed_url": "http://feeds.feedburner.com/RockPaperShotgun",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.rockpapershotgun.com&sz=64"
     },
     {
       "id": "https://www.eurogamer.net/gta-6-ps5-download-size",
