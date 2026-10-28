@@ -1,6 +1,6 @@
 {
   "category": "World News",
-  "updated": "2026-10-28T12:03:54.214481+00:00",
+  "updated": "2026-10-28T12:33:13.552599+00:00",
   "count": 1000,
   "summary": {
     "text": "• Spain: Two high-speed trains collided near Toledo, killing at least 30 by some counts and 46 by others. Human error is reportedly suspected.\n• Israel: Netanyahu and Gadi Eisenkot both claimed confidence in an unclear election, while Arab voter turnout hit a record.\n• Brazil: Senator Flávio Bolsonaro fled Brazil for Miami after an election defeat.\n• Markets: Stellantis reported a 4 billion euro cash shortfall, while oil prices rose on Houthi attacks on a Saudi refinery.",
@@ -12,13 +12,69 @@
   },
   "items": [
     {
-      "id": "https://www.nytimes.com/live/2026/10/27/world/israel-elections",
-      "title": "Rivals in Israel Election Strike Tone of Triumph, but Outcome Is Far From Clear",
-      "published": "2026-10-28T11:56:46+00:00",
+      "id": "108471998",
+      "title": "Trump jokes $5,000 would buy 'a hamburger and maybe a small dessert' at Mar-a-Lago as cost of living looms over midterms",
+      "published": "2026-10-28T12:31:58+00:00",
+      "author": null,
+      "description": "Trump's joke comes as Americans say in polls they believe that Democrats would do a better job than Republicans at address concerns about affordability.",
+      "link": "https://www.cnbc.com/2026/10/28/trump-jokes-5000-cash-would-buy-hamburger-and-dessert-at-mar-a-lago.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108443181-1792612088462-gettyimages-2300763942-AFP_D3ZP8NR.jpeg?v=1792698410&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "108471405",
+      "title": "Israeli bonds, shekel fall as election leaves Netanyahu and others far short of majorities",
+      "published": "2026-10-28T12:27:07+00:00",
+      "author": null,
+      "description": "Exit polls show Prime Minister Benjamin Netanyahu's alliance and Gadi Eisenkot's opposition bloc both well off the numbers needed to form a governing majority.",
+      "link": "https://www.cnbc.com/2026/10/28/israel-election-netanyahu-trump-gaza-.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108471491-1793144780727-gettyimages-2301467717-AA_25102026_3009268.jpeg?v=1793144798&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "108471675",
+      "title": "Trump says Iran war will end 'when I want it to' as costs reportedly balloon to $47 billion",
+      "published": "2026-10-28T12:25:49+00:00",
+      "author": null,
+      "description": "Trump's statement comes as a report from The Hill revealed that the costs of the Iran conflict have ballooned to $47 billion.",
+      "link": "https://www.cnbc.com/2026/10/28/us-iran-war-trump-hormuz-costs-centcom.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108469575-1793116126073-gettyimages-2301782444-AFP_D4L24FR.jpeg?v=1793116206&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/live/2026/10/28/world/spain-train-crash-toledo",
+      "title": "Live Updates: At Least 30 Killed in Train Crash in Spain, Official Says",
+      "published": "2026-10-28T12:19:41+00:00",
       "author": "The New York Times",
-      "description": "Addressing supporters after midnight, Prime Minister Benjamin Netanyahu and Gadi Eisenkot, who leads a bloc of opposition parties, both expressed confidence that they will lead Israel’s next government. Vote counting could take days.",
-      "link": "https://www.nytimes.com/live/2026/10/27/world/israel-elections",
-      "image": "https://static01.nyt.com/images/2026/11/25/multimedia/27israel-live-promo9p/25int-israel-election-explainer-promo-gqlj-mediumSquareAt3X.jpg",
+      "description": "One high-speed passenger train rear-ended another one near Toledo, months after a crash involving the same carriers killed dozens and stunned the country.",
+      "link": "https://www.nytimes.com/live/2026/10/28/world/spain-train-crash-toledo",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28spain-crash-header-promo1/28spain-crash-header-ctmh-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.nytimes.com/live/2026/10/28/world/spain-train-crash-toledo/spain-train-crash-toledo",
+      "title": "Here’s the latest.",
+      "published": "2026-10-28T12:18:08+00:00",
+      "author": "Jason Horowitz",
+      "description": "One train rear-ended another, sending two carriages down an embankment.",
+      "link": "https://www.nytimes.com/live/2026/10/28/world/spain-train-crash-toledo/spain-train-crash-toledo",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28spain-crash-header-promo1/28spain-crash-header-ctmh-facebookJumbo.jpg",
       "feed_name": "NYT",
       "feed_title": "NYT > World News",
       "category": "World News",
@@ -28,7 +84,7 @@
     {
       "id": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo#3",
       "title": "What we know so far about deadly Spain train crash",
-      "published": "2026-10-28T11:54:21+00:00",
+      "published": "2026-10-28T12:14:44+00:00",
       "author": null,
       "description": "More than 500 passengers were on board the trains when the incident occurred in the province of Toledo, south of Madrid.",
       "link": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
@@ -40,13 +96,41 @@
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
-      "id": "https://www.nytimes.com/live/2026/10/28/world/spain-train-crash-toledo",
-      "title": "Live Updates: At Least 30 Killed in Train Crash in Spain, Officials Say",
-      "published": "2026-10-28T11:53:34+00:00",
+      "id": "https://timesofindia.indiatimes.com/world/us/in-2006-a-couple-bought-310-acres-in-tennessee-for-1-3-million-years-later-a-partnership-claimed-a-74-5-million-conservation-tax-deduction-but-a-us-judge-valued-the-easement-at-just-500000-and-upheld-a-penalty/articleshow/135264375.cms",
+      "title": "A US court slashed a $74.5m tax break on 310 Tennessee acres to $500,000, upholding a 40% penalty",
+      "published": "2026-10-28T12:10:02+00:00",
+      "author": "TOI World Desk",
+      "description": "The United States Tax Court delivered a decisive blow to Lontrac Enterprises, LLC, reducing their claimed tax deduction for a conservation easement from $74.5 million to $500,000. The ruling highlighted the partnership's failure to provide credible evidence, resulting in the imposition of a 40 percent penalty from the IRS for a gross valuation misstatement. This case illustrates the ongoing struggles faced by taxpayers involved in syndicated conservation easement transactions.",
+      "link": "https://timesofindia.indiatimes.com/world/us/in-2006-a-couple-bought-310-acres-in-tennessee-for-1-3-million-years-later-a-partnership-claimed-a-74-5-million-conservation-tax-deduction-but-a-us-judge-valued-the-easement-at-just-500000-and-upheld-a-penalty/articleshow/135264375.cms",
+      "image": "https://static.toiimg.com/photo/msid-135264942,imgsize-1119579.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/28/world/americas/mexico-seaweed-navy.html",
+      "title": "The Ocean ‘Was the Color of Chocolate.’ Mexico Declares War on Seaweed.",
+      "published": "2026-10-28T12:08:53+00:00",
+      "author": "David Shortell and Cristopher Rogel Blanquet",
+      "description": "To protect Mexico’s tourism-reliant economy, the Navy is fighting a massive sargassum bloom that dumps thousands of tons of seaweed onto Caribbean beaches daily.",
+      "link": "https://www.nytimes.com/2026/10/28/world/americas/mexico-seaweed-navy.html",
+      "image": null,
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.nytimes.com/live/2026/10/27/world/israel-elections",
+      "title": "Rivals in Israel Election Strike Tone of Triumph, but Outcome Is Far From Clear",
+      "published": "2026-10-28T11:56:46+00:00",
       "author": "The New York Times",
-      "description": "One high-speed passenger train rear-ended another one near Toledo, months after a crash involving the same carriers killed dozens and stunned the country.",
-      "link": "https://www.nytimes.com/live/2026/10/28/world/spain-train-crash-toledo",
-      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28spain-crash-header-promo1/28spain-crash-header-ctmh-mediumSquareAt3X.jpg",
+      "description": "Addressing supporters after midnight, Prime Minister Benjamin Netanyahu and Gadi Eisenkot, who leads a bloc of opposition parties, both expressed confidence that they will lead Israel’s next government. Vote counting could take days.",
+      "link": "https://www.nytimes.com/live/2026/10/27/world/israel-elections",
+      "image": "https://static01.nyt.com/images/2026/11/25/multimedia/27israel-live-promo9p/25int-israel-election-explainer-promo-gqlj-mediumSquareAt3X.jpg",
       "feed_name": "NYT",
       "feed_title": "NYT > World News",
       "category": "World News",
@@ -208,20 +292,6 @@
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
-      "id": "https://www.nytimes.com/live/2026/10/28/world/spain-train-crash-toledo/spain-train-crash-toledo",
-      "title": "Here’s the latest.",
-      "published": "2026-10-28T11:24:31+00:00",
-      "author": "Jason Horowitz",
-      "description": "One train rear-ended another, sending two carriages down an embankment.",
-      "link": "https://www.nytimes.com/live/2026/10/28/world/spain-train-crash-toledo/spain-train-crash-toledo",
-      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28spain-crash-header-promo1/28spain-crash-header-ctmh-facebookJumbo.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
       "id": "https://www.ndtv.com/world-news/spain-train-crash-toledo-live-updates-deaths-madrid-news-today-pedro-sanchez-12248070#publisher=newsstand",
       "title": "Spain Train Crash Updates: Human Error Believed To Be Behind Toledo Train Crash, Says Report",
       "published": "2026-10-28T11:16:55+00:00",
@@ -276,20 +346,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/10/28/world/americas/mexico-seaweed-navy.html",
-      "title": "Facing Waters ‘the Color of Chocolate,’ Mexico Declares War on Seaweed",
-      "published": "2026-10-28T11:05:53+00:00",
-      "author": "David Shortell and Cristopher Rogel Blanquet",
-      "description": "To protect Mexico’s tourism-reliant economy, the Navy is fighting a massive sargassum bloom that dumps thousands of tons of seaweed onto Caribbean beaches daily.",
-      "link": "https://www.nytimes.com/2026/10/28/world/americas/mexico-seaweed-navy.html",
-      "image": null,
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "t3_1xhkyma",
@@ -654,20 +710,6 @@
       "category": "World News",
       "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
       "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
-      "id": "108471405",
-      "title": "Israeli bonds, shekel fall as election leaves Netanyahu and others far short of majorities",
-      "published": "2026-10-28T09:12:02+00:00",
-      "author": null,
-      "description": "Exit polls show Prime Minister Benjamin Netanyahu's alliance and Gadi Eisenkot's opposition bloc both well off the numbers needed to form a governing majority.",
-      "link": "https://www.cnbc.com/2026/10/28/israel-election-netanyahu-trump-gaza-.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108471491-1793144780727-gettyimages-2301467717-AA_25102026_3009268.jpeg?v=1793144798&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/pakistan/pakistans-gas-mess-lpg-prices-soar-imported-lng-piles-up-and-the-debt-bill-keeps-growing/articleshow/135258993.cms",
@@ -1720,20 +1762,6 @@
       "feed_icon": "https://www.redditstatic.com/icon.png/"
     },
     {
-      "id": "108471998",
-      "title": "Trump jokes $5,000 would buy 'a hamburger and maybe a small dessert' at Mar-a-Lago as cost of living looms over midterms",
-      "published": "2026-10-28T04:29:20+00:00",
-      "author": null,
-      "description": "Trump joked that the $5,000 payments for U.S. adults would buy little more than \"a hamburger and maybe a small dessert\" as cost of living looms over midterms.",
-      "link": "https://www.cnbc.com/2026/10/28/trump-jokes-5000-cash-would-buy-hamburger-and-dessert-at-mar-a-lago.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108443181-1792612088462-gettyimages-2300763942-AFP_D3ZP8NR.jpeg?v=1792698410&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
       "id": "https://www.ndtv.com/world-news/from-tank-buster-to-drone-killer-apache-attack-choppers-enter-new-territory-says-report-12246436#publisher=newsstand",
       "title": "From Tank Buster To Drone Killer, Apache Attack Choppers Enter New Territory: Report",
       "published": "2026-10-28T04:29:06+00:00",
@@ -1886,20 +1914,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "108471675",
-      "title": "Trump says Iran war will end 'when I want it to' as costs reportedly balloon to $47 billion",
-      "published": "2026-10-28T03:02:44+00:00",
-      "author": null,
-      "description": "Trump's statement comes as a report from The Hill revealed that the costs of the Iran conflict has ballooned to $47 billion.",
-      "link": "https://www.cnbc.com/2026/10/28/us-iran-war-trump-hormuz-costs-centcom.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108469575-1793116126073-gettyimages-2301782444-AFP_D4L24FR.jpeg?v=1793116206&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
       "id": "108471994",
@@ -13996,20 +14010,6 @@
       "category": "World News",
       "feed_url": "https://www.theguardian.com/world/rss",
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cx62y9j1zyjvo#1",
-      "title": "From Russian cages to Irish sanctuary: The five-year rescue journey of Bu and Tyapa",
-      "published": "2026-10-24T23:02:51+00:00",
-      "author": null,
-      "description": "For Bu and Tyapa, the five-year journey from Russia to the Irish countryside was anything but straightforward.",
-      "link": "https://www.bbc.co.uk/news/articles/cx62y9j1zyjvo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d401/live/1df179f0-ce56-11f1-a166-e30097724580.png",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     }
   ]
 }

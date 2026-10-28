@@ -1,7 +1,7 @@
 {
   "category": "science",
-  "updated": "2026-10-28T12:03:54.214481+00:00",
-  "count": 590,
+  "updated": "2026-10-28T12:33:13.552599+00:00",
+  "count": 591,
   "summary": {
     "text": "• Sound-levitated particles reveal how static charge builds up when touching objects separate.\n• Heat waves speed mountain snowmelt substantially, but rivers respond unevenly.\n• Queensland researchers turned organic waste into animal feed to reduce fishmeal reliance in aquaculture.\n• Laser scans show dead tree branches rise and fall with humidity.\n• The Trump administration will allow some levels of a powerful kratom substance in \"natural\" products after industry lobbying.",
     "generated_at": "2026-10-28T12:03:54.214481+00:00",
@@ -11,6 +11,34 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "news712391176",
+      "title": "Livelihood, education goals affect migration under climate change",
+      "published": "2026-10-28T12:20:01+00:00",
+      "author": null,
+      "description": "Climate-driven hazards can push many to leave their homes in search of a livelihood elsewhere, but aspirations for the future may change where they decide to migrate, according to a new study led by researchers at Penn State. At the same time, income losses due to climate shocks, or extreme weather events like floods or droughts, may constrain migration options for vulnerable populations.",
+      "link": "https://phys.org/news/2026-10-livelihood-goals-affect-migration-climate.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/livelihood.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/27/science/space/new-dwarf-planet-beyond-pluto.html",
+      "title": "A New Dwarf Planet (Probably) Spotted Beyond Pluto",
+      "published": "2026-10-28T12:05:49+00:00",
+      "author": "Kenneth Chang",
+      "description": "The object, known for now as 2026 ED138, is one of the first discoveries by the new Vera C. Rubin Observatory in Chile.",
+      "link": "https://www.nytimes.com/2026/10/27/science/space/new-dwarf-planet-beyond-pluto.html",
+      "image": null,
+      "feed_name": "NYT > Science",
+      "feed_title": "NYT > Science",
+      "category": "science",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "news712326851",
       "title": "Sound-levitated particles reveal how static charge builds up",
@@ -439,20 +467,6 @@
       "description": "The Biden administration had sought to crack down on methane leaks, a big driver of climate change. Those rules are now being scaled back.",
       "link": "https://www.nytimes.com/2026/10/27/climate/trump-methane-rules-epa-greenhouse-gas.html",
       "image": "https://static01.nyt.com/images/2026/10/07/multimedia/00cli-methane-rollback-HFO-tchz/00cli-methane-rollback-HFO-tchz-mediumSquareAt3X.jpg",
-      "feed_name": "NYT > Science",
-      "feed_title": "NYT > Science",
-      "category": "science",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/10/27/science/space/new-dwarf-planet-beyond-pluto.html",
-      "title": "A New Dwarf Planet (Probably) Spotted Beyond Pluto",
-      "published": "2026-10-28T01:05:28+00:00",
-      "author": "Kenneth Chang",
-      "description": "The object, known for now as 2026 ED138, is one of the first discoveries by the new Vera C. Rubin Observatory in Chile.",
-      "link": "https://www.nytimes.com/2026/10/27/science/space/new-dwarf-planet-beyond-pluto.html",
-      "image": null,
       "feed_name": "NYT > Science",
       "feed_title": "NYT > Science",
       "category": "science",

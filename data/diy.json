@@ -1,7 +1,7 @@
 {
   "category": "DIY",
-  "updated": "2026-10-28T12:03:54.214481+00:00",
-  "count": 245,
+  "updated": "2026-10-28T12:33:13.552599+00:00",
+  "count": 247,
   "summary": {
     "text": "• Travel router: a pocket-sized $20 gadget creates a private Wi-Fi network with a firewall and lets all your devices share one connection, fixing hotel or coffee shop Wi-Fi problems.\n• Linux apps: one writer switched from Flathub to a Linux app store that excludes AI-generated (\"AI slop\") apps.\n• PDF software: a free PDF app has replaced all other PDF tools on one PC, according to its user.\n• Retro PC features: a piece suggests four old computer features worth bringing back to modern PCs.",
     "generated_at": "2026-10-28T12:03:54.214481+00:00",
@@ -11,6 +11,34 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.makeuseof.com/timed-two-full-ryobi-batteries/",
+      "title": "I timed two “full” Ryobi batteries side by side to see what four bars really means",
+      "published": "2026-10-28T12:30:16+00:00",
+      "author": "Jonathon Jachura",
+      "description": "Here's how two different 4Ah Ryobi batteries lasted under identical test conditions.",
+      "link": "https://www.makeuseof.com/timed-two-full-ryobi-batteries/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/05/ryobi-power-inverter-and-flashlight-on-desk-lights-on.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/smart-home-automations-require-nothing-but-a-motion-sensor/",
+      "title": "5 powerful smart home automations that require nothing but a motion sensor",
+      "published": "2026-10-28T12:30:15+00:00",
+      "author": "Adam Davidson",
+      "description": "Stop going through the motions.",
+      "link": "https://www.howtogeek.com/smart-home-automations-require-nothing-but-a-motion-sensor/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/02/a-motion-sensor-pointing-across-the-threshold-of-a-doorway-into-a-room.png",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/your-hotel-or-coffee-shop-wi-fi-has-a-problem-and-this-20-gadget-can-fix-it/",
       "title": "Your hotel or coffee shop Wi-Fi has a problem, and this $20 gadget can fix it",

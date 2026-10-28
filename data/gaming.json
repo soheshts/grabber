@@ -1,7 +1,7 @@
 {
   "category": "gaming",
-  "updated": "2026-10-28T12:03:54.214481+00:00",
-  "count": 582,
+  "updated": "2026-10-28T12:33:13.552599+00:00",
+  "count": 585,
   "summary": {
     "text": "• Arc Raiders developer Embark is still undecided on a permanent PvE mode despite a generally favourable test.\n• Eurogamer profiles Buckshot Roulette developer Mike Klubnika, whose horror games feature smoking, club music and post-Soviet malaise.\n• Kotaku revisits Kingdom Hearts' maligned Gummi Ship minigame and praises Wuhu Island in Nintendo Switch Sports Resort.\n• A former BioWare employee says EA's new management asked for an LGBTQ flag to be removed from a canceled Mass Effect game.",
     "generated_at": "2026-10-28T12:03:54.214481+00:00",
@@ -11,6 +11,20 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.polygon.com/obsession-director-curry-barker-mama-bear-youtube-short-film/",
+      "title": "Obsession Director Reveals Surprise New Release Coming This Week",
+      "published": "2026-10-28T12:13:06+00:00",
+      "author": "Ashely Claudino",
+      "description": "Curry Barker, director of the indie hit Obsession, returns to YouTube with a new short film just in time for Halloween.",
+      "link": "https://www.polygon.com/obsession-director-curry-barker-mama-bear-youtube-short-film/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/bear-obsession.jpg",
+      "feed_name": "Polygon -  All",
+      "feed_title": "Polygon.com",
+      "category": "gaming",
+      "feed_url": "https://www.polygon.com/rss/index.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.polygon.com&sz=64"
+    },
     {
       "id": "https://kotaku.com/?p=2000750265",
       "title": "Was Kingdom Hearts’ Gummi Ship That Bad, Or Were We All 12?",
@@ -68,6 +82,20 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.eurogamer.net&sz=64"
     },
     {
+      "id": "dee17636-7550-4e31-a3e6-4cec0d94e7e8",
+      "title": "You Need to Have Completed Crimson Desert's Main Storyline to Begin Kliff, Oongka, and Damiane's New DLC Stories",
+      "published": "2026-10-28T11:52:50+00:00",
+      "author": "Wesley Yin-Poole",
+      "description": "You need to have completed Crimson Desert’s main storyline to begin Kliff, Oongka, and Damiane’s new DLC stories, Pearl Abyss has confirmed.",
+      "link": "https://www.ign.com/articles/you-need-to-have-completed-crimson-deserts-main-storyline-to-begin-kliff-oongka-and-damianes-new-dlc-stories",
+      "image": "https://assets-prd.ignimgs.com/2026/10/28/cd2-1793188035545.jpg",
+      "feed_name": "IGN All",
+      "feed_title": "IGN Articles",
+      "category": "gaming",
+      "feed_url": "http://feeds.ign.com/ign/all",
+      "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
+    },
+    {
       "id": "https://www.eurogamer.net/mike-klubnika-buckshot-roulette-machine-party-interview",
       "title": "Inside Buckshot Roulette developer Mike Klubnika's terrifically nasty horror universe of post-Soviet malaise",
       "published": "2026-10-28T11:45:33+00:00",
@@ -80,6 +108,20 @@
       "category": "gaming",
       "feed_url": "https://www.eurogamer.net/?format=rss",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.eurogamer.net&sz=64"
+    },
+    {
+      "id": "https://www.rockpapershotgun.com/creation-without-a-creator-pathologic-3s-devs-have-refused-to-patch-an-invisible-apple-tree-and-for-a-blissful-moment-i-thought-they-were-lying-to-poison-googles-ai",
+      "title": "\"Creation without a creator\": Pathologic 3's devs have refused to patch an invisible apple tree, and for a blissful moment, I thought they were lying to poison Google's AI",
+      "published": "2026-10-28T11:40:49+00:00",
+      "author": "Edwin Evans-Thirlwell",
+      "description": "Magnificent, depressing plague colony fable Pathologic 3 has received a sizeable game update that adds some new difficulty modes, a photo feature, and some new, worryingly folkloric methods of defeating a murky embodiment of disease. Developers Ice Pick Lodge have also staunchly refused to remove an invisible apple tree, describing this apparently \"famous\" bug as a hallmark of a game whose \"symbolic nature has almost overtaken its function as a product\". This appears to be the last major update…",
+      "link": "https://www.rockpapershotgun.com/creation-without-a-creator-pathologic-3s-devs-have-refused-to-patch-an-invisible-apple-tree-and-for-a-blissful-moment-i-thought-they-were-lying-to-poison-googles-ai",
+      "image": "https://assetsio.gnwcdn.com/pathologic-3-flamethrowers-and-trees.png?width=690&quality=85&format=jpg&auto=webp",
+      "feed_name": "Rock, Paper, Shotgun",
+      "feed_title": "Rock, Paper, Shotgun",
+      "category": "gaming",
+      "feed_url": "http://feeds.feedburner.com/RockPaperShotgun",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.rockpapershotgun.com&sz=64"
     },
     {
       "id": "https://www.polygon.com/mass-effect-universe-bioware-ea-remove-lgbtq-flag/",

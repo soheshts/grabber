@@ -1,9 +1,30 @@
 {
   "category": "photography",
-  "updated": "2026-10-28T12:03:54.214481+00:00",
-  "count": 87,
-  "summary": null,
+  "updated": "2026-10-28T12:33:13.552599+00:00",
+  "count": 88,
+  "summary": {
+    "text": "• Fashion photo studios are closing as brands increasingly adopt generative AI.\n• According to a Reuters report cited by PetaPixel, the main draw is the large cost savings the technology offers.\n• The shift signals a broader change for commercial photography in the fashion industry.",
+    "generated_at": "2026-10-28T12:33:13.552599+00:00",
+    "window_minutes": 60,
+    "item_count": 1,
+    "key": "1a9621a55eccfcf8cc4bd5966d1eb2a1fe693049",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "https://petapixel.com/?p=889826",
+      "title": "Photo Studios Are Closing as the Fashion Industry Embraces Generative AI",
+      "published": "2026-10-28T12:18:22+00:00",
+      "author": "Matt Growcoot",
+      "description": "Fashion photo studios are closing down as brands increasingly embrace AI thanks to the big savings offered by the technology, according to a report by Reuters. [ Read More ]",
+      "link": "https://petapixel.com/2026/10/28/photo-studios-are-closing-as-the-fashion-industry-embraces-generative-ai/",
+      "image": "https://petapixel.com/assets/uploads/2026/10/AI-Impact-on-Fashion-Industry.jpg",
+      "feed_name": "PetaPixel",
+      "feed_title": "PetaPixel",
+      "category": "photography",
+      "feed_url": "https://petapixel.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=petapixel.com&sz=64"
+    },
     {
       "id": "https://petapixel.com/?p=889821",
       "title": "China’s First Fully AI-Generated Film is Crashing and Burning at the Box Office",
