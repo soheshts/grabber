@@ -1,7 +1,7 @@
 {
   "category": "gaming",
-  "updated": "2026-10-28T03:33:31.209293+00:00",
-  "count": 560,
+  "updated": "2026-10-28T04:02:31.583247+00:00",
+  "count": 561,
   "summary": {
     "text": "• Polygon reports that VisionQuest has brought back Raza, a Ten Rings terrorist.\n• Raza had not appeared since the first Iron Man movie.\n• The report describes him as the MCU's oldest villain.",
     "generated_at": "2026-10-28T03:03:37.134308+00:00",
@@ -11,6 +11,20 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.polygon.com/buffy-halloween-season-2-rupert-giles-ripper/",
+      "title": "29 Years Ago, ‘Buffy’s Wisest Character Got a Shocking Backstory that Redefined the Entire Series",
+      "published": "2026-10-28T04:00:18+00:00",
+      "author": "Maria Loreto",
+      "description": "Buffy the Vampire Slayer began to find its rhythm in season 2, after introducing an unnerving backstory to Rupert Giles.",
+      "link": "https://www.polygon.com/buffy-halloween-season-2-rupert-giles-ripper/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/buffy-halloween.jpg",
+      "feed_name": "Polygon -  All",
+      "feed_title": "Polygon.com",
+      "category": "gaming",
+      "feed_url": "https://www.polygon.com/rss/index.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.polygon.com&sz=64"
+    },
     {
       "id": "https://www.polygon.com/visionquest-mcus-oldest-iron-man-villain-raza-hamidmi-al-wazar/",
       "title": "The MCU's Oldest Villain Just Made a Surprise Return in 'VisionQuest'",

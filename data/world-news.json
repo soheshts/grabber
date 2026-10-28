@@ -1,7 +1,7 @@
 {
   "category": "World News",
-  "updated": "2026-10-28T03:33:31.209293+00:00",
-  "count": 936,
+  "updated": "2026-10-28T04:02:31.583247+00:00",
+  "count": 939,
   "summary": {
     "text": "• Israel's election has no clear winner, with exit polls showing Netanyahu's bloc and Gadi Eisenkot's opposition both far short of a majority.\n• Australia's inflation rose to 4.3%, fuelling fears of a fifth rate hike this year; the RBA meets next week.\n• Egypt ordered news site Mada Masr closed for operating without a license and detained its editor in chief.\n• The Alexander brothers were each sentenced to 30 years for sex trafficking.",
     "generated_at": "2026-10-28T03:03:37.134308+00:00",
@@ -13,8 +13,8 @@
   "items": [
     {
       "id": "https://www.theguardian.com/australia-news/live/2026/oct/28/inflation-abs-labor-anthony-albanese-parliament-greens-david-shoebridge-one-nation-ntwnfb",
-      "title": "Australian politics live: ABC calls for One Nation to ‘immediately remove’ Bluey cartoon; Taylor targets Labor’s ‘out-of-control’ spending in question time",
-      "published": "2026-10-28T03:29:29+00:00",
+      "title": "Australian politics live: ABC calls for One Nation to ‘immediately remove’ Bluey cartoon; Liberal MP ejected from question time for swearing",
+      "published": "2026-10-28T04:00:31+00:00",
       "author": "Kat Wong",
       "description": "Get our breaking news email , free app or daily news podcast Online hate is spilling into the real world, AFP warns AFP Commissioner Krissy Barrett began her late-night appearance at the Senate estimates hearing noting “a heaviness that hangs across Australia” after the alleged attack on independent MP Helen Haines . Lone actors are being motivated by a convergence of personal grievances, mental health vulnerabilities and ideological concerns … What helped keep us safe in recent times, such as…",
       "link": "https://www.theguardian.com/australia-news/live/2026/oct/28/inflation-abs-labor-anthony-albanese-parliament-greens-david-shoebridge-one-nation-ntwnfb",
@@ -26,11 +26,53 @@
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
     },
     {
+      "id": "https://www.nytimes.com/live/2026/10/27/world/israel-elections",
+      "title": "Israel Election Live Updates: Rivals Strike Tone of Triumph, but Outcome Is Far From Clear",
+      "published": "2026-10-28T03:57:55+00:00",
+      "author": "The New York Times",
+      "description": "Addressing supporters after midnight, Prime Minister Benjamin Netanyahu and Gadi Eisenkot, who leads a bloc of opposition parties, both expressed confidence that they will lead Israel’s next government. Vote counting could take days.",
+      "link": "https://www.nytimes.com/live/2026/10/27/world/israel-elections",
+      "image": "https://static01.nyt.com/images/2026/11/25/multimedia/27israel-live-promo9p/25int-israel-election-explainer-promo-gqlj-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/rest-of-world/in-2020-mackenzie-scott-gave-10-million-to-a-south-carolina-charity-six-years-later-part-of-that-gift-is-helping-turn-a-rundown-columbia-motel-site-into-30-affordable-homes-for-local-families/articleshow/135226783.cms",
+      "title": "MacKenzie Scott's $10 million donation helps fund housing project for 30 families in US",
+      "published": "2026-10-28T03:38:34+00:00",
+      "author": "TOI World Desk",
+      "description": "A former motel in Columbia, South Carolina, is being redeveloped into 30 affordable rental homes as part of a $12.8 million project by nonprofit Homeless No More. The development is partly supported by a $10 million donation made by philanthropist MacKenzie Scott to United Way of the Midlands in 2020. Construction began on October 13, with homes expected to be completed within a year.",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/in-2020-mackenzie-scott-gave-10-million-to-a-south-carolina-charity-six-years-later-part-of-that-gift-is-helping-turn-a-rundown-columbia-motel-site-into-30-affordable-homes-for-local-families/articleshow/135226783.cms",
+      "image": "https://static.toiimg.com/photo/msid-135227596,imgsize-48422.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
+      "id": "108471787",
+      "title": "Kylian Mbappé faces China backlash as sponsors cut ties over viral meme",
+      "published": "2026-10-28T03:33:53+00:00",
+      "author": null,
+      "description": "Chinese state media has warned Kylian Mbappé that his apology over remarks referring to Mao Zedong as a dictator will be judged against his actions.",
+      "link": "https://www.cnbc.com/2026/10/28/china-mbappe-football-sponsor-meme-controversy.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108471995-1793153124158-gettyimages-2301742439-AFP_D4J68CQ.jpeg?v=1793154769&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
       "id": "https://www.theguardian.com/australia-news/2026/oct/28/backdrop-for-countless-local-love-stories-geelong-gingko-named-victorian-tree-of-the-year",
       "title": "‘Backdrop for countless local love stories’: Geelong gingko named Victorian tree of the year",
       "published": "2026-10-28T03:23:35+00:00",
       "author": "Caitlin Cassidy",
-      "description": "National trust of Victoria award celebrates much-loved arboreal icons while calling for protection of green spaces For more than 160 years, a humble ginkgo tree raised from seed in Geelong’s botanic gardens has been the backdrop to “countless local love stories”. Standing beneath it is the most popular spot to get married at the park, its branches forming the backdrop of many wedding photos. Now, in addition to being the largest inkgo biloba in the state – and possibly Australia – at a whopping…",
+      "description": "National trust of Victoria award celebrates much-loved arboreal icons while calling for protection of green spaces Follow our Australia politics live blog for latest updates Get our breaking news email , free app or daily news podcast For more than 160 years, a humble ginkgo tree raised from seed in Geelong’s botanic gardens has been the backdrop to “countless local love stories”. Standing beneath it is the most popular spot to get married at the park, its branches forming the backdrop of many…",
       "link": "https://www.theguardian.com/australia-news/2026/oct/28/backdrop-for-countless-local-love-stories-geelong-gingko-named-victorian-tree-of-the-year",
       "image": "https://i.guim.co.uk/img/media/56fd5972da71e25bc7784d0abc49977c8d4576df/125_0_3750_3000/master/3750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a7c0502c5213c6315a881951b1c00837",
       "feed_name": "The Guardian",
@@ -110,20 +152,6 @@
       "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
-      "id": "https://www.nytimes.com/live/2026/10/27/world/israel-elections",
-      "title": "Israel Election Live Updates: Rivals Strike Tone of Triumph, but Outcome Is Far From Clear",
-      "published": "2026-10-28T02:52:21+00:00",
-      "author": "The New York Times",
-      "description": "Addressing supporters after midnight, Prime Minister Benjamin Netanyahu and Gadi Eisenkot, who leads a bloc of opposition parties, both expressed confidence that they will lead Israel’s next government. Vote counting could take days.",
-      "link": "https://www.nytimes.com/live/2026/10/27/world/israel-elections",
-      "image": "https://static01.nyt.com/images/2026/11/25/multimedia/27israel-live-promo9p/25int-israel-election-explainer-promo-gqlj-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
       "id": "https://www.ndtv.com/world-news/no-clear-winner-in-israel-with-netanyahu-fighting-for-a-tie-exit-polls-show-12245942#publisher=newsstand",
       "title": "Netanyahu's Bloc Ahead Of Opposition, But Falls Short Of Majority: Exit Polls",
       "published": "2026-10-28T02:48:11+00:00",
@@ -164,6 +192,20 @@
       "category": "World News",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "t3_1xhcdde",
+      "title": "El Salvador rushes 1,000 troops to Haiti after gang ambush, source says",
+      "published": "2026-10-28T02:32:54+00:00",
+      "author": "/u/lonebunny227",
+      "description": "submitted by /u/lonebunny227 [link] [comments]",
+      "link": "https://www.reddit.com/r/worldnews/comments/1xhcdde/el_salvador_rushes_1000_troops_to_haiti_after/",
+      "image": null,
+      "feed_name": "World News",
+      "feed_title": "World News",
+      "category": "World News",
+      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
+      "feed_icon": "https://www.redditstatic.com/icon.png/"
     },
     {
       "id": "https://www.ndtv.com/world-news/russia-linked-ai-videos-target-midterms-candidates-spread-disinformation-12246077#publisher=newsstand",
