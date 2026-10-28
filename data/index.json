@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-28T09:03:49.739615+00:00",
+  "updated": "2026-10-28T09:32:14.997295+00:00",
   "categories": [
     {
       "name": "technology",
       "slug": "technology",
       "file": "technology.json",
       "feeds": 24,
-      "count": 778
+      "count": 781
     },
     {
       "name": "entertainment",
@@ -20,14 +20,14 @@
       "slug": "science",
       "file": "science.json",
       "feeds": 21,
-      "count": 568
+      "count": 569
     },
     {
       "name": "personal blogs",
       "slug": "personal-blogs",
       "file": "personal-blogs.json",
       "feeds": 339,
-      "count": 423
+      "count": 422
     },
     {
       "name": "space",
@@ -48,7 +48,7 @@
       "slug": "travel",
       "file": "travel.json",
       "feeds": 5,
-      "count": 71
+      "count": 73
     },
     {
       "name": "photography",
@@ -83,7 +83,7 @@
       "slug": "fashion",
       "file": "fashion.json",
       "feeds": 8,
-      "count": 256
+      "count": 259
     },
     {
       "name": "funny",
@@ -97,7 +97,7 @@
       "slug": "gaming",
       "file": "gaming.json",
       "feeds": 14,
-      "count": 564
+      "count": 565
     },
     {
       "name": "history",

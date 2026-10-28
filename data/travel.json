@@ -1,9 +1,44 @@
 {
   "category": "travel",
-  "updated": "2026-10-28T09:03:49.739615+00:00",
-  "count": 71,
-  "summary": null,
+  "updated": "2026-10-28T09:32:14.997295+00:00",
+  "count": 73,
+  "summary": {
+    "text": "• Mexico's Navy is battling a massive sargassum seaweed bloom that dumps thousands of tons onto Caribbean beaches daily, threatening the tourism-reliant economy.\n• Travelers planning a trip around a running race can get tips on when to arrive and how to choose an event.",
+    "generated_at": "2026-10-28T09:32:14.997295+00:00",
+    "window_minutes": 60,
+    "item_count": 2,
+    "key": "53e72c386117c09da3128b91cbcda166b2c279b4",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/10/28/world/americas/mexico-seaweed-navy.html",
+      "title": "The Ocean ‘Was the Color of Chocolate.’ Mexico Declares War on Seaweed",
+      "published": "2026-10-28T09:05:55+00:00",
+      "author": "David Shortell and Cristopher Rogel Blanquet",
+      "description": "To protect Mexico’s tourism-reliant economy, the Navy is fighting a massive sargassum bloom that dumps thousands of tons of seaweed onto Caribbean beaches daily.",
+      "link": "https://www.nytimes.com/2026/10/28/world/americas/mexico-seaweed-navy.html",
+      "image": null,
+      "feed_name": "NYT > Travel",
+      "feed_title": "NYT > Travel",
+      "category": "travel",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/28/travel/marathon-vacation-planning.html",
+      "title": "How to Plan a Trip Around a Running Race",
+      "published": "2026-10-28T09:00:06+00:00",
+      "author": "Amisha Padnani",
+      "description": "When should you arrive? How do you choose an event? Here are some tips on how best to center a vacation around a race.",
+      "link": "https://www.nytimes.com/2026/10/28/travel/marathon-vacation-planning.html",
+      "image": "https://static01.nyt.com/images/2026/10/28/travel/28trav101-races-illo/28trav101-races-illo-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Travel",
+      "feed_title": "NYT > Travel",
+      "category": "travel",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "https://www.theguardian.com/travel/2026/oct/28/cycling-nature-holiday-veluwe-netherlands",
       "title": "Cycling in the wild heart of the Netherlands: an autumnal break in the Veluwe",

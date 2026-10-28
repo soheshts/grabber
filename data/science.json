@@ -1,7 +1,7 @@
 {
   "category": "science",
-  "updated": "2026-10-28T09:03:49.739615+00:00",
-  "count": 568,
+  "updated": "2026-10-28T09:32:14.997295+00:00",
+  "count": 569,
   "summary": {
     "text": "• DNA analysis suggests root-dwelling fungi may be keystone species in forest microbial communities.\n• Fungi and bacteria in soil and root systems play pivotal roles in processes such as nutrient cycling.\n• AI emergency alerts are coming, but humans may not be ready, since people already struggle with emergency communication. Chatbots could help if people take them seriously.",
     "generated_at": "2026-10-28T09:03:49.739615+00:00",
@@ -11,6 +11,20 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/10/28/us/politics/trump-opioid-kratom.html",
+      "title": "Trump Administration Backs Down on an Opioid Ban After Kratom Industry Lobbying",
+      "published": "2026-10-28T09:03:55+00:00",
+      "author": "Christina Jewett",
+      "description": "Health officials will now allow some levels of a powerful substance to remain in products marketed as natural. The change could help a G.O.P. donor facing wrongful death lawsuits.",
+      "link": "https://www.nytimes.com/2026/10/28/us/politics/trump-opioid-kratom.html",
+      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/00dc-kratom-top-lhgf/00dc-kratom-top-lhgf-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Science",
+      "feed_title": "NYT > Science",
+      "category": "science",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "news712242302",
       "title": "DNA analysis identifies root-dwelling fungi as potential keystone species in forest microbial communities",

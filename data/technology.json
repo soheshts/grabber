@@ -1,7 +1,7 @@
 {
   "category": "technology",
-  "updated": "2026-10-28T09:03:49.739615+00:00",
-  "count": 778,
+  "updated": "2026-10-28T09:32:14.997295+00:00",
+  "count": 781,
   "summary": {
     "text": "• Meta has launched Waddle World, a Tamagotchi-style AI pet app that Meta describes as a \"daily journal disguised as a pet.\"",
     "generated_at": "2026-10-28T09:03:49.739615+00:00",
@@ -11,6 +11,48 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "TheNextWeb=b9be0191ed55c92c1b8085508c632852",
+      "title": "US Federal Election Commission filing system down before midterms",
+      "published": "2026-10-28T09:23:48+00:00",
+      "author": "Ana-Maria Stanciuc",
+      "description": "The US Federal Election Commission (FEC) has taken its electronic filing system offline following an attempted cyberattack, Reuters reported on Tuesday, citing an internal email. The disruption comes a week before the November 3 midterm elections and has temporarily blocked political groups from submitting campaign finance reports. According to them, an FEC electronic filings officer […] This story continues at The Next Web",
+      "link": "https://thenextweb.com/news/fec-hacker-breach-filing-system-offline",
+      "image": "https://media.thenextweb.com/2026/10/fec-headquarters-glass-office-building-washington.avif",
+      "feed_name": "The Next Web",
+      "feed_title": "The Next Web",
+      "category": "technology",
+      "feed_url": "https://thenextweb.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
+    {
+      "id": "TheNextWeb=62325c1f7b77fb45c3ac91790b4cd2d6",
+      "title": "More listening isn’t the same as better listening",
+      "published": "2026-10-28T09:17:13+00:00",
+      "author": "Will Jones",
+      "description": "Most large companies already listen to their employees. In mid-September 2026, Remesh, an AI-powered employee listening platform, surveyed 107 HR leaders in the US and UK on its own platform. And 80% said their organization had a formal listening program. Only 18% called their approach very effective, though, and 47% saw substantial room to improve […] This story continues at The Next Web",
+      "link": "https://thenextweb.com/news/employee-listening-hr-leaders-remesh-survey",
+      "image": "https://media.thenextweb.com/2026/10/colleagues-discussing-ideas-around-office-meeting-table.avif",
+      "feed_name": "The Next Web",
+      "feed_title": "The Next Web",
+      "category": "technology",
+      "feed_url": "https://thenextweb.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
+    {
+      "id": "TheNextWeb=b0566e53905081d62c424487fef820d8",
+      "title": "OpenAI reportedly plans to buy Google’s TPU chips alongside Nvidia",
+      "published": "2026-10-28T09:02:29+00:00",
+      "author": "Ana Maria Constantin",
+      "description": "OpenAI plans to buy AI chips from Google, The Information reported on Tuesday, citing a person familiar with the matter. The financial terms and other details of the planned purchase were not disclosed. We have not independently verified the report, and OpenAI declined to comment to Reuters, which followed up on the story, while Google did not […] This story continues at The Next Web",
+      "link": "https://thenextweb.com/news/openai-google-tpu-chips",
+      "image": "https://media.thenextweb.com/2026/10/openai-logo-silhouette-hand-smartphone.avif",
+      "feed_name": "The Next Web",
+      "feed_title": "The Next Web",
+      "category": "technology",
+      "feed_url": "https://thenextweb.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
     {
       "id": "https://www.engadget.com/2299227/meta-tamagotchi-like-ai-digital-pet-app-waddle-world/",
       "title": "Meta's Waddle World is a Tamagotchi-like AI pet app",
