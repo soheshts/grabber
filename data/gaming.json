@@ -1,16 +1,58 @@
 {
   "category": "gaming",
-  "updated": "2026-10-28T16:02:58.471478+00:00",
-  "count": 640,
+  "updated": "2026-10-28T16:33:13.225767+00:00",
+  "count": 646,
   "summary": {
-    "text": "• Witchbrook, a Stardew-style life sim, has an early 2027 release date. Haunted Paws was shown at Indie World, where an AI-asset knockoff also surfaced in search.\n• PS Plus November free games include Dead Island 2. The Prism Collection of translucent PS5 controllers and covers goes on sale in November.\n• Capcom's Onimusha, Pragmata and Resident Evil Requiem sold well, but Monster Hunter Wilds was absent from its financial report.\n• Valve says a significant number of people are working on Steam's AI slop problem.",
-    "generated_at": "2026-10-28T16:02:58.471478+00:00",
+    "text": "• Sony's November PS Plus lineup, starting November 3, includes Dead Island 2 and Tomb Raider remasters.\n• Epic confirmed extensive AI use, \"vibe coding\" Unreal Engine 6 and future Fortnite updates.\n• Nintendo's short Indie World showcase featured Witchbrook and Haunted Paws, and an unauthorized knockoff of Haunted Paws with AI-generated assets also surfaced.\n• PS5 Prism Collection translucent controllers and console covers go on sale in November.",
+    "generated_at": "2026-10-28T16:33:13.225767+00:00",
     "window_minutes": 60,
-    "item_count": 14,
-    "key": "39e4bcad4f3d5f68e71b0ffd33db15c020bcb60b",
+    "item_count": 12,
+    "key": "742742cbc6a54244fb52fd29a57a8ef8ad4a676f",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.polygon.com/fortnite-unreal-engine-6-fortnite-vibe-coding/",
+      "title": "Epic Officially Confirms It’s 'Vibe Coding' Unreal Engine 6 and Future 'Fortnite' Updates",
+      "published": "2026-10-28T16:27:58+00:00",
+      "author": "Elijah Gonzalez",
+      "description": "Epic has revealed just how extensively AI is being used for Unreal Engine 6 and new 'Fortnite' updates.",
+      "link": "https://www.polygon.com/fortnite-unreal-engine-6-fortnite-vibe-coding/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/fortnite-battle-pass-skins_fn.jpg",
+      "feed_name": "Polygon -  All",
+      "feed_title": "Polygon.com",
+      "category": "gaming",
+      "feed_url": "https://www.polygon.com/rss/index.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.polygon.com&sz=64"
+    },
+    {
+      "id": "https://www.eurogamer.net/playstation-plus-monthly-games-november-2026",
+      "title": "Here are our PS Plus monthly games for November 2026",
+      "published": "2026-10-28T16:27:41+00:00",
+      "author": "Connor Makar",
+      "description": "Sony has announced the monthly games coming to PlayStation Plus Premium and Extra next month, bringing a mix of triple-A bangers and remastered classics to the service on the 3rd November. All are, of course, coming at the start of what is almost certainly going to be the biggest month of the year releases-wise. Read more",
+      "link": "https://www.eurogamer.net/playstation-plus-monthly-games-november-2026",
+      "image": "https://assetsio.gnwcdn.com/dead-island-2-expansion-pass.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "feed_name": "Eurogamer.net",
+      "feed_title": "Eurogamer.net Latest Articles Feed",
+      "category": "gaming",
+      "feed_url": "https://www.eurogamer.net/?format=rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.eurogamer.net&sz=64"
+    },
+    {
+      "id": "1939862",
+      "title": "Nintendo’s Indie World Presentation Was Pretty Packed For A Short Show",
+      "published": "2026-10-28T16:12:05+00:00",
+      "author": "Evan Campbell",
+      "description": "The latest Indie World Showcase only lasted for a bit longer than 15 minutes, but that small time window didn't stop Nintendo from featuring some truly cool-looking games. The Witchbrook release date announcement kicked things off for the presentation. While definitely exciting, that's not what enthralled me the most. That's because the next unveiling was Winds of Viridia, an action-adventure game from developer Shark Jump that appears inspired by The Legend of Zelda: Breath of the Wild. You pl…",
+      "link": "https://www.gamespot.com/articles/nintendos-indie-world-presentation-was-pretty-packed-for-a-short-show/",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/10/WindsofViridia.jpg?w=300",
+      "feed_name": "GameSpot - All Content",
+      "feed_title": "GameSpot - All Content",
+      "category": "gaming",
+      "feed_url": "https://www.gamespot.com/feeds/mashup/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.gamespot.com&sz=64"
+    },
     {
       "id": "https://kotaku.com/?p=2000750524",
       "title": "When You Search For This New Switch 2 Indie Game, An ‘Unauthorized’ Knockoff With ‘AI-Generated Assets’ Shows Up, Too",
@@ -40,6 +82,20 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.polygon.com&sz=64"
     },
     {
+      "id": "4544820d-089f-4338-a525-c4e89cc01c92",
+      "title": "PS Plus November Games Include Dead Island 2 and Tomb Raider Remasters",
+      "published": "2026-10-28T15:58:34+00:00",
+      "author": "Kirk McKeand",
+      "description": "Sony has announced next month’s PS Plus offerings, dropping on November 3. If you’re into killing zombies, roguelite card games, or delving into ancient tombs, you’re in for a treat.",
+      "link": "https://www.ign.com/articles/ps-plus-november-2026-games",
+      "image": "https://assets-prd.ignimgs.com/2023/03/11/deadisland2-blogroll-1678511428447.jpg",
+      "feed_name": "IGN All",
+      "feed_title": "IGN Articles",
+      "category": "gaming",
+      "feed_url": "http://feeds.ign.com/ign/all",
+      "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
+    },
+    {
       "id": "https://www.polygon.com/playstation-plus-november-2026-games-announced-ps4-ps5-free-essential/",
       "title": "PlayStation Plus November 2026 Free Games Lineup Officially Revealed",
       "published": "2026-10-28T15:57:01+00:00",
@@ -66,6 +122,20 @@
       "category": "gaming",
       "feed_url": "https://kotaku.com/rss",
       "feed_icon": "https://www.google.com/s2/favicons?domain=kotaku.com&sz=64"
+    },
+    {
+      "id": "fd8fb0d8-8f6f-407a-88d5-8573b5a26366",
+      "title": "Tubi Hidden Horror Gems for Halloween 2026",
+      "published": "2026-10-28T15:49:51+00:00",
+      "author": "Rachel Weber",
+      "description": "We've done the digging for you and rounded up some of the best hidden horror gems you can stream on Tubi this Halloween 2026. Best of all? They're all completely free to watch.",
+      "link": "https://www.ign.com/articles/tubi-hidden-horror-gems-for-halloween-2026",
+      "image": "https://assets-prd.ignimgs.com/2026/10/28/await-further-instructions-xlg-1793199051277.jpg",
+      "feed_name": "IGN All",
+      "feed_title": "IGN Articles",
+      "category": "gaming",
+      "feed_url": "http://feeds.ign.com/ign/all",
+      "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
     },
     {
       "id": "1939809",
@@ -164,6 +234,20 @@
       "category": "gaming",
       "feed_url": "https://www.gamespot.com/feeds/mashup/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.gamespot.com&sz=64"
+    },
+    {
+      "id": "7b0c9b3b-78f4-4384-b039-d34c39e09703",
+      "title": "No Man’s Sky Gets Fresh Horror-Themed Forsaken Update Just a Month After Cosmos",
+      "published": "2026-10-28T15:23:19+00:00",
+      "author": "Kirk McKeand",
+      "description": "Just as No Man’s Sky lands for iOS, the ever-expanding space sim is getting a spooky new update in time for Halloween.",
+      "link": "https://www.ign.com/articles/no-mans-sky-forsaken-update",
+      "image": "https://assets-prd.ignimgs.com/2026/10/28/nms-1793200899334.jpg",
+      "feed_name": "IGN All",
+      "feed_title": "IGN Articles",
+      "category": "gaming",
+      "feed_url": "http://feeds.ign.com/ign/all",
+      "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
     },
     {
       "id": "1939814",

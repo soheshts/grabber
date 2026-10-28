@@ -1,16 +1,44 @@
 {
   "category": "science",
-  "updated": "2026-10-28T16:02:58.471478+00:00",
-  "count": 628,
+  "updated": "2026-10-28T16:33:13.225767+00:00",
+  "count": 632,
   "summary": {
-    "text": "• Physicists used a slow-motion electron camera to reveal light-driven quantum jumps in graphene.\n• Japan's Arase probe detected ultrarelativistic electrons inside Earth's barrier during a 2024 solar storm.\n• NASA detailed the Habitable Worlds Observatory mission architecture for finding Earth-like exoplanets.\n• A statistical estimate suggests three in four retired pro football players had C.T.E. at death.\n• A portable device rapidly detects PFAS \"forever chemicals\" in water.",
-    "generated_at": "2026-10-28T16:02:58.471478+00:00",
+    "text": "• Japan's Arase probe detected 2024 solar-storm electrons inside Earth's supposed barrier, and NASA detailed Habitable Worlds Observatory plans.\n• Physicists filmed light-driven electron jumps in graphene with a slow-motion camera.\n• McGill researchers found a new vesicle released by migrating cancer cells, while a new estimate suggests three in four retired NFL players had CTE.\n• A University of Georgia study finds the AP gender gap narrowing, though not in all subjects.",
+    "generated_at": "2026-10-28T16:33:13.225767+00:00",
     "window_minutes": 60,
     "item_count": 7,
-    "key": "da1e01ccf0ef4496031e70a2dff73f14553f2f6d",
+    "key": "93d17f177c2504588a51cade26485608c6696c0f",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "news712404563",
+      "title": "Discovering Vasari beyond the page",
+      "published": "2026-10-28T16:20:14+00:00",
+      "author": null,
+      "description": "Most students of Renaissance art encounter Giorgio Vasari through a book. His Lives of the Most Excellent Painters, Sculptors, and Architects, first published in 1550 and expanded in a second edition in 1568, is often considered the first major work of art history, shaping how generations have understood artists such as Michelangelo, Leonardo da Vinci and Raphael. For centuries, Vasari's reputation has rested largely on his role as the artistic biographer of the Renaissance.",
+      "link": "https://phys.org/news/2026-10-vasari-page.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/draft-of-an-alter-with.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "news712406161",
+      "title": "Extracellular vesicle discovery may shed light on how cancer spreads",
+      "published": "2026-10-28T16:20:10+00:00",
+      "author": null,
+      "description": "A team from the Research Institute of the McGill University Health Center (The Institute) have discovered a new type of extracellular vesicle released by migrating cancer cells, revealing a previously unknown way in which these cells shed their DNA as they move. Published today in the journal Nature Cell Biology, the findings show that these cells release tiny structures called motile vesicles (MoVes), which carry their genetic material, including cancer-associated mutations. The discovery rais…",
+      "link": "https://phys.org/news/2026-10-extracellular-vesicle-discovery-cancer.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/discovery-of-a-potenti.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
     {
       "id": "news712330488",
       "title": "Slow-motion electron camera reveals light-driven quantum jumps in graphene",
@@ -122,6 +150,20 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/28/science/cte-nfl-football-brain-safety.html",
+      "title": "Can Scientists Make Football Safer?",
+      "published": "2026-10-28T15:00:11+00:00",
+      "author": "Lynne Peeples",
+      "description": "Researchers are exploring novel ways to treat, even prevent, the brain disease C.T.E. One of the most surprising: near-infrared light.",
+      "link": "https://www.nytimes.com/2026/10/28/science/cte-nfl-football-brain-safety.html",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28SCI-CTE-TREATMENTS-stillpromo-tfck/28SCI-CTE-TREATMENTS-stillpromo-tfck-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Science",
+      "feed_title": "NYT > Science",
+      "category": "science",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://www.nytimes.com/2026/10/28/science/can-scientists-make-football-safer.html",
@@ -248,6 +290,20 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/28/business/us-china-biotech-trade-ban.html",
+      "title": "U.S. Restricts Trade With Chinese Genomics Company",
+      "published": "2026-10-28T13:44:25+00:00",
+      "author": "Rebecca Robbins and Ana Swanson",
+      "description": "The move will block shipments from BGI, a major Chinese firm that U.S. officials allege is associated with forced labor and the abuse of minority groups.",
+      "link": "https://www.nytimes.com/2026/10/28/business/us-china-biotech-trade-ban.html",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28biz-biotech-china-mzjw/28biz-biotech-china-mzjw-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Science",
+      "feed_title": "NYT > Science",
+      "category": "science",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "news712397281",

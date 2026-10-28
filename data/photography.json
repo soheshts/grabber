@@ -1,16 +1,44 @@
 {
   "category": "photography",
-  "updated": "2026-10-28T16:02:58.471478+00:00",
-  "count": 94,
+  "updated": "2026-10-28T16:33:13.225767+00:00",
+  "count": 96,
   "summary": {
-    "text": "• McDonald's and Lenovo released a french fry-shaped computer mouse made from recycled Happy Meal toys.\n• The collaboration pairs the fast-food chain with Chinese electronics company Lenovo, shaped like a carton of McDonald's fries.",
-    "generated_at": "2026-10-28T16:02:58.471478+00:00",
+    "text": "• The PetaPixel Podcast covers a unique Sigma lens, another new Instax, and printing with photographer Stephen Wilkes, whose \"America in Detail\" series marks its 25th anniversary.\n• A photographer went viral after security grabbed him during a live TV broadcast of the Ballon d'Or.\n• McDonald's and Lenovo made a french fry-shaped mouse from recycled Happy Meal toys.",
+    "generated_at": "2026-10-28T16:33:13.225767+00:00",
     "window_minutes": 60,
-    "item_count": 1,
-    "key": "afcb628e4349079780f2984192e7b8c28b628d14",
+    "item_count": 3,
+    "key": "b5ed5a08533d2c6d0a78de813882b390ff480d40",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://petapixel.com/?p=889845",
+      "title": "Sigma’s Unique Lens, Another New Instax, and Stephen Wilkes on Printing | The PetaPixel Podcast",
+      "published": "2026-10-28T16:30:50+00:00",
+      "author": "Jaron Schneider",
+      "description": "This week on the PetaPixel Podcast, the team is joined by photography legend Stephen Wilkes and his 25th anniversary exhibition of his series \"America in Detail.\" [ Read More ]",
+      "link": "https://petapixel.com/2026/10/28/sigmas-unique-lens-another-new-instax-and-stephen-wilkes-on-printing-the-petapixel-podcast/",
+      "image": "https://petapixel.com/assets/uploads/2026/10/podcast-thumb-NEW-1-1600x840.jpg",
+      "feed_name": "PetaPixel",
+      "feed_title": "PetaPixel",
+      "category": "photography",
+      "feed_url": "https://petapixel.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=petapixel.com&sz=64"
+    },
+    {
+      "id": "https://petapixel.com/?p=889865",
+      "title": "Photographer Gets Yanked by Security at the Ballon d’Or Award",
+      "published": "2026-10-28T16:14:34+00:00",
+      "author": "Matt Growcoot",
+      "description": "A photographer went viral after he was unceremoniously grabbed by security during a live TV broadcast of the Ballon d'Or. [ Read More ]",
+      "link": "https://petapixel.com/2026/10/28/photographer-gets-yanked-by-security-at-the-ballon-dor-award/",
+      "image": "https://petapixel.com/assets/uploads/2026/10/Photographer-yanked-by-security.jpg",
+      "feed_name": "PetaPixel",
+      "feed_title": "PetaPixel",
+      "category": "photography",
+      "feed_url": "https://petapixel.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=petapixel.com&sz=64"
+    },
     {
       "id": "https://petapixel.com/?p=889866",
       "title": "McDonald’s and Lenovo Made an Adorable French Fry Mouse From Recycled Happy Meal Toys",

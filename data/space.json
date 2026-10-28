@@ -1,6 +1,6 @@
 {
   "category": "space",
-  "updated": "2026-10-28T16:02:58.471478+00:00",
+  "updated": "2026-10-28T16:33:13.225767+00:00",
   "count": 128,
   "summary": {
     "text": "• Space.com reports that a U.S. military intelligence agency has released a new photograph of China's secretive space plane.\n• The image shows the space plane docked to another spacecraft in orbit.\n• The report is the only item in this category, so no other space news is covered here.",
@@ -24,6 +24,20 @@
       "category": "space",
       "feed_url": "https://www.space.com/feeds/all",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.space.com&sz=64"
+    },
+    {
+      "id": "https://www.nasa.gov/?post_type=image-article&p=1059736",
+      "title": "Webb Sees Turbulent Star Nursery",
+      "published": "2026-10-28T15:33:10+00:00",
+      "author": "HQ Web Team",
+      "description": "In this Webb image released on Oct. 22, 2026, we see a turbulent cauldron of star formation filled with dense clumps of gas. This region is named N159 and is located 161,000 light-years away in the Large Magellanic Cloud, one of the satellite galaxies orbiting the Milky Way galaxy. This region has a lower metallicity […]",
+      "link": "https://www.nasa.gov/image-article/webb-sees-turbulent-star-nursery/",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/55604475252-31d25bf2e0-o.jpg?w=2048",
+      "feed_name": "NASA Breaking News",
+      "feed_title": "NASA",
+      "category": "space",
+      "feed_url": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.nasa.gov&sz=64"
     },
     {
       "id": "gdvwTMguZB6yxEHM7A5hw8",
@@ -1782,20 +1796,6 @@
       "author": null,
       "description": "SpaceX's spaceship blasted off from its Starbase launch facility in Texas on 28 September morning, marking its 14th test flight and first attempt to circle the planet before falling back to Earth, despite an engine failure. Continue reading...",
       "link": "https://www.theguardian.com/science/video/2026/sep/28/spacex-spaceship-orbit-launch-video",
-      "image": null,
-      "feed_name": "Space | The Guardian",
-      "feed_title": "Space | The Guardian",
-      "category": "space",
-      "feed_url": "https://www.theguardian.com/science/space/rss",
-      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
-    },
-    {
-      "id": "https://www.theguardian.com/science/2026/sep/28/spacex-starship-rocket-orbits-earth-texas",
-      "title": "‘Starship is in orbit’: cheers go up as huge SpaceX rocket circles Earth for first time",
-      "published": "2026-09-28T16:23:49+00:00",
-      "author": "Ian Sample Science editor",
-      "description": "Mission goes ahead despite some fears an initial engine failure after the Texas launch would scupper the attempt SpaceX has sent its enormous Starship rocket into Earth’s orbit for the first time on a milestone flight intended to pave the way for future missions to the moon and Mars. The rocket, the largest and most powerful ever built, blasted off from SpaceX’s Starbase launch facility in Texas at 7.48am local time (1.48pm BST), marking its 14th test flight and first attempt to circle the plan…",
-      "link": "https://www.theguardian.com/science/2026/sep/28/spacex-starship-rocket-orbits-earth-texas",
       "image": null,
       "feed_name": "Space | The Guardian",
       "feed_title": "Space | The Guardian",

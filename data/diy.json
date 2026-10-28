@@ -1,16 +1,44 @@
 {
   "category": "DIY",
-  "updated": "2026-10-28T16:02:58.471478+00:00",
-  "count": 265,
+  "updated": "2026-10-28T16:33:13.225767+00:00",
+  "count": 267,
   "summary": {
-    "text": "• Smart home: Amazon's new Echo Studio has a built-in camera, called clever but creepy, while a customizable Jellyfin client adds a premium-feeling makeover.\n• Phone tips: one writer stopped carrying a power bank after changing three Android settings, and another handles most PDF jobs locally in the browser.\n• Home and hardware: five 3D prints fix common household problems, a Ugreen eGPU dock adds desktop graphics to mini PCs, and an old phone motherboard becomes an RC plane controller.",
-    "generated_at": "2026-10-28T16:02:58.471478+00:00",
+    "text": "• Windows and Linux tips: One guide explains what Windows \"Reset this PC\" actually keeps, and another shows how to turn Linux terminal apps into one-click desktop launchers and dock icons.\n• Android battery: A post describes changing three Android settings to stop carrying a power bank everywhere by finding where battery drain comes from.\n• Home projects: Five 3D-printed home-improvement designs, including cabinet jigs and junk-drawer bins, are highlighted for rainy-weekend fixes.\n• Smart home and PDFs: Amazon's new Echo Studio adds a built-in camera, which one outlet calls clever but creepy, while another piece covers doing PDF tasks locally in the browser.",
+    "generated_at": "2026-10-28T16:33:13.225767+00:00",
     "window_minutes": 60,
-    "item_count": 7,
-    "key": "3d65e2d8fcd0f96b34610d57f1a597a1f73f0c94",
+    "item_count": 6,
+    "key": "29dbe27faa08ea4423e1d8591285f8368ce30d77",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.makeuseof.com/windows-reset-options-explained/",
+      "title": "I learned what Windows “Reset this PC” actually keeps, and it’s not what I expected",
+      "published": "2026-10-28T16:30:18+00:00",
+      "author": "Pankil Shah",
+      "description": "It's not as straightforward as you think.",
+      "link": "https://www.makeuseof.com/windows-reset-options-explained/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/windows-recovery-screen-on-laptop.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/i-turned-my-linux-terminal-apps-into-desktop-apps/",
+      "title": "I turned my favorite Linux terminal apps into desktop apps so I could launch them with one click",
+      "published": "2026-10-28T16:30:17+00:00",
+      "author": "Dibakar Ghosh",
+      "description": "Love terminal apps but hate opening a terminal every time to use them? Here’s how you can add them to your desktop’s app launcher and dock.",
+      "link": "https://www.howtogeek.com/i-turned-my-linux-terminal-apps-into-desktop-apps/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/a-bunch-of-terminal-apps-open-in-ubuntu-desktop.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/new-echo-studio-can-now-watch-your-home-echo-show-16-gets-a-smart-home-makeover/",
       "title": "Amazon's new Echo Studio has a camera built into the speaker. It's clever but creepy",

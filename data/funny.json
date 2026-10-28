@@ -1,16 +1,30 @@
 {
   "category": "funny",
-  "updated": "2026-10-28T16:02:58.471478+00:00",
-  "count": 196,
+  "updated": "2026-10-28T16:33:13.225767+00:00",
+  "count": 197,
   "summary": {
-    "text": "• Saturday Morning Breakfast Cereal has published a new comic titled \"Signal.\"\n• A bonus panel is available through a click-through link.\n• The comic's hovertext reads: \"This way avoids violence.\"",
-    "generated_at": "2026-10-28T15:32:43.016297+00:00",
+    "text": "• The Onion, a satirical outlet, reports that Sanxingdui: Future Past, a sci-fi thriller billed as the first fully AI-generated feature film with a theatrical release, has debuted in China.\n• According to the item, ticket sales have been abysmal.\n• The text is cut off, so the rest of the piece isn't available.",
+    "generated_at": "2026-10-28T16:33:13.225767+00:00",
     "window_minutes": 60,
     "item_count": 1,
-    "key": "53c5470ff3da6679840150e436c0f53fe17dd469",
+    "key": "f6246dde55632da3df26f9a7890148fcf1af2c98",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://theonion.com/?p=1851709752",
+      "title": "First Fully AI-Generated Feature Film Released In China",
+      "published": "2026-10-28T16:26:38+00:00",
+      "author": "The Onion Staff",
+      "description": "Sci-fi thriller Sanxingdui: Future Past, the first fully AI-generated feature film to receive a theatrical release, debuted in China, though ticket sales have been abysmal. What do you think? The post First Fully AI-Generated Feature Film Released In China appeared first on The Onion .",
+      "link": "https://theonion.com/first-fully-ai-generated-feature-film-released-in-china/",
+      "image": "https://theonion.com/wp-content/uploads/2025/05/Face-Old-Man.jpg?w=200",
+      "feed_name": "The Onion",
+      "feed_title": "The Onion",
+      "category": "funny",
+      "feed_url": "https://www.theonion.com/rss",
+      "feed_icon": "https://theonion.com/wp-content/uploads/2024/07/cropped-site-icon.png?w=32"
+    },
     {
       "id": "https://www.smbc-comics.com/comic/signal-5",
       "title": "Saturday Morning Breakfast Cereal - Signal",

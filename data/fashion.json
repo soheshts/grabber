@@ -1,16 +1,72 @@
 {
   "category": "fashion",
-  "updated": "2026-10-28T16:02:58.471478+00:00",
-  "count": 277,
+  "updated": "2026-10-28T16:33:13.225767+00:00",
+  "count": 279,
   "summary": {
-    "text": "• Pieter Mulier will make his Versace debut in January, and Wonderland has appointed Carlos Nazario as editor-in-chief.\n• Ugg opened a new store in Williamsburg, while ASB PR is hiring a New York VIP manager requiring five years of fashion influencer experience.\n• Prada reissued CBK's ultra-rare Dalmatian-print loafers, alongside drawstring pouches and slingbacks.\n• SC103, a downtown New York brand, makes clothes meant to show their seams.\n• The comedy-drama Misty Green revives old celebrity style through corsets, jewelry and a Birkin.",
-    "generated_at": "2026-10-28T16:02:58.471478+00:00",
+    "text": "• Victorian style is trending: ELLE praises the look, and the new comedy-drama \"Misty Green\" revives old celebrity style with corsets and jewelry.\n• Fall/Winter 2026 campaigns are rolling out, with ELLE highlighting standouts so far.\n• Industry moves: Pieter Mulier makes his Versace debut in January, and Carlos Nazario is named Wonderland's editor-in-chief.\n• Other news: Ugg opened a Williamsburg store, Jen Atkin shared her big break, SC103 showcases garments that show their seams, and \"The Gilded Age\" cast held a party at the Plaza.",
+    "generated_at": "2026-10-28T16:33:13.225767+00:00",
     "window_minutes": 60,
-    "item_count": 5,
-    "key": "7a2ef0d2f78d7aebf10d7e544073a4f82bbc2239",
+    "item_count": 8,
+    "key": "b67b0e430d9ed341fbf8f6a2995ebcc0688ccbf2",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "http://www.elle.com/fashion/trend-reports/a74265449/victorian-fashion-trend-fall-2026/",
+      "title": "In Praise of Victorian Fashion",
+      "published": "2026-10-28T16:30:00+00:00",
+      "author": null,
+      "description": "Suddenly, everyone wants to dress like it’s 1890.",
+      "link": "https://www.elle.com/fashion/trend-reports/a74265449/victorian-fashion-trend-fall-2026/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/e0c69ecb-7dd6-4bcf-b41a-64bdbd1d1dda.jpg?crop=1xw:0.404xh;0xw,0.036xh&resize=1200:*",
+      "feed_name": "Fashion - ELLE",
+      "feed_title": "Fashion - ELLE",
+      "category": "fashion",
+      "feed_url": "https://www.elle.com/rss/fashion.xml/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.elle.com&sz=64"
+    },
+    {
+      "id": "http://www.elle.com/fashion/g71231506/best-fall-winter-2026-campaigns/",
+      "title": "All the Standout Fall/Winter 2026 Fashion Campaigns So Far",
+      "published": "2026-10-28T16:29:00+00:00",
+      "author": null,
+      "description": "",
+      "link": "https://www.elle.com/fashion/g71231506/best-fall-winter-2026-campaigns/",
+      "image": null,
+      "feed_name": "Fashion - ELLE",
+      "feed_title": "Fashion - ELLE",
+      "category": "fashion",
+      "feed_url": "https://www.elle.com/rss/fashion.xml/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.elle.com&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/27/style/gilded-age-party-nyc-plaza-hotel.html",
+      "title": "Before the Plaza’s Glow-Up, One More ‘Gilded’ Party",
+      "published": "2026-10-28T16:12:10+00:00",
+      "author": "Sarah Bahr, Ye Fan and Chevaz Clarke-Williams",
+      "description": "Cast members from HBO’s “The Gilded Age” snacked on cheese tortelloni and duck shawarma and had their portraits sketched at the Plaza Hotel on Monday night.",
+      "link": "https://www.nytimes.com/2026/10/27/style/gilded-age-party-nyc-plaza-hotel.html",
+      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/ST-GILDEDAGE-PARTY-01-thlw/ST-GILDEDAGE-PARTY-01-thlw-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Style",
+      "feed_title": "NYT > Style",
+      "category": "fashion",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "Jxhdvv85VQWeFAr2X6DrA7",
+      "title": "How Jen Atkin Landed Her Big Break",
+      "published": "2026-10-28T16:09:37+00:00",
+      "author": "Madeline Hill",
+      "description": "The celebrity hairstylist and founder tells all.",
+      "link": "https://www.whowhatwear.com/living/who-what-wear-podcast-jen-atkin",
+      "image": "https://cdn.mos.cms.futurecdn.net/HbWVkhPpFqgYzrBa3zjgk4-1920-80.gif",
+      "feed_name": "Who What Wear",
+      "feed_title": "Latest from Who What Wear",
+      "category": "fashion",
+      "feed_url": "https://www.whowhatwear.com/rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.whowhatwear.com&sz=64"
+    },
     {
       "id": "http://www.elle.com/fashion/trend-reports/a74263156/misty-green-birkin-costume-designer-interview-2026/",
       "title": "Corsets, Jewelry, and a Birkin Told the Story in Misty Green",
@@ -696,20 +752,6 @@
       "category": "fashion",
       "feed_url": "https://www.elle.com/rss/fashion.xml/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.elle.com&sz=64"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/10/27/style/gilded-age-party-nyc-plaza-hotel.html",
-      "title": "Before the Plaza’s Glow-Up, One More ‘Gilded’ Party",
-      "published": "2026-10-27T17:14:31+00:00",
-      "author": "Sarah Bahr, Ye Fan and Chevaz Clarke-Williams",
-      "description": "Cast members from HBO’s “The Gilded Age” snacked on cheese tortelloni and duck shawarma and had their portraits sketched at the Plaza Hotel on Monday night.",
-      "link": "https://www.nytimes.com/2026/10/27/style/gilded-age-party-nyc-plaza-hotel.html",
-      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/ST-GILDEDAGE-PARTY-01-thlw/ST-GILDEDAGE-PARTY-01-thlw-mediumSquareAt3X.jpg",
-      "feed_name": "NYT > Style",
-      "feed_title": "NYT > Style",
-      "category": "fashion",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://fashionista.com/2026/10/inside-mattheiu-blazys-first-year-at-chanel",
@@ -2922,20 +2964,6 @@
       "category": "fashion",
       "feed_url": "https://www.theguardian.com/fashion/rss",
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
-    },
-    {
-      "id": "http://www.elle.com/fashion/g71231506/best-fall-winter-2026-campaigns/",
-      "title": "All the Standout Fall/Winter 2026 Fashion Campaigns So Far",
-      "published": "2026-10-22T20:57:00+00:00",
-      "author": null,
-      "description": "",
-      "link": "https://www.elle.com/fashion/g71231506/best-fall-winter-2026-campaigns/",
-      "image": null,
-      "feed_name": "Fashion - ELLE",
-      "feed_title": "Fashion - ELLE",
-      "category": "fashion",
-      "feed_url": "https://www.elle.com/rss/fashion.xml/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.elle.com&sz=64"
     },
     {
       "id": "http://www.elle.com/fashion/shopping/a73981345/best-celebrity-outfits-october-2026/",
