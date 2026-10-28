@@ -1,16 +1,30 @@
 {
   "category": "space",
-  "updated": "2026-10-28T21:33:09.490962+00:00",
-  "count": 133,
+  "updated": "2026-10-28T22:03:46.487032+00:00",
+  "count": 134,
   "summary": {
-    "text": "• Space.com reports on five days spent living underwater in a research station described as a \"space station.\"\n• The habitat sits 22 feet (7 meters) below the surface, where Analog Astronaut Commander Dr. Musilova and her crew worked.\n• The crew carried out research and maintenance tasks similar to those future astronauts will perform on Mars.",
-    "generated_at": "2026-10-28T21:03:46.614255+00:00",
+    "text": "• Vietnam became the 78th nation to sign the Artemis Accords, NASA announced.\n• The accords commit signatories to peaceful, transparent, and responsible space exploration, joining a growing coalition of like-minded nations.\n• The source text is truncated, so further details are unavailable.",
+    "generated_at": "2026-10-28T22:03:46.487032+00:00",
     "window_minutes": 60,
     "item_count": 1,
-    "key": "9585156f767970fcf98457e584e4d5c0c76e9734",
+    "key": "e27df4dbef8c9244f3ea59a76e0311da011b4e79",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.nasa.gov/?p=1060178",
+      "title": "NASA Welcomes Vietnam as Newest Artemis Accords Signatory",
+      "published": "2026-10-28T21:50:01+00:00",
+      "author": "Elizabeth Shaw",
+      "description": "The Socialist Republic of Vietnam became the 78th nation to sign the Artemis Accords, joining a growing coalition of like-minded nations committed to the peaceful, transparent, and responsible exploration of space. “Vietnam is joining at an important point in the development of its own space program,” said NASA Deputy Administrator Matt Anderson in recorded remarks […]",
+      "link": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-vietnam-as-newest-artemis-accords-signatory/",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/artemis-accords-vietnam-78-102826.jpg?w=2048",
+      "feed_name": "NASA Breaking News",
+      "feed_title": "NASA",
+      "category": "space",
+      "feed_url": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.nasa.gov&sz=64"
+    },
     {
       "id": "RP9Xr3jg48f6qXz5Rymopm",
       "title": "5 days beneath the waves: What it's like to live in an underwater 'space station'",

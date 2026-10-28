@@ -1,16 +1,30 @@
 {
   "category": "DIY",
-  "updated": "2026-10-28T21:33:09.490962+00:00",
-  "count": 291,
+  "updated": "2026-10-28T22:03:46.487032+00:00",
+  "count": 292,
   "summary": {
-    "text": "• Software tips: four Photoshop plugins that smooth workflows, and five Google Maps companion apps that fill its biggest gaps.\n• Tool deal: DeWalt's 6-tool cordless combo kit is $370 off, with batteries, charger, and toolbox included.\n• Home theater: blinding white HDR subtitles can dominate dark scenes and cause mini LED bloom during evening viewing.",
-    "generated_at": "2026-10-28T21:03:46.614255+00:00",
+    "text": "• Netflix is adding horror movies in time for Halloween watch parties, with titles to keep the scary mood going.\n• Six common mistakes can make Pi-hole, the privacy tool, the least secure part of your home network.",
+    "generated_at": "2026-10-28T22:03:46.487032+00:00",
     "window_minutes": 60,
-    "item_count": 4,
-    "key": "d7fbca1c5125ba274c11ce09f9f5f2184a43dd88",
+    "item_count": 2,
+    "key": "cfb456df3c36a30341b8f50c1b80b77370c7bbab",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.howtogeek.com/netflix-horror-movies-to-stream-for-halloween-watch-party/",
+      "title": "Netflix is bringing these horror movies right in time for your Halloween watch party",
+      "published": "2026-10-28T22:00:15+00:00",
+      "author": "T.M. Amrita",
+      "description": "Keep the horror alive with these titles.",
+      "link": "https://www.howtogeek.com/netflix-horror-movies-to-stream-for-halloween-watch-party/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/netflix-logo-on-a-dark-wall-beside-an-open-door.png",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/these-mistakes-can-turn-pi-hole-into-least-secure-part-your-home-network/",
       "title": "These 6 mistakes can turn Pi-hole into the least secure part of your home network",

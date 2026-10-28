@@ -1,16 +1,44 @@
 {
   "category": "gaming",
-  "updated": "2026-10-28T21:33:09.490962+00:00",
-  "count": 708,
+  "updated": "2026-10-28T22:03:46.487032+00:00",
+  "count": 710,
   "summary": {
-    "text": "• Epic Games has confirmed it is expanding its generative AI push across its products, including Fortnite and the next version of Unreal Engine.\n• Per a quoted statement, Epic's engineers are \"no longer writing the bulk of the code.\"\n• Eurogamer describes the technology as controversial, but the item is truncated, so further details are unavailable.",
-    "generated_at": "2026-10-28T21:03:46.614255+00:00",
+    "text": "• GameSpot reports that Phantom Blade Zero addresses a common soulslike complaint: how much time these games can consume.\n• Polygon has a guide to the best Han 86 build in Modern Warfare 4, covering the loadout and class to run with it.\n• Polygon argues against Larian taking over Dragon Age after BioWare's closure, citing Larian's own plans, the series' DNA, and EA.\n• Kotaku says Xbox's first report card after its big \"reset\" looks much like previous ones, with hardware down.",
+    "generated_at": "2026-10-28T22:03:46.487032+00:00",
     "window_minutes": 60,
-    "item_count": 1,
-    "key": "11a179d95827cd8d017839f8aebca08d50f9971c",
+    "item_count": 4,
+    "key": "126ea5162a4d0a3ad62979324da0f28d1e0263a0",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "1940499",
+      "title": "Phantom Blade Zero Fixes The Struggle That Might Be Keeping You Away From Soulslikes",
+      "published": "2026-10-28T22:03:01+00:00",
+      "author": "Phil Hornshaw",
+      "description": "There's a lot to love about soulslike games, but one of the things in the negative columns for a lot of players is how much time they can suck up. And while Phantom Blade Zero is an action-RPG that's not quite a soulslike, it's similar enough that some players might look at its super-fast combat and exceedingly tough boss battles and decide to take a pass. But if you're the kind of person who is souls-curious or looking for a soulslike game with a little less commitment, Phantom Blade Zero migh…",
+      "link": "https://www.gamespot.com/articles/phantom-blade-zero-fixes-the-struggle-that-might-be-keeping-you-away-from-soulslikes/",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Phantom-Blade-Zero-lion.jpg?w=300",
+      "feed_name": "GameSpot - All Content",
+      "feed_title": "GameSpot - All Content",
+      "category": "gaming",
+      "feed_url": "https://www.gamespot.com/feeds/mashup/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.gamespot.com&sz=64"
+    },
+    {
+      "id": "https://www.polygon.com/mw4-modern-warfare-4-han-86-build-loadout-class-best/",
+      "title": "The best Han 86 build in Modern Warfare 4",
+      "published": "2026-10-28T21:54:24+00:00",
+      "author": "Ford James",
+      "description": "A guide detailing the best Han 86 build in Modern Warfare 4, along with the loadout and class to run with it.",
+      "link": "https://www.polygon.com/mw4-modern-warfare-4-han-86-build-loadout-class-best/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/modern-warfare-4-best-han-86-build-header.jpg",
+      "feed_name": "Polygon -  All",
+      "feed_title": "Polygon.com",
+      "category": "gaming",
+      "feed_url": "https://www.polygon.com/rss/index.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.polygon.com&sz=64"
+    },
     {
       "id": "https://www.polygon.com/larian-dragon-age-takeover-bad-idea/",
       "title": "The Case Against Larian Saving Dragon Age, No Matter How Tempting It Sounds",

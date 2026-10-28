@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-10-28T21:33:09.490962+00:00",
-  "count": 423,
+  "updated": "2026-10-28T22:03:46.487032+00:00",
+  "count": 426,
   "summary": null,
   "items": [
     {
@@ -5087,6 +5087,34 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=hamatti.org&sz=64"
     },
     {
+      "id": "https://www.abeautifulsite.net/posts/were-still-building-houses/",
+      "title": "We're Still Building Houses",
+      "published": "2026-09-30T00:00:00+00:00",
+      "author": "Cory LaViska (cory@abeautifulsite.net)",
+      "description": "I tended to veer more towards being a Luddite about AI in development, especially early on. But with the improvements we're seeing on a weekly basis, the writing is on the wall. So we've been experimenting. We recently built a fun little service, and there's no way we could have built it as fast as we did without lowering our standards relaxing our rigor. That was on purpose. We got out of the agent's way so it could actually move. But I'm not gonna stop caring about the important stuff. And if…",
+      "link": "https://www.abeautifulsite.net/posts/were-still-building-houses/",
+      "image": null,
+      "feed_name": "A Beautiful Site",
+      "feed_title": "A Beautiful Site",
+      "category": "personal blogs",
+      "feed_url": "https://www.abeautifulsite.net/feed/feed.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.abeautifulsite.net&sz=64"
+    },
+    {
+      "id": "https://www.abeautifulsite.net/posts/code-is-faster-not-just-cheaper/",
+      "title": "Code Is Faster, Not Just Cheaper",
+      "published": "2026-09-30T00:00:00+00:00",
+      "author": "Cory LaViska (cory@abeautifulsite.net)",
+      "description": "We keep saying AI makes code cheaper, but that's from the business perspective. Fewer hours mean lower burn, and prototypes that used to need a team can get stood up by one person in a weekend. Companies care about that, and they should. From the creator's perspective, though, code is faster . More building, more trying, more failing, more succeeding. I used to lose whole days to the wrong rabbit hole, or to bug-bashing attrition. By the time I quit for the night I was too fried to start anythi…",
+      "link": "https://www.abeautifulsite.net/posts/code-is-faster-not-just-cheaper/",
+      "image": null,
+      "feed_name": "A Beautiful Site",
+      "feed_title": "A Beautiful Site",
+      "category": "personal blogs",
+      "feed_url": "https://www.abeautifulsite.net/feed/feed.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.abeautifulsite.net&sz=64"
+    },
+    {
       "id": "https://jeffbridgforth.com/?p=12587",
       "title": "Weeknotes 26:39",
       "published": "2026-09-29T23:48:37+00:00",
@@ -5197,6 +5225,20 @@
       "category": "personal blogs",
       "feed_url": "https://www.the-haystack.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.the-haystack.com&sz=64"
+    },
+    {
+      "id": "https://www.abeautifulsite.net/posts/container-queries-click-once-you-see-them/",
+      "title": "Sizing Cards With Container Queries",
+      "published": "2026-09-29T00:00:00+00:00",
+      "author": "Cory LaViska (cory@abeautifulsite.net)",
+      "description": "Media queries look at the viewport. That breaks down when the same card shows up in a narrow sidebar and a wide main column on the same page. Both get the same styles, even though the available width is different. Container queries fix that. Size queries have been safe to ship for awhile, and caniuse is green across the board. Here's a card that stacks in a narrow container and goes horizontal when the container is wide enough: .slot { container-type : inline-size ; container-name : slot ; } .c…",
+      "link": "https://www.abeautifulsite.net/posts/container-queries-click-once-you-see-them/",
+      "image": null,
+      "feed_name": "A Beautiful Site",
+      "feed_title": "A Beautiful Site",
+      "category": "personal blogs",
+      "feed_url": "https://www.abeautifulsite.net/feed/feed.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.abeautifulsite.net&sz=64"
     },
     {
       "id": "https://meiert.com/blog/awagam-android/",

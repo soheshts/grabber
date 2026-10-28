@@ -1,16 +1,44 @@
 {
   "category": "technology",
-  "updated": "2026-10-28T21:33:09.490962+00:00",
+  "updated": "2026-10-28T22:03:46.487032+00:00",
   "count": 1000,
   "summary": {
-    "text": "• Apple's first touchscreen MacBook Pro has an OLED display. Reviewers praise the screen but question the touch support, and a fully specced model costs $14,549.\n• Anthropic may sell 15% to 20% of its IPO to retail investors, Bloomberg reports. Google says AI is boosting searches, and Microsoft's revenue rose 19%.\n• Boston Dynamics faces an employee protest over a robot deal with ICE. Meta shareholders sued to block a non-voting share plan.\n• China's CXMT plans to make HBM3E AI memory despite usable yields of only 20% to 30%.",
-    "generated_at": "2026-10-28T21:03:46.614255+00:00",
+    "text": "• A hacker stole personal data of over 40,000 DHS employees, including names, job titles, phone numbers, emails, and office locations.\n• Apple debuted a $2,899 MacBook Pro with an OLED touch display, and CNET livestreamed durability tests of the iPhone Duo.\n• Google expanded AI Mode ads to 10 countries, including Canada and India, and Alphabet released its Q3 2026 earnings remarks.\n• Akai is embracing community vibe-coded mods for its upcoming MPC Sample Key.",
+    "generated_at": "2026-10-28T22:03:46.487032+00:00",
     "window_minutes": 60,
-    "item_count": 11,
-    "key": "07ab9dadc5c7a1f47452787e1c7c4060aedaa0a3",
+    "item_count": 7,
+    "key": "ab5ca03e7b3c7925983441984930524fafe1eaab",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.theverge.com/?p=1021528",
+      "title": "A hacker stole more than 40,000 DHS employee records",
+      "published": "2026-10-28T21:57:45+00:00",
+      "author": "Emma Roth",
+      "description": "A hacker stole a trove of personal information from the Department of Homeland Security (DHS). The breach exposes the names, job titles, phone numbers, email addresses, and office locations of more than 41,000 employees, including those in US Immigration and Customs Enforcement (ICE) and Customs and Border Protection (CBP), according to TechCrunch and Wired. The […]",
+      "link": "https://www.theverge.com/tech/1021528/ice-cbp-data-leak",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2200388904.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "feed_name": "The Verge -  All Posts",
+      "feed_title": "The Verge",
+      "category": "technology",
+      "feed_url": "https://www.theverge.com/rss/index.xml",
+      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
+    },
+    {
+      "id": "https://www.theverge.com/?p=1021405",
+      "title": "Akai is embracing vibe-coded mods with an open-source MPC",
+      "published": "2026-10-28T21:34:04+00:00",
+      "author": "Terrence O’Brien",
+      "description": "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware developers by giving them early access to the device, which will have open-source firmware. It will likely run […]",
+      "link": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Akai-MPC-Sample-Key.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "feed_name": "The Verge -  All Posts",
+      "feed_title": "The Verge",
+      "category": "technology",
+      "feed_url": "https://www.theverge.com/rss/index.xml",
+      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
+    },
     {
       "id": "https://blog.google/products/ads-commerce/ads-in-ai-mode-global/",
       "title": "Ads in AI Mode expand to new markets.",
@@ -38,6 +66,20 @@
       "category": "technology",
       "feed_url": "https://www.youtube.com/feeds/videos.xml?user=CNETTV",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64"
+    },
+    {
+      "id": "https://www.theverge.com/?p=1020264",
+      "title": "Readwise is taking on Kindle and Kobo for ebook supremacy",
+      "published": "2026-10-28T21:16:18+00:00",
+      "author": "David Pierce",
+      "description": "For the last several years, Readwise has been building tools for power readers. There's the eponymous product, Readwise, which stores and categorizes your Kindle highlights to help you remember what you've read. There's Readwise Reader, an app for reading newsletters, PDFs, and web articles you've saved for later. And now there's Readwise Books, a full-fledged […]",
+      "link": "https://www.theverge.com/tech/1020264/readwise-books-launch-ebook-store",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Readwise-Books-2.jpeg?quality=90&strip=all&crop=0,0,100,100",
+      "feed_name": "The Verge -  All Posts",
+      "feed_title": "The Verge",
+      "category": "technology",
+      "feed_url": "https://www.theverge.com/rss/index.xml",
+      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
     },
     {
       "id": "yt:video:xkwe-5xbjUQ",
@@ -13968,48 +14010,6 @@
       "category": "technology",
       "feed_url": "https://readwrite.com/feed/",
       "feed_icon": "https://readwrite.com/wp-content/uploads/2024/10/cropped-readwrite-favicon-32x32.png"
-    },
-    {
-      "id": "https://stratechery.com/?p=20306",
-      "title": "Apple HomeView, The New Apple TV, The App Story",
-      "published": "2026-10-14T10:00:00+00:00",
-      "author": "Ben Thompson",
-      "description": "The Apple Homeview is official, and the question is how big is the addressable market for expensive devices based on subpar AI.",
-      "link": "https://stratechery.com/2026/apple-homeview-the-new-apple-tv-the-app-story/",
-      "image": null,
-      "feed_name": "Stratechery by Ben Thompson",
-      "feed_title": "Stratechery by Ben Thompson",
-      "category": "technology",
-      "feed_url": "http://stratechery.com/feed/",
-      "feed_icon": "https://i0.wp.com/stratechery.com/wp-content/uploads/2018/03/cropped-android-chrome-512x512-1.png?fit=32%2C32&ssl=1"
-    },
-    {
-      "id": "https://readwrite.com/fanduel-vip-program-scrutiny/",
-      "title": "Lawmakers Seek FanDuel VIP Data After Harper Video Concern",
-      "published": "2026-10-14T06:12:18+00:00",
-      "author": "ReadWrite",
-      "description": "Lawmakers seek FanDuel VIP program records after a Bryce Harper video raised questions about marketing to at-risk gamblers and customer safeguards. The post Lawmakers Seek FanDuel VIP Data After Harper Video Concern appeared first on ReadWrite .",
-      "link": "https://readwrite.com/fanduel-vip-program-scrutiny/",
-      "image": "https://readwrite.com/wp-content/uploads/2026/10/lawmakers-seek-fanduel-vip-data-900x600.webp",
-      "feed_name": "ReadWrite",
-      "feed_title": "ReadWrite",
-      "category": "technology",
-      "feed_url": "https://readwrite.com/feed/",
-      "feed_icon": "https://readwrite.com/wp-content/uploads/2024/10/cropped-readwrite-favicon-32x32.png"
-    },
-    {
-      "id": "yt:video:TD74a5g5rp0",
-      "title": "Everything Apple announced in under 10 mins - Welcome Home 2026",
-      "published": "2026-10-14T06:07:30+00:00",
-      "author": "Linus Tech Tips",
-      "description": "Meter is funding the next generation of network engineers with grants of up to $2,000 for courses, certifications, and tools. Apply today: https://meter.com/grants Apple just announced its all-new smart home lineup at the Apple Welcome Home Event 2026! In this video, we break down the brand-new Apple HomeView smart display hub, featuring Siri AI personal context integration, iOS app support, Safari browsing, multi-user recognition, and Matter & Thread border router support. We also look at the…",
-      "link": "https://www.youtube.com/watch?v=TD74a5g5rp0",
-      "image": "https://i1.ytimg.com/vi/TD74a5g5rp0/hqdefault.jpg",
-      "feed_name": "Linus Tech Tips",
-      "feed_title": "Linus Tech Tips",
-      "category": "technology",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?user=LinusTechTips",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64"
     }
   ]
 }
