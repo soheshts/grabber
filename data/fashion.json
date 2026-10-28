@@ -1,16 +1,44 @@
 {
   "category": "fashion",
-  "updated": "2026-10-28T20:33:19.139226+00:00",
-  "count": 288,
+  "updated": "2026-10-28T21:03:46.614255+00:00",
+  "count": 289,
   "summary": {
-    "text": "• ELLE highlights editor-approved ballet flats offering cushioning, support, and style for walking.\n• ELLE asks why fashion is so obsessed with food, noting the trend has never been more ubiquitous.\n• Who What Wear reports a legging color trend now seen as cooler than black and burgundy, spotted on a 2026 \"funny it girl.\"\n• NYT Style's \"Tiny Love Stories\" features reader-submitted Modern Love stories of 100 words or fewer, including \"Turn Off That Dirge!\"",
-    "generated_at": "2026-10-28T20:03:43.215632+00:00",
+    "text": "• Who What Wear lists 31 luxury gifts to buy for yourself, framed as self-care.\n• A fashion editor's easy styling formula for T by Tiffany gold jewelry pairs a pendant with a bracelet.\n• NYT Style features physicist Francis Halzen explaining neutrinos, the subatomic particles that pass through us daily.",
+    "generated_at": "2026-10-28T21:03:46.614255+00:00",
     "window_minutes": 60,
-    "item_count": 4,
-    "key": "f4c885bd95e3a6d2a8b38fbcc41bef55fbb35c04",
+    "item_count": 3,
+    "key": "9021a58b3cee29dfc7c92ae733ac8d275aec2a41",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "Kh3w6HdyXGvwQYMuGEef7g",
+      "title": "From Me to Me—31 Luxury Gifts I Want to Keep for Myself",
+      "published": "2026-10-28T20:41:48+00:00",
+      "author": "Aniyah Morinia",
+      "description": "This is my idea of self-care.",
+      "link": "https://www.whowhatwear.com/fashion/editor-holiday-gifting-finds-2026",
+      "image": "https://cdn.mos.cms.futurecdn.net/sQsVHNSRhKojNC2vQFAzs3-1920-80.jpg",
+      "feed_name": "Who What Wear",
+      "feed_title": "Latest from Who What Wear",
+      "category": "fashion",
+      "feed_url": "https://www.whowhatwear.com/rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.whowhatwear.com&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/26/style/neutrinos-francis-halzen-interview.html",
+      "title": "Neutrinos Are Everywhere. A Physicist Explains.",
+      "published": "2026-10-28T20:38:51+00:00",
+      "author": "Steven Kurutz",
+      "description": "Dr. Francis Halzen, the recipient of the Nobel Prize in Physics, sheds some light on the mysterious, subatomic particles that whiz through us every day.",
+      "link": "https://www.nytimes.com/2026/10/26/style/neutrinos-francis-halzen-interview.html",
+      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/26ST-NEUTRINO-Q-AND-A-1-pwhl/26ST-NEUTRINO-Q-AND-A-1-pwhl-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Style",
+      "feed_title": "NYT > Style",
+      "category": "fashion",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "UFSzpGNbaSnRntJfD2XzsJ",
       "title": "A Fashion Editor's Formula for Styling T by Tiffany Gold Jewelry Without Overthinking It",
@@ -1032,20 +1060,6 @@
       "category": "fashion",
       "feed_url": "https://www.whowhatwear.com/rss",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.whowhatwear.com&sz=64"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/10/26/style/neutrinos-francis-halzen-interview.html",
-      "title": "Neutrinos Are Everywhere. A Physicist Explains.",
-      "published": "2026-10-27T12:56:07+00:00",
-      "author": "Steven Kurutz",
-      "description": "Dr. Francis Halzen, the recipient of the Nobel Prize in Physics, sheds some light on the mysterious, subatomic particles that whiz through us everyday.",
-      "link": "https://www.nytimes.com/2026/10/26/style/neutrinos-francis-halzen-interview.html",
-      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/26ST-NEUTRINO-Q-AND-A-1-pwhl/26ST-NEUTRINO-Q-AND-A-1-pwhl-mediumSquareAt3X.jpg",
-      "feed_name": "NYT > Style",
-      "feed_title": "NYT > Style",
-      "category": "fashion",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://www.nytimes.com/2026/10/24/style/they-kind-of-reinvented-the-sample-sale.html",

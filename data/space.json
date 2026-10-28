@@ -1,16 +1,30 @@
 {
   "category": "space",
-  "updated": "2026-10-28T20:33:19.139226+00:00",
-  "count": 132,
+  "updated": "2026-10-28T21:03:46.614255+00:00",
+  "count": 133,
   "summary": {
-    "text": "• Canadian astronaut Joshua Kutryk will step outside the International Space Station on Oct. 29, the first spacewalk by a Canadian astronaut in more than seven years. Space.com has a guide to watching it live.\n• Virgin Galactic has unveiled Apeiron, its first \"Delta-class\" space plane, and announced the results of a worldwide vote to name it.",
-    "generated_at": "2026-10-28T20:03:43.215632+00:00",
+    "text": "• Space.com reports on five days spent living underwater in a research station described as a \"space station.\"\n• The habitat sits 22 feet (7 meters) below the surface, where Analog Astronaut Commander Dr. Musilova and her crew worked.\n• The crew carried out research and maintenance tasks similar to those future astronauts will perform on Mars.",
+    "generated_at": "2026-10-28T21:03:46.614255+00:00",
     "window_minutes": 60,
-    "item_count": 2,
-    "key": "aa2c3cc958e3d051b235f81d957730a8e859ad8b",
+    "item_count": 1,
+    "key": "9585156f767970fcf98457e584e4d5c0c76e9734",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "RP9Xr3jg48f6qXz5Rymopm",
+      "title": "5 days beneath the waves: What it's like to live in an underwater 'space station'",
+      "published": "2026-10-28T21:00:00+00:00",
+      "author": "Michaela Musilova",
+      "description": "Confined inside a research station 22 feet (7 meters) underwater, Analog Astronaut Commander Dr. Musilova and her crew performed research and maintenance activities like future astronauts on Mars.",
+      "link": "https://www.space.com/space-exploration/human-spaceflight/5-days-beneath-the-waves-what-its-like-to-live-in-an-underwater-space-station",
+      "image": "https://cdn.mos.cms.futurecdn.net/WNLaUHkpQnQ3DjY2bvgruD-1920-80.jpg",
+      "feed_name": "Space.com",
+      "feed_title": "Latest from Space.com",
+      "category": "space",
+      "feed_url": "https://www.space.com/feeds/all",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.space.com&sz=64"
+    },
     {
       "id": "BPZwcRNvrzsnoKBQpuMwiX",
       "title": "ISS astronaut will conduct Canada's 1st spacewalk in 7 years on Oct. 29: Watch it live",

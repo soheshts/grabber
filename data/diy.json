@@ -1,16 +1,44 @@
 {
   "category": "DIY",
-  "updated": "2026-10-28T20:33:19.139226+00:00",
-  "count": 288,
+  "updated": "2026-10-28T21:03:46.614255+00:00",
+  "count": 290,
   "summary": {
-    "text": "• Two items cover software swaps: one reader replaced 7-Zip and WinRAR with an alternative for better PC security, and another replicated three Googlebook features on a $60 Linux laptop.\n• A MUO piece describes building a subscription-free lossless music library using an affordable USB accessory.\n• A How-To Geek item shares a 3D-printable \"lie detector\" card that reveals color shifts, transparency, and tolerance quirks in filament before printing.",
-    "generated_at": "2026-10-28T20:03:43.215632+00:00",
+    "text": "• Software tips: four Photoshop plugins that smooth workflows, and five Google Maps companion apps that fill its biggest gaps.\n• Tool deal: DeWalt's 6-tool cordless combo kit is $370 off, with batteries, charger, and toolbox included.\n• Home theater: blinding white HDR subtitles can dominate dark scenes and cause mini LED bloom during evening viewing.",
+    "generated_at": "2026-10-28T21:03:46.614255+00:00",
     "window_minutes": 60,
     "item_count": 4,
-    "key": "a214763af532006b24b7e74fb7a150469dee517c",
+    "key": "d7fbca1c5125ba274c11ce09f9f5f2184a43dd88",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.howtogeek.com/photoshop-plugins-so-essential-they-should-be-built-in/",
+      "title": "4 Photoshop plugins so essential they should be built-in",
+      "published": "2026-10-28T21:00:15+00:00",
+      "author": "Diana Todea",
+      "description": "Simple add-ons for smoother workflows",
+      "link": "https://www.howtogeek.com/photoshop-plugins-so-essential-they-should-be-built-in/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/photoshop-plugins-laptop.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/20-volt-max-toughsystem/",
+      "title": "Take on any job with $370 off DeWalt's 6-Tool Cordless Combo Kit",
+      "published": "2026-10-28T20:34:29+00:00",
+      "author": "Saeed Wazir",
+      "description": "Batteries, charger, and toolbox included",
+      "link": "https://www.howtogeek.com/20-volt-max-toughsystem/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/10/dewalt-man-drilling-into-joist.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/google-maps-companion-apps-that-fill-its-biggest-gaps/",
       "title": "5 Google Maps companion apps that fill its biggest gaps",

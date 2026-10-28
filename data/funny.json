@@ -1,9 +1,58 @@
 {
   "category": "funny",
-  "updated": "2026-10-28T20:33:19.139226+00:00",
-  "count": 208,
-  "summary": null,
+  "updated": "2026-10-28T21:03:46.614255+00:00",
+  "count": 211,
+  "summary": {
+    "text": "• The Onion reports that Trump's eyes rolled back after he received a vision of muscular asses that have not yet come to pass.\n• Penny Arcade's \"Nautical Naughties\" describes noticing an unusual spike in AI discourse while at PAX Aus.\n• The post says the conversation around AI has always been fraught, and it became especially intense there.",
+    "generated_at": "2026-10-28T21:03:46.614255+00:00",
+    "window_minutes": 60,
+    "item_count": 2,
+    "key": "0944cb8f67b3e7e6ead9f084e6a44a36433e798f",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "https://theonion.com/?p=1851709913",
+      "title": "Trump’s Eyes Roll Back After Receiving Vision Of Muscular Asses That Have Not Yet Come To Pass",
+      "published": "2026-10-28T20:45:44+00:00",
+      "author": "The Onion Staff",
+      "description": "The post Trump’s Eyes Roll Back After Receiving Vision Of Muscular Asses That Have Not Yet Come To Pass appeared first on The Onion .",
+      "link": "https://theonion.com/trumps-eyes-roll-back-after-receiving-vision-of-muscular-asses-that-have-not-yet-come-to-pass/",
+      "image": "https://theonion.com/wp-content/uploads/2026/10/Trumps_Eyes_Roll_SB-IHA-GR-SOCIAL.jpg",
+      "feed_name": "The Onion",
+      "feed_title": "The Onion",
+      "category": "funny",
+      "feed_url": "https://www.theonion.com/rss",
+      "feed_icon": "https://theonion.com/wp-content/uploads/2024/07/cropped-site-icon.png?w=32"
+    },
+    {
+      "id": "https://www.penny-arcade.com/news/post/2026/10/28/nautical-naughties",
+      "title": "Nautical Naughties",
+      "published": "2026-10-28T20:21:00+00:00",
+      "author": null,
+      "description": "I identified something really odd while I was out at PAX Aus; the normal cadence and tenor of the AI discourse began to vibrate at an especially high frequency. The conversation has always been fraught, but everywhere I turned the side which advocated for the tools was really spun up, aggressive, and emboldened, and I wasn't seeing the counterpunches I'm used to. My presumption is that it's connected broadly to the Anthropic IPO, which is a severe test of… well, it's a gut check for the whole b…",
+      "link": "https://www.penny-arcade.com/news/post/2026/10/28/nautical-naughties",
+      "image": "https://assets.penny-arcade.com/img/logo_opengraph.jpg",
+      "feed_name": "Penny Arcade",
+      "feed_title": "Penny Arcade",
+      "category": "funny",
+      "feed_url": "https://www.penny-arcade.com/feed",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.penny-arcade.com&sz=64"
+    },
+    {
+      "id": "https://cheezburger.com/47193605/parents-on-vacation-expect-their-friend-to-pay-for-their-kids-expenses-friend-refuses-having",
+      "title": "Parents on vacation expect their friend to pay for their kids’ expenses, friend refuses: ‘Having children doesn’t automatically make their expenses everyone else’s responsibility’",
+      "published": "2026-10-28T19:15:00+00:00",
+      "author": "Melissa Knudson",
+      "description": "Is it okay to bring kids to a friend group vacation? Going on vacation is something we all look forward to. Vacations are fun, as you just get to kick back, relax, and recover from stress. Well, some vacations are exactly like that, and others are more stressful than the stress you were supposedly leaving behind. For example, vacations with kids are on a whole different level. If you're a new parent and you're expecting your next family vacation to be blissful, you've got something coming. Fami…",
+      "link": "https://cheezburger.com/47193605/parents-on-vacation-expect-their-friend-to-pay-for-their-kids-expenses-friend-refuses-having",
+      "image": "https://i.chzbgr.com/thumb-large/47193605/h3AA2EFAA/refuses-having-children-doesnt-automatically-make-their-expenses-everyone-elses-responsibility",
+      "feed_name": "FAIL Blog",
+      "feed_title": "FAIL Blog",
+      "category": "funny",
+      "feed_url": "http://feeds.feedburner.com/failblog",
+      "feed_icon": "https://i.chzbgr.com/s/unversioned/images/logos/FailBlog_ol.png"
+    },
     {
       "id": "https://cheezburger.com/47217157/a-fresh-brew-of-25-heartwarming-cat-memes-for-a-slow-morning-scroll",
       "title": "A Fresh Brew of 25 Heartwarming Cat Memes for a Slow Morning Scroll",
