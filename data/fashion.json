@@ -1,16 +1,30 @@
 {
   "category": "fashion",
-  "updated": "2026-10-28T14:33:33.953630+00:00",
-  "count": 271,
+  "updated": "2026-10-28T15:03:48.519888+00:00",
+  "count": 272,
   "summary": {
-    "text": "• The New York Times Style reports that New Orleans shaped Anne Rice's imagination, as the city celebrates 50 years since her first novel, \"Interview With the Vampire.\"\n• Who What Wear says a trainer trend once considered dated has received fashion's highest honour and is popular again in 2026.",
-    "generated_at": "2026-10-28T14:03:46.818884+00:00",
+    "text": "• ELLE offers styling advice for ripped jeans this fall, covering everything from subtle distressing to shredded pairs.",
+    "generated_at": "2026-10-28T15:03:48.519888+00:00",
     "window_minutes": 60,
-    "item_count": 2,
-    "key": "201fdb29a65923467e3c4fabf242d8fcb064abed",
+    "item_count": 1,
+    "key": "a4df70881b59d4af55d4b9b3a96bfb3a00939c99",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "http://www.elle.com/fashion/shopping/a74253581/how-to-style-ripped-jeans-outfits/",
+      "title": "Here’s How to Style Ripped Jeans for Fall",
+      "published": "2026-10-28T15:00:00+00:00",
+      "author": null,
+      "description": "From subtle distressing to shredded styles, here’s how to make them work.",
+      "link": "https://www.elle.com/fashion/shopping/a74253581/how-to-style-ripped-jeans-outfits/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/581b71c6-445f-4d99-a729-5d0741a4b0d2.jpg?crop=1xw:0.346202266051xh;center,top&resize=1200:*",
+      "feed_name": "Fashion - ELLE",
+      "feed_title": "Fashion - ELLE",
+      "category": "fashion",
+      "feed_url": "https://www.elle.com/rss/fashion.xml/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.elle.com&sz=64"
+    },
     {
       "id": "https://www.nytimes.com/2026/10/28/style/new-orleans-anne-rice-interview-with-vampire.html",
       "title": "New Orleans’s Legacy of Death and Rebirth Helped Shaped Anne Rice’s Imagination",
@@ -251,7 +265,7 @@
     },
     {
       "id": "qdeRhsBXCJxjpBYZmPGeuR",
-      "title": "Just So You Know—These Fall Jackets Are Incredibly Chic and Under $300",
+      "title": "Just So You Know, These Fall Jackets Are Incredibly Chic and Under $300",
       "published": "2026-10-28T08:00:00+00:00",
       "author": "Michelle Scanga",
       "description": "Shop the list inside.",

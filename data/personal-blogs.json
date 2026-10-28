@@ -1,9 +1,30 @@
 {
   "category": "personal blogs",
-  "updated": "2026-10-28T14:33:33.953630+00:00",
+  "updated": "2026-10-28T15:03:48.519888+00:00",
   "count": 423,
-  "summary": null,
+  "summary": {
+    "text": "• A post from Read the Tea Leaves, \"The AI cost of JavaScript frameworks,\" examines the cost of framework choices.\n• The author criticizes web development decisions as vibes-based, citing claims that frameworks are \"blazing fast\" and tools will \"supercharge\" development.\n• The excerpt is truncated, so the post's specific arguments and evidence on AI costs are not visible.",
+    "generated_at": "2026-10-28T15:03:48.519888+00:00",
+    "window_minutes": 60,
+    "item_count": 1,
+    "key": "3bf03c75a140830b614d2438516963e93f5bb404",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "http://nolanlawson.com/?p=20004",
+      "title": "The AI cost of JavaScript frameworks",
+      "published": "2026-10-28T14:31:03+00:00",
+      "author": "Nolan Lawson",
+      "description": "One of my pet peeves with the web development community is that so many of the decisions we make are vibes-based. Frameworks are “blazing fast,” tools will “supercharge” your development, the right abstraction will benefit both you and your users (DX and UX all in one!). All of this breathless…",
+      "link": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+      "image": "https://nolanlawson.com/_astro/pokemon-app.DUO5bAVN_34jQQ.webp",
+      "feed_name": "Read the Tea Leaves",
+      "feed_title": "Read the Tea Leaves",
+      "category": "personal blogs",
+      "feed_url": "https://nolanlawson.com/feed/",
+      "feed_icon": "https://nolanlawson.com/favicon.png"
+    },
     {
       "id": "http://finley.im/2026/10/28/far-kingdom/",
       "title": "Far Kingdom by The Gray Havens",
@@ -5197,20 +5218,6 @@
       "category": "personal blogs",
       "feed_url": "http://adrianroselli.com/feed",
       "feed_icon": "https://www.google.com/s2/favicons?domain=adrianroselli.com&sz=64"
-    },
-    {
-      "id": "6ab97017aa869c00018d31a4",
-      "title": "The new DESK",
-      "published": "2026-09-28T14:51:29+00:00",
-      "author": "Tobias van Schneider",
-      "description": "If you're reading this, you're already on it! In case you're reading this on your phone, I hope you can visit on desktop soon too. You know, the one with the big screen. The bigger the screen, the better. It works beautifully on tiny",
-      "link": "https://vanschneider.com/blog/edition-278/",
-      "image": "https://storage.ghost.io/c/be/f2/bef2fe50-a0a2-464d-b3e5-1c155fe25c68/content/images/2026/10/newblog.jpg",
-      "feed_name": "House of van Schneider",
-      "feed_title": "The DESK Magazine",
-      "category": "personal blogs",
-      "feed_url": "http://www.vanschneider.com/feed",
-      "feed_icon": "https://vanschneider.com/blog/favicon.png"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",

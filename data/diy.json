@@ -1,16 +1,44 @@
 {
   "category": "DIY",
-  "updated": "2026-10-28T14:33:33.953630+00:00",
-  "count": 256,
+  "updated": "2026-10-28T15:03:48.519888+00:00",
+  "count": 258,
   "summary": {
-    "text": "• Kinect reuse: The Xbox Kinect, which failed as a gaming accessory, is described as very useful even without an Xbox.\n• 3D printing shift: One writer stopped printing \"clever\" projects and now targets practical items like replacement shells and tiny mounts, saying the prints save money.\n• Home audio: A soundbar switched from optical to HDMI reportedly delivered real Dolby Atmos sound.\n• iPhone accessories: A list of 13 things that can connect to an iPhone's USB-C port beyond charging.",
-    "generated_at": "2026-10-28T14:03:46.818884+00:00",
+    "text": "• Ryobi runs an official replacement parts store, not Home Depot, which many owners may not know about.\n• A phone that went a month without updates still works like new, but the article asks whether you should keep using it.\n• Safari's Notify Me feature checks out-of-stock pages for you, so you don't have to keep refreshing them.\n• An open-source project is recreating Adobe Creative Cloud, which costs $840 a year, for free. Its apps are still in alpha but usable.",
+    "generated_at": "2026-10-28T15:03:48.519888+00:00",
     "window_minutes": 60,
     "item_count": 4,
-    "key": "70f6720609a34343e7c0087e188a1bdc96a8adf3",
+    "key": "9dcb64cecb8d3a02aad4f1c07475dbfadcd53a8d",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.makeuseof.com/outdated-android-phone-security-risks/",
+      "title": "I kept using a phone that stopped getting updates for a month, and here's what actually broke",
+      "published": "2026-10-28T15:00:16+00:00",
+      "author": "Tashreef Shareef",
+      "description": "The phone works like new, but should you use it?",
+      "link": "https://www.makeuseof.com/outdated-android-phone-security-risks/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/06/ready-to-update-screen-on-samsung-galaxy-z-flip-6-1.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/ryobi-replacement-parts-website-you-didnt-know-about/",
+      "title": "Ryobi has an official replacement parts store (and it’s not Home Depot)",
+      "published": "2026-10-28T15:00:15+00:00",
+      "author": "Cory Gunther",
+      "description": "I had no clue Ryobi sells parts.",
+      "link": "https://www.howtogeek.com/ryobi-replacement-parts-website-you-didnt-know-about/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/09/ryobi-impact-wrench-on-a-piece-of-wood.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/i-had-no-idea-safari-had-this-ridiculously-useful-shopping-feature/",
       "title": "I had no idea Safari had this ridiculously useful shopping feature",
