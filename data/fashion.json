@@ -1,9 +1,30 @@
 {
   "category": "fashion",
-  "updated": "2026-10-28T22:03:46.487032+00:00",
+  "updated": "2026-10-28T22:32:18.206635+00:00",
   "count": 289,
-  "summary": null,
+  "summary": {
+    "text": "• ELLE published a roundup titled \"The Launch: October's Must-Know Fashion News\" in its fashion category.\n• The headline indicates the piece covers the month's key fashion news, but the item gives no specific stories or details.\n• Only this single headline was available, so no further developments can be summarized from this batch.",
+    "generated_at": "2026-10-28T22:32:18.206635+00:00",
+    "window_minutes": 60,
+    "item_count": 1,
+    "key": "f4c980d6f07a84db7ab4c7d5bc3155bb0a3c72f9",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "http://www.elle.com/fashion/a73993035/best-fashion-launches-october-2026/",
+      "title": "The Launch: October’s Must-Know Fashion News",
+      "published": "2026-10-28T22:23:27+00:00",
+      "author": null,
+      "description": "",
+      "link": "https://www.elle.com/fashion/a73993035/best-fashion-launches-october-2026/",
+      "image": null,
+      "feed_name": "Fashion - ELLE",
+      "feed_title": "Fashion - ELLE",
+      "category": "fashion",
+      "feed_url": "https://www.elle.com/rss/fashion.xml/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.elle.com&sz=64"
+    },
     {
       "id": "Kh3w6HdyXGvwQYMuGEef7g",
       "title": "From Me to Me—31 Luxury Gifts I Want to Keep for Myself",
@@ -2817,20 +2838,6 @@
       "category": "fashion",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "http://www.elle.com/fashion/a73993035/best-fashion-launches-october-2026/",
-      "title": "The Launch: October’s Must-Know Fashion News",
-      "published": "2026-10-23T18:40:53+00:00",
-      "author": null,
-      "description": "",
-      "link": "https://www.elle.com/fashion/a73993035/best-fashion-launches-october-2026/",
-      "image": null,
-      "feed_name": "Fashion - ELLE",
-      "feed_title": "Fashion - ELLE",
-      "category": "fashion",
-      "feed_url": "https://www.elle.com/rss/fashion.xml/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.elle.com&sz=64"
     },
     {
       "id": "https://www.refinery29.com/en-us/best-new-collaborations?utm_source=feed&utm_medium=rss",

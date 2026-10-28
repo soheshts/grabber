@@ -1,7 +1,7 @@
 {
   "category": "science",
-  "updated": "2026-10-28T22:03:46.487032+00:00",
-  "count": 685,
+  "updated": "2026-10-28T22:32:18.206635+00:00",
+  "count": 686,
   "summary": {
     "text": "• Materials: New research explains why polymer glasses can behave as brittle solids, ductile metals, or flowing liquids depending on their chemistry.\n• Biology: An MSK computational biologist discusses tools for decoding the cell, and Chornobyl dog genetics show signs of directional selection.\n• Space: Researchers are exploring whether next-generation AI could help plan future space outposts.\n• Chemistry: X-ray snapshots show how neighboring molecules shape the path of a reaction.\n• Health: Wildfire smoke is increasingly harming indoor air quality at American schools and child care centers.",
     "generated_at": "2026-10-28T22:03:46.487032+00:00",
@@ -11,6 +11,20 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "news712420202",
+      "title": "Molecular architecture determines tomato plant resistance to its main pest",
+      "published": "2026-10-28T22:20:06+00:00",
+      "author": null,
+      "description": "An international study investigating why wild tomatoes are more resistant to the tomato leafminer (Phthorimaea absoluta) than cultivated varieties revealed that the secret lies in the spatial structure of a plant defense molecule. The researchers mapped the biochemical origin of this difference and demonstrated that altering four amino acids in a single enzyme is sufficient to alter the structure of the substance and increase its toxicity against the pest. This finding paves the way for creatin…",
+      "link": "https://phys.org/news/2026-10-molecular-architecture-tomato-resistance-main.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/molecular-architecture.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
     {
       "id": "news712244706",
       "title": "Explaining the difference between brittle and ductile behavior in polymer glasses",
@@ -4592,7 +4606,7 @@
     {
       "id": "https://www.nytimes.com/2026/10/26/arts/design/museums-mix-science-art.html",
       "title": "The Science Behind Your Reaction to Art",
-      "published": "2026-10-26T21:33:51+00:00",
+      "published": "2026-10-26T21:33:52+00:00",
       "author": "Michael Janofsky",
       "description": "The Honolulu Museum of Art is showing how art can influence thinking, perspective and mood, in an exhibition that is part of a trend by museums to mix science and art.",
       "link": "https://www.nytimes.com/2026/10/26/arts/design/museums-mix-science-art.html",

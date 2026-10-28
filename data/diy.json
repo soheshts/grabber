@@ -1,7 +1,7 @@
 {
   "category": "DIY",
-  "updated": "2026-10-28T22:03:46.487032+00:00",
-  "count": 292,
+  "updated": "2026-10-28T22:32:18.206635+00:00",
+  "count": 294,
   "summary": {
     "text": "• Netflix is adding horror movies in time for Halloween watch parties, with titles to keep the scary mood going.\n• Six common mistakes can make Pi-hole, the privacy tool, the least secure part of your home network.",
     "generated_at": "2026-10-28T22:03:46.487032+00:00",
@@ -11,6 +11,20 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.howtogeek.com/nfc-tags-on-appliances-stops-searching-for-manuals/",
+      "title": "I put NFC tags on my appliances so I could stop searching for their manuals",
+      "published": "2026-10-28T22:30:15+00:00",
+      "author": "Adam Davidson",
+      "description": "No more manual labor.",
+      "link": "https://www.howtogeek.com/nfc-tags-on-appliances-stops-searching-for-manuals/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/an-nfc-tag-on-the-side-of-a-bread-maker-next-to-the-bread-maker-manual.png",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/netflix-horror-movies-to-stream-for-halloween-watch-party/",
       "title": "Netflix is bringing these horror movies right in time for your Halloween watch party",
@@ -24,6 +38,20 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.apartmenttherapy.com/blue-to-pink-brown-bedroom-makeover-ba-37697171",
+      "title": "She Added “Warmth and Coziness” to This Bedroom Thanks to Clever DIYs",
+      "published": "2026-10-28T22:00:00+00:00",
+      "author": "Sarah Everett",
+      "description": "Sometimes a couple of simple changes can make a room feel refreshed, and that’s the case for Callieanne Major’s (@ourvictorianhome1875) guest bedroom, which looked nice before but wasn’t exactly what Callieanne envisioned. Painting and sewing projects gave the room “warmth and coziness,” she says.Before, the room was used as a home office, so Callieanne went with bright white and blue-gray wallpaper on the walls. READ MORE...",
+      "link": "https://www.apartmenttherapy.com/blue-to-pink-brown-bedroom-makeover-ba-37697171?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+projects",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2025/2025-09/callieanne-m-bedroom/callieanne-m-bedroom-before-tag",
+      "feed_name": "Apartment Therapy| Saving the world, one room at a time",
+      "feed_title": "Apartment Therapy| Saving the world, one room at a time",
+      "category": "DIY",
+      "feed_url": "https://www.apartmenttherapy.com/projects.rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.apartmenttherapy.com&sz=64"
     },
     {
       "id": "https://www.howtogeek.com/these-mistakes-can-turn-pi-hole-into-least-secure-part-your-home-network/",
