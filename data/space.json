@@ -1,16 +1,30 @@
 {
   "category": "space",
-  "updated": "2026-10-28T19:33:10.274228+00:00",
-  "count": 130,
+  "updated": "2026-10-28T20:03:43.215632+00:00",
+  "count": 132,
   "summary": {
-    "text": "• Virgin Galactic has unveiled its first \"Delta-class\" space plane.\n• The plane is named Apeiron, chosen through a worldwide vote.\n• The naming vote results were announced alongside the unveiling.",
-    "generated_at": "2026-10-28T19:33:10.274228+00:00",
+    "text": "• Canadian astronaut Joshua Kutryk will step outside the International Space Station on Oct. 29, the first spacewalk by a Canadian astronaut in more than seven years. Space.com has a guide to watching it live.\n• Virgin Galactic has unveiled Apeiron, its first \"Delta-class\" space plane, and announced the results of a worldwide vote to name it.",
+    "generated_at": "2026-10-28T20:03:43.215632+00:00",
     "window_minutes": 60,
-    "item_count": 1,
-    "key": "d4995f7799ddd99f22fbeb637722488c7bbe0172",
+    "item_count": 2,
+    "key": "aa2c3cc958e3d051b235f81d957730a8e859ad8b",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "BPZwcRNvrzsnoKBQpuMwiX",
+      "title": "ISS astronaut will conduct Canada's 1st spacewalk in 7 years on Oct. 29: Watch it live",
+      "published": "2026-10-28T20:00:00+00:00",
+      "author": "Elizabeth Howell",
+      "description": "Joshua Kutryk will venture outside the International Space Station on Oct. 29, on the first spacewalk by a Canadian astronaut in more than seven years. Here's how to watch it live.",
+      "link": "https://www.space.com/space-exploration/international-space-station/iss-astronaut-will-conduct-canadas-1st-spacewalk-in-7-years-on-oct-29-watch-it-live",
+      "image": "https://cdn.mos.cms.futurecdn.net/8t5b8rkdDqK6rmfzeVT4bX-1920-80.jpg",
+      "feed_name": "Space.com",
+      "feed_title": "Latest from Space.com",
+      "category": "space",
+      "feed_url": "https://www.space.com/feeds/all",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.space.com&sz=64"
+    },
     {
       "id": "yAFQt4Kq2YXpz7SbXXBngF",
       "title": "Meet Apeiron, Virgin Galactic's 1st 'Delta-class' space plane",
@@ -24,6 +38,20 @@
       "category": "space",
       "feed_url": "https://www.space.com/feeds/all",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.space.com&sz=64"
+    },
+    {
+      "id": "https://www.nasa.gov/?post_type=image-article&p=1060050",
+      "title": "Artemis III SLS Core Stage Joins Boosters at Kennedy",
+      "published": "2026-10-28T18:59:44+00:00",
+      "author": "Tiffany L. Fairley",
+      "description": "NASA’s Artemis III SLS (Space Launch System) core stage is integrated alongside the twin solid rocket boosters on Oct. 28 inside the Vehicle Assembly Building’s High Bay 3 at NASA’s Kennedy Space Center in Florida. Technicians lifted the 212-foot rocket stage from the facility’s High Bay 2 using a one-of-a kind lifting beam designed […]",
+      "link": "https://www.nasa.gov/image-article/artemis-iii-sls-core-stage-joins-boosters-at-kennedy/",
+      "image": "https://images-assets.nasa.gov/image/KSC-20261022-PH-SNC01_0001/KSC-20261022-PH-SNC01_0001~large.jpg?w=1920&h=1371&fit=clip&crop=faces%2Cfocalpoint",
+      "feed_name": "NASA Breaking News",
+      "feed_title": "NASA",
+      "category": "space",
+      "feed_url": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.nasa.gov&sz=64"
     },
     {
       "id": "https://www.nasa.gov/?p=1059815",
@@ -170,7 +198,7 @@
       "title": "APOD: 2026 October 28 – The Mutual Occultation of Ganymede and Io",
       "published": "2026-10-28T04:05:00+00:00",
       "author": null,
-      "description": "APOD Science APOD APOD: 2026 October 28 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. To view […]",
+      "description": "APODScienceAPODAPOD: 2026 October 28 – The…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. To view this video please enable JavaScript, and consider upgrading to a web browser that supports […]",
       "link": "https://science.nasa.gov/image-article/apod-2026-october-28-the-mutual-occultation-of-ganymede-and-io/",
       "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/october/occultation.jpeg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
       "feed_name": "NASA Breaking News",

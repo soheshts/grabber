@@ -1,16 +1,44 @@
 {
   "category": "DIY",
-  "updated": "2026-10-28T19:33:10.274228+00:00",
-  "count": 283,
+  "updated": "2026-10-28T20:03:43.215632+00:00",
+  "count": 285,
   "summary": {
-    "text": "• A 3D-printable card reveals color shifts, transparency, and tolerance quirks in new filament before you trust a spool.\n• XPipe is described as making home lab management easier, so a home server stops feeling like a pile of chores.\n• An affordable USB accessory can build a subscription-free lossless music library.\n• Three new Google features convinced one writer to keep their Pixel Watch instead of switching to a Galaxy Watch.",
-    "generated_at": "2026-10-28T19:33:10.274228+00:00",
+    "text": "• Two items cover software swaps: one reader replaced 7-Zip and WinRAR with an alternative for better PC security, and another replicated three Googlebook features on a $60 Linux laptop.\n• A MUO piece describes building a subscription-free lossless music library using an affordable USB accessory.\n• A How-To Geek item shares a 3D-printable \"lie detector\" card that reveals color shifts, transparency, and tolerance quirks in filament before printing.",
+    "generated_at": "2026-10-28T20:03:43.215632+00:00",
     "window_minutes": 60,
     "item_count": 4,
-    "key": "3bfcc0e301cdece0f84a855e397be652f405390e",
+    "key": "a214763af532006b24b7e74fb7a150469dee517c",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.makeuseof.com/replace-7-zip-winrar-with-nanazip/",
+      "title": "I ditched both 7-Zip and WinRAR for this alternative for this one reason",
+      "published": "2026-10-28T20:00:16+00:00",
+      "author": "Pankil Shah",
+      "description": "My PC is now more secure, thanks to this change.",
+      "link": "https://www.makeuseof.com/replace-7-zip-winrar-with-nanazip/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/winrar-and-7-zip-on-windows-11-laptop.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/heres-how-i-replicated-3-of-the-googlebooks-best-features-on-a-60-dollar-linux-laptop/",
+      "title": "Here's how I replicated 3 of the Googlebook's best features on a $60 Linux laptop",
+      "published": "2026-10-28T20:00:15+00:00",
+      "author": "Andrew Heinzman",
+      "description": "Turns out, I didn't have to work hard to get a semi-Googlebook experience in Linux",
+      "link": "https://www.howtogeek.com/heres-how-i-replicated-3-of-the-googlebooks-best-features-on-a-60-dollar-linux-laptop/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/mirroring-an-android-phone-screen-on-a-surface-go-running-cachyos-with-a-googlebook-in-the-background.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/i-built-a-lossless-music-library/",
       "title": "I built a subscription-free lossless music library with this affordable USB accessory",

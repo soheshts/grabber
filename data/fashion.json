@@ -1,16 +1,30 @@
 {
   "category": "fashion",
-  "updated": "2026-10-28T19:33:10.274228+00:00",
-  "count": 286,
+  "updated": "2026-10-28T20:03:43.215632+00:00",
+  "count": 287,
   "summary": {
-    "text": "• ELLE asks why fashion is so obsessed with food, noting the trend has never been as ubiquitous as it is now.\n• Who What Wear highlights a legging color that is suddenly cooler than black and burgundy, spotted on a 2026 \"funny it girl.\"\n• NYT Style's \"Tiny Love Stories\" runs reader-submitted Modern Love stories of no more than 100 words, including \"Turn Off That Dirge!\"",
-    "generated_at": "2026-10-28T19:33:10.274228+00:00",
+    "text": "• ELLE highlights editor-approved ballet flats offering cushioning, support, and style for walking.\n• ELLE asks why fashion is so obsessed with food, noting the trend has never been more ubiquitous.\n• Who What Wear reports a legging color trend now seen as cooler than black and burgundy, spotted on a 2026 \"funny it girl.\"\n• NYT Style's \"Tiny Love Stories\" features reader-submitted Modern Love stories of 100 words or fewer, including \"Turn Off That Dirge!\"",
+    "generated_at": "2026-10-28T20:03:43.215632+00:00",
     "window_minutes": 60,
-    "item_count": 3,
-    "key": "cc97f7125ec44e90df4cb2ecae0fdb6793f93c5f",
+    "item_count": 4,
+    "key": "f4c885bd95e3a6d2a8b38fbcc41bef55fbb35c04",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "http://www.elle.com/fashion/shopping/a74243957/best-ballet-flats-for-walking/",
+      "title": "Flat Out Chic: These Are the Best Ballet Flats for Walking",
+      "published": "2026-10-28T20:00:00+00:00",
+      "author": null,
+      "description": "These editor-approved pairs deliver cushioning, support, and style.",
+      "link": "https://www.elle.com/fashion/shopping/a74243957/best-ballet-flats-for-walking/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/924d33f2-720b-4b5a-9a68-923956fd1d9c.jpg?crop=1xw:0.333xh;0xw,0.536xh&resize=1200:*",
+      "feed_name": "Fashion - ELLE",
+      "feed_title": "Fashion - ELLE",
+      "category": "fashion",
+      "feed_url": "https://www.elle.com/rss/fashion.xml/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.elle.com&sz=64"
+    },
     {
       "id": "http://www.elle.com/fashion/trend-reports/a74271649/fashion-food-trend-fall-2026/",
       "title": "Why Is Fashion So Obsessed With Food?",

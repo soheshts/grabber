@@ -1,16 +1,72 @@
 {
   "category": "science",
-  "updated": "2026-10-28T19:33:10.274228+00:00",
-  "count": 667,
+  "updated": "2026-10-28T20:03:43.215632+00:00",
+  "count": 670,
   "summary": {
-    "text": "• Scientists counted over 2 million eels on Patience Seamount, an underwater mountain off Tasmania.\n• A study found celebrity digital twins, such as a virtual Hugh Jackman, may boost trust in customer service.\n• Putin called Elon Musk a \"real genius\" after satellite talks with SpaceX's boss, saying they are in close contact.\n• Research found 52.5% of Americans aged 13 to 27 gambled last year, including 42.7% of teens aged 13 to 17.\n• UV scans suggest a natural varnish may have preserved ancient Chauvet Cave drawings in France.",
-    "generated_at": "2026-10-28T19:33:10.274228+00:00",
+    "text": "• NYU researchers' physics-informed AI \"digital twin\" forecast wildfire spread in near real time in early tests, while separate research found humidity shapes how smoke pollutants change after dark.\n• Carnegie Mellon's low-cost DNA labels can steer cell-derived drug carriers to cancer cells.\n• Over 2 million basketwork eels were counted on Patience Seamount off Tasmania.\n• A study suggests celebrity digital twins may boost trust in customer service.\n• Putin called Elon Musk a \"real genius\" after satellite talks with the SpaceX boss.",
+    "generated_at": "2026-10-28T20:03:43.215632+00:00",
     "window_minutes": 60,
-    "item_count": 6,
-    "key": "2bd81afe39269583e5427961e41f68ec729e7bbe",
+    "item_count": 7,
+    "key": "cd9d68b99e0f611b298c5b794372bbb43d3c8a5f",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "news712413082",
+      "title": "A new physics-informed AI tool aims to predict wildfire spread in real time and assist wildfire response",
+      "published": "2026-10-28T20:00:10+00:00",
+      "author": null,
+      "description": "A new AI system that NYU Fire Research Group describes as a digital twin of an active wildfire has, in early testing, shown the ability to forecast how a fire will spread in near real time.",
+      "link": "https://phys.org/news/2026-10-physics-ai-tool-aims-wildfire.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-physics-informed.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "news712418881",
+      "title": "Customizable DNA labels can selectively guide drug carriers to cancer cells",
+      "published": "2026-10-28T20:00:05+00:00",
+      "author": null,
+      "description": "Cells naturally send tiny packages to one another to share information. Researchers at Carnegie Mellon University have developed a simple, low-cost way to turn those packages into drug carriers that can deliver treatments directly to cancer cells, potentially improving effectiveness while reducing side effects.",
+      "link": "https://phys.org/news/2026-10-customizable-dna-drug-carriers-cancer.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cmu-researchers-develo.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "news712418581",
+      "title": "Humidity can change how smoke pollutants transform after dark",
+      "published": "2026-10-28T19:40:04+00:00",
+      "author": null,
+      "description": "What happens to smoke particles after sunset can depend strongly on something as familiar as the amount of water in the air. New research from Md. Sohel Rana and Marcelo I. Guzman at the University of Kentucky shows that relative humidity can redirect the chemical pathways involved in the nighttime oxidation of catechol, a phenolic compound associated with biomass burning.",
+      "link": "https://phys.org/news/2026-10-humidity-pollutants-dark.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/humidity-redirects-nig.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "news712412982",
+      "title": "'Let nothing be forgotten': Holocaust survivors' memorial books honored lives lost and vibrant hometowns",
+      "published": "2026-10-28T19:40:01+00:00",
+      "author": null,
+      "description": "My grandmother was a Holocaust survivor from Kostopol, Ukraine. Years after she passed away, I was trying to learn more about her life before the war—something I knew very little about. When I found a book called \"Sefer Kostopol\"—Hebrew for \"Book of Kostopol\"—I hoped to find her among its pages.",
+      "link": "https://phys.org/news/2026-10-forgotten-holocaust-survivors-memorial-honored.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/an-open-title-page-of.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
     {
       "id": "news712402182",
       "title": "Scientists count more than 2 million eels on one underwater mountain",
@@ -9334,20 +9390,6 @@
       "category": "science",
       "feed_url": "https://sciencebasedmedicine.org/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=sciencebasedmedicine.org&sz=64"
-    },
-    {
-      "id": "urn:bbc:podcast:w3ct8jsz",
-      "title": "The ocean within us",
-      "published": "2026-09-28T20:00:00+00:00",
-      "author": "BBC World Service",
-      "description": "Here's a little fact you might have heard before: humans are around 70% water. About the same percentage as a sweet potato, incidentally. But what does that actually mean? Sure, there's blood, that accounts for some of it. And the lymphatic system has a fair amount too, sloshing around. There is water in each of our cells. But that does not add up to the full 70%, so where is the rest of it? In 2018, a scientific paper was published which gives a tantalising clue. The authors revealed for the f…",
-      "link": "http://www.bbc.co.uk/programmes/w3ct8jsz",
-      "image": null,
-      "feed_name": "Discovery",
-      "feed_title": "Discovery",
-      "category": "science",
-      "feed_url": "https://podcasts.files.bbci.co.uk/p002w557.rss",
-      "feed_icon": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0p7r0yl.jpg"
     }
   ]
 }

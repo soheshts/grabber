@@ -1,16 +1,86 @@
 {
   "category": "World News",
-  "updated": "2026-10-28T19:33:10.274228+00:00",
+  "updated": "2026-10-28T20:03:43.215632+00:00",
   "count": 1000,
   "summary": {
-    "text": "• Oil prices rose as the U.S. reportedly told Gulf countries to prepare for Iran strikes after midterm elections.\n• The Fed held rates steady despite inflation concerns; two of 12 voters dissented, both wanting a quarter-point hike.\n• Flávio Bolsonaro landed in Miami after fleeing Brazil, having lost Sunday's presidential election.\n• At least 68 were killed in Spain when a high-speed train rear-ended another near Toledo.\n• Microsoft and Alphabet report earnings after the bell.",
-    "generated_at": "2026-10-28T19:33:10.274228+00:00",
+    "text": "• Spain: At least 68 killed when a high-speed train rear-ended another near Toledo.\n• Israel: Votes are still being counted, but neither Netanyahu's coalition nor Eisenkot's opposition alliance looks likely to get a majority.\n• Fed held rates steady, with two dissenters favoring a hike; oil rose on reports the U.S. told Gulf states to prepare for Iran strikes after midterms.\n• Flávio Bolsonaro landed in Miami after fleeing Brazil via Argentina, following a passport cancellation tied to an investigation.",
+    "generated_at": "2026-10-28T20:03:43.215632+00:00",
     "window_minutes": 60,
-    "item_count": 15,
-    "key": "31f1f61f774bd7cd86b1cd4246b977169fcd2ffa",
+    "item_count": 14,
+    "key": "400d3230d23f7ffbb679fa792b0a59fad6769c60",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "108470267",
+      "title": "Microsoft earnings are out – here are the numbers",
+      "published": "2026-10-28T20:03:01+00:00",
+      "author": null,
+      "description": "Microsoft earnings are out – here are the numbers.",
+      "link": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108471082-1793137958265-gettyimages-2300588268-AFP_D3UD8G4.jpeg?v=1793138226&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-rescue-victims.html",
+      "title": "Spain Train Crash Kills at Least 68",
+      "published": "2026-10-28T19:56:21+00:00",
+      "author": "Jason Horowitz, José Bautista and Carlos Barragán",
+      "description": "The accident, the second in less than a year on the same busy rail line, was one of the deadliest in the country’s history.",
+      "link": "https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-rescue-victims.html",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28int-spain-train-2-gbkt/28int-spain-train-2-gbkt-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-government-formation-negotiation.html",
+      "title": "Israel’s Parties Gird for Wrangling to Form a Government, With No Clear Path",
+      "published": "2026-10-28T19:51:49+00:00",
+      "author": "Isabel Kershner, Johnatan Reiss, Aaron Boxerman, Qasim Nauman and Michael Levenson",
+      "description": "Votes are still being counted, but it appears that neither Prime Minister Benjamin Netanyahu’s right-wing coalition nor the opposition alliance headed by Gadi Eisenkot will have a majority.",
+      "link": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-government-formation-negotiation.html",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28int-israel-ledeall-1-kzpm/28int-israel-ledeall-1-kzpm-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.theguardian.com/australia-news/live/2026/oct/29/labor-treasurer-jim-chalmers-social-media-anthony-albanese-coalition-one-nation-ntwnfb",
+      "title": "Politics live: Chalmers calls social media a ‘business model for hate’; half of young Australians say US a ‘threat’",
+      "published": "2026-10-28T19:49:50+00:00",
+      "author": "Martin Farrer",
+      "description": "Get our breaking news email , free app or daily news podcast Good morning and welcome to our live news blog. I’m Martin Farrer with the top overnight stories and then it’ll be Kat Wong with the main action. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/live/2026/oct/29/labor-treasurer-jim-chalmers-social-media-anthony-albanese-coalition-one-nation-ntwnfb",
+      "image": "https://i.guim.co.uk/img/media/cefd634801ed20a2fd859adc3450e51aa4b71a77/642_0_6340_5072/master/6340.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=6527b4cbe95feb16cf6d2e6e03b7c76e",
+      "feed_name": "The Guardian",
+      "feed_title": "World news | The Guardian",
+      "category": "World News",
+      "feed_url": "https://www.theguardian.com/world/rss",
+      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
+    {
+      "id": "108474730",
+      "title": "Fed holds rates steady despite concerns over inflation",
+      "published": "2026-10-28T19:43:48+00:00",
+      "author": null,
+      "description": "Two of the 12 Federal Open Market Committee voters dissented from the decision. Both wanted to raise rates by a quarter percentage point.",
+      "link": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108363932-1789584332291-gettyimages-2295621873-ah700023_zxearqrl.jpeg?v=1789584398&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
     {
       "id": "108470622",
       "title": "Looking for yield? This could be one of the best times in recent market history to buy corporate bonds",
@@ -24,6 +94,20 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/science/nature/community-in-south-australia-fights-to-protect-dark-sky-reserve-from-proposed-data-centre-development/articleshow/135261957.cms",
+      "title": "A community in South Australia’s first dark-sky reserve is opposing a proposed hyperscale data centre; residents fear the development could change the rural landscape and threaten the darkness that draws visitors",
+      "published": "2026-10-28T19:28:00+00:00",
+      "author": "TOI Lifestyle Desk",
+      "description": "Residents of Tungkillo, South Australia, are concerned about a proposed data centre that could disrupt their dark-sky reserve. The development may introduce light and noise pollution that affects the rural landscape. Community members believe preserving their unique nighttime environment is crucial for stargazing and natural experiences. The project's economic benefits are being weighed against potential environmental impacts. Ongoing discussions will determine the future of digital infrastruct…",
+      "link": "https://timesofindia.indiatimes.com/science/nature/community-in-south-australia-fights-to-protect-dark-sky-reserve-from-proposed-data-centre-development/articleshow/135261957.cms",
+      "image": "https://static.toiimg.com/photo/msid-135262502,imgsize-1267049.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
       "id": "108472655",
@@ -52,20 +136,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "108474730",
-      "title": "Fed holds rates steady despite concerns over inflation",
-      "published": "2026-10-28T19:22:30+00:00",
-      "author": null,
-      "description": "Two of the 12 Federal Open Market Committee voters dissented from the decision. Both wanted to raise rates by a quarter percentage point.",
-      "link": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108363932-1789584332291-gettyimages-2295621873-ah700023_zxearqrl.jpeg?v=1789584398&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
       "id": "https://timesofindia.indiatimes.com/real-estate/news/vitamin-shoppe-founder-jeffrey-horowitz-assembled-a-3-5-acre-hamptons-estate-for-about-2-7-million-in-the-1990s-and-built-a-private-nine-hole-golf-course-after-seeking-125-million-he-is-now-asking-79-million/articleshow/135229607.cms",
@@ -108,20 +178,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "108470267",
-      "title": "Microsoft will post earnings after the bell amid job cuts and new cash-flow test",
-      "published": "2026-10-28T19:19:38+00:00",
-      "author": null,
-      "description": "Microsoft will report Azure revenue in dollars for the first time as it spends heavily to expand artificial intelligence infrastructure capacity.",
-      "link": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108471082-1793137958265-gettyimages-2300588268-AFP_D3UD8G4.jpeg?v=1793138226&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
       "id": "https://www.nytimes.com/live/2026/10/28/world/spain-train-crash-toledo",
@@ -180,6 +236,20 @@
       "feed_icon": "https://www.redditstatic.com/icon.png/"
     },
     {
+      "id": "t3_1xhwvy4",
+      "title": "Poland and UK sign Warsaw Defence Plan to “deter Russian threats”",
+      "published": "2026-10-28T18:51:18+00:00",
+      "author": "/u/sr_local",
+      "description": "submitted by /u/sr_local [link] [comments]",
+      "link": "https://www.reddit.com/r/worldnews/comments/1xhwvy4/poland_and_uk_sign_warsaw_defence_plan_to_deter/",
+      "image": "https://external-preview.redd.it/QWAolhWJcAfLA__A3adMNcr6gWzxuLRKHNuJazhUcG8.jpeg?width=640&crop=smart&auto=webp&s=6a78c81634d1e63e0994889563d29717166798d3",
+      "feed_name": "World News",
+      "feed_title": "World News",
+      "category": "World News",
+      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
+      "feed_icon": "https://www.redditstatic.com/icon.png/"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/videos/ck4g1xe5xny4o#2",
       "title": "How did Flávio Bolsonaro end up in Miami?",
       "published": "2026-10-28T18:51:05+00:00",
@@ -206,6 +276,20 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo#0",
+      "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
+      "published": "2026-10-28T18:42:45+00:00",
+      "author": null,
+      "description": "His arrival in the US ends speculation about his whereabouts after he failed to comply with an order to surrender his passports.",
+      "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c2c/live/4c19c1e0-d2eb-11f1-b441-2b33b063138f.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "https://www.nytimes.com/live/2026/10/28/world/israel-elections/israels-opposition-may-not-be-able-to-form-a-government-but-it-still-could-control-parliament",
@@ -13926,90 +14010,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "t3_1xf2hc4",
-      "title": "Russia Turns Black Sea Into World’s Deadliest Shipping Route as 570 Ships Are Hit",
-      "published": "2026-10-25T13:32:30+00:00",
-      "author": "/u/ArgentineBeauty",
-      "description": "submitted by /u/ArgentineBeauty [link] [comments]",
-      "link": "https://www.reddit.com/r/worldnews/comments/1xf2hc4/russia_turns_black_sea_into_worlds_deadliest/",
-      "image": "https://external-preview.redd.it/NaFkWpLJ8hZg-t2KolMmpQ-Ed2pLSzP0dGOOkpIhXh8.jpeg?width=640&crop=smart&auto=webp&s=7ff499e9200970287de22fd34deb21fca876474f",
-      "feed_name": "World News",
-      "feed_title": "World News",
-      "category": "World News",
-      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
-      "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "CBMinwFBVV95cUxQUXVwdFpORWtWdWgzWjR5OW91aktPQmNnc0k1WlBKdm1xdUpJejJaREVaOFRoX1JsZnRjYXktTkhBZzJlV18zMVp3TWlGLVFkM3hfMDc1RWVMZnp2UEtCMXNlT19fSDJ2RFFIcVo3RW51d3l2ZEpuVFJwTWN4VWZKenE0dHp4aTM3eFFQSzM2elJyVTRnRDNVRkVjTnF3MWc",
-      "title": "12 injured, including several minors, in shooting near Florida A&M stadium - NBC News",
-      "published": "2026-10-25T13:28:00+00:00",
-      "author": null,
-      "description": "12 injured, including several minors, in shooting near Florida A&M stadium NBC News 5 victims released from hospital after Florida A&M University shooting, 1 remains critical Fox News 11-year-old, other minors among 11 shot near Florida university stadium CNN 11 shot in mass shooting after Florida A&M homecoming game USA Today Florida political candidates react to the shooting of 11 people in Tallahassee Miami Herald",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUXVwdFpORWtWdWgzWjR5OW91aktPQmNnc0k1WlBKdm1xdUpJejJaREVaOFRoX1JsZnRjYXktTkhBZzJlV18zMVp3TWlGLVFkM3hfMDc1RWVMZnp2UEtCMXNlT19fSDJ2RFFIcVo3RW51d3l2ZEpuVFJwTWN4VWZKenE0dHp4aTM3eFFQSzM2elJyVTRnRDNVRkVjTnF3MWc?oc=5",
-      "image": null,
-      "feed_name": "Google News",
-      "feed_title": "Top stories - Google News",
-      "category": "World News",
-      "feed_url": "https://news.google.com/rss",
-      "feed_icon": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w256"
-    },
-    {
-      "id": "CBMinAFBVV95cUxNV3l2MWFnejhIb1VWRF9yRUg0LTM2T1ROcUxiZWl6MEpXa20yR0pHVEo3SmZYMlBlRXhvRTRUVVE5M0prWHFxaWQxY0FXM0NTY09Ya0M5amZ2Mk5XQ1VCUnJOUFlLQzNRMHoxTWgwWW84Y2RHSVdZa2F6VHpoTVRZcUE5Wi1PSXJjT1psNDF5Tm02aUdPb2J6SXR4eTA",
-      "title": "Israeli election to test Benjamin Netanyahu's ability to hold power - CBS News",
-      "published": "2026-10-25T13:27:00+00:00",
-      "author": null,
-      "description": "Israeli election to test Benjamin Netanyahu's ability to hold power CBS News How Israel's Election Could Unfold The New York Times Israel is holding its most important election in years. Here’s what’s at stake CNN Tens of thousands of Israelis living abroad are expected to fly in for pivotal vote AP News Disenchanted Netanyahu supporters are prize of Israel election campaign Reuters",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV3l2MWFnejhIb1VWRF9yRUg0LTM2T1ROcUxiZWl6MEpXa20yR0pHVEo3SmZYMlBlRXhvRTRUVVE5M0prWHFxaWQxY0FXM0NTY09Ya0M5amZ2Mk5XQ1VCUnJOUFlLQzNRMHoxTWgwWW84Y2RHSVdZa2F6VHpoTVRZcUE5Wi1PSXJjT1psNDF5Tm02aUdPb2J6SXR4eTA?oc=5",
-      "image": null,
-      "feed_name": "Google News",
-      "feed_title": "Top stories - Google News",
-      "category": "World News",
-      "feed_url": "https://news.google.com/rss",
-      "feed_icon": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w256"
-    },
-    {
-      "id": "CBMijAFBVV95cUxPU2VWZ1Q5ZG15RzFnbF8tdl9JUk1XYWZKOGhxOWl0WnEzSGJ4Y2h4bFk0NmNpSnhKOXdqanhkVGhfeUkzeFdhNFBOU1FZaGxqbUxSMmU2V1JCV1owRllVaExxTnAwTFI2TkJXUWp2MmozWXN5eGhJWkZXZmMyMmFaY3ZHVzhocDBNanpDTg",
-      "title": "r/opensource just banned AI, non-English speakers, and more - The Verge",
-      "published": "2026-10-25T13:25:32+00:00",
-      "author": null,
-      "description": "r/opensource just banned AI, non-English speakers, and more The Verge",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPU2VWZ1Q5ZG15RzFnbF8tdl9JUk1XYWZKOGhxOWl0WnEzSGJ4Y2h4bFk0NmNpSnhKOXdqanhkVGhfeUkzeFdhNFBOU1FZaGxqbUxSMmU2V1JCV1owRllVaExxTnAwTFI2TkJXUWp2MmozWXN5eGhJWkZXZmMyMmFaY3ZHVzhocDBNanpDTg?oc=5",
-      "image": null,
-      "feed_name": "Google News",
-      "feed_title": "Top stories - Google News",
-      "category": "World News",
-      "feed_url": "https://news.google.com/rss",
-      "feed_icon": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w256"
-    },
-    {
-      "id": "CBMirwFBVV95cUxQOTNTNTg5NlBaRGZXQ1RtUjltdlpvYkFjMmxBRkZTLWhZVnVZSUFvM3pjTE9PQzE0MGRLbW9zODlwQ00zbWlkb1VObTRPQ2hPa1d2WWtaTVk0QXBhZVJabTVreEI2VW5oYW1ObjVCVmJaMW9lUGN4aXY3Z0tDWl9zVURsS0Frcl9TWTF6ZmhGejBBU2paU2NWSzRPSE9vSjFLY19qYTRSeV9VNlc0Mzk4",
-      "title": "Home sellers are lowering their price and helping buyers to make a deal in a stagnant market - AP News",
-      "published": "2026-10-25T12:59:00+00:00",
-      "author": null,
-      "description": "Home sellers are lowering their price and helping buyers to make a deal in a stagnant market AP News See more headlines & perspectives on Google News",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOTNTNTg5NlBaRGZXQ1RtUjltdlpvYkFjMmxBRkZTLWhZVnVZSUFvM3pjTE9PQzE0MGRLbW9zODlwQ00zbWlkb1VObTRPQ2hPa1d2WWtaTVk0QXBhZVJabTVreEI2VW5oYW1ObjVCVmJaMW9lUGN4aXY3Z0tDWl9zVURsS0Frcl9TWTF6ZmhGejBBU2paU2NWSzRPSE9vSjFLY19qYTRSeV9VNlc0Mzk4?oc=5",
-      "image": null,
-      "feed_name": "Google News",
-      "feed_title": "Top stories - Google News",
-      "category": "World News",
-      "feed_url": "https://news.google.com/rss",
-      "feed_icon": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w256"
-    },
-    {
-      "id": "t3_1xf1q0a",
-      "title": "Cuban ambassadors ask Canada to renew rejection of U.S. embargo and fuel blockade - National | Globalnews.ca",
-      "published": "2026-10-25T12:58:49+00:00",
-      "author": "/u/rachelwales1",
-      "description": "submitted by /u/rachelwales1 [link] [comments]",
-      "link": "https://www.reddit.com/r/worldnews/comments/1xf1q0a/cuban_ambassadors_ask_canada_to_renew_rejection/",
-      "image": "https://external-preview.redd.it/SCb5iSeHiNxqblhPp2PLhy46Q_czBoNcIveLJKa1WYo.jpeg?width=640&crop=smart&auto=webp&s=a76099114a5cbd29e4422d7511ccfb9a8ac58938",
-      "feed_name": "World News",
-      "feed_title": "World News",
-      "category": "World News",
-      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
-      "feed_icon": "https://www.redditstatic.com/icon.png/"
     }
   ]
 }

@@ -1,16 +1,30 @@
 {
   "category": "travel",
-  "updated": "2026-10-28T19:33:10.274228+00:00",
-  "count": 77,
+  "updated": "2026-10-28T20:03:43.215632+00:00",
+  "count": 78,
   "summary": {
-    "text": "• An \"endless\" round-the-world cruise has been suspended, leaving passengers stranded.\n• The cruise was marketed as a lifetime of sailing at a cost lower than living on land.\n• It was reportedly underfunded and could not absorb rising fuel costs.",
-    "generated_at": "2026-10-28T19:02:33.386244+00:00",
+    "text": "• Atlas Obscura highlights the Salle du Jeu de Paume in Versailles, France, a commemoration of a pivotal event in French history, hidden on a small side street a few blocks from the Palace of Versailles.\n• The New York Times reports that an \"endless\" round-the-world cruise has been suspended, leaving passengers stranded.\n• The cruise had promised a lifetime of sailing for less than the cost of living on land, but it was underfunded and could not absorb rising fuel costs.",
+    "generated_at": "2026-10-28T20:03:43.215632+00:00",
     "window_minutes": 60,
-    "item_count": 1,
-    "key": "286b2331270f217849fa6da27f34d69a1659afd2",
+    "item_count": 2,
+    "key": "78003be624911d00703d3a91107588e16c7e3c49",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.atlasobscura.com/places/salle-du-jeu-de-paume",
+      "title": "Salle du Jeu de Paume in Versailles, France",
+      "published": "2026-10-28T20:00:00+00:00",
+      "author": null,
+      "description": "A few blocks from the lavish Palace of Versailles, hidden behind a small side street, you can find a commemoration of one of the most pivotal events in French history. Built so that the cream of the French nobility could have a place to play Jeu de Paume, a precursor to modern tennis, this large wooden room played a very minor role in the life of the nearby palace until the fateful year of 1789. That May, King Louis XVI called together delegates from across France to address the kingdom's econo…",
+      "link": "https://www.atlasobscura.com/places/salle-du-jeu-de-paume",
+      "image": "https://img.atlasobscura.com/DLj4a5L60zgjcF5nP3JtHzBqZ83WWFke5__P3FfOns0/rs:fill:300:200:1/g:ce/c:2760:1840:nowe:595:735/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy80NThh/MjM5MC1kYTU0LTRj/NDYtODA2Ny1mZGU4/YjMwZmZmYjE4YjJj/OTcxOTc0ZDA4ZWRl/ZjNfUFhMXzIwMjYw/OTAyXzEzMDEwNjI0/MS5qcGc.jpg",
+      "feed_name": "Atlas Obscura - Latest Articles and Places",
+      "feed_title": "Atlas Obscura - Latest Articles and Places",
+      "category": "travel",
+      "feed_url": "https://www.atlasobscura.com/feeds/latest",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.atlasobscura.com&sz=64"
+    },
     {
       "id": "https://www.nytimes.com/2026/10/28/travel/endless-cruise-suspended-villa-vie-passengers.html",
       "title": "An ‘Endless’ Cruise Around the World Is Suspended, Leaving Passengers Stranded",
