@@ -1,16 +1,44 @@
 {
   "category": "fashion",
-  "updated": "2026-10-28T11:33:27.846373+00:00",
-  "count": 262,
+  "updated": "2026-10-28T12:03:54.214481+00:00",
+  "count": 264,
   "summary": {
-    "text": "• Prada is reclaiming its status as fashion's hottest brand in Q3 2026, and its top product tops the latest Lyst Index.\n• Who What Wear profiles F1 paddock style, with Lily Muni He and Rebecca Donaldson discussing race-day routines and beauty pit stops.\n• Their highlights include a Sex and the City–inspired vintage Prada skirt and a glossy lip oil.\n• A flat shoe trend that is neither leather nor suede is being styled to make denim look more sophisticated.",
-    "generated_at": "2026-10-28T11:03:47.858881+00:00",
+    "text": "• ELLE reports that stirrup pants are back, with fashion insiders styling them for brunch dates and office looks.\n• Fashionista covers a teen magazine revival: new print titles WYouth and Cuqui champion analog content.\n• Teen Vogue and Seventeen are reaching Gen Z and Gen Alpha online, and the piece suggests mixing print and digital formats may work for teen media.",
+    "generated_at": "2026-10-28T12:03:54.214481+00:00",
     "window_minutes": 60,
-    "item_count": 3,
-    "key": "9aeaa00665e7bdc5b700fa9e78fec1a27187d526",
+    "item_count": 2,
+    "key": "584c224fe8df6042acdf338d134acc9f7a95a763",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "http://www.elle.com/fashion/shopping/a74241905/how-to-style-stirrup-pants-outfits/",
+      "title": "Stirrup Pants Are Back—Here’s How Fashion Girls Are Styling Them",
+      "published": "2026-10-28T12:00:00+00:00",
+      "author": null,
+      "description": "From brunch dates to office looks, here’s how to wear them now.",
+      "link": "https://www.elle.com/fashion/shopping/a74241905/how-to-style-stirrup-pants-outfits/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/bac4dda3-5c4f-47f6-bfac-2375bce4cfb3.jpg?crop=1xw:0.333xh;0xw,0.596xh&resize=1200:*",
+      "feed_name": "Fashion - ELLE",
+      "feed_title": "Fashion - ELLE",
+      "category": "fashion",
+      "feed_url": "https://www.elle.com/rss/fashion.xml/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.elle.com&sz=64"
+    },
+    {
+      "id": "https://fashionista.com/2026/10/teen-magazine-revival",
+      "title": "In the Age of Algorithms, Teen Magazines Are Making a Comeback",
+      "published": "2026-10-28T12:00:00+00:00",
+      "author": "Ana Beatriz Reitz Gameiro",
+      "description": "While new print titles like WYouth and Cuqui champion analog content, Teen Vogue and Seventeen meet Zoomers and Gen Alphas where they are: online. Maybe this mix of formats is exactly what teen media has been missing.",
+      "link": "https://fashionista.com/2026/10/teen-magazine-revival",
+      "image": "https://fashionista.com/.image/NTg6MDAwMDAwMDAwODA2MDcy/teen-magazines.png?profile=rss",
+      "feed_name": "Fashionista",
+      "feed_title": "Fashionista Full",
+      "category": "fashion",
+      "feed_url": "https://fashionista.com/.rss/excerpt/",
+      "feed_icon": "https://fashionista.com/site/images/apple-touch-icon.png"
+    },
     {
       "id": "https://fashionista.com/2026/10/lyst-index-q3-2026-top-popular-brands-prada",
       "title": "Prada Reclaims Its Spot as Fashion's Hottest Brand in Q3 2026",

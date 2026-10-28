@@ -1,9 +1,30 @@
 {
   "category": "space",
-  "updated": "2026-10-28T11:33:27.846373+00:00",
-  "count": 123,
-  "summary": null,
+  "updated": "2026-10-28T12:03:54.214481+00:00",
+  "count": 124,
+  "summary": {
+    "text": "• Virgin Galactic will unveil its first Delta-class spaceship on Wednesday, Oct. 28, according to Space.com.\n• The spaceship's name was chosen by public vote and will be revealed at the unveiling.\n• After the reveal, the spacecraft will be transported from Arizona to Spaceport America.",
+    "generated_at": "2026-10-28T12:03:54.214481+00:00",
+    "window_minutes": 60,
+    "item_count": 1,
+    "key": "8d4eaaecbf49fcbd4327205a087642802d8d8081",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "dBZgGCWmqnBqT45FkzF9kD",
+      "title": "Virgin Galactic is finally revealing its new Delta-class spaceship this week",
+      "published": "2026-10-28T12:00:00+00:00",
+      "author": "Josh Dinner",
+      "description": "Virgin Galactic will unveil its first Delta-class spaceship on Wednesday (Oct. 28), revealing a name chosen by public vote before transporting the spacecraft from Arizona to Spaceport America in New Mexico.",
+      "link": "https://www.space.com/space-exploration/private-spaceflight/virgin-galactic-is-finally-revealing-its-new-delta-class-spaceship-this-week",
+      "image": "https://cdn.mos.cms.futurecdn.net/vuFrKMvC6jeb9yBXDmRXhd-1920-80.jpg",
+      "feed_name": "Space.com",
+      "feed_title": "Latest from Space.com",
+      "category": "space",
+      "feed_url": "https://www.space.com/feeds/all",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.space.com&sz=64"
+    },
     {
       "id": "XHrVinFLHrYRHZzj8NuQL7",
       "title": "Black holes can split in two — but only if they spin at extreme speeds",

@@ -1,16 +1,44 @@
 {
   "category": "DIY",
-  "updated": "2026-10-28T11:33:27.846373+00:00",
-  "count": 243,
+  "updated": "2026-10-28T12:03:54.214481+00:00",
+  "count": 245,
   "summary": {
-    "text": "• A 20-year-old free utility handles most of what Logitech Options+ does for a budget mouse, minus one side-button quirk.\n• A free Android app offers voice typing features Google reserves for $800 phones, and three new Android Auto features have been highlighted.\n• Claude is described as security software that can detect a problem before you download a program.\n• One writer switched from Google Forms to Microsoft Forms after Excel pulled them toward it.",
-    "generated_at": "2026-10-28T11:03:47.858881+00:00",
+    "text": "• Travel router: a pocket-sized $20 gadget creates a private Wi-Fi network with a firewall and lets all your devices share one connection, fixing hotel or coffee shop Wi-Fi problems.\n• Linux apps: one writer switched from Flathub to a Linux app store that excludes AI-generated (\"AI slop\") apps.\n• PDF software: a free PDF app has replaced all other PDF tools on one PC, according to its user.\n• Retro PC features: a piece suggests four old computer features worth bringing back to modern PCs.",
+    "generated_at": "2026-10-28T12:03:54.214481+00:00",
     "window_minutes": 60,
-    "item_count": 5,
-    "key": "22bb611e1858806b063e1cf69be84d31acbebaee",
+    "item_count": 4,
+    "key": "8118bfcc626b02031c6e5d8d8fd9de103963b65e",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.makeuseof.com/your-hotel-or-coffee-shop-wi-fi-has-a-problem-and-this-20-gadget-can-fix-it/",
+      "title": "Your hotel or coffee shop Wi-Fi has a problem, and this $20 gadget can fix it",
+      "published": "2026-10-28T12:00:17+00:00",
+      "author": "Jack Mitchell",
+      "description": "A pocket-sized travel router not only creates a private Wi-Fi shield with firewall, but allows me to connect all my devices to a single network.",
+      "link": "https://www.makeuseof.com/your-hotel-or-coffee-shop-wi-fi-has-a-problem-and-this-20-gadget-can-fix-it/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/tp-link-travel-router-in-front-laptop.png",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/i-switched-from-flathub-to-a-linux-app-store-that-doesnt-allow-ai-slop/",
+      "title": "I switched from Flathub to a Linux app store that doesn't allow AI slop",
+      "published": "2026-10-28T12:00:16+00:00",
+      "author": "Arol Wright",
+      "description": "It's not that I hate vibecoding. But...",
+      "link": "https://www.howtogeek.com/i-switched-from-flathub-to-a-linux-app-store-that-doesnt-allow-ai-slop/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/monitor-photo-of-ubuntu-26-10-running-fastfetch-in-a-terminal-showing-linux-kernel-7-3-and-gnome-51.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/pdfgear-free-pdf-editor-windows/",
       "title": "I deleted every other PDF app on my PC after trying this free one",
