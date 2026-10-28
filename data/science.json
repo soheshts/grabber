@@ -1,16 +1,44 @@
 {
   "category": "science",
-  "updated": "2026-10-28T01:32:20.237726+00:00",
-  "count": 557,
+  "updated": "2026-10-28T02:02:37.220870+00:00",
+  "count": 559,
   "summary": {
-    "text": "• Climate risks are growing: a strong El Niño could cut rainfall by up to 80% in parts of Latin America and the Caribbean, while torrential rain brings flooding and landslides. A Lancet Countdown report finds many climate health harms grew faster in the decade since the Paris Agreement, prompting calls for a global health emergency.\n• Northwestern research suggests NFL injuries matter less than assumed, except for highly paid quarterbacks.\n• Nine in 10 major transportation projects go over budget, not always from incompetence.",
-    "generated_at": "2026-10-28T01:03:44.715563+00:00",
+    "text": "• Invasive brambles have spread across South Africa since the early 1900s, and researchers are nearing a natural enemy to manage them.\n• Some frogs in Central and South American highlands have escaped a deadly fungus driving amphibian extinctions, though 41% of species remain threatened.\n• The EPA has loosened Biden-era methane rules for oil firms, a major driver of climate change.\n• A probable new dwarf planet, 2026 ED138, was spotted beyond Pluto by Chile's Vera C. Rubin Observatory.",
+    "generated_at": "2026-10-28T02:02:37.220870+00:00",
     "window_minutes": 60,
     "item_count": 5,
-    "key": "be0ad28f2690114bce13961d9769901ee4a29966",
+    "key": "c0d6f947738e8ed395bc898f4cf5d267623cf16d",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "news712323204",
+      "title": "Brambles are a problem weed in South Africa, but researchers are closer to finding a natural enemy to manage them",
+      "published": "2026-10-28T02:00:01+00:00",
+      "author": null,
+      "description": "Invasive alien brambles have been spreading across South Africa since the early 1900s, having come from North America and Europe. All brambles fall within the genus Rubus. Their common names in South Africa are braam (Afrikaans), ijingijolo (isiZulu) and monoko-metsi (seSotho).",
+      "link": "https://phys.org/news/2026-10-brambles-problem-weed-south-africa.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rubus.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "news712315058",
+      "title": "Researchers produce urea in the field using system powered by biobatteries and solar energy",
+      "published": "2026-10-28T01:40:01+00:00",
+      "author": null,
+      "description": "The CONFETI project, coordinated by the Universitat Autònoma de Barcelona (UAB), has concluded three years of research with the commissioning of a pilot system capable of producing urea, a nitrogen fertilizer widely used in agriculture, directly in the field using renewable energy. This fertilizer is produced from carbon dioxide (CO₂) and nitrates in an electrochemical reactor powered by energy from biobatteries and solar panels.",
+      "link": "https://phys.org/news/2026-10-urea-field-powered-biobatteries-solar.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/crops-4.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
     {
       "id": "news712322542",
       "title": "Researchers discover why some frogs have escaped the current amphibian mass extinction",

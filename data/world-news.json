@@ -1,36 +1,22 @@
 {
   "category": "World News",
-  "updated": "2026-10-28T01:32:20.237726+00:00",
-  "count": 919,
+  "updated": "2026-10-28T02:02:37.220870+00:00",
+  "count": 924,
   "summary": {
-    "text": "• Israel's exit polls show no clear winner. Gadi Eisenkot's bloc seeks to unseat Netanyahu, turnout hit records, and Arab parties may shape the next government.\n• Australia's inflation rose to 4.3%, fueling fears of a fifth rate hike before next week's RBA decision.\n• Flávio Bolsonaro left Brazil for the U.S. after his election defeat.\n• SK Hynix's third-quarter profit sharply beat estimates on AI memory demand.\n• King Charles will discuss slavery's legacy with Commonwealth leaders.",
-    "generated_at": "2026-10-28T01:03:44.715563+00:00",
+    "text": "• Israel's election exit polls show no clear winner, with Netanyahu fighting for a tie. Both he and Eisenkot claim confidence, and final results are due within 48 hours.\n• Australia's inflation rose to 4.3%, fuelling fears of a fifth rate hike this year. The case against the alleged Bondi terrorist, charged with 78 offences, was adjourned to February.\n• Sheikh Hasina accuses Bangladesh's government of \"mass arrests\" and \"torture.\"\n• SK Hynix shares rose over 8% after third-quarter profit beat estimates, and the chipmaker will return $25 billion to investors.",
+    "generated_at": "2026-10-28T02:02:37.220870+00:00",
     "window_minutes": 60,
-    "item_count": 12,
-    "key": "22c97f047c3a88084ae541c23eea6523414c1eb6",
+    "item_count": 11,
+    "key": "4b33b78f6d12ace0c89d18866fb75324cea54371",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
     {
-      "id": "108464173",
-      "title": "SK Hynix announces over $25 billion in dividends and buyback as third-quarter profit beats estimates",
-      "published": "2026-10-28T01:25:18+00:00",
-      "author": null,
-      "description": "South Korean chipmaker SK Hynix on Wednesday announces over 25 billion in dividends and buyback as third-quarter profit sharply beats estimates.",
-      "link": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108333293-1783682220679-gettyimages-2283571654-SKOREA_SK_HYNIX.jpeg?v=1783682246&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
       "id": "https://www.nytimes.com/live/2026/10/27/world/israel-elections",
-      "title": "Live Updates: Exit Polls Suggest No Clear Winner in Pivotal Israeli Election",
-      "published": "2026-10-28T01:23:08+00:00",
+      "title": "Israel Election Live Updates: Rivals Strike Tone of Triumph, but Outcome Is Far From Clear",
+      "published": "2026-10-28T02:00:15+00:00",
       "author": "The New York Times",
-      "description": "A bloc of parties led by the former military chief Gadi Eisenkot is trying to unseat Prime Minister Benjamin Netanyahu and his right-wing allies. Vote counting continues after a day of strong voter turnout.",
+      "description": "Addressing supporters after midnight, Prime Minister Benjamin Netanyahu and Gadi Eisenkot, who leads a bloc of opposition parties, both expressed confidence that they will lead Israel’s next government. Vote counting could take days.",
       "link": "https://www.nytimes.com/live/2026/10/27/world/israel-elections",
       "image": "https://static01.nyt.com/images/2026/11/25/multimedia/27israel-live-promo9p/25int-israel-election-explainer-promo-gqlj-mediumSquareAt3X.jpg",
       "feed_name": "NYT",
@@ -40,9 +26,37 @@
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
+      "id": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-exit-polls-close.html",
+      "title": "What to Expect Now That Polls Are Closed in Israel",
+      "published": "2026-10-28T02:00:13+00:00",
+      "author": "Liam Stack",
+      "description": "Polls have closed across the country. Exit polls may offer clues about the direction of the voting but not necessarily a clear winner.",
+      "link": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-exit-polls-close.html",
+      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27israel-polls-close-what-now-pklv/27israel-polls-close-what-now-pklv-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "108464173",
+      "title": "SK Hynix shares soar over 8% as profit beats, chipmaker to return $25 billion to investors",
+      "published": "2026-10-28T01:56:59+00:00",
+      "author": null,
+      "description": "Shares of South Korean chipmaker SK Hynix soared over 8% on Wednesday as third-quarter profit sharply beats estimates.",
+      "link": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108333293-1783682220679-gettyimages-2283571654-SKOREA_SK_HYNIX.jpeg?v=1783682246&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
       "id": "https://www.theguardian.com/australia-news/live/2026/oct/28/inflation-abs-labor-anthony-albanese-parliament-greens-david-shoebridge-one-nation-ntwnfb",
       "title": "Politics live: Hanson calls Chalmers and staff ‘hypocrites’; RBA governor says more pain needed to control inflation",
-      "published": "2026-10-28T01:21:50+00:00",
+      "published": "2026-10-28T01:49:55+00:00",
       "author": "Kat Wong",
       "description": "Get our breaking news email , free app or daily news podcast Online hate is spilling into the real world, AFP warns AFP Commissioner Krissy Barrett began her late-night appearance at the Senate estimates hearing noting “a heaviness that hangs across Australia” after the alleged attack on independent MP Helen Haines . Lone actors are being motivated by a convergence of personal grievances, mental health vulnerabilities and ideological concerns … What helped keep us safe in recent times, such as…",
       "link": "https://www.theguardian.com/australia-news/live/2026/oct/28/inflation-abs-labor-anthony-albanese-parliament-greens-david-shoebridge-one-nation-ntwnfb",
@@ -54,11 +68,39 @@
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
     },
     {
+      "id": "https://www.ndtv.com/world-news/no-clear-winner-in-israel-with-netanyahu-fighting-for-a-tie-exit-polls-show-12245942#publisher=newsstand",
+      "title": "No Clear Winner In Israel With Netanyahu Fighting For A Tie, Exit Polls Show",
+      "published": "2026-10-28T01:38:30+00:00",
+      "author": null,
+      "description": "Final results are expected over the next 48 hours",
+      "link": "https://www.ndtv.com/world-news/no-clear-winner-in-israel-with-netanyahu-fighting-for-a-tie-exit-polls-show-12245942#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-10/le2h4hoc_benjamin-netanyahu-gadi-eisenkot-afp_625x300_28_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/sheikh-hasina-accuses-bangladesh-government-of-conducting-mass-arrests-torture-12245947#publisher=newsstand",
+      "title": "Sheikh Hasina Accuses Bangladesh Government Of Conducting \"Mass Arrests\", \"Torture\"",
+      "published": "2026-10-28T01:19:34+00:00",
+      "author": null,
+      "description": "Hasina said the people of Bangladesh need to be \"guaranteed their basic rights and legal protection.\"",
+      "link": "https://www.ndtv.com/world-news/sheikh-hasina-accuses-bangladesh-government-of-conducting-mass-arrests-torture-12245947#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-06/37ivco94_sheikh-hasina_625x300_28_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
       "id": "https://www.theguardian.com/australia-news/2026/oct/28/criminal-case-against-alleged-bondi-guman-delayed-amid-unprecedented-investigation-ntwnfb",
       "title": "Criminal case against alleged Bondi terrorist delayed amid ‘unprecedented’ investigation",
       "published": "2026-10-28T01:18:39+00:00",
       "author": "Jordyn Beazley",
-      "description": "Naveed Akram, 24, has been charged with 78 offences after allegedly committing a terrorist act. The case has been adjourned until February The criminal case against Naveed Akram for his alleged role in the Bondi terror attack faces more delays after an “unprecedented” investigation by the joint counterterrorism team. The matter will not return to court until 24 February after it was adjourned on Wednesday before Sydney’s Downing centre local court. Prosecutors expect to be ready to certify the…",
+      "description": "Naveed Akram, 24, has been charged with 78 offences after allegedly committing a terrorist act. The case has been adjourned until February Follow our Australian politics live blog for latest updates Get our breaking news email , free app or daily news podcast The criminal case against Naveed Akram for his alleged role in the Bondi terror attack faces more delays after an “unprecedented” investigation by the joint counter-terrorism team. The matter will not return to court until 24 February afte…",
       "link": "https://www.theguardian.com/australia-news/2026/oct/28/criminal-case-against-alleged-bondi-guman-delayed-amid-unprecedented-investigation-ntwnfb",
       "image": "https://i.guim.co.uk/img/media/bf81a51067f0d230d8e907a4fee782a92c2cc445/77_0_3099_2480/master/3099.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1a26b37bd4824f58e467fd89a3521cef",
       "feed_name": "The Guardian",
@@ -66,6 +108,34 @@
       "category": "World News",
       "feed_url": "https://www.theguardian.com/world/rss",
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/israel-election-results-live-updates-exit-polls-netanyahu-opposition-knesset-gadi-eisenkot-trump-12245676#publisher=newsstand",
+      "title": "Israel Election Results Live: Israel Exit Polls Signal Setback For Netanyahu, Coalition Talks Loom",
+      "published": "2026-10-28T01:15:23+00:00",
+      "author": null,
+      "description": "Israel Election Results Live: It is the first election since the October 7 attack.",
+      "link": "https://www.ndtv.com/world-news/israel-election-results-live-updates-exit-polls-netanyahu-opposition-knesset-gadi-eisenkot-trump-12245676#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-10/4cs30pt4_israel_625x300_28_October_26.jpeg",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/climate-change-must-be-declared-global-health-emergency-report-12245937#publisher=newsstand",
+      "title": "Climate Change Must Be Declared \"Global Health Emergency\": Report",
+      "published": "2026-10-28T01:11:54+00:00",
+      "author": null,
+      "description": "According to the report, there were a record 710,000 heat-related deaths in 2023.",
+      "link": "https://www.ndtv.com/world-news/climate-change-must-be-declared-global-health-emergency-report-12245937#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-01/rsvv6vn8_climate-change_625x300_20_January_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/rest-of-world/russian-satellites-helping-irans-allies-strike-saudi-officials/articleshow/135248751.cms",
@@ -94,6 +164,20 @@
       "category": "World News",
       "feed_url": "https://www.theguardian.com/world/rss",
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/flavio-bolsonaro-lands-in-us-after-losing-brazil-election-reports-12245887#publisher=newsstand",
+      "title": "Flavio Bolsonaro Flees To US After Losing Brazil Election",
+      "published": "2026-10-28T01:01:24+00:00",
+      "author": null,
+      "description": "Flavio Bolsonaro lost Sunday's presidential runoff election.",
+      "link": "https://www.ndtv.com/world-news/flavio-bolsonaro-lands-in-us-after-losing-brazil-election-reports-12245887#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-10/5f1d0o9k_flavio-bolsonaro-_625x300_28_October_26.jpeg",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
       "id": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-arab-parties.html",
@@ -178,6 +262,20 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/netanyahu-rival-gadi-eisenkot-hopes-to-form-government-as-opposition-gains-ground-12245878#publisher=newsstand",
+      "title": "Netanyahu Rival Gadi Eisenkot Hopes To Form Government As Opposition Gains Ground",
+      "published": "2026-10-28T00:08:31+00:00",
+      "author": null,
+      "description": "\"The people have spoken against the continuation of Netanyahu's rule,\" Eisenkot said.",
+      "link": "https://www.ndtv.com/world-news/netanyahu-rival-gadi-eisenkot-hopes-to-form-government-as-opposition-gains-ground-12245878#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-10/o8n7plqc_-gadi-eisenkot_625x300_28_October_26.jpeg",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
       "id": "https://www.theguardian.com/world/2026/oct/28/king-charles-confirms-he-will-discuss-legacy-of-slavery-at-commonwealth-summit",
@@ -503,7 +601,7 @@
     },
     {
       "id": "https://www.ndtv.com/world-news/israel-opposition-holds-narrow-edge-over-netanyahus-party-shows-first-exit-polls-12245652#publisher=newsstand",
-      "title": "Netanyahu Lacks Majority, Israel Opposition Has Edge, Shows 1st Exit Polls",
+      "title": "Netanyahu Lacks Majority, Israel Opposition Has Edge, Show 1st Exit Polls",
       "published": "2026-10-27T21:34:19+00:00",
       "author": null,
       "description": "Israeli voters on Tuesday gave a narrow edge to opposition parties over PM Benjamin Netanyahu.",
@@ -656,20 +754,6 @@
       "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
-      "id": "https://www.ndtv.com/world-news/israel-election-results-live-updates-exit-polls-netanyahu-opposition-knesset-gadi-eisenkot-trump-12245676#publisher=newsstand",
-      "title": "Israel Election Results Live: Opposition Leader Lapid Says Netanyahu Suffered 'Crushing Defeat'",
-      "published": "2026-10-27T21:05:31+00:00",
-      "author": null,
-      "description": "Israel Election Results Live: It is the first election since the October 7 attack.",
-      "link": "https://www.ndtv.com/world-news/israel-election-results-live-updates-exit-polls-netanyahu-opposition-knesset-gadi-eisenkot-trump-12245676#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2019-09/3pt3goso_benjamin-netanyahu-reuters_625x300_20_September_19.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
       "id": "https://www.nytimes.com/2026/10/27/world/asia/korea-tensions-border-dmz-mdl.html",
       "title": "Tensions Between North and South Korea Stem From Decade-Old Border Dispute",
       "published": "2026-10-27T21:00:08+00:00",
@@ -752,20 +836,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-exit-polls-close.html",
-      "title": "What to Expect Now That Polls Are Closed in Israel",
-      "published": "2026-10-27T20:35:27+00:00",
-      "author": "Liam Stack",
-      "description": "Polls have closed across the country. Exits polls may offer clues about the direction of the voting but not necessarily a clear winner.",
-      "link": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-exit-polls-close.html",
-      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27israel-polls-close-what-now-pklv/27israel-polls-close-what-now-pklv-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "t3_1xh3zdq",
