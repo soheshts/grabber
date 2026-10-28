@@ -1,16 +1,58 @@
 {
   "category": "fashion",
-  "updated": "2026-10-28T16:33:13.225767+00:00",
-  "count": 279,
+  "updated": "2026-10-28T17:03:28.240830+00:00",
+  "count": 280,
   "summary": {
-    "text": "• Victorian style is trending: ELLE praises the look, and the new comedy-drama \"Misty Green\" revives old celebrity style with corsets and jewelry.\n• Fall/Winter 2026 campaigns are rolling out, with ELLE highlighting standouts so far.\n• Industry moves: Pieter Mulier makes his Versace debut in January, and Carlos Nazario is named Wonderland's editor-in-chief.\n• Other news: Ugg opened a Williamsburg store, Jen Atkin shared her big break, SC103 showcases garments that show their seams, and \"The Gilded Age\" cast held a party at the Plaza.",
-    "generated_at": "2026-10-28T16:33:13.225767+00:00",
+    "text": "• Foundation, a beauty PR firm, is recruiting PR and influencer marketing interns in NYC and LA.\n• ELLE says Victorian fashion is trending, with everyone wanting to dress like it's 1890.\n• ELLE also rounds up standout Fall/Winter 2026 fashion campaigns so far.\n• Hairstylist Jen Atkin shares how she landed her big break.\n• NYT Style marks 50 years of Anne Rice's \"Interview With the Vampire.\"",
+    "generated_at": "2026-10-28T17:03:28.240830+00:00",
     "window_minutes": 60,
-    "item_count": 8,
-    "key": "b67b0e430d9ed341fbf8f6a2995ebcc0688ccbf2",
+    "item_count": 6,
+    "key": "527f30edbe9488a5355b8f9e6b3dbe1c3aa50c60",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://fashionista.com/2026/10/foundation-is-seeking-beauty-pr-interns-influencer-marketing-interns-in-nyc-la",
+      "title": "Foundation Is Seeking Beauty PR Interns & Influencer Marketing Interns In NYC + LA",
+      "published": "2026-10-28T16:52:42+00:00",
+      "author": "Winnie Liu",
+      "description": "Calling all beauty-obsessed intern candidates! Foundation, voted “Best Beauty PR Firm” by the PR Next Gen Awards, is looking for bright, digitally-savvy, motivated Beauty PR Interns and Influencer Marketing Interns to join our dynamic team at our New York and LA offices for the Spring 2027 semester.",
+      "link": "https://fashionista.com/2026/10/foundation-is-seeking-beauty-pr-interns-influencer-marketing-interns-in-nyc-la",
+      "image": "https://fashionista.com/.image/MTgxMjk5MTQ1ODA4NTUzMDYz/pexels-pixabay-woman-1281830_1920.jpg?profile=rss&x=49&y=39",
+      "feed_name": "Fashionista",
+      "feed_title": "Fashionista Full",
+      "category": "fashion",
+      "feed_url": "https://fashionista.com/.rss/excerpt/",
+      "feed_icon": "https://fashionista.com/site/images/apple-touch-icon.png"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/27/style/gilded-age-party-nyc-plaza-hotel.html",
+      "title": "Before the Plaza’s Glow-Up, One More ‘Gilded’ Party",
+      "published": "2026-10-28T16:45:55+00:00",
+      "author": "Sarah Bahr, Ye Fan and Chevaz Clarke-Williams",
+      "description": "Cast members from HBO’s “The Gilded Age” snacked on cheese tortelloni and duck shawarma and had their portraits sketched at the Plaza Hotel on Monday night.",
+      "link": "https://www.nytimes.com/2026/10/27/style/gilded-age-party-nyc-plaza-hotel.html",
+      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/ST-GILDEDAGE-PARTY-01-thlw/ST-GILDEDAGE-PARTY-01-thlw-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Style",
+      "feed_title": "NYT > Style",
+      "category": "fashion",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/28/style/new-orleans-anne-rice-interview-with-vampire.html",
+      "title": "New Orleans’s Legacy of Death and Rebirth Helped Shaped Anne Rice’s Imagination",
+      "published": "2026-10-28T16:34:52+00:00",
+      "author": "Shannon Sims and Annie Flanagan",
+      "description": "The Big Easy celebrates the 50th anniversary of ‘Interview With the Vampire,’ the first novel by Anne Rice, whose hometown served as her greatest muse.",
+      "link": "https://www.nytimes.com/2026/10/28/style/new-orleans-anne-rice-interview-with-vampire.html",
+      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/28NOLAS-ANNERICE-17-zcgl/28NOLAS-ANNERICE-17-zcgl-mediumSquareAt3X-v3.jpg",
+      "feed_name": "NYT > Style",
+      "feed_title": "NYT > Style",
+      "category": "fashion",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "http://www.elle.com/fashion/trend-reports/a74265449/victorian-fashion-trend-fall-2026/",
       "title": "In Praise of Victorian Fashion",
@@ -38,20 +80,6 @@
       "category": "fashion",
       "feed_url": "https://www.elle.com/rss/fashion.xml/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.elle.com&sz=64"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/10/27/style/gilded-age-party-nyc-plaza-hotel.html",
-      "title": "Before the Plaza’s Glow-Up, One More ‘Gilded’ Party",
-      "published": "2026-10-28T16:12:10+00:00",
-      "author": "Sarah Bahr, Ye Fan and Chevaz Clarke-Williams",
-      "description": "Cast members from HBO’s “The Gilded Age” snacked on cheese tortelloni and duck shawarma and had their portraits sketched at the Plaza Hotel on Monday night.",
-      "link": "https://www.nytimes.com/2026/10/27/style/gilded-age-party-nyc-plaza-hotel.html",
-      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/ST-GILDEDAGE-PARTY-01-thlw/ST-GILDEDAGE-PARTY-01-thlw-mediumSquareAt3X.jpg",
-      "feed_name": "NYT > Style",
-      "feed_title": "NYT > Style",
-      "category": "fashion",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "Jxhdvv85VQWeFAr2X6DrA7",
@@ -166,22 +194,8 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.whowhatwear.com&sz=64"
     },
     {
-      "id": "https://www.nytimes.com/2026/10/28/style/new-orleans-anne-rice-interview-with-vampire.html",
-      "title": "New Orleans’s Legacy of Death and Rebirth Helped Shaped Anne Rice’s Imagination",
-      "published": "2026-10-28T13:41:32+00:00",
-      "author": "Shannon Sims and Annie Flanagan",
-      "description": "The Big Easy celebrates the 50th anniversary of ‘Interview With the Vampire,’ the first novel by Anne Rice, whose hometown served as her greatest muse.",
-      "link": "https://www.nytimes.com/2026/10/28/style/new-orleans-anne-rice-interview-with-vampire.html",
-      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/28NOLAS-ANNERICE-17-zcgl/28NOLAS-ANNERICE-17-zcgl-mediumSquareAt3X-v3.jpg",
-      "feed_name": "NYT > Style",
-      "feed_title": "NYT > Style",
-      "category": "fashion",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
       "id": "UqSVt5KU4zZrggT6SQq4z3",
-      "title": "This “Dated” Trainer Trend Just Received Fashion’s Highest Honour—Here’s Why Everyone Is Wearing It Again in 2026",
+      "title": "This \"Dated\" Trainer Trend Just Received Fashion’s Highest Honour—Here’s Why Everyone Is Wearing It Again in 2026",
       "published": "2026-10-28T13:29:36+00:00",
       "author": "Natalie Munro",
       "description": "Time to dig them out.",
@@ -251,7 +265,7 @@
     },
     {
       "id": "nk2ceQqVuiakXZ9CSJQCDG",
-      "title": "I’ve Found Them—The Exact Nail Polish Shades Kendall and Kylie Can’t Get Enough Of",
+      "title": "I’ve Found Them: The Exact Nail Polish Shades Kendall and Kylie Can’t Get Enough Of",
       "published": "2026-10-28T12:02:04+00:00",
       "author": "Grace Lindsay",
       "description": "*Adds to basket*",
@@ -321,7 +335,7 @@
     },
     {
       "id": "6dgxvyadRQCP2zYRELBj5Z",
-      "title": "Not Leather, Not Suede—This Flat Shoe Trend Makes Denim Look Even More Sophisticated",
+      "title": "Not Leather, Not Suede—This Flat-Shoe Trend Makes Denim Look Even More Sophisticated",
       "published": "2026-10-28T10:52:59+00:00",
       "author": "Natalie Munro",
       "description": "Supremely chic.",
@@ -335,7 +349,7 @@
     },
     {
       "id": "XPStWrFcsDBBwJZwNUWNui",
-      "title": "I've Found It—This Is the Rich-Looking, Minimalist Handbag I’ll Be Wearing All Winter",
+      "title": "I've Found It: This Is the Rich-Looking, Minimalist Handbag I’ll Be Carrying All Winter",
       "published": "2026-10-28T09:00:00+00:00",
       "author": "Marina Avraam",
       "description": "The perfect accessory.",
@@ -405,7 +419,7 @@
     },
     {
       "id": "2uuSvkd6QdC9FWvhFJMvZU",
-      "title": "I Wouldn’t Say Burgundy Is “Out”, But These 6 Alternative Colour Trends Are Definitely “In”",
+      "title": "I Wouldn’t Say Burgundy Is \"Out\", But These 6 Alternative Colour Trends Are Definitely In",
       "published": "2026-10-28T07:30:00+00:00",
       "author": "Maxine Eggenberger",
       "description": "Chic, chic, chic.",

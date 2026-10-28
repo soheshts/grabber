@@ -1,16 +1,30 @@
 {
   "category": "DIY",
-  "updated": "2026-10-28T16:33:13.225767+00:00",
-  "count": 267,
+  "updated": "2026-10-28T17:03:28.240830+00:00",
+  "count": 268,
   "summary": {
-    "text": "• Windows and Linux tips: One guide explains what Windows \"Reset this PC\" actually keeps, and another shows how to turn Linux terminal apps into one-click desktop launchers and dock icons.\n• Android battery: A post describes changing three Android settings to stop carrying a power bank everywhere by finding where battery drain comes from.\n• Home projects: Five 3D-printed home-improvement designs, including cabinet jigs and junk-drawer bins, are highlighted for rainy-weekend fixes.\n• Smart home and PDFs: Amazon's new Echo Studio adds a built-in camera, which one outlet calls clever but creepy, while another piece covers doing PDF tasks locally in the browser.",
-    "generated_at": "2026-10-28T16:33:13.225767+00:00",
+    "text": "• Android Auto: a How-To Geek piece says four long-standing annoyances have fixes, and the author regrets suffering through them.\n• Windows: an MUO article explains what \"Reset this PC\" actually keeps, which differs from what many users expect.\n• Linux: a How-To Geek guide shows how to turn favorite terminal apps into desktop apps launchable from the app launcher or dock.",
+    "generated_at": "2026-10-28T17:03:28.240830+00:00",
     "window_minutes": 60,
-    "item_count": 6,
-    "key": "29dbe27faa08ea4423e1d8591285f8368ce30d77",
+    "item_count": 3,
+    "key": "b22dd85ae40983131f71a6c11a4276f8b856f12b",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.howtogeek.com/android-auto-problems-i-thought-i-had-to-live-with/",
+      "title": "I thought I had to live with these 4 Android Auto problems (I was wrong)",
+      "published": "2026-10-28T17:00:15+00:00",
+      "author": "Sanya Shah",
+      "description": "I suffered for no good reason.",
+      "link": "https://www.howtogeek.com/android-auto-problems-i-thought-i-had-to-live-with/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/android-auto-gemini-actions-on-phone-and-car.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/windows-reset-options-explained/",
       "title": "I learned what Windows “Reset this PC” actually keeps, and it’s not what I expected",
