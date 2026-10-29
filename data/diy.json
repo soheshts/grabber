@@ -1,9 +1,30 @@
 {
   "category": "DIY",
-  "updated": "2026-10-29T05:02:32.292767+00:00",
-  "count": 298,
-  "summary": null,
+  "updated": "2026-10-29T05:32:12.237721+00:00",
+  "count": 299,
+  "summary": {
+    "text": "• Hackaday's 2026 Retrocomputing Challenge asks builders to create a custom RISC-V processor for a retro system.\n• The item notes that RISC-V is slowly replacing applications that would normally have gone to ARM.\n• Some microcontrollers already run on RISC-V chips, according to the item, which is truncated in the source.",
+    "generated_at": "2026-10-29T05:32:12.237721+00:00",
+    "window_minutes": 60,
+    "item_count": 1,
+    "key": "f47589bf013daf0c3d5dda826a0a17a9b06d9df9",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "https://hackaday.com/?p=1396595",
+      "title": "2026 Retrocomputing Challenge: Custom RISC-V Processor For Retro System",
+      "published": "2026-10-29T05:00:43+00:00",
+      "author": "Bryan Cockfield",
+      "description": "Although once little more than an academic endeavor, the RISC-V architecture is slowly supplanting applications that would have normally gone to ARM. Even a few microcontrollers have chips running this …read more",
+      "link": "https://hackaday.com/2026/10/28/2026-retrocomputing-challenge-custom-risc-v-processor-for-retro-system/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/10/risc-v-gaming-main.png",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://hackaday.com/?p=1143041",
       "title": "Battery Prototype Uses Superextensive Quantum Effects to Charge Faster",
