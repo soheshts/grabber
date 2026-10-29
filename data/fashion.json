@@ -1,9 +1,30 @@
 {
   "category": "fashion",
-  "updated": "2026-10-29T05:32:12.237721+00:00",
-  "count": 293,
-  "summary": null,
+  "updated": "2026-10-29T06:03:15.978335+00:00",
+  "count": 294,
+  "summary": {
+    "text": "• Who What Wear reports that once \"dated\" fashion items are back and better than ever, and are the secret to looking on trend this winter.",
+    "generated_at": "2026-10-29T06:03:15.978335+00:00",
+    "window_minutes": 60,
+    "item_count": 1,
+    "key": "00c9b10ebf5835b7a013dc85d1a70ff211d17904",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "qnHskau42qKS2dyrNxLGHG",
+      "title": "It’s Official—These Once “Dated” Fashion Items Are the Secret to Looking On Trend This Winter",
+      "published": "2026-10-29T05:45:00+00:00",
+      "author": "Ava Gilchrist",
+      "description": "Back and better than ever.",
+      "link": "https://www.whowhatwear.com/fashion/winter/trends-making-a-comeback-winter-2026",
+      "image": "https://cdn.mos.cms.futurecdn.net/RjWSx6S6DUV2wMeqGyVaE4-1920-80.png",
+      "feed_name": "Who What Wear",
+      "feed_title": "Latest from Who What Wear",
+      "category": "fashion",
+      "feed_url": "https://www.whowhatwear.com/rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.whowhatwear.com&sz=64"
+    },
     {
       "id": "https://www.nytimes.com/2026/10/28/style/new-orleans-anne-rice-interview-with-vampire.html",
       "title": "New Orleans’s Legacy of Death and Rebirth Helped Shaped Anne Rice’s Imagination",

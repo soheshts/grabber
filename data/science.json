@@ -1,9 +1,30 @@
 {
   "category": "science",
-  "updated": "2026-10-29T05:32:12.237721+00:00",
+  "updated": "2026-10-29T06:03:15.978335+00:00",
   "count": 699,
-  "summary": null,
+  "summary": {
+    "text": "• The U.S. has restricted trade with BGI, a major Chinese genomics company, blocking shipments to the firm.\n• U.S. officials allege BGI is associated with forced labor and the abuse of minority groups.",
+    "generated_at": "2026-10-29T06:03:15.978335+00:00",
+    "window_minutes": 60,
+    "item_count": 1,
+    "key": "aabf1cfddfbe8710a932bbb08b4200f5ce024c37",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/10/28/business/us-china-biotech-trade-ban.html",
+      "title": "U.S. Restricts Trade With Chinese Genomics Company",
+      "published": "2026-10-29T05:42:37+00:00",
+      "author": "Rebecca Robbins and Ana Swanson",
+      "description": "The move will block shipments from BGI, a major Chinese firm that U.S. officials allege is associated with forced labor and the abuse of minority groups.",
+      "link": "https://www.nytimes.com/2026/10/28/business/us-china-biotech-trade-ban.html",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28biz-biotech-china-mzjw/28biz-biotech-china-mzjw-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Science",
+      "feed_title": "NYT > Science",
+      "category": "science",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "news712385300",
       "title": "End of COVID-era SNAP emergency food assistance linked to increased child maltreatment rates",
@@ -675,20 +696,6 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/10/28/business/us-china-biotech-trade-ban.html",
-      "title": "U.S. Restricts Trade With Chinese Genomics Company",
-      "published": "2026-10-28T17:38:32+00:00",
-      "author": "Rebecca Robbins and Ana Swanson",
-      "description": "The move will block shipments from BGI, a major Chinese firm that U.S. officials allege is associated with forced labor and the abuse of minority groups.",
-      "link": "https://www.nytimes.com/2026/10/28/business/us-china-biotech-trade-ban.html",
-      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28biz-biotech-china-mzjw/28biz-biotech-china-mzjw-mediumSquareAt3X.jpg",
-      "feed_name": "NYT > Science",
-      "feed_title": "NYT > Science",
-      "category": "science",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "news712410781",
