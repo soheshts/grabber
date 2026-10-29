@@ -1,7 +1,7 @@
 {
   "category": "gaming",
-  "updated": "2026-10-29T11:33:32.270483+00:00",
-  "count": 774,
+  "updated": "2026-10-29T12:03:52.839447+00:00",
+  "count": 777,
   "summary": {
     "text": "• Xbox boss Asha Sharma says there is \"more demand than consoles available,\" with console sales \"constrained by supply,\" even as Xbox hardware sales fell 14%.\n• Modern Warfare 4 faces backlash after real footage of the Itaewon crowd crush was found in its opening moments. Bereaved families and a citizens' group have criticised Activision.\n• Avatar: The Last Airbender's 20th-anniversary episode \"The Guru\" explains the chakras and may hold clues to Pavi's vision in Seven Havens episode 9.",
     "generated_at": "2026-10-29T11:33:32.270483+00:00",
@@ -11,6 +11,48 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.eurogamer.net/world-of-warcraft-halloween-housing-cosmetics-controversy-kul-tiran",
+      "title": "World of Warcraft players angry after Blizzard seems to contradict housing cosmetics policy with Halloween additions",
+      "published": "2026-10-29T11:59:54+00:00",
+      "author": "Connor Makar",
+      "description": "The World of Warcraft team has found itself at the centre of controversy after recently-added housing cosmetics appeared to go against previous pledges not to sell decorations tied to the visual identity of the game's races and factions. Read more",
+      "link": "https://www.eurogamer.net/world-of-warcraft-halloween-housing-cosmetics-controversy-kul-tiran",
+      "image": "https://assetsio.gnwcdn.com/world-of-warcraft-grimtide-housejpeg.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "feed_name": "Eurogamer.net",
+      "feed_title": "Eurogamer.net Latest Articles Feed",
+      "category": "gaming",
+      "feed_url": "https://www.eurogamer.net/?format=rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.eurogamer.net&sz=64"
+    },
+    {
+      "id": "https://www.polygon.com/grand-theft-auto-gta-6-rockstar-details-police-dogs-public-transportation-weather/",
+      "title": "GTA 6's Police Will Hunt You Down with Dogs",
+      "published": "2026-10-29T11:55:20+00:00",
+      "author": "Ashely Claudino",
+      "description": "Rockstar's attention to detail when developing GTA 6 was next-level, and not only does it reflect on the main characters but also on the police force.",
+      "link": "https://www.polygon.com/grand-theft-auto-gta-6-rockstar-details-police-dogs-public-transportation-weather/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/jason_and_lucia_11.jpg",
+      "feed_name": "Polygon -  All",
+      "feed_title": "Polygon.com",
+      "category": "gaming",
+      "feed_url": "https://www.polygon.com/rss/index.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.polygon.com&sz=64"
+    },
+    {
+      "id": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-possum-nerf",
+      "title": "COD Modern Warfare 4's controversial Possum ability nerfed to stop it being used \"as a combat mechanic instead of a survival mechanic\"",
+      "published": "2026-10-29T11:33:05+00:00",
+      "author": "Sherif Saed",
+      "description": "Since the launch of Call of Duty: Modern Warfare 4's DMZ mode, players have been mainly arguing about two topics: whether there's a need for a PvE-only mode , and whether Possum - an in-game trait - has a place in an extraction experience . Read more",
+      "link": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-possum-nerf",
+      "image": "https://assetsio.gnwcdn.com/modern-warfare-4-dmz-season-1-shot-crop-1.jpeg?width=690&quality=85&format=jpg&auto=webp",
+      "feed_name": "Eurogamer.net",
+      "feed_title": "Eurogamer.net Latest Articles Feed",
+      "category": "gaming",
+      "feed_url": "https://www.eurogamer.net/?format=rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.eurogamer.net&sz=64"
+    },
     {
       "id": "https://www.eurogamer.net/xbox-financials-sales-asha-sharma-microsoft",
       "title": "Xbox leader Asha Sharma says there's \"more demand than consoles available\" as Xbox hardware sales dip by 14%",

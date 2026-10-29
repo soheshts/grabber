@@ -1,16 +1,30 @@
 {
   "category": "photography",
-  "updated": "2026-10-29T11:33:32.270483+00:00",
-  "count": 104,
+  "updated": "2026-10-29T12:03:52.839447+00:00",
+  "count": 105,
   "summary": {
-    "text": "• The Defense Intelligence Agency (DIA) has released a high-resolution satellite image.\n• The photo shows China's secretive space plane.\n• PetaPixel reported the story in the photography category.",
-    "generated_at": "2026-10-29T11:02:38.796333+00:00",
+    "text": "• PetaPixel reports that a museum wants the public's help identifying people in civil rights photos.\n• The article notes that press photographers often shoot hundreds of frames at a news event, but only a handful, or perhaps one, is published.\n• This digest is based on a single teaser item, so no further details about the museum's project are available.",
+    "generated_at": "2026-10-29T12:03:52.839447+00:00",
     "window_minutes": 60,
     "item_count": 1,
-    "key": "45d461080d0d062c6f3ac9fcd45ceed76661d9bd",
+    "key": "dc211b428cc4606978fef9e73fbbd148a69365b5",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://petapixel.com/?p=890449",
+      "title": "This Museum Wants You to Identify People in Civil Rights Photos",
+      "published": "2026-10-29T11:47:49+00:00",
+      "author": "Matt Growcoot",
+      "description": "When a press photographer covers a news event, they will often take hundreds of photos. But only a handful, perhaps only one, will wind up getting published. [ Read More ]",
+      "link": "https://petapixel.com/2026/10/29/this-museum-wants-you-to-identify-people-in-civil-rights-photos/",
+      "image": "https://petapixel.com/assets/uploads/2026/10/Civil-Rights-Movement2.jpg",
+      "feed_name": "PetaPixel",
+      "feed_title": "PetaPixel",
+      "category": "photography",
+      "feed_url": "https://petapixel.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=petapixel.com&sz=64"
+    },
     {
       "id": "https://petapixel.com/?p=890442",
       "title": "Satellite Captures Photo of China’s Secretive Space Plane",

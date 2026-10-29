@@ -1,9 +1,30 @@
 {
   "category": "personal blogs",
-  "updated": "2026-10-29T11:33:32.270483+00:00",
-  "count": 422,
-  "summary": null,
+  "updated": "2026-10-29T12:03:52.839447+00:00",
+  "count": 423,
+  "summary": {
+    "text": "• A personal blog by Elizabeth Tai reports that China's first AI-made film, \"Sanxingdui,\" flopped with audiences.\n• Her take: the failure isn't because Chinese people are opposed to AI.",
+    "generated_at": "2026-10-29T12:03:52.839447+00:00",
+    "window_minutes": 60,
+    "item_count": 1,
+    "key": "f1390e13cad20982fda89641f8e14cc657b39fcd",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "http://elizabethtai.com/?p=21872",
+      "title": "China’s first AI movie flops … but probably not for the reasons you think",
+      "published": "2026-10-29T11:58:47+00:00",
+      "author": "Elizabeth Tai",
+      "description": "China's first AI film, \"Sanxingdui,\" failed to resonate with audiences. but not because Chinese people are anti-AI",
+      "link": "https://elizabethtai.com/2026/10/29/chinas-first-ai-movie-flops-but-probably-not-for-the-reasons-you-think/",
+      "image": "https://elizabethtai.com/wp-content/uploads/2026/10/china-ai-movie-2.jpg",
+      "feed_name": "Elizabeth Tai",
+      "feed_title": "Elizabeth Tai",
+      "category": "personal blogs",
+      "feed_url": "https://elizabethtai.com/feed/",
+      "feed_icon": "https://elizabethtai.com/wp-content/uploads/2023/02/cropped-site-flavicon.png?w=32"
+    },
     {
       "id": "my-2027-web-platform-feature-ranking",
       "title": "My 2027 Web Platform Feature Ranking [blog]",

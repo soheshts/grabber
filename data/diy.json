@@ -1,16 +1,44 @@
 {
   "category": "DIY",
-  "updated": "2026-10-29T11:33:32.270483+00:00",
-  "count": 310,
+  "updated": "2026-10-29T12:03:52.839447+00:00",
+  "count": 312,
   "summary": {
-    "text": "• Windows and iPhone tips: setting Wi-Fi as metered in Windows 11 can make internet feel faster, while an iPhone still cannot turn off 2G, a feature Android offers.\n• Homelab and storage: one writer kept old flash drives for single-purpose jobs in a homelab.\n• Software switching: a week of replacing everyday Windows apps with open-source alternatives required little more than adjusting to new icons.\n• Linux gaming: Linux reportedly runs a Microsoft video game better than Windows does.\n• Offline survival: a Hackaday post explores an AI chatbot for a post-collapse world with no internet access.",
-    "generated_at": "2026-10-29T11:33:32.270483+00:00",
+    "text": "• A MUO post says a Fire TV Stick was throttling itself until five settings were changed.\n• iPhones still can't turn off 2G, a feature the author envies in Android, and 2G is flagged as a potential security threat.\n• How-To Geek highlights three more Linux-exclusive apps that beat their Windows alternatives.\n• Cheap old flash drives still suit single-purpose jobs, which improved one writer's homelab.",
+    "generated_at": "2026-10-29T12:03:52.839447+00:00",
     "window_minutes": 60,
-    "item_count": 6,
-    "key": "e75a5174f64a62fc7c40a048a1f58d76064156df",
+    "item_count": 4,
+    "key": "4751fe90e4c337b2e22f7e4ad4a1e5dc9deb3aad",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.makeuseof.com/my-old-fire-tv-stick-was-throttling-itself-until-i-changed-these-settings/",
+      "title": "My old Fire TV Stick was throttling itself until I changed these 5 settings",
+      "published": "2026-10-29T12:00:16+00:00",
+      "author": "Suman Biswas",
+      "description": "A cooler Fire TV Stick is a healthy Fire TV Stick.",
+      "link": "https://www.makeuseof.com/my-old-fire-tv-stick-was-throttling-itself-until-i-changed-these-settings/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/fire-tv-stick-3.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/more-linux-exclusive-apps-that-are-better-than-their-windows-alternatives/",
+      "title": "3 more Linux-exclusive apps that are better than their Windows alternatives",
+      "published": "2026-10-29T12:00:15+00:00",
+      "author": "Dibakar Ghosh",
+      "description": "Some of the best reasons to use Linux are the apps that never made it to Windows.",
+      "link": "https://www.howtogeek.com/more-linux-exclusive-apps-that-are-better-than-their-windows-alternatives/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/a-monitor-with-fedora-running-and-terminal-open-showing-dnf-command-to-install-apps-better-than-windows.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/iphone-still-cant-turn-off-2g/",
       "title": "My iPhone still can’t turn off 2G, and it’s the Android feature I envy most",
