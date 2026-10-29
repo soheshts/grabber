@@ -1,7 +1,7 @@
 {
   "category": "science",
-  "updated": "2026-10-29T04:03:40.356977+00:00",
-  "count": 698,
+  "updated": "2026-10-29T04:32:41.785449+00:00",
+  "count": 699,
   "summary": {
     "text": "• Blood pressure: Researchers found a small group of brain cells that prevents dangerous blood pressure swings, even when average readings look normal, revealing a hidden cardiovascular risk factor.\n• Laser physics: Scientists generated X-rays with far higher energies than conventional theory predicts, breaking a long-standing rule; the discovery shows how two electrons work together.\n• Meteors: Seven stages of meteor entry were identified, with melting and violent fragmentation, not simple evaporation, determining how space rocks break apart.",
     "generated_at": "2026-10-29T04:03:40.356977+00:00",
@@ -11,6 +11,20 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "news712385300",
+      "title": "End of COVID-era SNAP emergency food assistance linked to increased child maltreatment rates",
+      "published": "2026-10-29T04:10:01+00:00",
+      "author": null,
+      "description": "A new study has found that in U.S. counties that ended COVID-19 pandemic-era Supplemental Nutrition Assistance Program (SNAP) Emergency Allotments, child maltreatment rates went up. The findings from the study in the American Journal of Preventive Medicine suggest that changes to food assistance programs have consequences that extend beyond food security and also affect child and family well-being.",
+      "link": "https://phys.org/news/2026-10-covid-era-snap-emergency-food.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/sad-child.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
     {
       "id": "https://www.sciencedaily.com/releases/2026/10/261027063814.htm",
       "title": "Your blood pressure could be dangerous even when your numbers look normal",

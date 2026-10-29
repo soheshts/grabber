@@ -1,6 +1,6 @@
 {
   "category": "World News",
-  "updated": "2026-10-29T04:03:40.356977+00:00",
+  "updated": "2026-10-29T04:32:41.785449+00:00",
   "count": 1000,
   "summary": {
     "text": "• The EPA projects Trump's methane rollback would lower 2027 U.S. crude prices by just 11 cents a barrel and raise domestic oil output 0.09%.\n• Soaring fuel costs forced the Villa Vie Odyssey cruise ship to disembark residents in Cambodia, after fuel expenses rose from $1,800 to $8,000.\n• Cuauhtémoc Cárdenas, who helped end one-party rule in Mexico, died at 92.\n• A high-speed train collision near Toledo, Spain, killed at least 68 people, prompting experts to question whether any seat is safest.",
@@ -11,6 +11,34 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.theguardian.com/australia-news/live/2026/oct/29/labor-treasurer-jim-chalmers-social-media-anthony-albanese-coalition-one-nation-ntwnfb",
+      "title": "Australian politics live: PM grilled over golf club grant again as five ejected from question time; Bowen says he’s ‘triggered’ opposition",
+      "published": "2026-10-29T04:17:51+00:00",
+      "author": "Kat Wong",
+      "description": "Get our breaking news email , free app or daily news podcast Gas reservation policy set for lower house vote today Australia’s domestic gas reservation is set to be debated and voted on in the lower house today. Rather than international base companies, determining through algorithms what Australians receive, it empowers people themselves to determine what you receive on your devices, so that you should have that control. This isn’t about government having a greater role. It’s about people havi…",
+      "link": "https://www.theguardian.com/australia-news/live/2026/oct/29/labor-treasurer-jim-chalmers-social-media-anthony-albanese-coalition-one-nation-ntwnfb",
+      "image": "https://i.guim.co.uk/img/media/cefd634801ed20a2fd859adc3450e51aa4b71a77/642_0_6340_5072/master/6340.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=6527b4cbe95feb16cf6d2e6e03b7c76e",
+      "feed_name": "The Guardian",
+      "feed_title": "World news | The Guardian",
+      "category": "World News",
+      "feed_url": "https://www.theguardian.com/world/rss",
+      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/28/world/americas/cuauhtemoc-cardenas-dead.html",
+      "title": "Cuauhtémoc Cárdenas, Who Helped End One-Party Rule in Mexico, Dies at 92",
+      "published": "2026-10-29T04:08:43+00:00",
+      "author": "Anthony DePalma",
+      "description": "Mr. Cárdenas, the only son of a Mexican president, never won the office but became a leading figure in the country’s democratic transformation.",
+      "link": "https://www.nytimes.com/2026/10/28/world/americas/cuauhtemoc-cardenas-dead.html",
+      "image": "https://static01.nyt.com/images/2026/10/29/obituaries/29cardenas/29cardenas-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "t3_1xi9w9l",
       "title": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1709, Part 1 (Thread #1856)",
@@ -24,6 +52,34 @@
       "category": "World News",
       "feed_url": "https://www.reddit.com/r/worldnews/.rss",
       "feed_icon": "https://www.redditstatic.com/icon.png/"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/29/world/europe/a-ukrainian-city-in-the-kill-zone-relishes-a-moment-of-peace.html",
+      "title": "A Ukrainian City in the Kill Zone Relishes a Moment of Peace",
+      "published": "2026-10-29T04:01:08+00:00",
+      "author": "Siobhán O’Grady, Liubov Sholudko and David Guttenfelder",
+      "description": "A rare localized peace deal announced by the first lady, Melania Trump, offered a brief respite for Kherson, where Russian drones and artillery have long terrorized civilians.",
+      "link": "https://www.nytimes.com/2026/10/29/world/europe/a-ukrainian-city-in-the-kill-zone-relishes-a-moment-of-peace.html",
+      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29int-ukraine-kherson-dispatch-promo/29int-ukraine-kherson-dispatch-gvpc-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/rest-of-world/suspected-ballistic-missile-launched-from-north-korea-japan/articleshow/135288990.cms",
+      "title": "Suspected ballistic missile launched from North Korea: Japan",
+      "published": "2026-10-29T04:00:52+00:00",
+      "author": "Pranjal Pandey",
+      "description": "",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/suspected-ballistic-missile-launched-from-north-korea-japan/articleshow/135288990.cms",
+      "image": "https://static.toiimg.com/photo/msid-135289054,imgsize-31312.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
       "id": "108466880",
@@ -40,32 +96,32 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
-      "id": "https://www.theguardian.com/australia-news/live/2026/oct/29/labor-treasurer-jim-chalmers-social-media-anthony-albanese-coalition-one-nation-ntwnfb",
-      "title": "Australian politics live: PM grilled again over golf club grant; Bowen says he’s ‘triggered’ opposition",
-      "published": "2026-10-29T03:49:14+00:00",
-      "author": "Kat Wong",
-      "description": "Get our breaking news email , free app or daily news podcast Gas reservation policy set for lower house vote today Australia’s domestic gas reservation is set to be debated and voted on in the lower house today. Rather than international base companies, determining through algorithms what Australians receive, it empowers people themselves to determine what you receive on your devices, so that you should have that control. This isn’t about government having a greater role. It’s about people havi…",
-      "link": "https://www.theguardian.com/australia-news/live/2026/oct/29/labor-treasurer-jim-chalmers-social-media-anthony-albanese-coalition-one-nation-ntwnfb",
-      "image": "https://i.guim.co.uk/img/media/cefd634801ed20a2fd859adc3450e51aa4b71a77/642_0_6340_5072/master/6340.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=6527b4cbe95feb16cf6d2e6e03b7c76e",
-      "feed_name": "The Guardian",
-      "feed_title": "World news | The Guardian",
+      "id": "https://www.ndtv.com/world-news/why-uncertain-israel-election-may-keep-donald-trump-on-edge-netanyahu-eisenkot-iran-war-12251743#publisher=newsstand",
+      "title": "Why Uncertain Israel Election May Keep Donald Trump On Edge",
+      "published": "2026-10-29T03:56:36+00:00",
+      "author": null,
+      "description": "The outcome will have implications for US-Israeli relations.",
+      "link": "https://www.ndtv.com/world-news/why-uncertain-israel-election-may-keep-donald-trump-on-edge-netanyahu-eisenkot-iran-war-12251743#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-10/s5c4nbc_israel-election-reuters_625x300_29_October_26.jpeg",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
       "category": "World News",
-      "feed_url": "https://www.theguardian.com/world/rss",
-      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
-      "id": "https://www.nytimes.com/2026/10/28/world/americas/cuauhtemoc-cardenas-dead.html",
-      "title": "Cuauhtémoc Cárdenas, Who Helped End One-Party Rule in Mexico, Dies at 92",
-      "published": "2026-10-29T03:49:10+00:00",
-      "author": "Anthony DePalma",
-      "description": "Mr. Cárdenas, the only son of a Mexican president, never won the office but became a leading figure in the country’s democratic transformation.",
-      "link": "https://www.nytimes.com/2026/10/28/world/americas/cuauhtemoc-cardenas-dead.html",
-      "image": "https://static01.nyt.com/images/2026/10/29/obituaries/29cardenas/29cardenas-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
+      "id": "https://www.ndtv.com/world-news/trumps-ohio-rally-had-an-epstein-reference-and-a-praise-for-senators-ass-12251701#publisher=newsstand",
+      "title": "Trump's Ohio Rally Had An Epstein Reference And A Praise For Senator's A**",
+      "published": "2026-10-29T03:46:13+00:00",
+      "author": null,
+      "description": "Trump said that the disgraced financier was \"totally exonerated from him.\"",
+      "link": "https://www.ndtv.com/world-news/trumps-ohio-rally-had-an-epstein-reference-and-a-praise-for-senators-ass-12251701#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-10/sgmciad8_trump-afp_625x300_28_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
       "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/rest-of-world/iran-war-fallout-cruise-ship-carrying-permanent-residents-suspends-voyages-over-soaring-fuel-costs/articleshow/135288607.cms",
@@ -96,6 +152,48 @@
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
+      "id": "https://www.ndtv.com/world-news/us-japans-joint-missiles-production-plan-against-chinas-aggression-in-asia-12251569#publisher=newsstand",
+      "title": "US-Japan's Joint Missiles Production Plan Against China's Aggression In Asia",
+      "published": "2026-10-29T03:06:10+00:00",
+      "author": null,
+      "description": "Hegseth renewed the Trump administration's repeated assurances of commitment to help deter aggression.",
+      "link": "https://www.ndtv.com/world-news/us-japans-joint-missiles-production-plan-against-chinas-aggression-in-asia-12251569#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-10/kfsqv58s_us-japan_625x300_29_October_26.jpeg",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/when-will-you-heal-uae-president-plans-training-with-flydubai-captain-smit-machchhar-12251540#publisher=newsstand",
+      "title": "\"When Will You Heal?\" UAE President Plans Training With flydubai Captain Smit Machchhar",
+      "published": "2026-10-29T03:05:29+00:00",
+      "author": null,
+      "description": "UAE President Sheikh Mohamed bin Zayed Al Nahyan inspected Smit Machchhar's head injury and the stitches.",
+      "link": "https://www.ndtv.com/world-news/when-will-you-heal-uae-president-plans-training-with-flydubai-captain-smit-machchhar-12251540#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-10/4bv60c7o_smit-machchhar-uae-president_625x300_29_October_26.jpeg",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/in-early-morning-mail-amazon-layoffs-250-staff-to-operate-more-efficiently-12251503#publisher=newsstand",
+      "title": "In Early Morning Mail, Amazon Lays Off 250 Staff To \"Operate More Efficiently\"",
+      "published": "2026-10-29T02:50:12+00:00",
+      "author": null,
+      "description": "As is the company's custom, text messages and emails were sent to workers early Wednesday morning.",
+      "link": "https://www.ndtv.com/world-news/in-early-morning-mail-amazon-layoffs-250-staff-to-operate-more-efficiently-12251503#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-10/844bep7_amazon-reuters_625x300_29_October_26.jpeg",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
       "id": "108470631",
       "title": "Samsung Electronics shares slid despite record profit in the third-quarter",
       "published": "2026-10-29T02:49:39+00:00",
@@ -122,20 +220,6 @@
       "category": "World News",
       "feed_url": "https://www.reddit.com/r/worldnews/.rss",
       "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/in-early-morning-mail-amazon-layoffs-250-staff-to-operate-more-efficiently-12251503#publisher=newsstand",
-      "title": "In Early Morning Mail, Amazon Layoffs 250 Staff To \"Operate More Efficiently\"",
-      "published": "2026-10-29T02:42:19+00:00",
-      "author": null,
-      "description": "As is the company's custom, text messages and emails were sent to workers early Wednesday morning.",
-      "link": "https://www.ndtv.com/world-news/in-early-morning-mail-amazon-layoffs-250-staff-to-operate-more-efficiently-12251503#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-10/844bep7_amazon-reuters_625x300_29_October_26.jpeg",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/south-asia/jei-functionary-met-indian-intel-official-in-secret-bangladesh-pm-aide/articleshow/135286931.cms",
@@ -13926,90 +14010,6 @@
       "category": "World News",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/us/after-65-years-of-family-ranching-florida-approved-a-12-9-million-easement-to-permanently-protect-5610-acres-of-hendrie-ranch-while-cattle-hay-and-timber-operations-continue/articleshow/135190750.cms",
-      "title": "Hendrie Ranch Conservation Easement: Florida approves $12.9m deal; wildlife corridor stays working",
-      "published": "2026-10-25T21:20:00+00:00",
-      "author": "TOI World Desk",
-      "description": "A 5,610-acre section of Hendrie Ranch will remain undeveloped due to a $12.9 million conservation easement. This agreement, approved by state officials, allows continued agricultural use while protecting the land from development. The ranch supports cattle, hay production, and timber harvesting alongside diverse wildlife habitats. It is part of Florida's Rural and Family Lands Protection Program to safeguard agricultural properties.",
-      "link": "https://timesofindia.indiatimes.com/world/us/after-65-years-of-family-ranching-florida-approved-a-12-9-million-easement-to-permanently-protect-5610-acres-of-hendrie-ranch-while-cattle-hay-and-timber-operations-continue/articleshow/135190750.cms",
-      "image": "https://static.toiimg.com/photo/msid-135190791,imgsize-1287735.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.nytimes.com/live/2026/10/25/world/brazil-election/ai-videos-flooded-the-internet-in-the-run-up-to-the-election",
-      "title": "A.I. videos flooded the internet in the run-up to the election.",
-      "published": "2026-10-25T21:18:13+00:00",
-      "author": "Ana Ionova",
-      "description": "",
-      "link": "https://www.nytimes.com/live/2026/10/25/world/brazil-election/ai-videos-flooded-the-internet-in-the-run-up-to-the-election",
-      "image": null,
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "t3_1xfdvio",
-      "title": "Maria Corina Machado back in Venezuela after 10 months in exile",
-      "published": "2026-10-25T21:07:43+00:00",
-      "author": "/u/pjw724",
-      "description": "submitted by /u/pjw724 [link] [comments]",
-      "link": "https://www.reddit.com/r/worldnews/comments/1xfdvio/maria_corina_machado_back_in_venezuela_after_10/",
-      "image": "https://external-preview.redd.it/T8WNFd0l49PLmsygm4WYGRSgfynaPYFAEuZOAxJv4kY.jpeg?width=640&crop=smart&auto=webp&s=ed006d0b178b7b744098db35dc3855d58eac2425",
-      "feed_name": "World News",
-      "feed_title": "World News",
-      "category": "World News",
-      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
-      "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/10/25/world/americas/who-is-maria-corina-machado.html",
-      "title": "Who Is María Corina Machado?",
-      "published": "2026-10-25T21:05:50+00:00",
-      "author": "Julie Turkewitz, Jonathan Wolfe and Ephrat Livni",
-      "description": "The Venezuelan opposition leader returned home from exile to a country firmly under American control. How are her relations with Washington?",
-      "link": "https://www.nytimes.com/2026/10/25/world/americas/who-is-maria-corina-machado.html",
-      "image": "https://static01.nyt.com/images/2026/10/25/multimedia/25int-machado-who-fbqg/25int-machado-who-fbqg-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "t3_1xfdjcl",
-      "title": "Serbia's Vucic concedes defeat to student led movement in parliamentary election",
-      "published": "2026-10-25T20:54:09+00:00",
-      "author": "/u/Brennenstein",
-      "description": "submitted by /u/Brennenstein [link] [comments]",
-      "link": "https://www.reddit.com/r/worldnews/comments/1xfdjcl/serbias_vucic_concedes_defeat_to_student_led/",
-      "image": null,
-      "feed_name": "World News",
-      "feed_title": "World News",
-      "category": "World News",
-      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
-      "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/us/in-2025-a-delaware-couple-planned-a-24-by-28-foot-garage-but-their-hoa-rejected-its-metal-siding-and-roof-and-recorded-a-violation-against-their-property-a-court-magistrate-has-now-ruled-the-notice-must-be-cancelled/articleshow/135197464.cms",
-      "title": "Delaware couple wins HOA garage dispute as court orders removal of property violation notice",
-      "published": "2026-10-25T20:43:48+00:00",
-      "author": "TOI World Desk",
-      "description": "John and Sandra Mitchell have won a court case against their homeowners association regarding garage construction plans. They proposed a 24-by-28-foot garage with metal siding, which the board initially rejected. The court ruled that the association overstepped its authority by denying the materials without clear restrictions. The violation notice against their property was ordered to be removed from public records.",
-      "link": "https://timesofindia.indiatimes.com/world/us/in-2025-a-delaware-couple-planned-a-24-by-28-foot-garage-but-their-hoa-rejected-its-metal-siding-and-roof-and-recorded-a-violation-against-their-property-a-court-magistrate-has-now-ruled-the-notice-must-be-cancelled/articleshow/135197464.cms",
-      "image": "https://static.toiimg.com/photo/msid-135197533,imgsize-1077690.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     }
   ]
 }
