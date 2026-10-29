@@ -1,7 +1,7 @@
 {
   "category": "science",
-  "updated": "2026-10-29T09:03:54.348545+00:00",
-  "count": 702,
+  "updated": "2026-10-29T09:33:30.393507+00:00",
+  "count": 706,
   "summary": {
     "text": "• An opinion piece from Phys.org argues the WHO should declare climate change a public health emergency, citing record-breaking heat and extreme weather in the Northern Hemisphere's latest summer and impacts felt worldwide. The item is truncated, so the full argument is unavailable.",
     "generated_at": "2026-10-29T09:03:54.348545+00:00",
@@ -11,6 +11,62 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "news712470184",
+      "title": "Philippine island fights rising seas with nature, not concrete",
+      "published": "2026-10-29T09:23:55+00:00",
+      "author": null,
+      "description": "For years, residents of a flood-prone Philippine island north of Manila have elevated their homes atop layer upon layer of concrete, only to see floodwaters threaten them again.",
+      "link": "https://phys.org/news/2026-10-philippine-island-seas-nature-concrete.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/workers-lay-coconut-fi.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/29/science/stone-age-cannibal-caves-of-spain.html",
+      "title": "Three Stone Age Caves Reveal Continual Cannibalism",
+      "published": "2026-10-29T09:00:48+00:00",
+      "author": "Joshua Rapp Learn",
+      "description": "A tour of the three caves in southern Spain reveals that people in the area cannibalized one another as funerary practice over many generations.",
+      "link": "https://www.nytimes.com/2026/10/29/science/stone-age-cannibal-caves-of-spain.html",
+      "image": null,
+      "feed_name": "NYT > Science",
+      "feed_title": "NYT > Science",
+      "category": "science",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/29/climate/heat-battery-thermal-energy-storage.html",
+      "title": "New Batteries That Store Blistering Heat Are Taking Off",
+      "published": "2026-10-29T09:00:29+00:00",
+      "author": "Brad Plumer",
+      "description": "Large batteries that store electricity have revolutionized power grids and car markets. Now some start-ups are betting that “heat batteries” could be just as transformative.",
+      "link": "https://www.nytimes.com/2026/10/29/climate/heat-battery-thermal-energy-storage.html",
+      "image": "https://static01.nyt.com/images/2026/10/16/multimedia/00cli-hot-bricks-01-hqvp/00cli-hot-bricks-01-hqvp-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Science",
+      "feed_title": "NYT > Science",
+      "category": "science",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "6ae26ce68025c0ad4677bab7",
+      "title": "Astronomers Discover a Possible New Dwarf Planet in Our Solar System",
+      "published": "2026-10-29T09:00:00+00:00",
+      "author": "Jorge Garay",
+      "description": "Lying beyond Pluto, 2026 ED138 could be as large as 1,500 kilometers in diameter. Astronomers are still working to confirm whether it meets the criteria for a dwarf planet.",
+      "link": "https://www.wired.com/story/astronomers-discover-a-possible-new-dwarf-planet-in-our-solar-system/",
+      "image": "https://media.wired.com/photos/6ae26ce6735e20536e98e3d0/master/pass/noirlab2626b.jpg",
+      "feed_name": "Science Latest",
+      "feed_title": "Science Latest",
+      "category": "science",
+      "feed_url": "https://www.wired.com/feed/category/science/latest/rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.wired.com&sz=64"
+    },
     {
       "id": "news712468492",
       "title": "Why the WHO must declare climate change a public health emergency",
