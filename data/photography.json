@@ -1,6 +1,6 @@
 {
   "category": "photography",
-  "updated": "2026-10-29T12:33:59.011132+00:00",
+  "updated": "2026-10-29T13:03:49.440528+00:00",
   "count": 105,
   "summary": {
     "text": "• PetaPixel reports that a museum wants the public's help identifying people in civil rights photos.\n• The article notes that press photographers often shoot hundreds of frames at a news event, but only a handful, or perhaps one, is published.\n• This digest is based on a single teaser item, so no further details about the museum's project are available.",
@@ -11,6 +11,20 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://petapixel.com/?p=890454",
+      "title": "Viltrox Completes f/1.4 Pro Lineup With AF 35mm f/1.4 Pro for E and Z",
+      "published": "2026-10-29T13:00:42+00:00",
+      "author": "Jeremy Gray",
+      "description": "Viltrox has announced the new AF 35mm f/1.4 Pro lens for full-frame Sony E-mount and Nikon Z-mount mirrorless cameras. It promises a professional-grade build, high-end image quality, and reliable performance. [ Read More ]",
+      "link": "https://petapixel.com/2026/10/29/viltrox-completes-f-1-4-pro-lineup-with-af-35mm-f-1-4-pro-for-e-and-z/",
+      "image": "https://petapixel.com/assets/uploads/2026/10/byjuliadekeijzer_Viltrox_Morocco-467.jpg",
+      "feed_name": "PetaPixel",
+      "feed_title": "PetaPixel",
+      "category": "photography",
+      "feed_url": "https://petapixel.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=petapixel.com&sz=64"
+    },
     {
       "id": "https://petapixel.com/?p=890449",
       "title": "This Museum Wants You to Identify People in Civil Rights Photos",
@@ -1466,20 +1480,6 @@
       "category": "photography",
       "feed_url": "https://lightroomkillertips.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=lightroomkillertips.com&sz=64"
-    },
-    {
-      "id": "https://digital-photography-school.com/?p=96076",
-      "title": "6 Easy Photography Techniques to Diversify Your Portfolio",
-      "published": "2026-09-29T12:48:08+00:00",
-      "author": "Kav Dadfar",
-      "description": "The post 6 Easy Photography Techniques to Diversify Your Portfolio appeared first on Digital Photography School . It was authored by Kav Dadfar . 2026 Update: Ten years is a long time in photography, and some of the techniques in this article have definitely aged better than others. But the basic idea hasn’t changed: if your portfolio is starting to look a bit samey, you don’t necessarily need more gear. Try changing how you approach the shot instead. Move, […] The post 6 Easy Photography Techn…",
-      "link": "https://digital-photography-school.com/6-easy-photography-techniques-diversify-portfolio/",
-      "image": "https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2016/01/KavDadfar_Tips-6.jpg?resize=717%2C478&ssl=1",
-      "feed_name": "Digital Photography School",
-      "feed_title": "Digital Photography School",
-      "category": "photography",
-      "feed_url": "https://feeds.feedburner.com/DigitalPhotographySchool",
-      "feed_icon": "https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2018/10/mobile_logo.png?fit=32%2C27&ssl=1"
     }
   ]
 }

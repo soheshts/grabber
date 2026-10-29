@@ -1,7 +1,7 @@
 {
   "category": "DIY",
-  "updated": "2026-10-29T12:33:59.011132+00:00",
-  "count": 314,
+  "updated": "2026-10-29T13:03:49.440528+00:00",
+  "count": 318,
   "summary": {
     "text": "• A MUO post says a Fire TV Stick was throttling itself until five settings were changed.\n• iPhones still can't turn off 2G, a feature the author envies in Android, and 2G is flagged as a potential security threat.\n• How-To Geek highlights three more Linux-exclusive apps that beat their Windows alternatives.\n• Cheap old flash drives still suit single-purpose jobs, which improved one writer's homelab.",
     "generated_at": "2026-10-29T12:03:52.839447+00:00",
@@ -11,6 +11,48 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.makeuseof.com/android-auto-utility-apps/",
+      "title": "These utility apps make Android Auto 10x more useful",
+      "published": "2026-10-29T13:01:16+00:00",
+      "author": "Keval Shukla",
+      "description": "Utility apps that elevate the driving experience by huge margins.",
+      "link": "https://www.makeuseof.com/android-auto-utility-apps/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/10/android-auto-app-launcher.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/smartphone-might-be-better-running-local-llms-than-your-pc-mine-is/",
+      "title": "Your smartphone might be better at running local LLMs than your PC—mine certainly is",
+      "published": "2026-10-29T13:01:15+00:00",
+      "author": "Arol Wright",
+      "description": "Unless your PC is really new, local LLMs are just not that well optimized for you.",
+      "link": "https://www.howtogeek.com/smartphone-might-be-better-running-local-llms-than-your-pc-mine-is/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/google-ai-studio-hero.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/wondershare-filmora-16/",
+      "title": "Wondershare’s Filmora 16 makes creating professional-looking videos effortless",
+      "published": "2026-10-29T13:00:20+00:00",
+      "author": "Sponsored",
+      "description": "This article is sponsored by Wondershare",
+      "link": "https://www.howtogeek.com/wondershare-filmora-16/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/10/kv-2100x1400-1-1.png",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/wireless-headphones-expiration-logitech-zone-vibe-pro/",
       "title": "Your wireless headphones have an expiration date, but this pair doesn't",
@@ -66,6 +108,20 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.apartmenttherapy.com/pink-green-bathroom-wallpaper-clover-mural-ba-37697176",
+      "title": "Her Hand-Drawn Motif Created the Whimsical Stamp Her Bathroom Walls Needed",
+      "published": "2026-10-29T12:00:00+00:00",
+      "author": "Sarah Everett",
+      "description": "The wall treatment in this bathroom makeover by designer Jessie Surber (@jessiesurberinteriors) looks like wallpaper, but it’s actually hand-painted — then, in a dream turn of events for Jessie, it actually became wallpaper that you’ll soon be able to buy. “I began with pencil and paper, sketching out a cloverleaf motif, planning the repeat pattern by hand,” Jessie says. READ MORE...",
+      "link": "https://www.apartmenttherapy.com/pink-green-bathroom-wallpaper-clover-mural-ba-37697176?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+projects",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2025/2025-09/jessie-s-bathroom/jessie-s-bathroom-before-tagged-2",
+      "feed_name": "Apartment Therapy| Saving the world, one room at a time",
+      "feed_title": "Apartment Therapy| Saving the world, one room at a time",
+      "category": "DIY",
+      "feed_url": "https://www.apartmenttherapy.com/projects.rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.apartmenttherapy.com&sz=64"
     },
     {
       "id": "https://www.makeuseof.com/iphone-still-cant-turn-off-2g/",

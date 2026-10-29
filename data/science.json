@@ -1,7 +1,7 @@
 {
   "category": "science",
-  "updated": "2026-10-29T12:33:59.011132+00:00",
-  "count": 725,
+  "updated": "2026-10-29T13:03:49.440528+00:00",
+  "count": 728,
   "summary": {
     "text": "• Water and nature: The Environment Agency gave South West Water its lowest environmental rating, with pollution \"significantly below target.\" Bus stop roofs will get bee mini-gardens.\n• Electricity costs: A Phys.org piece looks at keeping power affordable amid uncertain federal policy.\n• Polls and justice: A Q&A asks whether midterm polls are trustworthy. Prosecutors invoke gender stereotypes in capital cases against women.\n• Ocean science: As ancient oceans warmed, carbon export and fish productivity surged.",
     "generated_at": "2026-10-29T12:03:52.839447+00:00",
@@ -11,6 +11,76 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "news712388238",
+      "title": "Struggling with your career? This psychological intervention may help",
+      "published": "2026-10-29T13:00:05+00:00",
+      "author": null,
+      "description": "Job loss and career uncertainty can take a toll that extends well beyond the workplace. New research suggests that a psychological intervention based on the principles of acceptance and commitment therapy, or ACT, may help individuals navigate work-related challenges while improving well-being and reducing psychological distress.",
+      "link": "https://phys.org/news/2026-10-struggling-career-psychological-intervention.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/career-ladder.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "news712404121",
+      "title": "Amino acid boosts last-resort antibiotic's effectiveness",
+      "published": "2026-10-29T13:00:01+00:00",
+      "author": null,
+      "description": "Worldwide, antibiotic resistance is associated with millions of deaths every year, and the World Health Organization warns that the number of resistant infections is rising. Colistin is a last-resort antibiotic used when other treatments fail, but rates of colistin-resistant infections are rising as well, putting people at even greater risk and increasing the urgency for new therapeutic approaches.",
+      "link": "https://phys.org/news/2026-10-amino-acid-boosts-resort-antibiotic.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/emergency-room-3.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c574p7r0xnvpo#1",
+      "title": "South West Water given lowest environmental rating",
+      "published": "2026-10-29T12:56:58+00:00",
+      "author": null,
+      "description": "The water firm is performing \"significantly below target\" for pollution, the Environment Agency says.",
+      "link": "https://www.bbc.co.uk/news/articles/c574p7r0xnvpo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e805/live/2da7e170-51db-11f0-b293-81e1c23535ff.jpg",
+      "feed_name": "BBC News - Science & Environment",
+      "feed_title": "BBC News",
+      "category": "science",
+      "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/28/health/peptides-kennedy-fda.html",
+      "title": "RFK Jr. to Allow Broad Use of Unapproved Peptide Injections",
+      "published": "2026-10-29T12:42:20+00:00",
+      "author": "Christina Jewett",
+      "description": "In a unilateral declaration by the health secretary, several injections promoted by online influencers will become widely available. The F.D.A. had advised against the move.",
+      "link": "https://www.nytimes.com/2026/10/28/health/peptides-kennedy-fda.html",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/00DC-Peptides-mpjh/00DC-Peptides-mpjh-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Science",
+      "feed_title": "NYT > Science",
+      "category": "science",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "news712476322",
+      "title": "Children bear the brunt of climate change, warns new report",
+      "published": "2026-10-29T12:40:01+00:00",
+      "author": null,
+      "description": "Climate change is posing an increasing threat to the health and well-being of children and young people in Australia and New Zealand, with rising exposure to heat waves and widespread climate-related distress among young Australians, according to the annual MJA–Lancet Countdown Oceania report.",
+      "link": "https://phys.org/news/2026-10-children-brunt-climate.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/children-2.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
     {
       "id": "news712411896",
       "title": "Smaller ants devote more of their resting energy budget to their brains",
@@ -46,7 +116,7 @@
       "author": null,
       "description": "All but one of England's water companies were rated as \"poor\" or \"requiring improvement\" for environmental targets.",
       "link": "https://www.bbc.co.uk/news/articles/cw5ynxepy4gno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13ee/live/a45ae8b0-d37d-11f1-bf63-739fb2907d03.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/934c/live/6b157700-d396-11f1-b490-07d78ce4b8e5.jpg",
       "feed_name": "BBC News - Science & Environment",
       "feed_title": "BBC News",
       "category": "science",
@@ -108,20 +178,6 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c574p7r0xnvpo#1",
-      "title": "South West Water given lowest environmental rating",
-      "published": "2026-10-29T11:31:23+00:00",
-      "author": null,
-      "description": "The water firm is performing \"significantly below target\" for pollution, the Environment Agency says.",
-      "link": "https://www.bbc.co.uk/news/articles/c574p7r0xnvpo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e805/live/2da7e170-51db-11f0-b293-81e1c23535ff.jpg",
-      "feed_name": "BBC News - Science & Environment",
-      "feed_title": "BBC News",
-      "category": "science",
-      "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "news712471363",
@@ -1102,20 +1158,6 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/10/28/health/peptides-kennedy-fda.html",
-      "title": "RFK Jr. to Allow Broad Use of Unapproved Peptide Injections",
-      "published": "2026-10-28T17:05:05+00:00",
-      "author": "Christina Jewett",
-      "description": "In a unilateral declaration by the health secretary, several injections promoted by online influencers will become widely available. The F.D.A. had advised against the move.",
-      "link": "https://www.nytimes.com/2026/10/28/health/peptides-kennedy-fda.html",
-      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/00DC-Peptides-mpjh/00DC-Peptides-mpjh-mediumSquareAt3X.jpg",
-      "feed_name": "NYT > Science",
-      "feed_title": "NYT > Science",
-      "category": "science",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "news712410361",

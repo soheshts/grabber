@@ -1,7 +1,7 @@
 {
   "category": "space",
-  "updated": "2026-10-29T12:33:59.011132+00:00",
-  "count": 141,
+  "updated": "2026-10-29T13:03:49.440528+00:00",
+  "count": 142,
   "summary": {
     "text": "• Space.com published stunning solar eclipse photos.\n• The images reveal a giant hole and mysterious 'smoke rings' in the sun's atmosphere.\n• Eclipse photography offers a unique view of processes in the sun's upper atmosphere.",
     "generated_at": "2026-10-29T12:03:52.839447+00:00",
@@ -11,6 +11,20 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "GpWAynNmedUPFdvhRV3JWL",
+      "title": "SpaceX fires up Starship upper stage ahead of landmark Flight 15 test launch (video)",
+      "published": "2026-10-29T13:00:00+00:00",
+      "author": "Mike Wall",
+      "description": "SpaceX just fired up all six engines on the Starship upper stage that will conduct the vehicle's 15th test flight, potentially keeping everything on track for a launch next month.",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-fires-up-starship-upper-stage-ahead-of-landmark-flight-15-test-launch-video",
+      "image": "https://cdn.mos.cms.futurecdn.net/AjxLrgTioZbWTuu6knjwxP-1920-80.jpg",
+      "feed_name": "Space.com",
+      "feed_title": "Latest from Space.com",
+      "category": "space",
+      "feed_url": "https://www.space.com/feeds/all",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.space.com&sz=64"
+    },
     {
       "id": "KYMx6arFraHEwqyNXAYy5b",
       "title": "Stunning solar eclipse photos reveal giant hole and mysterious 'smoke rings' in the sun's atmosphere",
