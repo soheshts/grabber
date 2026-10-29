@@ -1,7 +1,7 @@
 {
   "category": "DIY",
-  "updated": "2026-10-29T12:03:52.839447+00:00",
-  "count": 312,
+  "updated": "2026-10-29T12:33:59.011132+00:00",
+  "count": 314,
   "summary": {
     "text": "• A MUO post says a Fire TV Stick was throttling itself until five settings were changed.\n• iPhones still can't turn off 2G, a feature the author envies in Android, and 2G is flagged as a potential security threat.\n• How-To Geek highlights three more Linux-exclusive apps that beat their Windows alternatives.\n• Cheap old flash drives still suit single-purpose jobs, which improved one writer's homelab.",
     "generated_at": "2026-10-29T12:03:52.839447+00:00",
@@ -11,6 +11,34 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.makeuseof.com/wireless-headphones-expiration-logitech-zone-vibe-pro/",
+      "title": "Your wireless headphones have an expiration date, but this pair doesn't",
+      "published": "2026-10-29T12:30:16+00:00",
+      "author": "Brady Snyder",
+      "description": "All headsets should come with replaceable batteries.",
+      "link": "https://www.makeuseof.com/wireless-headphones-expiration-logitech-zone-vibe-pro/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/logitech-zone-vibe-pro-8.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/home-assistant-retro-handheld/",
+      "title": "I connected Home Assistant to a retro handheld, and now I control my smart home like it’s 1989",
+      "published": "2026-10-29T12:30:15+00:00",
+      "author": "Adam Davidson",
+      "description": "It's dangerous to go alone! Take this.",
+      "link": "https://www.howtogeek.com/home-assistant-retro-handheld/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/r36-ultra-handheld-on-a-wooden-table-showing-the-home-boy-game-living-room.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/my-old-fire-tv-stick-was-throttling-itself-until-i-changed-these-settings/",
       "title": "My old Fire TV Stick was throttling itself until I changed these 5 settings",

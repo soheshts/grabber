@@ -1,7 +1,7 @@
 {
   "category": "science",
-  "updated": "2026-10-29T12:03:52.839447+00:00",
-  "count": 718,
+  "updated": "2026-10-29T12:33:59.011132+00:00",
+  "count": 725,
   "summary": {
     "text": "• Water and nature: The Environment Agency gave South West Water its lowest environmental rating, with pollution \"significantly below target.\" Bus stop roofs will get bee mini-gardens.\n• Electricity costs: A Phys.org piece looks at keeping power affordable amid uncertain federal policy.\n• Polls and justice: A Q&A asks whether midterm polls are trustworthy. Prosecutors invoke gender stereotypes in capital cases against women.\n• Ocean science: As ancient oceans warmed, carbon export and fish productivity surged.",
     "generated_at": "2026-10-29T12:03:52.839447+00:00",
@@ -11,6 +11,62 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "news712411896",
+      "title": "Smaller ants devote more of their resting energy budget to their brains",
+      "published": "2026-10-29T12:20:14+00:00",
+      "author": null,
+      "description": "The energy required for brains of different sizes to function could play a role in how different species evolved over time. While the energetic costs of brains have long been deemed important in evolution, direct measurements of the rate at which the brains of different species consume energy, also known as brain metabolic rates (MRs), remain scarce.",
+      "link": "https://phys.org/news/2026-10-smaller-ants-devote-resting-energy.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/smaller-ants-devote-mo.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "news712476140",
+      "title": "First individual-based model of basking sharks replicates complicated social and environmental drivers of behavior",
+      "published": "2026-10-29T12:20:01+00:00",
+      "author": null,
+      "description": "A new study published in Individual-Based Ecology presents the first individual-based model (IBM) of basking shark behavior.",
+      "link": "https://phys.org/news/2026-10-individual-based-basking-sharks-replicates.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/first-individual-based.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cw5ynxepy4gno#0",
+      "title": "Serious pollution by water industry remains high despite £5bn investment",
+      "published": "2026-10-29T12:08:01+00:00",
+      "author": null,
+      "description": "All but one of England's water companies were rated as \"poor\" or \"requiring improvement\" for environmental targets.",
+      "link": "https://www.bbc.co.uk/news/articles/cw5ynxepy4gno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13ee/live/a45ae8b0-d37d-11f1-bf63-739fb2907d03.jpg",
+      "feed_name": "BBC News - Science & Environment",
+      "feed_title": "BBC News",
+      "category": "science",
+      "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://flowingdata.com/?p=83215",
+      "title": "✚ Visualization tools and learning resources, October 2026 roundup",
+      "published": "2026-10-29T12:05:06+00:00",
+      "author": "Nathan Yau",
+      "description": "Every month, I gather tools and resources to make better charts that communicate and reveal. Here is what happened in October. Tags: roundup",
+      "link": "https://flowingdata.com/2026/10/29/process-412-roundup/",
+      "image": "https://flowingdata.com/wp-content/uploads/2026/10/process-412-featured-750x500.png",
+      "feed_name": "FlowingData",
+      "feed_title": "FlowingData",
+      "category": "science",
+      "feed_url": "https://flowingdata.com/feed",
+      "feed_icon": "https://flowingdata.com/wp-content/uploads/2025/01/logo-lone-square512x512-120x120.png"
+    },
     {
       "id": "news712473202",
       "title": "Q&A: Are polls trustworthy?",
@@ -82,6 +138,20 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
     },
     {
+      "id": "https://www.scientificamerican.com/article/scientists-can-now-rewire-living-brains/",
+      "title": "Scientists can now rewire living brains",
+      "published": "2026-10-29T11:30:00+00:00",
+      "author": null,
+      "description": "The tool could eventually lead to an entirely new approach for treating mental health",
+      "link": "https://www.scientificamerican.com/article/scientists-can-now-rewire-living-brains/",
+      "image": "https://static.scientificamerican.com/dam/asset/de037fbe-ad03-4b89-b9f1-9e8153c38247/Neurons-firing.jpg?m=1793216430.205&w=1200",
+      "feed_name": "Scientific American Content: Global",
+      "feed_title": "Scientific American Content: Global",
+      "category": "science",
+      "feed_url": "http://rss.sciam.com/ScientificAmerican-Global",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.scientificamerican.com&sz=64"
+    },
+    {
       "id": "news712402208",
       "title": "As ancient oceans warmed, carbon export and fish productivity surged",
       "published": "2026-10-29T11:20:02+00:00",
@@ -110,18 +180,18 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cw5ynxepy4gno#0",
-      "title": "Serious pollution by water industry remains high despite £5bn investment",
-      "published": "2026-10-29T10:45:01+00:00",
+      "id": "https://www.scientificamerican.com/article/five-things-you-need-to-know-about-the-trump-administrations-rollback-of-methane-regulations/",
+      "title": "Five things you need to know about the Trump administration’s rollback of methane regulations",
+      "published": "2026-10-29T11:00:00+00:00",
       "author": null,
-      "description": "All but one of England's water companies were rated as \"poor\" or \"requiring improvement\" for environmental targets.",
-      "link": "https://www.bbc.co.uk/news/articles/cw5ynxepy4gno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13ee/live/a45ae8b0-d37d-11f1-bf63-739fb2907d03.jpg",
-      "feed_name": "BBC News - Science & Environment",
-      "feed_title": "BBC News",
+      "description": "The gas is a major driver of climate change",
+      "link": "https://www.scientificamerican.com/article/five-things-you-need-to-know-about-the-trump-administrations-rollback-of-methane-regulations/",
+      "image": "https://static.scientificamerican.com/dam/asset/b0808ea5-947d-4315-91fa-67fd408133d6/methane.jpg?m=1793227947.468&w=1200",
+      "feed_name": "Scientific American Content: Global",
+      "feed_title": "Scientific American Content: Global",
       "category": "science",
-      "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+      "feed_url": "http://rss.sciam.com/ScientificAmerican-Global",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.scientificamerican.com&sz=64"
     },
     {
       "id": "6ae21edad2de52506c44911f",
@@ -138,6 +208,20 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.wired.com&sz=64"
     },
     {
+      "id": "https://www.scientificamerican.com/article/mathematicians-find-an-infinite-number-of-ramanujan-equations/",
+      "title": "Mathematicians find an infinite number of Ramanujan equations",
+      "published": "2026-10-29T10:30:00+00:00",
+      "author": null,
+      "description": "Knots show how to generate infinitely many formulas of a kind developed by the visionary genius",
+      "link": "https://www.scientificamerican.com/article/mathematicians-find-an-infinite-number-of-ramanujan-equations/",
+      "image": "https://static.scientificamerican.com/dam/asset/3461546d-370c-4996-b463-9b73457a07e8/Trefoil-knot.jpeg?m=1793229201.894&w=1200",
+      "feed_name": "Scientific American Content: Global",
+      "feed_title": "Scientific American Content: Global",
+      "category": "science",
+      "feed_url": "http://rss.sciam.com/ScientificAmerican-Global",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.scientificamerican.com&sz=64"
+    },
+    {
       "id": "6ac53d249637ad55744650f4",
       "title": "I Gave My Blood to the AI Death Clock",
       "published": "2026-10-29T10:00:00+00:00",
@@ -150,6 +234,20 @@
       "category": "science",
       "feed_url": "https://www.wired.com/feed/category/science/latest/rss",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.wired.com&sz=64"
+    },
+    {
+      "id": "https://www.scientificamerican.com/article/can-the-worlds-religions-survive-the-existence-of-aliens/",
+      "title": "Can the world’s religions survive the existence of aliens?",
+      "published": "2026-10-29T10:00:00+00:00",
+      "author": null,
+      "description": "Finding alien life could shake some people to their very souls, but different religions can take very distinct approaches to the existence of extraterrestrial life",
+      "link": "https://www.scientificamerican.com/article/can-the-worlds-religions-survive-the-existence-of-aliens/",
+      "image": "https://static.scientificamerican.com/dam/asset/0e8e89df-df19-4ec3-976f-01c216eceb3e/Alien-religion.jpg?m=1793227264.262&w=1200",
+      "feed_name": "Scientific American Content: Global",
+      "feed_title": "Scientific American Content: Global",
+      "category": "science",
+      "feed_url": "http://rss.sciam.com/ScientificAmerican-Global",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.scientificamerican.com&sz=64"
     },
     {
       "id": "news712470184",
