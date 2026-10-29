@@ -1,6 +1,6 @@
 {
   "category": "World News",
-  "updated": "2026-10-29T02:33:12.342130+00:00",
+  "updated": "2026-10-29T03:02:31.187013+00:00",
   "count": 1000,
   "summary": {
     "text": "• Israel's election count is ongoing with no clear majority for Netanyahu's right-wing coalition or Gadi Eisenkot's opposition alliance, so coalition wrangling is expected. Protesters in Jerusalem, Tel Aviv and Haifa rallied for a Jewish-Arab government.\n• Vance proposed restarting comprehensive peace talks with Iran, including on its nuclear program, in a letter to an Iranian official.\n• China's tech stocks are sliding as investors question whether AI profits justify high valuations.\n• Samsung Electronics shares fell despite a record third-quarter profit.\n• A report says Pakistan's Hindu population fell from 14.6% to under 2%, amid periodic violence since 1947.",
@@ -11,6 +11,90 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "108470631",
+      "title": "Samsung Electronics shares slid despite record profit in the third-quarter",
+      "published": "2026-10-29T02:49:39+00:00",
+      "author": null,
+      "description": "Samsung Electronics reported third-quarter earnings on Thursday.",
+      "link": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108470863-1793136143433-gettyimages-2205145612-cros-mobilewo250305_npOel.jpeg?v=1793136156&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.theguardian.com/australia-news/live/2026/oct/29/labor-treasurer-jim-chalmers-social-media-anthony-albanese-coalition-one-nation-ntwnfb",
+      "title": "Australian politics live: Hastie ‘lived a lot’ of SAS report findings; Paterson accuses PM of ‘no standards’ over golf club",
+      "published": "2026-10-29T02:46:31+00:00",
+      "author": "Kat Wong",
+      "description": "Get our breaking news email , free app or daily news podcast Gas reservation policy set for lower house vote today Australia’s domestic gas reservation is set to be debated and voted on in the lower house today. Rather than international base companies, determining through algorithms what Australians receive, it empowers people themselves to determine what you receive on your devices, so that you should have that control. This isn’t about government having a greater role. It’s about people havi…",
+      "link": "https://www.theguardian.com/australia-news/live/2026/oct/29/labor-treasurer-jim-chalmers-social-media-anthony-albanese-coalition-one-nation-ntwnfb",
+      "image": "https://i.guim.co.uk/img/media/cefd634801ed20a2fd859adc3450e51aa4b71a77/642_0_6340_5072/master/6340.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=6527b4cbe95feb16cf6d2e6e03b7c76e",
+      "feed_name": "The Guardian",
+      "feed_title": "World news | The Guardian",
+      "category": "World News",
+      "feed_url": "https://www.theguardian.com/world/rss",
+      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/in-early-morning-mail-amazon-layoffs-250-staff-to-operate-more-efficiently-12251503#publisher=newsstand",
+      "title": "In Early Morning Mail, Amazon Layoffs 250 Staff To \"Operate More Efficiently\"",
+      "published": "2026-10-29T02:42:19+00:00",
+      "author": null,
+      "description": "As is the company's custom, text messages and emails were sent to workers early Wednesday morning.",
+      "link": "https://www.ndtv.com/world-news/in-early-morning-mail-amazon-layoffs-250-staff-to-operate-more-efficiently-12251503#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-10/844bep7_amazon-reuters_625x300_29_October_26.jpeg",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/south-asia/jei-functionary-met-indian-intel-official-in-secret-bangladesh-pm-aide/articleshow/135286931.cms",
+      "title": "JeI functionary met Indian intel official in secret: Bangladesh PM aide",
+      "published": "2026-10-29T02:37:31+00:00",
+      "author": "Ahsan Tasnim",
+      "description": "",
+      "link": "https://timesofindia.indiatimes.com/world/south-asia/jei-functionary-met-indian-intel-official-in-secret-bangladesh-pm-aide/articleshow/135286931.cms",
+      "image": "https://static.toiimg.com/photo/msid-135287037,imgsize-160690.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/trump-says-jd-vance-wanted-to-help-iran-with-medical-supplies-i-said-ok-12251464#publisher=newsstand",
+      "title": "\"I Said Ok\": Trump Says JD Vance Wanted To Help Iran With Medical Supplies",
+      "published": "2026-10-29T02:31:31+00:00",
+      "author": null,
+      "description": "The Iran war is now in its eighth month, with little indication of an off-ramp to the conflict.",
+      "link": "https://www.ndtv.com/world-news/trump-says-jd-vance-wanted-to-help-iran-with-medical-supplies-i-said-ok-12251464#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-10/25qiobqg_trump-vance-reuters_625x300_29_October_26.jpeg",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/no-clear-majority-record-arab-votes-and-a-dilemma-of-israels-opposition-12251370#publisher=newsstand",
+      "title": "No Clear Majority, Record Arab Votes And A Dilemma For Israel's Opposition",
+      "published": "2026-10-29T02:29:01+00:00",
+      "author": null,
+      "description": "Benjamin Netanyahu, Gadi Eisenkot and Mansour Abbas of Ra'am party",
+      "link": "https://www.ndtv.com/world-news/no-clear-majority-record-arab-votes-and-a-dilemma-of-israels-opposition-12251370#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-10/8c7cubf8_israel_625x300_28_October_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
     {
       "id": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-government-formation-negotiation.html",
       "title": "Israel’s Parties Gird for Wrangling to Form a Government, With No Clear Path",
@@ -40,6 +124,20 @@
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
+      "id": "https://www.ndtv.com/world-news/israel-election-results-live-updates-exit-polls-netanyahu-opposition-knesset-gadi-eisenkot-trump-12245676#publisher=newsstand",
+      "title": "Israel Election Results Live: Netanyahu's Bloc Leads In Israeli Election, Falls Short Of Majority",
+      "published": "2026-10-29T02:14:21+00:00",
+      "author": null,
+      "description": "Israel Election Results Live: It is the first election since the October 7 attack.",
+      "link": "https://www.ndtv.com/world-news/israel-election-results-live-updates-exit-polls-netanyahu-opposition-knesset-gadi-eisenkot-trump-12245676#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-10/j7kn377_israel_625x300_28_October_26.jpeg",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
       "id": "108472496",
       "title": "China’s tech darlings are losing their shine. Here’s what’s behind the sell-off",
       "published": "2026-10-29T02:14:14+00:00",
@@ -52,20 +150,6 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "https://www.theguardian.com/australia-news/live/2026/oct/29/labor-treasurer-jim-chalmers-social-media-anthony-albanese-coalition-one-nation-ntwnfb",
-      "title": "Australian politics live: Hastie ‘lived a lot’ of SAS report findings; Paterson accuses PM of ‘no standards’ over golf club",
-      "published": "2026-10-29T02:13:06+00:00",
-      "author": "Kat Wong",
-      "description": "Get our breaking news email , free app or daily news podcast Gas reservation policy set for lower house vote today Australia’s domestic gas reservation is set to be debated and voted on in the lower house today. Rather than international base companies, determining through algorithms what Australians receive, it empowers people themselves to determine what you receive on your devices, so that you should have that control. This isn’t about government having a greater role. It’s about people havi…",
-      "link": "https://www.theguardian.com/australia-news/live/2026/oct/29/labor-treasurer-jim-chalmers-social-media-anthony-albanese-coalition-one-nation-ntwnfb",
-      "image": "https://i.guim.co.uk/img/media/cefd634801ed20a2fd859adc3450e51aa4b71a77/642_0_6340_5072/master/6340.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=6527b4cbe95feb16cf6d2e6e03b7c76e",
-      "feed_name": "The Guardian",
-      "feed_title": "World news | The Guardian",
-      "category": "World News",
-      "feed_url": "https://www.theguardian.com/world/rss",
-      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/middle-east/from-the-river-to-the-sea-hundreds-rally-across-israel-for-jewish-arab-government-as-election-count-continues/articleshow/135286444.cms",
@@ -82,18 +166,18 @@
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
-      "id": "108470631",
-      "title": "Samsung Electronics shares slid despite record profit in the third-quarter",
-      "published": "2026-10-29T02:06:04+00:00",
+      "id": "https://www.ndtv.com/world-news/ndtv-world-summit-dont-touch-indian-products-nikhil-kamath-recalls-satya-nadella-remark-12229706#publisher=newsstand",
+      "title": "'Don't Touch Indian Products': Nikhil Kamath Recalls Satya Nadella Remark",
+      "published": "2026-10-29T02:09:37+00:00",
       "author": null,
-      "description": "Samsung Electronics reported third-quarter earnings on Thursday.",
-      "link": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108470863-1793136143433-gettyimages-2205145612-cros-mobilewo250305_npOel.jpeg?v=1793136156&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
+      "description": "Nikhil Kamath recalled a conversation with Satya Nadella at NDTV World Summit 2026.",
+      "link": "https://www.ndtv.com/world-news/ndtv-world-summit-dont-touch-indian-products-nikhil-kamath-recalls-satya-nadella-remark-12229706#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-10/p13tpcsc_nikhil-kamath_625x300_24_October_26.jpeg",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
       "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
       "id": "https://www.ndtv.com/world-news/report-flags-how-pakistans-hindu-population-fell-from-14-6-percent-to-under-2-percent-12251385#publisher=newsstand",
@@ -110,20 +194,6 @@
       "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
-      "id": "https://www.ndtv.com/world-news/no-clear-majority-record-arab-votes-and-a-dilemma-of-israels-opposition-12251370#publisher=newsstand",
-      "title": "No Clear Majority, Record Arab Votes And A Dilemma Of Israel's Opposition",
-      "published": "2026-10-29T01:50:21+00:00",
-      "author": null,
-      "description": "Benjamin Netanyahu, Gadi Eisenkot and Mansour Abbas of Ra'am party",
-      "link": "https://www.ndtv.com/world-news/no-clear-majority-record-arab-votes-and-a-dilemma-of-israels-opposition-12251370#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-10/8c7cubf8_israel_625x300_28_October_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
       "id": "https://www.ndtv.com/world-news/top-eu-leader-david-mcallister-tells-ndtv-mother-of-all-deals-with-india-targeted-for-december-12251326#publisher=newsstand",
       "title": "Top EU Leader Says \"Mother Of All Deals\" With India Targeted For December",
       "published": "2026-10-29T01:24:35+00:00",
@@ -131,20 +201,6 @@
       "description": "Asked about timeline, David McAllister expressed hope that agreement would be signed by December.",
       "link": "https://www.ndtv.com/world-news/top-eu-leader-david-mcallister-tells-ndtv-mother-of-all-deals-with-india-targeted-for-december-12251326#publisher=newsstand",
       "image": "https://c.ndtvimg.com/2026-10/53ta6rqs_india-eu_625x300_29_October_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/israel-election-results-live-updates-exit-polls-netanyahu-opposition-knesset-gadi-eisenkot-trump-12245676#publisher=newsstand",
-      "title": "Israel Election Results Live: Israel Elections 'Stolen' By Arab Parties, Claims Netanyahu, As His Party Falls Short Of Majority",
-      "published": "2026-10-29T01:15:06+00:00",
-      "author": null,
-      "description": "Israel Election Results Live: It is the first election since the October 7 attack.",
-      "link": "https://www.ndtv.com/world-news/israel-election-results-live-updates-exit-polls-netanyahu-opposition-knesset-gadi-eisenkot-trump-12245676#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-10/j7kn377_israel_625x300_28_October_26.jpeg",
       "feed_name": "NDTV News - World-news",
       "feed_title": "NDTV News Search Records Found 1000",
       "category": "World News",
@@ -248,6 +304,20 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "t3_1xi4tey",
+      "title": "Flávio Bolsonaro lands in US after fleeing Brazil via Argentina",
+      "published": "2026-10-29T00:00:18+00:00",
+      "author": "/u/um_nerd",
+      "description": "submitted by /u/um_nerd [link] [comments]",
+      "link": "https://www.reddit.com/r/worldnews/comments/1xi4tey/flávio_bolsonaro_lands_in_us_after_fleeing_brazil/",
+      "image": "https://external-preview.redd.it/qkqq-iKMOPSsm9_ht31xk0_gefl5pRpqg2YvsF5G3yw.jpeg?width=640&crop=smart&auto=webp&s=87a7c349a000e069f02bc460d91eb9d7ae7d2bf9",
+      "feed_name": "World News",
+      "feed_title": "World News",
+      "category": "World News",
+      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
+      "feed_icon": "https://www.redditstatic.com/icon.png/"
     },
     {
       "id": "108477039",
@@ -1862,7 +1932,7 @@
     {
       "id": "https://www.nytimes.com/2026/10/28/world/europe/knife-wielding-attacker-fatally-shot-outside-israeli-embassy-in-serbia.html",
       "title": "Knife-Wielding Attacker Fatally Shot Outside Israeli Embassy in Serbia",
-      "published": "2026-10-28T15:26:02+00:00",
+      "published": "2026-10-28T15:26:03+00:00",
       "author": "Lynsey Chutel and Alisa Dogramadzieva",
       "description": "The attacker, a minor, appeared to be a supporter of the Islamic State, the government said. Authorities have described it as a terrorist attack.",
       "link": "https://www.nytimes.com/2026/10/28/world/europe/knife-wielding-attacker-fatally-shot-outside-israeli-embassy-in-serbia.html",
@@ -13940,76 +14010,6 @@
       "category": "World News",
       "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "t3_1xfc0w4",
-      "title": "Prime Minister Carney to host Canada-European Union Summit in Montréal to advance an ambitious new Canada-EU partnership",
-      "published": "2026-10-25T19:54:01+00:00",
-      "author": "/u/Nightronno",
-      "description": "submitted by /u/Nightronno [link] [comments]",
-      "link": "https://www.reddit.com/r/worldnews/comments/1xfc0w4/prime_minister_carney_to_host_canadaeuropean/",
-      "image": "https://external-preview.redd.it/HaRGhV3vYyCx4oTQZGd20P3FSLAhIUhDgDjdJmT36zY.png?width=640&crop=smart&auto=webp&s=4869f94c7e432a18eae7f4118b1bb9ce13c2df95",
-      "feed_name": "World News",
-      "feed_title": "World News",
-      "category": "World News",
-      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
-      "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/10/25/world/americas/brazil-election-lula-bolsonaro-what-to-know.html",
-      "title": "What to Know About Brazil’s Election as Bolsonaro Faces Off With Lula",
-      "published": "2026-10-25T19:53:55+00:00",
-      "author": "Ana Ionova",
-      "description": "Luiz Inácio Lula da Silva, the leftist incumbent, and Flávio Bolsonaro, the right-wing challenger, face off in a narrow race that could redefine the future of Latin America.",
-      "link": "https://www.nytimes.com/2026/10/25/world/americas/brazil-election-lula-bolsonaro-what-to-know.html",
-      "image": "https://static01.nyt.com/images/2026/10/25/multimedia/25int-brazil-election-wtk-kwpv/25int-brazil-election-wtk-kwpv-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/rest-of-world/i-am-here-with-you-nobel-laureate-venezuela-opposition-leader-machado-returns-after-nearly-a-year-in-exile/articleshow/135197260.cms",
-      "title": "Nobel laureate, Venezuela opposition leader Machado returns after exile",
-      "published": "2026-10-25T19:41:21+00:00",
-      "author": "Prisha Patnaik",
-      "description": "",
-      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/i-am-here-with-you-nobel-laureate-venezuela-opposition-leader-machado-returns-after-nearly-a-year-in-exile/articleshow/135197260.cms",
-      "image": "https://static.toiimg.com/photo/msid-135197389,imgsize-105982.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/uk/in-1973-george-harrison-donated-the-royalties-from-living-in-the-material-world-to-his-foundation-forever-51-years-later-it-recorded-573221-in-charitable-spending-during-2024-alone/articleshow/135197167.cms",
-      "title": "George Harrison donated his album royalties to charity. In 2024, his foundation spent £573,221",
-      "published": "2026-10-25T19:34:21+00:00",
-      "author": "TOI World Desk",
-      "description": "George Harrison's Material World Foundation continues to thrive, providing substantial funding to charitable initiatives worldwide. In 2024 alone, the foundation allocated over £573,000 towards public health, education, and emergency relief efforts. Operated independently by a board of trustees including Olivia Harrison, it eschews salaries to focus all resources on its mission. Founded from royalties of Harrison's classic album, Living in the Material World, the foundation's influence endures,…",
-      "link": "https://timesofindia.indiatimes.com/world/uk/in-1973-george-harrison-donated-the-royalties-from-living-in-the-material-world-to-his-foundation-forever-51-years-later-it-recorded-573221-in-charitable-spending-during-2024-alone/articleshow/135197167.cms",
-      "image": "https://static.toiimg.com/photo/msid-135197344,imgsize-712313.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World - The Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/us/after-their-granddaughter-needed-intensive-care-at-birth-a-new-york-couples-foundation-pledged-10-million-to-expand-a-neonatal-unit-the-gift-will-match-community-donations-and-support-care-for-hundreds-of-babies/articleshow/135188619.cms",
-      "title": "New York couple pledges $10 million to expand NICU after granddaughter’s birth experience",
-      "published": "2026-10-25T19:25:00+00:00",
-      "author": "TOI World Desk",
-      "description": "Donald and Barbara Zucker have pledged a remarkable $10 million to elevate the standard of neonatal intensive care at Good Samaritan University Hospital. This generous commitment will be complemented by donations from the community, amplifying its reach. The initiative aims to upgrade the neonatal unit with cutting-edge technology and supportive amenities, ensuring high-risk newborns and their families receive essential care in a nurturing environment close to home.",
-      "link": "https://timesofindia.indiatimes.com/world/us/after-their-granddaughter-needed-intensive-care-at-birth-a-new-york-couples-foundation-pledged-10-million-to-expand-a-neonatal-unit-the-gift-will-match-community-donations-and-support-care-for-hundreds-of-babies/articleshow/135188619.cms",
-      "image": "https://static.toiimg.com/photo/msid-135188743,imgsize-1196393.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "category": "funny",
-  "updated": "2026-10-29T02:33:12.342130+00:00",
-  "count": 212,
+  "updated": "2026-10-29T03:02:31.187013+00:00",
+  "count": 213,
   "summary": null,
   "items": [
     {
@@ -367,6 +367,20 @@
       "category": "funny",
       "feed_url": "http://syndication.thedailywtf.com/TheDailyWtf",
       "feed_icon": "https://www.google.com/s2/favicons?domain=thedailywtf.com&sz=64"
+    },
+    {
+      "id": "https://xkcd.com/3317/",
+      "title": "Gravitational Square Wave",
+      "published": "2026-10-28T04:00:00+00:00",
+      "author": null,
+      "description": "",
+      "link": "https://xkcd.com/3317/",
+      "image": "https://imgs.xkcd.com/comics/gravitational_square_wave.png",
+      "feed_name": "xkcd.com",
+      "feed_title": "xkcd.com",
+      "category": "funny",
+      "feed_url": "https://xkcd.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=xkcd.com&sz=64"
     },
     {
       "id": "https://cheezburger.com/47230469/dad-refuses-to-let-mom-buy-halloween-costumes-for-his-2-daughters-but-buys-himself-a-halloween",

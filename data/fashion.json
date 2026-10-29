@@ -1,9 +1,30 @@
 {
   "category": "fashion",
-  "updated": "2026-10-29T02:33:12.342130+00:00",
+  "updated": "2026-10-29T03:02:31.187013+00:00",
   "count": 293,
-  "summary": null,
+  "summary": {
+    "text": "• A NYT Style piece says New Orleans's legacy of death and rebirth helped shape Anne Rice's imagination.\n• New Orleans is celebrating the 50th anniversary of \"Interview With the Vampire,\" Rice's first novel.\n• The article describes her hometown as her greatest muse.",
+    "generated_at": "2026-10-29T03:02:31.187013+00:00",
+    "window_minutes": 60,
+    "item_count": 1,
+    "key": "965f8dad6322cee2668343f3408e3443db8cb4f6",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/10/28/style/new-orleans-anne-rice-interview-with-vampire.html",
+      "title": "New Orleans’s Legacy of Death and Rebirth Helped Shaped Anne Rice’s Imagination",
+      "published": "2026-10-29T02:45:01+00:00",
+      "author": "Shannon Sims and Annie Flanagan",
+      "description": "The Big Easy celebrates the 50th anniversary of ‘Interview With the Vampire,’ the first novel by Anne Rice, whose hometown served as her greatest muse.",
+      "link": "https://www.nytimes.com/2026/10/28/style/new-orleans-anne-rice-interview-with-vampire.html",
+      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/28NOLAS-ANNERICE-17-zcgl/28NOLAS-ANNERICE-17-zcgl-mediumSquareAt3X-v3.jpg",
+      "feed_name": "NYT > Style",
+      "feed_title": "NYT > Style",
+      "category": "fashion",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "jHVhmJBBtj2zPaw27aW3rk",
       "title": "Fashion Insiders Are Already Wearing What Will Be Saint Laurent's Most Coveted Designer Bag",
@@ -222,20 +243,6 @@
       "description": "Cast members from HBO’s “The Gilded Age” snacked on cheese tortelloni and duck shawarma and had their portraits sketched at the Plaza Hotel on Monday night.",
       "link": "https://www.nytimes.com/2026/10/27/style/gilded-age-party-nyc-plaza-hotel.html",
       "image": "https://static01.nyt.com/images/2026/10/27/multimedia/ST-GILDEDAGE-PARTY-01-thlw/ST-GILDEDAGE-PARTY-01-thlw-mediumSquareAt3X.jpg",
-      "feed_name": "NYT > Style",
-      "feed_title": "NYT > Style",
-      "category": "fashion",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/10/28/style/new-orleans-anne-rice-interview-with-vampire.html",
-      "title": "New Orleans’s Legacy of Death and Rebirth Helped Shaped Anne Rice’s Imagination",
-      "published": "2026-10-28T16:34:52+00:00",
-      "author": "Shannon Sims and Annie Flanagan",
-      "description": "The Big Easy celebrates the 50th anniversary of ‘Interview With the Vampire,’ the first novel by Anne Rice, whose hometown served as her greatest muse.",
-      "link": "https://www.nytimes.com/2026/10/28/style/new-orleans-anne-rice-interview-with-vampire.html",
-      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/28NOLAS-ANNERICE-17-zcgl/28NOLAS-ANNERICE-17-zcgl-mediumSquareAt3X-v3.jpg",
       "feed_name": "NYT > Style",
       "feed_title": "NYT > Style",
       "category": "fashion",
