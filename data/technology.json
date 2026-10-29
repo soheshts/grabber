@@ -1,16 +1,58 @@
 {
   "category": "technology",
-  "updated": "2026-10-29T08:32:12.027804+00:00",
+  "updated": "2026-10-29T09:03:54.348545+00:00",
   "count": 1000,
   "summary": {
-    "text": "• Kalshi and Polymarket US filed federal suits against Missouri and Louisiana on the same day the CFTC sued Utah. The cases bring the preemption fight into states with licensed sportsbooks and casinos.",
-    "generated_at": "2026-10-29T08:03:54.573883+00:00",
+    "text": "• Amazon has cut up to 250 jobs in its devices and services unit, which makes Kindle e-readers, Echo speakers and other Alexa hardware, Reuters reported.\n• Fujifilm plans to raise data tape production fivefold as AI data centres drive demand for storage.\n• Anthropic told California Governor Gavin Newsom that courts should be able to block AI models that pose serious risks, in a letter.\n• A hacktivist group stole details of more than 41,000 Homeland Security personnel, including ICE agents and border police.",
+    "generated_at": "2026-10-29T09:03:54.348545+00:00",
     "window_minutes": 60,
-    "item_count": 1,
-    "key": "c23a88ad8e44b9aab1352fcf0a2a55b2a85306af",
+    "item_count": 4,
+    "key": "be5ab1168d9a855564e50f1dc888fa629d954195",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "TheNextWeb=fe5aab6ac3c73ac01e323831aefc3351",
+      "title": "Amazon cuts up to 250 jobs in its devices unit, Reuters reports",
+      "published": "2026-10-29T08:44:19+00:00",
+      "author": "Alina Maria Stan",
+      "description": "Amazon has cut up to 250 jobs in its devices and services unit, Reuters reported. The unit makes Kindle e-readers, Echo speakers and other hardware that runs Amazon’s Alexa assistant. The cuts mainly affected software developers, a person familiar with the matter told Reuters. Staff were told by text message and email early on Wednesday […] This story continues at The Next Web",
+      "link": "https://thenextweb.com/news/amazon-devices-unit-job-cuts",
+      "image": "https://media.thenextweb.com/2026/10/amazon-logo-sign-building-facade-blue-sky.avif",
+      "feed_name": "The Next Web",
+      "feed_title": "The Next Web",
+      "category": "technology",
+      "feed_url": "https://thenextweb.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
+    {
+      "id": "TheNextWeb=9695d1cb4154ca741b843ab0b6e64a52",
+      "title": "Fujifilm to raise data tape production fivefold as AI drives storage demand",
+      "published": "2026-10-29T08:35:19+00:00",
+      "author": "Ana-Maria Stanciuc",
+      "description": "AI data centres are creating a growing need for storage, and Fujifilm is betting that one of the oldest technologies in the business still has a place in the future. The Japanese company will invest ¥10 billion (€56 million) to increase its magnetic tape production capacity fivefold. The investment will go into Fujifilm’s factory in […] This story continues at The Next Web",
+      "link": "https://thenextweb.com/news/fujifilm-magnetic-tape-production-fivefold-ai",
+      "image": "https://media.thenextweb.com/2026/10/lto-tape-cartridge-inside-open-tape-drive.avif",
+      "feed_name": "The Next Web",
+      "feed_title": "The Next Web",
+      "category": "technology",
+      "feed_url": "https://thenextweb.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
+    {
+      "id": "https://www.engadget.com/2300661/hackers-leaked-details-more-than-41000-homeland-security-personnel/",
+      "title": "Hackers leaked details of more than 41,000 Homeland Security personnel",
+      "published": "2026-10-29T08:33:46+00:00",
+      "author": "Mariella Moon",
+      "description": "A hacktivist group stole the information of ICE agents and border police from Homeland Security.",
+      "link": "https://www.engadget.com/2300661/hackers-leaked-details-more-than-41000-homeland-security-personnel/",
+      "image": "https://www.engadget.com/img/gallery/hackers-leaked-details-of-more-than-41000-homeland-security-personnel/l-intro-1793262738.jpg",
+      "feed_name": "Engadget",
+      "feed_title": "Engadget - Technology News & Expert Reviews",
+      "category": "technology",
+      "feed_url": "https://www.engadget.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
     {
       "id": "TheNextWeb=272d65442a09b5aed7bd7336d9fafd13",
       "title": "Anthropic tells Governor Gavin Newsom courts should be able to block risky AI models",
@@ -13968,48 +14010,6 @@
       "category": "technology",
       "feed_url": "https://www.blog.google/rss/",
       "feed_icon": "https://blog.google/static/blogv2/images/google.png"
-    },
-    {
-      "id": "https://blog.google/products-and-platforms/products/search/fashion-capital-style-searches/",
-      "title": "See the top style searches from people in big fashion capitals.",
-      "published": "2026-10-19T16:00:00+00:00",
-      "author": null,
-      "description": "We took a look at Google Trends to see what people in seven major fashion capitals are searching for to give them that je ne sais quoi when it comes to their sartorial s…",
-      "link": "https://blog.google/products-and-platforms/products/search/fashion-capital-style-searches/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FashionTrends_social.max-600x600.format-webp.webp",
-      "feed_name": "The Keyword",
-      "feed_title": "News from Google",
-      "category": "technology",
-      "feed_url": "https://www.blog.google/rss/",
-      "feed_icon": "https://blog.google/static/blogv2/images/google.png"
-    },
-    {
-      "id": "https://blog.google/company-news/outreach-and-initiatives/sustainability/brazil-silvopasture/",
-      "title": "We’re supporting nature restoration through sustainable farming in Brazil.",
-      "published": "2026-10-19T12:00:00+00:00",
-      "author": "Randy Spock",
-      "description": "Google is partnering with Working Trees to remove 270,000 tons of CO2 via silvopasture in Brazil. See how this project restores land and ranching.",
-      "link": "https://blog.google/company-news/outreach-and-initiatives/sustainability/brazil-silvopasture/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Working_Trees_Silvopasture.max-600x600.format-webp.webp",
-      "feed_name": "The Keyword",
-      "feed_title": "News from Google",
-      "category": "technology",
-      "feed_url": "https://www.blog.google/rss/",
-      "feed_icon": "https://blog.google/static/blogv2/images/google.png"
-    },
-    {
-      "id": "https://stratechery.com/?p=20364",
-      "title": "Do You Trust Apple?",
-      "published": "2026-10-19T10:00:00+00:00",
-      "author": "Ben Thompson",
-      "description": "Apple has a lot of trust in terms of delivering integrated products and preserving privacy; the real trust question is if you think Siri AI will justify investing more in their ecosystem.",
-      "link": "https://stratechery.com/2026/do-you-trust-apple/",
-      "image": "https://i0.wp.com/stratechery.com/wp-content/uploads/2026/10/apple-trust-2.png?resize=600%2C450&ssl=1",
-      "feed_name": "Stratechery by Ben Thompson",
-      "feed_title": "Stratechery by Ben Thompson",
-      "category": "technology",
-      "feed_url": "http://stratechery.com/feed/",
-      "feed_icon": "https://i0.wp.com/stratechery.com/wp-content/uploads/2018/03/cropped-android-chrome-512x512-1.png?fit=32%2C32&ssl=1"
     }
   ]
 }

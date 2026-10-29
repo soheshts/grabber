@@ -1,9 +1,30 @@
 {
   "category": "science",
-  "updated": "2026-10-29T08:32:12.027804+00:00",
+  "updated": "2026-10-29T09:03:54.348545+00:00",
   "count": 702,
-  "summary": null,
+  "summary": {
+    "text": "• An opinion piece from Phys.org argues the WHO should declare climate change a public health emergency, citing record-breaking heat and extreme weather in the Northern Hemisphere's latest summer and impacts felt worldwide. The item is truncated, so the full argument is unavailable.",
+    "generated_at": "2026-10-29T09:03:54.348545+00:00",
+    "window_minutes": 60,
+    "item_count": 1,
+    "key": "f17197f95a27f3deba91784b7c9d66014b2e5949",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "news712468492",
+      "title": "Why the WHO must declare climate change a public health emergency",
+      "published": "2026-10-29T08:55:47+00:00",
+      "author": null,
+      "description": "Across the world, people have felt the impacts of climate change firsthand. The Northern Hemisphere has had another record-breaking summer season of heat and extreme weather events. The Southern Hemisphere now faces a summer of heat waves, flooding, wildfires and droughts. This is driven by decades of climate change, now supercharged by an unprecedented El Niño—the warm phase of the El Niño Southern Oscillation, which is a cyclical warming and cooling of the Pacific Ocean driven by changing tra…",
+      "link": "https://phys.org/news/2026-10-declare-climate-health-emergency.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/extreme-flooding.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
     {
       "id": "https://flowingdata.com/?p=83199",
       "title": "Cost of college versus the return on investement",
@@ -9817,20 +9838,6 @@
       "category": "science",
       "feed_url": "https://feeds.simplecast.com/y1LF_sn2",
       "feed_icon": "https://image.simplecastcdn.com/images/ee8ef2f9-5bb2-4a0a-bad7-44fd3b17d53c/3c7d6aae-f46d-4881-9705-a7213fb0a05d/3000x3000/sawbonesalbumartrevisionsfinalresize872025.jpg?aid=rss_feed"
-    },
-    {
-      "id": "bf4fb872-b75c-11f1-aa68-fb5925aeb853",
-      "title": "Navigating Science and Health Misinformation [Sponsored]",
-      "published": "2026-09-29T09:00:00+00:00",
-      "author": "Scientific American",
-      "description": "As health misinformation surges online, Morgan McSweeney—known online as Dr. Noc, a science communicator and immunology expert whose videos reach millions each month across TikTok, Instagram, and X—explores why facts alone might not be enough to earn public trust, and what science communicators can do differently. This podcast was produced for Bayer by Scientific American Custom Media, a division separate from the magazine's board of editors. Learn more about your ad choices. Visit megaphone.fm…",
-      "link": null,
-      "image": null,
-      "feed_name": "60-Second Science",
-      "feed_title": "60-Second Science",
-      "category": "science",
-      "feed_url": "http://rss.sciam.com/sciam/60secsciencepodcast",
-      "feed_icon": "https://megaphone.imgix.net/podcasts/9e578524-a403-11ee-a6cf-cbcdcc0e11fb/image/ec5ff1c72de2a19d67bc6425661674b1.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
     }
   ]
 }

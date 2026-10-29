@@ -1,16 +1,30 @@
 {
   "category": "fashion",
-  "updated": "2026-10-29T08:32:12.027804+00:00",
-  "count": 300,
+  "updated": "2026-10-29T09:03:54.348545+00:00",
+  "count": 301,
   "summary": {
-    "text": "• Who What Wear marks the arrival of spooky season.\n• It offers four niche Halloween costume ideas aimed at every aesthetic.\n• Its message is clear: no more lazy masks.",
-    "generated_at": "2026-10-29T08:03:54.573883+00:00",
+    "text": "• A New York Times Style piece recalls how R.L. Stine, the author of children's horror books, haunted one writer's childhood.\n• An anxious middle-schooler moved in next door to Stine, the man who wrote horror for kids.\n• The piece wonders whether ghosts were floating from his chimney.",
+    "generated_at": "2026-10-29T09:03:54.348545+00:00",
     "window_minutes": 60,
     "item_count": 1,
-    "key": "9ae559128c8a1e378cf6772976900474f0e91f93",
+    "key": "b84c1377473dad15bf020ae00f58fb58732e6897",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/10/29/style/goosebumps-author-rl-stine-neighbor.html",
+      "title": "R.L. Stine Haunted My Childhood",
+      "published": "2026-10-29T09:00:40+00:00",
+      "author": "Alessandra Schade",
+      "description": "An anxious middle-schooler moved next door to the man who wrote horror for kids. Were those ghosts floating from his chimney?",
+      "link": "https://www.nytimes.com/2026/10/29/style/goosebumps-author-rl-stine-neighbor.html",
+      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29ST-RL-STINE-03-qfhm/29ST-RL-STINE-03-qfhm-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Style",
+      "feed_title": "NYT > Style",
+      "category": "fashion",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "QFHFayEH46aLXYmQBvpRge",
       "title": "9 Trends Set to Define Spring 2027 Fashion",
