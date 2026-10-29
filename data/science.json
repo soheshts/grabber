@@ -1,7 +1,7 @@
 {
   "category": "science",
-  "updated": "2026-10-29T00:33:26.204160+00:00",
-  "count": 692,
+  "updated": "2026-10-29T01:03:23.931669+00:00",
+  "count": 693,
   "summary": {
     "text": "• Astronaut Reid Wiseman, who flew on Artemis II past the Moon, has landed in California.\n• Now retired and emeritus, Wiseman will become deputy director of NASA's Jet Propulsion Laboratory, the agency's main center for deep-space robotic missions.\n• New research explains \"the phantom lighthouse,\" an illusion on Lady Elliot Island at the southern tip of Australia's Great Barrier Reef, where the first lighthouse, built in 1873, was decommissioned in 1995 after a second took over.",
     "generated_at": "2026-10-29T00:33:26.204160+00:00",
@@ -11,6 +11,20 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "news712411997",
+      "title": "How the Indian Ocean is linked to Europe's early-winter rain and storms",
+      "published": "2026-10-29T01:00:06+00:00",
+      "author": null,
+      "description": "When we think about Europe's winter weather, the Indian Ocean is probably not the first place we look. We might picture Atlantic storms, cold air arriving from the north or rain sweeping across the Mediterranean. In my research, however, I look at how these familiar weather systems fit into a much larger climate system. My colleagues and I asked whether an ocean thousands of kilometers away could leave a detectable signature on Europe's early winter.",
+      "link": "https://phys.org/news/2026-10-indian-ocean-linked-europe-early.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-the-indian-ocean-i.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
     {
       "id": "https://www.nytimes.com/2026/10/28/science/space/reid-wiseman-artemis-ii-astronaut.html",
       "title": "After Flying Past the Moon, an Artemis II Astronaut Lands in California",

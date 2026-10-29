@@ -1,6 +1,6 @@
 {
   "category": "World News",
-  "updated": "2026-10-29T00:33:26.204160+00:00",
+  "updated": "2026-10-29T01:03:23.931669+00:00",
   "count": 1000,
   "summary": {
     "text": "• Arab parties posted a surprise showing in the Israeli vote, making the Arab minority a political force.\n• Labor says the ATO could have handled its credit card ban better; a gas reservation policy faces a lower house vote.\n• New Delhi approved $22 billion in military spending amid China border tensions, opening opportunities for US, Israeli and Russian defense firms.\n• Trump officials are discussing sanctions relief for a Russian state fund, Russia acknowledged, as part of Ukraine war talks.",
@@ -11,6 +11,62 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "108470631",
+      "title": "Samsung Electronics third-quarter profit in line with estimates amid rising demand for AI memory chips",
+      "published": "2026-10-29T01:02:10+00:00",
+      "author": null,
+      "description": "Samsung Electronics reported third-quarter earnings on Thursday.",
+      "link": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108470863-1793136143433-gettyimages-2205145612-cros-mobilewo250305_npOel.jpeg?v=1793136156&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.theguardian.com/australia-news/live/2026/oct/29/labor-treasurer-jim-chalmers-social-media-anthony-albanese-coalition-one-nation-ntwnfb",
+      "title": "Australian politics live: Labor says ATO could have handled credit card ban better; man cautioned for allegedly stalking MPs",
+      "published": "2026-10-29T00:46:25+00:00",
+      "author": "Kat Wong",
+      "description": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Gas reservation policy set for lower house vote today Australia’s domestic gas reservation is set to be debated and voted on in the lower house today. Rather than international base companies, determining through algorithms what Australians receive, it empowers people themselves to determine what you receive on your devices, so that you should have that control. This isn’t about government having a greater r…",
+      "link": "https://www.theguardian.com/australia-news/live/2026/oct/29/labor-treasurer-jim-chalmers-social-media-anthony-albanese-coalition-one-nation-ntwnfb",
+      "image": "https://i.guim.co.uk/img/media/cefd634801ed20a2fd859adc3450e51aa4b71a77/642_0_6340_5072/master/6340.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=6527b4cbe95feb16cf6d2e6e03b7c76e",
+      "feed_name": "The Guardian",
+      "feed_title": "World news | The Guardian",
+      "category": "World News",
+      "feed_url": "https://www.theguardian.com/world/rss",
+      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/us/in-2022-four-friends-sold-homemade-cinnamon-rolls-through-messages-and-local-deliveries-in-utah-four-years-later-sunshine-buns-has-raised-7-million-and-expanded-onto-target-shelves-nationwide/articleshow/135278616.cms",
+      "title": "Sunshine Buns, started in 2022 by four Utah friends, raised $7 million",
+      "published": "2026-10-29T00:40:33+00:00",
+      "author": "TOI World Desk",
+      "description": "Sunshine Buns has successfully secured $7 million in Series A funding, allowing them to broaden their store presence. Founded by four friends using a family cinnamon roll recipe, their frozen delights are now featured in major retailers like Target and Costco. This new funding will support production and marketing efforts, and the founders attribute their success to local mentors and the nurturing startup community in Utah.",
+      "link": "https://timesofindia.indiatimes.com/world/us/in-2022-four-friends-sold-homemade-cinnamon-rolls-through-messages-and-local-deliveries-in-utah-four-years-later-sunshine-buns-has-raised-7-million-and-expanded-onto-target-shelves-nationwide/articleshow/135278616.cms",
+      "image": "https://static.toiimg.com/photo/msid-135278949,imgsize-1602149.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
+      "id": "https://www.theguardian.com/australia-news/2026/oct/29/australian-sas-officers-knew-about-unlawful-throwdowns-on-dead-afghans-report-says-ntwnfb",
+      "title": "Australian SAS officers knew about unlawful ‘throwdowns’ on dead Afghans, report says",
+      "published": "2026-10-29T00:30:25+00:00",
+      "author": "Ben Doherty",
+      "description": "Nothing done to stop planting weapons on dead Afghans, ADF inspector says, as ‘breakdown of command’ allowed ‘egregious behaviour’ Get our daily political email , free app or daily news podcast Some Australian SAS officers knew that soldiers under their command were using “throwdowns” – planting weapons on dead Afghan civilians to portray them as combatants – but did nothing to stop the unlawful practice, a previously unpublished military report has said. Posted online this week, the executive…",
+      "link": "https://www.theguardian.com/australia-news/2026/oct/29/australian-sas-officers-knew-about-unlawful-throwdowns-on-dead-afghans-report-says-ntwnfb",
+      "image": "https://i.guim.co.uk/img/media/79e19b6c1820033c6a5de13ba1d225a11e3db68b/267_0_2465_1972/master/2465.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fa5e16ef53aabacd8738ba7512d487fd",
+      "feed_name": "The Guardian",
+      "feed_title": "World news | The Guardian",
+      "category": "World News",
+      "feed_url": "https://www.theguardian.com/world/rss",
+      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
     {
       "id": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-arab-parties.html",
       "title": "Surprise Showing by Arab Parties in Israeli Vote Puts Them in Spotlight",
@@ -24,20 +80,6 @@
       "category": "World News",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "https://www.theguardian.com/australia-news/live/2026/oct/29/labor-treasurer-jim-chalmers-social-media-anthony-albanese-coalition-one-nation-ntwnfb",
-      "title": "Australian politics live: Labor says ATO could have handled credit card ban better; man cautioned for allegedly stalking MPs",
-      "published": "2026-10-29T00:17:50+00:00",
-      "author": "Kat Wong",
-      "description": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Gas reservation policy set for lower house vote today Australia’s domestic gas reservation is set to be debated and voted on in the lower house today. Rather than international base companies, determining through algorithms what Australians receive, it empowers people themselves to determine what you receive on your devices, so that you should have that control. This isn’t about government having a greater r…",
-      "link": "https://www.theguardian.com/australia-news/live/2026/oct/29/labor-treasurer-jim-chalmers-social-media-anthony-albanese-coalition-one-nation-ntwnfb",
-      "image": "https://i.guim.co.uk/img/media/cefd634801ed20a2fd859adc3450e51aa4b71a77/642_0_6340_5072/master/6340.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=6527b4cbe95feb16cf6d2e6e03b7c76e",
-      "feed_name": "The Guardian",
-      "feed_title": "World news | The Guardian",
-      "category": "World News",
-      "feed_url": "https://www.theguardian.com/world/rss",
-      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
     },
     {
       "id": "108468414",
@@ -369,20 +411,6 @@
       "description": "Far-right senator and family land in US after crossing from Brazil into Argentina and then flying via Ecuador Flávio Bolsonaro declared himself the “true president” of Brazil after losing last Sunday’s presidential election and fleeing to the United States. After landing on a private jet with his family in Miami, Florida , on Wednesday morning, the far-right senator published the claim in a letter – even though his own party has recognised the legitimate victory of Luiz Inácio Lula da Silva , a…",
       "link": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat",
       "image": "https://i.guim.co.uk/img/media/2170987378178195956e67e41f488cab00065ef6/476_0_4961_3969/master/4961.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ee63805c45fa7defd2a61c9187c9c639",
-      "feed_name": "The Guardian",
-      "feed_title": "World news | The Guardian",
-      "category": "World News",
-      "feed_url": "https://www.theguardian.com/world/rss",
-      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
-    },
-    {
-      "id": "https://www.theguardian.com/australia-news/2026/oct/29/australian-sas-officers-knew-about-unlawful-throwdowns-on-dead-afghans-report-says-ntwnfb",
-      "title": "Australian SAS officers knew about unlawful ‘throwdowns’ on dead Afghans, report says",
-      "published": "2026-10-28T22:05:31+00:00",
-      "author": "Ben Doherty",
-      "description": "Nothing done to stop planting weapons on dead Afghans, ADF inspector says, as ‘breakdown of command’ allowed ‘egregious behaviour’ Get our daily political email , free app or daily news podcast Some Australian SAS officers knew that soldiers under their command were using “throwdowns” – planting weapons on dead Afghan civilians to portray them as combatants – but did nothing to stop the unlawful practice, a previously unpublished military report has said. Posted online this week, the executive…",
-      "link": "https://www.theguardian.com/australia-news/2026/oct/29/australian-sas-officers-knew-about-unlawful-throwdowns-on-dead-afghans-report-says-ntwnfb",
-      "image": "https://i.guim.co.uk/img/media/79e19b6c1820033c6a5de13ba1d225a11e3db68b/267_0_2465_1972/master/2465.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fa5e16ef53aabacd8738ba7512d487fd",
       "feed_name": "The Guardian",
       "feed_title": "World news | The Guardian",
       "category": "World News",
@@ -13982,34 +14010,6 @@
       "category": "World News",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/nobel-peace-prize-winner-machado-announces-return-to-venezuela-12234797#publisher=newsstand",
-      "title": "Nobel Peace Prize Winner Machado Announces Return To Venezuela",
-      "published": "2026-10-25T18:25:58+00:00",
-      "author": null,
-      "description": "Observers believed US played a role in blocking Machado's return",
-      "link": "https://www.ndtv.com/world-news/nobel-peace-prize-winner-machado-announces-return-to-venezuela-12234797#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2025-10/bbfvng7s_maria-corina-machado_625x300_10_October_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
-      "id": "t3_1xf9sla",
-      "title": "For the first time in a decade, no major Russian military vessels plied the waters of the Mediterranean for several weeks earlier this year, according to a NATO official, a gap that could signal that Moscow’s maritime forces are stretched",
-      "published": "2026-10-25T18:25:50+00:00",
-      "author": "/u/sr_local",
-      "description": "submitted by /u/sr_local [link] [comments]",
-      "link": "https://www.reddit.com/r/worldnews/comments/1xf9sla/for_the_first_time_in_a_decade_no_major_russian/",
-      "image": "https://external-preview.redd.it/yQA50sA9th1Swu2YFs6H4ODl-sT0LB48oeKIuTn9dfc.jpeg?width=640&crop=smart&auto=webp&s=7c3bf089beb8eafca3e0a3f2619828967c1bae0c",
-      "feed_name": "World News",
-      "feed_title": "World News",
-      "category": "World News",
-      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
-      "feed_icon": "https://www.redditstatic.com/icon.png/"
     }
   ]
 }
