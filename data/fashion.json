@@ -1,9 +1,30 @@
 {
   "category": "fashion",
-  "updated": "2026-10-29T10:02:58.754066+00:00",
-  "count": 302,
-  "summary": null,
+  "updated": "2026-10-29T10:33:31.660469+00:00",
+  "count": 303,
+  "summary": {
+    "text": "• Who What Wear highlights six sneaker outfits it expects to stay in style through 2027, pitched as trendy pieces with longevity.",
+    "generated_at": "2026-10-29T10:33:31.660469+00:00",
+    "window_minutes": 60,
+    "item_count": 1,
+    "key": "9df32fdb80e75aa08cc528723ed1e3efc94d4803",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "dBhtWWDv9xPL9LYxNiygy4",
+      "title": "6 Cool Sneaker Outfits Everyone Will Still Be Wearing in 2027",
+      "published": "2026-10-29T10:00:00+00:00",
+      "author": "Allyson Payer",
+      "description": "They're trendy, but with longevity.",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/fall-winter-sneaker-outfits-2026",
+      "image": "https://cdn.mos.cms.futurecdn.net/NK8cyvr49MYHpx4aQ5LUMh-1920-80.jpg",
+      "feed_name": "Who What Wear",
+      "feed_title": "Latest from Who What Wear",
+      "category": "fashion",
+      "feed_url": "https://www.whowhatwear.com/rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.whowhatwear.com&sz=64"
+    },
     {
       "id": "https://www.nytimes.com/2026/10/29/style/goosebumps-author-rl-stine-neighbor.html",
       "title": "R.L. Stine Haunted My Childhood",

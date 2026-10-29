@@ -1,9 +1,30 @@
 {
   "category": "space",
-  "updated": "2026-10-29T10:02:58.754066+00:00",
-  "count": 138,
-  "summary": null,
+  "updated": "2026-10-29T10:33:31.660469+00:00",
+  "count": 139,
+  "summary": {
+    "text": "• SpaceX's Starfall capsule, described as mysterious, launched experimental cargo for the U.S. Air Force.\n• The Air Force recovered the cargo, which Space.com calls a landmark \"point to point\" space mission.\n• The mission is part of an effort to assess whether rapid point-to-point delivery is viable.\n• Only this one item was available, and its text is cut off, so further details are unavailable.",
+    "generated_at": "2026-10-29T10:33:31.660469+00:00",
+    "window_minutes": 60,
+    "item_count": 1,
+    "key": "5db952337fc023576153539babae755138d9d44e",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "fZ3JytcJseJz3WiELmK4wc",
+      "title": "SpaceX's Starfall capsule delivers cargo for US Air Force in landmark 'point to point' space mission",
+      "published": "2026-10-29T10:00:00+00:00",
+      "author": "Josh Dinner",
+      "description": "The U.S. Air Force has recovered experimental cargo launched aboard SpaceX's mysterious Starfall capsule, marking a step forward in the effort to assess the viability of rapid, point-to-point deliveries to anywhere on Earth.",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starfall-capsule-delivers-cargo-for-us-air-force-in-landmark-point-to-point-space-mission",
+      "image": "https://cdn.mos.cms.futurecdn.net/mTE8iKszeLh7DcAapy5ni8-1920-80.jpg",
+      "feed_name": "Space.com",
+      "feed_title": "Latest from Space.com",
+      "category": "space",
+      "feed_url": "https://www.space.com/feeds/all",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.space.com&sz=64"
+    },
     {
       "id": "https://science.nasa.gov/image-article/apod-29-october-2026-the-horns-of-venus/",
       "title": "APOD: 29 October 2026 – The Horns of Venus",

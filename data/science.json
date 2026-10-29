@@ -1,29 +1,43 @@
 {
   "category": "science",
-  "updated": "2026-10-29T10:02:58.754066+00:00",
-  "count": 707,
+  "updated": "2026-10-29T10:33:31.660469+00:00",
+  "count": 708,
   "summary": {
-    "text": "• Regulators say England's water companies' environmental performance has deteriorated further.\n• All but one company were rated \"poor\" or \"requiring improvement\" on environmental targets.\n• A flood-prone Philippine island north of Manila is turning to nature rather than concrete against rising seas.\n• Residents had repeatedly raised their homes on layers of concrete, but floodwaters still threatened them.",
-    "generated_at": "2026-10-29T10:02:58.754066+00:00",
+    "text": "• Serious pollution by England's water industry remains high despite £5bn in investment, with all but one water company rated \"poor\" or \"requiring improvement\" on environmental targets.\n• A writer reports giving blood to the AI Death Clock, which promises to predict when you'll die and help extend your time on Earth. After a month, they felt it was \"sucking the life out of me.\"",
+    "generated_at": "2026-10-29T10:33:31.660469+00:00",
     "window_minutes": 60,
     "item_count": 2,
-    "key": "25162dfa4d072239fcd5680acc7caeb100546759",
+    "key": "536d8648f82339e85374b17c4dce6b6b0016ef53",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cw5ynxepy4gno#0",
-      "title": "Water companies' environmental performance 'deteriorates' further - regulators",
-      "published": "2026-10-29T09:44:46+00:00",
+      "title": "Serious pollution by water industry remains high despite £5bn investment",
+      "published": "2026-10-29T10:17:28+00:00",
       "author": null,
       "description": "All but one of England's water companies were rated as \"poor\" or \"requiring improvement\" for environmental targets.",
       "link": "https://www.bbc.co.uk/news/articles/cw5ynxepy4gno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13ee/live/a45ae8b0-d37d-11f1-bf63-739fb2907d03.jpg",
       "feed_name": "BBC News - Science & Environment",
       "feed_title": "BBC News",
       "category": "science",
       "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "6ac53d249637ad55744650f4",
+      "title": "I Gave My Blood to the AI Death Clock",
+      "published": "2026-10-29T10:00:00+00:00",
+      "author": "Jason Parham",
+      "description": "Death Clock promises to predict when you’re going to die and help you extend your time on Earth. After a month, I felt like it was sucking the life out of me.",
+      "link": "https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood/",
+      "image": "https://media.wired.com/photos/6adbec3437abe86dfce58fe9/master/pass/WIRED-Ghost-Stories-Death-Clock.jpg",
+      "feed_name": "Science Latest",
+      "feed_title": "Science Latest",
+      "category": "science",
+      "feed_url": "https://www.wired.com/feed/category/science/latest/rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.wired.com&sz=64"
     },
     {
       "id": "news712470184",

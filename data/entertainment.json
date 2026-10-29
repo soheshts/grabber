@@ -1,16 +1,30 @@
 {
   "category": "entertainment",
-  "updated": "2026-10-29T10:02:58.754066+00:00",
+  "updated": "2026-10-29T10:33:31.660469+00:00",
   "count": 1000,
   "summary": {
-    "text": "• The Playmaker Munich has closed deals for animated film \"The Unicorn That Said No\" in several territories before AFM.\n• TBS told TIFFCOM about tie-ups with Legendary and CJ ENM to make Japanese content a new global genre.\n• Skydance-owned 5 acquired UK rights to \"Wentworth: Halfway Home.\"\n• Mayur More and Ashlesha Thakur star in \"Beta Builder,\" an AI-driven feature by Abundantia and InVideo.\n• Genesis Owusu leads Triple J's 2026 J Awards nominations with three.",
-    "generated_at": "2026-10-29T10:02:58.754066+00:00",
+    "text": "• TBS told Tokyo's TIFFCOM that its Legendary and CJ ENM alliances fit its push to make J-content rival K-drama.\n• Surreal debut \"Kefi\" from cinematographer Saito Kisin blends shorts and styles into a take on grief.\n• The animated \"The Unicorn That Said No\" has sold in several territories ahead of its AFM premiere.\n• Mayur More and Ashlesha Thakur lead \"Beta Builder,\" an AI-driven feature from Abundantia and InVideo.\n• Genesis Owusu leads Triple J's 2026 J Award nominations with three.",
+    "generated_at": "2026-10-29T10:33:31.660469+00:00",
     "window_minutes": 60,
-    "item_count": 6,
-    "key": "55799d4e9d8ac156b4e4e21c4fe410813dc26469",
+    "item_count": 5,
+    "key": "e89ad7ba98dec6c034205971b6926de9791f84c2",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://variety.com/?p=1236933998",
+      "title": "Aliens, Dinosaurs and a Father’s Death: ‘Kefi’ Director Saito Kisin Brings a Surreal Take on Grief to Tokyo",
+      "published": "2026-10-29T10:13:44+00:00",
+      "author": "Naman Ramachandran",
+      "description": "Likely the strangest entry at this year’s Tokyo International Film Festival, the surreal “Kefi,” the debut feature by cinematographer Saito Kisin, mixes multiple short stories and multiple styles to make sense of the feelings around a complicated relationship with his late father. It doesn’t get there through the signifiers one might anticipate: there are aliens, […]",
+      "link": "https://variety.com/2026/film/festivals/aliens-dinosaurs-fathers-death-tokyo-kefi-saito-kisin-1236933998/",
+      "image": "https://variety.com/wp-content/uploads/2026/10/Kefi.jpg",
+      "feed_name": "Variety",
+      "feed_title": "Variety",
+      "category": "entertainment",
+      "feed_url": "https://variety.com/feed/",
+      "feed_icon": "https://variety.com/wp-content/uploads/2018/06/variety-favicon.png?w=32"
+    },
     {
       "id": "https://variety.com/?p=1236933937",
       "title": "Animated Movie Based on Bestseller ‘The Unicorn That Said No’ Travels to Multiple Territories Ahead of AFM (EXCLUSIVE)",
@@ -55,7 +69,7 @@
     },
     {
       "id": "https://deadline.com/?p=1237208010",
-      "title": "Mayur More & Ashlesha Thakur To Lead ‘Beta Builder’, Debut Feature From Abundandia AiOn & InVideo",
+      "title": "Mayur More & Ashlesha Thakur To Lead ‘Beta Builder’, Debut Hybrid AI Feature From Abundantia AiOn & InVideo",
       "published": "2026-10-29T09:43:08+00:00",
       "author": "Jesse Whittock",
       "description": "EXCLUSIVE: Mayur More and Ashlesha Thakur will star in the first AI-driven feature film from the pact between India’s Abundantia Entertainment and video tech firm InVideo. Beta Builder has InVideo’s Global Creative Lead, Hridaye A. Nagpal, attached to direct, with principal photography beginning today in Mumbai. The Indian city will, per the producers, serve “as […]",
@@ -13996,20 +14010,6 @@
       "category": "entertainment",
       "feed_url": "https://www.comingsoon.net/feed",
       "feed_icon": "https://www.comingsoon.net/wp-content/uploads/sites/3/2022/12/cs_ico_144x144.png?w=32"
-    },
-    {
-      "id": "https://www.slashfilm.com/2297777/red-rising-movie-the-hunger-games-the-long-walk-differences/",
-      "title": "How The Red Rising Movie Will Differ From Hunger Games And The Long Walk",
-      "published": "2026-10-26T21:47:42+00:00",
-      "author": "Nina Starner",
-      "description": "Francis Lawrence, who's directing a Red Rising film soon, told us the difference between that story and the other fascism-related films he's made recently.",
-      "link": "https://www.slashfilm.com/2297777/red-rising-movie-the-hunger-games-the-long-walk-differences/",
-      "image": "https://www.slashfilm.com/img/gallery/how-the-red-rising-movie-will-differ-from-hunger-games-and-the-long-walk/l-intro-1793051049.jpg",
-      "feed_name": "/Film",
-      "feed_title": "/Film",
-      "category": "entertainment",
-      "feed_url": "https://feeds2.feedburner.com/slashfilm",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.slashfilm.com&sz=64"
     }
   ]
 }

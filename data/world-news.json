@@ -1,20 +1,20 @@
 {
   "category": "World News",
-  "updated": "2026-10-29T10:02:58.754066+00:00",
+  "updated": "2026-10-29T10:33:31.660469+00:00",
   "count": 1000,
   "summary": {
-    "text": "• Israel's election is deadlocked: Netanyahu outperformed expectations by playing on Jewish voters' fears of Arab political power and security threats, but neither his bloc nor his main challenger appears likely to reach a majority.\n• Oil prices fell as renewed U.S.-Iran peace efforts eased supply fears, while Shell nearly doubled quarterly profit as refining margins hit a record high.\n• France faces unrest over education and living costs; the Senate backed a \"Rioters Pay\" bill with fines up to $11,000, and the White House cited the riots in attacking Democrats.\n• Other stories: China is cracking down on fan-made A.I. videos of classic characters, and Putin praised Elon Musk as a \"real genius\" as Russia develops a Starlink alternative.",
-    "generated_at": "2026-10-29T10:02:58.754066+00:00",
+    "text": "• Israel: Netanyahu outperformed expectations by playing on Jewish voters' fears of Arab political power and security threats. With no clear winner, a deadlock over forming a government is possible.\n• ECB President Christine Lagarde will step down in February.\n• Shell nearly doubled quarterly profit as refining margins hit a record, and it raised its buyback program.\n• A 4-year-old Tennessee boy gave $150 from a lemonade stand to a soup kitchen. WhatsApp co-founder Jan Koum's $36 million funded a Los Angeles Jewish school campus.",
+    "generated_at": "2026-10-29T10:33:31.660469+00:00",
     "window_minutes": 60,
-    "item_count": 14,
-    "key": "287a167ab099d26e26e487afd35d1ad334230afc",
+    "item_count": 7,
+    "key": "a49d4219f73544e2d645341b8c4063f5e3dc9c92",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
     {
       "id": "https://www.nytimes.com/2026/10/29/world/middleeast/netanyahu-fear-election-votes.html",
       "title": "How Netanyahu Used Fear, Again, to Win More Votes Than Anyone Else",
-      "published": "2026-10-29T09:54:56+00:00",
+      "published": "2026-10-29T10:29:00+00:00",
       "author": "David M. Halbfinger",
       "description": "Despite years of political baggage, the Israeli prime minister outperformed expectations, and his rivals, by playing on Jewish voters’ fears of Arab political power and potential security threats.",
       "link": "https://www.nytimes.com/2026/10/29/world/middleeast/netanyahu-fear-election-votes.html",
@@ -24,6 +24,62 @@
       "category": "World News",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "108479609",
+      "title": "President of the European Central Bank Christine Lagarde to stand down in February",
+      "published": "2026-10-29T10:27:20+00:00",
+      "author": null,
+      "description": "",
+      "link": "https://www.cnbc.com/2026/10/29/lagarde-ecb-stand-down.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108320235-1781186107366-gettyimages-2280390387-GERMANY_ECB.jpeg?v=1781186133&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/us/whatsapp-co-founder-jan-koum-donated-36-million-to-help-establish-a-los-angeles-school-campus-on-october-25-the-new-campus-opened-for-grades-912-bringing-the-schools-total-footprint-to-28-acres/articleshow/135295170.cms",
+      "title": "WhatsApp co-founder Jan Koum's $36 million donation helps expand Los Angeles Jewish school",
+      "published": "2026-10-29T10:25:00+00:00",
+      "author": "TOI World Desk",
+      "description": "WhatsApp co-founder Jan Koum's $36 million donation has helped Milken Community School open a new campus in Bel Air, Los Angeles, for students in grades 9 to 12. Inaugurated on Sunday, the campus has expanded the school's total footprint to 28 acres across three locations. The opening comes as the school reports a 40% rise in applications.",
+      "link": "https://timesofindia.indiatimes.com/world/us/whatsapp-co-founder-jan-koum-donated-36-million-to-help-establish-a-los-angeles-school-campus-on-october-25-the-new-campus-opened-for-grades-912-bringing-the-schools-total-footprint-to-28-acres/articleshow/135295170.cms",
+      "image": "https://static.toiimg.com/photo/msid-135299734,imgsize-40452.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/us/a-4-year-old-tennessee-boy-raised-150-at-a-lemonade-stand-instead-of-buying-a-toy-he-donated-every-dollar-to-a-soup-kitchen-to-feed-people-in-need/articleshow/135300556.cms",
+      "title": "4-year-old Tennessee boy donates $150 from lemonade stand to soup kitchen",
+      "published": "2026-10-29T10:11:48+00:00",
+      "author": "TOI World Desk",
+      "description": "",
+      "link": "https://timesofindia.indiatimes.com/world/us/a-4-year-old-tennessee-boy-raised-150-at-a-lemonade-stand-instead-of-buying-a-toy-he-donated-every-dollar-to-a-soup-kitchen-to-feed-people-in-need/articleshow/135300556.cms",
+      "image": "https://static.toiimg.com/photo/msid-135300730,imgsize-1415798.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/us-streamers/sneako-reportedly-sends-legal-demand-to-akademiks-over-post-about-alleged-intimate-video-threat/articleshow/135300297.cms",
+      "title": "Sneako reportedly sends legal demand to Akademiks over post about alleged intimate video threat",
+      "published": "2026-10-29T09:57:27+00:00",
+      "author": "Global Sports Desk",
+      "description": "DJ Akademiks’ platform recently revealed threatening claims involving potential release of intimate videos related to Sneako, which arose from a group call conflict. The legal notification regarding these video allegations lacks independent verification, casting doubt on its legitimacy. Despite a request to eliminate the post, Akademiks TV stood firm on their reporting rights.",
+      "link": "https://timesofindia.indiatimes.com/world/us-streamers/sneako-reportedly-sends-legal-demand-to-akademiks-over-post-about-alleged-intimate-video-threat/articleshow/135300297.cms",
+      "image": "https://static.toiimg.com/photo/msid-135300418,imgsize-734458.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
       "id": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-coalition-scenarios.html",
@@ -138,6 +194,20 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/cmx2qrgy591ro#1",
+      "title": "Audacious Indian jailbreak saga ends with 17 prisoners recaptured",
+      "published": "2026-10-29T09:17:05+00:00",
+      "author": null,
+      "description": "The jailbreak began with a fake seizure and ended 36 hours later with all the inmates back behind bars.",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2qrgy591ro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e853/live/77bf7200-d36c-11f1-a2f1-9d8bc53db834.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
       "id": "https://timesofindia.indiatimes.com/world/us/this-is-the-future-you-want-white-house-cites-france-riots-to-warn-against-democrats-ahead-of-midterms/articleshow/135297545.cms",
       "title": "‘This is the future you want?’ White House cites France riots to slam Democrats ahead of midterms",
       "published": "2026-10-29T09:15:16+00:00",
@@ -164,6 +234,20 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "t3_1xiezkh",
+      "title": "Moscow recruits North Korean 'students' on mass scale to work in factories. The UN sanctions ban its nations from hiring North Korean workers",
+      "published": "2026-10-29T09:13:09+00:00",
+      "author": "/u/TVP_World_News",
+      "description": "submitted by /u/TVP_World_News [link] [comments]",
+      "link": "https://www.reddit.com/r/worldnews/comments/1xiezkh/moscow_recruits_north_korean_students_on_mass/",
+      "image": "https://external-preview.redd.it/CD_CDbyUhogtTHaDc1iXkEHIzkYOpM33h9F0_AX9b40.jpeg?width=640&crop=smart&auto=webp&s=eba9acc71d3db4df486fbd59b05c6bf3c2a48c7f",
+      "feed_name": "World News",
+      "feed_title": "World News",
+      "category": "World News",
+      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
+      "feed_icon": "https://www.redditstatic.com/icon.png/"
     },
     {
       "id": "https://www.nytimes.com/2026/10/29/world/asia/china-ai-videos-sun-wukong-lin-daiyu.html",
@@ -262,6 +346,20 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/us-streamers/why-did-kick-suspend-vitaly-after-his-latest-livestream-heres-what-we-know/articleshow/135298104.cms",
+      "title": "Why did Kick suspend Vitaly after his latest livestream? Here’s what we know",
+      "published": "2026-10-29T08:51:33+00:00",
+      "author": "Global Sports Desk",
+      "description": "Recently, streamer Vitaly faced suspension from Kick due to breaches of the platform's endangerment policies during his 'Catching Predators IRL' livestream featuring Lil Pump. While the suspension email referenced specific evidence, it failed to clarify the exact reasons behind the decision. Past incidents related to his controversial predator-catching streams have sparked debate about his approach, and there is still uncertainty regarding the length of the suspension and possible reinstatement.",
+      "link": "https://timesofindia.indiatimes.com/world/us-streamers/why-did-kick-suspend-vitaly-after-his-latest-livestream-heres-what-we-know/articleshow/135298104.cms",
+      "image": "https://static.toiimg.com/photo/msid-135298178,imgsize-606607.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/us/google-billionaires-wife-wendy-schmidt-launched-a-1-4-million-challenge-after-the-deepwater-horizon-disaster-inviting-scientists-and-engineers-to-develop-faster-oil-cleanup-technology-one-winning-device-recovered-4670-gallons-per-minute/articleshow/135297588.cms",
@@ -556,6 +654,20 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/videos/cm0rlxxpng5eo#2",
+      "title": "BBC in the Philippines where Thomas Markle is expected to be investigated",
+      "published": "2026-10-29T07:28:26+00:00",
+      "author": null,
+      "description": "Jonathan Head is in Cebu, reporting from outside the home where Markle last resided.",
+      "link": "https://www.bbc.co.uk/news/videos/cm0rlxxpng5eo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a90c/live/b93f5b80-d369-11f1-93e1-3b657b665bcf.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/us/marcelle-flowers-62-feared-ai-would-take-jobs-until-two-young-founders-solved-a-5000-a-month-problem-at-her-plumbing-business-and-made-her-coo-of-a-startup-that-raised-52-million/articleshow/135295019.cms",
@@ -13898,118 +14010,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.theguardian.com/australia-news/live/2026/oct/26/australia-politics-live-helen-haines-tribute-anthony-albanese-labor-liberal-one-nation-pauline-hanson-angus-taylor-question-time-senate-estimates-ntwnfb",
-      "title": "Steggall and Ryan accuse Taylor of not ’reading the room’ with ’tone deaf’ Haines tribute speech – as it happened",
-      "published": "2026-10-26T06:55:51+00:00",
-      "author": "Ima Caldwell  and Kat Wong",
-      "description": "This blog is now closed Get our daily political email , free app or daily news podcast Steggall calls for civility and respect Independent MP Zali Steggall has called for more respect in times of disagreement, telling ABC that leadership and words matter. We absolutely need to make sure there is more civility and respect. Social media is a platform where they can send abuse and threats through direct messages, call my electorate office, or send pretty revolting stuff It’s just quite shocking ho…",
-      "link": "https://www.theguardian.com/australia-news/live/2026/oct/26/australia-politics-live-helen-haines-tribute-anthony-albanese-labor-liberal-one-nation-pauline-hanson-angus-taylor-question-time-senate-estimates-ntwnfb",
-      "image": "https://i.guim.co.uk/img/media/adf3a653f073fb1e0c8108e2bb5c263090e280b6/716_0_6512_5209/master/6512.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=3db149e2ffa460aee1c06eb4a4dc43ca",
-      "feed_name": "The Guardian",
-      "feed_title": "World news | The Guardian",
-      "category": "World News",
-      "feed_url": "https://www.theguardian.com/world/rss",
-      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/israel-elections-news-who-could-lead-israel-next-a-look-at-elections-main-candidates-benjamin-netanyahu-gadi-eisenkot-yair-golan-naftali-bennett-12236297#publisher=newsstand",
-      "title": "Who Could Lead Israel Next? A Look At Election's Main Candidates",
-      "published": "2026-10-26T06:50:21+00:00",
-      "author": null,
-      "description": "An advert coverage features Benjamin Netanyahu and Gadi Eisenkot",
-      "link": "https://www.ndtv.com/world-news/israel-elections-news-who-could-lead-israel-next-a-look-at-elections-main-candidates-benjamin-netanyahu-gadi-eisenkot-yair-golan-naftali-bennett-12236297#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-10/48cfre6k_israel-elections_625x300_26_October_26.jpeg",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/oct/26/brazil-presidential-elections-luiz-inacio-lula-da-silva-flavio-bolsonaro",
-      "title": "Brazil keeps left: what Lula’s victory means for his country and beyond",
-      "published": "2026-10-26T06:44:33+00:00",
-      "author": "Libby Brooks",
-      "description": "In today’s newsletter: As Luiz Inácio Lula da Silva secured victory in the presidential race, we look the implications for democracy, the environment and international relations Good morning. Chances are you woke this morning to news of two momentous election results. In Serbia, a student-led movement has ousted the country’s long-serving leader, Aleksandar Vučić (which you can read more about here ). And just hours ago, Brazil’s president staged a sensational turnaround against his far-right o…",
-      "link": "https://www.theguardian.com/world/2026/oct/26/brazil-presidential-elections-luiz-inacio-lula-da-silva-flavio-bolsonaro",
-      "image": "https://i.guim.co.uk/img/media/1106bb4a8ba03a7902cd91e87de8ac9bf5fd7fb3/540_0_4164_3333/master/4164.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e171376467444730d04b1b0ca5e86a6a",
-      "feed_name": "The Guardian",
-      "feed_title": "World news | The Guardian",
-      "category": "World News",
-      "feed_url": "https://www.theguardian.com/world/rss",
-      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
-    },
-    {
-      "id": "https://www.theguardian.com/australia-news/2026/oct/26/angus-taylor-criticised-for-tone-deaf-response-to-alleged-attack-on-helen-haines-ntwnfb",
-      "title": "Angus Taylor criticised for ‘tone deaf’ response to alleged attack on Helen Haines",
-      "published": "2026-10-26T06:41:36+00:00",
-      "author": "Tom McIlroy Political editor",
-      "description": "Zali Steggall and Monique Ryan say Coalition leader was wrong to deny link between parliamentary debate and political violence Angus Taylor has been criticised for his response to the alleged attack on Helen Haines , with crossbenchers Monique Ryan and Zali Steggall labelling a speech by the opposition leader “tone deaf” and saying he did not “read the room”. Parliament returned in Canberra on Monday, a week after an alleged attack outside the Indi MP’s northern Victorian electorate office, whi…",
-      "link": "https://www.theguardian.com/australia-news/2026/oct/26/angus-taylor-criticised-for-tone-deaf-response-to-alleged-attack-on-helen-haines-ntwnfb",
-      "image": "https://i.guim.co.uk/img/media/7b3d8e9adba893396990951d3c48f79a49a65ee4/352_0_5301_4241/master/5301.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=445571a55decda3d7c6ace1b649d70e5",
-      "feed_name": "The Guardian",
-      "feed_title": "World news | The Guardian",
-      "category": "World News",
-      "feed_url": "https://www.theguardian.com/world/rss",
-      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/science/wildlife/meet-violet-clinton-16-year-old-new-york-student-who-tracked-11377-moths-in-seven-months-using-uv-lights-and-beer-soaked-t-shirts-to-study-overlooked-pollinators/articleshow/135204738.cms",
-      "title": "Meet Violet Clinton: New York student tracked 11,377 moths using beer-soaked T-shirts",
-      "published": "2026-10-26T06:39:17+00:00",
-      "author": "TOI Science Desk",
-      "description": "",
-      "link": "https://timesofindia.indiatimes.com/science/wildlife/meet-violet-clinton-16-year-old-new-york-student-who-tracked-11377-moths-in-seven-months-using-uv-lights-and-beer-soaked-t-shirts-to-study-overlooked-pollinators/articleshow/135204738.cms",
-      "image": "https://static.toiimg.com/photo/msid-135204923,imgsize-1885479.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/brazil-presidential-elections-brazils-debt-inflation-tax-reform-luiz-inacio-lula-da-silvas-economic-challenges-in-4th-term-12236155#publisher=newsstand",
-      "title": "Brazil's Debt, Inflation, Tax Reform: Lula's Economic Challenges In 4th Term",
-      "published": "2026-10-26T06:25:44+00:00",
-      "author": null,
-      "description": "Lula has sent mixed fiscal signals, at times dismissing debt worries as \"nonsense\"",
-      "link": "https://www.ndtv.com/world-news/brazil-presidential-elections-brazils-debt-inflation-tax-reform-luiz-inacio-lula-da-silvas-economic-challenges-in-4th-term-12236155#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-10/bblc8s7c_brazil_625x300_26_October_26.jpeg",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwzd6q630vjeo#1",
-      "title": "Eric Bauza, voice of Bugs Bunny and Daffy Duck, dies aged 46",
-      "published": "2026-10-26T06:16:15+00:00",
-      "author": null,
-      "description": "Bauza had voiced a number of characters in this summer's animated hit Coyote vs. Acme.",
-      "link": "https://www.bbc.co.uk/news/articles/cwzd6q630vjeo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ba1/live/0257f500-d100-11f1-9d25-c3fafb2ab4de.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwzd6q630vjeo#0",
-      "title": "Eric Bauza, voice of Bugs Bunny and Daffy Duck, dies aged 46",
-      "published": "2026-10-26T06:16:15+00:00",
-      "author": null,
-      "description": "Bauza had voiced a number of characters in this summer's animated hit Coyote vs. Acme.",
-      "link": "https://www.bbc.co.uk/news/articles/cwzd6q630vjeo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ba1/live/0257f500-d100-11f1-9d25-c3fafb2ab4de.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     }
   ]
 }

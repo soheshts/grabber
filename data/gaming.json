@@ -1,16 +1,44 @@
 {
   "category": "gaming",
-  "updated": "2026-10-29T10:02:58.754066+00:00",
-  "count": 766,
+  "updated": "2026-10-29T10:33:31.660469+00:00",
+  "count": 769,
   "summary": {
-    "text": "• Fatal Frame's camera mechanic turns photography into a genuine test of nerve, per Polygon's look at the series' horror.\n• Polygon's Unraveled series ranks Mortal Kombat's best cuddler and Dark Souls' best business-minded boss.\n• Eurogamer reports a new GTA 6 gameplay look from a South Park episode, with a Sony and PS5 marketing deal confirmed.\n• Phantom Blade Zero launched to 431,541 concurrent Steam players, making it one of the platform's most played games.",
-    "generated_at": "2026-10-29T10:02:58.754066+00:00",
+    "text": "• GTA 6 gameplay appeared in a South Park episode, a clip of just under 20 seconds that features dog poop, according to IGN and Eurogamer.\n• Polygon's Unraveled series ranked Mortal Kombat's best cuddler and Dark Souls' best business leadership boss.\n• Polygon also covered Fatal Frame's camera-based horror and published a rules-based E3 press conference drinking game.",
+    "generated_at": "2026-10-29T10:33:31.660469+00:00",
     "window_minutes": 60,
-    "item_count": 5,
-    "key": "12881c2e3f90f6265195129070582740103c3a6b",
+    "item_count": 7,
+    "key": "f001923cf388269d6b416716cb7ed00d434ab2e6",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.polygon.com/gta-6-dog-poop-gameplay-south-park/",
+      "title": "New GTA 6 Gameplay Was Shown on South Park, and It Totally Stinks",
+      "published": "2026-10-29T10:31:55+00:00",
+      "author": "Aimee Hart",
+      "description": "A hilarious new GTA 6 gameplay clip appeared in the latest South Park episode, and it features dog poop.",
+      "link": "https://www.polygon.com/gta-6-dog-poop-gameplay-south-park/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/gta6-3.jpg",
+      "feed_name": "Polygon -  All",
+      "feed_title": "Polygon.com",
+      "category": "gaming",
+      "feed_url": "https://www.polygon.com/rss/index.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.polygon.com&sz=64"
+    },
+    {
+      "id": "https://www.polygon.com/video/how-to-make-a-perfect-e3-press-conference-or-drinking-game-unraveled/",
+      "title": "How to make a perfect E3 press conference (or drinking game) | Unraveled",
+      "published": "2026-10-29T10:03:29+00:00",
+      "author": "Polygon Staff",
+      "description": "E3 is here, and Brian David Gilbert has unraveled the 10 keys to a perfect press conference, which you could also use for a drinking game. Here are the rules: http://bit.ly/E3DrinkingGame",
+      "link": "https://www.polygon.com/video/how-to-make-a-perfect-e3-press-conference-or-drinking-game-unraveled/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/how-to-make-a-perfect-e3-press-conference-or-drinking-game-unraveled.jpg",
+      "feed_name": "Polygon -  All",
+      "feed_title": "Polygon.com",
+      "category": "gaming",
+      "feed_url": "https://www.polygon.com/rss/index.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.polygon.com&sz=64"
+    },
     {
       "id": "https://www.polygon.com/fatal-frame-halloween-games/",
       "title": "Fatal Frame Transforms an Ordinary Hobby Into Bone-Chilling Horror",
@@ -66,6 +94,20 @@
       "category": "gaming",
       "feed_url": "https://www.polygon.com/rss/index.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.polygon.com&sz=64"
+    },
+    {
+      "id": "68ba031d-ce39-42fc-a2c2-a214957021d1",
+      "title": "GTA 6 Dog Poop Gameplay Premieres in the Latest Episode of South Park",
+      "published": "2026-10-29T09:40:44+00:00",
+      "author": "Wesley Yin-Poole",
+      "description": "GTA 6 made a surprise appearance on South Park with just shy of 20 seconds of genuine, exclusive gameplay that showcased dog poop.",
+      "link": "https://www.ign.com/articles/gta-6-dog-poop-gameplay-premieres-in-the-latest-episode-of-south-park",
+      "image": "https://assets-prd.ignimgs.com/2026/10/29/gta-6-1793266830270.png",
+      "feed_name": "IGN All",
+      "feed_title": "IGN Articles",
+      "category": "gaming",
+      "feed_url": "http://feeds.ign.com/ign/all",
+      "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
     },
     {
       "id": "https://www.eurogamer.net/phantom-blade-zero-steam-launch-1-million-sales",

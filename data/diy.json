@@ -1,16 +1,44 @@
 {
   "category": "DIY",
-  "updated": "2026-10-29T10:02:58.754066+00:00",
-  "count": 302,
+  "updated": "2026-10-29T10:33:31.660469+00:00",
+  "count": 304,
   "summary": {
-    "text": "• Ryobi circular saw blades are not all interchangeable; each is designed for a different cutting job.\n• Five budget-friendly Makita tools priced under $150 are highlighted as versatile and worth buying.",
-    "generated_at": "2026-10-29T10:02:58.754066+00:00",
+    "text": "• Ryobi circular saw blades are not interchangeable, since each one is designed for a different job.\n• Five budget-friendly Makita tools under $150 are highlighted as versatile and affordable buys.\n• For tech tips, improving an Excel spreadsheet's font matters more than adding colors, and Android users can clear clutter by hiding status bar icons such as Bluetooth and mobile data.",
+    "generated_at": "2026-10-29T10:33:31.660469+00:00",
     "window_minutes": 60,
-    "item_count": 2,
-    "key": "c167d7a5a4570c52b929ea3f1c80a7f1699924dd",
+    "item_count": 4,
+    "key": "93df68249ceb82907a5819b34b881ac58c8e7360",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.makeuseof.com/excel-font-more-improtant-than-conditional-formatting/",
+      "title": "Your Excel spreadsheet doesn't need more colors, it needs a better font",
+      "published": "2026-10-29T10:31:16+00:00",
+      "author": "Adaeze Uche",
+      "description": "Make it read better before you make it look better.",
+      "link": "https://www.makeuseof.com/excel-font-more-improtant-than-conditional-formatting/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/the-font-dropdown-menu-in-microsoft-excel-on-a-desktop.png",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/your-android-status-bar-is-cluttered-with-icons-so-remove-them/",
+      "title": "Your Android status bar is cluttered with icons (so remove them)",
+      "published": "2026-10-29T10:31:15+00:00",
+      "author": "Joe Fedewa",
+      "description": "Hide everything from Bluetooth to the mobile data.",
+      "link": "https://www.howtogeek.com/your-android-status-bar-is-cluttered-with-icons-so-remove-them/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/status-bar-icons-on-a-pixel-phone-1.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/finally-found-out-what-all-those-ryobi-circular-saw-blades-are-actually-for/",
       "title": "I finally found out what all those Ryobi circular saw blades are actually for",
