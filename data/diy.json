@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-10-29T19:03:01.449280+00:00",
-  "count": 350,
+  "updated": "2026-10-29T19:32:41.271600+00:00",
+  "count": 352,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/why-windows-has-two-program-files-folders/",
+      "title": "Why 64-bit Windows needs two Program Files folders",
+      "published": "2026-10-29T19:30:16+00:00",
+      "author": "Oluwademilade Afolabi",
+      "description": "That weird “(x86)” folder has a better excuse than you think.",
+      "link": "https://www.makeuseof.com/why-windows-has-two-program-files-folders/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/windows-program-files-x86-folders.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/most-efficient-ways-3d-print-multi-colored-objects/",
+      "title": "These are the most efficient ways to 3D print multi-colored objects",
+      "published": "2026-10-29T19:30:15+00:00",
+      "author": "Tim Brookes",
+      "description": "Want to waste less filament? Do this instead.",
+      "link": "https://www.howtogeek.com/most-efficient-ways-3d-print-multi-colored-objects/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/04/bambu-lab-p2s-3d-printer-mid-print.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/fourth-wing-romantasy-adaptations/",
       "title": "6 romantasy book series that deserve TV adaptations more than Fourth Wing",
