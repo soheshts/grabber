@@ -1,9 +1,51 @@
 {
   "category": "DIY",
-  "updated": "2026-10-29T17:33:16.980532+00:00",
-  "count": 342,
+  "updated": "2026-10-29T18:02:31.799681+00:00",
+  "count": 345,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/your-tvs-hdmi-cec-setting-can-control-more-than-you-think/",
+      "title": "Your TV's HDMI-CEC setting can control more than you think",
+      "published": "2026-10-29T18:00:16+00:00",
+      "author": "Kanika Gogia",
+      "description": "One overlooked feature could explain why your TV and connected devices behave the way they do.",
+      "link": "https://www.makeuseof.com/your-tvs-hdmi-cec-setting-can-control-more-than-you-think/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/08/remote-control-cec.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/kodi-isnt-a-plex-replacement-they-work-better-when-you-use-them-together/",
+      "title": "Kodi isn't a Plex replacement: they work better when you use them together",
+      "published": "2026-10-29T18:00:15+00:00",
+      "author": "Sydney Butler",
+      "description": "Mixing Kodi clients with a Plex server brings TV friendly playback and rich metadata without losing control.",
+      "link": "https://www.howtogeek.com/kodi-isnt-a-plex-replacement-they-work-better-when-you-use-them-together/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/52848649058_78d72f73dc_o.avif",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.makeuseof.com/google-put-an-end-date-on-every-chromebook-and-some-wont-make-it-to-googlebook-os/",
+      "title": "Google put an end date on every Chromebook, and some won’t make it to Googlebook OS",
+      "published": "2026-10-29T17:37:55+00:00",
+      "author": "Sara Heritage",
+      "description": "Older Chromebooks face feature losses and data wipes when enrolling in extended updates so back up important files first.",
+      "link": "https://www.makeuseof.com/google-put-an-end-date-on-every-chromebook-and-some-wont-make-it-to-googlebook-os/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/apple-music-on-googlebook.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/gpu-passthrough-to-virtual-machine-is-easy-makes-setting-up-a-retro-gaming-vm-seamless/",
       "title": "GPU passthrough to your virtual machine is easy, and makes setting up a retro gaming VM seamless",

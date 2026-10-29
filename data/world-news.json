@@ -1,6 +1,6 @@
 {
   "category": "World News",
-  "updated": "2026-10-29T17:33:16.980532+00:00",
+  "updated": "2026-10-29T18:02:31.799681+00:00",
   "count": 1000,
   "summary": null,
   "items": [
@@ -17,6 +17,20 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/29/world/americas/flavio-bolsonaro-trump-brazil-us.html",
+      "title": "Trump and His Aides Helped Bolsonaro Flee Brazil and Enter U.S.",
+      "published": "2026-10-29T17:29:57+00:00",
+      "author": "Edward Wong, Ana Ionova, Hamed Aleaziz and Tyler Pager",
+      "description": "President Trump ensured Flávio Bolsonaro, who lost a presidential election in Brazil and faces multiple criminal investigations there, could enter the United States, U.S. officials said.",
+      "link": "https://www.nytimes.com/2026/10/29/world/americas/flavio-bolsonaro-trump-brazil-us.html",
+      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29brazil-bolsonaro-flight-khcf/29brazil-bolsonaro-flight-khcf-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/us/a-connecticut-couple-has-committed-410-million-to-turn-a-125-acre-former-coal-and-oil-power-plant-into-a-waterfront-park-zoning-approval-moves-the-long-closed-industrial-site-closer-to-public-use/articleshow/135233466.cms",
@@ -40,20 +54,6 @@
       "description": "The Treasury Department accused Rwanda of undermining a U.S.-brokered peace agreement by supporting a rebel group in the eastern Democratic Republic of Congo.",
       "link": "https://www.nytimes.com/2026/10/29/world/africa/rwanda-sanctions-m23-congo.html",
       "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29int-rwanda-1-qmkv/29int-rwanda-1-qmkv-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/10/29/world/americas/flavio-bolsonaro-trump-brazil-us.html",
-      "title": "Trump and His Aides Helped Bolsonaro Flee Brazil and Enter U.S.",
-      "published": "2026-10-29T17:10:48+00:00",
-      "author": "Edward Wong, Ana Ionova, Hamed Aleaziz and Tyler Pager",
-      "description": "President Trump ensured Flávio Bolsonaro, who lost a presidential election in Brazil and faces multiple criminal investigations there, could enter the United States, U.S. officials said.",
-      "link": "https://www.nytimes.com/2026/10/29/world/americas/flavio-bolsonaro-trump-brazil-us.html",
-      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29brazil-bolsonaro-flight-khcf/29brazil-bolsonaro-flight-khcf-mediumSquareAt3X.jpg",
       "feed_name": "NYT",
       "feed_title": "NYT > World News",
       "category": "World News",
@@ -87,6 +87,20 @@
       "category": "World News",
       "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://www.nytimes.com/video/world/middleeast/100000011242127/how-israels-election-could-end.html",
+      "title": "How Israel’s Election Could End",
+      "published": "2026-10-29T17:01:22+00:00",
+      "author": "David M. Halbfinger, Leila Medina, Rebecca Suner and Mariana Simões",
+      "description": "Neither Benjamin Netanyahu nor Gadi Eisenkot won a majority in Israel’s Parliament, leaving both with a chance to form a government. Our Jerusalem bureau chief, David M. Halbfinger, explains the possible coalitions and the obstacles to an opposition alliance that could include Arab parties.",
+      "link": "https://www.nytimes.com/video/world/middleeast/100000011242127/how-israels-election-could-end.html",
+      "image": null,
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://timesofindia.indiatimes.com/science/discovery/taking-antibiotics-eating-a-lot-of-sugar-at-the-same-time-may-make-the-damage-to-your-gut-worse-scientists-have-found-suggesting-that-what-you-eat-during-a-course-of-antibiotics-could-affect-how-well-your-body-recovers/articleshow/135303407.cms",
@@ -245,7 +259,7 @@
     {
       "id": "https://www.nytimes.com/2026/10/29/us/politics/foreign-aid-divert-energy-contraceptives.html",
       "title": "State Dept. to Shift Millions in Contraception Funding to Cover Energy Costs",
-      "published": "2026-10-29T16:31:52+00:00",
+      "published": "2026-10-29T16:31:53+00:00",
       "author": "Olivia Diaz and Stephanie Nolen",
       "description": "In a memo, the department told lawmakers it was redirecting up to $125 million in foreign aid, including nearly $49 million that Congress appropriated for family planning programs in low-income countries.",
       "link": "https://www.nytimes.com/2026/10/29/us/politics/foreign-aid-divert-energy-contraceptives.html",
@@ -325,6 +339,20 @@
       "category": "World News",
       "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
       "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
+      "id": "108481080",
+      "title": "Nvidia responds to report Jensen Huang was target of Chinese asset, says diversion allegations were 'investigated and debunked'",
+      "published": "2026-10-29T16:22:19+00:00",
+      "author": null,
+      "description": "Nvidia disputed a New York Times report that U.S. intelligence agencies surveilled a person close to CEO Jensen Huang over concerns she could be a Chinese spy.",
+      "link": "https://www.cnbc.com/2026/10/29/nvidia-jensen-huang-chinese-intelligence-asset.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108447194-1792682505441-108447194-1792682412759-gettyimages-2301328017-2s4a6117_3tcndrih.jpg?v=1792682514&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
       "id": "108479074",
@@ -441,7 +469,7 @@
     {
       "id": "https://www.nytimes.com/2026/10/29/world/americas/haiti-elections-postponed-violence.html",
       "title": "Haiti Postpones Elections as Gang Violence Runs Rampant",
-      "published": "2026-10-29T15:29:55+00:00",
+      "published": "2026-10-29T15:29:56+00:00",
       "author": "Frances Robles",
       "description": "Haiti is in the throes of debilitating gang violence, which has kept officials from organizing an election to pick a new president.",
       "link": "https://www.nytimes.com/2026/10/29/world/americas/haiti-elections-postponed-violence.html",
@@ -782,20 +810,6 @@
       "description": "The suspect, identified only as Kévin T., admitted to planning the attacks near Paris last week, the prosecutor said. One person was killed and seven wounded.",
       "link": "https://www.nytimes.com/2026/10/29/world/europe/france-shootings-suspect.html",
       "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29int-france-shooting-01-jqzf/29int-france-shooting-01-jqzf-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "https://www.nytimes.com/video/world/middleeast/100000011242127/how-israels-election-could-end.html",
-      "title": "How Israel’s Election Could End",
-      "published": "2026-10-29T14:02:01+00:00",
-      "author": "David M. Halbfinger, Leila Medina and Rebecca Suner",
-      "description": "Neither Benjamin Netanyahu nor Gadi Eisenkot won a majority in Israel’s Parliament, leaving both with a chance to form a government. Our Jerusalem bureau chief, David M. Halbfinger, explains the possible coalitions and the obstacles to an opposition alliance that could include Arab parties.",
-      "link": "https://www.nytimes.com/video/world/middleeast/100000011242127/how-israels-election-could-end.html",
-      "image": null,
       "feed_name": "NYT",
       "feed_title": "NYT > World News",
       "category": "World News",
@@ -1364,12 +1378,12 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o#0",
-      "title": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
+      "title": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
       "published": "2026-10-29T11:07:35+00:00",
       "author": null,
-      "description": "The recordings appear to show one high-speed train was given clearance to move even though another up ahead had stalled.",
+      "description": "The leaked tapes appear to show one high-speed train was given clearance to move at normal speed, even though another up ahead had stalled.",
       "link": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26f6/live/810fd9c0-d39a-11f1-b441-2b33b063138f.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3bc/live/1e706fb0-d3c1-11f1-a62f-fd53d503ac8d.jpg",
       "feed_name": "BBC News - World",
       "feed_title": "BBC News",
       "category": "World News",
@@ -13989,20 +14003,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.theguardian.com/australia-news/2026/oct/27/endangered-turtles-and-exceptional-coral-at-risk-from-woodsides-gas-drilling-in-wa-watchdog-says",
-      "title": "Endangered turtles and ‘exceptional’ coral at risk from Woodside’s gas drilling in WA, watchdog says",
-      "published": "2026-10-26T14:00:45+00:00",
-      "author": "Peter Milne",
-      "description": "Exclusive : EPA flags oil spill risk from proposed gasfield and threat to pygmy blue whales Follow our Australian politics live blog for latest updates Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here Woodside Energy’s plan to drill for gas off Western Australia’s north-west coast could significantly damage “exceptional” coral reefs and it may be impossible to reduce the risk of an oil spill to an acceptable level, according to advice from the state’s inde…",
-      "link": "https://www.theguardian.com/australia-news/2026/oct/27/endangered-turtles-and-exceptional-coral-at-risk-from-woodsides-gas-drilling-in-wa-watchdog-says",
-      "image": "https://i.guim.co.uk/img/media/37e026264024c8b969ae4fa3d8d8601720087a90/625_0_6628_5304/master/6628.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=708688b7559cfa36e830ad0e54a81cf3",
-      "feed_name": "The Guardian",
-      "feed_title": "World news | The Guardian",
-      "category": "World News",
-      "feed_url": "https://www.theguardian.com/world/rss",
-      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
     }
   ]
 }
