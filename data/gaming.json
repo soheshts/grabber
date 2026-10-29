@@ -1,13 +1,13 @@
 {
   "category": "gaming",
-  "updated": "2026-10-29T01:03:23.931669+00:00",
-  "count": 723,
+  "updated": "2026-10-29T01:33:25.688842+00:00",
+  "count": 725,
   "summary": {
-    "text": "• IGN has published a review of Call of Duty: Modern Warfare 4's DMZ mode, calling it a bigger and better version of the extraction shooter.",
-    "generated_at": "2026-10-29T00:33:26.204160+00:00",
+    "text": "• BioWare co-founder Greg Zeschuk says EA's private equity acquisition was the \"final nail in the coffin\" for the Mass Effect studio.\n• Zeschuk also spoke out on last week's closure, which cost 50 jobs in 400 cuts and the cancellation of Mass Effect 5.\n• Shrek 5 might become the Disney fairy tale it once swore to destroy, according to Polygon.\n• Scarlett Johansson's strangest sci-fi movie is officially leaving Netflix.",
+    "generated_at": "2026-10-29T01:33:25.688842+00:00",
     "window_minutes": 60,
-    "item_count": 1,
-    "key": "fd3d40f1fd866129f5c91e2744bb605f462dff03",
+    "item_count": 4,
+    "key": "90e76d872f7efcb3d87645ecfb9f0bfc4ef1ac3d",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
@@ -52,6 +52,34 @@
       "category": "gaming",
       "feed_url": "https://kotaku.com/rss",
       "feed_icon": "https://www.google.com/s2/favicons?domain=kotaku.com&sz=64"
+    },
+    {
+      "id": "2e451388-ff50-483a-b240-296f8d410460",
+      "title": "BioWare Co-Founder Speaks Out on Studio Closure, Mass Effect Cancellation",
+      "published": "2026-10-29T00:42:20+00:00",
+      "author": "Ryan McCaffrey",
+      "description": "BioWare co-founder Greg Zeschuk has spoken out about the closure of BioWare last week, which saw 50 jobs lost as part of 400 cuts across the company, along with the cancellation of Mass Effect 5, which we've now come to learn (via a leaked internal trailer) was called Mass Effect: Universe.",
+      "link": "https://www.ign.com/articles/bioware-co-founder-speaks-out-on-studio-closure-mass-effect-cancellation",
+      "image": "https://assets-prd.ignimgs.com/2026/10/29/me3-1793234529955.jpg",
+      "feed_name": "IGN All",
+      "feed_title": "IGN Articles",
+      "category": "gaming",
+      "feed_url": "http://feeds.ign.com/ign/all",
+      "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
+    },
+    {
+      "id": "d291c91b-ffaf-454d-bee1-4c8f096d9243",
+      "title": "Original Donkey Kong Poster That Was Nearly Thrown Away Sold at Auction for Record-Breaking $329,400",
+      "published": "2026-10-29T00:21:11+00:00",
+      "author": "Virginia Glaze",
+      "description": "A 1981 promotional poster for the original Donkey Kong, featuring the first public appearance of Mario, has become the the most expensive piece of original video game art ever sold at auction.",
+      "link": "https://www.ign.com/articles/original-donkey-kong-poster-that-was-nearly-thrown-away-sold-at-auction-for-record-breaking-329400",
+      "image": "https://assets-prd.ignimgs.com/2026/10/29/donkey-kong-artwork-sells-record-breaking-1793232664561.jpg",
+      "feed_name": "IGN All",
+      "feed_title": "IGN Articles",
+      "category": "gaming",
+      "feed_url": "http://feeds.ign.com/ign/all",
+      "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
     },
     {
       "id": "774e672d-27f6-4a7a-9b1f-79f29b453930",

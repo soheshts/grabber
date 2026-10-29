@@ -1,20 +1,34 @@
 {
   "category": "World News",
-  "updated": "2026-10-29T01:03:23.931669+00:00",
+  "updated": "2026-10-29T01:33:25.688842+00:00",
   "count": 1000,
   "summary": {
-    "text": "• Arab parties posted a surprise showing in the Israeli vote, making the Arab minority a political force.\n• Labor says the ATO could have handled its credit card ban better; a gas reservation policy faces a lower house vote.\n• New Delhi approved $22 billion in military spending amid China border tensions, opening opportunities for US, Israeli and Russian defense firms.\n• Trump officials are discussing sanctions relief for a Russian state fund, Russia acknowledged, as part of Ukraine war talks.",
-    "generated_at": "2026-10-29T00:33:26.204160+00:00",
+    "text": "• Defeated Brazilian candidate Flávio Bolsonaro denies fleeing after landing in Miami, claiming a coup and persecution while repeating unsubstantiated \"electoral fraud\" allegations.\n• Samsung Electronics' third-quarter profit was in line with estimates amid rising demand for AI memory chips.\n• In Australia, Paterson accuses the PM of \"no standards\" over a golf club error, and a gas reservation policy faces a lower house vote today.\n• Utah's Sunshine Buns, started in 2022 by four friends, raised $7 million in Series A funding to expand its store presence.",
+    "generated_at": "2026-10-29T01:33:25.688842+00:00",
     "window_minutes": 60,
-    "item_count": 6,
-    "key": "abe19f00a03de557f0345916d1c7c0cbf6d81ee9",
+    "item_count": 4,
+    "key": "4b83ad578d21913cf3613b2707c4c0bf2628b2c9",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
     {
+      "id": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo#0",
+      "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+      "published": "2026-10-29T01:14:01+00:00",
+      "author": null,
+      "description": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
+      "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c2c/live/4c19c1e0-d2eb-11f1-b441-2b33b063138f.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
       "id": "108470631",
       "title": "Samsung Electronics third-quarter profit in line with estimates amid rising demand for AI memory chips",
-      "published": "2026-10-29T01:02:10+00:00",
+      "published": "2026-10-29T01:13:47+00:00",
       "author": null,
       "description": "Samsung Electronics reported third-quarter earnings on Thursday.",
       "link": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
@@ -27,8 +41,8 @@
     },
     {
       "id": "https://www.theguardian.com/australia-news/live/2026/oct/29/labor-treasurer-jim-chalmers-social-media-anthony-albanese-coalition-one-nation-ntwnfb",
-      "title": "Australian politics live: Labor says ATO could have handled credit card ban better; man cautioned for allegedly stalking MPs",
-      "published": "2026-10-29T00:46:25+00:00",
+      "title": "Australian politics live: Paterson accuses PM of ‘no standards’ over golf club error; Haines office to reopen",
+      "published": "2026-10-29T01:13:23+00:00",
       "author": "Kat Wong",
       "description": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Gas reservation policy set for lower house vote today Australia’s domestic gas reservation is set to be debated and voted on in the lower house today. Rather than international base companies, determining through algorithms what Australians receive, it empowers people themselves to determine what you receive on your devices, so that you should have that control. This isn’t about government having a greater r…",
       "link": "https://www.theguardian.com/australia-news/live/2026/oct/29/labor-treasurer-jim-chalmers-social-media-anthony-albanese-coalition-one-nation-ntwnfb",
@@ -192,20 +206,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo#0",
-      "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
-      "published": "2026-10-28T23:21:48+00:00",
-      "author": null,
-      "description": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
-      "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c2c/live/4c19c1e0-d2eb-11f1-b441-2b33b063138f.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/middle-east/israel-poll-results-deadlocked-amid-historic-showing-by-arab-parties/articleshow/135283677.cms",

@@ -1,16 +1,30 @@
 {
   "category": "science",
-  "updated": "2026-10-29T01:03:23.931669+00:00",
+  "updated": "2026-10-29T01:33:25.688842+00:00",
   "count": 693,
   "summary": {
-    "text": "• Astronaut Reid Wiseman, who flew on Artemis II past the Moon, has landed in California.\n• Now retired and emeritus, Wiseman will become deputy director of NASA's Jet Propulsion Laboratory, the agency's main center for deep-space robotic missions.\n• New research explains \"the phantom lighthouse,\" an illusion on Lady Elliot Island at the southern tip of Australia's Great Barrier Reef, where the first lighthouse, built in 1873, was decommissioned in 1995 after a second took over.",
-    "generated_at": "2026-10-29T00:33:26.204160+00:00",
+    "text": "• NASA's Artemis II mission flew past the Moon, and astronaut Reid Wiseman landed in California.\n• Wiseman, now a retired emeritus astronaut, will become deputy director of the Jet Propulsion Laboratory, NASA's main center for deep-space robotic missions.\n• A Phys.org report examines how the Indian Ocean influences Europe's early-winter rain and storms, a link not usually considered alongside Atlantic storms or cold northern air.",
+    "generated_at": "2026-10-29T01:33:25.688842+00:00",
     "window_minutes": 60,
     "item_count": 2,
-    "key": "9687976fbbca3dcaca3416f5215f87eea15cd848",
+    "key": "91c28c3c8b7598b1bcefab997efd4358a88fb29a",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/10/28/science/space/reid-wiseman-artemis-ii-astronaut.html",
+      "title": "After Flying Past the Moon, an Artemis II Astronaut Lands in California",
+      "published": "2026-10-29T01:13:27+00:00",
+      "author": "Kenneth Chang",
+      "description": "Reid Wiseman, now a retired emeritus astronaut, will become deputy director of the Jet Propulsion Laboratory, NASA’s premier center for deep-space robotic missions.",
+      "link": "https://www.nytimes.com/2026/10/28/science/space/reid-wiseman-artemis-ii-astronaut.html",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28sci-nasa-wiseman-kfhp/28sci-nasa-wiseman-kfhp-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Science",
+      "feed_title": "NYT > Science",
+      "category": "science",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "news712411997",
       "title": "How the Indian Ocean is linked to Europe's early-winter rain and storms",
@@ -24,20 +38,6 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/10/28/science/space/reid-wiseman-artemis-ii-astronaut.html",
-      "title": "After Flying Past the Moon, an Artemis II Astronaut Lands in California",
-      "published": "2026-10-29T00:00:06+00:00",
-      "author": "Kenneth Chang",
-      "description": "Reid Wiseman, now a retired emeritus astronaut, will become deputy director of the Jet Propulsion Laboratory, NASA’s premier center for deep-space robotic missions.",
-      "link": "https://www.nytimes.com/2026/10/28/science/space/reid-wiseman-artemis-ii-astronaut.html",
-      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28sci-nasa-wiseman-kfhp/28sci-nasa-wiseman-kfhp-mediumSquareAt3X.jpg",
-      "feed_name": "NYT > Science",
-      "feed_title": "NYT > Science",
-      "category": "science",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "news712402306",
