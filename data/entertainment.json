@@ -1,16 +1,44 @@
 {
   "category": "entertainment",
-  "updated": "2026-10-29T02:02:52.421728+00:00",
+  "updated": "2026-10-29T02:33:12.342130+00:00",
   "count": 1000,
   "summary": {
-    "text": "• Apple TV's golf comedy Stick returns for Season 2, starring Owen Wilson and Peter Dager, and Deadline has the release schedule.\n• Becky G remembers labor leader and civil rights icon Dolores Huerta, who died Wednesday at 96.\n• Paris Jackson alleges the executor of Michael Jackson's estate failed to justify a $100M fee, calling it \"particularly offensive.\"\n• Disney laid off between 100 and 200 staff in its Experiences division, which includes theme parks, resorts and cruise lines.",
-    "generated_at": "2026-10-29T01:33:25.688842+00:00",
+    "text": "• A former senior Netflix staffer launched one of Japan's buzziest independent cinemas, which screens titles including Possible Love, Suspiria and Blue Heron.\n• Singapore's F1 Grand Prix has become known as the \"Coachella of Asia,\" with WME's Brett Murrihy saying no other Asian festival has comparable buying power or influence.\n• Variety's review of Peter Berg's WWII football epic The Mosquito Bowl calls it emptily macho, with its heroes taking to the battlefield.",
+    "generated_at": "2026-10-29T02:33:12.342130+00:00",
     "window_minutes": 60,
-    "item_count": 5,
-    "key": "07eecacd3f47a646df3f87d5e29415f847b09bff",
+    "item_count": 3,
+    "key": "82e2af0138a54ad8d43128275f998a0c8c23f17d",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://deadline.com/?p=1237207784",
+      "title": "How A Former Senior Netflix Staffer Launched One Of Japan’s Buzziest Indie Cinemas",
+      "published": "2026-10-29T02:25:36+00:00",
+      "author": "Zac Ntim",
+      "description": "Director Lee Chang-dong’s beautiful genre mash-up, Possible Love; Dario Argento’s Giallo classic, Suspiria; and Sophy Romvari’s accomplished debut, Blue Heron, are some of the titles Japanese cinephiles can catch this week at Cineyama, one of the country’s buzziest new indie cinema venues. Located in Yamanashi Prefecture, just outside Tokyo, CineYama is a unique proposition in […]",
+      "link": "https://deadline.com/2026/10/cineyama-matt-kelson-japan-indie-cinema-1237207784/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/IMG_1097_VSCO.jpg",
+      "feed_name": "Deadline",
+      "feed_title": "Deadline",
+      "category": "entertainment",
+      "feed_url": "https://deadline.com/feed/",
+      "feed_icon": "https://deadline.com/wp-content/uploads/2019/04/cropped-icon-512x512.png?w=32"
+    },
+    {
+      "id": "https://www.billboard.com/?post_type=billboard_pro_post&p=1236368610",
+      "title": "How Singapore’s F1 Grand Prix Became The ‘Coachella of Asia’",
+      "published": "2026-10-29T02:10:00+00:00",
+      "author": "Lars Brandle",
+      "description": "\"No other festival in Asia possesses comparable buying power or influence\" as the Singapore GP, WME's Brett Murrihy says.",
+      "link": "https://www.billboard.com/pro/how-singapore-f1-grand-prix-became-coachella-asia/",
+      "image": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif",
+      "feed_name": "BillBoard",
+      "feed_title": "Billboard",
+      "category": "entertainment",
+      "feed_url": "https://www.billboard.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.billboard.com&sz=64"
+    },
     {
       "id": "https://variety.com/?p=1236932067",
       "title": "‘The Mosquito Bowl’ Review: Football Heroes Take to the Battlefield in Peter Berg’s Emptily Macho WWII Epic",
@@ -142,7 +170,7 @@
       "title": "Paris Jackson Wants No More “Smoke & Mirrors” Over MJ Money After Estate Trashes Her Latest Claims As “Nonsensical”",
       "published": "2026-10-29T00:03:52+00:00",
       "author": "Dominic Patten",
-      "description": "Paris Jackson is claiming the executor of her father’s fortune and legacy, has once again failed “to meet his fundamental disclosure obligations” despite a very explicit court order on those money matters. At the same time, Jackson says John Branca wants to hand out tens of millions to himself and his law firm. Calling the […]",
+      "description": "Paris Jackson is claiming the executor of her father’s fortune and legacy has once again failed “to meet his fundamental disclosure obligations” despite a very explicit court order on those money matters. At the same time, Jackson says John Branca wants tens of millions for himself and his law firm. Calling the assertions and the […]",
       "link": "https://deadline.com/2026/10/michael-jackson-estate-lawsuit-paris-1237207483/",
       "image": "https://deadline.com/wp-content/uploads/2026/03/Paris-JAckson-Michael-Jackson-and-John-Branca.jpg",
       "feed_name": "Deadline",
@@ -4162,7 +4190,7 @@
       "author": "Alex Billington",
       "description": "\"We should tell the hard story...\" Searchlight Pictures unveiled the second official trailer for the movie titled Behemoth!, the latest cinematic story told by the acclaimed writer / director Tony Gilroy, best known for Michael Clayton (brilliant film), the Bourne movies, and \"Andor\" series recently. This premiered at NYFF earlier this month to mixed reviews - some good but others not good. Pedro Pascal plays a famous cellist from a family of musicians who returns to Los Angeles to start a care…",
       "link": "https://www.firstshowing.net/2026/pedro-pascal-makes-movie-scores-in-gilroys-behemoth-trailer-2/",
-      "image": "https://media2.firstshowing.net/firstshowing/img18/behemothpostermainimgbigtsr1.jpg",
+      "image": "https://media2.firstshowing.net/firstshowing/img18/behemothpostermainimgbigtsr2.jpg",
       "feed_name": "FirstShowing.net",
       "feed_title": "FirstShowing.net",
       "category": "entertainment",
@@ -13982,34 +14010,6 @@
       "category": "entertainment",
       "feed_url": "https://www.rollingstone.com/music/music-news/feed/",
       "feed_icon": "https://www.rollingstone.com/wp-content/uploads/2024/12/R-Avatar_512x512_flat.png?w=32"
-    },
-    {
-      "id": "https://deadline.com/?p=1237184362",
-      "title": "‘Smear’ Campaign: George Clooney, Betty Gilpin, Adam Scott & Laverne Cox Team To Read Clark Gregg-Penned Political Play As Midterms Fundraiser",
-      "published": "2026-10-26T20:05:37+00:00",
-      "author": "Dominic Patten",
-      "description": "EXCLUSIVE: George Clooney was a big draw on Broadway last year with Good Night, and Good Luck, and now the Tony nominee is returning to the stage with his GNGT co-star Clark Gregg for a bit of a Smear campaign. The November 1 reunion in NYC will actually feature Clooney along with Betty Gilpin, Laverne […]",
-      "link": "https://deadline.com/2026/10/george-clooney-midterms-fundraiser-clark-gregg-play-1237184362/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/George-Clooney-Betty-Gilpin-Adam-Scott-Laverne-Cox.jpg",
-      "feed_name": "Deadline",
-      "feed_title": "Deadline",
-      "category": "entertainment",
-      "feed_url": "https://deadline.com/feed/",
-      "feed_icon": "https://deadline.com/wp-content/uploads/2019/04/cropped-icon-512x512.png?w=32"
-    },
-    {
-      "id": "https://www.comingsoon.net/?p=2212841",
-      "title": "Clayface’s James Gunn Gives Fans a Great Reason to Go See New DCU Movie Today",
-      "published": "2026-10-26T20:04:45+00:00",
-      "author": "Surya Singh",
-      "description": "James Gunn has shared a heartfelt message about Clayface. His post celebrates the character’s comic book history while praising Tom Rhys Harries’ emotional performance. The DC Studios CEO marked the anniversary of Matt Hagen’s comic book debut. He shared a photo of himself holding a graded copy of Detective Comics #298, the December 1961 issue […] The post Clayface’s James Gunn Gives Fans a Great Reason to Go See New DCU Movie Today appeared first on ComingSoon.net - Movie Trailers, TV & Stream…",
-      "link": "https://www.comingsoon.net/movies/news/2212841-clayface-james-gunn-fans-great-reason-dcu-movie-today",
-      "image": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/10/clayface_5d46e5.jpg?w=1024",
-      "feed_name": "ComingSoon.net",
-      "feed_title": "ComingSoon.net – Movie Trailers, TV & Streaming News, and More",
-      "category": "entertainment",
-      "feed_url": "https://www.comingsoon.net/feed",
-      "feed_icon": "https://www.comingsoon.net/wp-content/uploads/sites/3/2022/12/cs_ico_144x144.png?w=32"
     }
   ]
 }

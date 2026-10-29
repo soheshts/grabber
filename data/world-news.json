@@ -1,16 +1,100 @@
 {
   "category": "World News",
-  "updated": "2026-10-29T02:02:52.421728+00:00",
+  "updated": "2026-10-29T02:33:12.342130+00:00",
   "count": 1000,
   "summary": {
-    "text": "• Defeated Brazilian candidate Flávio Bolsonaro denies fleeing after landing in Miami, claiming a coup and persecution while repeating unsubstantiated \"electoral fraud\" allegations.\n• Samsung Electronics' third-quarter profit was in line with estimates amid rising demand for AI memory chips.\n• In Australia, Paterson accuses the PM of \"no standards\" over a golf club error, and a gas reservation policy faces a lower house vote today.\n• Utah's Sunshine Buns, started in 2022 by four friends, raised $7 million in Series A funding to expand its store presence.",
-    "generated_at": "2026-10-29T01:33:25.688842+00:00",
+    "text": "• Israel's election count is ongoing with no clear majority for Netanyahu's right-wing coalition or Gadi Eisenkot's opposition alliance, so coalition wrangling is expected. Protesters in Jerusalem, Tel Aviv and Haifa rallied for a Jewish-Arab government.\n• Vance proposed restarting comprehensive peace talks with Iran, including on its nuclear program, in a letter to an Iranian official.\n• China's tech stocks are sliding as investors question whether AI profits justify high valuations.\n• Samsung Electronics shares fell despite a record third-quarter profit.\n• A report says Pakistan's Hindu population fell from 14.6% to under 2%, amid periodic violence since 1947.",
+    "generated_at": "2026-10-29T02:33:12.342130+00:00",
     "window_minutes": 60,
-    "item_count": 4,
-    "key": "4b83ad578d21913cf3613b2707c4c0bf2628b2c9",
+    "item_count": 8,
+    "key": "3a660433565ae94736b194c96099a7362d6cb60a",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-government-formation-negotiation.html",
+      "title": "Israel’s Parties Gird for Wrangling to Form a Government, With No Clear Path",
+      "published": "2026-10-29T02:27:45+00:00",
+      "author": "Isabel Kershner, Johnatan Reiss, Aaron Boxerman, Qasim Nauman and Michael Levenson",
+      "description": "Votes are still being counted, but it appears that neither Prime Minister Benjamin Netanyahu’s right-wing coalition nor the opposition alliance headed by Gadi Eisenkot will have a majority.",
+      "link": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-government-formation-negotiation.html",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28int-israel-ledeall-1-kzpm/28int-israel-ledeall-1-kzpm-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/28/us/politics/vance-peace-talks-letter-iran.html",
+      "title": "Vance Proposes Restarting Peace Talks in Outreach to Iranian Official",
+      "published": "2026-10-29T02:15:19+00:00",
+      "author": "Farnaz Fassihi and Tyler Pager",
+      "description": "In his letter, the vice president suggested an immediate resumption of comprehensive talks, including about Iran’s nuclear program.",
+      "link": "https://www.nytimes.com/2026/10/28/us/politics/vance-peace-talks-letter-iran.html",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28dc-vance-iran-hfbj/28dc-vance-iran-hfbj-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "108472496",
+      "title": "China’s tech darlings are losing their shine. Here’s what’s behind the sell-off",
+      "published": "2026-10-29T02:14:14+00:00",
+      "author": null,
+      "description": "China's tech rally is being tested as as investors question whether AI profits can justify lofty valuations.",
+      "link": "https://www.cnbc.com/2026/10/29/china-tech-stocks-selloff.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108129020-17442031072025-04-09t123941z_1563710510_rc2auda4lwqg_rtrmadp_0_usa-trump-tariffs-china.jpeg?v=1744203134&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.theguardian.com/australia-news/live/2026/oct/29/labor-treasurer-jim-chalmers-social-media-anthony-albanese-coalition-one-nation-ntwnfb",
+      "title": "Australian politics live: Hastie ‘lived a lot’ of SAS report findings; Paterson accuses PM of ‘no standards’ over golf club",
+      "published": "2026-10-29T02:13:06+00:00",
+      "author": "Kat Wong",
+      "description": "Get our breaking news email , free app or daily news podcast Gas reservation policy set for lower house vote today Australia’s domestic gas reservation is set to be debated and voted on in the lower house today. Rather than international base companies, determining through algorithms what Australians receive, it empowers people themselves to determine what you receive on your devices, so that you should have that control. This isn’t about government having a greater role. It’s about people havi…",
+      "link": "https://www.theguardian.com/australia-news/live/2026/oct/29/labor-treasurer-jim-chalmers-social-media-anthony-albanese-coalition-one-nation-ntwnfb",
+      "image": "https://i.guim.co.uk/img/media/cefd634801ed20a2fd859adc3450e51aa4b71a77/642_0_6340_5072/master/6340.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=6527b4cbe95feb16cf6d2e6e03b7c76e",
+      "feed_name": "The Guardian",
+      "feed_title": "World news | The Guardian",
+      "category": "World News",
+      "feed_url": "https://www.theguardian.com/world/rss",
+      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/middle-east/from-the-river-to-the-sea-hundreds-rally-across-israel-for-jewish-arab-government-as-election-count-continues/articleshow/135286444.cms",
+      "title": "'From the river to the sea': Hundreds rally across Israel advocating Jewish-Arab gov",
+      "published": "2026-10-29T02:11:45+00:00",
+      "author": "Pranjal Pandey",
+      "description": "Around 300 demonstrators gathered in Jerusalem, Tel Aviv, and Haifa to demand a Jewish-Arab government. Protesters held signs advocating for freedom and inclusive governance, reflecting their unified call. The demonstrations coincided with ongoing vote counting following Israel's closely contested election. Pro-Netanyahu parties secured 53 seats, while the opposing bloc held 48, leaving no clear majority. Opposition leader Gadi Eisenkot emphasized a need for change, criticizing Netanyahu's gove…",
+      "link": "https://timesofindia.indiatimes.com/world/middle-east/from-the-river-to-the-sea-hundreds-rally-across-israel-for-jewish-arab-government-as-election-count-continues/articleshow/135286444.cms",
+      "image": "https://static.toiimg.com/photo/msid-135286489,imgsize-348878.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
+      "id": "108470631",
+      "title": "Samsung Electronics shares slid despite record profit in the third-quarter",
+      "published": "2026-10-29T02:06:04+00:00",
+      "author": null,
+      "description": "Samsung Electronics reported third-quarter earnings on Thursday.",
+      "link": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108470863-1793136143433-gettyimages-2205145612-cros-mobilewo250305_npOel.jpeg?v=1793136156&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
     {
       "id": "https://www.ndtv.com/world-news/report-flags-how-pakistans-hindu-population-fell-from-14-6-percent-to-under-2-percent-12251385#publisher=newsstand",
       "title": "Report Flags How Pakistan's Hindu Population Fell From 14.6% To Under 2%",
@@ -38,20 +122,6 @@
       "category": "World News",
       "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
       "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
-      "id": "https://www.theguardian.com/australia-news/live/2026/oct/29/labor-treasurer-jim-chalmers-social-media-anthony-albanese-coalition-one-nation-ntwnfb",
-      "title": "Australian politics live: Paterson accuses PM of ‘no standards’ over golf club error; Haines office to reopen",
-      "published": "2026-10-29T01:48:47+00:00",
-      "author": "Kat Wong",
-      "description": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Gas reservation policy set for lower house vote today Australia’s domestic gas reservation is set to be debated and voted on in the lower house today. Rather than international base companies, determining through algorithms what Australians receive, it empowers people themselves to determine what you receive on your devices, so that you should have that control. This isn’t about government having a greater r…",
-      "link": "https://www.theguardian.com/australia-news/live/2026/oct/29/labor-treasurer-jim-chalmers-social-media-anthony-albanese-coalition-one-nation-ntwnfb",
-      "image": "https://i.guim.co.uk/img/media/cefd634801ed20a2fd859adc3450e51aa4b71a77/642_0_6340_5072/master/6340.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=6527b4cbe95feb16cf6d2e6e03b7c76e",
-      "feed_name": "The Guardian",
-      "feed_title": "World news | The Guardian",
-      "category": "World News",
-      "feed_url": "https://www.theguardian.com/world/rss",
-      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
     },
     {
       "id": "https://www.ndtv.com/world-news/top-eu-leader-david-mcallister-tells-ndtv-mother-of-all-deals-with-india-targeted-for-december-12251326#publisher=newsstand",
@@ -94,20 +164,6 @@
       "category": "World News",
       "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "108470631",
-      "title": "Samsung Electronics third-quarter profit in line with estimates amid rising demand for AI memory chips",
-      "published": "2026-10-29T01:13:47+00:00",
-      "author": null,
-      "description": "Samsung Electronics reported third-quarter earnings on Thursday.",
-      "link": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108470863-1793136143433-gettyimages-2205145612-cros-mobilewo250305_npOel.jpeg?v=1793136156&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
       "id": "https://www.ndtv.com/world-news/spain-train-crash-toledo-live-updates-deaths-madrid-news-today-pedro-sanchez-12248070#publisher=newsstand",
@@ -906,20 +962,6 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-government-formation-negotiation.html",
-      "title": "Israel’s Parties Gird for Wrangling to Form a Government, With No Clear Path",
-      "published": "2026-10-28T20:13:57+00:00",
-      "author": "Isabel Kershner, Johnatan Reiss, Aaron Boxerman, Qasim Nauman and Michael Levenson",
-      "description": "Votes are still being counted, but it appears that neither Prime Minister Benjamin Netanyahu’s right-wing coalition nor the opposition alliance headed by Gadi Eisenkot will have a majority.",
-      "link": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-government-formation-negotiation.html",
-      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28int-israel-ledeall-1-kzpm/28int-israel-ledeall-1-kzpm-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "t3_1xhz6dp",
@@ -13968,48 +14010,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/ineligibility-thresholds-coalitions-inside-israels-electoral-system-12234889#publisher=newsstand",
-      "title": "Ineligibility Thresholds, Coalitions: Inside Israel's Electoral System",
-      "published": "2026-10-25T19:14:56+00:00",
-      "author": null,
-      "description": "Voters cast their ballots for members of parliament via party lists of candidates.",
-      "link": "https://www.ndtv.com/world-news/ineligibility-thresholds-coalitions-inside-israels-electoral-system-12234889#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-10/sdbgue3s_israel-elections-benjamin-netanyahu_625x300_21_October_26.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do#1",
-      "title": "Death toll in Nigeria village raided by gunmen rises to 48, police say",
-      "published": "2026-10-25T19:14:27+00:00",
-      "author": null,
-      "description": "Unidentified gunmen on motorcycles swooped on a remote village on Friday, looting shops and setting houses ablaze.",
-      "link": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db2e/live/b3593830-d017-11f1-b0c1-71a61e4adacb.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "t3_1xfavm9",
-      "title": "Kremlin Says Preparations Underway for Putin, Trump, and Xi Summit",
-      "published": "2026-10-25T19:08:41+00:00",
-      "author": "/u/archi-mature",
-      "description": "submitted by /u/archi-mature [link] [comments]",
-      "link": "https://www.reddit.com/r/worldnews/comments/1xfavm9/kremlin_says_preparations_underway_for_putin/",
-      "image": "https://external-preview.redd.it/tB2J-uVcM0dMAtMDhvSFlQWj0rJ8PeU8TGFF4DTymAQ.jpeg?width=640&crop=smart&auto=webp&s=54285208042297f70366b5e52c20a620d552d0cb",
-      "feed_name": "World News",
-      "feed_title": "World News",
-      "category": "World News",
-      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
-      "feed_icon": "https://www.redditstatic.com/icon.png/"
     }
   ]
 }

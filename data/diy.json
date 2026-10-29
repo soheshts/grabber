@@ -1,9 +1,30 @@
 {
   "category": "DIY",
-  "updated": "2026-10-29T02:02:52.421728+00:00",
-  "count": 297,
-  "summary": null,
+  "updated": "2026-10-29T02:33:12.342130+00:00",
+  "count": 298,
+  "summary": {
+    "text": "• A Hackaday blog post covers a battery prototype described in a recent paper by Kieran Hymas and colleagues.\n• The cell reportedly uses quantum effects to charge faster, though the post notes that \"quantum battery\" is a vague term.\n• The excerpt ends with a \"read more\" link, so further details are not included here.",
+    "generated_at": "2026-10-29T02:33:12.342130+00:00",
+    "window_minutes": 60,
+    "item_count": 1,
+    "key": "e73ce8233f2d0ea05ec125bd0decd4b4718176ed",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "https://hackaday.com/?p=1143041",
+      "title": "Battery Prototype Uses Superextensive Quantum Effects to Charge Faster",
+      "published": "2026-10-29T02:00:26+00:00",
+      "author": "Maya Posch",
+      "description": "Although the term ‘quantum battery’ is a bit of a vague term, the cell that [Kieran Hymas] et al. demonstrate in a recent paper does seem to suggest that it …read more",
+      "link": "https://hackaday.com/2026/10/28/battery-prototype-uses-superextensive-quantum-effects-to-charge-faster/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/08/superextensive_battery_cell_kieran_hymas_et_al_2026.png",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/this-3d-print-is-designed-to-get-destroyed-and-its-the-most-useful-thing-i-make/",
       "title": "This 3D print is designed to get destroyed, and it’s the most useful thing I make",

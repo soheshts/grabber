@@ -1,9 +1,30 @@
 {
   "category": "technology",
-  "updated": "2026-10-29T02:02:52.421728+00:00",
+  "updated": "2026-10-29T02:33:12.342130+00:00",
   "count": 1000,
-  "summary": null,
+  "summary": {
+    "text": "• Defense contractor Anduril and chipmaker Qualcomm announced a partnership on Tuesday to build laptops entirely in the United States.\n• The first model, the BlueChip laptop, is slated for 2027, and Anduril says it will meet Buy American standards at launch.\n• The announcement also referenced a \"long…\" term plan, but the item is cut off, so details are unavailable.",
+    "generated_at": "2026-10-29T02:33:12.342130+00:00",
+    "window_minutes": 60,
+    "item_count": 1,
+    "key": "463f1e41b1f897deac3c61c6a915cd109d18faba",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "https://www.theverge.com/?p=1021554",
+      "title": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
+      "published": "2026-10-29T02:22:46+00:00",
+      "author": "Sean Hollister",
+      "description": "On Tuesday, defense contractor Anduril and chipmaker Qualcomm announced a partnership to build laptops entirely in the United States, starting with a single model in 2027. They also announced a \"long-term goal\" of pushing the computer industry to create \"a fully domestic supply chain.\" Even a single Made-in-USA laptop would be a surprise, because no […]",
+      "link": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/2026-BlueChip-InField-5-Web.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "feed_name": "The Verge -  All Posts",
+      "feed_title": "The Verge",
+      "category": "technology",
+      "feed_url": "https://www.theverge.com/rss/index.xml",
+      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
+    },
     {
       "id": "5119823",
       "title": "You Can Spend Nearly $15K on Apple’s New Touchscreen MacBook Pro. Why?",
@@ -13989,20 +14010,6 @@
       "category": "technology",
       "feed_url": "https://www.youtube.com/feeds/videos.xml?user=LinusTechTips",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64"
-    },
-    {
-      "id": "https://readwrite.com/?p=639012",
-      "title": "Treatment funds in proposed South Carolina online betting plan",
-      "published": "2026-10-16T06:21:02+00:00",
-      "author": "ReadWrite",
-      "description": "South Carolina sports betting remains illegal as a proposed online framework could raise $40 million yearly and fund treatment and prevention. The post Treatment funds in proposed South Carolina online betting plan appeared first on ReadWrite .",
-      "link": "https://readwrite.com/south-carolina-sports-betting-plan/",
-      "image": "https://readwrite.com/wp-content/uploads/2026/10/treatment-funds-south-carolina-online-betting-plan-900x600.webp",
-      "feed_name": "ReadWrite",
-      "feed_title": "ReadWrite",
-      "category": "technology",
-      "feed_url": "https://readwrite.com/feed/",
-      "feed_icon": "https://readwrite.com/wp-content/uploads/2024/10/cropped-readwrite-favicon-32x32.png"
     }
   ]
 }
