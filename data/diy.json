@@ -1,9 +1,51 @@
 {
   "category": "DIY",
-  "updated": "2026-10-29T16:04:43.106135+00:00",
-  "count": 334,
+  "updated": "2026-10-29T16:34:39.804807+00:00",
+  "count": 337,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/ring-smart-lock-fixes-problem/",
+      "title": "Ring finally fixed the biggest problem with smart locks, and the solution is surprisingly simple",
+      "published": "2026-10-29T16:31:18+00:00",
+      "author": "Chris Hachey",
+      "description": "No key? No problem.",
+      "link": "https://www.makeuseof.com/ring-smart-lock-fixes-problem/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2026/10/ring-lock.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/bad-at-tech-this-linux-distro-proves-you-dont-need-to-be-a-command-line-wizard/",
+      "title": "Kubuntu is the Linux distro for people who never want to open a terminal",
+      "published": "2026-10-29T16:30:16+00:00",
+      "author": "Nick Lewis",
+      "description": "There is a Linux distro for everyone.",
+      "link": "https://www.howtogeek.com/bad-at-tech-this-linux-distro-proves-you-dont-need-to-be-a-command-line-wizard/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/09/kubuntu-latest-install-on-laptop.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/windows-11-is-finally-letting-you-fix-one-of-its-most-annoying-menus/",
+      "title": "Windows 11 is finally letting you fix one of its most annoying menus",
+      "published": "2026-10-29T16:18:03+00:00",
+      "author": "Viraj Gawde",
+      "description": "A faster, trim-able right-click menu and USB-free rescue option.",
+      "link": "https://www.howtogeek.com/windows-11-is-finally-letting-you-fix-one-of-its-most-annoying-menus/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/05/windows-11-simplified-right-click-context-menu-on-the-left-and-the-restored-full-classic-context-menu-on-the-right-with-the-mouse-right-button-highlighted.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/switching-to-iphone-samsung-feature-brought-me-back/",
       "title": "I tried switching to iPhone but this one Samsung feature brought me right back",
