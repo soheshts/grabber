@@ -1,16 +1,30 @@
 {
   "category": "science",
-  "updated": "2026-10-29T00:03:22.683804+00:00",
-  "count": 691,
+  "updated": "2026-10-29T00:33:26.204160+00:00",
+  "count": 692,
   "summary": {
-    "text": "• Research explains the \"phantom lighthouse\" illusion on Lady Elliot Island, at the southern tip of Australia's Great Barrier Reef, where an 1873 lighthouse was decommissioned in 1995 when a second one took over.\n• Kyushu University researchers found that an ultrathin iridium manganese (IrMn) layer improves two spin-related signals in a magnetic insulator and platinum structure, opening a path to ultralow-power electronics.\n• A construction boom in parts of Nepal and India's Uttarakhand has put about 300,000 people in the path of potential Himalayan disasters.",
-    "generated_at": "2026-10-29T00:03:22.683804+00:00",
+    "text": "• Astronaut Reid Wiseman, who flew on Artemis II past the Moon, has landed in California.\n• Now retired and emeritus, Wiseman will become deputy director of NASA's Jet Propulsion Laboratory, the agency's main center for deep-space robotic missions.\n• New research explains \"the phantom lighthouse,\" an illusion on Lady Elliot Island at the southern tip of Australia's Great Barrier Reef, where the first lighthouse, built in 1873, was decommissioned in 1995 after a second took over.",
+    "generated_at": "2026-10-29T00:33:26.204160+00:00",
     "window_minutes": 60,
-    "item_count": 3,
-    "key": "4e4cfb2281f87649eabe812678f4e86bc4746209",
+    "item_count": 2,
+    "key": "9687976fbbca3dcaca3416f5215f87eea15cd848",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/10/28/science/space/reid-wiseman-artemis-ii-astronaut.html",
+      "title": "After Flying Past the Moon, an Artemis II Astronaut Lands in California",
+      "published": "2026-10-29T00:00:06+00:00",
+      "author": "Kenneth Chang",
+      "description": "Reid Wiseman, now a retired emeritus astronaut, will become deputy director of the Jet Propulsion Laboratory, NASA’s premier center for deep-space robotic missions.",
+      "link": "https://www.nytimes.com/2026/10/28/science/space/reid-wiseman-artemis-ii-astronaut.html",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28sci-nasa-wiseman-kfhp/28sci-nasa-wiseman-kfhp-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Science",
+      "feed_title": "NYT > Science",
+      "category": "science",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "news712402306",
       "title": "The phantom lighthouse: New research explains one of Australia's strangest illusions",

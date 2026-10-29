@@ -1,16 +1,30 @@
 {
   "category": "gaming",
-  "updated": "2026-10-29T00:03:22.683804+00:00",
-  "count": 719,
+  "updated": "2026-10-29T00:33:26.204160+00:00",
+  "count": 720,
   "summary": {
-    "text": "• GameSpot reports that an iconic piece of gaming artwork has fetched a princely sum at auction.\n• The item is an arcade sales flyer from about 45 years ago, with a detailed cartoon illustration on the front, which was operators' first look at a game that would change the medium's history.\n• The excerpt does not name the game or give the sale price.",
-    "generated_at": "2026-10-29T00:03:22.683804+00:00",
+    "text": "• IGN has published a review of Call of Duty: Modern Warfare 4's DMZ mode, calling it a bigger and better version of the extraction shooter.",
+    "generated_at": "2026-10-29T00:33:26.204160+00:00",
     "window_minutes": 60,
     "item_count": 1,
-    "key": "61b37d455fd93b50a7022fed5e370401459ea093",
+    "key": "fd3d40f1fd866129f5c91e2744bb605f462dff03",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "774e672d-27f6-4a7a-9b1f-79f29b453930",
+      "title": "Call of Duty: Modern Warfare 4 DMZ Review",
+      "published": "2026-10-28T23:40:17+00:00",
+      "author": "jon Burgess",
+      "description": "A bigger and better version of Call of Duty's extraction shooter mode.",
+      "link": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-dmz-review",
+      "image": "https://assets-prd.ignimgs.com/2026/10/21/codwf4dmz-blogroll-1792622752717.jpg",
+      "feed_name": "IGN All",
+      "feed_title": "IGN Articles",
+      "category": "gaming",
+      "feed_url": "http://feeds.ign.com/ign/all",
+      "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
+    },
     {
       "id": "1940618",
       "title": "An Iconic Piece Of Gaming Artwork Just Fetched A Princely Sum At Auction",

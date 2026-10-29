@@ -1,16 +1,30 @@
 {
   "category": "technology",
-  "updated": "2026-10-29T00:03:22.683804+00:00",
+  "updated": "2026-10-29T00:33:26.204160+00:00",
   "count": 1000,
   "summary": {
-    "text": "• Reddit is adding \"For You\" and \"Following\" feeds similar to TikTok's, rolling out worldwide.\n• The FCC chair wants to relax the agency's long-standing opposition to cellphone jammers, allowing prisons to block illegal phones; a vote is set for next month.\n• Instagram head Adam Mosseri says negativity around AI \"is going to get worse,\" citing graduates booing tech CEOs.\n• CNET commentary argues a touchscreen MacBook Pro will attract fingerprints.",
-    "generated_at": "2026-10-29T00:03:22.683804+00:00",
+    "text": "• Apple's new touchscreen MacBook Pro can cost nearly $15,000 when maxed out.\n• The top configuration pairs an M5 Max chip with 16TB of storage.\n• CNET notes that this maxed-out price exceeds the cost of ten basic MacBook Air laptops.",
+    "generated_at": "2026-10-29T00:33:26.204160+00:00",
     "window_minutes": 60,
-    "item_count": 4,
-    "key": "3bfc0ebb3166f124c7bba3c4855436b20b0b3ab5",
+    "item_count": 1,
+    "key": "f9f92361d8343e9727812a05eea0640fc8bc326c",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "5119823",
+      "title": "You Can Spend Nearly $15K on Apple’s New Touchscreen MacBook Pro. Why?",
+      "published": "2026-10-29T00:01:15+00:00",
+      "author": "Antuan Goodwin",
+      "description": "Maxing out the new touchscreen MacBook Pro with a M5 Max chip and 16TB of storage will cost more than buying 10 basic MacBook Air laptops.",
+      "link": "https://www.cnet.com/tech/computing/max-out-new-apple-touchscreen-macbook-pro-nearly-15k/",
+      "image": "https://www.cnet.com/wp-content/uploads/sites/2/MacBook-Pro-touchscreen-piano.png",
+      "feed_name": "CNET News",
+      "feed_title": "News – CNET",
+      "category": "technology",
+      "feed_url": "https://www.cnet.com/rss/news/",
+      "feed_icon": "https://www.cnet.com/wp-content/uploads/sites/2/cropped-favicon-480.png?w=32"
+    },
     {
       "id": "5119845",
       "title": "Reddit Is Adding ‘For You’ and ‘Following’ Feeds",
@@ -13996,20 +14010,6 @@
       "category": "technology",
       "feed_url": "https://feeds.megaphone.fm/vergecast",
       "feed_icon": "https://megaphone.imgix.net/podcasts/e4c412e6-e1f0-11e8-9bde-83f9d376f059/image/fa367fa8b1b6ca01fc4b8c34d83ba4d8.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
-    },
-    {
-      "id": "czlnqljwtkwxcdrw",
-      "title": "713: I Have Medium Hopes",
-      "published": "2026-10-15T19:24:37+00:00",
-      "author": "ATP",
-      "description": "Apple’s New Home-Related Products HomeView Newsroom iMac G4 Intro video TV commercial Schneider press release Wired’s review WWDC 2026: Rev Up Your CarPlay App Developer agreement “HomeView” & “homeOS” Apple TV 4K gen 4 Nvidia Shield TV Newsroom Intro video MacRumors Buyer’s Guide New Siri Remote Precision finding requirements HomePod mini 2 Newsroom Intro video Home collection Newsroom MacRumors (See also the Schneider press release above) Post-show: Casey got a UTR-LR UTR Flex Mini Members-on…",
-      "link": "https://atp.fm/713",
-      "image": null,
-      "feed_name": "Accidental Tech Podcast",
-      "feed_title": "Accidental Tech Podcast",
-      "category": "technology",
-      "feed_url": "https://atp.fm/rss",
-      "feed_icon": "https://cdn.atp.fm/artwork"
     }
   ]
 }
