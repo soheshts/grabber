@@ -1,9 +1,44 @@
 {
   "category": "fashion",
-  "updated": "2026-10-29T07:02:33.603390+00:00",
-  "count": 294,
-  "summary": null,
+  "updated": "2026-10-29T07:33:31.471572+00:00",
+  "count": 296,
+  "summary": {
+    "text": "• COS has quietly released a winter collection of timeless staples meant to be worn year after year.\n• Who What Wear's hair tools roundup highlights four new launches that promise volume and shine, based on the writer's testing of over 20 tools this year.",
+    "generated_at": "2026-10-29T07:33:31.471572+00:00",
+    "window_minutes": 60,
+    "item_count": 2,
+    "key": "f3e70639fac0834112ab4423bbc20fe2fb4686fd",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "icUfDDZf7YcimkTin5ktfg",
+      "title": "COS Quietly Dropped the Most Elegant Winter Collections—9 Timeless Staples You Need to See",
+      "published": "2026-10-29T07:00:00+00:00",
+      "author": "Florrie Alexander",
+      "description": "Wear these timeless buys year after year (after year).",
+      "link": "https://www.whowhatwear.com/fashion/shopping/cos-winter-collection-2026",
+      "image": "https://cdn.mos.cms.futurecdn.net/f6uaGDVYtjo8vEwch5mfGd-1920-80.jpg",
+      "feed_name": "Who What Wear",
+      "feed_title": "Latest from Who What Wear",
+      "category": "fashion",
+      "feed_url": "https://www.whowhatwear.com/rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.whowhatwear.com&sz=64"
+    },
+    {
+      "id": "3ZJDADDuouZMRUAmkPb55G",
+      "title": "I've Tried Over 20 Hair Tools This Year—4 New Launches That Deliver Volume and Shine",
+      "published": "2026-10-29T07:00:00+00:00",
+      "author": "Grace Lindsay",
+      "description": "Bouncy hair, this way.",
+      "link": "https://www.whowhatwear.com/beauty/hair/best-new-hair-tools-2026",
+      "image": "https://cdn.mos.cms.futurecdn.net/TZPCysWEZxiS9pqrDqQvsd-1920-80.jpg",
+      "feed_name": "Who What Wear",
+      "feed_title": "Latest from Who What Wear",
+      "category": "fashion",
+      "feed_url": "https://www.whowhatwear.com/rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.whowhatwear.com&sz=64"
+    },
     {
       "id": "qnHskau42qKS2dyrNxLGHG",
       "title": "It’s Official—These Once “Dated” Fashion Items Are the Secret to Looking On Trend This Winter",

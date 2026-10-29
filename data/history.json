@@ -1,9 +1,30 @@
 {
   "category": "history",
-  "updated": "2026-10-29T07:02:33.603390+00:00",
+  "updated": "2026-10-29T07:33:31.471572+00:00",
   "count": 39,
-  "summary": null,
+  "summary": {
+    "text": "• The Moomins, Finnish whimsical characters, have been a beloved children's series worldwide for decades.\n• The characters are now gaining popularity in America, according to a Throughline segment.\n• The episode explores themes of shadows, war, and finding joy in the Moomin stories.",
+    "generated_at": "2026-10-29T07:33:31.471572+00:00",
+    "window_minutes": 60,
+    "item_count": 1,
+    "key": "12d2aeec656531015117d4807d8511ecf1d061f7",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "d0c7e9b3-1af5-4eba-8361-6471f3fad6f5",
+      "title": "Shadows, war, and finding Moomin joy",
+      "published": "2026-10-29T07:05:00+00:00",
+      "author": "NPR (podcasts@npr.org)",
+      "description": "The Moomins have been a beloved children’s series around the world for decades. And now these bright, whimsical, and colorful Finnish characters are starting to gain steam in America. Today on Throughline, the story of their creator and the tragic circumstances that gave them life. Guests: Boel Westin, professor emerita of literature at Stockholm University, and author of Tove Jansson: Life, Art, Words Stina Ekblad, actor (as the voice of Tove Jansson) Support public media with NPR+ and enjoy p…",
+      "link": "https://www.npr.org/2026/10/29/nx-s1-6021473/shadows-war-and-finding-moomin-joy",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1413x795+0+0/resize/1280/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F55%2F46%2F8538e5d041899a6a258b8bc24988%2F4d2891a0-007a-4667-b17c-19c1775c0d36.jpeg",
+      "feed_name": "Throughline",
+      "feed_title": "Throughline",
+      "category": "history",
+      "feed_url": "https://feeds.npr.org/510333/podcast.xml",
+      "feed_icon": "https://media.npr.org/assets/img/2024/05/15/throughline_tile-art_sq-a59d7da2ea2bf97562aeec6440ddf837e8f7de65.jpg?s=1400&c=66&f=jpg"
+    },
     {
       "id": "50adfa2ae4b0cc1d786569eb:50adfa2ae4b0cc1d786569f4:6ae19e7f00f38e117c5d7673",
       "title": "The Avignon Papacy and the Fight for France: Part 5 - The Beginning of the End",
@@ -535,20 +556,6 @@
       "category": "history",
       "feed_url": "https://feeds.megaphone.fm/ESP5765452710",
       "feed_icon": "https://megaphone.imgix.net/podcasts/5d7d7e80-5fdf-11ea-9cb6-d35079938f3e/image/83dc70002920014e14c767d01f6323ee.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
-    },
-    {
-      "id": "351196bf-9397-41fb-be42-90dfaeb5f981",
-      "title": "Forty years of what if",
-      "published": "2026-09-29T07:05:01+00:00",
-      "author": "NPR (podcasts@npr.org)",
-      "description": "On January 28, 1986, the Space Shuttle Challenger exploded 73 seconds after liftoff. All seven astronauts onboard died. Brian Russell, an engineer who worked on the shuttle, had spent months warning NASA that freezing temperatures could cause a critical seal to fail. In this episode, Brian Russell takes us to the intense meeting where NASA had to decide whether to launch and the 40-year weight of a tragedy he tried to prevent. Support public media with NPR+ and enjoy perks for over 25 podcasts…",
-      "link": "https://www.npr.org/2026/09/29/nx-s1-5983667/forty-years-of-what-if",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2965x1668+0+0/resize/1280/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4a%2F21%2Faafa0c8348fd86c2b0aace8b93df%2F049b06a6-ef05-4668-9cad-ea7732d488be.jpg",
-      "feed_name": "Throughline",
-      "feed_title": "Throughline",
-      "category": "history",
-      "feed_url": "https://feeds.npr.org/510333/podcast.xml",
-      "feed_icon": "https://media.npr.org/assets/img/2024/05/15/throughline_tile-art_sq-a59d7da2ea2bf97562aeec6440ddf837e8f7de65.jpg?s=1400&c=66&f=jpg"
     }
   ]
 }

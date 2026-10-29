@@ -1,16 +1,44 @@
 {
   "category": "science",
-  "updated": "2026-10-29T07:02:33.603390+00:00",
-  "count": 700,
+  "updated": "2026-10-29T07:33:31.471572+00:00",
+  "count": 702,
   "summary": {
-    "text": "• A report says testing at RAF Upper Heyford found \"unacceptable\" levels of PFAS, calling it the worst chemical contamination at a UK RAF base.\n• The U.S. is restricting trade with Chinese genomics company BGI, blocking its shipments. U.S. officials allege the firm is associated with forced labor and the abuse of minority groups.",
-    "generated_at": "2026-10-29T06:33:16.497123+00:00",
+    "text": "• Science-Based Medicine argues that a coordinated effort numbed people to the obvious dangers of COVID and MAHA.\n• The Infinite Monkey Cage episode \"Ghosts\" has Jessica Fostekew and Prof Adam Rutherford examining why ghosts continue to haunt our imaginations, with guests Isy Suttie, Laurence Rickard, Ciarán O'Keeffe and Chris French.",
+    "generated_at": "2026-10-29T07:33:31.471572+00:00",
     "window_minutes": 60,
     "item_count": 2,
-    "key": "71d3a0b144d4b2ee5f1b6826c1ff467c521712e1",
+    "key": "d4270158926f98a715f11661be5f8eef56a8ec0e",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://sciencebasedmedicine.org/?p=125289",
+      "title": "The Novocaine Pushers: Numbing People to Obvious Dangers of COVID and MAHA.",
+      "published": "2026-10-29T07:19:00+00:00",
+      "author": "Jonathan Howard",
+      "description": "COVID and MAHA weren't just dangerous, they were obviously dangerous. Yet, there was a coordinated effort to numb people to their risks, The post The Novocaine Pushers: Numbing People to Obvious Dangers of COVID and MAHA. first appeared on Science-Based Medicine .",
+      "link": "https://sciencebasedmedicine.org/the-novocaine-pushers/?utm_source=rss&utm_medium=rss&utm_campaign=the-novocaine-pushers",
+      "image": "https://sciencebasedmedicine.org/wp-content/uploads/2026/10/image-8.png",
+      "feed_name": "Science-Based Medicine",
+      "feed_title": "Science-Based Medicine",
+      "category": "science",
+      "feed_url": "https://sciencebasedmedicine.org/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=sciencebasedmedicine.org&sz=64"
+    },
+    {
+      "id": "urn:bbc:podcast:m0033g23",
+      "title": "Ghosts - Isy Suttie, Laurence Rickard, Ciarán O'Keeffe and Chris French",
+      "published": "2026-10-29T07:00:00+00:00",
+      "author": "BBC Radio 4",
+      "description": "Things that go bump in the night meet the cold light of science as Jessica Fostekew and Prof Adam Rutherford investigate why ghosts continue to haunt our imaginations. Joining them for some spooky science are psychologists Chris French and Ciaran O'Keeffe, comedian Isy Suttie and actor and co-creator of Ghosts Laurence Rickard. From sleep paralysis and haunted houses to séances, paranormal investigations and the power of suggestion, they ask why people see and sense things that aren't there, wh…",
+      "link": "http://www.bbc.co.uk/programmes/m0033g23",
+      "image": "https://ichef.bbci.co.uk/images/ic/1200x675/p0pfwlz7.jpg",
+      "feed_name": "The Infinite Monkey Cage",
+      "feed_title": "The Infinite Monkey Cage",
+      "category": "science",
+      "feed_url": "https://podcasts.files.bbci.co.uk/b00snr0w.rss",
+      "feed_icon": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0pfwmbx.jpg"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/c64g1je3034ko#1",
       "title": "RAF base chemical contamination worst in UK, report says",

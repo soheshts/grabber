@@ -1,9 +1,58 @@
 {
   "category": "technology",
-  "updated": "2026-10-29T07:02:33.603390+00:00",
+  "updated": "2026-10-29T07:33:31.471572+00:00",
   "count": 1000,
-  "summary": null,
+  "summary": {
+    "text": "• Kalshi and Polymarket US filed federal suits against Missouri and Louisiana on the same day the CFTC sued Utah, pushing the preemption fight into two more states.\n• Belgian startup Ravical raised $17M in seed funding led by MMC Ventures, with Lakestar and Pitchdrive also investing, to build shared AI software for accounting and tax firms.\n• A 25-year-old German photographer won the 2026 Nikon Small World contest with a microscopic image of ink droplets frozen in midair as an inkjet printer deposits them on paper.",
+    "generated_at": "2026-10-29T07:33:31.471572+00:00",
+    "window_minutes": 60,
+    "item_count": 3,
+    "key": "b3463665a65c3293fabdf71a7a3dff50786475d5",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "https://readwrite.com/?p=645427",
+      "title": "Kalshi and Polymarket US sue Missouri and Louisiana as CFTC takes Utah to court",
+      "published": "2026-10-29T07:18:36+00:00",
+      "author": "ReadWrite Editor",
+      "description": "Kalshi and Polymarket US filed federal suits against Missouri and Louisiana on the same day the CFTC sued Utah. The cases push the preemption fight into two states where licensed sportsbooks and casino partners stand to lose business to untaxed competitors. The post Kalshi and Polymarket US sue Missouri and Louisiana as CFTC takes Utah to court appeared first on ReadWrite .",
+      "link": "https://readwrite.com/kalshi-and-polymarket-us-sue-missouri-and-louisiana-as-cftc-takes-utah-to-court/",
+      "image": "https://readwrite.com/wp-content/uploads/2026/10/missouri-state-capitol-900x600.jpg",
+      "feed_name": "ReadWrite",
+      "feed_title": "ReadWrite",
+      "category": "technology",
+      "feed_url": "https://readwrite.com/feed/",
+      "feed_icon": "https://readwrite.com/wp-content/uploads/2024/10/cropped-readwrite-favicon-32x32.png"
+    },
+    {
+      "id": "TheNextWeb=a162edc2e348f2ea740e35f6a87fbdaf",
+      "title": "Ravical raises $17M to bring shared AI to accounting firms",
+      "published": "2026-10-29T07:00:17+00:00",
+      "author": "Ana-Maria Stanciuc",
+      "description": "Belgian startup Ravical, which builds AI software for accounting and tax firms, has raised $17M in a seed round led by MMC Ventures. Existing backers Lakestar and Pitchdrive also invested, along with new investor Shapers. More than 100 accounting firms in Europe now use the platform, the company said. Ravical plans to use the new money […] This story continues at The Next Web",
+      "link": "https://thenextweb.com/news/ravical-17m-seed-ai-accounting",
+      "image": "https://media.thenextweb.com/2026/10/ravical-founders-office.avif",
+      "feed_name": "The Next Web",
+      "feed_title": "The Next Web",
+      "category": "technology",
+      "feed_url": "https://thenextweb.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
+    {
+      "id": "https://slashdot.org/story/26/10/29/0436243/ink-droplets-in-motion-snag-top-prize-in-nikon-small-world-contest?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "title": "Ink Droplets In Motion Snag Top Prize In Nikon Small World Contest",
+      "published": "2026-10-29T07:00:00+00:00",
+      "author": "BeauHD",
+      "description": "A 25-year-old German photographer won the 2026 Nikon Small World competition with a microscopic image freezing ink droplets in midair as an inkjet printer deposits them onto paper. Ars Technica reports that Ole Bielfeldt \"beat out 1,802 other entries hailing from 69 different countries.\" From the report: Bielfeldt became interested in photomicrography during the COVID-19 lockdown after discovering an old microscope in his parents' attic. He figured out how to build an adaptor out of a tube and…",
+      "link": "https://slashdot.org/story/26/10/29/0436243/ink-droplets-in-motion-snag-top-prize-in-nikon-small-world-contest?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+      "feed_name": "Slashdot",
+      "feed_title": "Slashdot",
+      "category": "technology",
+      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
+    },
     {
       "id": "yt:video:7JOW7TTOGfI",
       "title": "Linus was Right - Apple (probably)",
@@ -37,9 +86,9 @@
       "title": "Partnering with Singapore to bring frontier AI to public health",
       "published": "2026-10-29T03:30:00+00:00",
       "author": "Ben King",
-      "description": "An elderly woman sitting and smiling at a healthcare worker who is taking her blood pressure",
+      "description": "Speakers on stage at the Google for Health Singapore Summit.",
       "link": "https://blog.google/innovation-and-ai/technology/health/google-for-health-summit-singapore/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/singapore_health_summit_hero_.max-600x600.format-webp.webp",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog-_Hero_Photo.max-600x600.format-webp.webp",
       "feed_name": "The Keyword",
       "feed_title": "News from Google",
       "category": "technology",
@@ -13961,48 +14010,6 @@
       "category": "technology",
       "feed_url": "https://feeds.twit.tv/twit.xml",
       "feed_icon": "https://elroy.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/this_week_in_tech/album_art/audio/twit_2022albumart_standard_2048.jpg"
-    },
-    {
-      "id": "https://readwrite.com/?p=639185",
-      "title": "Sportradar Pitches Data Role in Prediction-Market Growth",
-      "published": "2026-10-18T19:00:00+00:00",
-      "author": "ReadWrite",
-      "description": "Sportradar sees prediction markets as a growth opportunity, offering data, settlement and integrity services across exchanges and brokers. The post Sportradar Pitches Data Role in Prediction-Market Growth appeared first on ReadWrite .",
-      "link": "https://readwrite.com/prediction-markets-sportradar-data/",
-      "image": "https://readwrite.com/wp-content/uploads/2026/10/sportradar-pitches-data-role-prediction-market-growth-900x506.webp",
-      "feed_name": "ReadWrite",
-      "feed_title": "ReadWrite",
-      "category": "technology",
-      "feed_url": "https://readwrite.com/feed/",
-      "feed_icon": "https://readwrite.com/wp-content/uploads/2024/10/cropped-readwrite-favicon-32x32.png"
-    },
-    {
-      "id": "https://readwrite.com/?p=639183",
-      "title": "Prediction Markets Face Google Ads Limits in Five States",
-      "published": "2026-10-18T06:11:45+00:00",
-      "author": "ReadWrite",
-      "description": "Prediction markets face Google Ads restrictions in five states as courts and regulators contest who can oversee sports-event contracts. The post Prediction Markets Face Google Ads Limits in Five States appeared first on ReadWrite .",
-      "link": "https://readwrite.com/prediction-markets-google-ads/",
-      "image": "https://readwrite.com/wp-content/uploads/2026/10/prediction-markets-google-ads-limits-five-states-900x506.webp",
-      "feed_name": "ReadWrite",
-      "feed_title": "ReadWrite",
-      "category": "technology",
-      "feed_url": "https://readwrite.com/feed/",
-      "feed_icon": "https://readwrite.com/wp-content/uploads/2024/10/cropped-readwrite-favicon-32x32.png"
-    },
-    {
-      "id": "https://readwrite.com/?p=639163",
-      "title": "Post-Election Trading Puts Polymarket Volume Under Scrutiny",
-      "published": "2026-10-17T19:00:00+00:00",
-      "author": "ReadWrite",
-      "description": "Polymarket election markets drew over $600 million, but suspicious trading and post-election contracts raise questions about volume. The post Post-Election Trading Puts Polymarket Volume Under Scrutiny appeared first on ReadWrite .",
-      "link": "https://readwrite.com/polymarket-election-markets/",
-      "image": "https://readwrite.com/wp-content/uploads/2026/10/post-election-trading-polymarket-volume-scrutiny-900x506.webp",
-      "feed_name": "ReadWrite",
-      "feed_title": "ReadWrite",
-      "category": "technology",
-      "feed_url": "https://readwrite.com/feed/",
-      "feed_icon": "https://readwrite.com/wp-content/uploads/2024/10/cropped-readwrite-favicon-32x32.png"
     }
   ]
 }
