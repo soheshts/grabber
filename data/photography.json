@@ -1,16 +1,30 @@
 {
   "category": "photography",
-  "updated": "2026-10-29T10:33:31.660469+00:00",
-  "count": 103,
+  "updated": "2026-10-29T11:02:38.796333+00:00",
+  "count": 104,
   "summary": {
-    "text": "• Capture One 16.9 for desktop and 4.2 for mobile are out, adding stray hair removal, improved color editing and retouching tools, and new camera support.\n• Nikon officially announced the NIKKOR Z 120-300mm f/2.8 TC VR S, a lens that competes with the Canon RF 100-300mm f/2.8L IS USM and adds a built-in 1.4x teleconverter.",
-    "generated_at": "2026-10-29T10:02:58.754066+00:00",
+    "text": "• The Defense Intelligence Agency (DIA) has released a high-resolution satellite image.\n• The photo shows China's secretive space plane.\n• PetaPixel reported the story in the photography category.",
+    "generated_at": "2026-10-29T11:02:38.796333+00:00",
     "window_minutes": 60,
-    "item_count": 2,
-    "key": "8795bf93852e89016fe9163473132ffca62dc1b4",
+    "item_count": 1,
+    "key": "45d461080d0d062c6f3ac9fcd45ceed76661d9bd",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://petapixel.com/?p=890442",
+      "title": "Satellite Captures Photo of China’s Secretive Space Plane",
+      "published": "2026-10-29T10:40:54+00:00",
+      "author": "Matt Growcoot",
+      "description": "The Defense Intelligence Agency (DIA) has released a high-resolution image of China’s secretive space plane taken by a satellite. [ Read More ]",
+      "link": "https://petapixel.com/2026/10/29/satellite-captures-photo-of-chinas-secretive-space-plane/",
+      "image": "https://petapixel.com/assets/uploads/2026/10/Chinese-Space-Plane1.jpg",
+      "feed_name": "PetaPixel",
+      "feed_title": "PetaPixel",
+      "category": "photography",
+      "feed_url": "https://petapixel.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=petapixel.com&sz=64"
+    },
     {
       "id": "https://petapixel.com/?p=890427",
       "title": "Capture One Adds Stray Hair Removal and New Color Editing Tools",

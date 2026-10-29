@@ -1,7 +1,7 @@
 {
   "category": "science",
-  "updated": "2026-10-29T10:33:31.660469+00:00",
-  "count": 708,
+  "updated": "2026-10-29T11:02:38.796333+00:00",
+  "count": 712,
   "summary": {
     "text": "• Serious pollution by England's water industry remains high despite £5bn in investment, with all but one water company rated \"poor\" or \"requiring improvement\" on environmental targets.\n• A writer reports giving blood to the AI Death Clock, which promises to predict when you'll die and help extend your time on Earth. After a month, they felt it was \"sucking the life out of me.\"",
     "generated_at": "2026-10-29T10:33:31.660469+00:00",
@@ -12,9 +12,23 @@
   },
   "items": [
     {
+      "id": "news712470858",
+      "title": "American jobs offer more autonomy—and more stress",
+      "published": "2026-10-29T11:00:05+00:00",
+      "author": null,
+      "description": "American jobs have become increasingly stressful over the past two decades—but workers have also gained greater ability to exercise independence and make decisions at work.",
+      "link": "https://phys.org/news/2026-10-american-jobs-autonomy-stress.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/american-jobs-offer-mo.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cw5ynxepy4gno#0",
       "title": "Serious pollution by water industry remains high despite £5bn investment",
-      "published": "2026-10-29T10:17:28+00:00",
+      "published": "2026-10-29T10:45:01+00:00",
       "author": null,
       "description": "All but one of England's water companies were rated as \"poor\" or \"requiring improvement\" for environmental targets.",
       "link": "https://www.bbc.co.uk/news/articles/cw5ynxepy4gno?at_medium=RSS&at_campaign=rss",
@@ -24,6 +38,20 @@
       "category": "science",
       "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "6ae21edad2de52506c44911f",
+      "title": "An AI Breakthrough Has Made Decades of Computer Science Research ‘Irrelevant’",
+      "published": "2026-10-29T10:45:00+00:00",
+      "author": "Isabella Ward",
+      "description": "Anthropic and OpenAI say they’ve disproved a key tenet of computer science. Researchers are struggling with the fall but also feel like “overexcited bunnies” as they look at new questions to explore.",
+      "link": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/",
+      "image": "https://media.wired.com/photos/6ae293587359ba945850d8f8/master/pass/science_math_ai_breakthrough_research.jpg",
+      "feed_name": "Science Latest",
+      "feed_title": "Science Latest",
+      "category": "science",
+      "feed_url": "https://www.wired.com/feed/category/science/latest/rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.wired.com&sz=64"
     },
     {
       "id": "6ac53d249637ad55744650f4",
@@ -94,6 +122,20 @@
       "category": "science",
       "feed_url": "https://www.wired.com/feed/category/science/latest/rss",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.wired.com&sz=64"
+    },
+    {
+      "id": "1538c35e-c28f-11f1-9173-7f3ce522699f",
+      "title": "Reducing Treatment Burden While Preserving Sight [Sponsored]",
+      "published": "2026-10-29T09:00:00+00:00",
+      "author": "Scientific American",
+      "description": "New approaches aim to extend treatment durability and improve long-term vision outcomes in wet AMD. Scientific American Custom Media recently sat down with Dr. Nadia Waheed, Ocular Therapeutix’s chief medical officer, to discuss the real-world burden behind the standard of care and how emerging approaches, including sustained-delivery therapies under investigation, aim to reduce it. This podcast was produced for Ocular Therapeutix by Scientific American Custom Media, a division separate from th…",
+      "link": null,
+      "image": null,
+      "feed_name": "60-Second Science",
+      "feed_title": "60-Second Science",
+      "category": "science",
+      "feed_url": "http://rss.sciam.com/sciam/60secsciencepodcast",
+      "feed_icon": "https://megaphone.imgix.net/podcasts/9e578524-a403-11ee-a6cf-cbcdcc0e11fb/image/ec5ff1c72de2a19d67bc6425661674b1.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
     },
     {
       "id": "news712468492",
@@ -2328,6 +2370,20 @@
       "author": "Freda Kreier",
       "description": "Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03488-z Researchers help to answer a question dogging the development of improved vaccines against the mosquito-borne disease.",
       "link": "https://www.nature.com/articles/d41586-026-03488-z",
+      "image": null,
+      "feed_name": "Nature",
+      "feed_title": "Nature",
+      "category": "science",
+      "feed_url": "https://www.nature.com/nature.rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=feeds.nature.com&sz=64"
+    },
+    {
+      "id": "https://www.nature.com/articles/d41586-026-03531-z",
+      "title": "Daily briefing: The big push to personalize psychiatry",
+      "published": "2026-10-28T00:00:00+00:00",
+      "author": "Jacob Smith",
+      "description": "Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03531-z A data-driven approach could match treatments to individuals with more precision. Plus, funders in Europe are backing preprint-led publishing and whether professors should care about student evaluations.",
+      "link": "https://www.nature.com/articles/d41586-026-03531-z",
       "image": null,
       "feed_name": "Nature",
       "feed_title": "Nature",

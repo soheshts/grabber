@@ -1,9 +1,23 @@
 {
   "category": "personal blogs",
-  "updated": "2026-10-29T10:33:31.660469+00:00",
-  "count": 421,
+  "updated": "2026-10-29T11:02:38.796333+00:00",
+  "count": 422,
   "summary": null,
   "items": [
+    {
+      "id": "my-2027-web-platform-feature-ranking",
+      "title": "My 2027 Web Platform Feature Ranking [blog]",
+      "published": "2026-10-29T00:00:00+00:00",
+      "author": "remy@remysharp.com (Remy Sharp)",
+      "description": "Like my peers, I've decided to publish my personal ranking preference for the 2027 interop project. I'm doing this from a phone, so I can't link to the others that have published theirs, but I think it's interesting to see and compare what we feel is important.",
+      "link": "https://remysharp.com/2026/10/29/my-2027-web-platform-feature-ranking",
+      "image": "https://remysharp.com/images/cards/og/9-5.jpg",
+      "feed_name": "Remy Sharp",
+      "feed_title": "remy sharp's b:log",
+      "category": "personal blogs",
+      "feed_url": "http://feeds.feedburner.com/remysharp",
+      "feed_icon": "https://remysharp.com/images/avatar-125.jpg"
+    },
     {
       "id": "https://ronaldsvilcins.com/2026/10/29/css-corner-shape-goes-beyond-rounded-corners/",
       "title": "CSS corner-shape Goes Beyond Rounded Corners",

@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated": "2026-10-29T10:33:31.660469+00:00",
+  "updated": "2026-10-29T11:02:38.796333+00:00",
   "count": 1000,
   "summary": {
     "text": "• Nasdaq futures fell as Alphabet slid and Microsoft rose after mixed results, with investors weighing AI spending against payoff.\n• The Verge says AI data centers are straining Arizona's scarce water supply.\n• Google's Gemini 4 Carbon claims top benchmark scores in coding and cybersecurity.\n• Hamburg startup MuRay raised €7.1M to use muon imaging on dense parts like rocket engines.\n• Deals: Sony WH-CH730N headphones are 29% off at Amazon.",
@@ -11,6 +11,34 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.engadget.com/2300690/apple-google-fined-south-korea-app-store-violations/",
+      "title": "Apple and Google fined in South Korea over app store violations",
+      "published": "2026-10-29T10:42:26+00:00",
+      "author": "Mariella Moon",
+      "description": "South Korean regulators found that Apple and Google violated the country's Telecommunications Business Act.",
+      "link": "https://www.engadget.com/2300690/apple-google-fined-south-korea-app-store-violations/",
+      "image": "https://www.engadget.com/img/gallery/apple-and-google-fined-in-south-korea-for-app-store-violations/l-intro-1793270417.jpg",
+      "feed_name": "Engadget",
+      "feed_title": "Engadget - Technology News & Expert Reviews",
+      "category": "technology",
+      "feed_url": "https://www.engadget.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
+    {
+      "id": "TheNextWeb=d03601061406c22f46e56a2e2d1a6053",
+      "title": "Pudu Robotics opens its European headquarters in Neuss, Germany",
+      "published": "2026-10-29T10:34:52+00:00",
+      "author": "Ana-Maria Stanciuc",
+      "description": "Chinese robot maker Pudu Robotics has opened its European headquarters in Neuss, near Düsseldorf, as it builds out its business across the region. The Shenzhen-based company announced plans for the German site in September, following a showcase of its robots at the IFA trade fair in Berlin. The headquarters is now fully operational, bringing together […] This story continues at The Next Web",
+      "link": "https://thenextweb.com/news/pudu-robotics-european-headquarters-neuss-germany",
+      "image": "https://media.thenextweb.com/2026/10/pudu-robotics-european-headquarters-building-neuss.avif",
+      "feed_name": "The Next Web",
+      "feed_title": "The Next Web",
+      "category": "technology",
+      "feed_url": "https://thenextweb.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
     {
       "id": "TheNextWeb=d075242d72b6d93459270f9c066037ce",
       "title": "Nasdaq futures fall as Alphabet slides and Microsoft rises on results",
@@ -13982,34 +14010,6 @@
       "category": "technology",
       "feed_url": "https://lifehacker.com/rss",
       "feed_icon": "https://www.google.com/s2/favicons?domain=lifehacker.com&sz=64"
-    },
-    {
-      "id": "4aa2ff36-6e7b-11f1-94bf-6330e638afeb",
-      "title": "How we really feel about the iPhone Duo | Livestream",
-      "published": "2026-10-21T19:23:00+00:00",
-      "author": "The Verge",
-      "description": "iPhone Duo reviews are out today and... it's complicated. David Pierce, Nilay Patel and senior smart phone reviewer Allison Johnson talk through The Verge's review and answer your questions LIVE. Further reading: The iPhone Duo is a messy, expensive, good time iPhone Duo review: messy, expensive fun Subscribe to The Verge for unlimited access to theverge.com, subscriber-exclusive newsletters, and our ad-free podcast feed. We love hearing from you! Email your questions and thoughts to vergecast@…",
-      "link": null,
-      "image": null,
-      "feed_name": "The Vergecast",
-      "feed_title": "The Vergecast",
-      "category": "technology",
-      "feed_url": "https://feeds.megaphone.fm/vergecast",
-      "feed_icon": "https://megaphone.imgix.net/podcasts/e4c412e6-e1f0-11e8-9bde-83f9d376f059/image/fa367fa8b1b6ca01fc4b8c34d83ba4d8.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
-    },
-    {
-      "id": "https://stratechery.com/?p=20422",
-      "title": "Presented by Stripe",
-      "published": "2026-10-21T17:35:31+00:00",
-      "author": "Ben Thompson",
-      "description": "Stratechery is now presented by Stripe. What that means for me, for you, and for the future of Stratechery content.",
-      "link": "https://stratechery.com/2026/presented-by-stripe/",
-      "image": null,
-      "feed_name": "Stratechery by Ben Thompson",
-      "feed_title": "Stratechery by Ben Thompson",
-      "category": "technology",
-      "feed_url": "http://stratechery.com/feed/",
-      "feed_icon": "https://i0.wp.com/stratechery.com/wp-content/uploads/2018/03/cropped-android-chrome-512x512-1.png?fit=32%2C32&ssl=1"
     }
   ]
 }

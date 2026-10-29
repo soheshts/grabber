@@ -1,7 +1,7 @@
 {
   "category": "DIY",
-  "updated": "2026-10-29T10:33:31.660469+00:00",
-  "count": 304,
+  "updated": "2026-10-29T11:02:38.796333+00:00",
+  "count": 307,
   "summary": {
     "text": "• Ryobi circular saw blades are not interchangeable, since each one is designed for a different job.\n• Five budget-friendly Makita tools under $150 are highlighted as versatile and affordable buys.\n• For tech tips, improving an Excel spreadsheet's font matters more than adding colors, and Android users can clear clutter by hiding status bar icons such as Bluetooth and mobile data.",
     "generated_at": "2026-10-29T10:33:31.660469+00:00",
@@ -11,6 +11,48 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.makeuseof.com/make-wi-fi-feel-fast-with-metered-connection-windows-11/",
+      "title": "I set my Wi-Fi as metered in Windows 11, and my internet finally felt fast",
+      "published": "2026-10-29T11:00:16+00:00",
+      "author": "Pankil Shah",
+      "description": "Before you upgrade your internet plan, try this.",
+      "link": "https://www.makeuseof.com/make-wi-fi-feel-fast-with-metered-connection-windows-11/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/03/windows-laptop-showing-internet-speed-test-result.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/i-spent-a-week-replacing-my-everyday-windows-apps-with-open-source-alternatives-and-barely-missed-the-originals/",
+      "title": "I spent a week replacing my everyday Windows apps with open-source alternatives, and barely missed the originals",
+      "published": "2026-10-29T11:00:15+00:00",
+      "author": "Ismar Hrnjicevic",
+      "description": "I expected a week of compromises, but instead, I just had to get used to some new icons.",
+      "link": "https://www.howtogeek.com/i-spent-a-week-replacing-my-everyday-windows-apps-with-open-source-alternatives-and-barely-missed-the-originals/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/foss-apps.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.makeuseof.com/yes-linux-runs-microsofts-own-video-game-better-than-windows/",
+      "title": "Yes, Linux runs Microsoft's own video game better than Windows",
+      "published": "2026-10-29T10:55:16+00:00",
+      "author": "Suman Biswas",
+      "description": "How the turntables.",
+      "link": "https://www.makeuseof.com/yes-linux-runs-microsofts-own-video-game-better-than-windows/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/08/desktop-displaying-steam-on-linux.png",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/excel-font-more-improtant-than-conditional-formatting/",
       "title": "Your Excel spreadsheet doesn't need more colors, it needs a better font",

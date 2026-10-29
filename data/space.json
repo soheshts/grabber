@@ -1,7 +1,7 @@
 {
   "category": "space",
-  "updated": "2026-10-29T10:33:31.660469+00:00",
-  "count": 139,
+  "updated": "2026-10-29T11:02:38.796333+00:00",
+  "count": 140,
   "summary": {
     "text": "• SpaceX's Starfall capsule, described as mysterious, launched experimental cargo for the U.S. Air Force.\n• The Air Force recovered the cargo, which Space.com calls a landmark \"point to point\" space mission.\n• The mission is part of an effort to assess whether rapid point-to-point delivery is viable.\n• Only this one item was available, and its text is cut off, so further details are unavailable.",
     "generated_at": "2026-10-29T10:33:31.660469+00:00",
@@ -11,6 +11,20 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.theguardian.com/science/video/2026/oct/29/astronauts-step-out-of-the-iss-for-spacewalk-watch-live",
+      "title": "Astronauts step out of the ISS for spacewalk – watch live",
+      "published": "2026-10-29T10:37:14+00:00",
+      "author": "Guardian Staff",
+      "description": "NASA astronaut Anil Menon and CSA (Canadian Space Agency) astronaut Joshua Kutryk perform spacewalk to install and deploy an International Space Station Roll-Out Solar Array (IROSA). Continue reading...",
+      "link": "https://www.theguardian.com/science/video/2026/oct/29/astronauts-step-out-of-the-iss-for-spacewalk-watch-live",
+      "image": "https://i.guim.co.uk/img/media/439f0eca835201f506c4afc9330abdfcc5b2d46e/0_0_4640_3712/master/4640.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2428a1af2c2f2d18007025d445604a3e",
+      "feed_name": "Space | The Guardian",
+      "feed_title": "Space | The Guardian",
+      "category": "space",
+      "feed_url": "https://www.theguardian.com/science/space/rss",
+      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
     {
       "id": "fZ3JytcJseJz3WiELmK4wc",
       "title": "SpaceX's Starfall capsule delivers cargo for US Air Force in landmark 'point to point' space mission",
