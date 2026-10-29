@@ -1,9 +1,30 @@
 {
   "category": "travel",
-  "updated": "2026-10-29T03:02:31.187013+00:00",
-  "count": 79,
-  "summary": null,
+  "updated": "2026-10-29T03:33:30.767128+00:00",
+  "count": 80,
+  "summary": {
+    "text": "• A high-speed collision near Toledo, Spain, killed at least 68 people.\n• Passengers are often told that the middle of a train is the safest place to sit.\n• Rail safety experts say that rough consensus has its limits and the question of a \"safest seat\" is not so simple.",
+    "generated_at": "2026-10-29T03:33:30.767128+00:00",
+    "window_minutes": 60,
+    "item_count": 1,
+    "key": "d3a79000975beeda4f2ba173d2a45aa9b5036d31",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-rail-safety.html",
+      "title": "Is There a ‘Safest Seat’ in a Train Crash? Experts Say It’s Not So Simple.",
+      "published": "2026-10-29T03:16:41+00:00",
+      "author": "Mark Walker",
+      "description": "After a high-speed collision near Toledo, Spain, killed at least 68 people, rail safety experts said the rough consensus that it is best to sit in the middle of a train has its limits.",
+      "link": "https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-rail-safety.html",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28xp-rail-safety-pbwv/28xp-rail-safety-pbwv-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Travel",
+      "feed_title": "NYT > Travel",
+      "category": "travel",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "https://www.nytimes.com/2026/10/28/travel/united-flight-hijack-text-las-vegas.html",
       "title": "Text Message Referencing a ‘Hijack’ Forces United Flight to Return to Vegas",

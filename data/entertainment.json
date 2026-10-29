@@ -1,16 +1,58 @@
 {
   "category": "entertainment",
-  "updated": "2026-10-29T03:02:31.187013+00:00",
+  "updated": "2026-10-29T03:33:30.767128+00:00",
   "count": 1000,
   "summary": {
-    "text": "• A former senior Netflix staffer launched one of Japan's buzziest independent cinemas, which screens titles including Possible Love, Suspiria and Blue Heron.\n• Singapore's F1 Grand Prix has become known as the \"Coachella of Asia,\" with WME's Brett Murrihy saying no other Asian festival has comparable buying power or influence.\n• Variety's review of Peter Berg's WWII football epic The Mosquito Bowl calls it emptily macho, with its heroes taking to the battlefield.",
-    "generated_at": "2026-10-29T02:33:12.342130+00:00",
+    "text": "• Jimmy Fallon and guest Jamie Lee Curtis channeled Fielder & Holmes in a Halloween-themed cold open on Wednesday's Tonight Show, performing \"You Can See Everything.\"\n• South Park's fourth Season 29 episode, set in Halloween week, has Cartman, Stan, Kyle and Randy solving a beef crisis in South America.\n• Greenville police confirmed Hayden Panettiere's death is not being treated as suspicious, and reports say the case is closed as accidental.",
+    "generated_at": "2026-10-29T03:33:30.767128+00:00",
     "window_minutes": 60,
     "item_count": 3,
-    "key": "82e2af0138a54ad8d43128275f998a0c8c23f17d",
+    "key": "10faa3e215bd481dd080caf2778692acbcf85304",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://deadline.com/?p=1237207815",
+      "title": "‘Tonight Show’: Jimmy Fallon & Jamie Lee Curtis Channel Fielder & Holmes In Cold Open",
+      "published": "2026-10-29T03:13:31+00:00",
+      "author": "Glenn Garner",
+      "description": "As Jimmy Fallon gears up for Halloween, he and his latest talk show guest nailed their take on You Can See Everything. On Wednesday’s episode of The Tonight Show, the 6x Emmy-winning host channeled his inner Nathan Fielder to grill Jamie Lee Curtis as Elizabeth Holmes during the NBC talk show’s cold open. “Be honest, […]",
+      "link": "https://deadline.com/2026/10/tonight-show-jimmy-fallon-jamie-lee-curtis-fielder-holmes-1237207815/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/Jimmy-Fallon-Jamie-Lee-Curtis-2-shot.jpg",
+      "feed_name": "Deadline",
+      "feed_title": "Deadline",
+      "category": "entertainment",
+      "feed_url": "https://deadline.com/feed/",
+      "feed_icon": "https://deadline.com/wp-content/uploads/2019/04/cropped-icon-512x512.png?w=32"
+    },
+    {
+      "id": "https://variety.com/?p=1236933789",
+      "title": "‘South Park’: Cartman, Stan and Kyle Must Solve South America’s Beef Crisis in Halloween Week Episode",
+      "published": "2026-10-29T03:05:04+00:00",
+      "author": "Payton Turkeltaub",
+      "description": "In the fourth episode of “South Park” Season 29, South America’s beef has surprisingly become a hot commodity — and Cartman, Stan, Kyle and Randy won’t let their lunch-of-choice get taken away from the local mountain town without a fight. The episode, titled, fittingly, “Guinea Pig on a Stick,” opens with Cartman eager to get […]",
+      "link": "https://variety.com/2026/tv/news/south-park-season-29-episode-4-1236933789/",
+      "image": "https://variety.com/wp-content/uploads/2026/10/Screenshot-2026-10-28-at-7.04.59-PM.png",
+      "feed_name": "Variety",
+      "feed_title": "Variety",
+      "category": "entertainment",
+      "feed_url": "https://variety.com/feed/",
+      "feed_icon": "https://variety.com/wp-content/uploads/2018/06/variety-favicon.png?w=32"
+    },
+    {
+      "id": "https://www.billboard.com/?p=1236370116",
+      "title": "Hayden Panettiere’s Death Ruled as Accidental, Case Closed: Reports",
+      "published": "2026-10-29T03:01:24+00:00",
+      "author": "Lars Brandle",
+      "description": "The Greenville Police Department has confirmed that Panettiere's passing was not being treated as suspicious.",
+      "link": "https://www.billboard.com/music/music-news/hayden-panettiere-death-ruled-accidental-case-closed-reports-1236370116/",
+      "image": null,
+      "feed_name": "BillBoard",
+      "feed_title": "Billboard",
+      "category": "entertainment",
+      "feed_url": "https://www.billboard.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.billboard.com&sz=64"
+    },
     {
       "id": "https://deadline.com/?p=1237207784",
       "title": "How A Former Senior Netflix Staffer Launched One Of Japan’s Buzziest Indie Cinemas",
@@ -13968,48 +14010,6 @@
       "category": "entertainment",
       "feed_url": "https://variety.com/feed/",
       "feed_icon": "https://variety.com/wp-content/uploads/2018/06/variety-favicon.png?w=32"
-    },
-    {
-      "id": "https://deadline.com/?p=1237191255",
-      "title": "Steven Paul’s SP Media Creates Joint Venture With Lionsgate To Expand New Businesses, Closes Film Pact",
-      "published": "2026-10-26T20:15:00+00:00",
-      "author": "Anthonypauldalessandro",
-      "description": "Lionsgate and Steven Paul’s SP Media are launching a joint venture in which the latter will be making a capital investment that will allow Lionsgate to continue its diversification of 3 Arts and other new businesses. At the same time, the deal, unveiled Monday, calls for SP Media to produce independent features films that Lionsgate […]",
-      "link": "https://deadline.com/2026/10/lionsgate-steven-paul-sp-media-1237191255/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/Steven-Paul-Lionsgate.jpg",
-      "feed_name": "Deadline",
-      "feed_title": "Deadline",
-      "category": "entertainment",
-      "feed_url": "https://deadline.com/feed/",
-      "feed_icon": "https://deadline.com/wp-content/uploads/2019/04/cropped-icon-512x512.png?w=32"
-    },
-    {
-      "id": "https://variety.com/?p=1236931323",
-      "title": "L.A. Film School Escapes Whistleblower Lawsuit as Judge Punishes Lawyer for AI Use",
-      "published": "2026-10-26T20:14:12+00:00",
-      "author": "Gmaddaus",
-      "description": "A federal judge has thrown out a whistleblower lawsuit that accused the Los Angeles Film School of massive student loan fraud and has sanctioned the claimants’ attorney for filing a brief generated by ChatGPT. The whistleblowers, two former executives at the school, filed a false claims suit in 2024, alleging a scheme in which the […]",
-      "link": "https://variety.com/2026/film/news/l-a-film-school-fraud-suit-ai-use-fine-1236931323/",
-      "image": "https://variety.com/wp-content/uploads/2025/09/img_5097-1030x773-1.jpg",
-      "feed_name": "Variety",
-      "feed_title": "Variety",
-      "category": "entertainment",
-      "feed_url": "https://variety.com/feed/",
-      "feed_icon": "https://variety.com/wp-content/uploads/2018/06/variety-favicon.png?w=32"
-    },
-    {
-      "id": "https://www.rollingstone.com/?p=1235648060",
-      "title": "Flaming Lips Announce First Album in Six Years and Concert Series in U.S. and U.K.",
-      "published": "2026-10-26T20:13:47+00:00",
-      "author": "Jaeden Pinder",
-      "description": "“God Will Control the Werewolves” is the first taste of The Teardrop Throbs which arrives Jan. 22 via Third Man Records",
-      "link": "https://www.rollingstone.com/music/music-news/flaming-lips-teardrop-throbs-album-announcement-1235648060/",
-      "image": null,
-      "feed_name": "Rolling Stone",
-      "feed_title": "Music News",
-      "category": "entertainment",
-      "feed_url": "https://www.rollingstone.com/music/music-news/feed/",
-      "feed_icon": "https://www.rollingstone.com/wp-content/uploads/2024/12/R-Avatar_512x512_flat.png?w=32"
     }
   ]
 }

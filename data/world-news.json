@@ -1,16 +1,44 @@
 {
   "category": "World News",
-  "updated": "2026-10-29T03:02:31.187013+00:00",
+  "updated": "2026-10-29T03:33:30.767128+00:00",
   "count": 1000,
   "summary": {
-    "text": "• Israel's election count is ongoing with no clear majority for Netanyahu's right-wing coalition or Gadi Eisenkot's opposition alliance, so coalition wrangling is expected. Protesters in Jerusalem, Tel Aviv and Haifa rallied for a Jewish-Arab government.\n• Vance proposed restarting comprehensive peace talks with Iran, including on its nuclear program, in a letter to an Iranian official.\n• China's tech stocks are sliding as investors question whether AI profits justify high valuations.\n• Samsung Electronics shares fell despite a record third-quarter profit.\n• A report says Pakistan's Hindu population fell from 14.6% to under 2%, amid periodic violence since 1947.",
-    "generated_at": "2026-10-29T02:33:12.342130+00:00",
+    "text": "• Australia: Lower house votes today on gas reservation policy; Paterson accuses the PM of \"no standards\" over a golf club.\n• Brazil: Flávio Bolsonaro denies fleeing after losing the presidential election, saying he left \"for the sake of Brazil.\"\n• Bangladesh: The PM's aide alleges a JeI functionary secretly met an Indian intelligence official.\n• Spain: A high-speed train collision near Toledo killed at least 68 people.\n• Business: Samsung shares fell despite record Q3 profit; Amazon lays off 250 staff.",
+    "generated_at": "2026-10-29T03:33:30.767128+00:00",
     "window_minutes": 60,
-    "item_count": 8,
-    "key": "3a660433565ae94736b194c96099a7362d6cb60a",
+    "item_count": 6,
+    "key": "df54fda2a8abc6d553df8e92b846da4457a95276",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.theguardian.com/australia-news/live/2026/oct/29/labor-treasurer-jim-chalmers-social-media-anthony-albanese-coalition-one-nation-ntwnfb",
+      "title": "Australian politics live: Hastie ‘lived a lot’ of SAS report findings; Paterson accuses PM of ‘no standards’ over golf club",
+      "published": "2026-10-29T03:18:51+00:00",
+      "author": "Kat Wong",
+      "description": "Get our breaking news email , free app or daily news podcast Gas reservation policy set for lower house vote today Australia’s domestic gas reservation is set to be debated and voted on in the lower house today. Rather than international base companies, determining through algorithms what Australians receive, it empowers people themselves to determine what you receive on your devices, so that you should have that control. This isn’t about government having a greater role. It’s about people havi…",
+      "link": "https://www.theguardian.com/australia-news/live/2026/oct/29/labor-treasurer-jim-chalmers-social-media-anthony-albanese-coalition-one-nation-ntwnfb",
+      "image": "https://i.guim.co.uk/img/media/cefd634801ed20a2fd859adc3450e51aa4b71a77/642_0_6340_5072/master/6340.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=6527b4cbe95feb16cf6d2e6e03b7c76e",
+      "feed_name": "The Guardian",
+      "feed_title": "World news | The Guardian",
+      "category": "World News",
+      "feed_url": "https://www.theguardian.com/world/rss",
+      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-rail-safety.html",
+      "title": "Is There a ‘Safest Seat’ in a Train Crash? Experts Say It’s Not So Simple.",
+      "published": "2026-10-29T03:16:41+00:00",
+      "author": "Mark Walker",
+      "description": "After a high-speed collision near Toledo, Spain, killed at least 68 people, rail safety experts said the rough consensus that it is best to sit in the middle of a train has its limits.",
+      "link": "https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-rail-safety.html",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28xp-rail-safety-pbwv/28xp-rail-safety-pbwv-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "108470631",
       "title": "Samsung Electronics shares slid despite record profit in the third-quarter",
@@ -26,18 +54,18 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
-      "id": "https://www.theguardian.com/australia-news/live/2026/oct/29/labor-treasurer-jim-chalmers-social-media-anthony-albanese-coalition-one-nation-ntwnfb",
-      "title": "Australian politics live: Hastie ‘lived a lot’ of SAS report findings; Paterson accuses PM of ‘no standards’ over golf club",
-      "published": "2026-10-29T02:46:31+00:00",
-      "author": "Kat Wong",
-      "description": "Get our breaking news email , free app or daily news podcast Gas reservation policy set for lower house vote today Australia’s domestic gas reservation is set to be debated and voted on in the lower house today. Rather than international base companies, determining through algorithms what Australians receive, it empowers people themselves to determine what you receive on your devices, so that you should have that control. This isn’t about government having a greater role. It’s about people havi…",
-      "link": "https://www.theguardian.com/australia-news/live/2026/oct/29/labor-treasurer-jim-chalmers-social-media-anthony-albanese-coalition-one-nation-ntwnfb",
-      "image": "https://i.guim.co.uk/img/media/cefd634801ed20a2fd859adc3450e51aa4b71a77/642_0_6340_5072/master/6340.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=6527b4cbe95feb16cf6d2e6e03b7c76e",
-      "feed_name": "The Guardian",
-      "feed_title": "World news | The Guardian",
+      "id": "t3_1xi8fo3",
+      "title": "Flávio Bolsonaro denies fleeing Brazil after losing the presidential election and landing in USA | \"I did not flee Brazil; I left for the sake of Brazil,\" he said in his first statement since his departure.",
+      "published": "2026-10-29T02:47:57+00:00",
+      "author": "/u/PlayaSlayaX",
+      "description": "submitted by /u/PlayaSlayaX [link] [comments]",
+      "link": "https://www.reddit.com/r/worldnews/comments/1xi8fo3/flávio_bolsonaro_denies_fleeing_brazil_after/",
+      "image": "https://external-preview.redd.it/rNnwAfX7r2CkELCHDF-_aerMnTThmBWFSgh2OH4gFuc.jpeg?width=640&crop=smart&auto=webp&s=3aa5ec4a9eab2df9355c94ce5b819bde0dbb2c2a",
+      "feed_name": "World News",
+      "feed_title": "World News",
       "category": "World News",
-      "feed_url": "https://www.theguardian.com/world/rss",
-      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
+      "feed_icon": "https://www.redditstatic.com/icon.png/"
     },
     {
       "id": "https://www.ndtv.com/world-news/in-early-morning-mail-amazon-layoffs-250-staff-to-operate-more-efficiently-12251503#publisher=newsstand",
@@ -13982,34 +14010,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/us/after-54-years-of-marriage-a-kentucky-widow-rejected-her-husbands-will-to-claim-more-of-his-estate-his-children-from-a-prior-marriage-challenged-her-mental-capacity-but-an-october-23-court-halted-the-probate-inquiry/articleshow/135197365.cms",
-      "title": "Kentucky court halts inquiry into widow's mental capacity after she rejects late husband's will",
-      "published": "2026-10-25T20:04:08+00:00",
-      "author": "TOI World Desk",
-      "description": "A Kentucky appeals court ruled that a district court could not investigate Tamara Williams' mental capacity claim. The dispute arose over her choice to reject her late husband Julian D. Williams' will for a statutory share. After her husband's death, Tamara's decision was contested by his stepchildren, who claimed she lacked mental capacity. The appeals court determined that contested cases must be resolved in circuit court rather than district court.",
-      "link": "https://timesofindia.indiatimes.com/world/us/after-54-years-of-marriage-a-kentucky-widow-rejected-her-husbands-will-to-claim-more-of-his-estate-his-children-from-a-prior-marriage-challenged-her-mental-capacity-but-an-october-23-court-halted-the-probate-inquiry/articleshow/135197365.cms",
-      "image": "https://static.toiimg.com/photo/msid-135197457,imgsize-887539.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o#0",
-      "title": "Early reports suggest record high turnout in Serbia elections",
-      "published": "2026-10-25T19:55:15+00:00",
-      "author": null,
-      "description": "Polls are closing in Serbia as a student movement attempts to oust longtime populist leader Aleksandar Vučić.",
-      "link": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fffb/live/26f0ac80-d089-11f1-92f6-357f3b0f345f.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     }
   ]
 }
