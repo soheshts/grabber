@@ -1,16 +1,30 @@
 {
   "category": "science",
-  "updated": "2026-10-29T07:33:31.471572+00:00",
+  "updated": "2026-10-29T08:03:54.573883+00:00",
   "count": 702,
   "summary": {
-    "text": "• Science-Based Medicine argues that a coordinated effort numbed people to the obvious dangers of COVID and MAHA.\n• The Infinite Monkey Cage episode \"Ghosts\" has Jessica Fostekew and Prof Adam Rutherford examining why ghosts continue to haunt our imaginations, with guests Isy Suttie, Laurence Rickard, Ciarán O'Keeffe and Chris French.",
-    "generated_at": "2026-10-29T07:33:31.471572+00:00",
+    "text": "• FlowingData highlights a New York Times chart by Arfa Momin and Ron Lieber comparing the cost of college with its return on investment, based on median income.\n• Science-Based Medicine argues that COVID and MAHA were obviously dangerous and claims a coordinated effort worked to numb people to those risks.",
+    "generated_at": "2026-10-29T08:03:54.573883+00:00",
     "window_minutes": 60,
     "item_count": 2,
-    "key": "d4270158926f98a715f11661be5f8eef56a8ec0e",
+    "key": "e5dba287618f1c9b092f83c3e9ef40dc6a521c8b",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://flowingdata.com/?p=83199",
+      "title": "Cost of college versus the return on investement",
+      "published": "2026-10-29T07:31:11+00:00",
+      "author": "Nathan Yau",
+      "description": "For the New York Times, Arfa Momin and Ron Lieber charted median income… Tags: college , education , income , New York Times",
+      "link": "https://flowingdata.com/2026/10/29/cost-of-college-versus-the-return-on-investement/",
+      "image": "https://flowingdata.com/wp-content/uploads/2026/10/college-cost-income-750x595.png",
+      "feed_name": "FlowingData",
+      "feed_title": "FlowingData",
+      "category": "science",
+      "feed_url": "https://flowingdata.com/feed",
+      "feed_icon": "https://flowingdata.com/wp-content/uploads/2025/01/logo-lone-square512x512-120x120.png"
+    },
     {
       "id": "https://sciencebasedmedicine.org/?p=125289",
       "title": "The Novocaine Pushers: Numbing People to Obvious Dangers of COVID and MAHA.",
@@ -9824,20 +9838,6 @@
       "category": "science",
       "feed_url": "http://rss.sciam.com/sciam/60secsciencepodcast",
       "feed_icon": "https://megaphone.imgix.net/podcasts/9e578524-a403-11ee-a6cf-cbcdcc0e11fb/image/ec5ff1c72de2a19d67bc6425661674b1.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
-    },
-    {
-      "id": "https://sciencebasedmedicine.org/?p=124607",
-      "title": "Jay Bhattacharya, October 2020: “Let People Face the Risk of the Disease.”",
-      "published": "2026-09-29T07:47:00+00:00",
-      "author": "Jonathan Howard",
-      "description": "Dr. Jay Bhattacharya sought to spread a deadly pathogen. Does he belong in the HHS Hall of Heroes with legends who tried to contain them? The post Jay Bhattacharya, October 2020: “Let People Face the Risk of the Disease.” first appeared on Science-Based Medicine .",
-      "link": "https://sciencebasedmedicine.org/jay-bhattacharya-october-2020-let-people-face-the-risk-of-the-disease/?utm_source=rss&utm_medium=rss&utm_campaign=jay-bhattacharya-october-2020-let-people-face-the-risk-of-the-disease",
-      "image": "https://sciencebasedmedicine.org/wp-content/uploads/2026/09/image-16-480x253.png",
-      "feed_name": "Science-Based Medicine",
-      "feed_title": "Science-Based Medicine",
-      "category": "science",
-      "feed_url": "https://sciencebasedmedicine.org/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=sciencebasedmedicine.org&sz=64"
     }
   ]
 }

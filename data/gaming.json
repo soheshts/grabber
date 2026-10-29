@@ -1,9 +1,58 @@
 {
   "category": "gaming",
-  "updated": "2026-10-29T07:33:31.471572+00:00",
-  "count": 757,
-  "summary": null,
+  "updated": "2026-10-29T08:03:54.573883+00:00",
+  "count": 760,
+  "summary": {
+    "text": "• Polygon's gaming category carried two items, and neither is about video games.\n• One lists five forgotten Peanuts characters that Charles Schulz abandoned in the comic strip.\n• Another argues that The Magicians, a five-season fantasy series, is an adult Harry Potter about escapism, friendship, and what magic can't fix.",
+    "generated_at": "2026-10-29T08:03:54.573883+00:00",
+    "window_minutes": 60,
+    "item_count": 2,
+    "key": "2c7eddbe2a9a671adf9f2bace6fc18c73c523362",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "https://www.polygon.com/forgotten-peanuts-characters/",
+      "title": "5 Forgotten 'Peanuts' Characters That Charles Schulz Abandoned in the Comic Strip",
+      "published": "2026-10-29T08:00:17+00:00",
+      "author": "Thomas Hindmarch",
+      "description": "Better a has-been than a never-was, right?",
+      "link": "https://www.polygon.com/forgotten-peanuts-characters/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/peanuts-welcome-home-franklin.jpg",
+      "feed_name": "Polygon -  All",
+      "feed_title": "Polygon.com",
+      "category": "gaming",
+      "feed_url": "https://www.polygon.com/rss/index.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.polygon.com&sz=64"
+    },
+    {
+      "id": "https://www.polygon.com/the-magicians-fairy-tale-tv-shows/",
+      "title": "This Underrated 5-Season Fantasy Series Is Basically Harry Potter for Adults",
+      "published": "2026-10-29T08:00:17+00:00",
+      "author": "Corey Plante",
+      "description": "The Magicians turns its magic-school fantasy into an adult fairy tale about escapism, friendship, and the things magic can’t fix.",
+      "link": "https://www.polygon.com/the-magicians-fairy-tale-tv-shows/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/7878357/the_magicians_201_eliot_alice_quentin_1000.jpg",
+      "feed_name": "Polygon -  All",
+      "feed_title": "Polygon.com",
+      "category": "gaming",
+      "feed_url": "https://www.polygon.com/rss/index.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.polygon.com&sz=64"
+    },
+    {
+      "id": "https://www.escapistmagazine.com/?p=1209524",
+      "title": "Xbox revenue falls 2% in first results since layoffs as decline narrows from 10%",
+      "published": "2026-10-29T06:13:10+00:00",
+      "author": "The Escapist Editor",
+      "description": "Xbox revenue slipped again in the July–September quarter, its fifth straight decline, but the drop was much smaller than the quarter before. Console sales and Game Pass are still shrinking, and Microsoft is counting on the holiday quarter to bring Xbox's strongest growth. The post Xbox revenue falls 2% in first results since layoffs as decline narrows from 10% appeared first on The Escapist .",
+      "link": "https://www.escapistmagazine.com/xbox-revenue-falls-2-in-first-results-since-layoffs-as-decline-narrows-from-10/",
+      "image": null,
+      "feed_name": "Escapist Magazine",
+      "feed_title": "The Escapist",
+      "category": "gaming",
+      "feed_url": "https://www.escapistmagazine.com/v2/feed/",
+      "feed_icon": "https://www.escapistmagazine.com/wp-content/uploads/2020/04/cropped-escapist-favicon.jpg?resize=176,176"
+    },
     {
       "id": "https://www.polygon.com/fast-furious-five-leaving-netflix-november-2026/",
       "title": "15 Years Later, the Most Near-Perfect Fast and Furious Movie Is Getting From Netflix",
