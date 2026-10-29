@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-10-29T15:03:22.299405+00:00",
-  "count": 327,
+  "updated": "2026-10-29T15:34:47.227668+00:00",
+  "count": 329,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/androids-linux-terminal-desktop-apps-replace-laptop/",
+      "title": "Android’s Linux Terminal can now run desktop apps, so I tried to replace my laptop for a day",
+      "published": "2026-10-29T15:30:16+00:00",
+      "author": "Yadullah Abidi",
+      "description": "A real Debian VM in your pocket, minus the screen, keyboard, and patience.",
+      "link": "https://www.makeuseof.com/androids-linux-terminal-desktop-apps-replace-laptop/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/04/pixel-9a-mirroring-linux-display.JPG",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/cloudflare-doesnt-stop-your-isp-reading-your-dns-one-setting-does/",
+      "title": "Switching to Cloudflare doesn’t hide your DNS lookups from your ISP. One router setting does",
+      "published": "2026-10-29T15:30:15+00:00",
+      "author": "Nick Lewis",
+      "description": "Anyone between you and the DNS server can tell which websites you visit.",
+      "link": "https://www.howtogeek.com/cloudflare-doesnt-stop-your-isp-reading-your-dns-one-setting-does/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/cloudflare-1-1-1-1-dns-open-browser.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/windows-file-explorer-can-do-far-more-with-these-free-add-ons/",
       "title": "Windows File Explorer can do far more with these free add-ons",
