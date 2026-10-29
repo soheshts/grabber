@@ -1,20 +1,48 @@
 {
   "category": "World News",
-  "updated": "2026-10-29T11:02:38.796333+00:00",
+  "updated": "2026-10-29T11:33:32.270483+00:00",
   "count": 1000,
   "summary": {
-    "text": "• Israel: Netanyahu outperformed expectations by playing on Jewish voters' fears of Arab political power and security threats. With no clear winner, a deadlock over forming a government is possible.\n• ECB President Christine Lagarde will step down in February.\n• Shell nearly doubled quarterly profit as refining margins hit a record, and it raised its buyback program.\n• A 4-year-old Tennessee boy gave $150 from a lemonade stand to a soup kitchen. WhatsApp co-founder Jan Koum's $36 million funded a Los Angeles Jewish school campus.",
-    "generated_at": "2026-10-29T10:33:31.660469+00:00",
+    "text": "• Netanyahu's bloc leads Israel's election with 53 of 120 Knesset seats on 93% of ballots, short of a majority.\n• Audio from a deadly Spain train crash shows a high-speed train was cleared to move though another ahead had stalled.\n• Hong Kong's leader apologised for a deadly apartment fire; the housing secretary will step down.\n• A Russian drone hit a Ukrainian train platform, killing 13.\n• Christine Lagarde will step down as ECB president in February.",
+    "generated_at": "2026-10-29T11:33:32.270483+00:00",
     "window_minutes": 60,
-    "item_count": 7,
-    "key": "a49d4219f73544e2d645341b8c4063f5e3dc9c92",
+    "item_count": 11,
+    "key": "597a643cde74f1c79d0a57a3ff379a7b089e6ee0",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
     {
+      "id": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo#0",
+      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+      "published": "2026-10-29T11:22:18+00:00",
+      "author": null,
+      "description": "With 93% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
+      "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3381/live/719a4410-d2f2-11f1-8d86-83eebc838351.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/us/in-1962-the-willis-family-moved-onto-farmland-in-rowlett-texas-64-years-later-the-city-wants-their-four-generation-home-for-a-road-project-and-the-family-says-the-citys-offer-is-150000-short/articleshow/135300662.cms",
+      "title": "Willis family’s 64-year Rowlett home faces road project; city’s offer is $150,000 short",
+      "published": "2026-10-29T11:16:15+00:00",
+      "author": "TOI World Desk",
+      "description": "The Willis family is facing a property dispute with the city of Rowlett, Texas over compensation issues. The city intends to acquire their family home for road improvement projects, offering $429,000 as compensation. The family believes this offer is significantly undervalued and has rejected it, seeking an additional $150,000. The proposed road project threatens to cut their property in half, which is filled with family history.",
+      "link": "https://timesofindia.indiatimes.com/world/us/in-1962-the-willis-family-moved-onto-farmland-in-rowlett-texas-64-years-later-the-city-wants-their-four-generation-home-for-a-road-project-and-the-family-says-the-citys-offer-is-150000-short/articleshow/135300662.cms",
+      "image": "https://static.toiimg.com/photo/msid-135300868,imgsize-2073256.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
       "id": "108479609",
       "title": "President of the European Central Bank Christine Lagarde to step down in February",
-      "published": "2026-10-29T10:59:20+00:00",
+      "published": "2026-10-29T11:15:40+00:00",
       "author": null,
       "description": "",
       "link": "https://www.cnbc.com/2026/10/29/lagarde-ecb-stand-down.html",
@@ -24,6 +52,62 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o#0",
+      "title": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
+      "published": "2026-10-29T11:07:35+00:00",
+      "author": null,
+      "description": "The recordings appear to show one high-speed train was given clearance to move even though another up ahead had stalled.",
+      "link": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dc9/live/708f0da0-d34a-11f1-8a05-59afc813496d.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "108479150",
+      "title": "Putin praises Elon Musk as a ‘genius’ as Russia develops Starlink alternative",
+      "published": "2026-10-29T11:04:27+00:00",
+      "author": null,
+      "description": "Russia is trying to develop is own version of the satellite constellation Starlink: Rassvet.",
+      "link": "https://www.cnbc.com/2026/10/29/putin-elon-musk-starlink-ukraine.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/107388813-1729864301558-Untitled-2.jpg?v=1729864387&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/29/rare-love-letters-french-aristocrat-la-perouse-maritime-mystery",
+      "title": "Rare love letters to French aristocrat shed light on Louis XVI maritime mystery",
+      "published": "2026-10-29T11:00:30+00:00",
+      "author": "Kim Willsher in Paris",
+      "description": "‘Miracle’ cache of letters written by French scientist who died in ill-fated La Pérouse mission give personal account of 1785 voyage As he prepared to climb the scaffolding to be publicly executed by guillotine on 21 January 1793, Louis XVI is reported to have asked: “Is there news of Monsieur de la Pérouse?” He was referring to Jean-François de Galaup, the count of Pérouse , a naval officer and navigator whom the French king had dispatched in 1785 on a round-the-world scientific mission to riv…",
+      "link": "https://www.theguardian.com/world/2026/oct/29/rare-love-letters-french-aristocrat-la-perouse-maritime-mystery",
+      "image": "https://i.guim.co.uk/img/media/58a6ba0bd4b4e4e6d7de5f4b37619e40d8628ffd/80_0_2840_2272/master/2840.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=662de39d0686f42e336213248a069c1e",
+      "feed_name": "The Guardian",
+      "feed_title": "World news | The Guardian",
+      "category": "World News",
+      "feed_url": "https://www.theguardian.com/world/rss",
+      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/europe/when-mount-vesuvius-erupted-in-ad-79-a-round-loaf-of-bread-in-herculaneum-was-buried-under-volcanic-debris-it-was-found-carbonised-nearly-2000-years-later-still-showing-its-eight-segments-and-a-bakers-stamp/articleshow/135300020.cms",
+      "title": "2,000-year-old Roman bread found inside oven after Mount Vesuvius volcanic eruption",
+      "published": "2026-10-29T11:00:00+00:00",
+      "author": "TOI World Desk",
+      "description": "A loaf of bread left inside an oven in Herculaneum during the AD 79 eruption of Mount Vesuvius was discovered carbonised during excavations in 1930. The nearly 2,000-year-old find offers a glimpse into ancient Roman food habits. The British Museum later recreated the bread, while other preserved loaves reveal how Romans divided bread into portions and used stamps to identify it.",
+      "link": "https://timesofindia.indiatimes.com/world/europe/when-mount-vesuvius-erupted-in-ad-79-a-round-loaf-of-bread-in-herculaneum-was-buried-under-volcanic-debris-it-was-found-carbonised-nearly-2000-years-later-still-showing-its-eight-segments-and-a-bakers-stamp/articleshow/135300020.cms",
+      "image": "https://static.toiimg.com/photo/msid-135301294,imgsize-67404.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
       "id": "https://www.nytimes.com/2026/10/29/world/asia/hong-kong-fire-john-lee-apology.html",
@@ -52,20 +136,6 @@
       "category": "World News",
       "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
       "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
-      "id": "108479150",
-      "title": "Putin praises Elon Musk as a ‘genius’ as Russia develops Starlink alternative",
-      "published": "2026-10-29T10:44:00+00:00",
-      "author": null,
-      "description": "Russia is trying to develop is own version of the satellite constellation Starlink: Rassvet.",
-      "link": "https://www.cnbc.com/2026/10/29/putin-elon-musk-starlink-ukraine.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/107388813-1729864301558-Untitled-2.jpg?v=1729864387&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
       "id": "https://www.ndtv.com/world-news/13-killed-as-russian-drone-slams-into-ukraine-train-platform-in-dnipro-authorities-12253365#publisher=newsstand",
@@ -126,7 +196,7 @@
     {
       "id": "https://www.nytimes.com/2026/10/29/world/middleeast/netanyahu-fear-election-votes.html",
       "title": "How Netanyahu Used Fear, Again, to Win More Votes Than Anyone Else",
-      "published": "2026-10-29T10:29:00+00:00",
+      "published": "2026-10-29T10:29:01+00:00",
       "author": "David M. Halbfinger",
       "description": "Despite years of political baggage, the Israeli prime minister outperformed expectations, and his rivals, by playing on Jewish voters’ fears of Arab political power and potential security threats.",
       "link": "https://www.nytimes.com/2026/10/29/world/middleeast/netanyahu-fear-election-votes.html",
@@ -206,6 +276,20 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
+      "id": "108398465",
+      "title": "It's a 'socialist' bank — and North Dakota Republicans love it",
+      "published": "2026-10-29T10:00:01+00:00",
+      "author": null,
+      "description": "Democratic socialist candidates have held up North Dakota's state-owned bank as a model to emulate.",
+      "link": "https://www.cnbc.com/2026/10/29/bank-north-dakota-socialism-election.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108451738-1792762354235-d0303-00001-jpg636942861313966327.jpg?v=1793226828&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/us-streamers/sneako-reportedly-sends-legal-demand-to-akademiks-over-post-about-alleged-intimate-video-threat/articleshow/135300297.cms",
@@ -558,20 +642,6 @@
       "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o#0",
-      "title": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
-      "published": "2026-10-29T08:38:54+00:00",
-      "author": null,
-      "description": "The recordings appear to show one high-speed train was given clearance to move even though another up ahead had stalled.",
-      "link": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dc9/live/708f0da0-d34a-11f1-8a05-59afc813496d.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
       "id": "t3_1xiecbk",
       "title": "Putin hails Elon Musk as ‘truly a genius’",
       "published": "2026-10-29T08:31:08+00:00",
@@ -816,7 +886,7 @@
       "author": null,
       "description": "Jonathan Head is in Cebu, reporting from outside the home where Markle last resided.",
       "link": "https://www.bbc.co.uk/news/videos/cm0rlxxpng5eo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a90c/live/b93f5b80-d369-11f1-93e1-3b657b665bcf.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/537d/live/42a87ce0-d387-11f1-a701-fddedf244c16.jpg",
       "feed_name": "BBC News - World",
       "feed_title": "BBC News",
       "category": "World News",
@@ -2572,20 +2642,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo#0",
-      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-      "published": "2026-10-28T20:24:39+00:00",
-      "author": null,
-      "description": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
-      "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3381/live/719a4410-d2f2-11f1-8d86-83eebc838351.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "108473103",
@@ -13954,62 +14010,6 @@
       "category": "World News",
       "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/us/in-2020-a-california-homeowner-sought-permission-to-build-a-second-living-unit-on-his-property-he-says-city-delays-lasted-over-three-years-and-cost-him-more-than-1-million-and-an-appeals-court-has-revived-his-lawsuit/articleshow/135205826.cms",
-      "title": "California homeowner’s 3-year ADU permit fight revived after $1M loss claim",
-      "published": "2026-10-26T07:30:21+00:00",
-      "author": "TOI World Desk",
-      "description": "",
-      "link": "https://timesofindia.indiatimes.com/world/us/in-2020-a-california-homeowner-sought-permission-to-build-a-second-living-unit-on-his-property-he-says-city-delays-lasted-over-three-years-and-cost-him-more-than-1-million-and-an-appeals-court-has-revived-his-lawsuit/articleshow/135205826.cms",
-      "image": "https://static.toiimg.com/photo/msid-135205871,imgsize-1060435.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/us/a-florida-homeowners-house-went-through-foreclosure-after-he-received-notice-of-the-trial-only-after-it-had-finished-on-october-23-an-appeals-court-overturned-the-judgment-ordering-a-new-trial/articleshow/135205241.cms",
-      "title": "Florida homeowner got foreclosure trial notice too late; appeals court reverses judgment, orders new trial",
-      "published": "2026-10-26T07:30:00+00:00",
-      "author": "TOI World Desk",
-      "description": "Robert Dwayne Harris has successfully appealed a foreclosure ruling against Nationstar Mortgage, LLC in Florida. The appeals court found that he did not receive adequate notice for his trial, which barred his defense from being presented. Acknowledging this oversight, Nationstar will now face a retrial in the lower court. Although the foreclosure sale proceeded, the court upheld the refusal of an injunction.",
-      "link": "https://timesofindia.indiatimes.com/world/us/a-florida-homeowners-house-went-through-foreclosure-after-he-received-notice-of-the-trial-only-after-it-had-finished-on-october-23-an-appeals-court-overturned-the-judgment-ordering-a-new-trial/articleshow/135205241.cms",
-      "image": "https://static.toiimg.com/photo/msid-135205343,imgsize-1733150.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/real-estate/news/hulk-hogan-bought-a-clearwater-beachfront-mansion-for-3-3-million-in-2012-after-it-was-listed-for-nearly-11-million-his-estate-sold-it-for-5-9-million-in-october-2026-while-a-separate-cottage-fetched-2-8-million/articleshow/135202642.cms",
-      "title": "Hogan Estate Homes Sold: Clearwater mansions fetch $8.7m; prices fall sharply from listings",
-      "published": "2026-10-26T07:29:09+00:00",
-      "author": "TOI World Desk",
-      "description": "Hulk Hogan's stunning mansion on Clearwater Beach has officially been sold for $5.9 million, following a series of price drops since its January 2026 listing. Originally priced at nearly $11 million, the sale marks a significant turn in the market for Hogan, who acquired the property in 2012 for around $3.33 million. Nearby, a quaint cottage also changed hands for $2.",
-      "link": "https://timesofindia.indiatimes.com/real-estate/news/hulk-hogan-bought-a-clearwater-beachfront-mansion-for-3-3-million-in-2012-after-it-was-listed-for-nearly-11-million-his-estate-sold-it-for-5-9-million-in-october-2026-while-a-separate-cottage-fetched-2-8-million/articleshow/135202642.cms",
-      "image": "https://static.toiimg.com/photo/msid-135202673,imgsize-1557547.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/israeli-expats-returning-home-to-vote-their-goal-to-remove-benjamin-netanyahu-12236169#publisher=newsstand",
-      "title": "Israeli Expats Returning Home To Vote. Their Goal? To Remove Netanyahu",
-      "published": "2026-10-26T07:28:32+00:00",
-      "author": null,
-      "description": "The polls on Tuesday are the first since the October 7, 2023, attack.",
-      "link": "https://www.ndtv.com/world-news/israeli-expats-returning-home-to-vote-their-goal-to-remove-benjamin-netanyahu-12236169#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-10/2oa82rdk_benjamin-netanyahu_625x300_26_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     }
   ]
 }

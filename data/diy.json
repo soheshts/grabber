@@ -1,16 +1,44 @@
 {
   "category": "DIY",
-  "updated": "2026-10-29T11:02:38.796333+00:00",
-  "count": 307,
+  "updated": "2026-10-29T11:33:32.270483+00:00",
+  "count": 310,
   "summary": {
-    "text": "• Ryobi circular saw blades are not interchangeable, since each one is designed for a different job.\n• Five budget-friendly Makita tools under $150 are highlighted as versatile and affordable buys.\n• For tech tips, improving an Excel spreadsheet's font matters more than adding colors, and Android users can clear clutter by hiding status bar icons such as Bluetooth and mobile data.",
-    "generated_at": "2026-10-29T10:33:31.660469+00:00",
+    "text": "• Windows and iPhone tips: setting Wi-Fi as metered in Windows 11 can make internet feel faster, while an iPhone still cannot turn off 2G, a feature Android offers.\n• Homelab and storage: one writer kept old flash drives for single-purpose jobs in a homelab.\n• Software switching: a week of replacing everyday Windows apps with open-source alternatives required little more than adjusting to new icons.\n• Linux gaming: Linux reportedly runs a Microsoft video game better than Windows does.\n• Offline survival: a Hackaday post explores an AI chatbot for a post-collapse world with no internet access.",
+    "generated_at": "2026-10-29T11:33:32.270483+00:00",
     "window_minutes": 60,
-    "item_count": 4,
-    "key": "93df68249ceb82907a5819b34b881ac58c8e7360",
+    "item_count": 6,
+    "key": "e75a5174f64a62fc7c40a048a1f58d76064156df",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.makeuseof.com/iphone-still-cant-turn-off-2g/",
+      "title": "My iPhone still can’t turn off 2G, and it’s the Android feature I envy most",
+      "published": "2026-10-29T11:30:16+00:00",
+      "author": "Jonathon Jachura",
+      "description": "The 2G network is a potential security threat to all iOS devices.",
+      "link": "https://www.makeuseof.com/iphone-still-cant-turn-off-2g/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/09/iphone-16-pro-max-with-large-dark-icons.jpeg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/i-stopped-tossing-old-flash-drives-and-my-homelab-is-better-for-it/",
+      "title": "I stopped tossing old flash drives, and my homelab is better for it",
+      "published": "2026-10-29T11:30:15+00:00",
+      "author": "Patrick Campanale",
+      "description": "Single-purpose jobs are where cheap flash drives still shine.",
+      "link": "https://www.howtogeek.com/i-stopped-tossing-old-flash-drives-and-my-homelab-is-better-for-it/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/08/hand-holding-a-sandisk-usb-flash-thumb-drive.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/make-wi-fi-feel-fast-with-metered-connection-windows-11/",
       "title": "I set my Wi-Fi as metered in Windows 11, and my internet finally felt fast",
@@ -38,6 +66,20 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://hackaday.com/?p=1396670",
+      "title": "An AI Chatbot for the Apocalypse",
+      "published": "2026-10-29T11:00:01+00:00",
+      "author": "Al Williams",
+      "description": "You don’t have to be a full-on “prepper” to at least occasionally wonder what would happen if civilization collapsed. One thing you probably couldn’t do is go on the Internet …read more",
+      "link": "https://hackaday.com/2026/10/29/an-ai-chatbot-for-the-apocalypse/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/10/shtfai.png",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
     },
     {
       "id": "https://www.makeuseof.com/yes-linux-runs-microsofts-own-video-game-better-than-windows/",

@@ -1,16 +1,44 @@
 {
   "category": "science",
-  "updated": "2026-10-29T11:02:38.796333+00:00",
-  "count": 712,
+  "updated": "2026-10-29T11:33:32.270483+00:00",
+  "count": 714,
   "summary": {
-    "text": "• Serious pollution by England's water industry remains high despite £5bn in investment, with all but one water company rated \"poor\" or \"requiring improvement\" on environmental targets.\n• A writer reports giving blood to the AI Death Clock, which promises to predict when you'll die and help extend your time on Earth. After a month, they felt it was \"sucking the life out of me.\"",
-    "generated_at": "2026-10-29T10:33:31.660469+00:00",
+    "text": "• Water industry: Serious pollution remains high in England despite £5bn investment; all but one company rated \"poor\" or \"requiring improvement.\"\n• Fish stocks have declined in the open ocean over three decades, particularly in the tropics, while ancient warm oceans saw carbon export and fish productivity surge.\n• American jobs have grown more stressful over two decades, though workers gained more autonomy.\n• Anthropic and OpenAI say they disproved a key computer science tenet, leaving researchers excited about new questions.",
+    "generated_at": "2026-10-29T11:33:32.270483+00:00",
     "window_minutes": 60,
-    "item_count": 2,
-    "key": "536d8648f82339e85374b17c4dce6b6b0016ef53",
+    "item_count": 5,
+    "key": "abda929b3d1db9b8ca4a72de193503d89808d20c",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "news712471363",
+      "title": "Prosecutors invoke gender stereotypes in capital cases against women",
+      "published": "2026-10-29T11:30:01+00:00",
+      "author": null,
+      "description": "In 2001, Brenda Andrew was convicted of murdering her husband, and in 2004 she was sentenced to death.",
+      "link": "https://phys.org/news/2026-10-prosecutors-invoke-gender-stereotypes-capital.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/illustration-of-a-judg.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "news712402208",
+      "title": "As ancient oceans warmed, carbon export and fish productivity surged",
+      "published": "2026-10-29T11:20:02+00:00",
+      "author": null,
+      "description": "Ocean fish stocks have been increasingly exploited over time, and remote sensing shows they have declined in the open ocean over the last three decades, particularly in the tropics. But it's uncertain how fish populations will fare in the future, as climate models show both increases and decreases in global trends by the end of this century.",
+      "link": "https://phys.org/news/2026-10-ancient-oceans-carbon-export-fish.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fish-populations-incre-1.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
     {
       "id": "news712470858",
       "title": "American jobs offer more autonomy—and more stress",

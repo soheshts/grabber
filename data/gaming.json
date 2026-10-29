@@ -1,16 +1,44 @@
 {
   "category": "gaming",
-  "updated": "2026-10-29T11:02:38.796333+00:00",
-  "count": 770,
+  "updated": "2026-10-29T11:33:32.270483+00:00",
+  "count": 774,
   "summary": {
-    "text": "• GTA 6 gameplay appeared in a South Park episode, a clip of just under 20 seconds that features dog poop, according to IGN and Eurogamer.\n• Polygon's Unraveled series ranked Mortal Kombat's best cuddler and Dark Souls' best business leadership boss.\n• Polygon also covered Fatal Frame's camera-based horror and published a rules-based E3 press conference drinking game.",
-    "generated_at": "2026-10-29T10:33:31.660469+00:00",
+    "text": "• Xbox boss Asha Sharma says there is \"more demand than consoles available,\" with console sales \"constrained by supply,\" even as Xbox hardware sales fell 14%.\n• Modern Warfare 4 faces backlash after real footage of the Itaewon crowd crush was found in its opening moments. Bereaved families and a citizens' group have criticised Activision.\n• Avatar: The Last Airbender's 20th-anniversary episode \"The Guru\" explains the chakras and may hold clues to Pavi's vision in Seven Havens episode 9.",
+    "generated_at": "2026-10-29T11:33:32.270483+00:00",
     "window_minutes": 60,
-    "item_count": 7,
-    "key": "f001923cf388269d6b416716cb7ed00d434ab2e6",
+    "item_count": 4,
+    "key": "6c9d919280ad361a1f2170a53f11725362e19531",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.eurogamer.net/xbox-financials-sales-asha-sharma-microsoft",
+      "title": "Xbox leader Asha Sharma says there's \"more demand than consoles available\" as Xbox hardware sales dip by 14%",
+      "published": "2026-10-29T11:21:44+00:00",
+      "author": "Robert Purchese",
+      "description": "Xbox leader Asha Sharma has claimed there's \"more demand than consoles available\" when it comes to Xbox, and that console sales \"remain constrained by supply\". Read more",
+      "link": "https://www.eurogamer.net/xbox-financials-sales-asha-sharma-microsoft",
+      "image": "https://assetsio.gnwcdn.com/asha-sharma-xbox-showcase-2026.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "feed_name": "Eurogamer.net",
+      "feed_title": "Eurogamer.net Latest Articles Feed",
+      "category": "gaming",
+      "feed_url": "https://www.eurogamer.net/?format=rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.eurogamer.net&sz=64"
+    },
+    {
+      "id": "https://www.eurogamer.net/modern-warfare-4-south-korean-crowd-crush-footage",
+      "title": "Modern Warfare 4 faces backlash after real footage of South Korean crowd crush tragedy was discovered in game's opening moments",
+      "published": "2026-10-29T11:11:01+00:00",
+      "author": "Connor Makar",
+      "description": "Activision has come under fire due to the inclusion of real-world footage of the tragic Itaewon Disaster in Modern Warfare 4. The bereaved families association and the Citizens Countermeasure Meeting are asking for the footage to be removed. Read more",
+      "link": "https://www.eurogamer.net/modern-warfare-4-south-korean-crowd-crush-footage",
+      "image": "https://assetsio.gnwcdn.com/modern-warfare-4-beta-shot-crop-3.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "feed_name": "Eurogamer.net",
+      "feed_title": "Eurogamer.net Latest Articles Feed",
+      "category": "gaming",
+      "feed_url": "https://www.eurogamer.net/?format=rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.eurogamer.net&sz=64"
+    },
     {
       "id": "https://www.polygon.com/avatar-seven-havens-last-airbender-the-guru-chakras-explained/",
       "title": "20 Years Later, Avatar’s Deepest Episode Has Never Been More Important",
@@ -26,6 +54,20 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.polygon.com&sz=64"
     },
     {
+      "id": "6cef1c4b-0dac-47f8-86e2-6d206456ec4f",
+      "title": "Asha Sharma Insists There's 'More Demand Than Consoles Available' as Xbox Hardware Sales Continue to Plummet",
+      "published": "2026-10-29T10:47:42+00:00",
+      "author": "Wesley Yin-Poole",
+      "description": "The boss of Xbox has insisted that sales of the console are constrained by supply and that there is “more demand than consoles available,” as Microsoft’s gaming business heads into the crucial holiday season.",
+      "link": "https://www.ign.com/articles/asha-sharma-insists-theres-more-demand-than-consoles-available-as-xbox-hardware-sales-continue-to-plummet",
+      "image": "https://assets-prd.ignimgs.com/2022/11/23/xboxseriesx-3-blogroll-1648735732292-1669247511678.jpeg",
+      "feed_name": "IGN All",
+      "feed_title": "IGN Articles",
+      "category": "gaming",
+      "feed_url": "http://feeds.ign.com/ign/all",
+      "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
+    },
+    {
       "id": "https://www.polygon.com/gta-6-dog-poop-gameplay-south-park/",
       "title": "New GTA 6 Gameplay Was Shown on South Park, and It Totally Stinks",
       "published": "2026-10-29T10:31:55+00:00",
@@ -38,6 +80,20 @@
       "category": "gaming",
       "feed_url": "https://www.polygon.com/rss/index.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.polygon.com&sz=64"
+    },
+    {
+      "id": "3ef1951e-63d7-4f54-9378-ed8b296d6cf9",
+      "title": "Phantom Blade Zero Gets Off to a Flyer on Steam, Behind Only Counter-Strike 2 as the Most-Played Game",
+      "published": "2026-10-29T10:10:54+00:00",
+      "author": "Kirk McKeand",
+      "description": "It’s only been out a few hours, but Phantom Blade Zero is already a big hit on Steam, topping the best-selling games chart, and reaching a huge peak concurrent player count of 448,000.",
+      "link": "https://www.ign.com/articles/phantom-blade-zero-beats-modern-warfare-4-steam-top-selling",
+      "image": "https://assets-prd.ignimgs.com/2026/10/23/phantombladezero-review-blogroll-1792792680648.jpg",
+      "feed_name": "IGN All",
+      "feed_title": "IGN Articles",
+      "category": "gaming",
+      "feed_url": "http://feeds.ign.com/ign/all",
+      "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
     },
     {
       "id": "https://www.polygon.com/video/how-to-make-a-perfect-e3-press-conference-or-drinking-game-unraveled/",

@@ -1,16 +1,44 @@
 {
   "category": "technology",
-  "updated": "2026-10-29T11:02:38.796333+00:00",
+  "updated": "2026-10-29T11:33:32.270483+00:00",
   "count": 1000,
   "summary": {
-    "text": "• Nasdaq futures fell as Alphabet slid and Microsoft rose after mixed results, with investors weighing AI spending against payoff.\n• The Verge says AI data centers are straining Arizona's scarce water supply.\n• Google's Gemini 4 Carbon claims top benchmark scores in coding and cybersecurity.\n• Hamburg startup MuRay raised €7.1M to use muon imaging on dense parts like rocket engines.\n• Deals: Sony WH-CH730N headphones are 29% off at Amazon.",
-    "generated_at": "2026-10-29T10:33:31.660469+00:00",
+    "text": "• The Pentagon is investigating whether hackers caused freezer failures at shops on US military bases in August, after a similar attack hit hundreds of French supermarkets this month.\n• Alphabet shares fell nearly 10% after Google disclosed that AI Mode searches earn less revenue than traditional search, though overall search revenue grew 12% year over year.\n• South Korean regulators found that Apple and Google violated the Telecommunications Business Act, and both were fined over app store violations.\n• Chinese robot maker Pudu Robotics opened its European headquarters in Neuss, near Düsseldorf, Germany.",
+    "generated_at": "2026-10-29T11:33:32.270483+00:00",
     "window_minutes": 60,
-    "item_count": 9,
-    "key": "b6dc9e477ab5d3533754b4205788b21cc6707689",
+    "item_count": 4,
+    "key": "65e9fbc1afadfb45bffa6936bd2905c2c7097bb4",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "TheNextWeb=a75732f4a2a77f9c986b90721e3da1e4",
+      "title": "Pentagon suspects hackers behind freezer failures at US base stores",
+      "published": "2026-10-29T11:01:56+00:00",
+      "author": "Ana-Maria Stanciuc",
+      "description": "The Pentagon is investigating whether hackers caused freezers to fail at shops on US military bases in August, after a similar attack hit hundreds of supermarkets in France this month. Four officials told Reuters on Thursday that investigators are treating the US incidents as a suspected cyberattack. One official said they had also spoken to […] This story continues at The Next Web",
+      "link": "https://thenextweb.com/news/pentagon-military-base-freezer-failures-suspected-cyberattack",
+      "image": "https://media.thenextweb.com/2026/10/pentagon-aerial-view-arlington-virginia.avif",
+      "feed_name": "The Next Web",
+      "feed_title": "The Next Web",
+      "category": "technology",
+      "feed_url": "https://thenextweb.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
+    {
+      "id": "https://tech.slashdot.org/story/26/10/29/0444201/google-struggling-to-make-ai-mode-searches-pay?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "title": "Google Struggling to Make AI Mode Searches Pay",
+      "published": "2026-10-29T11:00:00+00:00",
+      "author": "BeauHD",
+      "description": "Alphabet shares fell nearly 10% after Google disclosed that searches through its AI Mode generate less revenue than traditional search, even as overall search revenue grew 12% year over year to $63.25 billion. The Register reports: Alphabet on Wednesday reported its Q3 results, which included news that its year-over-year search query growth rate is the highest it's been in the last five years. Some of that growth comes from users adopting \"AI Mode\" -- Google's latest LLM-powered search system.…",
+      "link": "https://tech.slashdot.org/story/26/10/29/0444201/google-struggling-to-make-ai-mode-searches-pay?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+      "feed_name": "Slashdot",
+      "feed_title": "Slashdot",
+      "category": "technology",
+      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
+    },
     {
       "id": "https://www.engadget.com/2300690/apple-google-fined-south-korea-app-store-violations/",
       "title": "Apple and Google fined in South Korea over app store violations",
@@ -13982,34 +14010,6 @@
       "category": "technology",
       "feed_url": "https://www.blog.google/rss/",
       "feed_icon": "https://blog.google/static/blogv2/images/google.png"
-    },
-    {
-      "id": "https://stratechery.com/?p=20466",
-      "title": "An Interview with Craig Moffett About SpaceX and Bubbles",
-      "published": "2026-10-22T10:00:00+00:00",
-      "author": "Ben Thompson",
-      "description": "An interview with Craig Moffett about SpaceX, from launch to broadband to mobile, plus how he is applying the lessons of the dot-com bubble to today.",
-      "link": "https://stratechery.com/2026/an-interview-with-craig-moffett-about-spacex-and-bubbles/",
-      "image": null,
-      "feed_name": "Stratechery by Ben Thompson",
-      "feed_title": "Stratechery by Ben Thompson",
-      "category": "technology",
-      "feed_url": "http://stratechery.com/feed/",
-      "feed_icon": "https://i0.wp.com/stratechery.com/wp-content/uploads/2018/03/cropped-android-chrome-512x512-1.png?fit=32%2C32&ssl=1"
-    },
-    {
-      "id": "01J29JH9FVWK74ETYSH711P2EX",
-      "title": "This Ultra-Wide Samsung Gaming Monitor Is $600 Off",
-      "published": "2026-10-21T20:00:00+00:00",
-      "author": "Daniel Oropeza",
-      "description": "This is a great opportunity to snatch this premium 57-inch Samsung gaming monitor.",
-      "link": "https://lifehacker.com/tech/samsung-odyssey-neo-g9-gaming-monitor-deal-october-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01J29JH9FVWK74ETYSH711P2EX/hero-image.jpg",
-      "feed_name": "Lifehacker",
-      "feed_title": "Lifehacker",
-      "category": "technology",
-      "feed_url": "https://lifehacker.com/rss",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=lifehacker.com&sz=64"
     }
   ]
 }
