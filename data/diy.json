@@ -1,7 +1,7 @@
 {
   "category": "DIY",
-  "updated": "2026-10-29T13:03:49.440528+00:00",
-  "count": 318,
+  "updated": "2026-10-29T13:33:31.220172+00:00",
+  "count": 320,
   "summary": {
     "text": "• A MUO post says a Fire TV Stick was throttling itself until five settings were changed.\n• iPhones still can't turn off 2G, a feature the author envies in Android, and 2G is flagged as a potential security threat.\n• How-To Geek highlights three more Linux-exclusive apps that beat their Windows alternatives.\n• Cheap old flash drives still suit single-purpose jobs, which improved one writer's homelab.",
     "generated_at": "2026-10-29T12:03:52.839447+00:00",
@@ -11,6 +11,34 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.makeuseof.com/netflix-hidden-sci-fi-movies-oxygen-save-yourselves-spectral/",
+      "title": "Netflix is hiding 7 sci-fi movies that are much better than its blockbusters",
+      "published": "2026-10-29T13:30:17+00:00",
+      "author": "Dan Selcke",
+      "description": "Claustrophobic nightmares, hilarious alien invasions, and armies of ghosts await you in the lesser-known corners of Netflix.",
+      "link": "https://www.makeuseof.com/netflix-hidden-sci-fi-movies-oxygen-save-yourselves-spectral/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2026/10/characters-from-oxygen-and-stowaway-with-the-netflix-logo.png",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/forget-microsoft-word-heres-why-i-do-all-my-writing-in-markdown/",
+      "title": "Forget Microsoft Word: Here's why I do all my writing in Markdown",
+      "published": "2026-10-29T13:30:16+00:00",
+      "author": "Shan Abdul",
+      "description": "Markdown: clean, simple, unbeatable.",
+      "link": "https://www.howtogeek.com/forget-microsoft-word-heres-why-i-do-all-my-writing-in-markdown/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/htgoffice.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/android-auto-utility-apps/",
       "title": "These utility apps make Android Auto 10x more useful",

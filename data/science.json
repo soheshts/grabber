@@ -1,7 +1,7 @@
 {
   "category": "science",
-  "updated": "2026-10-29T13:03:49.440528+00:00",
-  "count": 728,
+  "updated": "2026-10-29T13:33:31.220172+00:00",
+  "count": 740,
   "summary": {
     "text": "• Water and nature: The Environment Agency gave South West Water its lowest environmental rating, with pollution \"significantly below target.\" Bus stop roofs will get bee mini-gardens.\n• Electricity costs: A Phys.org piece looks at keeping power affordable amid uncertain federal policy.\n• Polls and justice: A Q&A asks whether midterm polls are trustworthy. Prosecutors invoke gender stereotypes in capital cases against women.\n• Ocean science: As ancient oceans warmed, carbon export and fish productivity surged.",
     "generated_at": "2026-10-29T12:03:52.839447+00:00",
@@ -11,6 +11,104 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "news712477949",
+      "title": "Using hydrogen to spark ammonia engines into life",
+      "published": "2026-10-29T13:20:05+00:00",
+      "author": null,
+      "description": "\"Ammonia was first used as a fuel during World War II, when gasoline was hard to get hold of,\" explains David Emberson, associate professor at NTNU's Department of Marine Technology.",
+      "link": "https://phys.org/news/2026-10-hydrogen-ammonia-life.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/using-hydrogen-to-spar-2.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "news712482062",
+      "title": "Saharan dust carries desert bacteria across the Atlantic to Amazon rainforest",
+      "published": "2026-10-29T13:20:01+00:00",
+      "author": null,
+      "description": "Viewed under a microscope, the air above the Amazon rainforest teems with activity. It is full of pollen, fungal spores, tiny plant particles and bacteria. Normally, the composition of this bioaerosol community is quite stable. A team that included researchers from the University of Graz, the Max Planck Institute for Chemistry in Mainz and Brazilian partner institutions has now shown that microorganisms are transported across the Atlantic along with desert dust from the Sahara.",
+      "link": "https://phys.org/news/2026-10-saharan-bacteria-atlantic-amazon-rainforest.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/desert-microbes-in-the.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2026/10/261028232659.htm",
+      "title": "A single brain signal may explain schizophrenia's most puzzling symptoms",
+      "published": "2026-10-29T13:14:52+00:00",
+      "author": null,
+      "description": "Scientists have identified a weakened brain signal that may connect several seemingly unrelated symptoms of schizophrenia, including sensory processing difficulties, disorganized speech, and greater symptom severity. The surprising discovery could help explain the disorder's underlying mechanisms and potentially lead to earlier detection and new treatments.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261028232659.htm",
+      "image": "https://www.sciencedaily.com/images/1920/translucent-glowing-human-brain-signals-waves.webp",
+      "feed_name": "Latest Science News -- ScienceDaily",
+      "feed_title": "Latest Science News -- ScienceDaily",
+      "category": "science",
+      "feed_url": "https://www.sciencedaily.com/rss/all.xml",
+      "feed_icon": "https://www.sciencedaily.com/images/scidaily-logo-rss.png"
+    },
+    {
+      "id": "news712384159",
+      "title": "Children need to learn to swim for academic and social milestones, rather than just fitness, research suggests",
+      "published": "2026-10-29T13:10:02+00:00",
+      "author": null,
+      "description": "With family budgets stretched ever tighter, swimming lessons can be one of the first expenses to be cut back—but with research showing swimming helps children not just physically but developmentally, researchers are calling for greater government support.",
+      "link": "https://phys.org/news/2026-10-children-academic-social-milestones.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/children-swimming.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2026/10/261028234238.htm",
+      "title": "Six popular sugar substitutes linked to faster brain aging",
+      "published": "2026-10-29T13:04:04+00:00",
+      "author": null,
+      "description": "A study of nearly 13,000 adults found that people consuming the most artificial sweeteners experienced a 62% faster decline in memory and thinking skills, equivalent to approximately 1.6 additional years of brain aging. Six popular sweeteners were linked to faster cognitive decline, raising concerns about the long-term brain health effects of common sugar substitutes, although causation was not established.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261028234238.htm",
+      "image": "https://www.sciencedaily.com/images/1920/brain-fire-inflammation-dementia-alzheimers.webp",
+      "feed_name": "Latest Science News -- ScienceDaily",
+      "feed_title": "Latest Science News -- ScienceDaily",
+      "category": "science",
+      "feed_url": "https://www.sciencedaily.com/rss/all.xml",
+      "feed_icon": "https://www.sciencedaily.com/images/scidaily-logo-rss.png"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/29/science/stone-age-cannibal-caves-of-spain.html",
+      "title": "Three Stone Age Caves Reveal Continual Cannibalism",
+      "published": "2026-10-29T13:02:26+00:00",
+      "author": "Joshua Rapp Learn",
+      "description": "A tour of the three caves in southern Spain suggests that people in the area cannibalized one another as funerary practice over many generations.",
+      "link": "https://www.nytimes.com/2026/10/29/science/stone-age-cannibal-caves-of-spain.html",
+      "image": null,
+      "feed_name": "NYT > Science",
+      "feed_title": "NYT > Science",
+      "category": "science",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/29/science/ai-eradicate-computer-bugs.html",
+      "title": "After Reinventing Mathematics, Can A.I. Eradicate Computer Bugs?",
+      "published": "2026-10-29T13:00:10+00:00",
+      "author": "Cade Metz",
+      "description": "Using the same techniques that allowed A.I. technologies to crack a million-dollar math problem, researchers are building new systems that aim to solve the world’s cybersecurity crisis.",
+      "link": "https://www.nytimes.com/2026/10/29/science/ai-eradicate-computer-bugs.html",
+      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29SCI-AND-TRUTH-01-hvwz/29SCI-AND-TRUTH-01-hvwz-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Science",
+      "feed_title": "NYT > Science",
+      "category": "science",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "news712388238",
       "title": "Struggling with your career? This psychological intervention may help",
@@ -82,6 +180,34 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
     },
     {
+      "id": "https://www.sciencedaily.com/releases/2026/10/261028232709.htm",
+      "title": "A 700,000-year-old elephant tooth reveals a lost world where early humans lived",
+      "published": "2026-10-29T12:38:53+00:00",
+      "author": null,
+      "description": "A remarkably preserved elephant tooth dating back nearly 700,000 years has revealed a surprisingly lush prehistoric world where giant elephants and early humans lived side by side. Discovered in northern Israel alongside ancient stone tools, the tooth belonged to a straight-tusked elephant, one of the largest land mammals of the Ice Age.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261028232709.htm",
+      "image": "https://www.sciencedaily.com/images/1920/tools-uncovered-at-acheulian-site-north-of-gesher-benot-yaaqov.webp",
+      "feed_name": "Latest Science News -- ScienceDaily",
+      "feed_title": "Latest Science News -- ScienceDaily",
+      "category": "science",
+      "feed_url": "https://www.sciencedaily.com/rss/all.xml",
+      "feed_icon": "https://www.sciencedaily.com/images/scidaily-logo-rss.png"
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2026/10/261028232715.htm",
+      "title": "NASA discovers Jupiter’s invisible shield is more complex than Earth’s",
+      "published": "2026-10-29T12:26:25+00:00",
+      "author": null,
+      "description": "NASA’s Juno spacecraft has discovered that Jupiter uses a surprisingly complex system of powerful plasma waves and multiple shock regions to defend against the solar wind. The findings reveal major differences between Jupiter and Earth and could help scientists understand the enormous shock waves produced by exploding stars.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261028232715.htm",
+      "image": "https://www.sciencedaily.com/images/1920/jupiters-bow-shock.webp",
+      "feed_name": "Latest Science News -- ScienceDaily",
+      "feed_title": "Latest Science News -- ScienceDaily",
+      "category": "science",
+      "feed_url": "https://www.sciencedaily.com/rss/all.xml",
+      "feed_icon": "https://www.sciencedaily.com/images/scidaily-logo-rss.png"
+    },
+    {
       "id": "news712411896",
       "title": "Smaller ants devote more of their resting energy budget to their brains",
       "published": "2026-10-29T12:20:14+00:00",
@@ -122,6 +248,20 @@
       "category": "science",
       "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2026/10/261028232719.htm",
+      "title": "Einstein's equations may explain the universe without dark energy",
+      "published": "2026-10-29T12:07:58+00:00",
+      "author": null,
+      "description": "Mathematicians have uncovered what they argue is a fundamental flaw in the standard model of the universe, potentially challenging the need for dark energy. Their calculations suggest that the mathematical framework used to describe cosmic expansion is inherently unstable and that the universe could accelerate naturally under Einstein's original theory of gravity. The findings also raise surprising questions about whether our location in the universe is as ordinary as scientists have long assum…",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261028232719.htm",
+      "image": "https://www.sciencedaily.com/images/1920/albert-einstein-quantum-cosmology.webp",
+      "feed_name": "Latest Science News -- ScienceDaily",
+      "feed_title": "Latest Science News -- ScienceDaily",
+      "category": "science",
+      "feed_url": "https://www.sciencedaily.com/rss/all.xml",
+      "feed_icon": "https://www.sciencedaily.com/images/scidaily-logo-rss.png"
     },
     {
       "id": "https://flowingdata.com/?p=83215",
@@ -180,6 +320,20 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
     },
     {
+      "id": "https://www.sciencedaily.com/releases/2026/10/261028232707.htm",
+      "title": "Less than 42 minutes of bright daylight linked to higher dementia risk",
+      "published": "2026-10-29T11:30:32+00:00",
+      "author": null,
+      "description": "Getting more daylight could be linked to a surprisingly powerful benefit for brain health. In a study of more than 87,000 adults, researchers found that higher daytime light exposure was associated with a 16% lower risk of dementia, with longer exposure to bright light linked to even greater reductions. Remarkably, getting less than 42 minutes of bright daylight daily was a stronger predictor of dementia than six established risk factors.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261028232707.htm",
+      "image": "https://www.sciencedaily.com/images/1920/senior-woman-outside-in-bright-sunlight.webp",
+      "feed_name": "Latest Science News -- ScienceDaily",
+      "feed_title": "Latest Science News -- ScienceDaily",
+      "category": "science",
+      "feed_url": "https://www.sciencedaily.com/rss/all.xml",
+      "feed_icon": "https://www.sciencedaily.com/images/scidaily-logo-rss.png"
+    },
+    {
       "id": "news712471363",
       "title": "Prosecutors invoke gender stereotypes in capital cases against women",
       "published": "2026-10-29T11:30:01+00:00",
@@ -220,6 +374,20 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2026/10/261028232701.htm",
+      "title": "Scientists discover that cranberry juice may help fight tooth decay",
+      "published": "2026-10-29T11:12:06+00:00",
+      "author": null,
+      "description": "Cranberry juice may offer an unexpected benefit beyond its reputation for helping prevent urinary tract infections: protecting teeth from decay. Researchers at the University of Illinois Chicago discovered that pure, unsweetened cranberry juice slowed the regrowth of dental plaque bacteria and reduced their production of acids that damage tooth enamel. The secret may lie in naturally occurring compounds called proanthocyanidins, which interfere with harmful bacteria.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261028232701.htm",
+      "image": "https://www.sciencedaily.com/images/1920/pouring-fresh-cranberry-juice.webp",
+      "feed_name": "Latest Science News -- ScienceDaily",
+      "feed_title": "Latest Science News -- ScienceDaily",
+      "category": "science",
+      "feed_url": "https://www.sciencedaily.com/rss/all.xml",
+      "feed_icon": "https://www.sciencedaily.com/images/scidaily-logo-rss.png"
     },
     {
       "id": "news712470858",
@@ -320,20 +488,6 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
     },
     {
-      "id": "https://www.nytimes.com/2026/10/29/science/stone-age-cannibal-caves-of-spain.html",
-      "title": "Three Stone Age Caves Reveal Continual Cannibalism",
-      "published": "2026-10-29T09:00:48+00:00",
-      "author": "Joshua Rapp Learn",
-      "description": "A tour of the three caves in southern Spain reveals that people in the area cannibalized one another as funerary practice over many generations.",
-      "link": "https://www.nytimes.com/2026/10/29/science/stone-age-cannibal-caves-of-spain.html",
-      "image": null,
-      "feed_name": "NYT > Science",
-      "feed_title": "NYT > Science",
-      "category": "science",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
       "id": "https://www.nytimes.com/2026/10/29/climate/heat-battery-thermal-energy-storage.html",
       "title": "New Batteries That Store Blistering Heat Are Taking Off",
       "published": "2026-10-29T09:00:29+00:00",
@@ -388,6 +542,20 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2026/10/261028232713.htm",
+      "title": "128,000-year-old ice in Tibet could rewrite climate history",
+      "published": "2026-10-29T08:10:47+00:00",
+      "author": null,
+      "description": "Ancient ice discovered high in Tibet may be more than 128,000 years old, preserving an extraordinary record of Earth's climate that scientists previously thought had been lost. The discovery reveals a rare glimpse into the last ice age and could reshape our understanding of how glaciers survive dramatic changes in global climate.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261028232713.htm",
+      "image": "https://www.sciencedaily.com/images/1920/icy-blue-formations-at-laigu-glacier-in-tibet.webp",
+      "feed_name": "Latest Science News -- ScienceDaily",
+      "feed_title": "Latest Science News -- ScienceDaily",
+      "category": "science",
+      "feed_url": "https://www.sciencedaily.com/rss/all.xml",
+      "feed_icon": "https://www.sciencedaily.com/images/scidaily-logo-rss.png"
     },
     {
       "id": "https://flowingdata.com/?p=83199",

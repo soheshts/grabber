@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated": "2026-10-29T13:03:49.440528+00:00",
+  "updated": "2026-10-29T13:33:31.220172+00:00",
   "count": 1000,
   "summary": {
     "text": "• DoorDash is acquiring Instacart in a deal valued at about $17 billion, giving it a bigger presence in online grocery delivery.\n• Tesla Robotaxi riders in Houston report long detours and pickup points the app will not accept, according to Business Insider.\n• The complaints come days after Tesla greatly expanded its Houston service.",
@@ -11,6 +11,62 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.theverge.com/?p=1021476",
+      "title": "Anthropic’s business plan: Build God or die trying",
+      "published": "2026-10-29T13:30:00+00:00",
+      "author": "Elizabeth Lopatto",
+      "description": "The Anthropic S-1 seems to have provided the financial justification for the company to spend as much as it possibly can on compute. If you are the kind of person who wonders if Anthropic is doing its level best to build a machine god while convincing Wall Street it's in the business of selling IT […]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Anthropic_dario-amodei_money.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "feed_name": "The Verge -  All Posts",
+      "feed_title": "The Verge",
+      "category": "technology",
+      "feed_url": "https://www.theverge.com/rss/index.xml",
+      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
+    },
+    {
+      "id": "https://www.theverge.com/?p=1022013",
+      "title": "Apple finally combined a toaster and a refrigerator",
+      "published": "2026-10-29T13:21:02+00:00",
+      "author": "Tom Warren",
+      "description": "For more than 15 years, Apple has had a pretty simple answer to the idea of a touchscreen MacBook: no. Yesterday, Apple finally decided to think different and announce one anyway. \"You've gotta touch it to believe it,\" says Apple CEO John Ternus. He might be right: I haven't yet touched it, and I still […]",
+      "link": "https://www.theverge.com/report/1022013/apple-touchscreen-macbook-pro-toaster-refrigerator",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/applemacbookprotouch.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "feed_name": "The Verge -  All Posts",
+      "feed_title": "The Verge",
+      "category": "technology",
+      "feed_url": "https://www.theverge.com/rss/index.xml",
+      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
+    },
+    {
+      "id": "TheNextWeb=1343e74bb1a29b626528e4dcbb7e1c1c",
+      "title": "Microsoft sells at least $25bn of bonds, its first US deal since 2017",
+      "published": "2026-10-29T13:17:33+00:00",
+      "author": "Alina Maria Stan",
+      "description": "Microsoft is looking to raise at least $25bn through a US bond sale, its first high-grade debt offering in the country since 2017, Bloomberg reported, citing people familiar with the matter. The deal is divided into as many as 10 tranches, with repayment dates ranging from two to 40 years. Its final size will depend on […] This story continues at The Next Web",
+      "link": "https://thenextweb.com/news/microsoft-25-billion-bond-sale-first-since-2017",
+      "image": "https://media.thenextweb.com/2026/10/microsoft-logo-experience-center-new-york.avif",
+      "feed_name": "The Next Web",
+      "feed_title": "The Next Web",
+      "category": "technology",
+      "feed_url": "https://thenextweb.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
+    {
+      "id": "TheNextWeb=2d592cd6f6338d99d879cddeb9e51219",
+      "title": "Mistral releases open weights for its 1 trillion-parameter Large 4 model",
+      "published": "2026-10-29T13:00:37+00:00",
+      "author": "Ana-Maria Stanciuc",
+      "description": "Mistral has released the weights of Mistral Large 4, the 1 trillion-parameter model it previewed three weeks ago, and the version now on Hugging Face is noticeably sharper. The Paris-based company says three extra weeks of reinforcement learning, guided by customer feedback, have made ML4 the strongest open model for agentic coding and cyber defence. […] This story continues at The Next Web",
+      "link": "https://thenextweb.com/news/mistral-large-4-open-weights-release",
+      "image": "https://media.thenextweb.com/2026/10/mistral-logo-orange-red-white-pixel-grid.avif",
+      "feed_name": "The Next Web",
+      "feed_title": "The Next Web",
+      "category": "technology",
+      "feed_url": "https://thenextweb.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
     {
       "id": "https://blog.google/innovation-and-ai/technology/health/google-ai-for-healthcare-professionals-certificate/",
       "title": "Equipping healthcare professionals with practical AI skills",
@@ -24,6 +80,20 @@
       "category": "technology",
       "feed_url": "https://www.blog.google/rss/",
       "feed_icon": "https://blog.google/static/blogv2/images/google.png"
+    },
+    {
+      "id": "01M4YRWR8ZNZKCBHHNZB4JCTQ4",
+      "title": "This Top-Rated 65-Inch LG OLED TV Is $200 Off Right Now",
+      "published": "2026-10-29T13:00:00+00:00",
+      "author": "Pradershika Sharma",
+      "description": "PCMag calls the Evo C6 the best value OLED you can buy, and it's down to $1,400.",
+      "link": "https://lifehacker.com/tech/lg-65-inch-evo-c6-oled-tv-sale-october-29-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M4YRWR8ZNZKCBHHNZB4JCTQ4/hero-image.jpg",
+      "feed_name": "Lifehacker",
+      "feed_title": "Lifehacker",
+      "category": "technology",
+      "feed_url": "https://lifehacker.com/rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=lifehacker.com&sz=64"
     },
     {
       "id": "TheNextWeb=2fd46a63fba6fb57c906dc791e1101dd",
@@ -654,6 +724,20 @@
       "category": "technology",
       "feed_url": "http://feeds.mashable.com/Mashable",
       "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
+    },
+    {
+      "id": "https://blog.google/products-and-platforms/products/education/impact-studies-uk-italy/",
+      "title": "How Gemini is helping students and teachers in the classroom",
+      "published": "2026-10-29T09:00:00+00:00",
+      "author": "Kevin McKee, Amanda Rosenburg",
+      "description": "A teacher crouching next to a student seated at a desk as they talk. In front of the student are papers and a laptop.",
+      "link": "https://blog.google/products-and-platforms/products/education/impact-studies-uk-italy/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Edu_Impact_Studies_herosocial.max-600x600.format-webp.webp",
+      "feed_name": "The Keyword",
+      "feed_title": "News from Google",
+      "category": "technology",
+      "feed_url": "https://www.blog.google/rss/",
+      "feed_icon": "https://blog.google/static/blogv2/images/google.png"
     },
     {
       "id": "TheNextWeb=5e1b6435415d0e52d8d76ca440ff88b8",
@@ -13187,10 +13271,10 @@
     },
     {
       "id": "5108396",
-      "title": "The iPhone Duo Has Passed 75,000 Folds in Our Fold-a-Phone Testing Machine. Can It Beat the Galaxy Z Fold 8?",
+      "title": "100,000 Folds and Counting for the iPhone Duo in Our Fold-a-Phone Testing Machine. How High Will It Go?",
       "published": "2026-10-23T21:30:35+00:00",
       "author": "Matthew Murray",
-      "description": "We’re folding Apple’s iPhone Duo 900 times an hour to test how its hinge will last.",
+      "description": "We’re folding Apple’s iPhone Duo over and over — 900 times an hour — to test the durability of its hinge.",
       "link": "https://www.cnet.com/tech/mobile/iphone-duo-how-we-test-folds/",
       "image": "https://www.cnet.com/wp-content/uploads/sites/2/image-3_b6d85e.png",
       "feed_name": "CNET News",
@@ -13926,90 +14010,6 @@
       "category": "technology",
       "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
       "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
-    },
-    {
-      "id": "5007067",
-      "title": "Beyond the Review: Inside the Onyx RCR 80V E-Bike",
-      "published": "2026-10-23T10:00:00+00:00",
-      "author": "Joseph Kaminski",
-      "description": "The Onyx RCR 80V can hit motorcycle speeds, but after hundreds of miles in the saddle, I found there’s a lot more to this compact e-bike than going fast.",
-      "link": "https://www.cnet.com/roadshow/personal-mobility/onyx-rcr-80v-review/",
-      "image": "https://www.cnet.com/wp-content/uploads/sites/2/Onyx-Bike-10.jpg",
-      "feed_name": "CNET News",
-      "feed_title": "News – CNET",
-      "category": "technology",
-      "feed_url": "https://www.cnet.com/rss/news/",
-      "feed_icon": "https://www.cnet.com/wp-content/uploads/sites/2/cropped-favicon-480.png?w=32"
-    },
-    {
-      "id": "https://stratechery.com/?p=20499",
-      "title": "Sharp Tech on Video: Netflix Angst, the End of the Internet, and Meta’s VR Glasses",
-      "published": "2026-10-23T10:00:00+00:00",
-      "author": "Ben Thompson",
-      "description": "Sharp Tech is, for the first time, available on video. You have two ways to consume it: YouTube, and here on Stratechery",
-      "link": "https://stratechery.com/2026/sharp-tech-on-video-netflix-angst-the-end-of-the-internet-and-metas-vr-glasses/",
-      "image": null,
-      "feed_name": "Stratechery by Ben Thompson",
-      "feed_title": "Stratechery by Ben Thompson",
-      "category": "technology",
-      "feed_url": "http://stratechery.com/feed/",
-      "feed_icon": "https://i0.wp.com/stratechery.com/wp-content/uploads/2018/03/cropped-android-chrome-512x512-1.png?fit=32%2C32&ssl=1"
-    },
-    {
-      "id": "https://news.slashdot.org/story/26/10/23/0031209/un-says-breaching-15c-warming-limit-is-imminent-and-unavoidable?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "title": "UN Says Breaching 1.5C Warming Limit Is 'Imminent and Unavoidable'",
-      "published": "2026-10-23T07:00:00+00:00",
-      "author": "BeauHD",
-      "description": "For the first time, the UN has declared that exceeding the Paris Agreement's 1.5C warming limit is \"imminent and unavoidable.\" \"We are now saying this window has closed, but we can open it again by making the overshoot as brief as possible,\" UN Environment Program Executive Director Inger Andersen said on a call with reporters. \"This is about how to find a way back as shortly and as quickly as possible with as limited an overshoot as possible.\" CNN reports: Past reports have examined the distan…",
-      "link": "https://news.slashdot.org/story/26/10/23/0031209/un-says-breaching-15c-warming-limit-is-imminent-and-unavoidable?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-      "feed_name": "Slashdot",
-      "feed_title": "Slashdot",
-      "category": "technology",
-      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
-    },
-    {
-      "id": "https://news.slashdot.org/story/26/10/23/0023257/unvetted-ai-agents-are-accessing-us-bank-accounts?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "title": "Unvetted AI Agents Are Accessing US Bank Accounts",
-      "published": "2026-10-23T03:30:00+00:00",
-      "author": "BeauHD",
-      "description": "An anonymous reader quotes a report from Axios: Major U.S. banks are detecting unauthorized third-party AI agents operating inside customer accounts, with some agents attempting to take actions that appear to be independent of user instructions, sources tell Axios. The difficulty in distinguishing between a human and an unauthorized bot is forcing banks to block the technology and rapidly rewrite their terms of service. [...] This presents significant security risks: banking executives fear the…",
-      "link": "https://news.slashdot.org/story/26/10/23/0023257/unvetted-ai-agents-are-accessing-us-bank-accounts?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-      "feed_name": "Slashdot",
-      "feed_title": "Slashdot",
-      "category": "technology",
-      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
-    },
-    {
-      "id": "https://hardware.slashdot.org/story/26/10/22/180226/to-make-way-for-data-centers-google-will-pay-others-to-use-less-power?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "title": "To Make Way For Data Centers, Google Will Pay Others to Use Less Power",
-      "published": "2026-10-22T23:00:00+00:00",
-      "author": "BeauHD",
-      "description": "Google is funding one of the nation's largest \"virtual power plants,\" paying homes and businesses indirectly to reduce electricity consumption during periods of peak demand so more grid capacity can be available for data centers. Under its expanded deal with Voltus, the program could provide up to 1,070 megawatts in the Mid-Atlantic PJM grid -- roughly the output of a large nuclear reactor. The New York Times reports: That electricity won't come from new power plants. Instead, Voltus will sign…",
-      "link": "https://hardware.slashdot.org/story/26/10/22/180226/to-make-way-for-data-centers-google-will-pay-others-to-use-less-power?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-      "feed_name": "Slashdot",
-      "feed_title": "Slashdot",
-      "category": "technology",
-      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
-    },
-    {
-      "id": "https://arstechnica.com/gaming/2026/10/switch-2-jailbreak-gives-hackers-new-ways-to-run-homebrew-and-mod-games/",
-      "title": "Switch 2 security takes a hit as hackers unlock homebrew access",
-      "published": "2026-10-22T22:25:33+00:00",
-      "author": "Kyle Orland",
-      "description": "\"Userland\" exploit relies on integer overflow found in \"SmileBasic\" interpreter.",
-      "link": "https://arstechnica.com/gaming/2026/10/switch-2-jailbreak-gives-hackers-new-ways-to-run-homebrew-and-mod-games/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/switch2hack-500x500-1792704893.png",
-      "feed_name": "Ars Technica",
-      "feed_title": "Ars Technica - All content",
-      "category": "technology",
-      "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
-      "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
     }
   ]
 }
