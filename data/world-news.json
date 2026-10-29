@@ -1,9 +1,93 @@
 {
   "category": "World News",
-  "updated": "2026-10-29T21:33:34.034634+00:00",
+  "updated": "2026-10-29T22:02:36.576038+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "108481172",
+      "title": "Amazon AWS posts 39% revenue growth as cloud rivals also accelerate",
+      "published": "2026-10-29T21:59:31+00:00",
+      "author": null,
+      "description": "Amazon's cloud signed deals with Meta and OpenAI during the quarter, helping revenue to exceed consensus.",
+      "link": "https://www.cnbc.com/2026/10/29/aws-q3-earnings-report-2026.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108293854-1776683960801-gettyimages-2272185412-3h4a2784_ulewp7vl.jpeg?v=1793304670&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "108475144",
+      "title": "Amazon posts negative free cash flow of $42.4 billion, holds 2026 capex unchanged",
+      "published": "2026-10-29T21:57:38+00:00",
+      "author": null,
+      "description": "Amazon reported third-quarter earnings on Thursday after the bell.",
+      "link": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108217788-1761657947456-gettyimages-2201505685-ALEXA_AI_UNVEILING.jpeg?v=1770336524&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "108477479",
+      "title": "Intel stock plunges 16% as chipmaker blames PC slowdown for weak guidance",
+      "published": "2026-10-29T21:55:44+00:00",
+      "author": null,
+      "description": "Intel has been a Wall Street darling this year due to its emergence as a player in AI, but the company is being weighed down by a struggling PC market.",
+      "link": "https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108477591-1793228651801-gettyimages-2278665792-AFP_B4P96JT.jpeg?v=1793228835&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "108482131",
+      "title": "Rivian third-quarter earnings beat estimates as software revenue, R2 deliveries rise",
+      "published": "2026-10-29T21:52:27+00:00",
+      "author": null,
+      "description": "Rivian also revised its 2026 guidance to mark expected improvements in its vehicle deliveries, pre-tax adjusted earnings and capital expenditures.",
+      "link": "https://www.cnbc.com/2026/10/29/rivian-rivn-earnings-q3-2026.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108297781-1777308295201-108297781-1777308210048-gettyimages-2272326273-BIZ-AUTO-RIVIAN-R2-ROADSHOW-TB.jpeg?v=1777308342&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/29/us/flavio-bolsonaro-miami-exile.html",
+      "title": "Why Miami Is a Destination for Latin America’s Political Exiles",
+      "published": "2026-10-29T21:36:23+00:00",
+      "author": "Francesca Regalado and Victor Mather",
+      "description": "The city’s Hispanic majority, news media reach and air links to Latin America have made it an ideal base for politicians escaping their home countries.",
+      "link": "https://www.nytimes.com/2026/10/29/us/flavio-bolsonaro-miami-exile.html",
+      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29xp-miami-fgjl/29xp-miami-fgjl-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/29/world/europe/spain-train-crash-renfe.html",
+      "title": "After Crash, Spain Asks if Its Train System Is Too Old and Prone to Human Error",
+      "published": "2026-10-29T21:32:39+00:00",
+      "author": "Jason Horowitz",
+      "description": "After the country’s second major rail disaster in a year, Spaniards were confronting questions about the safety of their once-vaunted rail system.",
+      "link": "https://www.nytimes.com/2026/10/29/world/europe/spain-train-crash-renfe.html",
+      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29int-spain-crash-01-cjqk/29int-spain-crash-01-cjqk-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no#1",
       "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
@@ -33,32 +117,18 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
-      "id": "108475144",
-      "title": "Amazon posts negative free cash flow of $42.4 billion, holds 2026 capex unchanged",
-      "published": "2026-10-29T21:22:01+00:00",
-      "author": null,
-      "description": "Amazon reported third-quarter earnings on Thursday after the bell.",
-      "link": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108217788-1761657947456-gettyimages-2201505685-ALEXA_AI_UNVEILING.jpeg?v=1770336524&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
+      "id": "https://timesofindia.indiatimes.com/world/us/growing-up-without-being-able-to-afford-halloween-costumes-texas-man-christophe-waggoner-began-octobers-child-in-2017-he-has-gifted-8000-costumes-to-families-and-plans-to-give-away-4000-in-2026/articleshow/135296088.cms",
+      "title": "Texas man Christophe Waggoner began October's Child in 2017; has gifted 8,000 Halloween costumes to families and plans to give away 4,000 in 2026",
+      "published": "2026-10-29T21:25:00+00:00",
+      "author": "TOI World Desk",
+      "description": "Christophe Waggoner established a charity called October's Child to provide Halloween costumes for children. He began the initiative after recalling his own childhood experiences with costumes. Over the years, the charity has grown significantly, distributing nearly 8,000 costumes to families in need. In the upcoming event, he plans to give away over 4,000 costumes for various age groups. Waggoner's efforts illustrate the positive impact of community support on childhood celebrations.",
+      "link": "https://timesofindia.indiatimes.com/world/us/growing-up-without-being-able-to-afford-halloween-costumes-texas-man-christophe-waggoner-began-octobers-child-in-2017-he-has-gifted-8000-costumes-to-families-and-plans-to-give-away-4000-in-2026/articleshow/135296088.cms",
+      "image": "https://static.toiimg.com/photo/msid-135296824,imgsize-1612533.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
       "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "108481172",
-      "title": "Amazon AWS posts 39% revenue growth as cloud rivals also accelerate",
-      "published": "2026-10-29T21:17:29+00:00",
-      "author": null,
-      "description": "Amazon's cloud signed deals with Meta and OpenAI during the quarter, helping revenue to exceed consensus.",
-      "link": "https://www.cnbc.com/2026/10/29/aws-q3-earnings-report-2026.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108293854-1776683960801-gettyimages-2272185412-3h4a2784_ulewp7vl.jpeg?v=1793304670&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
       "id": "https://www.nytimes.com/2026/10/29/world/americas/cuba-foreign-minister-trump.html",
@@ -89,20 +159,6 @@
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
-      "id": "108477479",
-      "title": "Intel stock plunges 16% as chipmaker blames PC slowdown for weak guidance",
-      "published": "2026-10-29T20:47:13+00:00",
-      "author": null,
-      "description": "Intel has been a Wall Street darling this year due to its emergence as a player in AI, but the company is being weighed down by a struggling PC market.",
-      "link": "https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108477591-1793228651801-gettyimages-2278665792-AFP_B4P96JT.jpeg?v=1793228835&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
       "id": "https://www.nytimes.com/2026/10/29/world/americas/machado-trump-venezuela-return.html",
       "title": "Venezuelan Opposition Leader Thanks Trump But Marks Distance from Washington",
       "published": "2026-10-29T20:43:42+00:00",
@@ -129,20 +185,6 @@
       "category": "World News",
       "feed_url": "https://www.reddit.com/r/worldnews/.rss",
       "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "108482131",
-      "title": "Rivian third-quarter earnings beat estimates as software revenue, R2 deliveries rise",
-      "published": "2026-10-29T20:35:04+00:00",
-      "author": null,
-      "description": "Rivian also revised its 2026 guidance to mark expected improvements in its vehicle deliveries, pre-tax adjusted earnings and capital expenditures.",
-      "link": "https://www.cnbc.com/2026/10/29/rivian-rivn-earnings-q3-2026.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108297781-1777308295201-108297781-1777308210048-gettyimages-2272326273-BIZ-AUTO-RIVIAN-R2-ROADSHOW-TB.jpeg?v=1777308342&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
       "id": "https://www.nytimes.com/2026/10/29/world/glass-skyscrapers-climate-patrick-stewart.html",
@@ -199,6 +241,20 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo#0",
+      "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+      "published": "2026-10-29T20:21:54+00:00",
+      "author": null,
+      "description": "The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election after his coalition lost its majority.",
+      "link": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/213a/live/ecf64a00-d3d3-11f1-9c32-1532a6164171.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/us/a-california-community-searched-nearly-20-years-for-a-permanent-place-to-gather-and-worship-after-raising-funds-and-beating-competing-offers-it-completed-a-16-5-million-cupertino-property-purchase-on-october-22/articleshow/135270044.cms",
@@ -395,34 +451,6 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/10/29/us/flavio-bolsonaro-miami-exile.html",
-      "title": "Why Miami Is a Destination for Latin America’s Political Exiles",
-      "published": "2026-10-29T19:13:09+00:00",
-      "author": "Francesca Regalado and Victor Mather",
-      "description": "The city’s Hispanic majority, news media reach and air links to Latin America have made it an ideal base for politicians escaping their home countries.",
-      "link": "https://www.nytimes.com/2026/10/29/us/flavio-bolsonaro-miami-exile.html",
-      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29xp-miami-fgjl/29xp-miami-fgjl-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/10/29/world/europe/spain-train-crash-renfe.html",
-      "title": "Spain Crash Investigators Focus on Train Traffic Controllers’ Role",
-      "published": "2026-10-29T19:10:07+00:00",
-      "author": "Jason Horowitz",
-      "description": "After the country’s second major rail disaster in a year, Spaniards were confronting questions about the safety of their once-vaunted rail system.",
-      "link": "https://www.nytimes.com/2026/10/29/world/europe/spain-train-crash-renfe.html",
-      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29int-spain-crash-01-cjqk/29int-spain-crash-01-cjqk-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "108478925",
@@ -13975,34 +14003,6 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/as-anthropic-files-for-ipo-a-look-at-its-mounting-losses-debt-12239381#publisher=newsstand",
-      "title": "As Anthropic Files For IPO, A Look At Its Mounting Losses, Debt",
-      "published": "2026-10-26T16:22:11+00:00",
-      "author": null,
-      "description": "Over the past three years, Anthropic's compute and infrastructure expenses have dwarfed its revenue.",
-      "link": "https://www.ndtv.com/world-news/as-anthropic-files-for-ipo-a-look-at-its-mounting-losses-debt-12239381#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-10/kkc7p9fo_anthropic-_625x300_21_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/us/six-americans-sue-donald-trump-over-white-house-restrictions-on-cnn-politico-and-other-journalists-arguing-the-bans-deny-ordinary-citizens-independent-news-even-after-a-judge-blocked-earlier-exclusions/articleshow/135215213.cms",
-      "title": "Six Americans sue Trump over WH press restrictions, citing public's right to independent news",
-      "published": "2026-10-26T16:10:01+00:00",
-      "author": "TOI World Desk",
-      "description": "In a groundbreaking case, six American citizens have launched a federal lawsuit against President Donald Trump, arguing that his measures restricting journalist access infringe upon the First Amendment. The diverse plaintiffs, comprising journalists, educators, and activists, contend that these selective exclusions compromise the integrity of government reporting. This pivotal case is currently awaiting resolution in the U.S. District Court for the Southern District of New York.",
-      "link": "https://timesofindia.indiatimes.com/world/us/six-americans-sue-donald-trump-over-white-house-restrictions-on-cnn-politico-and-other-journalists-arguing-the-bans-deny-ordinary-citizens-independent-news-even-after-a-judge-blocked-earlier-exclusions/articleshow/135215213.cms",
-      "image": "https://static.toiimg.com/photo/msid-135215345,imgsize-876559.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     }
   ]
 }
