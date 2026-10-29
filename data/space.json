@@ -1,16 +1,23 @@
 {
   "category": "space",
-  "updated": "2026-10-29T13:33:31.220172+00:00",
-  "count": 142,
-  "summary": {
-    "text": "• Space.com published stunning solar eclipse photos.\n• The images reveal a giant hole and mysterious 'smoke rings' in the sun's atmosphere.\n• Eclipse photography offers a unique view of processes in the sun's upper atmosphere.",
-    "generated_at": "2026-10-29T12:03:52.839447+00:00",
-    "window_minutes": 60,
-    "item_count": 1,
-    "key": "50c4e4e1067b097426e5b1557d83f8cf0fefea63",
-    "model": "anthropic/claude-haiku-5.5"
-  },
+  "updated": "2026-10-29T14:04:17.553200+00:00",
+  "count": 143,
+  "summary": null,
   "items": [
+    {
+      "id": "https://www.nasa.gov/?p=1060019",
+      "title": "Contractor to Civil Servant: NASA Welcomes Jared Spiers",
+      "published": "2026-10-29T13:27:34+00:00",
+      "author": "LaToya Dean",
+      "description": "Jared Spiers had an interest in contributing to NASA’s mission long before becoming a civil servant for the agency. Growing up close to NASA’s Stennis Space Center near Bay St. Louis, Mississippi, and hearing about his father’s work there, he gained a firsthand connection to the nation’s space program. Before graduating high school, he knew […]",
+      "link": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jared-spiers/",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/s26-012-jared-spiers.jpg?w=2048",
+      "feed_name": "NASA Breaking News",
+      "feed_title": "NASA",
+      "category": "space",
+      "feed_url": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.nasa.gov&sz=64"
+    },
     {
       "id": "GpWAynNmedUPFdvhRV3JWL",
       "title": "SpaceX fires up Starship upper stage ahead of landmark Flight 15 test launch (video)",
@@ -43,7 +50,7 @@
       "id": "https://www.theguardian.com/science/video/2026/oct/29/astronauts-step-out-of-the-iss-for-spacewalk-watch-live",
       "title": "Astronauts step out of the ISS for spacewalk – watch live",
       "published": "2026-10-29T10:37:14+00:00",
-      "author": "Guardian Staff",
+      "author": null,
       "description": "NASA astronaut Anil Menon and CSA (Canadian Space Agency) astronaut Joshua Kutryk perform spacewalk to install and deploy an International Space Station Roll-Out Solar Array (IROSA). Continue reading...",
       "link": "https://www.theguardian.com/science/video/2026/oct/29/astronauts-step-out-of-the-iss-for-spacewalk-watch-live",
       "image": "https://i.guim.co.uk/img/media/439f0eca835201f506c4afc9330abdfcc5b2d46e/0_0_4640_3712/master/4640.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2428a1af2c2f2d18007025d445604a3e",

@@ -1,16 +1,23 @@
 {
   "category": "technology",
-  "updated": "2026-10-29T13:33:31.220172+00:00",
+  "updated": "2026-10-29T14:04:17.553200+00:00",
   "count": 1000,
-  "summary": {
-    "text": "• DoorDash is acquiring Instacart in a deal valued at about $17 billion, giving it a bigger presence in online grocery delivery.\n• Tesla Robotaxi riders in Houston report long detours and pickup points the app will not accept, according to Business Insider.\n• The complaints come days after Tesla greatly expanded its Houston service.",
-    "generated_at": "2026-10-29T12:03:52.839447+00:00",
-    "window_minutes": 60,
-    "item_count": 2,
-    "key": "391461a698540c27c0b2cd50fb3825300b4e9a0b",
-    "model": "anthropic/claude-haiku-5.5"
-  },
+  "summary": null,
   "items": [
+    {
+      "id": "TheNextWeb=b182249652e21705da0d371a346adb6f",
+      "title": "DoorDash agrees to buy Instacart in a deal worth about $17bn",
+      "published": "2026-10-29T13:38:44+00:00",
+      "author": "Ana Maria Constantin",
+      "description": "DoorDash has agreed to buy grocery delivery rival Instacart in a cash-and-stock deal valuing the company at about $17bn. The acquisition would bring two of the biggest US delivery platforms under one roof, expanding DoorDash’s reach in grocery shopping. The companies announced the deal on Thursday. Instacart shareholders can choose $65 in cash per share, […] This story continues at The Next Web",
+      "link": "https://thenextweb.com/news/doordash-acquires-instacart-17-billion",
+      "image": "https://media.thenextweb.com/2026/10/doordash-courier-ebike-new-york-street-cropped.avif",
+      "feed_name": "The Next Web",
+      "feed_title": "The Next Web",
+      "category": "technology",
+      "feed_url": "https://thenextweb.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
     {
       "id": "https://www.theverge.com/?p=1021476",
       "title": "Anthropic’s business plan: Build God or die trying",
@@ -24,6 +31,20 @@
       "category": "technology",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
+    },
+    {
+      "id": "01KNTR5YNXKR66MYEAWE18M43A",
+      "title": "These Surprisingly Powerful Soundcore Earbuds Are Under $35 Right Now",
+      "published": "2026-10-29T13:30:00+00:00",
+      "author": "Pradershika Sharma",
+      "description": "These ANC earbuds pack a feature set that's uncommon at this price.",
+      "link": "https://lifehacker.com/tech/soundcore-p31i-earbuds-sale-october-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01KNTR5YNXKR66MYEAWE18M43A/hero-image.jpg",
+      "feed_name": "Lifehacker",
+      "feed_title": "Lifehacker",
+      "category": "technology",
+      "feed_url": "https://lifehacker.com/rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=lifehacker.com&sz=64"
     },
     {
       "id": "https://www.theverge.com/?p=1022013",
@@ -13982,34 +14003,6 @@
       "category": "technology",
       "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
       "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
-    },
-    {
-      "id": "5107940",
-      "title": "iOS 27 Cheat Sheet: Quickly Become an Expert on the New iPhone Update",
-      "published": "2026-10-23T11:00:00+00:00",
-      "author": "Zachary McAuliffe",
-      "description": "From new features to updates, here’s everything you should know about iOS 27.",
-      "link": "https://www.cnet.com/tech/services-and-software/ios-27-cheat-sheet/",
-      "image": "https://www.cnet.com/wp-content/uploads/sites/2/cnet-ios27-6.jpg",
-      "feed_name": "CNET News",
-      "feed_title": "News – CNET",
-      "category": "technology",
-      "feed_url": "https://www.cnet.com/rss/news/",
-      "feed_icon": "https://www.cnet.com/wp-content/uploads/sites/2/cropped-favicon-480.png?w=32"
-    },
-    {
-      "id": "https://science.slashdot.org/story/26/10/23/021237/physicists-trap-a-single-antimatter-particle-for-a-month?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "title": "Physicists Trap a Single Antimatter Particle For a Month",
-      "published": "2026-10-23T11:00:00+00:00",
-      "author": "BeauHD",
-      "description": "Physicists at Northwestern University have successfully trapped a single positron for an entire month, allowing researchers to study its quantum properties with unprecedented precision. \"Further investigations using the trap might reveal the secret of why the world around us is made of matter and not antimatter, when things could have presumably gone either way,\" reports Scientific American. From the report: Every normal particle of matter has an antimatter counterpart with equal mass but oppos…",
-      "link": "https://science.slashdot.org/story/26/10/23/021237/physicists-trap-a-single-antimatter-particle-for-a-month?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-      "feed_name": "Slashdot",
-      "feed_title": "Slashdot",
-      "category": "technology",
-      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
     }
   ]
 }

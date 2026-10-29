@@ -1,16 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-10-29T13:33:31.220172+00:00",
-  "count": 320,
-  "summary": {
-    "text": "• A MUO post says a Fire TV Stick was throttling itself until five settings were changed.\n• iPhones still can't turn off 2G, a feature the author envies in Android, and 2G is flagged as a potential security threat.\n• How-To Geek highlights three more Linux-exclusive apps that beat their Windows alternatives.\n• Cheap old flash drives still suit single-purpose jobs, which improved one writer's homelab.",
-    "generated_at": "2026-10-29T12:03:52.839447+00:00",
-    "window_minutes": 60,
-    "item_count": 4,
-    "key": "4751fe90e4c337b2e22f7e4ad4a1e5dc9deb3aad",
-    "model": "anthropic/claude-haiku-5.5"
-  },
+  "updated": "2026-10-29T14:04:17.553200+00:00",
+  "count": 322,
+  "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/android-privacy-settings-easy-fixes/",
+      "title": "Three Android settings I avoided for years turned out to be the easiest privacy fixes on my phone",
+      "published": "2026-10-29T14:00:16+00:00",
+      "author": "Tashreef Shareef",
+      "description": "Blocking Wi-Fi tracking and locking down theft protection took fewer taps than changing a theme.",
+      "link": "https://www.makeuseof.com/android-privacy-settings-easy-fixes/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/samsung-galaxy-security-and-privacy-settings-menu-on-smartphone-display.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/ways-a-raspberry-pi-can-cut-your-bills-this-weekend-starting-with-free-dvr-oct-30-nov-1/",
+      "title": "3 ways a Raspberry Pi can cut your bills this weekend, starting with free DVR (Oct 30 - Nov 1)",
+      "published": "2026-10-29T14:00:15+00:00",
+      "author": "Patrick Campanale",
+      "description": "Three small services that take over jobs you’re paying subscriptions for.",
+      "link": "https://www.howtogeek.com/ways-a-raspberry-pi-can-cut-your-bills-this-weekend-starting-with-free-dvr-oct-30-nov-1/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/raspberry-pi-3-model-b-palm-angled.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/netflix-hidden-sci-fi-movies-oxygen-save-yourselves-spectral/",
       "title": "Netflix is hiding 7 sci-fi movies that are much better than its blockbusters",

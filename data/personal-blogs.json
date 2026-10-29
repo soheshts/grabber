@@ -1,15 +1,8 @@
 {
   "category": "personal blogs",
-  "updated": "2026-10-29T13:33:31.220172+00:00",
-  "count": 423,
-  "summary": {
-    "text": "• A personal blog by Elizabeth Tai reports that China's first AI-made film, \"Sanxingdui,\" flopped with audiences.\n• Her take: the failure isn't because Chinese people are opposed to AI.",
-    "generated_at": "2026-10-29T12:03:52.839447+00:00",
-    "window_minutes": 60,
-    "item_count": 1,
-    "key": "f1390e13cad20982fda89641f8e14cc657b39fcd",
-    "model": "anthropic/claude-haiku-5.5"
-  },
+  "updated": "2026-10-29T14:04:17.553200+00:00",
+  "count": 424,
+  "summary": null,
   "items": [
     {
       "id": "http://elizabethtai.com/?p=21872",
@@ -38,6 +31,20 @@
       "category": "personal blogs",
       "feed_url": "http://feeds.feedburner.com/remysharp",
       "feed_icon": "https://remysharp.com/images/avatar-125.jpg"
+    },
+    {
+      "id": "https://www.tempertemper.net/blog/a-better-way-to-handle-select-behaviour",
+      "title": "A better way to handle select behaviour",
+      "published": "2026-10-29T00:00:00+00:00",
+      "author": "Martin Underhill",
+      "description": "Building your own select means lots of code and difficult decisions about behaviour. Good news though: there’s a new way that makes things much simpler!",
+      "link": "https://www.tempertemper.net/blog/a-better-way-to-handle-select-behaviour",
+      "image": "https://www.tempertemper.net/assets/img/summary.png",
+      "feed_name": "tempertemper",
+      "feed_title": "tempertemper",
+      "category": "personal blogs",
+      "feed_url": "https://www.tempertemper.net/feeds/main.xml",
+      "feed_icon": "https://www.tempertemper.net/assets/img/icons/favicon.png"
     },
     {
       "id": "https://ronaldsvilcins.com/2026/10/29/css-corner-shape-goes-beyond-rounded-corners/",
