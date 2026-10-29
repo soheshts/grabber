@@ -1,7 +1,7 @@
 {
   "category": "science",
-  "updated": "2026-10-29T01:33:25.688842+00:00",
-  "count": 693,
+  "updated": "2026-10-29T02:02:52.421728+00:00",
+  "count": 694,
   "summary": {
     "text": "• NASA's Artemis II mission flew past the Moon, and astronaut Reid Wiseman landed in California.\n• Wiseman, now a retired emeritus astronaut, will become deputy director of the Jet Propulsion Laboratory, NASA's main center for deep-space robotic missions.\n• A Phys.org report examines how the Indian Ocean influences Europe's early-winter rain and storms, a link not usually considered alongside Atlantic storms or cold northern air.",
     "generated_at": "2026-10-29T01:33:25.688842+00:00",
@@ -11,6 +11,20 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "news712393576",
+      "title": "Optimistic climate futures for local communities in the UK imagined in a new report",
+      "published": "2026-10-29T02:00:02+00:00",
+      "author": null,
+      "description": "A new report co-authored by researchers from the University of York and WWF highlights how local communities across the U.K. imagine positive, sustainable, and resilient futures for the places where they live and work.",
+      "link": "https://phys.org/news/2026-10-optimistic-climate-futures-local-communities.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/york-researchers-colla.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
     {
       "id": "https://www.nytimes.com/2026/10/28/science/space/reid-wiseman-artemis-ii-astronaut.html",
       "title": "After Flying Past the Moon, an Artemis II Astronaut Lands in California",
@@ -602,7 +616,7 @@
     {
       "id": "https://www.nytimes.com/2026/10/28/business/us-china-biotech-trade-ban.html",
       "title": "U.S. Restricts Trade With Chinese Genomics Company",
-      "published": "2026-10-28T17:38:31+00:00",
+      "published": "2026-10-28T17:38:32+00:00",
       "author": "Rebecca Robbins and Ana Swanson",
       "description": "The move will block shipments from BGI, a major Chinese firm that U.S. officials allege is associated with forced labor and the abuse of minority groups.",
       "link": "https://www.nytimes.com/2026/10/28/business/us-china-biotech-trade-ban.html",
