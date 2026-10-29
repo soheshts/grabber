@@ -1,9 +1,30 @@
 {
   "category": "travel",
-  "updated": "2026-10-29T08:03:54.573883+00:00",
+  "updated": "2026-10-29T08:32:12.027804+00:00",
   "count": 80,
-  "summary": null,
+  "summary": {
+    "text": "• An \"endless\" cruise that promised lifetime sailing around the world, for less than the cost of living on land, has been suspended.\n• Passengers have been left stranded by the suspension.\n• The cruise was underfunded and could not absorb rising fuel costs.",
+    "generated_at": "2026-10-29T08:32:12.027804+00:00",
+    "window_minutes": 60,
+    "item_count": 1,
+    "key": "286b2331270f217849fa6da27f34d69a1659afd2",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/10/28/travel/endless-cruise-suspended-villa-vie-passengers.html",
+      "title": "An ‘Endless’ Cruise Around the World Is Suspended, Leaving Passengers Stranded",
+      "published": "2026-10-29T08:22:48+00:00",
+      "author": "Ceylan Yeğinsu",
+      "description": "The cruise promised a lifetime of sailing, for less than what it cost to live on land. But it was underfunded and couldn’t absorb the rising cost of fuel.",
+      "link": "https://www.nytimes.com/2026/10/28/travel/endless-cruise-suspended-villa-vie-passengers.html",
+      "image": "https://static01.nyt.com/images/2026/10/28/realestate/28trav-cruise-canceled/28trav-cruise-canceled-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Travel",
+      "feed_title": "NYT > Travel",
+      "category": "travel",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "https://www.theguardian.com/travel/2026/oct/29/snowdonia-slate-trail-walk-north-wales",
       "title": "‘Looming stone towers like Maya temples’: a hike through Snowdonia’s slate country",
@@ -59,20 +80,6 @@
       "category": "travel",
       "feed_url": "https://www.atlasobscura.com/feeds/latest",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.atlasobscura.com&sz=64"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/10/28/travel/endless-cruise-suspended-villa-vie-passengers.html",
-      "title": "An ‘Endless’ Cruise Around the World Is Suspended, Leaving Passengers Stranded",
-      "published": "2026-10-28T19:20:53+00:00",
-      "author": "Ceylan Yeğinsu",
-      "description": "The cruise promised a lifetime of sailing, for less than what it cost to live on land. But it was underfunded and couldn’t absorb the rising cost of fuel.",
-      "link": "https://www.nytimes.com/2026/10/28/travel/endless-cruise-suspended-villa-vie-passengers.html",
-      "image": "https://static01.nyt.com/images/2026/10/28/realestate/28trav-cruise-canceled/28trav-cruise-canceled-mediumSquareAt3X.jpg",
-      "feed_name": "NYT > Travel",
-      "feed_title": "NYT > Travel",
-      "category": "travel",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://www.atlasobscura.com/places/arden-point-and-glenclyffe",

@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated": "2026-10-29T08:03:54.573883+00:00",
+  "updated": "2026-10-29T08:32:12.027804+00:00",
   "count": 1000,
   "summary": {
     "text": "• Kalshi and Polymarket US filed federal suits against Missouri and Louisiana on the same day the CFTC sued Utah. The cases bring the preemption fight into states with licensed sportsbooks and casinos.",
@@ -11,6 +11,20 @@
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "TheNextWeb=272d65442a09b5aed7bd7336d9fafd13",
+      "title": "Anthropic tells Governor Gavin Newsom courts should be able to block risky AI models",
+      "published": "2026-10-29T08:19:49+00:00",
+      "author": "Ana-Maria Stanciuc",
+      "description": "Anthropic has told California Governor Gavin Newsom that the state should be able to ask a court to block AI models that pose a serious risk. The AI company made the case in a letter first reported by Politico. The letter, dated 15 October, responds to an executive order Governor Gavin Newsom signed in September. The […] This story continues at The Next Web",
+      "link": "https://thenextweb.com/news/anthropic-newsom-letter-courts-block-ai-models",
+      "image": "https://media.thenextweb.com/2026/10/gavin-newsom-press-conference-podium-flags.avif",
+      "feed_name": "The Next Web",
+      "feed_title": "The Next Web",
+      "category": "technology",
+      "feed_url": "https://thenextweb.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
     {
       "id": "https://readwrite.com/?p=645427",
       "title": "Kalshi and Polymarket US sue Missouri and Louisiana as CFTC takes Utah to court",
@@ -13996,20 +14010,6 @@
       "category": "technology",
       "feed_url": "http://stratechery.com/feed/",
       "feed_icon": "https://i0.wp.com/stratechery.com/wp-content/uploads/2018/03/cropped-android-chrome-512x512-1.png?fit=32%2C32&ssl=1"
-    },
-    {
-      "id": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/294/cdn.twit.tv/cap/twit_1106/6f13c6bc-2078-4c73-a5b7-d32909292336.mp3",
-      "title": "TWiT 1106: The 10-Day Reply Guy - RAMageddon, HomeView, Ikigai, & the Flying Tesla Roadster",
-      "published": "2026-10-19T01:43:13+00:00",
-      "author": "TWiT",
-      "description": "Apple's long-delayed kitchen device and Tesla's flying car spectacle make this panel one you won't want to miss! Data center delays, AI-driven job shakeups, and real-time debates on the real winners in broadband show that the tech landscape isn't just shifting; it's being rebuilt in real time. The Tesla Roadster should go into production in 2028, but don't get your hopes up - Engadget Order to limit Starshield for Ukraine came from inside White House, sources say Microsoft Surface Laptop Ultra…",
-      "link": "https://twit.tv/shows/this-week-in-tech/episodes/1106",
-      "image": "https://elroy.twit.tv/sites/default/files/styles/twit_slideshow_400x300/public/images/episodes/2026/10/863421/hero/TWIT1106_thumbnail.jpg",
-      "feed_name": "This Week in Tech (Audio)",
-      "feed_title": "This Week in Tech (Audio)",
-      "category": "technology",
-      "feed_url": "https://feeds.twit.tv/twit.xml",
-      "feed_icon": "https://elroy.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/this_week_in_tech/album_art/audio/twit_2022albumart_standard_2048.jpg"
     }
   ]
 }

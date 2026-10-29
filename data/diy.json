@@ -1,9 +1,30 @@
 {
   "category": "DIY",
-  "updated": "2026-10-29T08:03:54.573883+00:00",
-  "count": 299,
-  "summary": null,
+  "updated": "2026-10-29T08:32:12.027804+00:00",
+  "count": 300,
+  "summary": {
+    "text": "• Hackaday highlights a magnetic lock project covered by IEEE Spectrum, written by Stephen Cass, describing a box that opens using a magnetic device.",
+    "generated_at": "2026-10-29T08:32:12.027804+00:00",
+    "window_minutes": 60,
+    "item_count": 1,
+    "key": "f08d8a5cbf88e89d9c68b3026bb68ec204d4a9ee",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "https://hackaday.com/?p=1396625",
+      "title": "Magnetic Lock Opens By Magic",
+      "published": "2026-10-29T08:00:39+00:00",
+      "author": "Al Williams",
+      "description": "Over on IEEE Spectrum, [Stephen Cass] has a project that would probably have seemed like a magic a few centuries ago. Imagine a box that uses a magnetic device to …read more",
+      "link": "https://hackaday.com/2026/10/29/magnetic-lock-opens-by-magic/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/10/hall.png",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://hackaday.com/?p=1396595",
       "title": "2026 Retrocomputing Challenge: Custom RISC-V Processor For Retro System",
