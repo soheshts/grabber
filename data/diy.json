@@ -1,9 +1,51 @@
 {
   "category": "DIY",
-  "updated": "2026-10-29T19:32:41.271600+00:00",
-  "count": 352,
+  "updated": "2026-10-29T20:03:51.501180+00:00",
+  "count": 355,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/browser-writing-more-ssd-than-windows/",
+      "title": "Your browser might be writing more to your SSD than Windows ever will",
+      "published": "2026-10-29T20:00:16+00:00",
+      "author": "Yadullah Abidi",
+      "description": "You closed the tab. Your SSD is still doing the paperwork.",
+      "link": "https://www.makeuseof.com/browser-writing-more-ssd-than-windows/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/05/a-laptop-with-zen-browser-open.jpeg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/these-3-windows-utilities-can-tame-a-desktop-thats-messy-beyond-belief/",
+      "title": "These 3 free Microsoft apps will completely declutter your Windows PC",
+      "published": "2026-10-29T20:00:15+00:00",
+      "author": "Arol Wright",
+      "description": "No need to fight alone.",
+      "link": "https://www.howtogeek.com/these-3-windows-utilities-can-tame-a-desktop-thats-messy-beyond-belief/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/lenovo-yoga-9i-oled-display.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/mistral-large-4-weights-released/",
+      "title": "Mistral is taking on U.S. and Chinese AI giants with its biggest model yet",
+      "published": "2026-10-29T19:36:10+00:00",
+      "author": "Jefferson Mangubat",
+      "description": "Meet ‘Le Chonk’",
+      "link": "https://www.howtogeek.com/mistral-large-4-weights-released/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/09/untitled-1.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/why-windows-has-two-program-files-folders/",
       "title": "Why 64-bit Windows needs two Program Files folders",
