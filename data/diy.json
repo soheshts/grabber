@@ -1,9 +1,51 @@
 {
   "category": "DIY",
-  "updated": "2026-10-29T14:04:17.553200+00:00",
-  "count": 322,
+  "updated": "2026-10-29T14:33:45.716861+00:00",
+  "count": 325,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/my-next-wi-fi-upgrade-wont-need-a-power-outlet/",
+      "title": "My next Wi-Fi upgrade won't need a power outlet",
+      "published": "2026-10-29T14:30:17+00:00",
+      "author": "Gregory Gibson",
+      "description": "My security cameras already showed me why I want power and data traveling down the same cable",
+      "link": "https://www.makeuseof.com/my-next-wi-fi-upgrade-wont-need-a-power-outlet/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/poe-injector-ethernet.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/these-chrome-settings-are-why-your-browser-is-hogging-ram/",
+      "title": "5 simple Chrome settings to fix the browser's worst memory hogs",
+      "published": "2026-10-29T14:30:16+00:00",
+      "author": "Diana Todea",
+      "description": "Find what's quitely eating up your RAM",
+      "link": "https://www.howtogeek.com/these-chrome-settings-are-why-your-browser-is-hogging-ram/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/chrome-ram-usage-on-laptop-1.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://hackaday.com/?p=1396612",
+      "title": "Exploring What’s Left of Google’s VR Dreams",
+      "published": "2026-10-29T14:00:45+00:00",
+      "author": "Tom Nardi",
+      "description": "You’re likely familiar with Google’s Cardboard, and the legions of cheap virtual reality headsets it spawned. By sticking a smartphone to the wearer’s head, all these headsets needed were some …read more",
+      "link": "https://hackaday.com/2026/10/29/exploring-whats-left-of-googles-vr-dreams/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/10/daydream_feat_bright.png",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/android-privacy-settings-easy-fixes/",
       "title": "Three Android settings I avoided for years turned out to be the easiest privacy fixes on my phone",

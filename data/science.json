@@ -1,9 +1,37 @@
 {
   "category": "science",
-  "updated": "2026-10-29T14:04:17.553200+00:00",
-  "count": 744,
+  "updated": "2026-10-29T14:33:45.716861+00:00",
+  "count": 747,
   "summary": null,
   "items": [
+    {
+      "id": "news712483323",
+      "title": "New fossil scans challenge insect flight timeline, suggesting origins up to 80 million years later",
+      "published": "2026-10-29T14:20:18+00:00",
+      "author": null,
+      "description": "A tiny fossil discovered exactly a century ago has caused an enormous change in our understanding of when flying insects first appeared on Earth.",
+      "link": "https://phys.org/news/2026-10-fossil-scans-insect-flight-timeline.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/flying-insects-are-80.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "news712479738",
+      "title": "New mathematical method improves calculations for systems limited by their smallest input",
+      "published": "2026-10-29T14:20:07+00:00",
+      "author": null,
+      "description": "A harmonic increment provides a new way to improve smooth approximations of the minimum function. In a recent paper, published in the Journal of Inequalities and Applications, Prof. Thomas A. Weber shows how a harmonic-increment transformation brings any smooth estimate that lies strictly below the minimum closer to it, while keeping the improved estimate below the minimum, so it remains a conservative estimate of a worst realization, or weakest link.",
+      "link": "https://phys.org/news/2026-10-mathematical-method-limited-smallest.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/production-line.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
     {
       "id": "news712397762",
       "title": "Museum specimens reveal shrinking flying foxes in Madagascar, with commercial hunting suspected",
@@ -17,6 +45,20 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/29/science/fop-bones-drugs.html",
+      "title": "These Patients Struggle With Runaway Bones. Finally There’s Hope.",
+      "published": "2026-10-29T14:00:05+00:00",
+      "author": "Stella Raine Chu",
+      "description": "F.O.P., a rare genetic condition, causes uncontrolled explosions of bone. A new drug may slow or halt the process.",
+      "link": "https://www.nytimes.com/2026/10/29/science/fop-bones-drugs.html",
+      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29SCI-FOP-kcwm/29SCI-FOP-kcwm-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Science",
+      "feed_title": "NYT > Science",
+      "category": "science",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "news712479141",
