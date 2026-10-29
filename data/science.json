@@ -1,9 +1,58 @@
 {
   "category": "science",
-  "updated": "2026-10-29T03:33:30.767128+00:00",
-  "count": 694,
-  "summary": null,
+  "updated": "2026-10-29T04:03:40.356977+00:00",
+  "count": 698,
+  "summary": {
+    "text": "• Blood pressure: Researchers found a small group of brain cells that prevents dangerous blood pressure swings, even when average readings look normal, revealing a hidden cardiovascular risk factor.\n• Laser physics: Scientists generated X-rays with far higher energies than conventional theory predicts, breaking a long-standing rule; the discovery shows how two electrons work together.\n• Meteors: Seven stages of meteor entry were identified, with melting and violent fragmentation, not simple evaporation, determining how space rocks break apart.",
+    "generated_at": "2026-10-29T04:03:40.356977+00:00",
+    "window_minutes": 60,
+    "item_count": 3,
+    "key": "bf37cadefc67b79f270352ca9a65ed482abd8f5a",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "https://www.sciencedaily.com/releases/2026/10/261027063814.htm",
+      "title": "Your blood pressure could be dangerous even when your numbers look normal",
+      "published": "2026-10-29T03:54:37+00:00",
+      "author": null,
+      "description": "Researchers have discovered a small group of brain cells that prevents dangerous blood pressure swings, even when average readings appear normal. The finding reveals a hidden source of cardiovascular risk and could open the door to new treatments that protect the heart and brain.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261027063814.htm",
+      "image": "https://www.sciencedaily.com/images/1920/blood-pressure-measurement-heart-cardiology.webp",
+      "feed_name": "Latest Science News -- ScienceDaily",
+      "feed_title": "Latest Science News -- ScienceDaily",
+      "category": "science",
+      "feed_url": "https://www.sciencedaily.com/rss/all.xml",
+      "feed_icon": "https://www.sciencedaily.com/images/scidaily-logo-rss.png"
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2026/10/261027063713.htm",
+      "title": "Scientists just broke a textbook rule of physics",
+      "published": "2026-10-29T03:39:27+00:00",
+      "author": null,
+      "description": "Scientists have defied a long-standing rule of laser physics by generating X-rays with much higher energies than conventional theory predicts. The surprising discovery reveals how two electrons working together can overcome a previously accepted limit, opening new possibilities for quantum research.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261027063713.htm",
+      "image": "https://www.sciencedaily.com/images/1920/physics-discovery-breaking-textbook-rule.webp",
+      "feed_name": "Latest Science News -- ScienceDaily",
+      "feed_title": "Latest Science News -- ScienceDaily",
+      "category": "science",
+      "feed_url": "https://www.sciencedaily.com/rss/all.xml",
+      "feed_icon": "https://www.sciencedaily.com/images/scidaily-logo-rss.png"
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2026/10/261027063710.htm",
+      "title": "Meteors don't just burn up. What really happens is far more violent",
+      "published": "2026-10-29T03:06:41+00:00",
+      "author": null,
+      "description": "Scientists have uncovered seven surprising stages that space rocks go through as they hurtle toward Earth, revealing that melting and violent fragmentation, rather than simple evaporation, determine their fate. The discovery could help explain why meteorites scatter across the ground and how dangerous asteroids explode in Earth's atmosphere.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261027063710.htm",
+      "image": "https://www.sciencedaily.com/images/1920/stony-meteorite-in-nasa-ames-research-centers-arcjet-interaction-heating-facility.webp",
+      "feed_name": "Latest Science News -- ScienceDaily",
+      "feed_title": "Latest Science News -- ScienceDaily",
+      "category": "science",
+      "feed_url": "https://www.sciencedaily.com/rss/all.xml",
+      "feed_icon": "https://www.sciencedaily.com/images/scidaily-logo-rss.png"
+    },
     {
       "id": "news712393576",
       "title": "Optimistic climate futures for local communities in the UK imagined in a new report",
@@ -31,6 +80,20 @@
       "category": "science",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2026/10/261027063702.htm",
+      "title": "Scientists discover a hidden oxygen reservoir deep inside Earth",
+      "published": "2026-10-29T01:13:05+00:00",
+      "author": null,
+      "description": "Scientists have discovered that magma deep inside Earth can store surprising amounts of extra oxygen, potentially revealing a hidden contributor to our planet's oxygen-rich atmosphere. The findings suggest that ancient volcanic eruptions may have helped transform Earth's atmosphere billions of years ago, with implications for understanding life on other planets.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261027063702.htm",
+      "image": "https://www.sciencedaily.com/images/1920/magma-inside-planet-earth.webp",
+      "feed_name": "Latest Science News -- ScienceDaily",
+      "feed_title": "Latest Science News -- ScienceDaily",
+      "category": "science",
+      "feed_url": "https://www.sciencedaily.com/rss/all.xml",
+      "feed_icon": "https://www.sciencedaily.com/images/scidaily-logo-rss.png"
     },
     {
       "id": "news712411997",

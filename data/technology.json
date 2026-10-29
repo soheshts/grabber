@@ -1,13 +1,13 @@
 {
   "category": "technology",
-  "updated": "2026-10-29T03:33:30.767128+00:00",
+  "updated": "2026-10-29T04:03:40.356977+00:00",
   "count": 1000,
   "summary": {
-    "text": "• Google is partnering with Singapore to bring frontier AI to public health, according to a Keyword blog post.\n• The only item available is a photo caption of an elderly woman having her blood pressure taken by a healthcare worker; no further details are provided.",
-    "generated_at": "2026-10-29T03:33:30.767128+00:00",
+    "text": "• The Keyword reports a partnership with Singapore to bring frontier AI to public health, illustrated with a healthcare worker taking an elderly patient's blood pressure.\n• Bank of America emailed customers titled \"Protecting your finances in the AI World,\" urging them never to share their passwords with AI assistants, according to a TechCrunch report covered by Slashdot.",
+    "generated_at": "2026-10-29T04:03:40.356977+00:00",
     "window_minutes": 60,
-    "item_count": 1,
-    "key": "5e9696a6734c88f87bc42e6d2e5ba928880aa310",
+    "item_count": 2,
+    "key": "e8c086a83f0e3ca72604ffd2e7601202c2194805",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
@@ -24,6 +24,20 @@
       "category": "technology",
       "feed_url": "https://www.blog.google/rss/",
       "feed_icon": "https://blog.google/static/blogv2/images/google.png"
+    },
+    {
+      "id": "https://yro.slashdot.org/story/26/10/28/2247205/bank-of-america-kindly-asks-that-you-dont-share-your-password-with-your-ai-assistant?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "title": "Bank of America Kindly Asks That You Don't Share Your Password With Your AI Assistant",
+      "published": "2026-10-29T03:30:00+00:00",
+      "author": "BeauHD",
+      "description": "Longtime Slashdot reader schwit1 shares a report from TechCrunch: In an email blast to customers titled \"Protecting your finances in the Al World,\" Bank of America urged customers to never share their username and password with another person or an outside service, \"including an Al-enabled tool or agent that offers to act on your behalf.\" [...] A spokesperson for Bank of America confirmed the authenticity of the bank's email that was posted to social media. But heed the bank's warning, for if t…",
+      "link": "https://yro.slashdot.org/story/26/10/28/2247205/bank-of-america-kindly-asks-that-you-dont-share-your-password-with-your-ai-assistant?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+      "feed_name": "Slashdot",
+      "feed_title": "Slashdot",
+      "category": "technology",
+      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
     },
     {
       "id": "https://www.theverge.com/?p=1021554",
@@ -13996,20 +14010,6 @@
       "category": "technology",
       "feed_url": "https://www.cnet.com/rss/news/",
       "feed_icon": "https://www.cnet.com/wp-content/uploads/sites/2/cropped-favicon-480.png?w=32"
-    },
-    {
-      "id": "https://readwrite.com/?p=639009",
-      "title": "Kalshi’s Sports Contracts Face Nevada Licensing Challenge",
-      "published": "2026-10-16T19:00:00+00:00",
-      "author": "ReadWrite",
-      "description": "Kalshi sports contracts face scrutiny as Nevada and tribal regulators dispute swap treatment, licensing and gaming oversight for prediction markets. The post Kalshi’s Sports Contracts Face Nevada Licensing Challenge appeared first on ReadWrite .",
-      "link": "https://readwrite.com/kalshi-sports-contracts-licensing/",
-      "image": "https://readwrite.com/wp-content/uploads/2026/10/kalshis-sports-contracts-face-nevada-licensing-challenge-900x600.webp",
-      "feed_name": "ReadWrite",
-      "feed_title": "ReadWrite",
-      "category": "technology",
-      "feed_url": "https://readwrite.com/feed/",
-      "feed_icon": "https://readwrite.com/wp-content/uploads/2024/10/cropped-readwrite-favicon-32x32.png"
     }
   ]
 }

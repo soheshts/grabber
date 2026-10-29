@@ -1,9 +1,44 @@
 {
   "category": "gaming",
-  "updated": "2026-10-29T03:33:30.767128+00:00",
-  "count": 751,
-  "summary": null,
+  "updated": "2026-10-29T04:03:40.356977+00:00",
+  "count": 753,
+  "summary": {
+    "text": "• Polygon marks nine years since Stranger Things season 2 premiered, arguing it was nearly as good as season 1 thanks to strong new characters.\n• Polygon has ranked the contenders for Game of the Year at The Game Awards 2026.\n• Resident Evil Requiem and Grand Theft Auto 6 are among the titles included in the ranking and predictions.",
+    "generated_at": "2026-10-29T04:03:40.356977+00:00",
+    "window_minutes": 60,
+    "item_count": 2,
+    "key": "3642745b23e3c19c61ed239ac9af9ce7fec2ba08",
+    "model": "anthropic/claude-haiku-5.5"
+  },
   "items": [
+    {
+      "id": "https://www.polygon.com/9-years-ago-season-2-of-this-sci-fi-series-proved-the-first-season-wasnt-a-fluke/",
+      "title": "9 Years Ago, Netflix Released a Rare Sci-Fi Sequel Even Better Than the Original",
+      "published": "2026-10-29T04:00:18+00:00",
+      "author": "Brian VanHooker",
+      "description": "Season 2 of Stranger Things premiered nine years ago, which proved to be nearly as good as season 1 thanks to some great new characters",
+      "link": "https://www.polygon.com/9-years-ago-season-2-of-this-sci-fi-series-proved-the-first-season-wasnt-a-fluke/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/aaaaqybuvbspm0usrnmzelpdizqminuzokjmqivtluzb0b6p0nbo5smgxrtpzzkfruwrrfgpbhksnqelnt_jhf-e7kiynhqpdgrk7yefvzr9mqzde_z9xy37x-gx8nlk2teftzsyf3ya0j5q6n8xedpcofap.jpg",
+      "feed_name": "Polygon -  All",
+      "feed_title": "Polygon.com",
+      "category": "gaming",
+      "feed_url": "https://www.polygon.com/rss/index.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.polygon.com&sz=64"
+    },
+    {
+      "id": "https://www.polygon.com/game-of-the-year-goty-game-awards-2026-frontrunners/",
+      "title": "Game Awards 2026: All Game of the Year Front-Runners and Predictions",
+      "published": "2026-10-29T03:40:06+00:00",
+      "author": "Oli Welsh",
+      "description": "We rank the contenders for GOTY 2026 at TGAs, including Resident Evil Requiem and Grand Theft Auto 6",
+      "link": "https://www.polygon.com/game-of-the-year-goty-game-awards-2026-frontrunners/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/phantom-blade-zero.jpg",
+      "feed_name": "Polygon -  All",
+      "feed_title": "Polygon.com",
+      "category": "gaming",
+      "feed_url": "https://www.polygon.com/rss/index.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.polygon.com&sz=64"
+    },
     {
       "id": "https://www.polygon.com/slow-horses-season-7-release-date-plot/",
       "title": "'Slow Horses' Season 7 Confirmed? Release Date, Plot, and Everything You Need to Know",
