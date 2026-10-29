@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-10-29T17:03:48.956715+00:00",
-  "count": 339,
+  "updated": "2026-10-29T17:33:16.980532+00:00",
+  "count": 342,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/gpu-passthrough-to-virtual-machine-is-easy-makes-setting-up-a-retro-gaming-vm-seamless/",
+      "title": "GPU passthrough to your virtual machine is easy, and makes setting up a retro gaming VM seamless",
+      "published": "2026-10-29T17:30:17+00:00",
+      "author": "Dipan Saha",
+      "description": "Make a GPU-accelerated gaming VM in minutes.",
+      "link": "https://www.makeuseof.com/gpu-passthrough-to-virtual-machine-is-easy-makes-setting-up-a-retro-gaming-vm-seamless/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/07/asus-tuf-gaming-geforce-rtx-3090-graphics-card-installed-in-the-hp-z6-g4-case.jpeg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/ways-youve-consented-to-ai-data-scraping-without-realizing-it/",
+      "title": "5 ways you've consented to AI data scraping without realizing it",
+      "published": "2026-10-29T17:30:16+00:00",
+      "author": "Adam Davidson",
+      "description": "Your personal data is getting into a scrape.",
+      "link": "https://www.howtogeek.com/ways-youve-consented-to-ai-data-scraping-without-realizing-it/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/oneplus-open-24.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/best-ai-features-android-phone/",
       "title": "I don't want AI on my phone, but these 4 Android features I can't give up",
@@ -31,6 +59,20 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://hackaday.com/?p=1396772",
+      "title": "2026 Hackaday Supercon: All the Speakers!",
+      "published": "2026-10-29T17:00:13+00:00",
+      "author": "Elliot Williams",
+      "description": "We announced our first round of speakers, and then the workshops, and we were going to dribble out updates on the rest of the speakers as they came in, but …read more",
+      "link": "https://hackaday.com/2026/10/29/2026-hackaday-supercon-all-the-speakers/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/09/supercon-x-wide.png",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
     },
     {
       "id": "https://www.makeuseof.com/ring-smart-lock-fixes-problem/",

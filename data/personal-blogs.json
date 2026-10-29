@@ -1,9 +1,23 @@
 {
   "category": "personal blogs",
-  "updated": "2026-10-29T17:03:48.956715+00:00",
-  "count": 426,
+  "updated": "2026-10-29T17:33:16.980532+00:00",
+  "count": 428,
   "summary": null,
   "items": [
+    {
+      "id": "https://blog.jim-nielsen.com/2026/celebrating-sim-cards/",
+      "title": "Celebrating SIM Cards",
+      "published": "2026-10-29T19:00:00+00:00",
+      "author": null,
+      "description": "It’s time to celebrate a little win. The other day, my mom contacted me saying her 10-year-old iPhone wouldn’t turn on. After getting a hold of the device and doing some family IT support, I concluded the battery was dead. So I bought her a new (old) one on Walmart (SE 3rd gen., if you must know). Her old phone used a SIM card, so I was expecting the process to go something like this: Take the SIM out of the old phone Put it in the new phone Setup the device Troubleshoot why there was no servic…",
+      "link": "https://blog.jim-nielsen.com/2026/celebrating-sim-cards/",
+      "image": null,
+      "feed_name": "Jim Nielsen’s Blog",
+      "feed_title": "Jim Nielsen’s Blog",
+      "category": "personal blogs",
+      "feed_url": "https://blog.jim-nielsen.com/feed.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=blog.jim-nielsen.com&sz=64"
+    },
     {
       "id": "https://zeldman.com/?p=21330",
       "title": "The Day the Focus Died",
@@ -73,6 +87,20 @@
       "category": "personal blogs",
       "feed_url": "https://www.tempertemper.net/feeds/main.xml",
       "feed_icon": "https://www.tempertemper.net/assets/img/icons/favicon.png"
+    },
+    {
+      "id": "https://meiert.com/blog/catastrophic-ai/",
+      "title": "Whether AI Will Be Catastrophic for Software Development Depends on Maintenance—and a Decision",
+      "published": "2026-10-28T23:00:00+00:00",
+      "author": null,
+      "description": "Maintenance and intent play the decisive role in how AI will impact software development.",
+      "link": "https://meiert.com/blog/catastrophic-ai/",
+      "image": "https://d3rdtowr0c5lpf.cloudfront.net/media/social.png",
+      "feed_name": "Blog (Web Development, Mostly) · Jens Oliver Meiert",
+      "feed_title": "Jens Oliver Meiert · Code Optimization, Digital Defense, World Models",
+      "category": "personal blogs",
+      "feed_url": "https://meiert.com/en/feed/",
+      "feed_icon": "https://meiert.com/media/social.png"
     },
     {
       "id": "https://ronaldsvilcins.com/2026/10/29/css-corner-shape-goes-beyond-rounded-corners/",
