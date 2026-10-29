@@ -1,16 +1,58 @@
 {
   "category": "World News",
-  "updated": "2026-10-29T06:03:15.978335+00:00",
+  "updated": "2026-10-29T06:33:16.497123+00:00",
   "count": 1000,
   "summary": {
-    "text": "• Brazil: Flávio Bolsonaro, who lost Sunday's election, fled to Miami after police canceled his passport in an investigation; he vows to lead the opposition from abroad.\n• Mexico: Cuauhtémoc Cárdenas, who helped end one-party rule, died at 92.\n• Israel: Neither Netanyahu nor Eisenkot won a majority, so both may try to form a government.\n• Australia: PM faces repeated questions over a golf club grant; gas reservation vote today.\n• US: Judge Alvin Hellerstein, who handled the Maduro trial, died at 92.",
-    "generated_at": "2026-10-29T06:03:15.978335+00:00",
+    "text": "• Flávio Bolsonaro landed in Miami after fleeing Brazil via Argentina, following his loss in Sunday's presidential election and police cancelling his passport in an investigation.\n• Mexico mourns Cuauhtémoc Cárdenas, the only son of a Mexican president, who helped end one-party rule and died at 92.\n• Amnesty alleges Cambodian police and soldiers worked as guards at abusive scam compounds, where survivors say they faced electric shocks and beatings.\n• Indian media groups owned by two billionaires close to Prime Minister Modi oppose an upcoming privacy law, saying it could make investigative reporting nearly impossible.",
+    "generated_at": "2026-10-29T06:33:16.497123+00:00",
     "window_minutes": 60,
-    "item_count": 11,
-    "key": "45f088f9c52395e288d25c9c013593747690d0fc",
+    "item_count": 9,
+    "key": "f6b6043eebedc1a5a327e83b33045846147ec56e",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.theguardian.com/australia-news/live/2026/oct/29/labor-treasurer-jim-chalmers-social-media-anthony-albanese-coalition-one-nation-ntwnfb",
+      "title": "Australia news live: Lambie scolded by ADF chief over hidden recording device revelations; woman dies after drive-by shooting",
+      "published": "2026-10-29T06:18:13+00:00",
+      "author": "Achol Arok (now) and Kat Wong (earlier)",
+      "description": "Get our breaking news email , free app or daily news podcast Gas reservation policy set for lower house vote today Australia’s domestic gas reservation is set to be debated and voted on in the lower house today. Rather than international base companies, determining through algorithms what Australians receive, it empowers people themselves to determine what you receive on your devices, so that you should have that control. This isn’t about government having a greater role. It’s about people havi…",
+      "link": "https://www.theguardian.com/australia-news/live/2026/oct/29/labor-treasurer-jim-chalmers-social-media-anthony-albanese-coalition-one-nation-ntwnfb",
+      "image": "https://i.guim.co.uk/img/media/cefd634801ed20a2fd859adc3450e51aa4b71a77/642_0_6340_5072/master/6340.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=6527b4cbe95feb16cf6d2e6e03b7c76e",
+      "feed_name": "The Guardian",
+      "feed_title": "World news | The Guardian",
+      "category": "World News",
+      "feed_url": "https://www.theguardian.com/world/rss",
+      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/29/world/asia/india-media-privacy-law.html",
+      "title": "India’s Media Giants Join Fight Against Upcoming Privacy Law",
+      "published": "2026-10-29T06:10:53+00:00",
+      "author": "Pragati K.B.",
+      "description": "News organizations owned by two billionaires close to Prime Minister Narendra Modi say the legislation could make investigative reporting nearly impossible.",
+      "link": "https://www.nytimes.com/2026/10/29/world/asia/india-media-privacy-law.html",
+      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/00biz-india-media-fhqb/00biz-india-media-fhqb-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "t3_1xic0ru",
+      "title": "Over 600 drones targeted Moscow and surrounding area",
+      "published": "2026-10-29T06:05:06+00:00",
+      "author": "/u/pravda_eng_official",
+      "description": "submitted by /u/pravda_eng_official [link] [comments]",
+      "link": "https://www.reddit.com/r/worldnews/comments/1xic0ru/over_600_drones_targeted_moscow_and_surrounding/",
+      "image": "https://external-preview.redd.it/5FZq6QDYHGSwJO_GrAgJyebV6nOIx4ZgtUKrXJi8ZP8.jpeg?width=640&crop=smart&auto=webp&s=e0e9b7a66b80d8a3d601035f9763703d352c2c3e",
+      "feed_name": "World News",
+      "feed_title": "World News",
+      "category": "World News",
+      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
+      "feed_icon": "https://www.redditstatic.com/icon.png/"
+    },
     {
       "id": "https://www.nytimes.com/2026/10/28/world/americas/flavio-bolsonaro-us-miami-brazil-trump.html",
       "title": "Flávio Bolsonaro Lands in Miami After Fleeing Brazil",
@@ -26,6 +68,20 @@
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
+      "id": "https://www.theguardian.com/world/2026/oct/29/cambodian-police-scam-compounds-amnesty-international",
+      "title": "Cambodian police and soldiers helped guard abusive scam compounds, Amnesty alleges",
+      "published": "2026-10-29T06:00:26+00:00",
+      "author": "Oliver Holmes in Bangkok",
+      "description": "Survivors tell rights group that serving officers who worked as guards administered electric shocks and beatings Cambodian police and military officers worked as private security guards in scam compounds where thousands were forced to work in the online fraud industry, according to a report by Amnesty International. The global rights group alleged they worked for security companies as part of a system that enabled slavery and rape in the compounds, with some guards using electric batons to keep…",
+      "link": "https://www.theguardian.com/world/2026/oct/29/cambodian-police-scam-compounds-amnesty-international",
+      "image": "https://i.guim.co.uk/img/media/580dc11491b09def5d70dc56cd225158295a3560/1017_0_7212_5773/master/7212.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=880e62f38d39c5ab71bceaf10d8d2044",
+      "feed_name": "The Guardian",
+      "feed_title": "World news | The Guardian",
+      "category": "World News",
+      "feed_url": "https://www.theguardian.com/world/rss",
+      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
+    {
       "id": "https://www.nytimes.com/2026/10/28/world/americas/cuauhtemoc-cardenas-dead.html",
       "title": "Cuauhtémoc Cárdenas, Who Helped End One-Party Rule in Mexico, Dies at 92",
       "published": "2026-10-29T05:58:42+00:00",
@@ -38,20 +94,6 @@
       "category": "World News",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "https://www.theguardian.com/australia-news/live/2026/oct/29/labor-treasurer-jim-chalmers-social-media-anthony-albanese-coalition-one-nation-ntwnfb",
-      "title": "Australian politics live: PM grilled over golf club grant again as five ejected from question time; woman dies after drive-by shooting",
-      "published": "2026-10-29T05:41:39+00:00",
-      "author": "Achol Arok (now) and Kat Wong (earlier)",
-      "description": "Get our breaking news email , free app or daily news podcast Gas reservation policy set for lower house vote today Australia’s domestic gas reservation is set to be debated and voted on in the lower house today. Rather than international base companies, determining through algorithms what Australians receive, it empowers people themselves to determine what you receive on your devices, so that you should have that control. This isn’t about government having a greater role. It’s about people havi…",
-      "link": "https://www.theguardian.com/australia-news/live/2026/oct/29/labor-treasurer-jim-chalmers-social-media-anthony-albanese-coalition-one-nation-ntwnfb",
-      "image": "https://i.guim.co.uk/img/media/cefd634801ed20a2fd859adc3450e51aa4b71a77/642_0_6340_5072/master/6340.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=6527b4cbe95feb16cf6d2e6e03b7c76e",
-      "feed_name": "The Guardian",
-      "feed_title": "World news | The Guardian",
-      "category": "World News",
-      "feed_url": "https://www.theguardian.com/world/rss",
-      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
     },
     {
       "id": "https://www.theguardian.com/australia-news/2026/oct/29/defence-official-senate-estimates-social-media-public-servants-bullying-ntwnfb",
@@ -13968,48 +14010,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "t3_1xfi8n1",
-      "title": "In a historic turnaround, Lula is re-elected and will govern Brazil for a fourth time",
-      "published": "2026-10-26T00:19:27+00:00",
-      "author": "/u/elderfernandes",
-      "description": "submitted by /u/elderfernandes [link] [comments]",
-      "link": "https://www.reddit.com/r/worldnews/comments/1xfi8n1/in_a_historic_turnaround_lula_is_reelected_and/",
-      "image": "https://external-preview.redd.it/56Flnpb23daJyOxlf-gQXwtfPDcFr4rsLsuC7clGrqQ.jpeg?width=320&crop=smart&auto=webp&s=7d817ef3b267728014907e494e1bcd9ee9b6139c",
-      "feed_name": "World News",
-      "feed_title": "World News",
-      "category": "World News",
-      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
-      "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election",
-      "title": "Lula wins historic fourth term as Brazilian president in defeat of far-right Flávio Bolsonaro",
-      "published": "2026-10-26T00:19:05+00:00",
-      "author": "Tom Phillips in São Paulo and Tiago Rogero in Brasília",
-      "description": "Leftist incumbent Lula says unprecedented comeback was a ‘defeat for denialism’ as Bolsonaro refuses to accept election result Lula wins election in stunning comeback – live updates Luiz Inácio Lula da Silva , the Brazilian president, has staged a dramatic election fightback , defeating his far-right opponent, Flávio Bolsonaro , to claim a historic fourth term in power. With 100% of votes counted the 80-year-old leftist received 4.4m votes more than Bolsonaro, with a 51.79% share to his 45-year…",
-      "link": "https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election",
-      "image": "https://i.guim.co.uk/img/media/bead94b31547db304e7ffba0a1a723a386e5d2a8/299_122_7048_5638/master/7048.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f259c01e157fe9ee8c813bb3dc01a40a",
-      "feed_name": "The Guardian",
-      "feed_title": "World news | The Guardian",
-      "category": "World News",
-      "feed_url": "https://www.theguardian.com/world/rss",
-      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
-    },
-    {
-      "id": "https://www.theguardian.com/world/ng-interactive/2026/oct/25/brazil-election-2026-live-second-round-results",
-      "title": "Brazil election 2026: Full second round results as Lula wins comeback against Flávio Bolsonaro",
-      "published": "2026-10-26T00:15:36+00:00",
-      "author": "Seán Clarke and Tom Phillips",
-      "description": "After a shock defeat in the first round, the incumbent Brazilian president, Luiz Inácio Lula da Silva, has turned the election around to win the runoff. Live blog: latest analysis and reaction Brazil’s president is elected purely by the popular vote. A winning candidate needs one more vote than 50% of votes cast; there is no role for the parliament and no electoral college. Continue reading...",
-      "link": "https://www.theguardian.com/world/ng-interactive/2026/oct/25/brazil-election-2026-live-second-round-results",
-      "image": "https://i.guim.co.uk/img/media/27cf0f75664744a7e5011e058a7d77262fc7dc20/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0b5acc607fdbf54d7229640a21ccd3e5",
-      "feed_name": "The Guardian",
-      "feed_title": "World news | The Guardian",
-      "category": "World News",
-      "feed_url": "https://www.theguardian.com/world/rss",
-      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
     }
   ]
 }

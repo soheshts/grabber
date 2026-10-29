@@ -1,16 +1,30 @@
 {
   "category": "science",
-  "updated": "2026-10-29T06:03:15.978335+00:00",
-  "count": 699,
+  "updated": "2026-10-29T06:33:16.497123+00:00",
+  "count": 700,
   "summary": {
-    "text": "• The U.S. has restricted trade with BGI, a major Chinese genomics company, blocking shipments to the firm.\n• U.S. officials allege BGI is associated with forced labor and the abuse of minority groups.",
-    "generated_at": "2026-10-29T06:03:15.978335+00:00",
+    "text": "• A report says testing at RAF Upper Heyford found \"unacceptable\" levels of PFAS, calling it the worst chemical contamination at a UK RAF base.\n• The U.S. is restricting trade with Chinese genomics company BGI, blocking its shipments. U.S. officials allege the firm is associated with forced labor and the abuse of minority groups.",
+    "generated_at": "2026-10-29T06:33:16.497123+00:00",
     "window_minutes": 60,
-    "item_count": 1,
-    "key": "aabf1cfddfbe8710a932bbb08b4200f5ce024c37",
+    "item_count": 2,
+    "key": "71d3a0b144d4b2ee5f1b6826c1ff467c521712e1",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c64g1je3034ko#1",
+      "title": "RAF base chemical contamination worst in UK, report says",
+      "published": "2026-10-29T06:13:24+00:00",
+      "author": null,
+      "description": "Testing at RAF Upper Heyford finds \"unacceptable\" levels of polyfluoroalkyl substances (PFAS).",
+      "link": "https://www.bbc.co.uk/news/articles/c64g1je3034ko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15df/live/232b6850-457a-11f1-86ec-5992fe9627d8.jpg",
+      "feed_name": "BBC News - Science & Environment",
+      "feed_title": "BBC News",
+      "category": "science",
+      "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
     {
       "id": "https://www.nytimes.com/2026/10/28/business/us-china-biotech-trade-ban.html",
       "title": "U.S. Restricts Trade With Chinese Genomics Company",
