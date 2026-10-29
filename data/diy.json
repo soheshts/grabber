@@ -1,16 +1,30 @@
 {
   "category": "DIY",
-  "updated": "2026-10-28T23:33:22.935088+00:00",
-  "count": 296,
+  "updated": "2026-10-29T00:03:22.683804+00:00",
+  "count": 297,
   "summary": {
-    "text": "• How-To Geek shows how to add the Pixel 11's most exclusive feature to a Pixel 8a.\n• A How-To Geek writer put NFC tags on their appliances so they no longer have to search for manuals.\n• Both items are from How-To Geek and were published in the last hour.",
-    "generated_at": "2026-10-28T23:03:24.279757+00:00",
+    "text": "• A How-To Geek article argues that a 3D-printed part designed to be destroyed is the author's most useful creation.\n• The piece says sacrificial parts are where a 3D printer really earns its keep.",
+    "generated_at": "2026-10-29T00:03:22.683804+00:00",
     "window_minutes": 60,
-    "item_count": 2,
-    "key": "34eedeadbe017edf67de414bb82edbca239a690a",
+    "item_count": 1,
+    "key": "660a2522d45f4ea3cb276caa7691dc3860a3c2d5",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "https://www.howtogeek.com/this-3d-print-is-designed-to-get-destroyed-and-its-the-most-useful-thing-i-make/",
+      "title": "This 3D print is designed to get destroyed, and it’s the most useful thing I make",
+      "published": "2026-10-29T00:00:15+00:00",
+      "author": "Patrick Campanale",
+      "description": "Sacrificial parts are where a 3D printer really earns its keep.",
+      "link": "https://www.howtogeek.com/this-3d-print-is-designed-to-get-destroyed-and-its-the-most-useful-thing-i-make/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/cnc-clamps-near-spindle-wide.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://hackaday.com/?p=1396582",
       "title": "Hacking the Modern Tamagotchi With UART",

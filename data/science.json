@@ -1,16 +1,30 @@
 {
   "category": "science",
-  "updated": "2026-10-28T23:33:22.935088+00:00",
-  "count": 690,
+  "updated": "2026-10-29T00:03:22.683804+00:00",
+  "count": 691,
   "summary": {
-    "text": "• Researchers at the University of Vienna and TU Wien found that atomic magnetism explains why iron, but not chromium, can make ammonia using sunlight, despite the two materials being nearly identical.\n• A Science Tokyo study shows macromolecular crowding can guide the formation and organization of synthetic DNA droplets, a tool for building artificial cell systems.\n• An international study found wild tomatoes resist the tomato leafminer better than cultivated varieties because of their molecular architecture.",
-    "generated_at": "2026-10-28T23:03:24.279757+00:00",
+    "text": "• Research explains the \"phantom lighthouse\" illusion on Lady Elliot Island, at the southern tip of Australia's Great Barrier Reef, where an 1873 lighthouse was decommissioned in 1995 when a second one took over.\n• Kyushu University researchers found that an ultrathin iridium manganese (IrMn) layer improves two spin-related signals in a magnetic insulator and platinum structure, opening a path to ultralow-power electronics.\n• A construction boom in parts of Nepal and India's Uttarakhand has put about 300,000 people in the path of potential Himalayan disasters.",
+    "generated_at": "2026-10-29T00:03:22.683804+00:00",
     "window_minutes": 60,
     "item_count": 3,
-    "key": "d6521e94e8860fb55c612e4e1c268766a3b06fae",
+    "key": "4e4cfb2281f87649eabe812678f4e86bc4746209",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "news712402306",
+      "title": "The phantom lighthouse: New research explains one of Australia's strangest illusions",
+      "published": "2026-10-28T23:40:01+00:00",
+      "author": null,
+      "description": "There are two lighthouses on Lady Elliot Island, at the southernmost tip of Australia's Great Barrier Reef. The first was built in 1873, but was decommissioned in 1995 when the second took over the job of warning ships off the reef. Visitors to the island, however, regularly report seeing signs of a third lighthouse. At night the beams of a nonexistent phantom lighthouse are seen far off, shining on the horizon.",
+      "link": "https://phys.org/news/2026-10-phantom-lighthouse-australia-strangest-illusions.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-phantom-lighthouse-1.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
     {
       "id": "news712421221",
       "title": "Ultrathin metal layer boosts spin-related signals, opening a door to ultralow-power electronics",

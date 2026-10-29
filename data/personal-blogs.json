@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-10-28T23:33:22.935088+00:00",
-  "count": 425,
+  "updated": "2026-10-29T00:03:22.683804+00:00",
+  "count": 423,
   "summary": null,
   "items": [
     {
@@ -5211,34 +5211,6 @@
       "category": "personal blogs",
       "feed_url": "https://www.michaelcattell.com/feed.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=localhost:4000&sz=64"
-    },
-    {
-      "id": "https://www.the-haystack.com/public02/",
-      "title": "Designing in public, iteration 2",
-      "published": "2026-09-29T00:00:00+00:00",
-      "author": "Stephen Hay",
-      "description": "Today: A few design principles and some temporary readability interventions. Some design principles to get started There are a couple of design principles that I almost always apply, and I'll do my best to apply them to this project: Add only what's needed. This was the principle behind my former consultancy Zero Interface. The ideal UI is no UI: you think something and it's done. Stay as close to that ideal as possible. Designers talk about removing the unnecessary. I think it's better not to…",
-      "link": "https://www.the-haystack.com/public02/",
-      "image": "https://www.the-haystack.com/assets/images/public01.png",
-      "feed_name": "The Haystack",
-      "feed_title": "The Haystack",
-      "category": "personal blogs",
-      "feed_url": "https://www.the-haystack.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.the-haystack.com&sz=64"
-    },
-    {
-      "id": "https://www.abeautifulsite.net/posts/container-queries-click-once-you-see-them/",
-      "title": "Sizing Cards With Container Queries",
-      "published": "2026-09-29T00:00:00+00:00",
-      "author": "Cory LaViska (cory@abeautifulsite.net)",
-      "description": "Media queries look at the viewport. That breaks down when the same card shows up in a narrow sidebar and a wide main column on the same page. Both get the same styles, even though the available width is different. Container queries fix that. Size queries have been safe to ship for awhile, and caniuse is green across the board. Here's a card that stacks in a narrow container and goes horizontal when the container is wide enough: .slot { container-type : inline-size ; container-name : slot ; } .c…",
-      "link": "https://www.abeautifulsite.net/posts/container-queries-click-once-you-see-them/",
-      "image": null,
-      "feed_name": "A Beautiful Site",
-      "feed_title": "A Beautiful Site",
-      "category": "personal blogs",
-      "feed_url": "https://www.abeautifulsite.net/feed/feed.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.abeautifulsite.net&sz=64"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",

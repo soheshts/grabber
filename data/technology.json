@@ -1,16 +1,30 @@
 {
   "category": "technology",
-  "updated": "2026-10-28T23:33:22.935088+00:00",
+  "updated": "2026-10-29T00:03:22.683804+00:00",
   "count": 1000,
   "summary": {
-    "text": "• CNET published an FAQ about its Fold-A-Phone project explaining why the folds are not randomized.\n• According to the excerpt, randomizing them would have greatly increased development time and complexity for very little measurable benefit.\n• The excerpt is cut off, so no further details are available.",
-    "generated_at": "2026-10-28T23:03:24.279757+00:00",
+    "text": "• Reddit is adding \"For You\" and \"Following\" feeds similar to TikTok's, rolling out worldwide.\n• The FCC chair wants to relax the agency's long-standing opposition to cellphone jammers, allowing prisons to block illegal phones; a vote is set for next month.\n• Instagram head Adam Mosseri says negativity around AI \"is going to get worse,\" citing graduates booing tech CEOs.\n• CNET commentary argues a touchscreen MacBook Pro will attract fingerprints.",
+    "generated_at": "2026-10-29T00:03:22.683804+00:00",
     "window_minutes": 60,
-    "item_count": 1,
-    "key": "c5d501e146b9c58ace7867687dd7dc0c94c24008",
+    "item_count": 4,
+    "key": "3bfc0ebb3166f124c7bba3c4855436b20b0b3ab5",
     "model": "anthropic/claude-haiku-5.5"
   },
   "items": [
+    {
+      "id": "5119845",
+      "title": "Reddit Is Adding ‘For You’ and ‘Following’ Feeds",
+      "published": "2026-10-28T23:21:03+00:00",
+      "author": "Omar Gallaga",
+      "description": "The new feeds, similar to those used on TikTok, are rolling out worldwide.",
+      "link": "https://www.cnet.com/tech/reddit-adds-for-you-and-following-feeds/",
+      "image": "https://www.cnet.com/wp-content/uploads/sites/2/reddit-feed-color.jpg",
+      "feed_name": "CNET News",
+      "feed_title": "News – CNET",
+      "category": "technology",
+      "feed_url": "https://www.cnet.com/rss/news/",
+      "feed_icon": "https://www.cnet.com/wp-content/uploads/sites/2/cropped-favicon-480.png?w=32"
+    },
     {
       "id": "https://www.engadget.com/2300569/fcc-chair-wants-to-let-prisons-jam-illegal-cellphones/",
       "title": "FCC chair wants to let prisons jam illegal cellphones",
@@ -13996,20 +14010,6 @@
       "category": "technology",
       "feed_url": "https://atp.fm/rss",
       "feed_icon": "https://cdn.atp.fm/artwork"
-    },
-    {
-      "id": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/",
-      "title": "Bringing the magic: Google breaks open a bottleneck in quantum computing",
-      "published": "2026-10-15T18:00:00+00:00",
-      "author": "Emma Rosenfeld, Craig Gidney",
-      "description": "Magic State video",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/magic_state_still_2.max-600x600.format-webp.webp",
-      "feed_name": "The Keyword",
-      "feed_title": "News from Google",
-      "category": "technology",
-      "feed_url": "https://www.blog.google/rss/",
-      "feed_icon": "https://blog.google/static/blogv2/images/google.png"
     }
   ]
 }
