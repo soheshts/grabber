@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-10-30T10:32:18.560677+00:00",
-  "count": 424,
+  "updated": "2026-10-30T11:03:50.282715+00:00",
+  "count": 423,
   "summary": null,
   "items": [
     {
@@ -5211,20 +5211,6 @@
       "category": "personal blogs",
       "feed_url": "https://shkspr.mobi/blog/feed/atom/",
       "feed_icon": "https://shkspr.mobi/blog/wp-content/uploads/2023/07/cropped-avatar-32x32.jpeg"
-    },
-    {
-      "id": "https://csswizardry.com/2026/09/web-perf-wednesday-011-speedcurves-inp-observer-missed-its-threshold/",
-      "title": "Web-Perf Wednesday 011 – SpeedCurve’s INP Observer Missed Its Threshold",
-      "published": "2026-09-30T11:00:00+00:00",
-      "author": null,
-      "description": "A long-standing lux.js bug left Event Timing on its 104 ms default, while browser releases improve testing and rendering performance.",
-      "link": "https://csswizardry.com/2026/09/web-perf-wednesday-011-speedcurves-inp-observer-missed-its-threshold/",
-      "image": null,
-      "feed_name": "CSS Wizardry",
-      "feed_title": "CSS Wizardry",
-      "category": "personal blogs",
-      "feed_url": "http://feeds.feedburner.com/csswizardry",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=csswizardry.com&sz=64"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
