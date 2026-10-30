@@ -1,9 +1,37 @@
 {
   "category": "World News",
-  "updated": "2026-10-30T02:34:45.562603+00:00",
+  "updated": "2026-10-30T03:05:04.206646+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "108483110",
+      "title": "Biggest-ever crypto hack impacts $6.3 billion as Binance works to contain fallout",
+      "published": "2026-10-30T03:01:44+00:00",
+      "author": null,
+      "description": "Binance estimated the impact of a security incident at $6.3 billion, with around $3 billion in crypto assets frozen, and pledged to cover all losses.",
+      "link": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108333346-1783688403591-gettyimages-2218057803-CIRCLE_IPO.jpeg?v=1790092423&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "t3_1xj3xni",
+      "title": "Netanyahu's party claims Israeli election 'stolen' as results show him losing majority",
+      "published": "2026-10-30T02:45:04+00:00",
+      "author": "/u/Jishnujichu1200",
+      "description": "submitted by /u/Jishnujichu1200 [link] [comments]",
+      "link": "https://www.reddit.com/r/worldnews/comments/1xj3xni/netanyahus_party_claims_israeli_election_stolen/",
+      "image": "https://external-preview.redd.it/Diye_TqMejtXy1ROysd8CXC2poZlpAmJBdMsv9Eb9E4.jpeg?width=640&crop=smart&auto=webp&s=4f80389011e210dcf1b29f4b1096aea6ad4b2205",
+      "feed_name": "World News",
+      "feed_title": "World News",
+      "category": "World News",
+      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
+      "feed_icon": "https://www.redditstatic.com/icon.png/"
+    },
     {
       "id": "https://www.ndtv.com/world-news/fired-us-general-brett-sylvia-leaked-iran-russia-war-details-failed-3-polygraph-tests-12256696#publisher=newsstand",
       "title": "Fired US General Leaked Iran, Russia War Details, Failed 3 Polygraph Tests",
@@ -334,20 +362,6 @@
       "description": "Recent election losses by leaders linked to Trump have prompted questions about whether his influence over the global right is weakening.",
       "link": "https://www.cnbc.com/2026/10/30/election-trump-brazil-serbia-hungary.html",
       "image": "https://image.cnbcfm.com/api/v1/image/108460994-17929651022026-10-25t214045z_1751253434_rc2laoaxkxhg_rtrmadp_0_usa-trump.jpeg?v=1792965149&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "108483110",
-      "title": "Binance 'potential security issue' sees $2.54 billion frozen by the likes of Circle, Tether",
-      "published": "2026-10-29T23:56:02+00:00",
-      "author": null,
-      "description": "Binance, the world's largest crypto exchange, said it was actively investigating the matter and that funds are \"completley safe.\"",
-      "link": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108333346-1783688403591-gettyimages-2218057803-CIRCLE_IPO.jpeg?v=1790092423&w=1920&h=1080",
       "feed_name": "CNBC",
       "feed_title": "International: Top News And Analysis",
       "category": "World News",
@@ -13989,20 +14003,6 @@
       "category": "World News",
       "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/democrats-demand-special-counsel-to-probe-trumps-ties-to-jeffrey-epstein-12239870#publisher=newsstand",
-      "title": "Democrats Demand Special Counsel To Probe Trump's Ties To Jeffrey Epstein",
-      "published": "2026-10-26T18:43:35+00:00",
-      "author": null,
-      "description": "Epstein died in federal custody in 2019 while awaiting trial on sex trafficking charges involving minors.",
-      "link": "https://www.ndtv.com/world-news/democrats-demand-special-counsel-to-probe-trumps-ties-to-jeffrey-epstein-12239870#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2024-11/30ddbb3o_jeffrey-epstein-trump_625x300_01_November_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     }
   ]
 }
