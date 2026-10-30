@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-10-30T21:33:29.395163+00:00",
-  "count": 439,
+  "updated": "2026-10-30T22:03:22.338566+00:00",
+  "count": 441,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/windows-can-compress-your-files-without-zipping-them-and-its-all-thanks-to-ntfs/",
+      "title": "Windows can compress your files without zipping them, and it's all thanks to NTFS",
+      "published": "2026-10-30T22:00:16+00:00",
+      "author": "Afam Onyimadu",
+      "description": "A forgotten Windows checkbox can free up space without extracting anything.",
+      "link": "https://www.makeuseof.com/windows-can-compress-your-files-without-zipping-them-and-its-all-thanks-to-ntfs/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2026/10/compressing-files-on-gmail-with-advanced-attributes.png",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/new-shows-streaming-this-weekend-october-30/",
+      "title": "5 new shows to stream this Halloween weekend, from Dexter to Elizabeth Holmes (October 30-November 1)",
+      "published": "2026-10-30T22:00:15+00:00",
+      "author": "Dan Girolamo",
+      "description": "An iconic character makes his return, while a polarizing public figure is the subject of a new documentary.",
+      "link": "https://www.howtogeek.com/new-shows-streaming-this-weekend-october-30/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/10/dexter-resurrection-season-2.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/automate-windows-backups-with-backrest/",
       "title": "I finally automated my Windows backups without learning another page of terminal commands",
