@@ -1,9 +1,23 @@
 {
   "category": "World News",
-  "updated": "2026-10-30T23:03:43.972900+00:00",
+  "updated": "2026-10-30T23:33:26.310695+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/10/30/world/europe/spain-crash-contoller-errors.html",
+      "title": "Traffic Control Errors Caused Spain’s Deadly Train Crash, Official Says",
+      "published": "2026-10-30T23:27:45+00:00",
+      "author": "Carlos Barragán",
+      "description": "The transport minister said a judge would investigate controllers’ actions, including authorizing a train to proceed at high speed though another was stalled in front of it.",
+      "link": "https://www.nytimes.com/2026/10/30/world/europe/spain-crash-contoller-errors.html",
+      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30Int-spain-crash-tfqv/30Int-spain-crash-tfqv-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "https://timesofindia.indiatimes.com/world/us/michael-bloomberg-visited-this-boston-science-museum-as-a-child-decades-later-he-donates-155-million-to-honour-his-late-parents-and-transform-the-institution/articleshow/135213080.cms",
       "title": "Michael Bloomberg gives $155 million to transform childhood science museum",
@@ -53,7 +67,7 @@
       "author": null,
       "description": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
       "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33b8/live/5acd5630-8cbd-11f1-b8ee-9b3c26ad07bb.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea75/live/f93e2820-d4b7-11f1-a701-fddedf244c16.jpg",
       "feed_name": "BBC News - World",
       "feed_title": "BBC News",
       "category": "World News",
@@ -249,7 +263,7 @@
       "author": null,
       "description": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
       "link": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13b1/live/6aa032d0-d44d-11f1-bfc7-afe23fc6cf5b.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b85a/live/484c0a90-d4b8-11f1-a701-fddedf244c16.jpg",
       "feed_name": "BBC News - World",
       "feed_title": "BBC News",
       "category": "World News",
@@ -297,6 +311,20 @@
       "category": "World News",
       "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "108484895",
+      "title": "Intel stock has worst day since 1970s, wiping about $12 billion off government's stake",
+      "published": "2026-10-30T20:30:57+00:00",
+      "author": null,
+      "description": "Investors are nervous about the massive AI spending from the tech giants and whether that will pay off.",
+      "link": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/107378236-1708957213596-gettyimages-2018756149-Illustration_Amazon.jpeg?v=1753890296&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/us/paul-rosolie-entered-the-amazon-at-18-and-spent-two-decades-fighting-to-save-its-rainforest-now-his-team-is-protecting-160000-acres-of-forest/articleshow/135212700.cms",
@@ -759,20 +787,6 @@
       "category": "World News",
       "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
       "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/10/30/world/europe/spain-crash-contoller-errors.html",
-      "title": "Traffic Control Errors Caused Spain’s Deadly Train Crash, Official Says",
-      "published": "2026-10-30T18:06:15+00:00",
-      "author": "Carlos Barragán",
-      "description": "The transport minister said a judge would investigate controllers’ actions, including authorizing a train to proceed at high speed though another was stalled in front of it.",
-      "link": "https://www.nytimes.com/2026/10/30/world/europe/spain-crash-contoller-errors.html",
-      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30Int-spain-crash-tfqv/30Int-spain-crash-tfqv-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/uk/a-uk-woman-claimed-she-could-not-walk-drive-or-work-because-of-hip-pain-but-investigators-found-she-was-running-a-body-piercing-business-and-working-for-other-clients/articleshow/135370559.cms",
@@ -2299,20 +2313,6 @@
       "category": "World News",
       "feed_url": "https://www.reddit.com/r/worldnews/.rss",
       "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "108484895",
-      "title": "Amazon falls 7%, Intel plunges 25% in premarket trading, as pressure mounts after earnings",
-      "published": "2026-10-30T09:16:27+00:00",
-      "author": null,
-      "description": "Investors are nervous about the massive AI spending from the tech giants and whether that will pay off.",
-      "link": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/107378236-1708957213596-gettyimages-2018756149-Illustration_Amazon.jpeg?v=1753890296&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
       "id": "t3_1xjaimu",
