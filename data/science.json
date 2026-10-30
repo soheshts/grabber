@@ -1,9 +1,51 @@
 {
   "category": "science",
-  "updated": "2026-10-30T14:02:58.435050+00:00",
-  "count": 903,
+  "updated": "2026-10-30T14:33:45.575851+00:00",
+  "count": 906,
   "summary": null,
   "items": [
+    {
+      "id": "news712564880",
+      "title": "NASA's Voyager 1 conserves power, resolves brief communications pause",
+      "published": "2026-10-30T14:20:10+00:00",
+      "author": null,
+      "description": "NASA's Voyager team is celebrating two recent developments with the Voyager 1 spacecraft: In September, they successfully completed a months-long effort to stretch the spacecraft's diminishing power supply. Then, on Oct. 20, an unexpected loss of communication with the spacecraft resolved itself after 48 hours, before the team sent commands to the spacecraft to troubleshoot the issue.",
+      "link": "https://phys.org/news/2026-10-nasa-voyager-power-communications.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/nasas-voyager-1-conser.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "news712568628",
+      "title": "The genetic cost of being a lazy parent ... if you're a cuckoo finch",
+      "published": "2026-10-30T14:20:05+00:00",
+      "author": null,
+      "description": "African cuckoo finches (Anomalospiza imberbis) are very deceptive birds, or at least the mothers are. They sneak into the nests of other birds, such as prinias and cisticolas, to lay their eggs, then slip away and leave the hosts to raise the chicks.",
+      "link": "https://phys.org/news/2026-10-genetic-lazy-parent-youre-cuckoo.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-genetic-cost-of-be.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/29/science/stone-age-cannibal-caves-of-spain.html",
+      "title": "Three Stone Age Caves Reveal Continual Cannibalism",
+      "published": "2026-10-30T14:07:59+00:00",
+      "author": "Joshua Rapp Learn",
+      "description": "A tour of the three caves in southern Spain suggests that people in the area cannibalized one another as funerary practice over many generations.",
+      "link": "https://www.nytimes.com/2026/10/29/science/stone-age-cannibal-caves-of-spain.html",
+      "image": null,
+      "feed_name": "NYT > Science",
+      "feed_title": "NYT > Science",
+      "category": "science",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "news712569481",
       "title": "Marine fossils in Colombia reveal possible evolutionary transition without mass extinction",
@@ -31,6 +73,20 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "09d616a3-8758-4bb7-ab7e-ddd00168e975",
+      "title": "The Buried Bodies Case",
+      "published": "2026-10-30T14:00:00+00:00",
+      "author": "WNYC Studios",
+      "description": "What's a lawyer's obligation to provide the best defense to the worst people?",
+      "link": "https://www.radiolab.org",
+      "image": null,
+      "feed_name": "Radiolab",
+      "feed_title": "Radiolab",
+      "category": "science",
+      "feed_url": "http://feeds.wnyc.org/radiolab",
+      "feed_icon": "https://image.simplecastcdn.com/images/2c9187d6-9dff-4257-bc55-469cf13afd48/60a2cfed-b8ca-460b-abb8-8ab0afb3fa8c/3000x3000/radiolab-showsquare-3000x3000.jpg?aid=rss_feed"
     },
     {
       "id": "news712412729",
@@ -2411,20 +2467,6 @@
       "category": "science",
       "feed_url": "https://www.sciencedaily.com/rss/all.xml",
       "feed_icon": "https://www.sciencedaily.com/images/scidaily-logo-rss.png"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/10/29/science/stone-age-cannibal-caves-of-spain.html",
-      "title": "Three Stone Age Caves Reveal Continual Cannibalism",
-      "published": "2026-10-29T13:02:26+00:00",
-      "author": "Joshua Rapp Learn",
-      "description": "A tour of the three caves in southern Spain suggests that people in the area cannibalized one another as funerary practice over many generations.",
-      "link": "https://www.nytimes.com/2026/10/29/science/stone-age-cannibal-caves-of-spain.html",
-      "image": null,
-      "feed_name": "NYT > Science",
-      "feed_title": "NYT > Science",
-      "category": "science",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "news712388238",

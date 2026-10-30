@@ -1,9 +1,51 @@
 {
   "category": "DIY",
-  "updated": "2026-10-30T14:02:58.435050+00:00",
-  "count": 392,
+  "updated": "2026-10-30T14:33:45.575851+00:00",
+  "count": 395,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/the-power-tool-gifts-dont-buy/",
+      "title": "The power tool gifts I wouldn’t buy even at a holiday discount",
+      "published": "2026-10-30T14:30:17+00:00",
+      "author": "Jonathon Jachura",
+      "description": "Here are the tools gifts I wouldn't get anyone for the holiday season.",
+      "link": "https://www.makeuseof.com/the-power-tool-gifts-dont-buy/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/01/several-ryobi-power-tools-on-table-1.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/microsoft-excel-take-function/",
+      "title": "How to use the TAKE function in Excel",
+      "published": "2026-10-30T14:30:16+00:00",
+      "author": "Tony Phillips",
+      "description": "Use TAKE to extract the rows and columns you need, then combine it with other functions to build dynamic Excel reports.",
+      "link": "https://www.howtogeek.com/microsoft-excel-take-function/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/excel-average-take-formula-screen-angle-view.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://hackaday.com/?p=1396762",
+      "title": "This Week in Security: Broken Embargoes, UEFI Overflow, Wormable Tailscale, Starlink Ad Snooping, and a DHS Directory Dump",
+      "published": "2026-10-30T14:00:29+00:00",
+      "author": "Mike Kershaw",
+      "description": "Last week brought us at least two broken embargoes: php2shell leaked onto Hacker News a day early, and a batch of Linux kernel bugs landed on the public kernel mailing …read more",
+      "link": "https://hackaday.com/2026/10/30/this-week-in-security-broken-embargoes-uefi-overflow-wormable-tailscale-starlink-ad-snooping-and-a-dhs-directory-dump/",
+      "image": "https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/your-android-auto-screen-may-be-running-at-the-wrong-resolution/",
       "title": "Your Android Auto screen may be running at the wrong resolution",
