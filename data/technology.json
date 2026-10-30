@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated": "2026-10-30T09:03:51.401987+00:00",
+  "updated": "2026-10-30T09:32:12.463230+00:00",
   "count": 1000,
   "summary": null,
   "items": [
@@ -17,6 +17,20 @@
       "category": "technology",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
+    },
+    {
+      "id": "TheNextWeb=1cf3c665db996d24b1c550d4746919b2",
+      "title": "Binance says its $6.3bn hack involved more than a compromised laptop",
+      "published": "2026-10-30T08:59:45+00:00",
+      "author": "Ana Maria Constantin",
+      "description": "Binance now says a compromised laptop was not the only way in. Its investigation has “uncovered additional points of breach” in the attack that hit about $6.3bn of its assets on Thursday, the world’s largest crypto exchange said on Friday. Binance said in an investigation update on X that it will cover all losses and […] This story continues at The Next Web",
+      "link": "https://thenextweb.com/news/binance-hack-6-3bn-north-korea-tradertraitor",
+      "image": "https://media.thenextweb.com/2026/10/binance-logo-yellow-diamond-pattern.avif",
+      "feed_name": "The Next Web",
+      "feed_title": "The Next Web",
+      "category": "technology",
+      "feed_url": "https://thenextweb.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
     },
     {
       "id": "TheNextWeb=1fb4554ec4192679831737705c8839f2",
@@ -13989,20 +14003,6 @@
       "category": "technology",
       "feed_url": "http://feeds.mashable.com/Mashable",
       "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
-    },
-    {
-      "id": "https://www.engadget.com/2292973/samsung-probably-not-rebranding-one-ui-as-galaxy-os/",
-      "title": "Samsung probably isn't rebranding One UI as Galaxy OS",
-      "published": "2026-10-25T13:45:00+00:00",
-      "author": "Robin Bea",
-      "description": "A bunch of recent rumors have suggested Samsung has some changes in store for its smartphone interface.",
-      "link": "https://www.engadget.com/2292973/samsung-probably-not-rebranding-one-ui-as-galaxy-os/",
-      "image": "https://www.engadget.com/img/gallery/samsung-probably-isnt-rebranding-one-ui-as-galaxy-os/l-intro-1792594756.jpg",
-      "feed_name": "Engadget",
-      "feed_title": "Engadget - Technology News & Expert Reviews",
-      "category": "technology",
-      "feed_url": "https://www.engadget.com/rss.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
     }
   ]
 }
