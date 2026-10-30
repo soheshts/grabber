@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-10-30T01:33:14.483491+00:00",
-  "count": 423,
+  "updated": "2026-10-30T02:03:43.948701+00:00",
+  "count": 424,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,20 @@
       "category": "personal blogs",
       "feed_url": "https://www.citationneeded.news/rss/",
       "feed_icon": "https://www.citationneeded.news/favicon.png"
+    },
+    {
+      "id": "https://ronaldsvilcins.com/2026/10/30/css-border-shape-can-draw-boxes-clip-path-cannot/",
+      "title": "CSS border-shape Can Draw Boxes clip-path Cannot",
+      "published": "2026-10-29T22:00:00+00:00",
+      "author": "Ronalds Vilciņš",
+      "description": "CSS border-shape lets borders and shadows follow a custom outline. Compare it with clip-path, try complete examples, and keep a usable rounded fallback.",
+      "link": "https://ronaldsvilcins.com/2026/10/30/css-border-shape-can-draw-boxes-clip-path-cannot/",
+      "image": "https://ronaldsvilcins.com/og/a14c1c59c80bf0846e45e54d9227284bb26b9f638ff6f2c7d8569644d239abe5.jpg",
+      "feed_name": "Ronalds Vilciņš",
+      "feed_title": "Ronalds Vilciņš",
+      "category": "personal blogs",
+      "feed_url": "https://ronaldsvilcins.com/atom.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=ronaldsvilcins.com&sz=64"
     },
     {
       "id": "https://rknight.me/blog/fixing-illustrations-on-a-dark-background-with-css/",
