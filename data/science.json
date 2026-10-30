@@ -1,9 +1,37 @@
 {
   "category": "science",
-  "updated": "2026-10-30T09:32:12.463230+00:00",
-  "count": 861,
+  "updated": "2026-10-30T10:02:41.944072+00:00",
+  "count": 862,
   "summary": null,
   "items": [
+    {
+      "id": "news712488781",
+      "title": "High-speed microscopy captures 3D images of living cells nearly 400 times faster",
+      "published": "2026-10-30T10:00:11+00:00",
+      "author": null,
+      "description": "Researchers at the University of Tokyo have developed a high-speed microscopy technique that captures images so quickly they can be used to make \"videos\" of the dynamic processes that occur inside living cells.",
+      "link": "https://phys.org/news/2026-10-high-microscopy-captures-3d-images.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/3d-video-reveals-inner.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "news712508233",
+      "title": "Crowding can speed up enzyme reactions—until protein droplets become too packed",
+      "published": "2026-10-30T10:00:02+00:00",
+      "author": null,
+      "description": "Our cells are a hotbed of activity, with reactions churning away to keep us alive. But the cytoplasm, where many metabolic reactions take place, is not uniform. Instead, proteins and other molecules cluster together into membraneless compartments, creating distinct, crowded microenvironments for reactions.",
+      "link": "https://phys.org/news/2026-10-crowding-enzyme-reactions-protein-droplets.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/enzymes-get-the-flow-g.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
     {
       "id": "news712556949",
       "title": "Fire pollution killed 3,560 people in Indonesia in September: Report",
@@ -291,7 +319,7 @@
       "author": null,
       "description": "A new generation is embracing eye-catching patching and visible mends.",
       "link": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04bf/live/f3978b70-d08c-11f1-a701-fddedf244c16.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f93/live/75a32910-c9a5-11f1-ad54-aba20166b422.jpg",
       "feed_name": "BBC News - Science & Environment",
       "feed_title": "BBC News",
       "category": "science",
@@ -305,7 +333,7 @@
       "author": null,
       "description": "A new generation is embracing eye-catching patching and visible mends.",
       "link": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04bf/live/f3978b70-d08c-11f1-a701-fddedf244c16.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f93/live/75a32910-c9a5-11f1-ad54-aba20166b422.jpg",
       "feed_name": "BBC News - Science & Environment",
       "feed_title": "BBC News",
       "category": "science",
@@ -12043,20 +12071,6 @@
       "category": "science",
       "feed_url": "https://sciencebasedmedicine.org/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=sciencebasedmedicine.org&sz=64"
-    },
-    {
-      "id": "8fafc632-bc36-11f1-bed7-ab41f4abcf31",
-      "title": "Can you spot a romance scam?",
-      "published": "2026-09-30T09:50:00+00:00",
-      "author": "Scientific American",
-      "description": "In this episode of Science Quickly, Rachel Feltman speaks with criminologist Fangzhou Wang about how romance scams have evolved from simple online deception into sophisticated, artificial-intelligence-powered fraud operations. They discuss how scammers use dating apps, fake identities, deepfakes and cryptocurrency schemes to build trust and steal money and what researchers are learning about helping people recognize and resist manipulation before they become victims. Recommended Reading: “Daejo…",
-      "link": null,
-      "image": null,
-      "feed_name": "60-Second Science",
-      "feed_title": "60-Second Science",
-      "category": "science",
-      "feed_url": "http://rss.sciam.com/sciam/60secsciencepodcast",
-      "feed_icon": "https://megaphone.imgix.net/podcasts/9e578524-a403-11ee-a6cf-cbcdcc0e11fb/image/ec5ff1c72de2a19d67bc6425661674b1.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
     }
   ]
 }
