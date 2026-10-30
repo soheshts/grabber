@@ -1,9 +1,37 @@
 {
   "category": "technology",
-  "updated": "2026-10-30T19:03:42.024791+00:00",
+  "updated": "2026-10-30T19:33:40.172155+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.engadget.com/2302681/everything-you-need-to-know-about-googlebooks/",
+      "title": "Everything you need to know about Googlebooks",
+      "published": "2026-10-30T19:00:00+00:00",
+      "author": "Nathan Ingraham",
+      "description": "Despite good initial hardware, the Googlebook OS still needs a lot of work.",
+      "link": "https://www.engadget.com/2302681/everything-you-need-to-know-about-googlebooks/",
+      "image": "https://www.engadget.com/img/gallery/despite-good-initial-hardware-the-googlebook-os-is-holding-the-platform-back/l-intro-1793383802.jpg",
+      "feed_name": "Engadget",
+      "feed_title": "Engadget - Technology News & Expert Reviews",
+      "category": "technology",
+      "feed_url": "https://www.engadget.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
+    {
+      "id": "https://news.slashdot.org/story/26/10/30/1843213/us-tech-stocks-see-sharp-falls-as-ai-spending-nears-1-trillion?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "title": "US Tech Stocks See Sharp Falls As AI Spending Nears $1 Trillion",
+      "published": "2026-10-30T19:00:00+00:00",
+      "author": "BeauHD",
+      "description": "U.S. technology stocks plunged for a second consecutive day on Friday as investors grew increasingly concerned about the enormous cost of artificial intelligence development and whether those investments will pay off. The Nasdaq fell more than 3.5%, while Intel shares dropped as much as 30%, Reddit fell 26%, and Alphabet extended its losses after shedding more than $500 billion in market value Thursday. The BBC notes that Meta, Alphabet, Oracle, Amazon, and Microsoft have collectively committed…",
+      "link": "https://news.slashdot.org/story/26/10/30/1843213/us-tech-stocks-see-sharp-falls-as-ai-spending-nears-1-trillion?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+      "feed_name": "Slashdot",
+      "feed_title": "Slashdot",
+      "category": "technology",
+      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
+    },
     {
       "id": "yt:video:YqXZnrF-_24",
       "title": "Everything is iPad #Vergecast",
@@ -31,6 +59,20 @@
       "category": "technology",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
+    },
+    {
+      "id": "TheNextWeb=027b4df85eaf32bb260d090bbb8e20a3",
+      "title": "Cognizant puts 25,000 staff behind OpenAI, days after a Gemini push",
+      "published": "2026-10-30T18:15:18+00:00",
+      "author": "Cristian Dina",
+      "description": "Cognizant formed an OpenAI Frontier Capability Group of more than 25,000 staff to deploy Codex and ChatGPT for clients. It will focus on software engineering, updating old systems and customer service. The move comes 11 days after Cognizant put 18,000 staff behind Google’s Gemini. Cognizant has formed a group of more than 25,000 staff to […] This story continues at The Next Web",
+      "link": "https://thenextweb.com/news/cognizant-openai-frontier-capability-group-25000",
+      "image": "https://media.thenextweb.com/2026/10/openai-about-page-laptop-screen-close-up.avif",
+      "feed_name": "The Next Web",
+      "feed_title": "The Next Web",
+      "category": "technology",
+      "feed_url": "https://thenextweb.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
     },
     {
       "id": "https://arstechnica.com/science/2026/10/rare-meteorite-from-mars-gives-us-a-view-into-its-ancient-crust/",
@@ -13961,48 +14003,6 @@
       "category": "technology",
       "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
       "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
-    },
-    {
-      "id": "00mhqeuVPBSOvFgeyUt7VJk",
-      "title": "Apple just announced a new iPad mini with an 8.5-inch OLED display — how to preorder",
-      "published": "2026-10-26T14:29:12+00:00",
-      "author": null,
-      "description": "The new Apple iPad mini is available for preorder on Oct. 28 at 10:10 a.m. PT with a price of $699.",
-      "link": "https://mashable.com/tech/oct-26-apple-ipad-mini-preorder-where-to-buy",
-      "image": "https://helios-i.mashable.com/imagery/articles/00mhqeuVPBSOvFgeyUt7VJk/hero-image.jpg",
-      "feed_name": "Mashable",
-      "feed_title": "Mashable",
-      "category": "technology",
-      "feed_url": "http://feeds.mashable.com/Mashable",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
-    },
-    {
-      "id": "5114312",
-      "title": "As iPhone Duo Cracked Screen Reports Surface, a New Teardown Shows a Possible Culprit",
-      "published": "2026-10-26T14:22:30+00:00",
-      "author": "Katie Collins",
-      "description": "In spite of some display issues, iFixit declares the iPhone Duo “the most repairable foldable” it’s ever tinkered with.",
-      "link": "https://www.cnet.com/tech/mobile/iphone-duo-ifixit-teardown-cracked-screens-culprit/",
-      "image": "https://www.cnet.com/wp-content/uploads/sites/2/unnamed-1.webp",
-      "feed_name": "CNET News",
-      "feed_title": "News – CNET",
-      "category": "technology",
-      "feed_url": "https://www.cnet.com/rss/news/",
-      "feed_icon": "https://www.cnet.com/wp-content/uploads/sites/2/cropped-favicon-480.png?w=32"
-    },
-    {
-      "id": "TheNextWeb=4d5900709c457384ce728e6b1c6e3519",
-      "title": "OpenAI’s discounts win Anthropic customers, The Information reports",
-      "published": "2026-10-26T14:17:22+00:00",
-      "author": "Cristian Dina",
-      "description": "Replit moved most of its AI spending from Anthropic to OpenAI in recent months after OpenAI offered a discount of more than 30%, The Information reported on Saturday. The contract is worth over $100M a year, a person familiar with the deal told The Information, in a story by Laura Bratton and Stephanie Palazzolo. Replit […] This story continues at The Next Web",
-      "link": "https://thenextweb.com/news/openai-discounts-anthropic-customers-replit-rippling",
-      "image": "https://media.thenextweb.com/2026/10/amjad-masad-replit-techcrunch-disrupt-2026-stage.avif",
-      "feed_name": "The Next Web",
-      "feed_title": "The Next Web",
-      "category": "technology",
-      "feed_url": "https://thenextweb.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
     }
   ]
 }
