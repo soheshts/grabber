@@ -1,9 +1,23 @@
 {
   "category": "funny",
-  "updated": "2026-10-30T19:33:40.172155+00:00",
-  "count": 256,
+  "updated": "2026-10-30T20:03:45.493607+00:00",
+  "count": 258,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.penny-arcade.com/news/post/2026/10/30/mr-yuk",
+      "title": "Mr. Yuk",
+      "published": "2026-10-30T19:46:00+00:00",
+      "author": null,
+      "description": "I'm not even kidding; with Valve's AI Disclosures, they really have founded a wholly new mode of expression . You can reverse engineer how a developer feels about the disclosure by a close reading of the text, you can unfold the interior part of their skull and walk around in it. I bet it does suck. I'm honor bound to understand the why, and AI coding is growing normative in the space. It's hard to truly have beef with such a clannish, propagandized cadre. I mean, my doom is to understand why e…",
+      "link": "https://www.penny-arcade.com/news/post/2026/10/30/mr-yuk",
+      "image": "https://assets.penny-arcade.com/img/logo_opengraph.jpg",
+      "feed_name": "Penny Arcade",
+      "feed_title": "Penny Arcade",
+      "category": "funny",
+      "feed_url": "https://www.penny-arcade.com/feed",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.penny-arcade.com&sz=64"
+    },
     {
       "id": "https://theonion.com/?p=1851710076",
       "title": "Scooby-Doo Retires After Taking Skydance Buyout",
@@ -297,6 +311,20 @@
       "category": "funny",
       "feed_url": "http://syndication.thedailywtf.com/TheDailyWtf",
       "feed_icon": "https://www.google.com/s2/favicons?domain=thedailywtf.com&sz=64"
+    },
+    {
+      "id": "https://xkcd.com/3318/",
+      "title": "Earth Sized Planets",
+      "published": "2026-10-30T04:00:00+00:00",
+      "author": null,
+      "description": "",
+      "link": "https://xkcd.com/3318/",
+      "image": "https://imgs.xkcd.com/comics/earth_sized_planets.png",
+      "feed_name": "xkcd.com",
+      "feed_title": "xkcd.com",
+      "category": "funny",
+      "feed_url": "https://xkcd.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=xkcd.com&sz=64"
     },
     {
       "id": "https://cheezburger.com/47245829/daughter-starts-a-family-drama-after-refusing-to-let-her-parents-move-in-with-her-after-they-gave",
