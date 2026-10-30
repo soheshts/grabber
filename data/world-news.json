@@ -1,9 +1,37 @@
 {
   "category": "World News",
-  "updated": "2026-10-30T04:32:49.075489+00:00",
+  "updated": "2026-10-30T05:03:44.226385+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/10/30/us/louisiana-creole-recording-lorenzo-dow-turner.html",
+      "title": "Oldest Recording of Louisiana’s Vanishing Creole Language Is Published",
+      "published": "2026-10-30T05:00:08+00:00",
+      "author": "Leo Sands",
+      "description": "The rediscovery of a forgotten recording from 1935 sheds light on a language rooted in the state’s history of slavery and French colonialism.",
+      "link": "https://www.nytimes.com/2026/10/30/us/louisiana-creole-recording-lorenzo-dow-turner.html",
+      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30xp-creole-woman/30xp-creole-woman-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "108483110",
+      "title": "Biggest-ever crypto hack impacts $6.3 billion as Binance works to contain fallout",
+      "published": "2026-10-30T04:40:17+00:00",
+      "author": null,
+      "description": "Binance estimated the impact of a security incident at $6.3 billion, with around $3 billion in crypto assets frozen, and pledged to cover all losses.",
+      "link": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108333346-1783688403591-gettyimages-2218057803-CIRCLE_IPO.jpeg?v=1790092423&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
     {
       "id": "https://timesofindia.indiatimes.com/science/discovery/common-daily-fiber-supplement-was-found-to-significantly-reduce-knee-pain-and-improve-muscle-strength-in-a-new-study-offering-a-cheap-and-easy-option-for-the-millions-of-people-living-with-painful-stiff-knees/articleshow/135330571.cms",
       "title": "Common daily fiber supplement was found to significantly reduce knee pain and improve strength",
@@ -157,20 +185,6 @@
       "category": "World News",
       "feed_url": "https://www.reddit.com/r/worldnews/.rss",
       "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "108483110",
-      "title": "Biggest-ever crypto hack impacts $6.3 billion as Binance works to contain fallout",
-      "published": "2026-10-30T03:01:44+00:00",
-      "author": null,
-      "description": "Binance estimated the impact of a security incident at $6.3 billion, with around $3 billion in crypto assets frozen, and pledged to cover all losses.",
-      "link": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108333346-1783688403591-gettyimages-2218057803-CIRCLE_IPO.jpeg?v=1790092423&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
       "id": "t3_1xj48xm",
@@ -13989,20 +14003,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "t3_1xg7ptk",
-      "title": "Only 34,300 Votes Were Cast After Initial Voting Deadline in Brazil's Election; Lula Won by 4.43 Million",
-      "published": "2026-10-26T20:09:08+00:00",
-      "author": "/u/Guipa",
-      "description": "submitted by /u/Guipa [link] [comments]",
-      "link": "https://www.reddit.com/r/worldnews/comments/1xg7ptk/only_34300_votes_were_cast_after_initial_voting/",
-      "image": "https://external-preview.redd.it/Pt_rvXlK1mYEKscpAO07CiMsUVNCvrQ8AmIt_LzKtZo.jpeg?width=640&crop=smart&auto=webp&s=94f5fb450052d71340aa63449dd084385a3cb35b",
-      "feed_name": "World News",
-      "feed_title": "World News",
-      "category": "World News",
-      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
-      "feed_icon": "https://www.redditstatic.com/icon.png/"
     }
   ]
 }
