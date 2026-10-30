@@ -1,9 +1,51 @@
 {
   "category": "DIY",
-  "updated": "2026-10-30T21:03:02.303184+00:00",
-  "count": 436,
+  "updated": "2026-10-30T21:33:29.395163+00:00",
+  "count": 439,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/automate-windows-backups-with-backrest/",
+      "title": "I finally automated my Windows backups without learning another page of terminal commands",
+      "published": "2026-10-30T21:31:16+00:00",
+      "author": "Oluwademilade Afolabi",
+      "description": "Backups are much easier to remember when I don’t have to remember them.",
+      "link": "https://www.makeuseof.com/automate-windows-backups-with-backrest/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/backrest-windows-automated-backup-plan-1.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/asus-rog-xbox-ally-x20-review/",
+      "title": "ASUS ROG Xbox Ally X20 review: The ultimate PC handheld, if you can find it",
+      "published": "2026-10-30T21:31:15+00:00",
+      "author": "Zachary Boddy",
+      "description": "There may not be a better overall PC gaming handheld than the Xbox Ally X20, but that's only if you're able to buy it.",
+      "link": "https://www.howtogeek.com/asus-rog-xbox-ally-x20-review/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/asus-rog-xbox-ally-x20-review-01.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/xdb-builder-launch-htg/",
+      "title": "It's time to try XDB Builder, a new PC-building tool that respects your budget",
+      "published": "2026-10-30T21:05:15+00:00",
+      "author": "Andrew Heinzman",
+      "description": "Our friends at XDA just introduced a new way to build PCs and NAS machines.",
+      "link": "https://www.howtogeek.com/xdb-builder-launch-htg/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/10/xdb-builder-1.png",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/eddy-tiny-open-source-android-browser-and-it-has-no-business-being-this-polished/",
       "title": "This tiny Android browser punches way above its weight",

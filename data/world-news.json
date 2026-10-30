@@ -1,9 +1,79 @@
 {
   "category": "World News",
-  "updated": "2026-10-30T21:03:02.303184+00:00",
+  "updated": "2026-10-30T21:33:29.395163+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "108483110",
+      "title": "$6.3 billion Binance hack is largest crypto theft on record",
+      "published": "2026-10-30T21:21:17+00:00",
+      "author": null,
+      "description": "Binance says a security breach impacted about $6.3 billion in assets. The exchange says roughly $3 billion has been frozen and losses will be covered.",
+      "link": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108333346-1783688403591-gettyimages-2218057803-CIRCLE_IPO.jpeg?v=1790092423&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo#0",
+      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+      "published": "2026-10-30T21:13:14+00:00",
+      "author": null,
+      "description": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+      "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61df/live/2d4de870-d487-11f1-b441-2b33b063138f.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/30/world/canada/carney-canada-european-union.html",
+      "title": "Carney Commits Canada to Becoming European Union’s First ‘Associate Member’",
+      "published": "2026-10-30T21:08:01+00:00",
+      "author": "Ian Austen",
+      "description": "The move is part of the Canadian prime minister’s effort to reduce American influence over Canada and expand trade to other parts of the world.",
+      "link": "https://www.nytimes.com/2026/10/30/world/canada/carney-canada-european-union.html",
+      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30int-canada-assess-fmtk/30int-canada-assess-fmtk-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/30/world/asia/china-tiananmen-kristof.html",
+      "title": "I Covered the Tiananmen Square Massacre. It Still Weighs on Me.",
+      "published": "2026-10-30T21:04:43+00:00",
+      "author": "Nicholas Kristof",
+      "description": "The day that changed modern China also taught me how to recognize true courage.",
+      "link": "https://www.nytimes.com/2026/10/30/world/asia/china-tiananmen-kristof.html",
+      "image": "https://static01.nyt.com/images/2026/11/01/multimedia/1101-175-EYEWITNESS-TIANANMEN-Print1/00PROJECTS-175-EYEWITNESS-TIANANMEN-SQUARE-01-zwtm-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/us/in-1905-a-copper-discovery-created-greenwater-california-a-town-of-2000-people-by-1909-the-mining-boom-had-collapsed-without-producing-a-profit/articleshow/135208274.cms",
+      "title": "Greenwater's copper boom drew 2,000 people before collapsing by 1909",
+      "published": "2026-10-30T21:00:00+00:00",
+      "author": "TOI World Desk",
+      "description": "",
+      "link": "https://timesofindia.indiatimes.com/world/us/in-1905-a-copper-discovery-created-greenwater-california-a-town-of-2000-people-by-1909-the-mining-boom-had-collapsed-without-producing-a-profit/articleshow/135208274.cms",
+      "image": "https://static.toiimg.com/photo/msid-135208461,imgsize-1348246.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo#1",
       "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
@@ -12,6 +82,20 @@
       "description": "Dan S Sullivan, the incumbent Republican senator running for re-election, and allies have accused the Democrats of trying to confuse voters by recruiting Dan J Sullivan to also stand in the race.",
       "link": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4570/live/1ef80da0-d46e-11f1-93e1-3b657b665bcf.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/crz9824d5e88o#0",
+      "title": "Police deployed during stand-off over control of Poland's top court",
+      "published": "2026-10-30T20:52:01+00:00",
+      "author": null,
+      "description": "It comes after the government suspended two senior justices and moved to bring criminal charges against them.",
+      "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6c2/live/46cc2780-d49b-11f1-a701-fddedf244c16.jpg",
       "feed_name": "BBC News - World",
       "feed_title": "BBC News",
       "category": "World News",
@@ -61,6 +145,20 @@
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo#1",
+      "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+      "published": "2026-10-30T20:34:46+00:00",
+      "author": null,
+      "description": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
+      "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10b0/live/dcdf2a60-d46e-11f1-9dda-1ba6fcc7d159.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
       "id": "https://timesofindia.indiatimes.com/world/us/paul-rosolie-entered-the-amazon-at-18-and-spent-two-decades-fighting-to-save-its-rainforest-now-his-team-is-protecting-160000-acres-of-forest/articleshow/135212700.cms",
       "title": "Meet Paul Rosolie: From Amazon explorer at 18 to protecting 160,000 acres of forest",
       "published": "2026-10-30T20:30:00+00:00",
@@ -73,20 +171,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/10/30/world/canada/carney-canada-european-union.html",
-      "title": "Carney Commits Canada to Becoming European Union’s First ‘Associate Member’",
-      "published": "2026-10-30T20:26:08+00:00",
-      "author": "Ian Austen",
-      "description": "The move is part of the Canadian prime minister’s effort to reduce American influence over Canada and expand trade to other parts of the world.",
-      "link": "https://www.nytimes.com/2026/10/30/world/canada/carney-canada-european-union.html",
-      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30int-canada-assess-fmtk/30int-canada-assess-fmtk-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/us/a-retired-virginia-optometrist-opened-an-ice-cream-shop-in-2021-to-create-jobs-for-people-with-disabilities-her-two-stores-now-employ-35-and-she-says-there-is-a-waiting-list-to-work-there/articleshow/135222526.cms",
@@ -129,20 +213,6 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo#0",
-      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-      "published": "2026-10-30T20:10:56+00:00",
-      "author": null,
-      "description": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
-      "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61df/live/2d4de870-d487-11f1-b441-2b33b063138f.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "https://www.nytimes.com/2026/10/30/world/americas/el-salvador-haiti-soldiers-bukele.html",
@@ -227,6 +297,20 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
+      "id": "t3_1xjouve",
+      "title": "Polish Constitutional Tribunal chief says ‘constitutional coup’ is under way",
+      "published": "2026-10-30T19:27:14+00:00",
+      "author": "/u/Christian-Rep-Perisa",
+      "description": "submitted by /u/Christian-Rep-Perisa [link] [comments]",
+      "link": "https://www.reddit.com/r/worldnews/comments/1xjouve/polish_constitutional_tribunal_chief_says/",
+      "image": "https://external-preview.redd.it/T8MG3Tiw1apNJPlyPwEjxQKtBXgtpjl_4IsKkjqL5w0.jpeg?width=640&crop=smart&auto=webp&s=357cf60b6c6174aecd192473840aae087fc2c9fa",
+      "feed_name": "World News",
+      "feed_title": "World News",
+      "category": "World News",
+      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
+      "feed_icon": "https://www.redditstatic.com/icon.png/"
     },
     {
       "id": "108486144",
@@ -733,20 +817,6 @@
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
-      "id": "https://www.nytimes.com/2026/10/30/world/asia/china-tiananmen-kristof.html",
-      "title": "I Covered the Tiananmen Square Massacre. It Still Weighs on Me.",
-      "published": "2026-10-30T17:07:18+00:00",
-      "author": "Nicholas Kristof",
-      "description": "The day that changed modern China also taught me how to recognize true courage.",
-      "link": "https://www.nytimes.com/2026/10/30/world/asia/china-tiananmen-kristof.html",
-      "image": "https://static01.nyt.com/images/2026/11/01/multimedia/1101-175-EYEWITNESS-TIANANMEN-Print1/00PROJECTS-175-EYEWITNESS-TIANANMEN-SQUARE-01-zwtm-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cwdd8q8e9e9yo#1",
       "title": "Canada stops using 'avalanche dogs' for rescues in Rocky Mountains, stirring outrage",
       "published": "2026-10-30T17:00:32+00:00",
@@ -941,20 +1011,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "108483110",
-      "title": "$6.3 billion Binance hack is largest crypto theft on record",
-      "published": "2026-10-30T16:01:51+00:00",
-      "author": null,
-      "description": "Binance says a security breach impacted about $6.3 billion in assets. The exchange says roughly $3 billion has been frozen and losses will be covered.",
-      "link": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108333346-1783688403591-gettyimages-2218057803-CIRCLE_IPO.jpeg?v=1790092423&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/us/indian-national-jailed-for-8-years-in-us-over-laundering-case-targeting-elderly-people-ordered-to-pay-2-4m-to-victims/articleshow/135368796.cms",
@@ -13947,62 +14003,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/rest-of-world/moved-back-from-canada-but-now-cannot-wait-to-return-redditor-says-homesickness-drove-him-back-home-but-mumbai-is-not-the-same/articleshow/135237729.cms",
-      "title": "'Moved back from Canada but now cannot wait to return': Redditor says homesickness drove him back home but Mumbai is not the same",
-      "published": "2026-10-27T14:33:30+00:00",
-      "author": "Poulomi Ghosh",
-      "description": "",
-      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/moved-back-from-canada-but-now-cannot-wait-to-return-redditor-says-homesickness-drove-him-back-home-but-mumbai-is-not-the-same/articleshow/135237729.cms",
-      "image": "https://static.toiimg.com/photo/msid-135237873,imgsize-171682.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6x2qgyqr79wo#0",
-      "title": "Ballon d'Or ceremony raises case of French sports journalist jailed in Algeria",
-      "published": "2026-10-27T14:29:39+00:00",
-      "author": null,
-      "description": "He is in jail accused of supporting terrorism after travelling to the politically sensitive region Kabylie.",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2qgyqr79wo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f138/live/2d67b730-d204-11f1-b441-2b33b063138f.png",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6x2qgyqr79wo#1",
-      "title": "Ballon d'Or ceremony raises case of French sports journalist jailed in Algeria",
-      "published": "2026-10-27T14:29:39+00:00",
-      "author": null,
-      "description": "He is in jail accused of supporting terrorism after travelling to the politically sensitive region Kabylie.",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2qgyqr79wo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f138/live/2d67b730-d204-11f1-b441-2b33b063138f.png",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/congo-rare-earths-minerals-vectus-global-erik-prince-a-us-mercenary-group-a-fragile-peace-and-global-race-for-critical-minerals-12239881#publisher=newsstand",
-      "title": "A US Mercenary Group, A Fragile Peace And Global Race For Critical Minerals",
-      "published": "2026-10-27T14:28:31+00:00",
-      "author": null,
-      "description": "Illustration by Prapti Upadhayay.",
-      "link": "https://www.ndtv.com/world-news/congo-rare-earths-minerals-vectus-global-erik-prince-a-us-mercenary-group-a-fragile-peace-and-global-race-for-critical-minerals-12239881#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-10/ebc5ennc_congo-vectus-_625x300_27_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     }
   ]
 }
