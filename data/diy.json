@@ -1,9 +1,51 @@
 {
   "category": "DIY",
-  "updated": "2026-10-30T18:03:27.823128+00:00",
-  "count": 417,
+  "updated": "2026-10-30T18:33:37.843289+00:00",
+  "count": 420,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/replaced-portainer-watch-tower-uptime-kuma-with-container/",
+      "title": "I replaced Portainer, Watch Tower, and Uptime Kuma with a container that does all three",
+      "published": "2026-10-30T18:30:16+00:00",
+      "author": "Yadullah Abidi",
+      "description": "One container to manage, update, and watch all your other containers.",
+      "link": "https://www.makeuseof.com/replaced-portainer-watch-tower-uptime-kuma-with-container/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/dockhand-main-dashboard-with-logo.JPG",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/old-fire-tablets-work-better-when-you-give-them-just-one-job-heres-what-im-doing-with-mine/",
+      "title": "Old Fire tablets work better when you give them just one job. Here's what I'm doing with mine",
+      "published": "2026-10-30T18:30:15+00:00",
+      "author": "Joe Fedewa",
+      "description": "Give your limited Fire tablet one job, and one job only.",
+      "link": "https://www.howtogeek.com/old-fire-tablets-work-better-when-you-give-them-just-one-job-heres-what-im-doing-with-mine/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/fire-tablet-on-cassette-deck.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/ssd-health-numbers-you-should-be-checking-every-month/",
+      "title": "7 SSD health numbers you should be checking every month",
+      "published": "2026-10-30T18:30:15+00:00",
+      "author": "Monica J. White",
+      "description": "SSDs cost a fortune, so better safe than sorry.",
+      "link": "https://www.howtogeek.com/ssd-health-numbers-you-should-be-checking-every-month/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/01/a-teamgroup-ssd-still-in-its-box.JPG",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/verizon-att-t-mobile-different-names-fast-5g/",
       "title": "Verizon, AT&T, and T-Mobile have three different names for the fast 5G we actually want",
