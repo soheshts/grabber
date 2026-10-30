@@ -1,9 +1,37 @@
 {
   "category": "travel",
-  "updated": "2026-10-30T16:03:52.541548+00:00",
-  "count": 88,
+  "updated": "2026-10-30T16:33:13.536032+00:00",
+  "count": 90,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/10/30/t-magazine/taipei-taiwan-hotel-night-market.html",
+      "title": "Where to Eat, Sleep and Shop in Taipei, Taiwan",
+      "published": "2026-10-30T16:02:19+00:00",
+      "author": "Laura May Todd",
+      "description": "Plus, experts share the Taiwanese city’s best boutique hotels, tea shops and local mountain hikes.",
+      "link": "https://www.nytimes.com/2026/10/30/t-magazine/taipei-taiwan-hotel-night-market.html",
+      "image": null,
+      "feed_name": "NYT > Travel",
+      "feed_title": "NYT > Travel",
+      "category": "travel",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.atlasobscura.com/places/giant-squid-museum",
+      "title": "Giant Squid Museum in Luarca, Spain",
+      "published": "2026-10-30T16:00:00+00:00",
+      "author": null,
+      "description": "Forget the kraken of sailors’ nightmares. The monster really does exist—and in the Asturian fishing town of Luarca, you can come face-to-face with one. Far from being a ship-swallowing beast, the giant squid is a mysterious inhabitant of the ocean depths whose strange anatomy has inspired legends for centuries. Known scientifically as Architeuthis , the giant squid can reach around 20 meters in length and weigh up to a ton. It has three hearts, enormous eyes adapted to the darkness of the abyss…",
+      "link": "https://www.atlasobscura.com/places/giant-squid-museum",
+      "image": "https://img.atlasobscura.com/vMJPc8iLIqANzACa8qexL5onklPTzMuIsyW9TPdSn8Q/rs:fill:300:200:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy80NjUy/OTJlYy04YzRkLTRh/MzYtOTI4OC03NDU3/NDJkZjVmZWI0NGIx/YWNlYWRjMzZiMmYz/MzFfOTI1Q0ZBMjYt/QkM2Qi00QTZELTg3/Q0YtMTU5QjUxMDM1/RkM1XzFfMTA1X2Mu/anBlZw.jpg",
+      "feed_name": "Atlas Obscura - Latest Articles and Places",
+      "feed_title": "Atlas Obscura - Latest Articles and Places",
+      "category": "travel",
+      "feed_url": "https://www.atlasobscura.com/feeds/latest",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.atlasobscura.com&sz=64"
+    },
     {
       "id": "https://www.atlasobscura.com/places/the-old-limestone-arch",
       "title": "The Old Limestone Arch in Mumbai, India",
