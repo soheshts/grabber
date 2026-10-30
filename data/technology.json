@@ -1,9 +1,37 @@
 {
   "category": "technology",
-  "updated": "2026-10-30T08:32:16.048324+00:00",
+  "updated": "2026-10-30T09:03:51.401987+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.theverge.com/?p=1022880",
+      "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+      "published": "2026-10-30T09:00:00+00:00",
+      "author": "Lauren Feiner",
+      "description": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling, it says, could either deprive Wikipedians of useful AI-based tools or endanger […]",
+      "link": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK037_WIKIPEDIA_A.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "feed_name": "The Verge -  All Posts",
+      "feed_title": "The Verge",
+      "category": "technology",
+      "feed_url": "https://www.theverge.com/rss/index.xml",
+      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
+    },
+    {
+      "id": "TheNextWeb=1fb4554ec4192679831737705c8839f2",
+      "title": "Ex-Palantir founders raise $17M for Dream’s AI building design models",
+      "published": "2026-10-30T08:55:43+00:00",
+      "author": "Cristian Dina",
+      "description": "Dream, a San Francisco startup that uses AI to design and engineer buildings, came out of stealth on Thursday with $17M in seed funding. Investors in the round include Andreessen Horowitz (a16z), SV Angel, XYZ, and Zigg Capital. The company is starting with architecture, engineering, and construction, an industry that has been slow to adopt […] This story continues at The Next Web",
+      "link": "https://thenextweb.com/news/dream-17m-seed-ai-building-design",
+      "image": "https://media.thenextweb.com/2026/10/dream-data-centre-design-software-laptop.avif",
+      "feed_name": "The Next Web",
+      "feed_title": "The Next Web",
+      "category": "technology",
+      "feed_url": "https://thenextweb.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
     {
       "id": "https://www.engadget.com/2301941/binance-hacked-for-estimated-6-3-billion-in-record-crypto-theft/",
       "title": "Binance hacked for an estimated $6.3 billion in record crypto theft",
@@ -33,6 +61,20 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
     },
     {
+      "id": "001un2MVKbI0BgcVhVpGpYJ",
+      "title": "Rian Johnsons camera app gives your iPhone photos Knives Out colour grading",
+      "published": "2026-10-30T07:21:20+00:00",
+      "author": null,
+      "description": "'Knives Out' creator Rian Johnson has launched camera app Chromagraph Camera, which applies the same image processing used in his films.",
+      "link": "https://mashable.com/tech/rian-johnson-app-chromagraph-camera-app-knives-out",
+      "image": "https://helios-i.mashable.com/imagery/articles/001un2MVKbI0BgcVhVpGpYJ/hero-image.png",
+      "feed_name": "Mashable",
+      "feed_title": "Mashable",
+      "category": "technology",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
+    },
+    {
       "id": "https://slashdot.org/story/26/10/30/0126236/proton-ceo-is-in-full-ai-psychosis?utm_source=rss1.0mainlinkanon&utm_medium=feed",
       "title": "Proton CEO Is In 'Full AI Psychosis'",
       "published": "2026-10-30T07:00:00+00:00",
@@ -45,6 +87,20 @@
       "category": "technology",
       "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
       "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
+    },
+    {
+      "id": "02QaLPlWA4p3VP6f5AIxzOc",
+      "title": "Dark Matter Season 2s ending, explained: Did they destroy the box?",
+      "published": "2026-10-30T07:00:00+00:00",
+      "author": null,
+      "description": "\"Dark Matter\" Season 2 ends with Jason attempting to destroy the box. But is he successful, and what does it mean for his family?",
+      "link": "https://mashable.com/entertainment/dark-matter-season-2-ending-explained",
+      "image": "https://helios-i.mashable.com/imagery/articles/02QaLPlWA4p3VP6f5AIxzOc/hero-image.jpg",
+      "feed_name": "Mashable",
+      "feed_title": "Mashable",
+      "category": "technology",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
     },
     {
       "id": "05v0FPSTj5oXedqm5L5PTfD",
@@ -13947,62 +14003,6 @@
       "category": "technology",
       "feed_url": "https://www.engadget.com/rss.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
-    },
-    {
-      "id": "https://www.engadget.com/2292950/how-quantum-computer-stays-running-extreme-cold/",
-      "title": "Quantum computers can get colder than deep space — Here's how they stay running",
-      "published": "2026-10-25T13:30:00+00:00",
-      "author": "Nimrod Aldea",
-      "description": "Heat disrupts the accuracy of a quantum computer, so the computer needs to be kept as cold as possible. Which is extremely cold, it turns out.",
-      "link": "https://www.engadget.com/2292950/how-quantum-computer-stays-running-extreme-cold/",
-      "image": "https://www.engadget.com/img/gallery/quantum-computers-can-get-colder-than-deep-space-heres-how-they-stay-running/l-intro-1792594079.jpg",
-      "feed_name": "Engadget",
-      "feed_title": "Engadget - Technology News & Expert Reviews",
-      "category": "technology",
-      "feed_url": "https://www.engadget.com/rss.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
-    },
-    {
-      "id": "https://www.theverge.com/?p=1018217",
-      "title": "r/opensource just banned AI, non-English speakers, and more",
-      "published": "2026-10-25T13:25:32+00:00",
-      "author": "Terrence O’Brien",
-      "description": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today, is incongruent to this Open Source […]",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK115_Reddit_01.jpg.webp?quality=90&strip=all&crop=0,0,100,100",
-      "feed_name": "The Verge -  All Posts",
-      "feed_title": "The Verge",
-      "category": "technology",
-      "feed_url": "https://www.theverge.com/rss/index.xml",
-      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
-    },
-    {
-      "id": "https://www.engadget.com/2292939/dont-throw-away-old-chromebook-even-if-getting-googlebook/",
-      "title": "Don't throw away your old Chromebook (even if you're getting a Googlebook)",
-      "published": "2026-10-25T13:15:00+00:00",
-      "author": "Robin Bea",
-      "description": "There's plenty an old Chromebook can do, even if it's not your main computer.",
-      "link": "https://www.engadget.com/2292939/dont-throw-away-old-chromebook-even-if-getting-googlebook/",
-      "image": "https://www.engadget.com/img/gallery/dont-throw-away-your-old-chromebook-even-if-youre-getting-a-googlebook/l-intro-1792593842.jpg",
-      "feed_name": "Engadget",
-      "feed_title": "Engadget - Technology News & Expert Reviews",
-      "category": "technology",
-      "feed_url": "https://www.engadget.com/rss.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
-    },
-    {
-      "id": "yt:video:8S6Zsb4C5K0",
-      "title": "Will Apple's foldable phone change social video?",
-      "published": "2026-10-25T13:00:10+00:00",
-      "author": "The Verge",
-      "description": "Vertical video doesn’t look great on foldables. But Hollywood is all-in on vertical dramas. Does Apple's iPhone Duo have the weight to change the entire industry? The Verge’s Andru Marino explores this in his latest report. Subscribe: http://goo.gl/G5RXGs Like The Verge on Facebook: https://goo.gl/2P1aGc Follow on Twitter: https://goo.gl/XTWX61 Follow on Instagram: https://goo.gl/7ZeLv Watch The Vergecast on YouTube: https://bit.ly/40RFRkg The Vergecast Podcast: https://bit.ly/3WQDexZ Decoder w…",
-      "link": "https://www.youtube.com/shorts/8S6Zsb4C5K0",
-      "image": "https://i1.ytimg.com/vi/8S6Zsb4C5K0/hqdefault.jpg",
-      "feed_name": "The Verge",
-      "feed_title": "The Verge",
-      "category": "technology",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?user=TheVerge",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64"
     }
   ]
 }
