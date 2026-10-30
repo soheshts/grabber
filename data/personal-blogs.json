@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-10-30T14:33:45.575851+00:00",
-  "count": 425,
+  "updated": "2026-10-30T15:03:27.845215+00:00",
+  "count": 426,
   "summary": null,
   "items": [
     {
@@ -157,6 +157,20 @@
       "category": "personal blogs",
       "feed_url": "https://elizabethtai.com/feed/",
       "feed_icon": "https://elizabethtai.com/wp-content/uploads/2023/02/cropped-site-flavicon.png?w=32"
+    },
+    {
+      "id": "https://ethanmarcotte.com/wrote/the-ship-is-anchord/",
+      "title": "The ship is anchor’d safe and sound.",
+      "published": "2026-10-29T04:00:00+00:00",
+      "author": "Ethan Marcotte",
+      "description": "A favorite actor just passed away.",
+      "link": "https://ethanmarcotte.com/wrote/the-ship-is-anchord/",
+      "image": "https://ethanmarcotte.com/media/picard-flute.avif",
+      "feed_name": "Ethan Marcotte",
+      "feed_title": "My journal — Ethan Marcotte’s website",
+      "category": "personal blogs",
+      "feed_url": "https://ethanmarcotte.com/wrote/feed.xml",
+      "feed_icon": "https://ethanmarcotte.com/favicon.ico"
     },
     {
       "id": "my-2027-web-platform-feature-ranking",
