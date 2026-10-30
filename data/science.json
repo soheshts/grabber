@@ -1,9 +1,23 @@
 {
   "category": "science",
-  "updated": "2026-10-30T10:02:41.944072+00:00",
-  "count": 862,
+  "updated": "2026-10-30T10:32:18.560677+00:00",
+  "count": 865,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo#0",
+      "title": "Helicopter carrying six people crashes in northern Indian state",
+      "published": "2026-10-30T10:07:58+00:00",
+      "author": null,
+      "description": "The aircraft reportedly took off from the Hindu pilgrimage site of Badrinath on Friday afternoon before losing contact.",
+      "link": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6da/live/dd357d00-d448-11f1-97f9-27ebf08d99fe.jpg",
+      "feed_name": "BBC News - Science & Environment",
+      "feed_title": "BBC News",
+      "category": "science",
+      "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
     {
       "id": "news712488781",
       "title": "High-speed microscopy captures 3D images of living cells nearly 400 times faster",
@@ -31,6 +45,20 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "6ad7a94f656c04f6d10ab036",
+      "title": "Crematoria Are Being Used to Heat Homes and Swimming Pools",
+      "published": "2026-10-30T10:00:00+00:00",
+      "author": "Chris Baraniuk",
+      "description": "European countries are leading the way harvesting heat that would otherwise be wasted as green death practices become more common.",
+      "link": "https://www.wired.com/story/crematoria-heat-homes-and-swimming-pools/",
+      "image": "https://media.wired.com/photos/6ae429d4d21d2596b6fe3ef9/master/pass/Crematoriams.jpg",
+      "feed_name": "Science Latest",
+      "feed_title": "Science Latest",
+      "category": "science",
+      "feed_url": "https://www.wired.com/feed/category/science/latest/rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.wired.com&sz=64"
     },
     {
       "id": "news712556949",
@@ -146,6 +174,20 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cqm24kgr1jz4o#1",
+      "title": "Largest woodland bat survey a 'nice story of AI for good'",
+      "published": "2026-10-30T06:10:43+00:00",
+      "author": null,
+      "description": "Some of Britain's rarest and most threatened bats have been recorded in the south-west of England.",
+      "link": "https://www.bbc.co.uk/news/articles/cqm24kgr1jz4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92f8/live/fbb3c410-d39b-11f1-a012-7186932b0251.jpg",
+      "feed_name": "BBC News - Science & Environment",
+      "feed_title": "BBC News",
+      "category": "science",
+      "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqm24kgr1jz4o#0",
       "title": "Largest woodland bat survey a 'nice story of AI for good'",
       "published": "2026-10-30T06:10:43+00:00",
       "author": null,
