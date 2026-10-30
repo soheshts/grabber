@@ -1,9 +1,23 @@
 {
   "category": "travel",
-  "updated": "2026-10-30T17:33:15.373059+00:00",
+  "updated": "2026-10-30T18:03:27.823128+00:00",
   "count": 89,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/10/20/travel/france-travel-riots.html",
+      "title": "Heading to France? Amid Recent Unrest, Here’s What to Know",
+      "published": "2026-10-30T17:23:23+00:00",
+      "author": "Tariro Mzezewa and Ceylan Yeğinsu",
+      "description": "Demonstrations are expected to continue this weekend in Paris and other French cities. Some museums and tourist sites will be closed, and visitors should expect a strong police presence.",
+      "link": "https://www.nytimes.com/2026/10/20/travel/france-travel-riots.html",
+      "image": "https://static01.nyt.com/images/2026/10/20/multimedia/20Trav-France-Riots-01-mpgj/20Trav-France-Riots-01-mpgj-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Travel",
+      "feed_title": "NYT > Travel",
+      "category": "travel",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "https://www.nytimes.com/2026/10/30/t-magazine/taipei-taiwan-hotel-night-market.html",
       "title": "Where to Eat, Sleep and Shop in Taipei, Taiwan",
@@ -647,20 +661,6 @@
       "category": "travel",
       "feed_url": "https://www.atlasobscura.com/feeds/latest",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.atlasobscura.com&sz=64"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/10/20/travel/france-travel-riots.html",
-      "title": "Heading to France? Amid Recent Unrest, Here’s What to Know",
-      "published": "2026-10-23T15:19:00+00:00",
-      "author": "Ceylan Yeğinsu and Tariro Mzezewa",
-      "description": "Demonstrations are expected to continue this weekend in Paris and other French cities. Some museums and tourist sites will be closed, and visitors should expect a strong police presence.",
-      "link": "https://www.nytimes.com/2026/10/20/travel/france-travel-riots.html",
-      "image": "https://static01.nyt.com/images/2026/10/20/multimedia/20Trav-France-Riots-01-mpgj/20Trav-France-Riots-01-mpgj-mediumSquareAt3X.jpg",
-      "feed_name": "NYT > Travel",
-      "feed_title": "NYT > Travel",
-      "category": "travel",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://www.atlasobscura.com/places/facade-of-the-former-marmoles-molina-shop",

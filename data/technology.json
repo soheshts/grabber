@@ -1,9 +1,37 @@
 {
   "category": "technology",
-  "updated": "2026-10-30T17:33:15.373059+00:00",
+  "updated": "2026-10-30T18:03:27.823128+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "published": "2026-10-30T17:38:19+00:00",
+      "author": "Nick Indge",
+      "description": "Low costs and offline security mean magnetic tape still has a job.",
+      "link": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2202649793-500x500-1793381600.jpg",
+      "feed_name": "Ars Technica",
+      "feed_title": "Ars Technica - All content",
+      "category": "technology",
+      "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
+      "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
+    },
+    {
+      "id": "https://www.theverge.com/?p=1023440",
+      "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
+      "published": "2026-10-30T17:38:04+00:00",
+      "author": "Emma Roth",
+      "description": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore \"experiences that recognize participating customers as they arrive, present personalized digital menus, and make payment more effortless,\" as spotted earlier by More […]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2268681559.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "feed_name": "The Verge -  All Posts",
+      "feed_title": "The Verge",
+      "category": "technology",
+      "feed_url": "https://www.theverge.com/rss/index.xml",
+      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
+    },
     {
       "id": "https://www.theverge.com/?p=1023194",
       "title": "The delightfully messy state of Apple gadgets",
@@ -157,6 +185,20 @@
       "category": "technology",
       "feed_url": "https://lifehacker.com/rss",
       "feed_icon": "https://www.google.com/s2/favicons?domain=lifehacker.com&sz=64"
+    },
+    {
+      "id": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/",
+      "title": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
+      "published": "2026-10-30T16:53:49+00:00",
+      "author": "Ashley Belanger",
+      "description": "Applying for FAFSA may get messy as DOJ “ghost student” crackdown ramps up.",
+      "link": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1425343562-500x500.jpg",
+      "feed_name": "Ars Technica",
+      "feed_title": "Ars Technica - All content",
+      "category": "technology",
+      "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
+      "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
     },
     {
       "id": "yt:video:1AvrG9Ldcyg",
@@ -325,6 +367,20 @@
       "category": "technology",
       "feed_url": "https://feeds.megaphone.fm/vergecast",
       "feed_icon": "https://megaphone.imgix.net/podcasts/e4c412e6-e1f0-11e8-9bde-83f9d376f059/image/fa367fa8b1b6ca01fc4b8c34d83ba4d8.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+      "id": "https://arstechnica.com/space/2026/10/analysts-find-looming-launch-crisis-is-more-severe-than-anticipated/",
+      "title": "Analysts find looming launch crisis is \"more severe\" than anticipated",
+      "published": "2026-10-30T16:12:59+00:00",
+      "author": "Eric Berger",
+      "description": "There's no evidence that Starship will launch traditional satellites, either.",
+      "link": "https://arstechnica.com/space/2026/10/analysts-find-looming-launch-crisis-is-more-severe-than-anticipated/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/falcon-9-500x500.jpeg",
+      "feed_name": "Ars Technica",
+      "feed_title": "Ars Technica - All content",
+      "category": "technology",
+      "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
+      "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
     },
     {
       "id": "TheNextWeb=f82e0775f7f58df46d96ff144fb113d3",
@@ -639,7 +695,7 @@
       "title": "Tesla's 'Flying' Roadster: Gimmick or Groundbreaking?",
       "published": "2026-10-30T14:00:19+00:00",
       "author": "CNET",
-      "description": "CNET's car expert Antuan Goodwin joins What the Future to discuss the new 'flying' Tesla Roadster. Read more about the Tesla Roadster on CNET.com Tesla Roadster Fires Up SpaceX Tech for ‘Flying Car’ Demo https://zdcs.link/QdJ2K5 Timecode Chapters: 0:00 History & Delays of the Tesla Roadster 1:56 Suction Fans and Downward Force 3:38 SpaceX Thrusters & Reaction Control Systems 5:21 The 3 Tiers: Standard, Thrust, and Rocket Edition 7:03 Sci-Fi Marketing or Real Capability? 9:03 2028 Production Pre…",
+      "description": "CNET's car expert Antuan Goodwin joins What the Future to discuss the new 'flying' Tesla Roadster. CNET's car expert Antuan Goodwin joins What the Future to discuss the new 'flying' Tesla Roadster. Read more about the Tesla Roadster on CNET.com Tesla Roadster Fires Up SpaceX Tech for ‘Flying Car’ Demo https://zdcs.link/QdJ2K5 Timecode Chapters: 0:00 History & Delays of the Tesla Roadster 1:56 Suction Fans and Downward Force 3:38 SpaceX Thrusters & Reaction Control Systems 5:21 The 3 Tiers: Stan…",
       "link": "https://www.youtube.com/watch?v=j5VVz6sv3tE",
       "image": "https://i3.ytimg.com/vi/j5VVz6sv3tE/hqdefault.jpg",
       "feed_name": "CNET",
@@ -13073,7 +13129,7 @@
       "author": "Mike Sorrentino",
       "description": "We’re using our custom-made robot to open and close the iPhone Duo hundreds of thousands of times. Watch along and get your questions answered by CNET editors live.",
       "link": "https://www.cnet.com/tech/mobile/watch-us-fold-the-iphone-duo-thousands-of-times-on-our-weeks-long-livestream/",
-      "image": "https://www.cnet.com/wp-content/uploads/sites/2/image-16-4.png",
+      "image": "https://www.cnet.com/wp-content/uploads/sites/2/iPhone-Duo-138K-fold-a-phone-machine.png",
       "feed_name": "CNET News",
       "feed_title": "News – CNET",
       "category": "technology",
@@ -13947,62 +14003,6 @@
       "category": "technology",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
-    },
-    {
-      "id": "https://www.engadget.com/2294294/how-starlink-speeds-compare-5g/",
-      "title": "How do Starlink speeds compare to 5G?",
-      "published": "2026-10-26T13:15:00+00:00",
-      "author": "Jack Whitcombe",
-      "description": "Starlink and 5G providers advertise high speeds, but there is more to consider when deciding between the two. Think about location, and coverage as well.",
-      "link": "https://www.engadget.com/2294294/how-starlink-speeds-compare-5g/",
-      "image": "https://www.engadget.com/img/gallery/how-do-starlink-speeds-compare-to-5g/l-intro-1791560037.jpg",
-      "feed_name": "Engadget",
-      "feed_title": "Engadget - Technology News & Expert Reviews",
-      "category": "technology",
-      "feed_url": "https://www.engadget.com/rss.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
-    },
-    {
-      "id": "06IHkIweT0UP0MHoS66ijSq",
-      "title": "Starbucks confirms the viral Bearista glass cold cup is returning (with a twist) — how to claim",
-      "published": "2026-10-26T13:10:35+00:00",
-      "author": null,
-      "description": "Starbucks Bearista glass cup 2026: What we know about the drop.",
-      "link": "https://mashable.com/life/starbucks-bearista-glass-cold-cup-how-to-claim",
-      "image": "https://helios-i.mashable.com/imagery/articles/06IHkIweT0UP0MHoS66ijSq/hero-image.jpg",
-      "feed_name": "Mashable",
-      "feed_title": "Mashable",
-      "category": "technology",
-      "feed_url": "http://feeds.mashable.com/Mashable",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
-    },
-    {
-      "id": "https://www.theverge.com/?p=1017801",
-      "title": "Apple updates the iPad Mini with a larger OLED display",
-      "published": "2026-10-26T13:05:03+00:00",
-      "author": "Emma Roth, Jay Peters",
-      "description": "Apple announced a new iPad Mini with a larger, 8.5-inch OLED display. The company revealed the new device just days before its \"Pro and tell\" event on Wednesday. The iPad Mini starts at $699 for the Wi-Fi-only model, and $849 for Wi-Fi and cellular. At 5.4mm thick, the iPad Mini is thinner and lighter than […]",
-      "link": "https://www.theverge.com/tech/1017801/ipad-mini-oled-display-apple-announce",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ipadmini.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "feed_name": "The Verge -  All Posts",
-      "feed_title": "The Verge",
-      "category": "technology",
-      "feed_url": "https://www.theverge.com/rss/index.xml",
-      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
-    },
-    {
-      "id": "TheNextWeb=77136f7117a9cbfb48544b09cf7dc09f",
-      "title": "American Express cuts 5% of staff and won’t let AI agents ‘run rogue’",
-      "published": "2026-10-26T13:01:20+00:00",
-      "author": "Alina Maria Stan",
-      "description": "American Express is cutting about 5% of its global workforce and taking a $336M restructuring charge. Chief executive Stephen Squeri told analysts about the cuts on Friday, CNBC’s Hugh Son reported. The company had almost 77,000 employees at the end of 2025, according to CNBC. Chief financial officer Christophe Le Caillec told CNBC the restructuring […] This story continues at The Next Web",
-      "link": "https://thenextweb.com/news/amex-job-cuts-ai-agents-run-rogue",
-      "image": "https://media.thenextweb.com/2026/10/american-express-app-iphone-wooden-desk.avif",
-      "feed_name": "The Next Web",
-      "feed_title": "The Next Web",
-      "category": "technology",
-      "feed_url": "https://thenextweb.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
     }
   ]
 }
