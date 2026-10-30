@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-10-30T02:03:43.948701+00:00",
-  "count": 370,
+  "updated": "2026-10-30T02:34:45.562603+00:00",
+  "count": 371,
   "summary": null,
   "items": [
+    {
+      "id": "https://hackaday.com/?p=1396863",
+      "title": "Putting a MiSTer Marquee on a Better Display",
+      "published": "2026-10-30T02:00:00+00:00",
+      "author": "Tom Nardi",
+      "description": "Some MiSTer users put a small secondary “marquee” display on the FPGA board that can show information about the system such as the currently loaded core and what game it …read more",
+      "link": "https://hackaday.com/2026/10/29/putting-a-mister-marquee-on-a-better-display/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/10/misterdisplay_feat.jpg",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/i-tried-running-docker-on-a-raspberry-pi-heres-what-i-run-on-it/",
       "title": "I expected Docker to choke on my old Raspberry Pi, but Kiwix proved me wrong",
