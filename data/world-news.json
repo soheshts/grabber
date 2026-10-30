@@ -1,15 +1,43 @@
 {
   "category": "World News",
-  "updated": "2026-10-30T11:03:50.282715+00:00",
+  "updated": "2026-10-30T11:33:34.223226+00:00",
   "count": 1000,
   "summary": null,
   "items": [
     {
+      "id": "108483110",
+      "title": "Biggest-ever crypto hack impacts $6.3 billion as Binance works to contain fallout",
+      "published": "2026-10-30T11:24:42+00:00",
+      "author": null,
+      "description": "Binance estimated the impact of a security incident at $6.3 billion, with around $3 billion in crypto assets frozen, and pledged to cover all losses.",
+      "link": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108333346-1783688403591-gettyimages-2218057803-CIRCLE_IPO.jpeg?v=1790092423&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c60me298k1yeo#0",
+      "title": "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens",
+      "published": "2026-10-30T11:17:32+00:00",
+      "author": null,
+      "description": "Several hundred people are understood to have decided to stay in the frontline town, despite the lack of gas, electricity and running water.",
+      "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e60e/live/1b89e490-d450-11f1-8780-edcbf4859104.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
       "id": "108485491",
       "title": "Euro zone economy slows to 0.4% growth in Q3 as crisis-hit France contracts",
-      "published": "2026-10-30T10:58:33+00:00",
+      "published": "2026-10-30T11:16:46+00:00",
       "author": null,
-      "description": "",
+      "description": "The euro zone showed surprising resilience, but weak productivity, industrial competitiveness challenges and demographic pressures remain, analysts said.",
       "link": "https://www.cnbc.com/2026/10/30/euro-zone-gdp-france.html",
       "image": "https://image.cnbcfm.com/api/v1/image/108458444-1792915145937-gettyimages-2301446120-pinto-demonstr261024_npaqS.jpeg?v=1792915229&w=1920&h=1080",
       "feed_name": "CNBC",
@@ -17,6 +45,62 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/video/world/europe/100000011210889/how-ukrainian-soldiers-are-moving-underground.html",
+      "title": "How Ukrainian Soldiers Are Moving Underground",
+      "published": "2026-10-30T11:14:40+00:00",
+      "author": "Maria Varenikova, Finbarr O’Reilly, Coleman Lowndes and Rebecca Suner",
+      "description": "Ukrainian soldiers are traveling underground through abandoned gas pipes to reach positions near the front. Our correspondent Maria Varenikova joins them on the journey through the kill zone and into positions where troops can spend weeks at a time.",
+      "link": "https://www.nytimes.com/video/world/europe/100000011210889/how-ukrainian-soldiers-are-moving-underground.html",
+      "image": null,
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/26/world/europe/ukraine-oleshky-ceasefire-russia-war.html",
+      "title": "Rare Evacuation Announced by Melania Trump Begins in Ukrainian City of Oleshky",
+      "published": "2026-10-30T11:10:32+00:00",
+      "author": "Carlotta Gall and Oleksandr Chubko",
+      "description": "Many of the people left in Oleshky, where bombardment is constant, have run out of food. A truce that began Tuesday is supposed to allow aid in and civilians out.",
+      "link": "https://www.nytimes.com/2026/10/26/world/europe/ukraine-oleshky-ceasefire-russia-war.html",
+      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30int-Ukraine-Oleshky-WTK-tkfg/30int-Ukraine-Oleshky-WTK-tkfg-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/30/us/louisiana-creole-recording-lorenzo-dow-turner.html",
+      "title": "Oldest Recording of Louisiana’s Vanishing Creole Language Is Published",
+      "published": "2026-10-30T11:09:52+00:00",
+      "author": "Leo Sands",
+      "description": "The rediscovery of a forgotten recording from 1935 sheds light on a language rooted in the state’s history of slavery and French colonialism.",
+      "link": "https://www.nytimes.com/2026/10/30/us/louisiana-creole-recording-lorenzo-dow-turner.html",
+      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30xp-creole-woman/30xp-creole-woman-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/30/beijing-queer-film-festival-cancelled-after-police-harassment",
+      "title": "Beijing Queer film festival cancelled after harassment from authorities",
+      "published": "2026-10-30T11:04:12+00:00",
+      "author": "Amy Hawkins Senior China correspondent",
+      "description": "Forums for discussion of feminist and LGBTQ+ views face growing intolerance from Chinese state, say experts Beijing’s annual independent queer film festival has been cancelled after what is understood to have been a campaign of sustained harassment from authorities. Beijing Queer film festival, which was due to begin on Friday in China’s capital, is one of the country’s oldest independent film festivals. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/oct/30/beijing-queer-film-festival-cancelled-after-police-harassment",
+      "image": "https://i.guim.co.uk/img/media/14a4cd9301124343d52ca3d230e01866c02481a9/555_0_5549_4439/master/5549.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d1037b33307269b2c036282116c91b24",
+      "feed_name": "The Guardian",
+      "feed_title": "World news | The Guardian",
+      "category": "World News",
+      "feed_url": "https://www.theguardian.com/world/rss",
+      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
     },
     {
       "id": "108482824",
@@ -31,6 +115,34 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/us/an-anonymous-connecticut-family-donated-50-million-to-a-global-health-charity-the-record-gift-will-expand-access-to-lifesaving-medicines-support-healthcare-centres-and-secure-the-organisations-financial-future/articleshow/135356576.cms",
+      "title": "Anonymous family donates $50 million to expand access to lifesaving medicines",
+      "published": "2026-10-30T10:50:25+00:00",
+      "author": "TOI World Desk",
+      "description": "",
+      "link": "https://timesofindia.indiatimes.com/world/us/an-anonymous-connecticut-family-donated-50-million-to-a-global-health-charity-the-record-gift-will-expand-access-to-lifesaving-medicines-support-healthcare-centres-and-secure-the-organisations-financial-future/articleshow/135356576.cms",
+      "image": "https://static.toiimg.com/photo/msid-135357029,imgsize-1331885.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
+      "id": "t3_1xjc2lv",
+      "title": "Pentagon urges Baltic states to tone down rhetoric on Russia – media",
+      "published": "2026-10-30T10:49:28+00:00",
+      "author": "/u/GuyWithMasks",
+      "description": "submitted by /u/GuyWithMasks [link] [comments]",
+      "link": "https://www.reddit.com/r/worldnews/comments/1xjc2lv/pentagon_urges_baltic_states_to_tone_down/",
+      "image": "https://external-preview.redd.it/l6zprFTXpfnJrZNMCYA_tkLzowsGTMdfO-5hzRhJF9A.jpeg?width=640&crop=smart&auto=webp&s=d18f13c1c1bb44c85372c3af2093a6aa0b861739",
+      "feed_name": "World News",
+      "feed_title": "World News",
+      "category": "World News",
+      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
+      "feed_icon": "https://www.redditstatic.com/icon.png/"
     },
     {
       "id": "108485496",
@@ -59,20 +171,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c60me298k1yeo#0",
-      "title": "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens",
-      "published": "2026-10-30T10:32:06+00:00",
-      "author": null,
-      "description": "Several hundred people are understood to have decided to stay in the frontline town, despite the lack of gas, electricity and running water.",
-      "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e60e/live/1b89e490-d450-11f1-8780-edcbf4859104.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/us/in-1999-an-indiana-woman-bought-a-home-with-a-10000-loan-from-her-grandparents-22-years-later-her-former-partners-brother-acquired-half-the-property-and-tried-to-force-a-sale-but-an-appeals-court-let-her-keep-it/articleshow/135350652.cms",
@@ -215,6 +313,34 @@
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
+      "id": "https://www.ndtv.com/world-news/us-army-practices-mass-burials-after-decades-amid-looming-iran-war-threat-12258472#publisher=newsstand",
+      "title": "US Army Practices Mass Burials After Decades Amid Looming Iran War Threat",
+      "published": "2026-10-30T09:59:26+00:00",
+      "author": null,
+      "description": "The training comes at a time when Washington is reportedly planning a massive operation in Iran",
+      "link": "https://www.ndtv.com/world-news/us-army-practices-mass-burials-after-decades-amid-looming-iran-war-threat-12258472#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-10/t9g14uck_us-mass-grave_625x300_30_October_26.jpeg",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/ndtv-world-summit-2026-will-us-back-india-if-pak-launches-another-attack-ex-cia-chief-answers-12257070#publisher=newsstand",
+      "title": "Will US Back India If Pak Launches Another Attack? Ex-CIA Chief Answers",
+      "published": "2026-10-30T09:57:12+00:00",
+      "author": null,
+      "description": "Former CIA Director and US Army General David Petraeus at the NDTV World Summit.",
+      "link": "https://www.ndtv.com/world-news/ndtv-world-summit-2026-will-us-back-india-if-pak-launches-another-attack-ex-cia-chief-answers-12257070#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-10/6od3kj1k_petraeus_625x300_24_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
       "id": "https://www.nytimes.com/2026/10/30/world/europe/ukraine-russia-natural-gas-pipes.html",
       "title": "Ukrainians Are Fighting Russians Inside Underground Gas Pipes. I Went in One.",
       "published": "2026-10-30T09:51:11+00:00",
@@ -227,6 +353,20 @@
       "category": "World News",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/ndtv-world-summit-2026-should-machines-decide-who-lives-and-dies-in-a-war-ex-cia-chief-answers-12257538#publisher=newsstand",
+      "title": "Should Machines Decide Who Lives And Dies In A War? Ex-CIA Chief Answers",
+      "published": "2026-10-30T09:49:25+00:00",
+      "author": null,
+      "description": "Former CIA Director General David Petraeus said machines could sometimes make targeting decisions better than humans.",
+      "link": "https://www.ndtv.com/world-news/ndtv-world-summit-2026-should-machines-decide-who-lives-and-dies-in-a-war-ex-cia-chief-answers-12257538#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-10/4567db4_cia_625x300_23_October_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
       "id": "t3_1xjaz8j",
@@ -283,6 +423,20 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/binance-major-5-9-billion-heist-cyberattack-freezes-crypto-funds-suspends-deposits-withdrawals-12256662#publisher=newsstand",
+      "title": "$6.3 Billion From Binance Funds Gone In Biggest Crypto Cyberattack",
+      "published": "2026-10-30T09:32:04+00:00",
+      "author": null,
+      "description": "The scope of the heist was not immediately known.",
+      "link": "https://www.ndtv.com/world-news/binance-major-5-9-billion-heist-cyberattack-freezes-crypto-funds-suspends-deposits-withdrawals-12256662#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-10/jucdvqp4_binance-reuters_625x300_30_October_26.jpeg",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
       "id": "t3_1xjarzq",
@@ -425,20 +579,6 @@
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
-      "id": "https://www.nytimes.com/video/world/europe/100000011210889/how-ukrainian-soldiers-are-moving-underground.html",
-      "title": "How Ukrainian Soldiers Are Moving Underground",
-      "published": "2026-10-30T09:01:34+00:00",
-      "author": "Maria Varenikova, Finbarr O’Reilly, Coleman Lowndes and Rebecca Suner",
-      "description": "Ukrainian soldiers are traveling underground through abandoned gas pipes to reach positions near the front. Our correspondent Maria Varenikova joins them on the journey through the kill zone and into positions where troops can spend weeks at a time.",
-      "link": "https://www.nytimes.com/video/world/europe/100000011210889/how-ukrainian-soldiers-are-moving-underground.html",
-      "image": null,
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
       "id": "https://www.nytimes.com/2026/10/30/world/americas/colombia-crackdown-army-killings-de-la-espriella.html",
       "title": "Colombia’s ‘Narcoterrorist’ Crackdown Raises Questions Over Killings",
       "published": "2026-10-30T09:00:55+00:00",
@@ -493,6 +633,20 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/what-israels-election-deadlock-means-for-india-iran-and-gaza-12258070#publisher=newsstand",
+      "title": "What Israel's Election Deadlock Means For India, Iran And Gaza",
+      "published": "2026-10-30T08:33:08+00:00",
+      "author": null,
+      "description": "Netanyahu will probably get the first shot at building a coalition.",
+      "link": "https://www.ndtv.com/world-news/what-israels-election-deadlock-means-for-india-iran-and-gaza-12258070#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-10/iaijmuj4_netanyahu_625x300_28_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cxvgdzpy7241o#0",
@@ -593,20 +747,6 @@
       "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
-      "id": "108483110",
-      "title": "Biggest-ever crypto hack impacts $6.3 billion as Binance works to contain fallout",
-      "published": "2026-10-30T08:09:28+00:00",
-      "author": null,
-      "description": "Binance estimated the impact of a security incident at $6.3 billion, with around $3 billion in crypto assets frozen, and pledged to cover all losses.",
-      "link": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108333346-1783688403591-gettyimages-2218057803-CIRCLE_IPO.jpeg?v=1790092423&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
       "id": "https://www.ndtv.com/world-news/gold-smuggling-arrest-puts-china-bangladesh-ties-under-scrutiny-12257845#publisher=newsstand",
       "title": "2 Chinese Women Arrested At Bangladesh Airport. They Hid Gold In Underwear",
       "published": "2026-10-30T07:58:34+00:00",
@@ -647,20 +787,6 @@
       "category": "World News",
       "feed_url": "https://www.reddit.com/r/worldnews/.rss",
       "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/10/26/world/europe/ukraine-oleshky-ceasefire-russia-war.html",
-      "title": "Rare Evacuation Announced by Melania Trump Begins in Ukrainian City of Oleshky",
-      "published": "2026-10-30T07:54:42+00:00",
-      "author": "Carlotta Gall and Oleksandr Chubko",
-      "description": "Many people left in Oleshky, where bombardment is constant, have run out of food. A truce that began Tuesday is supposed to allow aid in and civilians out.",
-      "link": "https://www.nytimes.com/2026/10/26/world/europe/ukraine-oleshky-ceasefire-russia-war.html",
-      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30int-Ukraine-Oleshky-WTK-tkfg/30int-Ukraine-Oleshky-WTK-tkfg-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/crq5nplyvlg8o#0",
@@ -1181,20 +1307,6 @@
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
     },
     {
-      "id": "https://www.nytimes.com/2026/10/30/us/louisiana-creole-recording-lorenzo-dow-turner.html",
-      "title": "Oldest Recording of Louisiana’s Vanishing Creole Language Is Published",
-      "published": "2026-10-30T05:00:08+00:00",
-      "author": "Leo Sands",
-      "description": "The rediscovery of a forgotten recording from 1935 sheds light on a language rooted in the state’s history of slavery and French colonialism.",
-      "link": "https://www.nytimes.com/2026/10/30/us/louisiana-creole-recording-lorenzo-dow-turner.html",
-      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30xp-creole-woman/30xp-creole-woman-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
       "id": "https://www.ndtv.com/world-news/bodies-of-2-colorado-students-who-went-missing-during-mountain-hike-found-12257189#publisher=newsstand",
       "title": "Bodies Of 2 Colorado Students, Who Went Missing During Mountain Hike, Found",
       "published": "2026-10-30T04:59:24+00:00",
@@ -1622,20 +1734,6 @@
       "description": "The statement claims that Sylvia failed three polygraph tests about leaking classified information.",
       "link": "https://www.ndtv.com/world-news/fired-us-general-brett-sylvia-leaked-iran-russia-war-details-failed-3-polygraph-tests-12256696#publisher=newsstand",
       "image": "https://c.ndtvimg.com/2026-10/u87icdpk_brett-sylvia-reuters_625x300_30_October_26.jpeg",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/binance-major-5-9-billion-heist-cyberattack-freezes-crypto-funds-suspends-deposits-withdrawals-12256662#publisher=newsstand",
-      "title": "Binance Reports Major '$5.9 Billion' Heist, Suspends Deposits, Withdrawals",
-      "published": "2026-10-30T02:08:16+00:00",
-      "author": null,
-      "description": "The scope of the heist was not immediately known.",
-      "link": "https://www.ndtv.com/world-news/binance-major-5-9-billion-heist-cyberattack-freezes-crypto-funds-suspends-deposits-withdrawals-12256662#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-10/jucdvqp4_binance-reuters_625x300_30_October_26.jpeg",
       "feed_name": "NDTV News - World-news",
       "feed_title": "NDTV News Search Records Found 1000",
       "category": "World News",
@@ -13905,104 +14003,6 @@
       "category": "World News",
       "feed_url": "https://www.theguardian.com/world/rss",
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/science/nature/in-2024-a-florida-city-began-a-32-million-project-at-its-209-acre-tucker-ranch-preserve-two-years-later-it-opened-a-25-6-acre-botanical-and-wellness-park-after-finishing-the-work-for-31-million/articleshow/135209278.cms",
-      "title": "Florida city opens $31 million botanical and wellness park at 209-acre Tucker Ranch preserve",
-      "published": "2026-10-27T06:27:50+00:00",
-      "author": "TOI Science Desk",
-      "description": "On October 23, 2026, Tucker Ranch Holistic Health and Wellness Park along with its Botanical Garden opened its doors to the public. This remarkable transformation of a former cattle ranch spans 25.6 acres, featuring stunning botanical displays, outdoor fitness spaces, and wellness facilities initiated through a substantial investment. Its mission is to foster health, education, and outdoor engagement for both residents and visitors, with free daily access for all.",
-      "link": "https://timesofindia.indiatimes.com/science/nature/in-2024-a-florida-city-began-a-32-million-project-at-its-209-acre-tucker-ranch-preserve-two-years-later-it-opened-a-25-6-acre-botanical-and-wellness-park-after-finishing-the-work-for-31-million/articleshow/135209278.cms",
-      "image": "https://static.toiimg.com/photo/msid-135209357,imgsize-1994189.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/us/1-in-4-south-asian-americans-who-backed-trump-in-2024-now-plan-to-vote-democrat-in-midterms-survey/articleshow/135226212.cms",
-      "title": "1 in 4 South Asian Americans who backed Trump in 2024 now plan to vote Democrat in midterms",
-      "published": "2026-10-27T06:17:42+00:00",
-      "author": "Abhishek Mishra",
-      "description": "",
-      "link": "https://timesofindia.indiatimes.com/world/us/1-in-4-south-asian-americans-who-backed-trump-in-2024-now-plan-to-vote-democrat-in-midterms-survey/articleshow/135226212.cms",
-      "image": "https://static.toiimg.com/photo/msid-135226251,imgsize-1129103.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/bangladesh-pm-tarique-rahman-in-japan-meets-pm-sanae-takaichi-invites-japanese-investors-12241204#publisher=newsstand",
-      "title": "Bangladesh PM In Japan, Meets PM Sanae Takaichi, Invites Japanese Investors",
-      "published": "2026-10-27T05:57:54+00:00",
-      "author": null,
-      "description": "Bangladesh Prime Minister Tarique Rahman is on his third state visit since taking office.",
-      "link": "https://www.ndtv.com/world-news/bangladesh-pm-tarique-rahman-in-japan-meets-pm-sanae-takaichi-invites-japanese-investors-12241204#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-10/gftsnvs_tarique-rahman-sanae-takaichi_625x300_27_October_26.jpeg",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/lulas-army-whatsapp-channel-social-media-digital-offensive-behind-luiz-inacio-lulas-brazil-win-12241130#publisher=newsstand",
-      "title": "WhatsApp Channel, Social Media: Digital Offensive Behind Lula's Brazil Win",
-      "published": "2026-10-27T05:51:46+00:00",
-      "author": null,
-      "description": "Lula passed a raft of crowd-pleasing measures in the run-up to the election.",
-      "link": "https://www.ndtv.com/world-news/lulas-army-whatsapp-channel-social-media-digital-offensive-behind-luiz-inacio-lulas-brazil-win-12241130#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-10/0gifmluk_brazil-reuters_625x300_27_October_26.jpeg",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/us/zohran-mamdani-announces-2-million-investment-in-new-york-aquarium-renovation-money-will-support-upgrades-to-sea-cliffs-exhibit-housing-seals-sea-otters-and-sea-lions/articleshow/135225397.cms",
-      "title": "Zohran Mamdani announces $2 million for New York Aquarium renovation",
-      "published": "2026-10-27T05:46:17+00:00",
-      "author": "TOI World Desk",
-      "description": "",
-      "link": "https://timesofindia.indiatimes.com/world/us/zohran-mamdani-announces-2-million-investment-in-new-york-aquarium-renovation-money-will-support-upgrades-to-sea-cliffs-exhibit-housing-seals-sea-otters-and-sea-lions/articleshow/135225397.cms",
-      "image": "https://static.toiimg.com/photo/msid-135225795,imgsize-1575597.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/man-jailed-for-3-years-for-stealing-rare-350-year-old-map-refuses-to-reveal-its-location-12241099#publisher=newsstand",
-      "title": "Man Jailed For 3 Years For Stealing Rare World Map, Refuses To Reveal Its Location",
-      "published": "2026-10-27T05:45:46+00:00",
-      "author": null,
-      "description": "West was sentenced to three years in prison for criminal damage.",
-      "link": "https://www.ndtv.com/world-news/man-jailed-for-3-years-for-stealing-rare-350-year-old-map-refuses-to-reveal-its-location-12241099#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-10/sv1vio6o_historic-atlas-theft-_625x300_27_October_26.jpeg",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/uk/ed-sheeran-performed-at-a-private-new-york-fundraiser-for-children-in-his-home-county-of-suffolk-the-evening-raised-1-million-to-support-local-charities-helping-disadvantaged-young-people/articleshow/135210071.cms",
-      "title": "Ed Sheeran performs at New York fundraiser raising $1 million for disadvantaged children in Suffolk",
-      "published": "2026-10-27T05:36:44+00:00",
-      "author": "TOI World Desk",
-      "description": "In an inspiring private fundraising gala, Ed Sheeran performed in New York, raising a remarkable $1 million to support disadvantaged children in Suffolk. Local charities will benefit from the funds, which Ipswich Town Football Club chairman Mark Ashton praised. The Lentonbrook Foundation plans to enhance its existing programs for youth in need, ensuring that the community continues to receive vital support.",
-      "link": "https://timesofindia.indiatimes.com/world/uk/ed-sheeran-performed-at-a-private-new-york-fundraiser-for-children-in-his-home-county-of-suffolk-the-evening-raised-1-million-to-support-local-charities-helping-disadvantaged-young-people/articleshow/135210071.cms",
-      "image": "https://static.toiimg.com/photo/msid-135210377,imgsize-1445229.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     }
   ]
 }
