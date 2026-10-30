@@ -1,9 +1,51 @@
 {
   "category": "technology",
-  "updated": "2026-10-30T11:33:34.223226+00:00",
+  "updated": "2026-10-30T12:03:41.883247+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.theverge.com/?p=1022628",
+      "title": "The touchscreen MacBook Pro is just a MacBook Pro with a touchscreen",
+      "published": "2026-10-30T12:00:00+00:00",
+      "author": "Antonio G. Di Benedetto",
+      "description": "Apple's long-awaited touchscreen MacBook Pro is finally here. I got to try this MacBook that, according to the last two Apple CEOs, shouldn't exist. The most surprising thing is how normal it is. The MacBook Pro with PROLED XDR Display (what a name) has one of the nicest screens I've seen on a laptop. The […]",
+      "link": "https://www.theverge.com/tech/1022628/apple-macbook-pro-proled-xdr-touchscreen-oled-impressions-totally-normal",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268836_MacBook_Pro_touchscreen_OLED_handson_ADiBenedetto_0043.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "feed_name": "The Verge -  All Posts",
+      "feed_title": "The Verge",
+      "category": "technology",
+      "feed_url": "https://www.theverge.com/rss/index.xml",
+      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
+    },
+    {
+      "id": "TheNextWeb=ecfe221022baebfbdab041f294be9e81",
+      "title": "Iowa and Ohio voters back AI safety measures over winning the AI race",
+      "published": "2026-10-30T11:54:28+00:00",
+      "author": "Ana-Maria Stanciuc",
+      "description": "Voters in Iowa and Ohio want AI safety rules even if the US is not always first in the AI race, a new poll from a Republican pollster finds. Days before the US midterm elections, the country’s biggest union federation says it is writing its own AI bill. Inquire, a firm run by Republican pollster […] This story continues at The Next Web",
+      "link": "https://thenextweb.com/news/ai-safety-measures-poll-iowa-ohio-afl-cio-bill",
+      "image": "https://media.thenextweb.com/2026/10/i-voted-sticker-american-flag-hand.avif",
+      "feed_name": "The Next Web",
+      "feed_title": "The Next Web",
+      "category": "technology",
+      "feed_url": "https://thenextweb.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
+    {
+      "id": "https://www.theverge.com/?p=1023021",
+      "title": "Binance hackers stole $6.3 billion in record-breaking crypto heist",
+      "published": "2026-10-30T11:44:53+00:00",
+      "author": "Jess Weatherbed",
+      "description": "Binance has disclosed that $6.3 billion worth of crypto funds have been stolen from the platform, in what's believed to be the biggest cryptocurrency hack on record. In a series of updates posted to X, the crypto exchange said that user funds are safe, and that around $3 billion of the impacted assets have been […]",
+      "link": "https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK428_CRYPTO_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "feed_name": "The Verge -  All Posts",
+      "feed_title": "The Verge",
+      "category": "technology",
+      "feed_url": "https://www.theverge.com/rss/index.xml",
+      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
+    },
     {
       "id": "07yFJ8A9sRVnDqG9VjzCkxu",
       "title": "Im watching the Mexican GP for free this weekend — how to live stream F1 for free",
@@ -13961,48 +14003,6 @@
       "category": "technology",
       "feed_url": "https://www.engadget.com/rss.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
-    },
-    {
-      "id": "01b5BxvQKxa1oXa1HrF9Zad",
-      "title": "Don’t miss your chance to get lifetime Microsoft Office Pro 2021 for $28",
-      "published": "2026-10-25T22:00:00+00:00",
-      "author": null,
-      "description": "Get a Microsoft Office Professional 2021 lifetime license for one Windows PC for $27.97 through Nov. 1, including Word, Excel, PowerPoint, and Outlook.",
-      "link": "https://mashable.com/tech/oct-25-microsoft-office-professional-2021-for-windows-lifetime-license",
-      "image": "https://helios-i.mashable.com/imagery/articles/01b5BxvQKxa1oXa1HrF9Zad/hero-image.png",
-      "feed_name": "Mashable",
-      "feed_title": "Mashable",
-      "category": "technology",
-      "feed_url": "http://feeds.mashable.com/Mashable",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
-    },
-    {
-      "id": "https://linux.slashdot.org/story/26/10/25/2153202/a-newly-proposed-linux-filesystem-can-fix-corrupted-data?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "title": "A Newly Proposed Linux Filesystem Can Fix Corrupted Data",
-      "published": "2026-10-25T21:56:00+00:00",
-      "author": "EditorDavid",
-      "description": "BeamFS creator Aurelien Desbrieres is not calling for a merge, but is requesting feedback on an 18-patch proposal that takes the place of FTRFS, an earlier filesystem he proposed in April. The Linux/Open Source blog It's FOSS reports: Filesystems that can repair damage, like Btrfs and ZFS, usually do it by falling back on a spare copy of the data. BeamFS skips that and stores Reed-Solomon error-correcting codes inside every block. Every read gets checked against those codes, and small amounts o…",
-      "link": "https://linux.slashdot.org/story/26/10/25/2153202/a-newly-proposed-linux-filesystem-can-fix-corrupted-data?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-      "feed_name": "Slashdot",
-      "feed_title": "Slashdot",
-      "category": "technology",
-      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
-    },
-    {
-      "id": "https://www.theverge.com/?p=1018233",
-      "title": "iFixit’s look inside the iPhone Duo may explain those broken screens and hinges",
-      "published": "2026-10-25T21:40:27+00:00",
-      "author": "Terrence O’Brien",
-      "description": "As is tradition, iFixit has torn open the latest iPhone and laid its parts bare on a table. It found some interesting details about how Apple might be hiding the crease on the Duo's folding screen and gave it a 5/10 repairability score. That might not seem particularly high, but it's the best score the […]",
-      "link": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/iPhone-Duo-layout01.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "feed_name": "The Verge -  All Posts",
-      "feed_title": "The Verge",
-      "category": "technology",
-      "feed_url": "https://www.theverge.com/rss/index.xml",
-      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
     }
   ]
 }
