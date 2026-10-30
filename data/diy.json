@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-10-30T20:33:33.533289+00:00",
-  "count": 434,
+  "updated": "2026-10-30T21:03:02.303184+00:00",
+  "count": 436,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/eddy-tiny-open-source-android-browser-and-it-has-no-business-being-this-polished/",
+      "title": "This tiny Android browser punches way above its weight",
+      "published": "2026-10-30T21:01:17+00:00",
+      "author": "Sagar Naresh",
+      "description": "I tried an obscure Android browser and found something surprisingly refreshing.",
+      "link": "https://www.makeuseof.com/eddy-tiny-open-source-android-browser-and-it-has-no-business-being-this-polished/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/eddy-hero.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/these-3-simple-bash-variables-add-bookmarks-and-back-buttons-to-your-linux-terminal-session/",
+      "title": "These 3 simple bash variables add bookmarks and back buttons to your Linux terminal session",
+      "published": "2026-10-30T21:01:16+00:00",
+      "author": "Arol Wright",
+      "description": "Supercharge your terminal.",
+      "link": "https://www.howtogeek.com/these-3-simple-bash-variables-add-bookmarks-and-back-buttons-to-your-linux-terminal-session/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/ubuntu-26-10-terminal-hero.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/simplest-plex-replacement-has-no-server-no-account-nothing-running-in-the-background/",
       "title": "The simplest Plex replacement has no server, no account, and nothing running in the background",

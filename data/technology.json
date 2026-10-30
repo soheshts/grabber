@@ -1,9 +1,23 @@
 {
   "category": "technology",
-  "updated": "2026-10-30T20:33:33.533289+00:00",
+  "updated": "2026-10-30T21:03:02.303184+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.theverge.com/?p=1023820",
+      "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+      "published": "2026-10-30T20:48:43+00:00",
+      "author": "Stevie Bonifield",
+      "description": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented on AI's impact on math, Altman said: \"A lot of people want […]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1778705436.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "feed_name": "The Verge -  All Posts",
+      "feed_title": "The Verge",
+      "category": "technology",
+      "feed_url": "https://www.theverge.com/rss/index.xml",
+      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
+    },
     {
       "id": "https://www.theverge.com/?p=1023763",
       "title": "The biggest names in AI are backing a new way to opt out of scraping",
@@ -45,6 +59,20 @@
       "category": "technology",
       "feed_url": "https://www.youtube.com/feeds/videos.xml?user=LinusTechTips",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64"
+    },
+    {
+      "id": "5168688",
+      "title": "What Are Open-Weight AI Models?",
+      "published": "2026-10-30T20:15:01+00:00",
+      "author": "Barbara Pazur",
+      "description": "Open-weight models let you run an AI chatbot on your own computer, even offline. Here’s how they work and what that means for your privacy.",
+      "link": "https://www.cnet.com/tech/services-and-software/what-are-open-weight-ai-models/",
+      "image": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2300106843.jpg",
+      "feed_name": "CNET News",
+      "feed_title": "News – CNET",
+      "category": "technology",
+      "feed_url": "https://www.cnet.com/rss/news/",
+      "feed_icon": "https://www.cnet.com/wp-content/uploads/sites/2/cropped-favicon-480.png?w=32"
     },
     {
       "id": "https://blog.google/products-and-platforms/devices/fitbit/google-fitbit-edge-on-shelves-now/",
@@ -13975,34 +14003,6 @@
       "category": "technology",
       "feed_url": "https://www.cnet.com/rss/news/",
       "feed_icon": "https://www.cnet.com/wp-content/uploads/sites/2/cropped-favicon-480.png?w=32"
-    },
-    {
-      "id": "https://blog.google/company-news/outreach-and-initiatives/sustainability/sub-saharan-africa-ignite/",
-      "title": "Powering sub-Saharan Africa beyond the grid",
-      "published": "2026-10-26T15:00:00+00:00",
-      "author": "Irwin Boutboul, Yasha Wallin",
-      "description": "A person holding up a solar panel",
-      "link": "https://blog.google/company-news/outreach-and-initiatives/sustainability/sub-saharan-africa-ignite/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ignite_hero.max-600x600.format-webp.webp",
-      "feed_name": "The Keyword",
-      "feed_title": "News from Google",
-      "category": "technology",
-      "feed_url": "https://www.blog.google/rss/",
-      "feed_icon": "https://blog.google/static/blogv2/images/google.png"
-    },
-    {
-      "id": "TheNextWeb=3a8851529cca89648f4fe2fcb44205db",
-      "title": "Nevis raises $70M to expand its AI platform for wealth advisers",
-      "published": "2026-10-26T14:56:16+00:00",
-      "author": "Ana-Maria Stanciuc",
-      "description": "New York-based Nevis, which builds AI software for wealth management firms, has raised $70M in a Series B round led by EQT Ventures. The company announced the funding on Monday. Two new backers joined: Charles Schwab, one of the largest US brokers, and QuantumLight, the venture fund set up by Revolut founder Nik Storonsky. Existing investors […] This story continues at The Next Web",
-      "link": "https://thenextweb.com/news/nevis-70m-series-b-ai-wealth-management",
-      "image": "https://media.thenextweb.com/2026/10/nevis-70m-funding-graphic-investor-logos.avif",
-      "feed_name": "The Next Web",
-      "feed_title": "The Next Web",
-      "category": "technology",
-      "feed_url": "https://thenextweb.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
     }
   ]
 }
