@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-10-29T23:32:20.183772+00:00",
-  "count": 369,
+  "updated": "2026-10-30T00:03:01.153384+00:00",
+  "count": 370,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.howtogeek.com/i-tried-running-docker-on-a-raspberry-pi-heres-what-i-run-on-it/",
+      "title": "I expected Docker to choke on my old Raspberry Pi, but Kiwix proved me wrong",
+      "published": "2026-10-30T00:00:15+00:00",
+      "author": "David J. Buck",
+      "description": "I wasn’t sure Docker would work on my old Raspberry Pi — it did, and now I have big plans.",
+      "link": "https://www.howtogeek.com/i-tried-running-docker-on-a-raspberry-pi-heres-what-i-run-on-it/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/docker-pi-feature.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://hackaday.com/?p=1396601",
       "title": "Replicating the Color-Changing Effect of the Lycurgus Cup",
