@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-10-31T14:03:39.111976+00:00",
-  "count": 471,
+  "updated": "2026-10-31T14:33:34.274077+00:00",
+  "count": 474,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/ditched-1password-for-an-open-source-password-manager-not-paying-again/",
+      "title": "I ditched 1Password for an open-source password manager and I'm not paying again",
+      "published": "2026-10-31T14:31:16+00:00",
+      "author": "Yasir Mahmood",
+      "description": "I moved everything, but only one thing didn't make the trip.",
+      "link": "https://www.makeuseof.com/ditched-1password-for-an-open-source-password-manager-not-paying-again/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/keepassxc-password-manager-logo-on-an-apple-iphone-14-pro.avif",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/microsoft-excel-sort-function/",
+      "title": "How to use the SORT function in Excel",
+      "published": "2026-10-31T14:31:15+00:00",
+      "author": "Tony Phillips",
+      "description": "SORT makes it easy to organize Excel data, combine dynamic array functions, and build flexible reports that update automatically.",
+      "link": "https://www.howtogeek.com/microsoft-excel-sort-function/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/excel-take-sort-formula-monitor-display.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/linux-distros-replace-windows/",
       "title": "5 Linux distros that give you a reason to leave Windows",
@@ -31,6 +59,20 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://hackaday.com/?p=1397025",
+      "title": "Bring On Supercon!",
+      "published": "2026-10-31T14:00:32+00:00",
+      "author": "Elliot Williams",
+      "description": "In just under a week from today, almost 700 hackers will be getting together in Pasadena, CA for three days of scheming, soldering, and socializing. If you’re able to join …read more",
+      "link": "https://hackaday.com/2026/10/31/bring-on-supercon/",
+      "image": "https://hackaday.com/wp-content/uploads/2017/11/supercon-recap-article-featured.jpg",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
     },
     {
       "id": "https://www.howtogeek.com/232726/how-to-install-the-google-play-store-on-your-amazon-fire-tablet/",

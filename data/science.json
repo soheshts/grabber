@@ -1,7 +1,7 @@
 {
   "category": "science",
-  "updated": "2026-10-31T14:03:39.111976+00:00",
-  "count": 987,
+  "updated": "2026-10-31T14:33:34.274077+00:00",
+  "count": 989,
   "summary": null,
   "items": [
     {
@@ -45,6 +45,20 @@
       "category": "science",
       "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/31/climate/how-trump-is-dismantling-americas-scientific-research-machine.html",
+      "title": "How Trump Is Dismantling America’s Scientific Research Machine",
+      "published": "2026-10-31T13:31:12+00:00",
+      "author": "Christopher Flavelle, Irena Hwang, Adam Sella, Alan Blinder, Sheryl Gay Stolberg, Benjamin Mueller and Michael C. Bender",
+      "description": "The system that has driven life-altering discoveries and helped make the United States a superpower is now under intense strain.",
+      "link": "https://www.nytimes.com/2026/10/31/climate/how-trump-is-dismantling-americas-scientific-research-machine.html",
+      "image": "https://static01.nyt.com/images/2026/10/29/us/dc-trumpscience-promo/dc-trumpscience-promo-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Science",
+      "feed_title": "NYT > Science",
+      "category": "science",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://www.sciencedaily.com/releases/2026/10/261030003022.htm",
@@ -801,6 +815,20 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/30/climate/injured-leopards-200-mile-trek-suggests-hope-for-a-species.html",
+      "title": "Conservation Efforts for Caucasian Leopards Show Promise",
+      "published": "2026-10-30T17:56:21+00:00",
+      "author": "Eric Niiler",
+      "description": "In Armenia, a three-legged Caucasian leopard’s astonishing hike signals that conservation efforts for the endangered animal may be working.",
+      "link": "https://www.nytimes.com/2026/10/30/climate/injured-leopards-200-mile-trek-suggests-hope-for-a-species.html",
+      "image": null,
+      "feed_name": "NYT > Science",
+      "feed_title": "NYT > Science",
+      "category": "science",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://www.nytimes.com/2026/10/29/science/dna-ted-bundy-cold-case.html",
