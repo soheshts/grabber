@@ -1,9 +1,23 @@
 {
   "category": "personal blogs",
-  "updated": "2026-10-31T01:32:20.256783+00:00",
-  "count": 417,
+  "updated": "2026-10-31T02:03:40.660448+00:00",
+  "count": 418,
   "summary": null,
   "items": [
+    {
+      "id": "https://ronaldsvilcins.com/2026/10/31/sticky-and-snapped-elements-with-css-scroll-state-queries/",
+      "title": "Sticky and Snapped Elements With CSS Scroll-State Queries",
+      "published": "2026-10-30T22:00:00+00:00",
+      "author": "Ronalds Vilciņš",
+      "description": "CSS scroll-state queries can style stuck headers and snapped cards, or hint at more scrollable content. See the container setup and fallback choices.",
+      "link": "https://ronaldsvilcins.com/2026/10/31/sticky-and-snapped-elements-with-css-scroll-state-queries/",
+      "image": "https://ronaldsvilcins.com/og/79004883c5056849ef859e5489229d836eb099dcbeb037d55295f26740015b16.jpg",
+      "feed_name": "Ronalds Vilciņš",
+      "feed_title": "Ronalds Vilciņš",
+      "category": "personal blogs",
+      "feed_url": "https://ronaldsvilcins.com/atom.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=ronaldsvilcins.com&sz=64"
+    },
     {
       "id": "https://geoffgraham.me/?p=4962",
       "title": "New Album: Gone Dark",
