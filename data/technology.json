@@ -1,9 +1,37 @@
 {
   "category": "technology",
-  "updated": "2026-10-31T19:02:50.804085+00:00",
+  "updated": "2026-10-31T19:33:30.617129+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.theverge.com/?p=1017979",
+      "title": "Keyboards of The Verge",
+      "published": "2026-10-31T19:30:00+00:00",
+      "author": "Verge Staff, Nathan Edwards",
+      "description": "What is a keyboard if not the original brain-computer interface? You can tap on a touchscreen or talk to the computer, but if your work involves getting information out of your head and into the computer, you're probably spending a lot of time using a keyboard. We've written about many keyboards over the years, from […]",
+      "link": "https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268834_Keyboards_of_the_Verge_CVirginia4.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "feed_name": "The Verge -  All Posts",
+      "feed_title": "The Verge",
+      "category": "technology",
+      "feed_url": "https://www.theverge.com/rss/index.xml",
+      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
+    },
+    {
+      "id": "https://www.engadget.com/2302428/best-roku-streaming-stick-depends-on-picture-quality-needs/",
+      "title": "The best Roku Streaming Stick depends on your picture quality needs",
+      "published": "2026-10-31T19:00:00+00:00",
+      "author": "Robin Bea",
+      "description": "Roku only sells one streaming device that doesn't support 4K output.",
+      "link": "https://www.engadget.com/2302428/best-roku-streaming-stick-depends-on-picture-quality-needs/",
+      "image": "https://www.engadget.com/img/gallery/the-best-roku-streaming-stick-depends-on-your-picture-quality-needs/l-intro-1793294370.jpg",
+      "feed_name": "Engadget",
+      "feed_title": "Engadget - Technology News & Expert Reviews",
+      "category": "technology",
+      "feed_url": "https://www.engadget.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
     {
       "id": "https://science.slashdot.org/story/26/10/31/1817218/nasa-seeks-proposals-for-reboosting-the-hubble-space-telescope?utm_source=rss1.0mainlinkanon&utm_medium=feed",
       "title": "NASA Seeks Proposals for Reboosting the Hubble Space Telescope",
@@ -19,6 +47,20 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
     },
     {
+      "id": "https://www.engadget.com/2298547/why-mac-keeps-disconnecting-airpods/",
+      "title": "Why your AirPods keep disconnecting without warning: These settings can fix it",
+      "published": "2026-10-31T18:45:00+00:00",
+      "author": "Thomas Godwin",
+      "description": "Handy features of your AirPods can be overzealous, leading to disconnections and unwanted device swapping.",
+      "link": "https://www.engadget.com/2298547/why-mac-keeps-disconnecting-airpods/",
+      "image": "https://www.engadget.com/img/gallery/why-your-airpods-keep-disconnecting-without-warning-these-settings-can-fix-it/l-intro-1793121072.jpg",
+      "feed_name": "Engadget",
+      "feed_title": "Engadget - Technology News & Expert Reviews",
+      "category": "technology",
+      "feed_url": "https://www.engadget.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
+    {
       "id": "https://www.theverge.com/?p=1024091",
       "title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
       "published": "2026-10-31T18:40:32+00:00",
@@ -31,6 +73,20 @@
       "category": "technology",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
+    },
+    {
+      "id": "https://www.engadget.com/2300253/how-to-use-claude-duet/",
+      "title": "How to use Claude Duet when it rolls out to you",
+      "published": "2026-10-31T18:30:00+00:00",
+      "author": "Igor Bonifacic",
+      "description": "For now, you'll need to first join a waitlist.",
+      "link": "https://www.engadget.com/2300253/how-to-use-claude-duet/",
+      "image": "https://www.engadget.com/img/gallery/how-to-use-claude-duet-when-it-rolls-out-to-you/l-intro-1792786501.jpg",
+      "feed_name": "Engadget",
+      "feed_title": "Engadget - Technology News & Expert Reviews",
+      "category": "technology",
+      "feed_url": "https://www.engadget.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
     },
     {
       "id": "04A5pGlmpuahDn3zbetv8ZF",
@@ -13947,62 +14003,6 @@
       "category": "technology",
       "feed_url": "http://feeds.mashable.com/Mashable",
       "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
-    },
-    {
-      "id": "056pFwcAKElh7nlDTXDw29d",
-      "title": "NYT Connections hints today: Clues, answers for October 27, 2026",
-      "published": "2026-10-27T02:00:00+00:00",
-      "author": null,
-      "description": "Connections is a New York Times word game that's all about finding the \"common threads between words.\" How to solve the puzzle.",
-      "link": "https://mashable.com/entertainment/nyt-connections-hint-answer-today-october-27-2026",
-      "image": "https://helios-i.mashable.com/imagery/articles/056pFwcAKElh7nlDTXDw29d/hero-image.jpg",
-      "feed_name": "Mashable",
-      "feed_title": "Mashable",
-      "category": "technology",
-      "feed_url": "http://feeds.mashable.com/Mashable",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
-    },
-    {
-      "id": "016oZYNBuybC04j7R9uIMZY",
-      "title": "NYT Strands hints, answers for October 27, 2026",
-      "published": "2026-10-27T02:00:00+00:00",
-      "author": null,
-      "description": "The NYT Strands hints and answers you need to make the most of your puzzling experience.",
-      "link": "https://mashable.com/entertainment/strands-nyt-hint-october-27-2026",
-      "image": "https://helios-i.mashable.com/imagery/articles/016oZYNBuybC04j7R9uIMZY/hero-image.jpg",
-      "feed_name": "Mashable",
-      "feed_title": "Mashable",
-      "category": "technology",
-      "feed_url": "http://feeds.mashable.com/Mashable",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
-    },
-    {
-      "id": "05hWr8y09NtiLV84kmKYDxa",
-      "title": "Wordle today: Answer, hints for October 27, 2026",
-      "published": "2026-10-27T02:00:00+00:00",
-      "author": null,
-      "description": "Here's the answer for \"Wordle\" #1956 on October 27 as well as a few hints, tips, and clues to help you solve it yourself.",
-      "link": "https://mashable.com/entertainment/wordle-today-answer-october-27-2026",
-      "image": "https://helios-i.mashable.com/imagery/articles/05hWr8y09NtiLV84kmKYDxa/hero-image.jpg",
-      "feed_name": "Mashable",
-      "feed_title": "Mashable",
-      "category": "technology",
-      "feed_url": "http://feeds.mashable.com/Mashable",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
-    },
-    {
-      "id": "https://www.engadget.com/2295333/iphone-lockdown-mode-pros-cons/",
-      "title": "iPhone Lockdown Mode: The pros and cons of enabling Apple's security feature",
-      "published": "2026-10-27T00:30:00+00:00",
-      "author": "Filipe Espósito",
-      "description": "Lockdown Mode enables extreme protections for those most at risk, but it's overkill for most people.",
-      "link": "https://www.engadget.com/2295333/iphone-lockdown-mode-pros-cons/",
-      "image": "https://www.engadget.com/img/gallery/iphone-lockdown-mode-the-pros-and-cons-of-enabling-apples-security-feature/l-intro-1792766868.jpg",
-      "feed_name": "Engadget",
-      "feed_title": "Engadget - Technology News & Expert Reviews",
-      "category": "technology",
-      "feed_url": "https://www.engadget.com/rss.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
     }
   ]
 }

@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-10-31T19:02:50.804085+00:00",
-  "count": 495,
+  "updated": "2026-10-31T19:33:30.617129+00:00",
+  "count": 497,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/light-switches-cant-go-smart/",
+      "title": "Millions of light switches in American homes can’t go smart, and the reason is hiding behind the plate",
+      "published": "2026-10-31T19:30:16+00:00",
+      "author": "Brady Snyder",
+      "description": "A missing wire might ruin your smart switch plans.",
+      "link": "https://www.makeuseof.com/light-switches-cant-go-smart/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/10/abra-smart-surface-switch-mounted-on-light-switch.jpeg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/5-ways-flashing-existing-smart-home-devices-makes-esp32-projects-easier/",
+      "title": "5 ways flashing existing smart home devices makes ESP32 projects easier",
+      "published": "2026-10-31T19:30:15+00:00",
+      "author": "Adam Davidson",
+      "description": "Let someone else do the soldering.",
+      "link": "https://www.howtogeek.com/5-ways-flashing-existing-smart-home-devices-makes-esp32-projects-easier/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/img_5791.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/chrome-features-replace-pc-apps/",
       "title": "Chrome now has features that could replace apps on your PC",

@@ -1,22 +1,64 @@
 {
   "category": "World News",
-  "updated": "2026-10-31T19:02:50.804085+00:00",
+  "updated": "2026-10-31T19:33:30.617129+00:00",
   "count": 1000,
   "summary": null,
   "items": [
     {
+      "id": "108492397",
+      "title": "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
+      "published": "2026-10-31T19:16:25+00:00",
+      "author": null,
+      "description": "Binance says it has restored backing for 90% of assets affected by its $6.3 billion hack and is planning to resume withdrawals, subject to security checks.",
+      "link": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108486125-1793374296099-108486125-1793363753922-gettyimages-2302646831-vcg111678111014.jpeg?v=1793374312&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
       "id": "https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween",
       "title": "Live Updates: Hundreds of Thousands Join Another Round of Protests in France",
-      "published": "2026-10-31T18:56:51+00:00",
+      "published": "2026-10-31T19:11:56+00:00",
       "author": "The New York Times",
       "description": "The interior ministry estimated that 320,000 people had demonstrated nationwide, a smaller number than the previous two Saturdays. The police and protesters clashed in Paris and other cities.",
       "link": "https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween",
-      "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31france-protests-promo-105-ptgc/31france-protests-promo-105-ptgc-mediumSquareAt3X.jpg",
+      "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31france-protests-promo-310-bwfz/31france-protests-promo-310-bwfz-mediumSquareAt3X.jpg",
       "feed_name": "NYT",
       "feed_title": "NYT > World News",
       "category": "World News",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/south-asia/dog-stranded-for-20-days-between-cliff-and-raging-river-rescued-in-nepal/articleshow/135410621.cms",
+      "title": "Dog stranded for 20 days between cliff and raging river rescued in Nepal",
+      "published": "2026-10-31T19:06:23+00:00",
+      "author": "Vishant Agarwala",
+      "description": "",
+      "link": "https://timesofindia.indiatimes.com/world/south-asia/dog-stranded-for-20-days-between-cliff-and-raging-river-rescued-in-nepal/articleshow/135410621.cms",
+      "image": "https://static.toiimg.com/photo/msid-135410619,imgsize-94402.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
+      "id": "https://www.theguardian.com/australia-news/2026/nov/01/artists-against-ai-proposal-anthony-albanese-grayndler-sydney-inner-west",
+      "title": "Disquiet grows in Albanese’s back yard as Grayndler artists unite against ‘insane’ AI proposal",
+      "published": "2026-10-31T19:00:52+00:00",
+      "author": "Caitlin Cassidy",
+      "description": "Inner west Sydney seat has long been safely held by the PM – but potential changes to copyright laws are angering its large creative community Get our daily political email , free app or daily news podcast The prime minister is facing growing discontent within his own electorate as creatives push back against the federal government’s proposal to allow AI companies to scrape everything Australians create online. Anthony Albanese’s seat of Grayndler in Sydney’s inner west is home to more than 3,0…",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/01/artists-against-ai-proposal-anthony-albanese-grayndler-sydney-inner-west",
+      "image": "https://i.guim.co.uk/img/media/807757f27fc7edd5bb144e03b8fbb5e5681bfa56/196_36_2835_2268/master/2835.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=23cf51cf0f12fac30fc916f42c80696f",
+      "feed_name": "The Guardian",
+      "feed_title": "World news | The Guardian",
+      "category": "World News",
+      "feed_url": "https://www.theguardian.com/world/rss",
+      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/can-you-still-vote-today-when-does-early-voting-in-midterms-end-in-us/articleshow/135410105.cms",
@@ -31,6 +73,20 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
+      "id": "t3_1xkhzck",
+      "title": "Canada echoes U.S. ‘mass casualty event’ warning for Moscow - National",
+      "published": "2026-10-31T18:42:57+00:00",
+      "author": "/u/Layleepup",
+      "description": "submitted by /u/Layleepup [link] [comments]",
+      "link": "https://www.reddit.com/r/worldnews/comments/1xkhzck/canada_echoes_us_mass_casualty_event_warning_for/",
+      "image": "https://external-preview.redd.it/ZDxG7FrYdz_QEyxXHN9zFYGGyfwOSYnrxcGeaSMPRE4.jpeg?width=640&crop=smart&auto=webp&s=f61f0069c53f0812f7e2c764f10e07b3446227c8",
+      "feed_name": "World News",
+      "feed_title": "World News",
+      "category": "World News",
+      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
+      "feed_icon": "https://www.redditstatic.com/icon.png/"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/uk/a-british-explorer-filming-an-abandoned-barn-found-a-rare-1928-bentley-4-5-litre-sports-tourer-one-of-148-four-seat-vanden-plas-examples-it-could-be-worth-seven-figures-but-its-identity-remains-unverified/articleshow/135377911.cms",
@@ -61,6 +117,20 @@
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
+      "id": "t3_1xkhk9l",
+      "title": "At least 7.9 million punished in Xi's fight to keep party going",
+      "published": "2026-10-31T18:26:09+00:00",
+      "author": "/u/wat3va",
+      "description": "submitted by /u/wat3va [link] [comments]",
+      "link": "https://www.reddit.com/r/worldnews/comments/1xkhk9l/at_least_79_million_punished_in_xis_fight_to_keep/",
+      "image": "https://external-preview.redd.it/NUYWHLMRtFLVnL9x_nYOusREEnHNyrw58DlQ7Q2GRUE.jpeg?width=640&crop=smart&auto=webp&s=85de665e9f3958e89cd05e9df8ad88479f4cda3d",
+      "feed_name": "World News",
+      "feed_title": "World News",
+      "category": "World News",
+      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
+      "feed_icon": "https://www.redditstatic.com/icon.png/"
+    },
+    {
       "id": "t3_1xkhalg",
       "title": "Russia Expands Practice of Rounding Up Men on Streets to Send Them to War",
       "published": "2026-10-31T18:15:38+00:00",
@@ -87,20 +157,6 @@
       "category": "World News",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "108492397",
-      "title": "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
-      "published": "2026-10-31T18:12:09+00:00",
-      "author": null,
-      "description": "Binance says it has restored backing for 90% of assets affected by its $6.3 billion hack and is planning to resume withdrawals, subject to security checks.",
-      "link": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108486125-1793374296099-108486125-1793363753922-gettyimages-2302646831-vcg111678111014.jpeg?v=1793374312&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
       "id": "https://www.nytimes.com/2026/10/31/world/europe/poland-court-police-president.html",
@@ -553,7 +609,7 @@
     {
       "id": "https://www.nytimes.com/2026/10/31/world/europe/spain-train-crash-politics.html",
       "title": "Train Disaster Is Blow to Spain’s Leader, Already Election Underdog",
-      "published": "2026-10-31T14:14:18+00:00",
+      "published": "2026-10-31T14:14:19+00:00",
       "author": "Jason Horowitz",
       "description": "Prime Minister Pedro Sánchez wanted to campaign on inequality and housing, but the second major rail accident this year has put his government’s competence on trial.",
       "link": "https://www.nytimes.com/2026/10/31/world/europe/spain-train-crash-politics.html",
@@ -13947,62 +14003,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o#0",
-      "title": "King acknowledges 'suffering of the past' as Caribbean tour begins",
-      "published": "2026-10-28T04:32:36+00:00",
-      "author": null,
-      "description": "The King is on a nine-day tour that will take him to three countries, including the Bahamas, Guyana and Antigua and Barbuda.",
-      "link": "https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0e4/live/7d77ba00-d249-11f1-8ba3-9fd3e261415f.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o#1",
-      "title": "King acknowledges 'suffering of the past' as Caribbean tour begins",
-      "published": "2026-10-28T04:32:36+00:00",
-      "author": null,
-      "description": "The King is on a nine-day tour that will take him to three countries, including the Bahamas, Guyana and Antigua and Barbuda.",
-      "link": "https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0e4/live/7d77ba00-d249-11f1-8ba3-9fd3e261415f.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://www.theguardian.com/australia-news/2026/oct/28/erin-patterson-to-learn-fate-appeal-mushroom-murders-convictions-ntwnfb",
-      "title": "Erin Patterson to learn fate in appeal against mushroom murders convictions",
-      "published": "2026-10-28T04:30:33+00:00",
-      "author": "Nino Bucci",
-      "description": "Victorian court of appeal to hand down judgment on triple-murderer’s conviction and sentence after her lawyers argued she was denied fair trial Follow our Australia politics live blog for latest updates Get our breaking news email , free app or daily news podcast The decision in Erin Patterson’s appeal against her triple murder conviction will be handed down on Friday, with Victoria’s highest court also set to rule on whether she could face more time in prison . The court of appeal will rule on…",
-      "link": "https://www.theguardian.com/australia-news/2026/oct/28/erin-patterson-to-learn-fate-appeal-mushroom-murders-convictions-ntwnfb",
-      "image": "https://i.guim.co.uk/img/media/712dc31c4d482c5820cce6e3e0a764cd69898138/454_194_1035_828/master/1035.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8ab9bc4417463dc4bab82b21b2d784b2",
-      "feed_name": "The Guardian",
-      "feed_title": "World news | The Guardian",
-      "category": "World News",
-      "feed_url": "https://www.theguardian.com/world/rss",
-      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/this-is-america-back-up-us-cuba-officials-shouting-match-at-un-watch-12246311#publisher=newsstand",
-      "title": "\"This Is America. Back Up\": US, Cuba Officials' Shouting Match At UN. Watch",
-      "published": "2026-10-28T04:29:55+00:00",
-      "author": null,
-      "description": "The heated moment captured the heightened tensions between Cuba and the US.",
-      "link": "https://www.ndtv.com/world-news/this-is-america-back-up-us-cuba-officials-shouting-match-at-un-watch-12246311#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-10/qb335ah_us-cuba_625x300_28_October_26.jpeg",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     }
   ]
 }
