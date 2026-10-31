@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-10-31T13:33:31.504792+00:00",
-  "count": 416,
+  "updated": "2026-10-31T14:03:39.111976+00:00",
+  "count": 417,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,20 @@
       "category": "personal blogs",
       "feed_url": "http://www.bennadel.com/index.cfm?dax=blog.rss&lst_tag_id=14,16,3,5,9,6,7,13,18,20,10,15",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.bennadel.com&sz=64"
+    },
+    {
+      "id": "http://finley.im/2026/10/31/shopkeeping/",
+      "title": "Shopkeeping",
+      "published": "2026-10-31T12:35:43+00:00",
+      "author": null,
+      "description": "I've been digging into bots for the last week and not only am I using them for various tasks at work, I have a group of bots helping with running Finley Shop. Here is what they are currently doing for us. Mercer · Shopkeep Every 2h (6am–10pm CT): metrics Page refresh — Square sales + Fathom traffic + stock pulse; post here only when something changed Square Online store: listings, inventory notes, About/shipping copy, coupons & deals Stock timing with Scout; listing URLs / UTMs with Callum when…",
+      "link": "http://finley.im/2026/10/31/shopkeeping/",
+      "image": "https://finley.im/open-graph/2026/10/31/shopkeeping.png",
+      "feed_name": "Finley, I am.",
+      "feed_title": "Finley, I am.",
+      "category": "personal blogs",
+      "feed_url": "https://finley.im/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=finley.im&sz=64"
     },
     {
       "id": "https://shkspr.mobi/blog/?p=77063",
@@ -143,6 +157,20 @@
       "category": "personal blogs",
       "feed_url": "https://rknight.me/feed.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=rknight.me&sz=64"
+    },
+    {
+      "id": "https://andrewmiracle.com/2026/10/30/nobody-reads-their-issues-anymore",
+      "title": "Nobody reads their issues anymore",
+      "published": "2026-10-30T00:00:00+00:00",
+      "author": "Andrew Miracle",
+      "description": "You stopped reading your issues. Your AI coding agent reads them now. How prompt injection in nested GitHub repos compromises Cursor and Claude Code setups.",
+      "link": "https://andrewmiracle.com/2026/10/30/nobody-reads-their-issues-anymore.html",
+      "image": "https://andrewmiracle.com/assets/images/uploads/2024/01/cropped-056A3893__.jpg",
+      "feed_name": "Andrew Miracle",
+      "feed_title": "Andrew Miracle",
+      "category": "personal blogs",
+      "feed_url": "https://andrewmiracle.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=andrewmiracle.com&sz=64"
     },
     {
       "id": "6ae3d1256232600823349076",
@@ -5099,20 +5127,6 @@
       "category": "personal blogs",
       "feed_url": "https://nerdy.dev/rss.xml",
       "feed_icon": "https://nerdy.dev/rss-icon.png"
-    },
-    {
-      "id": "https://www.lukew.com/ff/entry.asp?2164",
-      "title": "Design Systems for AI Agents",
-      "published": "2026-10-01T14:00:00+00:00",
-      "author": "Luke Wroblewski",
-      "description": "For as long as I've been working on design systems ( 20+ years , oof!), I've seen the same pattern play out... design teams invest a lot of time in creating a system, then struggle to keep it up to date as the actual product evolves. Inevitably the design system ends up describing a product that no longer exists. The most common way to address this was to throw more resources at the problem: design system teams and/or centralized design reviews. But now, AI agents give design systems a differen…",
-      "link": "https://www.lukew.com/ff/2164/design-systems-for-ai-agents",
-      "image": "http://static.lukew.com/Intent-design-system.png",
-      "feed_name": "LukeW | Digital Product Design + Strategy",
-      "feed_title": "LukeW | Digital Product Design + Strategy",
-      "category": "personal blogs",
-      "feed_url": "http://feeds.feedburner.com/FunctioningForm",
-      "feed_icon": "https://static.lukew.com/lukew_space.png"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
