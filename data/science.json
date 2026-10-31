@@ -1,9 +1,37 @@
 {
   "category": "science",
-  "updated": "2026-10-31T15:33:30.007240+00:00",
-  "count": 996,
+  "updated": "2026-10-31T16:02:29.424752+00:00",
+  "count": 997,
   "summary": null,
   "items": [
+    {
+      "id": "news712581515",
+      "title": "Four superconducting cables link two large quantum processors into one",
+      "published": "2026-10-31T16:00:02+00:00",
+      "author": null,
+      "description": "As quantum computers grow more ambitious, many researchers believe the best way forward is to build them in multiple interconnected parts. In these modular designs, separate quantum processors are linked so they can work together as one larger machine. For this to happen, however, connections must carry fragile quantum information without destroying it.",
+      "link": "https://phys.org/news/2026-10-superconducting-cables-link-large-quantum.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/four-cables-link-two-q.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/31/climate/how-trump-is-dismantling-americas-scientific-research-machine.html",
+      "title": "How Trump Is Dismantling America’s Scientific Research Machine",
+      "published": "2026-10-31T15:39:09+00:00",
+      "author": "Christopher Flavelle, Irena Hwang, Adam Sella, Alan Blinder, Sheryl Gay Stolberg, Benjamin Mueller and Michael C. Bender",
+      "description": "The system that has driven life-altering discoveries and helped make the United States a superpower is now under intense strain.",
+      "link": "https://www.nytimes.com/2026/10/31/climate/how-trump-is-dismantling-americas-scientific-research-machine.html",
+      "image": "https://static01.nyt.com/images/2026/10/29/us/dc-trumpscience-promo/dc-trumpscience-promo-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Science",
+      "feed_title": "NYT > Science",
+      "category": "science",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "6ad66bf798b58b8b524628f0",
       "title": "The haunting truth of ghost stories | Coya Paz Brownrigg (re-release)",
@@ -101,20 +129,6 @@
       "category": "science",
       "feed_url": "https://pa.tedcdn.com/feeds/talks.rss",
       "feed_icon": "https://assets.pippa.io/shows/67587e77c705e441797aff96/show-cover.png"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/10/31/climate/how-trump-is-dismantling-americas-scientific-research-machine.html",
-      "title": "How Trump Is Dismantling America’s Scientific Research Machine",
-      "published": "2026-10-31T14:58:10+00:00",
-      "author": "Christopher Flavelle, Irena Hwang, Adam Sella, Alan Blinder, Sheryl Gay Stolberg, Benjamin Mueller and Michael C. Bender",
-      "description": "The system that has driven life-altering discoveries and helped make the United States a superpower is now under intense strain.",
-      "link": "https://www.nytimes.com/2026/10/31/climate/how-trump-is-dismantling-americas-scientific-research-machine.html",
-      "image": "https://static01.nyt.com/images/2026/10/29/us/dc-trumpscience-promo/dc-trumpscience-promo-mediumSquareAt3X.jpg",
-      "feed_name": "NYT > Science",
-      "feed_title": "NYT > Science",
-      "category": "science",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://www.sciencedaily.com/releases/2026/10/261031012912.htm",

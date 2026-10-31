@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-10-31T15:33:30.007240+00:00",
-  "count": 417,
+  "updated": "2026-10-31T16:02:29.424752+00:00",
+  "count": 418,
   "summary": null,
   "items": [
     {
@@ -59,6 +59,20 @@
       "category": "personal blogs",
       "feed_url": "https://hey.georgie.nu/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=hey.georgie.nu&sz=64"
+    },
+    {
+      "id": "https://www.oidaisdes.org/blog/coding-agents-making-me-dumber",
+      "title": "Coding Agents: Are They Making Me Dumber?",
+      "published": "2026-10-31T00:00:00+00:00",
+      "author": null,
+      "description": "Tools like GitHub Copilot or ChatGPT make it easy to generate code. But what are the consequences for our cognitive skills?",
+      "link": "https://www.oidaisdes.org/blog/coding-agents-making-me-dumber",
+      "image": "https://www.oidaisdes.org/sharing/social_sharing_humanoid_robot.jpg",
+      "feed_name": "Alexander Lehner",
+      "feed_title": "Alexander Lehner – Oida, is des org!",
+      "category": "personal blogs",
+      "feed_url": "https://www.oidaisdes.org/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.oidaisdes.org&sz=64"
     },
     {
       "id": "https://ronaldsvilcins.com/2026/10/31/sticky-and-snapped-elements-with-css-scroll-state-queries/",
