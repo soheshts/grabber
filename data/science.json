@@ -1,9 +1,37 @@
 {
   "category": "science",
-  "updated": "2026-10-31T18:32:16.973723+00:00",
+  "updated": "2026-10-31T19:02:50.804085+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "news712327561",
+      "title": "Chemists develop AI tool to convert human ingenuity into life-enhancing enzymes",
+      "published": "2026-10-31T19:00:01+00:00",
+      "author": null,
+      "description": "Many have voiced concerns that artificial intelligence will take jobs away from humans. But assistant professor of chemistry Zhongyue (John) Yang, along with his former doctoral student Qianzhen Shao (now a postdoc at Stanford) and other team members, has created an AI tool that aims to elevate the work that scientists do—not replace them.",
+      "link": "https://phys.org/news/2026-10-chemists-ai-tool-human-ingenuity.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/chemists-develop-ai-to.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/31/science/ukraine-soldiers-infection-treatment.html",
+      "title": "Doctors in Ukraine Try Treating Infections Like Biological Warfare Attacks",
+      "published": "2026-10-31T18:34:45+00:00",
+      "author": "Gina Kolata and Marc Santora",
+      "description": "As many as 40 percent of injured soldiers face severe infections that can lead to amputations and death. One initiative is trying to fix that.",
+      "link": "https://www.nytimes.com/2026/10/31/science/ukraine-soldiers-infection-treatment.html",
+      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/00sci-Ukraine-infections-04-bfqh/00sci-Ukraine-infections-04-bfqh-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Science",
+      "feed_title": "NYT > Science",
+      "category": "science",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "news712327958",
       "title": "Calling species 'invasive'—and culling them—isn't done lightly. But it matters to Australia's threatened species",
@@ -40,20 +68,6 @@
       "description": "Countries renewed their promises to protect wildlife at U.N. talks in Armenia, but how to cover the costs remains a question.",
       "link": "https://www.nytimes.com/2026/10/31/climate/cop17-biodiversity-yerevan-conclusion.html",
       "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31cli-biodiversity-tzwm/31cli-biodiversity-tzwm-mediumSquareAt3X.jpg",
-      "feed_name": "NYT > Science",
-      "feed_title": "NYT > Science",
-      "category": "science",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/10/31/science/ukraine-soldiers-infection-treatment.html",
-      "title": "Doctors in Ukraine Try Treating Infections Like Biological Warfare Attacks",
-      "published": "2026-10-31T17:38:21+00:00",
-      "author": "Gina Kolata and Marc Santora",
-      "description": "As many as 40 percent of injured soldiers face severe infections that can lead to amputations and death. One initiative is trying to fix that.",
-      "link": "https://www.nytimes.com/2026/10/31/science/ukraine-soldiers-infection-treatment.html",
-      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/00sci-Ukraine-infections-04-bfqh/00sci-Ukraine-infections-04-bfqh-mediumSquareAt3X.jpg",
       "feed_name": "NYT > Science",
       "feed_title": "NYT > Science",
       "category": "science",
@@ -13989,20 +14003,6 @@
       "category": "science",
       "feed_url": "https://sciencebasedmedicine.org/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=sciencebasedmedicine.org&sz=64"
-    },
-    {
-      "id": "cff66c28-8fef-4f50-814b-8bbe9cfa92ee",
-      "title": "A 4-Track Mind",
-      "published": "2026-10-02T14:00:00+00:00",
-      "author": "WNYC Studios",
-      "description": "A neurologist issues a dare to a ragtime piano player and a famous conductor, then the impossible happens.",
-      "link": "https://www.radiolab.org",
-      "image": null,
-      "feed_name": "Radiolab",
-      "feed_title": "Radiolab",
-      "category": "science",
-      "feed_url": "http://feeds.wnyc.org/radiolab",
-      "feed_icon": "https://image.simplecastcdn.com/images/2c9187d6-9dff-4257-bc55-469cf13afd48/60a2cfed-b8ca-460b-abb8-8ab0afb3fa8c/3000x3000/radiolab-showsquare-3000x3000.jpg?aid=rss_feed"
     }
   ]
 }

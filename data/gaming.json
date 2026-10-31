@@ -1,6 +1,6 @@
 {
   "category": "gaming",
-  "updated": "2026-10-31T18:32:16.973723+00:00",
+  "updated": "2026-10-31T19:02:50.804085+00:00",
   "count": 1000,
   "summary": null,
   "items": [
@@ -59,6 +59,20 @@
       "category": "gaming",
       "feed_url": "https://www.eurogamer.net/?format=rss",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.eurogamer.net&sz=64"
+    },
+    {
+      "id": "http://tagn.wordpress.com/?p=162850",
+      "title": "October 2026 in Review",
+      "published": "2026-10-31T17:15:44+00:00",
+      "author": "Wilhelm Arcturus",
+      "description": "The Site WordPress.com announced this past month that paid plans will be allowed to upload premium themes downloaded or purchased outside of the stock selection they maintain. Or fail to maintain, which is probably the real reason for this. I have suddenly gone from “All the supported themes kind of suck for my needs” to […]",
+      "link": "https://tagn.wordpress.com/2026/10/31/october-2026-in-review/",
+      "image": "https://2.gravatar.com/avatar/26266f9ffc00f111bd9254692a590193ebfab64d766b15a666dfae33fef5d871?s=96&d=wavatar&r=PG",
+      "feed_name": "The Ancient Gaming Noob",
+      "feed_title": "The Ancient Gaming Noob",
+      "category": "gaming",
+      "feed_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
+      "feed_icon": "https://tagn.wordpress.com/wp-content/uploads/2012/03/cropped-tagnlogo.png?w=32"
     },
     {
       "id": "https://www.polygon.com/the-hobbit-movies-lord-of-the-rings-fairy-tale-roots/",
@@ -13989,20 +14003,6 @@
       "category": "gaming",
       "feed_url": "https://kotaku.com/rss",
       "feed_icon": "https://www.google.com/s2/favicons?domain=kotaku.com&sz=64"
-    },
-    {
-      "id": "https://www.polygon.com/clayface-opening-weekend-box-office/",
-      "title": "Clayface Gives Skydance Its Second Box Office Weekend Win In A Row",
-      "published": "2026-10-25T16:02:01+00:00",
-      "author": "Tomas Franzese",
-      "description": "Clayface held off You Can See Everything to top the box office this weekend",
-      "link": "https://www.polygon.com/clayface-opening-weekend-box-office/",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/clayface-movie-screenshot.webp",
-      "feed_name": "Polygon -  All",
-      "feed_title": "Polygon.com",
-      "category": "gaming",
-      "feed_url": "https://www.polygon.com/rss/index.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.polygon.com&sz=64"
     }
   ]
 }
