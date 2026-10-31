@@ -1,9 +1,37 @@
 {
   "category": "World News",
-  "updated": "2026-10-31T06:02:51.342679+00:00",
+  "updated": "2026-10-31T06:33:28.288155+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.theguardian.com/australia-news/2026/oct/31/weather-bom-storm-warnings-melbourne-canberra-sydney-brisbane",
+      "title": "Storm warnings for Melbourne, Canberra, Sydney and Brisbane as cold front ‘packs a punch’",
+      "published": "2026-10-31T06:05:20+00:00",
+      "author": "Australian Associated Press",
+      "description": "BoM predicts hail, damaging winds and possible flash flooding across Victoria, NSW and parts of Queensland into Sunday Get our breaking news email , free app or daily news podcast Storm warnings are in place for multiple capital cities across Australia’s east and south-east as a severe weather front sweeps across the country. Heavy rain, winds and thunderstorms are forecast to hit Melbourne and eastern Victoria throughout Saturday afternoon as a cold front meets warm, humid air. Continue readin…",
+      "link": "https://www.theguardian.com/australia-news/2026/oct/31/weather-bom-storm-warnings-melbourne-canberra-sydney-brisbane",
+      "image": "https://i.guim.co.uk/img/media/deb23aebbe0b6f74547fd907a3cd8662f017bd91/551_0_5523_4417/master/5523.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dc523a24c57b355ee5ad472620cbd0a0",
+      "feed_name": "The Guardian",
+      "feed_title": "World news | The Guardian",
+      "category": "World News",
+      "feed_url": "https://www.theguardian.com/world/rss",
+      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
+    {
+      "id": "108486265",
+      "title": "Trump called out Big Oil profits. Here’s how much their refining earnings have surged since",
+      "published": "2026-10-31T06:00:02+00:00",
+      "author": null,
+      "description": "Trump criticized Big Oil for making “too much money,” but oil majors have since reported surging refining earnings as fuel supplies tightened.",
+      "link": "https://www.cnbc.com/2026/10/31/trump-big-oil-refining-profits.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108478855-1793252242563-gettyimages-2265325794-US-.jpeg?v=1793376733&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
     {
       "id": "https://timesofindia.indiatimes.com/world/us/a-wyoming-woman-wanted-to-keep-her-miniature-goat-as-a-pet-a-dispute-over-a-local-livestock-ban-became-a-constitutional-lawsuit/articleshow/135267400.cms",
       "title": "Wyoming woman’s fight to keep pet goat sparks constitutional lawsuit",
@@ -13975,34 +14003,6 @@
       "category": "World News",
       "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/10/27/world/middleeast/jordan-syria-strikes-attack.html",
-      "title": "Jordan Says Its Deadly Strikes in Syria Targeted Islamic State",
-      "published": "2026-10-27T18:33:28+00:00",
-      "author": "Raja Abdulrahim",
-      "description": "The airstrikes late Monday, which a Syrian agency said killed at least seven civilians, were in retaliation for an attack on a Jordanian church, Jordan said.",
-      "link": "https://www.nytimes.com/2026/10/27/world/middleeast/jordan-syria-strikes-attack.html",
-      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27int-jordan-strikes-wkql/27int-jordan-strikes-wkql-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/10/27/world/africa/south-africa-durban-soldiers.html",
-      "title": "South Africa Deploys 500 Soldiers to Quell Anti-Immigration Violence",
-      "published": "2026-10-27T18:28:59+00:00",
-      "author": "Zimasa Matiwane",
-      "description": "The deployment comes after a foreign national was beaten to death by a mob during an anti-immigrant protest last week.",
-      "link": "https://www.nytimes.com/2026/10/27/world/africa/south-africa-durban-soldiers.html",
-      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27int-safrica-troops-1-fmlb/27int-safrica-troops-1-fmlb-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     }
   ]
 }
