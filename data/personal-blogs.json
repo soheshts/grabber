@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-10-31T12:02:34.518628+00:00",
-  "count": 416,
+  "updated": "2026-10-31T12:33:31.862474+00:00",
+  "count": 417,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,20 @@
       "category": "personal blogs",
       "feed_url": "http://www.bennadel.com/index.cfm?dax=blog.rss&lst_tag_id=14,16,3,5,9,6,7,13,18,20,10,15",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.bennadel.com&sz=64"
+    },
+    {
+      "id": "https://hey.georgie.nu/beitou-tamsui/",
+      "title": "Day trip to Beitou Hot Spring Village and Tamsui",
+      "published": "2026-10-31T12:00:00+00:00",
+      "author": null,
+      "description": "",
+      "link": "https://hey.georgie.nu/beitou-tamsui/",
+      "image": "https://hey.georgie.nu/images/_2026/beitou/thumbnail.jpg",
+      "feed_name": "Hey Georgie",
+      "feed_title": "Hey Georgie",
+      "category": "personal blogs",
+      "feed_url": "https://hey.georgie.nu/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hey.georgie.nu&sz=64"
     },
     {
       "id": "https://ronaldsvilcins.com/2026/10/31/sticky-and-snapped-elements-with-css-scroll-state-queries/",

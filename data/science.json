@@ -1,7 +1,7 @@
 {
   "category": "science",
-  "updated": "2026-10-31T12:02:34.518628+00:00",
-  "count": 975,
+  "updated": "2026-10-31T12:33:31.862474+00:00",
+  "count": 976,
   "summary": null,
   "items": [
     {
@@ -31,6 +31,20 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "https://www.scientificamerican.com/article/how-your-brain-can-turn-your-own-reflection-into-something-unrecognizable/",
+      "title": "How your brain can turn your own reflection into something unrecognizable",
+      "published": "2026-10-31T11:00:00+00:00",
+      "author": null,
+      "description": "Staring at yourself in the mirror can create an illusionary effect, distorting your features to the point of appearing fantastical",
+      "link": "https://www.scientificamerican.com/article/how-your-brain-can-turn-your-own-reflection-into-something-unrecognizable/",
+      "image": "https://static.scientificamerican.com/dam/asset/c75faaf1-5a7d-4614-bc0e-0704b56eadb8/mirror-image.jpg?m=1793387609.429&w=1200",
+      "feed_name": "Scientific American Content: Global",
+      "feed_title": "Scientific American Content: Global",
+      "category": "science",
+      "feed_url": "http://rss.sciam.com/ScientificAmerican-Global",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.scientificamerican.com&sz=64"
     },
     {
       "id": "news712647386",
