@@ -1,9 +1,23 @@
 {
   "category": "personal blogs",
-  "updated": "2026-10-31T18:03:22.940534+00:00",
-  "count": 421,
+  "updated": "2026-10-31T18:32:16.973723+00:00",
+  "count": 422,
   "summary": null,
   "items": [
+    {
+      "id": "https://chriskirknielsen.com/blog/interop-2027-rankings/",
+      "title": "My Interop 2027 Shortlist",
+      "published": "2026-10-31T18:25:00+00:00",
+      "author": "Christopher Kirk-Nielsen (chriskirknielsen+dot-com@gmail.com)",
+      "description": "Alright, I am a little late to the party but here is my Interop 2027 ranking shortlist. Yes, CSS is… a little over-represented in my list. Share yours , too! My shortlist 🥇 CSS flex-wrap: balance . I re-implement this with block layout and inline-flex elements too often. Just gimme it. 🥈 CSS if() function . This would be so good to have for my theming shenanigans. And a thousand other things. 🥉 CSS filter(image, ...filters) . How many times have set up pseudo-elements just to lower the opacity…",
+      "link": "https://chriskirknielsen.com/blog/interop-2027-rankings/",
+      "image": null,
+      "feed_name": "chriskirknielsen",
+      "feed_title": "chriskirknielsen",
+      "category": "personal blogs",
+      "feed_url": "https://chriskirknielsen.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=chriskirknielsen.com&sz=64"
+    },
     {
       "id": "https://www.baldurbjarnason.com/2026/machine-writing-is-ash/",
       "title": "Writing is Magic; Machine Writing is Ash",
