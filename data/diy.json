@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-10-31T16:02:29.424752+00:00",
-  "count": 481,
+  "updated": "2026-10-31T16:33:08.339831+00:00",
+  "count": 483,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/yearly-backup-ssd-check-you-shouldnt-skip/",
+      "title": "Your backup SSD needs this one yearly step, and most people skip it",
+      "published": "2026-10-31T16:30:17+00:00",
+      "author": "Oluwademilade Afolabi",
+      "description": "“It worked last year” is not a backup strategy.",
+      "link": "https://www.makeuseof.com/yearly-backup-ssd-check-you-shouldnt-skip/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/02/samsung-t9-portable-ssd.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/i-spent-100-on-an-old-intel-imac-and-linux-made-it-useful-again/",
+      "title": "I spent $100 on an old Intel iMac and Linux made it useful again",
+      "published": "2026-10-31T16:30:15+00:00",
+      "author": "Sydney Butler",
+      "description": "A bootable USB and Zorin OS brought an old Intel iMac back to life for web browsing, DVD playback and simple office tasks.",
+      "link": "https://www.howtogeek.com/i-spent-100-on-an-old-intel-imac-and-linux-made-it-useful-again/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/20261022_121916-edit.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/home-assistant-makes-more-sense-with-these-plugins/",
       "title": "Home Assistant makes more sense when you set up these 5 plugins",

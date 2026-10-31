@@ -1,9 +1,23 @@
 {
   "category": "science",
-  "updated": "2026-10-31T16:02:29.424752+00:00",
+  "updated": "2026-10-31T16:33:08.339831+00:00",
   "count": 997,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/10/31/climate/how-trump-is-dismantling-americas-scientific-research-machine.html",
+      "title": "How Trump Is Dismantling America’s Scientific Research Machine",
+      "published": "2026-10-31T16:28:40+00:00",
+      "author": "Christopher Flavelle, Irena Hwang, Adam Sella, Alan Blinder, Sheryl Gay Stolberg, Benjamin Mueller and Michael C. Bender",
+      "description": "The system that has driven life-altering discoveries and helped make the United States a superpower is now under intense strain.",
+      "link": "https://www.nytimes.com/2026/10/31/climate/how-trump-is-dismantling-americas-scientific-research-machine.html",
+      "image": "https://static01.nyt.com/images/2026/10/29/us/dc-trumpscience-promo/dc-trumpscience-promo-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Science",
+      "feed_title": "NYT > Science",
+      "category": "science",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "news712581515",
       "title": "Four superconducting cables link two large quantum processors into one",
@@ -17,20 +31,6 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/10/31/climate/how-trump-is-dismantling-americas-scientific-research-machine.html",
-      "title": "How Trump Is Dismantling America’s Scientific Research Machine",
-      "published": "2026-10-31T15:39:09+00:00",
-      "author": "Christopher Flavelle, Irena Hwang, Adam Sella, Alan Blinder, Sheryl Gay Stolberg, Benjamin Mueller and Michael C. Bender",
-      "description": "The system that has driven life-altering discoveries and helped make the United States a superpower is now under intense strain.",
-      "link": "https://www.nytimes.com/2026/10/31/climate/how-trump-is-dismantling-americas-scientific-research-machine.html",
-      "image": "https://static01.nyt.com/images/2026/10/29/us/dc-trumpscience-promo/dc-trumpscience-promo-mediumSquareAt3X.jpg",
-      "feed_name": "NYT > Science",
-      "feed_title": "NYT > Science",
-      "category": "science",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "6ad66bf798b58b8b524628f0",
