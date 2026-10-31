@@ -1,9 +1,51 @@
 {
   "category": "technology",
-  "updated": "2026-10-31T11:03:49.236188+00:00",
+  "updated": "2026-10-31T11:32:14.886617+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "TheNextWeb=eb7cfab03771314c913044bcd9280244",
+      "title": "Anthropic denies breach as tampered Claude Code extension hits Cursor users",
+      "published": "2026-10-31T11:27:53+00:00",
+      "author": "Ana Maria Constantin",
+      "description": "A tampered copy of Anthropic’s Claude Code extension sat in Cursor’s extension marketplace for about 11 hours on Thursday 29 October. It reached up to 5,000 users. The malicious versions tried to plant an SSH backdoor on developers’ machines, Cursor said in a security notice. Anthropic says nobody breached its own systems. A security firm […] This story continues at The Next Web",
+      "link": "https://thenextweb.com/news/tampered-claude-code-extension-cursor-ssh-backdoor",
+      "image": "https://media.thenextweb.com/2026/10/source-code-terminal-dark-monitor-close-up.avif",
+      "feed_name": "The Next Web",
+      "feed_title": "The Next Web",
+      "category": "technology",
+      "feed_url": "https://thenextweb.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
+    {
+      "id": "TheNextWeb=d683b39cdd22e209ef414f798da53d44",
+      "title": "A Claude agent ran inside a Pentagon network for two months, WIRED reports",
+      "published": "2026-10-31T11:15:07+00:00",
+      "author": "Ana Maria Constantin",
+      "description": "An Accenture contractor connected a sensitive Pentagon system to their personal Claude Code account. The AI agent then ran on a Defense Department network for two months, Vittoria Elliott reported for WIRED on Thursday 29 October, citing sources. The agent appears to have sent login credentials and a network map to a high-risk website, the […] This story continues at The Next Web",
+      "link": "https://thenextweb.com/news/accenture-contractor-claude-agent-pentagon-network-wired",
+      "image": "https://media.thenextweb.com/2026/10/claude-opus-4-8-safeguards-notice-laptop.avif",
+      "feed_name": "The Next Web",
+      "feed_title": "The Next Web",
+      "category": "technology",
+      "feed_url": "https://thenextweb.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
+    {
+      "id": "https://hardware.slashdot.org/story/26/10/30/2355244/supersonic-airliner-in-doubt-as-company-shifts-to-powering-ai-data-centers?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "title": "Supersonic Airliner In Doubt As Company Shifts to Powering AI Data Centers",
+      "published": "2026-10-31T11:00:00+00:00",
+      "author": "BeauHD",
+      "description": "Boom Supersonic's plans to launch its Overture passenger jet by 2029 are facing growing doubts as the company pivots toward manufacturing natural gas turbines for AI data centers. Ars Technica reports: One of the company's first customers, United Airlines CEO Scott Kirby, has expressed doubts about Boom's original plan to deliver the first Overture supersonic airliner in 2029. Kirby's latest frank assessment came during an interview with the Office Hours: Business Edition podcast that appeared…",
+      "link": "https://hardware.slashdot.org/story/26/10/30/2355244/supersonic-airliner-in-doubt-as-company-shifts-to-powering-ai-data-centers?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+      "feed_name": "Slashdot",
+      "feed_title": "Slashdot",
+      "category": "technology",
+      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
+    },
     {
       "id": "TheNextWeb=44dd1662b1b684d3304a52701d680821",
       "title": "John Ternus tells WIRED Apple won’t ship AI for AI’s sake",
@@ -13961,48 +14003,6 @@
       "category": "technology",
       "feed_url": "https://lifehacker.com/rss",
       "feed_icon": "https://www.google.com/s2/favicons?domain=lifehacker.com&sz=64"
-    },
-    {
-      "id": "https://entertainment.slashdot.org/story/26/10/26/1828230/walter-koenig-chekov-on-original-star-trek-dies-at-90?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "title": "Walter Koenig, Chekov On Original 'Star Trek,' Dies At 90",
-      "published": "2026-10-26T19:00:00+00:00",
-      "author": "BeauHD",
-      "description": "Longtime Slashdot reader schwit1 shares a report from CBS News: Walter Koenig, the actor who played Pavel Chekov in the original \"Star Trek\" series and several movies, has died, his rep confirmed to CBS News. He was 90. Koenig died Sunday night at his home in the North Hollywood neighborhood of Los Angeles, talent rep Zachery McGinnis said in a statement. He died surrounded by his daughter and niece, McGinnis said. In 'Star Trek,' Ensign Chekov was the sole member of the spaceship Enterprise br…",
-      "link": "https://entertainment.slashdot.org/story/26/10/26/1828230/walter-koenig-chekov-on-original-star-trek-dies-at-90?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-      "feed_name": "Slashdot",
-      "feed_title": "Slashdot",
-      "category": "technology",
-      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
-    },
-    {
-      "id": "01H766Txf2xc5MlHEZIMbZt",
-      "title": "Apple breaks silence on iPhone Duo cracking reports",
-      "published": "2026-10-26T18:56:31+00:00",
-      "author": null,
-      "description": "Apple acknowledges iPhone Duo inner display issues on a \"small number\" of units and points owners to AppleCare.",
-      "link": "https://mashable.com/tech/apple-responds-iphone-duo-crack-reports",
-      "image": "https://helios-i.mashable.com/imagery/articles/01H766Txf2xc5MlHEZIMbZt/hero-image.jpg",
-      "feed_name": "Mashable",
-      "feed_title": "Mashable",
-      "category": "technology",
-      "feed_url": "http://feeds.mashable.com/Mashable",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
-    },
-    {
-      "id": "TheNextWeb=a6188f0848485ed4a7663b9e94b31079",
-      "title": "Verizon CEO says SpaceX would need $500B to compete in US wireless",
-      "published": "2026-10-26T18:54:19+00:00",
-      "author": "Ana-Maria Stanciuc",
-      "description": "Verizon CEO Dan Schulman said SpaceX would need up to $500B, up to 80,000 cell towers and as many as eight years to build a US mobile network that matches Verizon’s, Business Insider reported. Elon Musk replied on X that it “will take 2 or 3 years“. SpaceX would need up to $500B and as […] This story continues at The Next Web",
-      "link": "https://thenextweb.com/news/verizon-schulman-spacex-500b-wireless-network",
-      "image": "https://media.thenextweb.com/2026/10/dan-schulman-speaking-poptech-2013-cropped.avif",
-      "feed_name": "The Next Web",
-      "feed_title": "The Next Web",
-      "category": "technology",
-      "feed_url": "https://thenextweb.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
     }
   ]
 }

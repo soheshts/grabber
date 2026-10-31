@@ -1,9 +1,51 @@
 {
   "category": "DIY",
-  "updated": "2026-10-31T11:03:49.236188+00:00",
-  "count": 457,
+  "updated": "2026-10-31T11:32:14.886617+00:00",
+  "count": 460,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/windows-pc-quietly-recording-what-you-type-default-setting/",
+      "title": "Your Windows 11 PC is quietly recording what you type because of one default setting",
+      "published": "2026-10-31T11:30:16+00:00",
+      "author": "Digvijay Kumar",
+      "description": "A default setting has been saving every unfamiliar word you type.",
+      "link": "https://www.makeuseof.com/windows-pc-quietly-recording-what-you-type-default-setting/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/asus-laptop-showing-windows-privacy-options-1.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/forgotten-networking-standards-that-kept-computers-connected-before-wi-fi-and-ethernet/",
+      "title": "Before Wi-Fi and Ethernet, these 3 forgotten standards kept computers connected",
+      "published": "2026-10-31T11:30:15+00:00",
+      "author": "Andrew Heinzman",
+      "description": "Most of these still survive today in some form.",
+      "link": "https://www.howtogeek.com/forgotten-networking-standards-that-kept-computers-connected-before-wi-fi-and-ethernet/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/08/hand-holding-a-flat-ethernet-cable.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://hackaday.com/?p=1397102",
+      "title": "Learn to Edit STL Files in Just a Few Minutes",
+      "published": "2026-10-31T11:00:45+00:00",
+      "author": "Donald Papp",
+      "description": "Sometimes an STL file needs a bit of editing, but if one doesn’t already know how to use a mesh editor it’s unlikely that one has the time to sit …read more",
+      "link": "https://hackaday.com/2026/10/31/learn-to-edit-stl-files-in-just-a-few-minutes/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/10/Editing-STL-files-for-busy-people.png",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/usb-c-monitor-ended-up-upgrading-everything/",
       "title": "This $124 USB-C monitor turned my phone, gaming handheld, and iPad into something new",
