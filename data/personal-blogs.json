@@ -1,9 +1,23 @@
 {
   "category": "personal blogs",
-  "updated": "2026-10-31T19:33:30.617129+00:00",
-  "count": 423,
+  "updated": "2026-10-31T20:03:43.832212+00:00",
+  "count": 424,
   "summary": null,
   "items": [
+    {
+      "id": "https://dariuszwinkler.com/2026-10-31-rss-notice/",
+      "title": "This RSS feed has moved to a new domain",
+      "published": "2026-10-31T18:30:00+00:00",
+      "author": "Dariusz Winkler",
+      "description": "I've moved my website to a new domain. Please update the URL in your feed reader.",
+      "link": "https://dariuszwinkler.com/",
+      "image": "https://dariuszwinkler.com/assets/images/og.webp",
+      "feed_name": "Darek Kay",
+      "feed_title": "Dariusz Winkler",
+      "category": "personal blogs",
+      "feed_url": "https://darekkay.com/atom.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=dariuszwinkler.com&sz=64"
+    },
     {
       "id": "https://chriskirknielsen.com/blog/interop-2027-rankings/",
       "title": "My Interop 2027 Shortlist",
