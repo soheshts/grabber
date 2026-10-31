@@ -1,9 +1,51 @@
 {
   "category": "World News",
-  "updated": "2026-10-31T00:33:35.612300+00:00",
+  "updated": "2026-10-31T01:03:45.821759+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/10/30/world/americas/el-salvador-haiti-soldiers-bukele.html",
+      "title": "Could El Salvador’s Bukele Be Haiti’s Savior?",
+      "published": "2026-10-31T00:51:38+00:00",
+      "author": "Frances Robles",
+      "description": "The Salvadoran government dispatched more than 2,000 troops to Haiti this week in an extraordinary deployment on foreign soil.",
+      "link": "https://www.nytimes.com/2026/10/30/world/americas/el-salvador-haiti-soldiers-bukele.html",
+      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30int-Haiti-Salvador-zgwj/30int-Haiti-Salvador-zgwj-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo#0",
+      "title": "US approves sale of 500 Patriot missiles to Ukraine",
+      "published": "2026-10-31T00:40:43+00:00",
+      "author": null,
+      "description": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
+      "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea75/live/f93e2820-d4b7-11f1-a701-fddedf244c16.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/uk/in-1985-a-british-comedy-fundraiser-began-with-a-televised-appeal-40-years-later-comic-relief-has-raised-over-1-6-billion-to-tackle-poverty-worldwide/articleshow/135233575.cms",
+      "title": "Comic Relief: How a 1985 comedy appeal raised over £1.6 billion",
+      "published": "2026-10-31T00:30:00+00:00",
+      "author": "TOI World Desk",
+      "description": "",
+      "link": "https://timesofindia.indiatimes.com/world/uk/in-1985-a-british-comedy-fundraiser-began-with-a-televised-appeal-40-years-later-comic-relief-has-raised-over-1-6-billion-to-tackle-poverty-worldwide/articleshow/135233575.cms",
+      "image": "https://static.toiimg.com/photo/msid-135234756,imgsize-794452.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo#1",
       "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
@@ -17,6 +59,34 @@
       "category": "World News",
       "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/31/us-cancels-g20-family-photo-after-australia-uk-and-others-refuse-to-appear-with-russia",
+      "title": "US cancels G20 ‘family photo’ after Australia, UK and others refuse to appear with Russia",
+      "published": "2026-10-31T00:29:28+00:00",
+      "author": "Ben Doherty and Associated Press",
+      "description": "Marco Rubio pulls plug on traditional photo op at meeting of foreign ministers after about one-third of countries threaten boycott The traditional “family photo” to open the G20 foreign ministers’ meeting has been abruptly cancelled in the US after a host of nations – including Australia and the UK – refused to appear beside Russian foreign minister Sergei Lavrov. US secretary of state, Marco Rubio, pulled the plug after several European officials, the UK and Australia made it known they would…",
+      "link": "https://www.theguardian.com/world/2026/oct/31/us-cancels-g20-family-photo-after-australia-uk-and-others-refuse-to-appear-with-russia",
+      "image": "https://i.guim.co.uk/img/media/94e76fb3f040c70be5f1c43fa81c443afb9943dd/1924_1239_3101_2483/master/3101.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9b6b98da30813dfd0691fcdaab92f66e",
+      "feed_name": "The Guardian",
+      "feed_title": "World news | The Guardian",
+      "category": "World News",
+      "feed_url": "https://www.theguardian.com/world/rss",
+      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/us/a-utah-man-spent-more-than-400-hours-turning-his-front-yard-into-a-halloween-tribute-to-the-amusement-park-ride-he-feared-as-a-child-and-the-display-has-already-filled-half-his-truck-with-charity-donations-on-day-one/articleshow/135342998.cms",
+      "title": "Utah Yard Becomes Charity Haunt: Resident builds Terroride-style display; visitors come for the scares",
+      "published": "2026-10-31T00:25:00+00:00",
+      "author": "TOI World Desk",
+      "description": "In an imaginative twist on Halloween festivities, Kelly Hertel evolved his childhood fears into an engaging front yard display dubbed Terroride. Generating significant charity donations, the attraction is an elaborate homage to his past. With over 400 hours of meticulous effort, Hertel's themed sections offer both thrilling entertainment and a chance for the community to unite in giving this season.",
+      "link": "https://timesofindia.indiatimes.com/world/us/a-utah-man-spent-more-than-400-hours-turning-his-front-yard-into-a-halloween-tribute-to-the-amusement-park-ride-he-feared-as-a-child-and-the-display-has-already-filled-half-his-truck-with-charity-donations-on-day-one/articleshow/135342998.cms",
+      "image": "https://static.toiimg.com/photo/msid-135343187,imgsize-955104.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
       "id": "https://www.theguardian.com/australia-news/2026/oct/31/timor-leste-australia-bugging-rex-patrick-ntwnfb",
@@ -129,20 +199,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo#0",
-      "title": "US approves sale of 500 Patriot missiles to Ukraine",
-      "published": "2026-10-30T22:20:52+00:00",
-      "author": null,
-      "description": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
-      "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea75/live/f93e2820-d4b7-11f1-a701-fddedf244c16.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do#1",
@@ -451,20 +507,6 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/10/30/world/americas/el-salvador-haiti-soldiers-bukele.html",
-      "title": "Could El Salvador’s Bukele Be Haiti’s Savior?",
-      "published": "2026-10-30T20:06:07+00:00",
-      "author": "Frances Robles",
-      "description": "The Salvadoran government dispatched more than 2,000 troops to Haiti this week in an extraordinary deployment on foreign soil.",
-      "link": "https://www.nytimes.com/2026/10/30/world/americas/el-salvador-haiti-soldiers-bukele.html",
-      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30int-Haiti-Salvador-zgwj/30int-Haiti-Salvador-zgwj-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "108486001",
@@ -13961,48 +14003,6 @@
       "category": "World News",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/us/us-charges-48-non-citizens-over-election-related-crimes-in-pennsylvania-california-florida-new-york-and-nevada-two-indians-among-those-accused-of-illegal-voting-and-false-citizenship-claims/articleshow/135239322.cms",
-      "title": "US charges 48 non-citizens in election-related cases across five states; two Indians named",
-      "published": "2026-10-27T15:46:41+00:00",
-      "author": "TOI World Desk",
-      "description": "The US Justice Department has announced charges against 48 non-citizens in election-related cases across Pennsylvania, California, Florida, New York and Nevada. Two Indian nationals are among those accused. The cases involve allegations of illegal voting in federal elections, fraudulent voter registration and false claims of US citizenship, including alleged misrepresentations in naturalisation proceedings. All defendants are presumed innocent.",
-      "link": "https://timesofindia.indiatimes.com/world/us/us-charges-48-non-citizens-over-election-related-crimes-in-pennsylvania-california-florida-new-york-and-nevada-two-indians-among-those-accused-of-illegal-voting-and-false-citizenship-claims/articleshow/135239322.cms",
-      "image": "https://static.toiimg.com/photo/msid-135239448,imgsize-108500.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-avigdor-liberman-naftali-bennett.html",
-      "title": "2 Right-Wingers Who Broke With Netanyahu Could Bid to Unseat Him",
-      "published": "2026-10-27T15:46:09+00:00",
-      "author": "Aaron Boxerman",
-      "description": "The political evolutions of Naftali Bennett, a former prime minister, and Avigdor Liberman, a former defense minister, are indicative of how Benjamin Netanyahu has polarized Israel.",
-      "link": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-avigdor-liberman-naftali-bennett.html",
-      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27israel-bennett-lieberman-bkwf/27israel-bennett-lieberman-bkwf-mediumSquareAt3X-v2.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cj5ynkk6v3pzo#1",
-      "title": "West warns of famine risk in Sudan as civil war grinds on",
-      "published": "2026-10-27T15:41:46+00:00",
-      "author": null,
-      "description": "Millions face acute hunger in Sudan as conflict, drought and funding cuts aggravate the humanitarian crisis.",
-      "link": "https://www.bbc.co.uk/news/articles/cj5ynkk6v3pzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/609e/live/8fffe6c0-d208-11f1-b3b6-c1e79e957e40.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     }
   ]
 }
