@@ -1,9 +1,51 @@
 {
   "category": "technology",
-  "updated": "2026-10-31T17:33:35.204863+00:00",
+  "updated": "2026-10-31T18:03:22.940534+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.engadget.com/2300257/drawbacks-you-should-know-before-buying-playstation-5/",
+      "title": "4 drawbacks you should know before buying a PlayStation 5",
+      "published": "2026-10-31T18:00:00+00:00",
+      "author": "Dave Meikleham",
+      "description": "The PS5 isn't as good of a buy today as it was early in its life, so you should be aware of the drawbacks in this awkward console generation.",
+      "link": "https://www.engadget.com/2300257/drawbacks-you-should-know-before-buying-playstation-5/",
+      "image": "https://www.engadget.com/img/gallery/4-drawbacks-you-should-know-before-buying-a-playstation-5/l-intro-1793035591.jpg",
+      "feed_name": "Engadget",
+      "feed_title": "Engadget - Technology News & Expert Reviews",
+      "category": "technology",
+      "feed_url": "https://www.engadget.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
+    {
+      "id": "https://www.theverge.com/?p=1024085",
+      "title": "Happy Pikmin Day Eve",
+      "published": "2026-10-31T17:50:12+00:00",
+      "author": "Terrence O’Brien",
+      "description": "This morning, Nintendo announced that tomorrow, November 1st, would be the first annual Pikmin Day. As part of the short Pikmin Day Direct, Shigeru Miyamoto shared new info about Pikmin 4 for the Switch 2, as well as an update for the mobile app Pikmin Bloom, and announced the Hello! Pikmin series of shorts. Players […]",
+      "link": "https://www.theverge.com/games/1024085/happy-pikmin-day-eve",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/7-1lQh551UY-HD.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "feed_name": "The Verge -  All Posts",
+      "feed_title": "The Verge",
+      "category": "technology",
+      "feed_url": "https://www.theverge.com/rss/index.xml",
+      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
+    },
+    {
+      "id": "https://news.slashdot.org/story/26/10/31/1742209/dozens-of-unexplained-drones-have-buzzed-americas-nuclear-plants-since-2024?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "title": "Dozens of Unexplained Drones Have Buzzed America's Nuclear Plants Since 2024",
+      "published": "2026-10-31T17:50:00+00:00",
+      "author": "EditorDavid",
+      "description": "Slashdot reader ElectricVs shares this report from American Buildout, a new site covering \"the intersection of data centers, energy and power, finance, and Main Street.\" Dozens of unexplained drones flew over and near U.S. nuclear facilities between February 2024 and March 2026, according to records the Nuclear Regulatory Commission made public this week. In all, facility operators filed 67 reports of drones over or near 28 sites in 17 states. They include the Three Mile Island site near Middle…",
+      "link": "https://news.slashdot.org/story/26/10/31/1742209/dozens-of-unexplained-drones-have-buzzed-americas-nuclear-plants-since-2024?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+      "feed_name": "Slashdot",
+      "feed_title": "Slashdot",
+      "category": "technology",
+      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
+    },
     {
       "id": "https://www.engadget.com/2301962/bolt-graphics-powers-on-first-zeus-gpu/",
       "title": "Bolt Graphics powers on its first Zeus GPU",
@@ -13961,48 +14003,6 @@
       "category": "technology",
       "feed_url": "https://www.engadget.com/rss.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
-    },
-    {
-      "id": "https://yro.slashdot.org/story/26/10/26/2150206/php2shell-security-flaws-now-successfully-exploited?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "title": "PHP2Shell Security Flaws Now Successfully Exploited",
-      "published": "2026-10-26T23:00:00+00:00",
-      "author": "BeauHD",
-      "description": "The critical PHP2Shell vulnerabilities (CVE-2026-109618 and CVE-2026-109619) have now been successfully exploited in the wild, just days after patches were released and initial exploitation attempts failed. BleepingComputer reports: The malicious activity was caught by Adel Karimi, detection and response lead at Perplexity, whose honeypots recorded evidence of confirmed remote code execution against an Apache mod_php installation running PHP 8.4.26. \"This is now confirmed RCE with usable memory…",
-      "link": "https://yro.slashdot.org/story/26/10/26/2150206/php2shell-security-flaws-now-successfully-exploited?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-      "feed_name": "Slashdot",
-      "feed_title": "Slashdot",
-      "category": "technology",
-      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
-    },
-    {
-      "id": "https://www.engadget.com/2294767/ways-to-use-playstation-5-usb-ports/",
-      "title": "6+ ways you can use your PlayStation 5's USB ports",
-      "published": "2026-10-26T23:00:00+00:00",
-      "author": "Ben Stegner",
-      "description": "You can do more than charge your controllers with the USB ports on your PS5. Here are some of the possibilities.",
-      "link": "https://www.engadget.com/2294767/ways-to-use-playstation-5-usb-ports/",
-      "image": "https://www.engadget.com/img/gallery/6-ways-you-can-use-your-playstation-5s-usb-ports/l-intro-1792698653.jpg",
-      "feed_name": "Engadget",
-      "feed_title": "Engadget - Technology News & Expert Reviews",
-      "category": "technology",
-      "feed_url": "https://www.engadget.com/rss.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
-    },
-    {
-      "id": "059RyXr3zOd97LR6S3GMv2V",
-      "title": "Get a lifetime of the iScanner App’s scanning, signatures, and PDF tools for just $24.97",
-      "published": "2026-10-26T23:00:00+00:00",
-      "author": null,
-      "description": "Get iScanner lifetime access for $24.97 (reg. $199.90) through Nov. 1.",
-      "link": "https://mashable.com/tech/oct-26-iscanner-app-lifetime-subscription",
-      "image": "https://helios-i.mashable.com/imagery/articles/059RyXr3zOd97LR6S3GMv2V/hero-image.jpg",
-      "feed_name": "Mashable",
-      "feed_title": "Mashable",
-      "category": "technology",
-      "feed_url": "http://feeds.mashable.com/Mashable",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
     }
   ]
 }
