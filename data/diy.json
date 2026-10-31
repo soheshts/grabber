@@ -1,9 +1,51 @@
 {
   "category": "DIY",
-  "updated": "2026-10-31T17:03:45.662295+00:00",
-  "count": 486,
+  "updated": "2026-10-31T17:33:35.204863+00:00",
+  "count": 489,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/space-heaters-smart-plugs-dangerous-pair-in-winter/",
+      "title": "Space heaters and smart plugs are a dangerous pair, and winter is when everyone tries it",
+      "published": "2026-10-31T17:30:16+00:00",
+      "author": "Jonathon Jachura",
+      "description": "Here's the real reasons why you should never use a smart plug with a space heater.",
+      "link": "https://www.makeuseof.com/space-heaters-smart-plugs-dangerous-pair-in-winter/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/10/small-space-heater-plugged-into-amazon-smart-plug.jpeg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/your-current-software-subscriptions-could-be-your-last/",
+      "title": "Your current software subscriptions could be your last",
+      "published": "2026-10-31T17:30:15+00:00",
+      "author": "Adam Davidson",
+      "description": "Subscriptions may soon be suboptimal.",
+      "link": "https://www.howtogeek.com/your-current-software-subscriptions-could-be-your-last/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/the-wordcraft-app-from-artcraft-running-on-an-imac.png",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://hackaday.com/?p=1397061",
+      "title": "DIY WiFi Analyzer Sniffs Out Congestion and Coverage Issues, Suggests Fixes",
+      "published": "2026-10-31T17:00:53+00:00",
+      "author": "Donald Papp",
+      "description": "[Roni Bandini]’s JEV WiFi Analyzer is an interesting experiment that glues together a single-board Linux computer, a USB WiFi adapter, and a specialized AI model to create a new kind …read more",
+      "link": "https://hackaday.com/2026/10/31/diy-wifi-analyzer-sniffs-out-congestion-and-coverage-issues-suggests-fixes/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/10/JEV-WiFi-Analyzer-2-banner.png",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/your-windows-pc-doesnt-have-to-be-this-loud-and-this-free-app-proves-it/",
       "title": "A free app stopped my Windows PC fans from roaring at every browser tab",

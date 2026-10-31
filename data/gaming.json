@@ -1,6 +1,6 @@
 {
   "category": "gaming",
-  "updated": "2026-10-31T17:03:45.662295+00:00",
+  "updated": "2026-10-31T17:33:35.204863+00:00",
   "count": 1000,
   "summary": null,
   "items": [
@@ -31,6 +31,20 @@
       "category": "gaming",
       "feed_url": "https://kotaku.com/rss",
       "feed_icon": "https://www.google.com/s2/favicons?domain=kotaku.com&sz=64"
+    },
+    {
+      "id": "588bbb8a-5d4b-4620-8ce7-1aeac4ce4d6e",
+      "title": "Everything Coming to Disney+ and Hulu in November",
+      "published": "2026-10-31T16:30:00+00:00",
+      "author": "Blythe Dujardin",
+      "description": "Disney and Hulu have officially confirmed what’s coming to both streaming services in November, offering up some reality TV, anime, and festive entertainment for the colder months. Both streaming services will be light on new movies this month, aside from some festive pick-ups like The Polar Express and Four Christmases. However, Disney+ and Hulu are both getting a ridiculous amount of TV, including ongoing seasons of Dancing with the Stars and Grey’s Anatomy and some new premieres. Disney+ wil…",
+      "link": "https://www.ign.com/articles/whats-new-on-disney-plus-hulu-streaming-bundle-november-2026",
+      "image": "https://assets-prd.ignimgs.com/2026/09/25/disnehulu-1790373457353.jpg",
+      "feed_name": "IGN All",
+      "feed_title": "IGN Articles",
+      "category": "gaming",
+      "feed_url": "http://feeds.ign.com/ign/all",
+      "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
     },
     {
       "id": "https://www.polygon.com/phantom-blade-zero-crimson-desert-goty-chances/",
@@ -13989,20 +14003,6 @@
       "category": "gaming",
       "feed_url": "https://www.reddit.com/r/gaming.rss",
       "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "https://www.polygon.com/mass-effect-universe-parallel-universe-timeline-system/",
-      "title": "Mass Effect Universe Director Reveals Canceled Game's Multiverse System",
-      "published": "2026-10-25T15:38:08+00:00",
-      "author": "Ashely Claudino",
-      "description": "BioWare's technical director reveals that Mass Effect Universe was set to feature a complex parallel-universe system with multiple timelines.",
-      "link": "https://www.polygon.com/mass-effect-universe-parallel-universe-timeline-system/",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/mass-effect-multiverse.jpg",
-      "feed_name": "Polygon -  All",
-      "feed_title": "Polygon.com",
-      "category": "gaming",
-      "feed_url": "https://www.polygon.com/rss/index.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.polygon.com&sz=64"
     }
   ]
 }
