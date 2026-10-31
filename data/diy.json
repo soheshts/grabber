@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-10-31T20:32:16.730505+00:00",
-  "count": 502,
+  "updated": "2026-10-31T21:02:36.434687+00:00",
+  "count": 504,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/remove-bloatware-apps-motorola-phone/",
+      "title": "I gave my Motorola phone a speed boost by removing these preinstalled apps",
+      "published": "2026-10-31T21:01:16+00:00",
+      "author": "Pankil Shah",
+      "description": "Motorola's \"helpful\" apps weren't helpful at all.",
+      "link": "https://www.makeuseof.com/remove-bloatware-apps-motorola-phone/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/10/53908420576_c658ca9f07_o-1.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/these-open-source-windows-apps-have-no-business-being-as-good-as-they-are/",
+      "title": "5 essential open-source apps every Windows user should install",
+      "published": "2026-10-31T21:00:15+00:00",
+      "author": "Goran Damnjanovic",
+      "description": "Sometimes, I can't believe just how many brilliant open-source apps are out there.",
+      "link": "https://www.howtogeek.com/these-open-source-windows-apps-have-no-business-being-as-good-as-they-are/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/vlc-localsend-and-sharex-running-on-a-windows-pc.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/task-manager-told-me-my-pc-was-slow-but-resource-monitor-told-me-why/",
       "title": "Task Manager told me my PC was slow, but Resource Monitor told me why",
