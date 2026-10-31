@@ -1,7 +1,7 @@
 {
   "category": "DIY",
-  "updated": "2026-10-31T23:02:32.326191+00:00",
-  "count": 512,
+  "updated": "2026-10-31T23:32:35.686282+00:00",
+  "count": 513,
   "summary": null,
   "items": [
     {
@@ -31,6 +31,20 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://hackaday.com/?p=1397165",
+      "title": "Rooting an Amazon Echo Dot",
+      "published": "2026-10-31T23:00:00+00:00",
+      "author": "Maya Posch",
+      "description": "The Amazon Echo Dot is one of Amazon’s so-called ‘smart speaker’ offerings that tie into their larger Alexa-fueled ecosystem, designed to be a pretty minimalistic device that gives you access …read more",
+      "link": "https://hackaday.com/2026/10/31/rooting-an-amazon-echo-dot/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/10/echo_dot_home_assistant_mod_andys_tech_lab_youtube.jpg",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
     },
     {
       "id": "https://www.howtogeek.com/heres-how-i-use-a-3d-printer-to-give-my-old-phones-smartwatches-and-smart-home-gear-a-second-life/",
