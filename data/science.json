@@ -1,9 +1,51 @@
 {
   "category": "science",
-  "updated": "2026-10-31T09:03:43.198547+00:00",
-  "count": 966,
+  "updated": "2026-10-31T09:32:19.671493+00:00",
+  "count": 969,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/10/31/science/ukraine-soldiers-infection-treatment.html",
+      "title": "Doctors in Ukraine Try Treating Infections Like Biological Warfare Attacks",
+      "published": "2026-10-31T09:01:45+00:00",
+      "author": "Gina Kolata and Marc Santora",
+      "description": "As many as 40 percent of injured soldiers face severe infections that can lead to amputations and death. One initiative is trying to fix that.",
+      "link": "https://www.nytimes.com/2026/10/31/science/ukraine-soldiers-infection-treatment.html",
+      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/00sci-Ukraine-infections-04-bfqh/00sci-Ukraine-infections-04-bfqh-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Science",
+      "feed_title": "NYT > Science",
+      "category": "science",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/31/science/mummy-sale-facebook-ill.html",
+      "title": "That Mummy for Sale on Facebook Could Make You Ill",
+      "published": "2026-10-31T09:00:18+00:00",
+      "author": "Franz Lidz",
+      "description": "Experts warn that online black markets for mummified remains could pose health risks.",
+      "link": "https://www.nytimes.com/2026/10/31/science/mummy-sale-facebook-ill.html",
+      "image": null,
+      "feed_name": "NYT > Science",
+      "feed_title": "NYT > Science",
+      "category": "science",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "6ae4df5c8b1b5cec211330c0",
+      "title": "White Dwarfs Aren’t Just White. Scientists Discover Dying Stars Turning Pink and Green",
+      "published": "2026-10-31T09:00:00+00:00",
+      "author": "Petr Kubala",
+      "description": "Astronomers find that a white dwarf’s density and the kind of material it absorbed from its surroundings can produce a rainbow of shades in the star’s atmosphere.",
+      "link": "https://www.wired.com/story/white-dwarfs-arent-just-white-scientists-discover-dying-stars-turning-pink-and-green/",
+      "image": "https://media.wired.com/photos/6ae4f2b6964b916949bd5905/master/pass/2026-10-16T090008Z_1895378929_RC2IYNATEQ2X_RTRMADP_3_SPACE-STAR.jpg",
+      "feed_name": "Science Latest",
+      "feed_title": "Science Latest",
+      "category": "science",
+      "feed_url": "https://www.wired.com/feed/category/science/latest/rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.wired.com&sz=64"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/crq8nw0q7d5ko#1",
       "title": "Rewilding project aims to restore peatland",
