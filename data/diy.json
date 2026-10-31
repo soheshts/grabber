@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-10-31T02:03:40.660448+00:00",
-  "count": 447,
+  "updated": "2026-10-31T02:32:40.987804+00:00",
+  "count": 448,
   "summary": null,
   "items": [
+    {
+      "id": "https://hackaday.com/?p=1397021",
+      "title": "VR Headset Ditches the Base Stations with DIY Tracking",
+      "published": "2026-10-31T02:00:41+00:00",
+      "author": "Donald Papp",
+      "description": "Those in the virtual reality scene might be interested in [Prohurtz]’s add-on for the Bigscreen Beyond VR headset. BSB-SLAM adds SLAM (Simultaneous Localization and Mapping) tracking to the headset by attaching …read more",
+      "link": "https://hackaday.com/2026/10/30/vr-headset-ditches-the-base-stations-with-diy-tracking/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/10/DIY-BSB-SLAM-tracker-2.png",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/i-built-my-own-desktop-widgets-for-windows-using-claude/",
       "title": "I built my own Windows desktop widgets using Claude, and it only takes a few minutes",
