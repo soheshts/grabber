@@ -1,9 +1,51 @@
 {
   "category": "World News",
-  "updated": "2026-10-31T00:03:50.352191+00:00",
+  "updated": "2026-10-31T00:33:35.612300+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo#1",
+      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+      "published": "2026-10-31T00:29:58+00:00",
+      "author": null,
+      "description": "The incumbent Republican running for re-election and allies have accused the Democrats of trying to confuse voters by recruiting a second Dan Sullivan to also stand in the race.",
+      "link": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4570/live/1ef80da0-d46e-11f1-93e1-3b657b665bcf.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://www.theguardian.com/australia-news/2026/oct/31/timor-leste-australia-bugging-rex-patrick-ntwnfb",
+      "title": "A top-secret spy mission, a decades-old scandal – and the Austin Powers-esque saga to lift the lid",
+      "published": "2026-10-31T00:04:51+00:00",
+      "author": "Sarah Basford Canales",
+      "description": "Rex Patrick’s latest transparency fight is over what he calls ‘most open secret in the history of Australian spying’ – maybe even the world Get our daily political email , free app or daily news podcast A campaign to uncover any documents relating to whether Australian spies bugged Timor-Leste to gain the upper hand in sensitive oil and gas negotiations will be a little less secret after a critical win by the former senator Rex Patrick. The politician turned transparency advocate is trying to f…",
+      "link": "https://www.theguardian.com/australia-news/2026/oct/31/timor-leste-australia-bugging-rex-patrick-ntwnfb",
+      "image": "https://i.guim.co.uk/img/media/6eb1a93f3f7f79334c83c97454ccca057a2faf0c/651_259_4847_3877/master/4847.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6f032f685eaa09732b7620b2073781c8",
+      "feed_name": "The Guardian",
+      "feed_title": "World news | The Guardian",
+      "category": "World News",
+      "feed_url": "https://www.theguardian.com/world/rss",
+      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/uk/a-couple-bought-a-derelict-land-rover-dealership-for-330000-and-turned-it-into-a-five-bedroom-home-the-forecourt-can-fit-around-50-cars/articleshow/135266799.cms",
+      "title": "Couple turn £330,000 Land Rover dealership into 5-bedroom home",
+      "published": "2026-10-31T00:00:00+00:00",
+      "author": "TOI World Desk",
+      "description": "",
+      "link": "https://timesofindia.indiatimes.com/world/uk/a-couple-bought-a-derelict-land-rover-dealership-for-330000-and-turned-it-into-a-five-bedroom-home-the-forecourt-can-fit-around-50-cars/articleshow/135266799.cms",
+      "image": "https://static.toiimg.com/photo/msid-135267240,imgsize-116521.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
     {
       "id": "https://timesofindia.indiatimes.com/world/rest-of-world/queenslands-kuridala-copper-town-prospered-during-world-war-i-but-a-1918-cyclone-damaged-its-smelter-before-the-plant-closed-in-1920/articleshow/135209538.cms",
       "title": "Queensland’s Kuridala copper town declined after a 1918 cyclone damaged its smelter",
@@ -131,6 +173,20 @@
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
+      "id": "t3_1xjsjbv",
+      "title": "China's Xi calls on EU to work with China, says Beijing handles ties with sincerity, goodwill",
+      "published": "2026-10-30T21:52:46+00:00",
+      "author": "/u/paneuropeanism_",
+      "description": "submitted by /u/paneuropeanism_ [link] [comments]",
+      "link": "https://www.reddit.com/r/worldnews/comments/1xjsjbv/chinas_xi_calls_on_eu_to_work_with_china_says/",
+      "image": null,
+      "feed_name": "World News",
+      "feed_title": "World News",
+      "category": "World News",
+      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
+      "feed_icon": "https://www.redditstatic.com/icon.png/"
+    },
+    {
       "id": "108487114",
       "title": "Binance loses $6.3 billion in crypto heist—what happens to your money when an exchange gets hacked",
       "published": "2026-10-30T21:45:52+00:00",
@@ -255,20 +311,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo#1",
-      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
-      "published": "2026-10-30T20:55:18+00:00",
-      "author": null,
-      "description": "Dan S Sullivan, the incumbent Republican senator running for re-election, and allies have accused the Democrats of trying to confuse voters by recruiting Dan J Sullivan to also stand in the race.",
-      "link": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4570/live/1ef80da0-d46e-11f1-93e1-3b657b665bcf.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/crz9824d5e88o#0",
@@ -13961,48 +14003,6 @@
       "category": "World News",
       "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/us/in-2005-a-maine-husband-refinanced-the-family-home-without-his-wifes-signature-after-their-divorce-and-years-without-payments-a-faulty-189471-foreclosure-notice-helped-her-win-in-federal-court/articleshow/135238779.cms",
-      "title": "Maine woman wins federal court battle over faulty $189,471 foreclosure notice",
-      "published": "2026-10-27T15:41:17+00:00",
-      "author": "TOI World Desk",
-      "description": "In a landmark decision, a federal court upheld that Maine's foreclosure notification regulations extend protections to non-borrowing spouses. This case highlighted a scenario where a woman faced foreclosure due to her husband's refinancing actions, taken without her consent. The lender's notice was found lacking in clarity regarding amounts owed, underscoring the critical need for adherence to state laws which safeguard homeowners from improper foreclosure practices.",
-      "link": "https://timesofindia.indiatimes.com/world/us/in-2005-a-maine-husband-refinanced-the-family-home-without-his-wifes-signature-after-their-divorce-and-years-without-payments-a-faulty-189471-foreclosure-notice-helped-her-win-in-federal-court/articleshow/135238779.cms",
-      "image": "https://static.toiimg.com/photo/msid-135238923,imgsize-85888.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "108468118",
-      "title": "Man charged with assisting ‘foreign intelligence service’ after incident at UK base used for Iran strikes",
-      "published": "2026-10-27T15:41:11+00:00",
-      "author": null,
-      "description": "Two men face U.K. national security charges after an incident at a British air base used by U.S. forces during strikes on Iran.",
-      "link": "https://www.cnbc.com/2026/10/27/uk-national-security-raf-fairford-iran.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108368480-1790500104599-gettyimages-2286922212-Getty.jpeg?v=1790500131&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/science/wildlife/california-crews-placed-over-24000-cubic-yards-of-gravel-49-trees-and-80-boulders-in-the-tuolumne-river-to-rebuild-4-78-acres-of-habitat-within-days-of-completion-scientists-documented-salmon-spawning-on-new-riffles/articleshow/135238601.cms",
-      "title": "California river restoration project attracts salmon within days of completion",
-      "published": "2026-10-27T15:40:00+00:00",
-      "author": "TOI Science Desk",
-      "description": "A remarkable effort in California involved restoration crews who revitalized a section of the Lower Tuolumne River, focusing on creating vital salmon habitats and enriching local biodiversity. The project saw the introduction of over 24,000 cubic yards of gravel and 80 boulders, which collectively improved spawning conditions. Almost immediately after the work was completed, salmon flocked to the newly established habitats, showcasing the project's success.",
-      "link": "https://timesofindia.indiatimes.com/science/wildlife/california-crews-placed-over-24000-cubic-yards-of-gravel-49-trees-and-80-boulders-in-the-tuolumne-river-to-rebuild-4-78-acres-of-habitat-within-days-of-completion-scientists-documented-salmon-spawning-on-new-riffles/articleshow/135238601.cms",
-      "image": "https://static.toiimg.com/photo/msid-135238744,imgsize-192444.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     }
   ]
 }
