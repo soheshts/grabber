@@ -1,9 +1,65 @@
 {
   "category": "World News",
-  "updated": "2026-10-31T20:03:43.832212+00:00",
+  "updated": "2026-10-31T20:32:16.730505+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween",
+      "title": "Live Updates: Hundreds of Thousands Join Another Round of Protests in France",
+      "published": "2026-10-31T20:25:04+00:00",
+      "author": "The New York Times",
+      "description": "The interior ministry estimated that 320,000 people had demonstrated nationwide, a smaller number than the previous two Saturdays. The police and protesters clashed in Paris and other cities.",
+      "link": "https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween",
+      "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31france-protests-promo-310-bwfz/31france-protests-promo-310-bwfz-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "108493414",
+      "title": "Trump defamation suit against Murdoch, WSJ over Epstein letter dismissed with prejudice",
+      "published": "2026-10-31T20:10:39+00:00",
+      "author": null,
+      "description": "",
+      "link": "https://www.cnbc.com/2026/10/31/trump-murdoch-wsj-epstein-defamation-lawsuit-dismissed.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108174185-1752873502792-Trump_Murdoch2.jpg?v=1752873942&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/31/world/middleeast/iran-war-israel-us-elections-trump-netanyahu.html",
+      "title": "Iran Braces for More War, No Matter the Outcome of the U.S. and Israeli Elections",
+      "published": "2026-10-31T20:04:18+00:00",
+      "author": "Yeganeh Torbati",
+      "description": "With Prime Minister Benjamin Netanyahu fighting to stay in power and President Trump facing a tough midterm, Iran’s leaders expect no major shift in policy.",
+      "link": "https://www.nytimes.com/2026/10/31/world/middleeast/iran-war-israel-us-elections-trump-netanyahu.html",
+      "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31int-iran-assess-1-vjkm/31int-iran-assess-1-vjkm-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/science/discovery/cornell-scientists-engineered-tomatoes-that-turn-red-purple-when-nitrogen-is-low-and-are-testing-whether-the-colour-change-can-help-farmers-use-fertiliser-more-precisely/articleshow/135304716.cms",
+      "title": "Cornell scientists develop colour-changing tomatoes to signal low nitrogen levels",
+      "published": "2026-10-31T20:00:00+00:00",
+      "author": "TOI Science Desk",
+      "description": "",
+      "link": "https://timesofindia.indiatimes.com/science/discovery/cornell-scientists-engineered-tomatoes-that-turn-red-purple-when-nitrogen-is-low-and-are-testing-whether-the-colour-change-can-help-farmers-use-fertiliser-more-precisely/articleshow/135304716.cms",
+      "image": "https://static.toiimg.com/photo/msid-135306101,imgsize-173124.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
     {
       "id": "108493066",
       "title": "OpenAI pares fundraising goal, now seeking up to $20 billion in latest round",
@@ -17,20 +73,6 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween",
-      "title": "Live Updates: Hundreds of Thousands Join Another Round of Protests in France",
-      "published": "2026-10-31T19:46:21+00:00",
-      "author": "The New York Times",
-      "description": "The interior ministry estimated that 320,000 people had demonstrated nationwide, a smaller number than the previous two Saturdays. The police and protesters clashed in Paris and other cities.",
-      "link": "https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween",
-      "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31france-protests-promo-310-bwfz/31france-protests-promo-310-bwfz-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween/france-student-protests-halloween",
@@ -327,20 +369,6 @@
       "feed_icon": "https://www.redditstatic.com/icon.png/"
     },
     {
-      "id": "https://www.nytimes.com/2026/10/31/world/middleeast/iran-war-israel-us-elections-trump-netanyahu.html",
-      "title": "Iran Braces for More War, No Matter the Outcome of the U.S. and Israeli Elections",
-      "published": "2026-10-31T18:15:16+00:00",
-      "author": "Yeganeh Torbati",
-      "description": "With Prime Minister Benjamin Netanyahu fighting to stay in power and President Trump facing a tough midterm, Iran’s leaders expect no major shift in policy.",
-      "link": "https://www.nytimes.com/2026/10/31/world/middleeast/iran-war-israel-us-elections-trump-netanyahu.html",
-      "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31int-iran-assess-1-vjkm/31int-iran-assess-1-vjkm-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
       "id": "https://www.nytimes.com/2026/10/31/world/europe/poland-court-police-president.html",
       "title": "Poland Deploys Riot Police in Standoff Over Country’s Top Court",
       "published": "2026-10-31T18:06:13+00:00",
@@ -487,7 +515,7 @@
       "author": null,
       "description": "The BBC's Dan Johnson travelled to the northern Ukrainian border with Belarus after evacuated Oleshky residents arrived in buses and ambulances following a temporary ceasefire.",
       "link": "https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4184/live/73d4d420-d54a-11f1-bcb7-8f812b44c2e5.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f47/live/8e8b6090-d568-11f1-910b-9bd7c745c627.jpg",
       "feed_name": "BBC News - World",
       "feed_title": "BBC News",
       "category": "World News",
@@ -13975,34 +14003,6 @@
       "category": "World News",
       "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
       "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/us/an-indiana-couple-paid-a-contractor-with-cheques-and-a-ford-f-350-truck-for-home-repairs-but-he-made-roof-trusses-in-his-backyard-on-october-26-a-court-made-him-personally-liable-for-an-82020-judgment/articleshow/135229212.cms",
-      "title": "Indiana couple paid contractor with cheques and a truck; backyard trusses led to $82,020 liability",
-      "published": "2026-10-28T05:38:25+00:00",
-      "author": "TOI World Desk",
-      "description": "An Indiana couple successfully secured an $82,020 judgment against a contractor for breach of contract and fraudulent misrepresentations. Tasked with property repairs, the contractor failed to deliver promised materials and left payments for roofing supplies unaccounted for, ultimately leading to a lawsuit. The court held him personally liable, underscoring the importance of accountability in construction agreements and the serious consequences of dishonest practices.",
-      "link": "https://timesofindia.indiatimes.com/world/us/an-indiana-couple-paid-a-contractor-with-cheques-and-a-ford-f-350-truck-for-home-repairs-but-he-made-roof-trusses-in-his-backyard-on-october-26-a-court-made-him-personally-liable-for-an-82020-judgment/articleshow/135229212.cms",
-      "image": "https://static.toiimg.com/photo/msid-135229284,imgsize-1942489.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/science/wildlife/scientists-collected-dna-from-seawater-at-316-sites-across-japan-and-found-126-fish-species-farther-north-than-previously-recorded-revealing-how-warming-seas-may-be-reshaping-where-coastal-wildlife-can-survive/articleshow/135240516.cms",
-      "title": "Scientists collected DNA from seawater at 316 sites across Japan;126 fish species farther north",
-      "published": "2026-10-28T05:38:00+00:00",
-      "author": "TOI Lifestyle Desk",
-      "description": "Japan is witnessing a dramatic transformation in its marine ecosystems as rising ocean temperatures prompt fish species to migrate northward. An extensive research effort involving the analysis of water samples has revealed profound implications for local fisheries, economies, and the overall health of marine life. With the introduction of new species, traditional fishing methods may need to evolve, underscoring the crucial role of environmental DNA in monitoring these biodiversity changes.",
-      "link": "https://timesofindia.indiatimes.com/science/wildlife/scientists-collected-dna-from-seawater-at-316-sites-across-japan-and-found-126-fish-species-farther-north-than-previously-recorded-revealing-how-warming-seas-may-be-reshaping-where-coastal-wildlife-can-survive/articleshow/135240516.cms",
-      "image": "https://static.toiimg.com/photo/msid-135240516,imgsize-276289.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     }
   ]
 }

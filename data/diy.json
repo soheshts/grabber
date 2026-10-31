@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-10-31T20:03:43.832212+00:00",
-  "count": 499,
+  "updated": "2026-10-31T20:32:16.730505+00:00",
+  "count": 502,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/task-manager-told-me-my-pc-was-slow-but-resource-monitor-told-me-why/",
+      "title": "Task Manager told me my PC was slow, but Resource Monitor told me why",
+      "published": "2026-10-31T20:31:16+00:00",
+      "author": "Afam Onyimadu",
+      "description": "Windows sometimes can prove that your slow PC is probably not dying.",
+      "link": "https://www.makeuseof.com/task-manager-told-me-my-pc-was-slow-but-resource-monitor-told-me-why/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/using-resource-monitor-to-troubleshoot.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/3d-printing-process-turned-flat-photos-into-illusory-lenticular-portraits/",
+      "title": "This simple 3D-printing process turned my flat photos into illusory lenticular portraits",
+      "published": "2026-10-31T20:30:15+00:00",
+      "author": "Sydney Butler",
+      "description": "A scrappy generative app turns ordinary photos into layered plastic portraits that shift with viewing angle.",
+      "link": "https://www.howtogeek.com/3d-printing-process-turned-flat-photos-into-illusory-lenticular-portraits/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/20261024_145902-1.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/one-fast-charger-iphone-samsung-pixel/",
       "title": "You only need one fast charger for your iPhone, Samsung, and Pixel, but it needs this feature",
@@ -31,6 +59,20 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://hackaday.com/?p=1397035",
+      "title": "Voyager 1 Briefly Goes Silent, Scaring Everyone",
+      "published": "2026-10-31T20:00:00+00:00",
+      "author": "Maya Posch",
+      "description": "It’s no big secret at this point that we are looking at the final years of the two venerable Voyager spacecraft. With their power supplies diminishing and their 1970s-era electronics …read more",
+      "link": "https://hackaday.com/2026/10/31/voyager-1-briefly-goes-silent-scaring-everyone/",
+      "image": "https://hackaday.com/wp-content/uploads/2022/05/voyager_feat.jpg",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
     },
     {
       "id": "https://www.makeuseof.com/light-switches-cant-go-smart/",
