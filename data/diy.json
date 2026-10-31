@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-10-31T11:32:14.886617+00:00",
-  "count": 460,
+  "updated": "2026-10-31T12:02:34.518628+00:00",
+  "count": 462,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/android-setting-stop-wasting-mobile-data/",
+      "title": "I changed one Android setting and stopped wasting mobile data",
+      "published": "2026-10-31T12:00:16+00:00",
+      "author": "Digvijay Kumar",
+      "description": "A hidden menu fixed my rising data bill.",
+      "link": "https://www.makeuseof.com/android-setting-stop-wasting-mobile-data/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/mobile-data-always-active-android-toggle.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/windows-11-close-frozen-apps-no-task-manager/",
+      "title": "How to close frozen apps in Windows 11 without opening Task Manager",
+      "published": "2026-10-31T12:00:15+00:00",
+      "author": "Tony Phillips",
+      "description": "Skip Task Manager, enable a hidden Windows setting, and force-close frozen apps directly from the taskbar.",
+      "link": "https://www.howtogeek.com/windows-11-close-frozen-apps-no-task-manager/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/windows-11-task-manager-processes-laptop-screen.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/windows-pc-quietly-recording-what-you-type-default-setting/",
       "title": "Your Windows 11 PC is quietly recording what you type because of one default setting",

@@ -1,9 +1,23 @@
 {
   "category": "personal blogs",
-  "updated": "2026-10-31T11:32:14.886617+00:00",
-  "count": 415,
+  "updated": "2026-10-31T12:02:34.518628+00:00",
+  "count": 416,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.bennadel.com/blog/4922-monitoring-my-coldfusion-scheduled-tasks-with-grafana-cloud.htm",
+      "title": "Monitoring My ColdFusion Scheduled Tasks With Grafana Cloud",
+      "published": "2026-10-31T16:35:06+00:00",
+      "author": null,
+      "description": "Ben Nadel adds Grafana Cloud to his ColdFusion blog so that he can monitor scheduled task health (via StatsD metrics)....",
+      "link": "https://www.bennadel.com/blog/4922-monitoring-my-coldfusion-scheduled-tasks-with-grafana-cloud.htm",
+      "image": "https://bennadel-cdn.com/resources/uploads/2026/grafana-cloud-scheduled-tasks-alert-rule@2x.png",
+      "feed_name": "Ben Nadel",
+      "feed_title": "Ben Nadel's Web Development and User Experience Feed @ BenNadel.com",
+      "category": "personal blogs",
+      "feed_url": "http://www.bennadel.com/index.cfm?dax=blog.rss&lst_tag_id=14,16,3,5,9,6,7,13,18,20,10,15",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.bennadel.com&sz=64"
+    },
     {
       "id": "https://ronaldsvilcins.com/2026/10/31/sticky-and-snapped-elements-with-css-scroll-state-queries/",
       "title": "Sticky and Snapped Elements With CSS Scroll-State Queries",
