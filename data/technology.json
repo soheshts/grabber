@@ -1,9 +1,23 @@
 {
   "category": "technology",
-  "updated": "2026-10-31T07:03:43.532160+00:00",
+  "updated": "2026-10-31T07:33:35.581080+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://science.slashdot.org/story/26/10/30/2344228/googles-first-data-center-satellite-is-online-and-writing-poetry?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "title": "Google's First Data Center Satellite Is Online and Writing Poetry",
+      "published": "2026-10-31T07:00:00+00:00",
+      "author": "BeauHD",
+      "description": "Google's first experimental space-based data center is operational after launching earlier this month, successfully running its Gemma 4 AI model aboard a satellite and generating a haiku about being in orbit. TechCrunch reports: The satellite, which carries four Google Tensor Processing Units (TPUs) and generates up to 1 kW of electricity, is intended to pave the way for future networks of close-flying satellites performing large inference workloads in orbit. However, the power demands of the T…",
+      "link": "https://science.slashdot.org/story/26/10/30/2344228/googles-first-data-center-satellite-is-online-and-writing-poetry?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+      "feed_name": "Slashdot",
+      "feed_title": "Slashdot",
+      "category": "technology",
+      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
+    },
     {
       "id": "06RUIUAOY9h77p7RJ8PqVgD",
       "title": "How to watch Barcelona vs. Deportivo Alavés online for free",
@@ -13989,20 +14003,6 @@
       "category": "technology",
       "feed_url": "https://thenextweb.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
-    },
-    {
-      "id": "https://www.engadget.com/2297180/dutch-government-to-cut-16-percent-of-workforce-as-part-of-ai-efficiency-push/",
-      "title": "Dutch government to cut 16 percent of workforce as part of AI efficiency push",
-      "published": "2026-10-26T17:13:20+00:00",
-      "author": "Jackson Chen",
-      "description": "The cabinet announced that it wants to get rid of 25,000 full-time jobs by 2035.",
-      "link": "https://www.engadget.com/2297180/dutch-government-to-cut-16-percent-of-workforce-as-part-of-ai-efficiency-push/",
-      "image": "https://www.engadget.com/img/gallery/dutch-government-to-cut-16-percent-of-workforce-as-part-of-ai-efficiency-push/l-intro-1793034748.jpg",
-      "feed_name": "Engadget",
-      "feed_title": "Engadget - Technology News & Expert Reviews",
-      "category": "technology",
-      "feed_url": "https://www.engadget.com/rss.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
     }
   ]
 }
