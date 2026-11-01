@@ -1,13 +1,27 @@
 {
   "category": "World News",
-  "updated": "2026-11-01T09:03:39.157836+00:00",
+  "updated": "2026-11-01T09:32:55.780098+00:00",
   "count": 1000,
   "summary": null,
   "items": [
     {
+      "id": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o#0",
+      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "published": "2026-11-01T09:28:06+00:00",
+      "author": null,
+      "description": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
+      "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e52/live/ccbb9490-d53e-11f1-93de-81de9e959fac.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
       "id": "https://www.nytimes.com/2026/10/31/world/asia/congress-cjp-protest-delhi-india-modi.html",
       "title": "India’s Congress Party Holds Mass Protest in New Delhi",
-      "published": "2026-11-01T08:49:47+00:00",
+      "published": "2026-11-01T09:14:18+00:00",
       "author": "Jeremy W. Peters and Hari Kumar",
       "description": "Many more are still streaming into the city for what organizers hope will be one of the biggest demonstrations yet in a string of recent rallies.",
       "link": "https://www.nytimes.com/2026/10/31/world/asia/congress-cjp-protest-delhi-india-modi.html",
@@ -17,6 +31,20 @@
       "category": "World News",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "108492397",
+      "title": "Binance resumes withdrawals following $6.3 billion hack, says 90% of stolen user assets are covered",
+      "published": "2026-11-01T09:03:47+00:00",
+      "author": null,
+      "description": "Binance says it has restored backing for 90% of assets affected by its $6.3 billion hack and resumed phased withdrawals.",
+      "link": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108486125-1793374296099-108486125-1793363753922-gettyimages-2302646831-vcg111678111014.jpeg?v=1793374312&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/us/for-39-years-marilyn-hampton-worked-as-a-janitor-at-a-texas-school-district-and-spent-her-days-brightening-childrens-lives-once-believing-she-had-failed-because-she-never-went-to-college-now-an-elementary-school-is-being-named-after-her/articleshow/135419478.cms",
@@ -33,13 +61,27 @@
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
+      "id": "https://timesofindia.indiatimes.com/real-estate/news/a-beverly-park-mansion-where-prince-lived-as-a-renter-in-2008-has-been-cut-by-13-5-million-after-first-hitting-the-market-at-68-million-earlier-this-year-the-estate-sits-on-two-acres-in-a-gated-enclave-that-has-attracted-residents-such-as-sylvester-stallone-and-mark-wahlberg/articleshow/135421951.cms",
+      "title": "Prince’s former Beverly Park estate gets $13.5M price cut",
+      "published": "2026-11-01T08:43:02+00:00",
+      "author": "TOI Real Estate Desk",
+      "description": "The sprawling estate at 77 Beverly Park Lane is listed for $54.5 million after a significant price cut. It features nine bedrooms, 15 bathrooms, and a private theatre for entertaining guests comfortably. The property was previously owned by developer George Santopietro and boasted historical significance due to Prince's residency. The landscaping showcases resort-style grounds designed by a renowned landscape designer.",
+      "link": "https://timesofindia.indiatimes.com/real-estate/news/a-beverly-park-mansion-where-prince-lived-as-a-renter-in-2008-has-been-cut-by-13-5-million-after-first-hitting-the-market-at-68-million-earlier-this-year-the-estate-sits-on-two-acres-in-a-gated-enclave-that-has-attracted-residents-such-as-sylvester-stallone-and-mark-wahlberg/articleshow/135421951.cms",
+      "image": "https://static.toiimg.com/photo/msid-135422038,imgsize-315942.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o#0",
       "title": "Shops looted as German cost of living protests turn violent",
       "published": "2026-11-01T08:43:00+00:00",
       "author": null,
       "description": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
       "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a374/live/2c3746d0-d5d0-11f1-93e1-3b657b665bcf.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ace/live/3e4ef120-d5d4-11f1-8629-7b9503d639be.jpg",
       "feed_name": "BBC News - World",
       "feed_title": "BBC News",
       "category": "World News",
@@ -95,7 +137,7 @@
       "author": null,
       "description": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.",
       "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e057/live/87e1b610-d44e-11f1-8780-edcbf4859104.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab52/live/e490a850-d5d2-11f1-8629-7b9503d639be.jpg",
       "feed_name": "BBC News - World",
       "feed_title": "BBC News",
       "category": "World News",
@@ -171,6 +213,20 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
+      "id": "108485906",
+      "title": "Companies promised AI gains— here's how the payoff showed up in earnings",
+      "published": "2026-11-01T06:00:01+00:00",
+      "author": null,
+      "description": "Santander, Novartis and other companies say AI is beginning to boost revenue, cut costs or improve profitability as investors seek returns.",
+      "link": "https://www.cnbc.com/2026/11/01/ai-investments-company-earnings.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108253381-1768531442124-gettyimages-2218925569-_dsc8484.jpeg?v=1793360711&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/rest-of-world/north-korea-tests-new-cluster-bomb-warhead-under-kim-jong-uns-military-push/articleshow/135418798.cms",
@@ -649,20 +705,6 @@
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
-      "id": "108492397",
-      "title": "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
-      "published": "2026-10-31T22:27:56+00:00",
-      "author": null,
-      "description": "Binance says it has restored backing for 90% of assets affected by its $6.3 billion hack and is planning to resume withdrawals, subject to security checks.",
-      "link": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108486125-1793374296099-108486125-1793363753922-gettyimages-2302646831-vcg111678111014.jpeg?v=1793374312&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
       "id": "https://timesofindia.indiatimes.com/world/rest-of-world/a-canadian-publisher-once-had-25-million-facebook-followers-and-submitted-more-than-500000-ads-before-meta-shut-down-its-pages-in-2020-a-us-appeals-court-has-now-upheld-dismissal-of-its-conversion-claim/articleshow/135395448.cms",
       "title": "Canadian publisher with 25 million Facebook followers loses Meta claim over 2020 shutdown",
       "published": "2026-10-31T22:23:00+00:00",
@@ -689,20 +731,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o#0",
-      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-      "published": "2026-10-31T22:11:45+00:00",
-      "author": null,
-      "description": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
-      "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e52/live/ccbb9490-d53e-11f1-93de-81de9e959fac.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "https://www.nytimes.com/2026/10/31/world/europe/france-protests-clashes.html",
@@ -13970,34 +13998,6 @@
       "description": "The energy minister described it as a \"major milestone\" for the East African nation.",
       "link": "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a9d/live/58c194a0-d2ae-11f1-b441-2b33b063138f.png",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o#0",
-      "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
-      "published": "2026-10-28T10:17:54+00:00",
-      "author": null,
-      "description": "Authorities say the attacker in Belgrade was an underage male who was being monitored by security services.",
-      "link": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8aa/live/94f66d00-d2b4-11f1-8cf0-c5d120932f9f.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o#1",
-      "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
-      "published": "2026-10-28T10:17:54+00:00",
-      "author": null,
-      "description": "Authorities say the attacker in Belgrade was an underage male who was being monitored by security services.",
-      "link": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8aa/live/94f66d00-d2b4-11f1-8cf0-c5d120932f9f.jpg",
       "feed_name": "BBC News - World",
       "feed_title": "BBC News",
       "category": "World News",
