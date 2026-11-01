@@ -1,9 +1,51 @@
 {
   "category": "World News",
-  "updated": "2026-11-01T22:03:43.581399+00:00",
+  "updated": "2026-11-01T22:33:32.105795+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "108497363",
+      "title": "Everything changed for the oil, AI and bond trades over the past month",
+      "published": "2026-11-01T22:27:40+00:00",
+      "author": null,
+      "description": "The market expects oil to keep rising, but treasury yields have declined, a warning traders and investors may be more worried about an AI crash than inflation.",
+      "link": "https://www.cnbc.com/2026/11/01/oil-bond-yields-ai-market.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/100617493-113215716.jpg?v=1677525346&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/science/discovery/einsteins-equations-if-applied-more-carefully-may-hold-the-answer-to-why-the-universe-is-expanding-faster-without-any-need-for-mysterious-dark-energy-say-scientists/articleshow/135431178.cms",
+      "title": "Could Einstein’s equations explain the universe’s expansion?",
+      "published": "2026-11-01T22:25:00+00:00",
+      "author": "TOI Science Desk",
+      "description": "Researchers from UC Davis have proposed that dark energy may not be necessary to explain the universe's acceleration. They found weak points in the Lambda-cold dark matter model using Einstein's equations. By examining instabilities in Friedmann spacetimes, they suggest alternative explanations for cosmic expansion. Their work raises questions about the Copernican principle in the context of current models. This research could lead to significant shifts in our understanding of cosmology.",
+      "link": "https://timesofindia.indiatimes.com/science/discovery/einsteins-equations-if-applied-more-carefully-may-hold-the-answer-to-why-the-universe-is-expanding-faster-without-any-need-for-mysterious-dark-energy-say-scientists/articleshow/135431178.cms",
+      "image": "https://static.toiimg.com/photo/msid-135431346,imgsize-749997.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/science/discovery/scientists-have-developed-a-new-technology-that-could-make-electric-car-batteries-smaller-lighter-and-longer-lasting-potentially-letting-drivers-travel-farther-on-a-single-charge-without-carrying-a-heavier-battery/articleshow/135428057.cms",
+      "title": "Scientists have developed a new technology that could make electric car batteries smaller, lighter and longer-lasting, potentially letting drivers travel farther on a single charge without carrying a heavier battery",
+      "published": "2026-11-01T22:20:00+00:00",
+      "author": "TOI Lifestyle Desk",
+      "description": "Scientists from the Korea Advanced Institute of Science and Technology developed a new technology for anode-free batteries. This innovative approach focuses on enhancing lithium deposition to improve battery efficiency and longevity. By restructuring the copper surface for lithium storage, they have addressed issues with dendrite formation. Applying a thin layer of MXene further stabilizes the battery's performance.",
+      "link": "https://timesofindia.indiatimes.com/science/discovery/scientists-have-developed-a-new-technology-that-could-make-electric-car-batteries-smaller-lighter-and-longer-lasting-potentially-letting-drivers-travel-farther-on-a-single-charge-without-carrying-a-heavier-battery/articleshow/135428057.cms",
+      "image": "https://static.toiimg.com/photo/msid-135428270,imgsize-1313843.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo#0",
       "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
@@ -535,20 +577,6 @@
       "category": "World News",
       "feed_url": "https://www.reddit.com/r/worldnews/.rss",
       "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "108497363",
-      "title": "Everything changed for the oil, AI and bond trades over the past month",
-      "published": "2026-11-01T15:58:24+00:00",
-      "author": null,
-      "description": "The market expects oil to keep rising, but treasury yields have declined, a warning traders and investors may be more worried about an AI crash than inflation.",
-      "link": "https://www.cnbc.com/2026/11/01/oil-bond-yields-ai-market.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/100617493-113215716.jpg?v=1677525346&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/uk/after-nearly-500-years-without-beavers-around-loch-ness-scottish-conservation-groups-have-won-approval-to-reintroduce-up-to-15-family-groups-over-three-years-the-first-releases-are-expected-within-weeks/articleshow/135431152.cms",
@@ -13975,34 +14003,6 @@
       "category": "World News",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "t3_1xhxfl6",
-      "title": "Russian Spy Satellites Helping Iran’s Allies Target Sites in Saudi Arabia – AP",
-      "published": "2026-10-28T19:09:49+00:00",
-      "author": "/u/Force_Hammer",
-      "description": "submitted by /u/Force_Hammer [link] [comments]",
-      "link": "https://www.reddit.com/r/worldnews/comments/1xhxfl6/russian_spy_satellites_helping_irans_allies/",
-      "image": "https://external-preview.redd.it/1NQB8fTW-dAIRoq0G2_9dkHdsx2njqo9NLlzYyQQHDU.jpeg?width=640&crop=smart&auto=webp&s=e29704a407302fbb930107c21d34adf9762d01d0",
-      "feed_name": "World News",
-      "feed_title": "World News",
-      "category": "World News",
-      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
-      "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/spain-train-collision-10-killed-in-crash-between-2-high-speed-trains-near-toledo-12247926#publisher=newsstand",
-      "title": "68 Killed As 2 High-Speed Trains Collide In Spain, Human Error Likely Cause",
-      "published": "2026-10-28T19:04:37+00:00",
-      "author": null,
-      "description": "The country's rail system operator ADIF said that the crash happened in the province of Toledo",
-      "link": "https://www.ndtv.com/world-news/spain-train-collision-10-killed-in-crash-between-2-high-speed-trains-near-toledo-12247926#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-10/el3sot3o_spain-train-collision-twitter-_650x400_28_October_26.jpg",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     }
   ]
 }
