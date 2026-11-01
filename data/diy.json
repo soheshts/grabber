@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-01T10:33:32.583815+00:00",
-  "count": 518,
+  "updated": "2026-11-01T11:03:01.859191+00:00",
+  "count": 520,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/how-to-change-google-pixel-lock-screen-shortcuts/",
+      "title": "Your Pixel's lock screen has two buttons worth changing immediately",
+      "published": "2026-11-01T11:00:16+00:00",
+      "author": "Robin John",
+      "description": "Two tiny shortcuts with surprisingly big upgrades.",
+      "link": "https://www.makeuseof.com/how-to-change-google-pixel-lock-screen-shortcuts/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2026/08/google-pixel-11-pro-xl-in-a-person-s-hand.png",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/esp32-projects-to-build-with-no-programming-using-esphome/",
+      "title": "5 ESP32 projects you can finish this weekend using ESPHome, no programming required",
+      "published": "2026-11-01T11:00:15+00:00",
+      "author": "Adam Davidson",
+      "description": "Life's too short for YAML.",
+      "link": "https://www.howtogeek.com/esp32-projects-to-build-with-no-programming-using-esphome/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/09/an-esp32-lying-on-a-desk-with-a-cable-connected-to-one-of-the-gpio-pins.png",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://hackaday.com/?p=1397249",
       "title": "Building an ADS-B Receiver For Less Than You Think",
