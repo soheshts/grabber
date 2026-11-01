@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-01T21:33:35.339042+00:00",
-  "count": 436,
+  "updated": "2026-11-01T22:03:43.581399+00:00",
+  "count": 438,
   "summary": null,
   "items": [
     {
@@ -292,6 +292,20 @@
       "description": "PR Elsewhere is a Chrome extension that adds a View in menu to GitHub pull requests, and it's now on the Chrome Web Store.",
       "link": "https://zander.wtf/blog/2026-11-01-pr-elsewhere/",
       "image": "https://zander.wtf/opengraph/2026-11-01-pr-elsewhere/og.png",
+      "feed_name": "Hi! I'm Zander, I make websites",
+      "feed_title": "Hi! I'm Zander, I make web things",
+      "category": "personal blogs",
+      "feed_url": "https://zander.wtf/blog.rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=zander.wtf&sz=64"
+    },
+    {
+      "id": "https://zander.wtf/blog/astro-entry-meta/",
+      "title": "Introducing astro-entry-meta: drafts, reading time and git info for Astro collections",
+      "published": "2026-11-01T00:00:00+00:00",
+      "author": "Zander Martineau",
+      "description": "A new package that adds drafts, scheduled posts, reading time and git info to Astro content collections, and replaces astro-git-dates.",
+      "link": "https://zander.wtf/blog/astro-entry-meta/",
+      "image": "https://zander.wtf/opengraph/astro-entry-meta/og.png",
       "feed_name": "Hi! I'm Zander, I make websites",
       "feed_title": "Hi! I'm Zander, I make web things",
       "category": "personal blogs",
@@ -1193,6 +1207,20 @@
       "category": "personal blogs",
       "feed_url": "http://feeds.feedburner.com/robweychert",
       "feed_icon": "https://www.google.com/s2/favicons?domain=v7.robweychert.com&sz=64"
+    },
+    {
+      "id": "https://zander.wtf/blog/2026-10-26-keyboard-shortcuts/",
+      "title": "Keyboard shortcuts",
+      "published": "2026-10-26T00:00:00+00:00",
+      "author": "Zander Martineau",
+      "description": "You can now get around this site with single-letter keys, and pressing ? shows the full list.",
+      "link": "https://zander.wtf/blog/2026-10-26-keyboard-shortcuts/",
+      "image": "https://zander.wtf/opengraph/2026-10-26-keyboard-shortcuts/og.png",
+      "feed_name": "Hi! I'm Zander, I make websites",
+      "feed_title": "Hi! I'm Zander, I make web things",
+      "category": "personal blogs",
+      "feed_url": "https://zander.wtf/blog.rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=zander.wtf&sz=64"
     },
     {
       "id": "https://paulrobertlloyd.com/2026/298/a1/watch_trap/",
