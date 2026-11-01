@@ -1,9 +1,23 @@
 {
   "category": "science",
-  "updated": "2026-11-01T11:32:42.885974+00:00",
+  "updated": "2026-11-01T12:02:49.642094+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "news712579746",
+      "title": "Breaking the ice: Scientists use attracting particles to form an anti-spin ice",
+      "published": "2026-11-01T11:40:01+00:00",
+      "author": null,
+      "description": "In a recent Nature Communications study, researchers have reported the realization of an anti-spin ice, a system that does the opposite of conventional spin ices by breaking the ice rule that governs them.",
+      "link": "https://phys.org/news/2026-10-ice-scientists-particles-anti.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/breaking-the-ice-scien.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
     {
       "id": "6ae100238620da29e32c576d",
       "title": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
@@ -13989,20 +14003,6 @@
       "category": "science",
       "feed_url": "https://pa.tedcdn.com/feeds/talks.rss",
       "feed_icon": "https://assets.pippa.io/shows/67587e77c705e441797aff96/show-cover.png"
-    },
-    {
-      "id": "58b3867e-c414-11f1-beff-9faf80426edd",
-      "title": "Nobel winners, neutrino detectors and nature’s longest-living tortoise",
-      "published": "2026-10-12T09:50:00+00:00",
-      "author": "Scientific American",
-      "description": "This week’s science news roundup unpacks the 2026 Nobel Prizes—from controlling brain cells with flashes of light to catching ghostly neutrinos from distant galaxies in Antarctic ice to building mirror-image molecules one at a time. Plus, we meet Jonathan, a 194-year-old tortoise whose DNA might hold the secret to a longer life. Recommended Reading: 2026 Nobel Prize in Chemistry awarded to pioneers in ‘mirror’ chemistry 2026 Nobel Prize in Physics awarded to Francis Halzen, pioneer of high-ener…",
-      "link": null,
-      "image": null,
-      "feed_name": "60-Second Science",
-      "feed_title": "60-Second Science",
-      "category": "science",
-      "feed_url": "http://rss.sciam.com/sciam/60secsciencepodcast",
-      "feed_icon": "https://megaphone.imgix.net/podcasts/9e578524-a403-11ee-a6cf-cbcdcc0e11fb/image/ec5ff1c72de2a19d67bc6425661674b1.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
     }
   ]
 }
