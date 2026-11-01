@@ -1,6 +1,6 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-01T19:02:54.885360+00:00",
+  "updated": "2026-11-01T19:32:50.040650+00:00",
   "count": 431,
   "summary": null,
   "items": [
@@ -73,6 +73,20 @@
       "category": "personal blogs",
       "feed_url": "https://elizabethtai.com/feed/",
       "feed_icon": "https://elizabethtai.com/wp-content/uploads/2023/02/cropped-site-flavicon.png?w=32"
+    },
+    {
+      "id": "https://ronaldsvilcins.com/2026/11/01/let-components-react-to-css-variables-with-style-queries/",
+      "title": "Let Components React to CSS Variables With Style Queries",
+      "published": "2026-11-01T06:00:00+00:00",
+      "author": "Ronalds Vilciņš",
+      "description": "CSS style queries let components react to custom properties on their ancestors. Compare theme and density examples with var(), classes, and support limits.",
+      "link": "https://ronaldsvilcins.com/2026/11/01/let-components-react-to-css-variables-with-style-queries/",
+      "image": "https://ronaldsvilcins.com/og/496b3b86a2fc22468af68ae49c489e4e2e733ac08f8845ce005eeeb1b7096943.jpg",
+      "feed_name": "Ronalds Vilciņš",
+      "feed_title": "Ronalds Vilciņš",
+      "category": "personal blogs",
+      "feed_url": "https://ronaldsvilcins.com/atom.xml",
+      "feed_icon": "https://ronaldsvilcins.com/favicon.png"
     },
     {
       "id": "https://jamesiv.es/blog/making-source-engine-sprays-in-the-browser/",
@@ -185,20 +199,6 @@
       "category": "personal blogs",
       "feed_url": "https://hamatti.org/feed/feed.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=hamatti.org&sz=64"
-    },
-    {
-      "id": "https://ronaldsvilcins.com/2026/11/01/let-components-react-to-css-variables-with-style-queries/",
-      "title": "Let Components React to CSS Variables With Style Queries",
-      "published": "2026-10-31T22:00:00+00:00",
-      "author": "Ronalds Vilciņš",
-      "description": "CSS style queries let components react to custom properties on their ancestors. Compare theme and density examples with var(), classes, and support limits.",
-      "link": "https://ronaldsvilcins.com/2026/11/01/let-components-react-to-css-variables-with-style-queries/",
-      "image": "https://ronaldsvilcins.com/og/496b3b86a2fc22468af68ae49c489e4e2e733ac08f8845ce005eeeb1b7096943.jpg",
-      "feed_name": "Ronalds Vilciņš",
-      "feed_title": "Ronalds Vilciņš",
-      "category": "personal blogs",
-      "feed_url": "https://ronaldsvilcins.com/atom.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=ronaldsvilcins.com&sz=64"
     },
     {
       "id": "https://thomasrigby.com/posts/great-british-book-off/",
@@ -341,6 +341,20 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=smus.com&sz=64"
     },
     {
+      "id": "https://ronaldsvilcins.com/2026/10/31/sticky-and-snapped-elements-with-css-scroll-state-queries/",
+      "title": "Sticky and Snapped Elements With CSS Scroll-State Queries",
+      "published": "2026-10-31T06:00:00+00:00",
+      "author": "Ronalds Vilciņš",
+      "description": "CSS scroll-state queries can style stuck headers and snapped cards, or hint at more scrollable content. See the container setup and fallback choices.",
+      "link": "https://ronaldsvilcins.com/2026/10/31/sticky-and-snapped-elements-with-css-scroll-state-queries/",
+      "image": "https://ronaldsvilcins.com/og/79004883c5056849ef859e5489229d836eb099dcbeb037d55295f26740015b16.jpg",
+      "feed_name": "Ronalds Vilciņš",
+      "feed_title": "Ronalds Vilciņš",
+      "category": "personal blogs",
+      "feed_url": "https://ronaldsvilcins.com/atom.xml",
+      "feed_icon": "https://ronaldsvilcins.com/favicon.png"
+    },
+    {
       "id": "https://www.oidaisdes.org/blog/coding-agents-making-me-dumber",
       "title": "Coding Agents: Are They Making Me Dumber?",
       "published": "2026-10-31T00:00:00+00:00",
@@ -367,20 +381,6 @@
       "category": "personal blogs",
       "feed_url": "https://andrewmiracle.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=andrewmiracle.com&sz=64"
-    },
-    {
-      "id": "https://ronaldsvilcins.com/2026/10/31/sticky-and-snapped-elements-with-css-scroll-state-queries/",
-      "title": "Sticky and Snapped Elements With CSS Scroll-State Queries",
-      "published": "2026-10-30T22:00:00+00:00",
-      "author": "Ronalds Vilciņš",
-      "description": "CSS scroll-state queries can style stuck headers and snapped cards, or hint at more scrollable content. See the container setup and fallback choices.",
-      "link": "https://ronaldsvilcins.com/2026/10/31/sticky-and-snapped-elements-with-css-scroll-state-queries/",
-      "image": "https://ronaldsvilcins.com/og/79004883c5056849ef859e5489229d836eb099dcbeb037d55295f26740015b16.jpg",
-      "feed_name": "Ronalds Vilciņš",
-      "feed_title": "Ronalds Vilciņš",
-      "category": "personal blogs",
-      "feed_url": "https://ronaldsvilcins.com/atom.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=ronaldsvilcins.com&sz=64"
     },
     {
       "id": "https://geoffgraham.me/?p=4962",
@@ -467,6 +467,20 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=rknight.me&sz=64"
     },
     {
+      "id": "https://ronaldsvilcins.com/2026/10/30/css-border-shape-can-draw-boxes-clip-path-cannot/",
+      "title": "CSS border-shape Can Draw Boxes clip-path Cannot",
+      "published": "2026-10-30T06:00:00+00:00",
+      "author": "Ronalds Vilciņš",
+      "description": "CSS border-shape lets borders and shadows follow a custom outline. Compare it with clip-path, try complete examples, and keep a usable rounded fallback.",
+      "link": "https://ronaldsvilcins.com/2026/10/30/css-border-shape-can-draw-boxes-clip-path-cannot/",
+      "image": "https://ronaldsvilcins.com/og/a14c1c59c80bf0846e45e54d9227284bb26b9f638ff6f2c7d8569644d239abe5.jpg",
+      "feed_name": "Ronalds Vilciņš",
+      "feed_title": "Ronalds Vilciņš",
+      "category": "personal blogs",
+      "feed_url": "https://ronaldsvilcins.com/atom.xml",
+      "feed_icon": "https://ronaldsvilcins.com/favicon.png"
+    },
+    {
       "id": "https://andrewmiracle.com/2026/10/30/nobody-reads-their-issues-anymore",
       "title": "Nobody reads their issues anymore",
       "published": "2026-10-30T00:00:00+00:00",
@@ -493,20 +507,6 @@
       "category": "personal blogs",
       "feed_url": "https://www.citationneeded.news/rss/",
       "feed_icon": "https://www.citationneeded.news/favicon.png"
-    },
-    {
-      "id": "https://ronaldsvilcins.com/2026/10/30/css-border-shape-can-draw-boxes-clip-path-cannot/",
-      "title": "CSS border-shape Can Draw Boxes clip-path Cannot",
-      "published": "2026-10-29T22:00:00+00:00",
-      "author": "Ronalds Vilciņš",
-      "description": "CSS border-shape lets borders and shadows follow a custom outline. Compare it with clip-path, try complete examples, and keep a usable rounded fallback.",
-      "link": "https://ronaldsvilcins.com/2026/10/30/css-border-shape-can-draw-boxes-clip-path-cannot/",
-      "image": "https://ronaldsvilcins.com/og/a14c1c59c80bf0846e45e54d9227284bb26b9f638ff6f2c7d8569644d239abe5.jpg",
-      "feed_name": "Ronalds Vilciņš",
-      "feed_title": "Ronalds Vilciņš",
-      "category": "personal blogs",
-      "feed_url": "https://ronaldsvilcins.com/atom.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=ronaldsvilcins.com&sz=64"
     },
     {
       "id": "https://rknight.me/blog/fixing-illustrations-on-a-dark-background-with-css/",
@@ -579,6 +579,20 @@
       "feed_icon": "https://elizabethtai.com/wp-content/uploads/2023/02/cropped-site-flavicon.png?w=32"
     },
     {
+      "id": "https://ronaldsvilcins.com/2026/10/29/css-corner-shape-goes-beyond-rounded-corners/",
+      "title": "CSS corner-shape Goes Beyond Rounded Corners",
+      "published": "2026-10-29T06:00:00+00:00",
+      "author": "Ronalds Vilciņš",
+      "description": "CSS corner-shape adds bevels, scoops, and squircles to ordinary boxes. See how it works with border-radius, normal borders, and a rounded-card fallback.",
+      "link": "https://ronaldsvilcins.com/2026/10/29/css-corner-shape-goes-beyond-rounded-corners/",
+      "image": "https://ronaldsvilcins.com/og/2d6cd6056a854fb9d5b6a59e490549f3f589900b6a7d4eb595233ae9dca04f80.jpg",
+      "feed_name": "Ronalds Vilciņš",
+      "feed_title": "Ronalds Vilciņš",
+      "category": "personal blogs",
+      "feed_url": "https://ronaldsvilcins.com/atom.xml",
+      "feed_icon": "https://ronaldsvilcins.com/favicon.png"
+    },
+    {
       "id": "https://ethanmarcotte.com/wrote/the-ship-is-anchord/",
       "title": "The ship is anchor’d safe and sound.",
       "published": "2026-10-29T04:00:00+00:00",
@@ -633,20 +647,6 @@
       "category": "personal blogs",
       "feed_url": "https://meiert.com/en/feed/",
       "feed_icon": "https://meiert.com/media/social.png"
-    },
-    {
-      "id": "https://ronaldsvilcins.com/2026/10/29/css-corner-shape-goes-beyond-rounded-corners/",
-      "title": "CSS corner-shape Goes Beyond Rounded Corners",
-      "published": "2026-10-28T22:00:00+00:00",
-      "author": "Ronalds Vilciņš",
-      "description": "CSS corner-shape adds bevels, scoops, and squircles to ordinary boxes. See how it works with border-radius, normal borders, and a rounded-card fallback.",
-      "link": "https://ronaldsvilcins.com/2026/10/29/css-corner-shape-goes-beyond-rounded-corners/",
-      "image": "https://ronaldsvilcins.com/og/2d6cd6056a854fb9d5b6a59e490549f3f589900b6a7d4eb595233ae9dca04f80.jpg",
-      "feed_name": "Ronalds Vilciņš",
-      "feed_title": "Ronalds Vilciņš",
-      "category": "personal blogs",
-      "feed_url": "https://ronaldsvilcins.com/atom.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=ronaldsvilcins.com&sz=64"
     },
     {
       "id": "https://christianheilmann.com/?p=10332",
@@ -747,6 +747,20 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.baldurbjarnason.com&sz=64"
     },
     {
+      "id": "https://ronaldsvilcins.com/2026/10/28/css-calculations-with-sibling-index-and-sibling-count/",
+      "title": "CSS Calculations With sibling-index() and sibling-count()",
+      "published": "2026-10-28T06:00:00+00:00",
+      "author": "Ronalds Vilciņš",
+      "description": "Use CSS sibling-index() and sibling-count() for staggered animations and position-based calculations, with working examples and browser support checks.",
+      "link": "https://ronaldsvilcins.com/2026/10/28/css-calculations-with-sibling-index-and-sibling-count/",
+      "image": "https://ronaldsvilcins.com/og.png",
+      "feed_name": "Ronalds Vilciņš",
+      "feed_title": "Ronalds Vilciņš",
+      "category": "personal blogs",
+      "feed_url": "https://ronaldsvilcins.com/atom.xml",
+      "feed_icon": "https://ronaldsvilcins.com/favicon.png"
+    },
+    {
       "id": "https://christianheilmann.com/?p=10325",
       "title": "Pardon my dust – re-homing 21 years of blog content of christianheilmann.com",
       "published": "2026-10-28T05:20:25+00:00",
@@ -773,20 +787,6 @@
       "category": "personal blogs",
       "feed_url": "https://hamatti.org/feed/feed.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=hamatti.org&sz=64"
-    },
-    {
-      "id": "https://ronaldsvilcins.com/2026/10/28/css-calculations-with-sibling-index-and-sibling-count/",
-      "title": "CSS Calculations With sibling-index() and sibling-count()",
-      "published": "2026-10-27T22:00:00+00:00",
-      "author": "Ronalds Vilciņš",
-      "description": "Use CSS sibling-index() and sibling-count() for staggered animations and position-based calculations, with working examples and browser support checks.",
-      "link": "https://ronaldsvilcins.com/2026/10/28/css-calculations-with-sibling-index-and-sibling-count/",
-      "image": "https://ronaldsvilcins.com/og.png",
-      "feed_name": "Ronalds Vilciņš",
-      "feed_title": "Ronalds Vilciņš",
-      "category": "personal blogs",
-      "feed_url": "https://ronaldsvilcins.com/atom.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=ronaldsvilcins.com&sz=64"
     },
     {
       "id": "https://www.raymondcamden.com/2026/10/27/generating-pdf-invoices-from-word-templates-with-officeparser",
@@ -887,6 +887,20 @@
       "feed_icon": "https://www.silvestar.codes/android-chrome-512x512.png"
     },
     {
+      "id": "https://ronaldsvilcins.com/2026/10/27/using-html-attribute-values-inside-css-with-attr/",
+      "title": "Using HTML Attribute Values Inside CSS With attr()",
+      "published": "2026-10-27T06:00:00+00:00",
+      "author": "Ronalds Vilciņš",
+      "description": "CSS attr() reads HTML attributes for generated labels and typed calculations. Use working examples, check support, and handle missing or invalid values.",
+      "link": "https://ronaldsvilcins.com/2026/10/27/using-html-attribute-values-inside-css-with-attr/",
+      "image": "https://ronaldsvilcins.com/og.png",
+      "feed_name": "Ronalds Vilciņš",
+      "feed_title": "Ronalds Vilciņš",
+      "category": "personal blogs",
+      "feed_url": "https://ronaldsvilcins.com/atom.xml",
+      "feed_icon": "https://ronaldsvilcins.com/favicon.png"
+    },
+    {
       "id": "https://www.bennadel.com/blog/4921-code-kata-arraymerge-polyfill-in-adobe-coldfusion.htm",
       "title": "Code Kata: ArrayMerge() Polyfill In Adobe ColdFusion",
       "published": "2026-10-27T00:08:20+00:00",
@@ -927,20 +941,6 @@
       "category": "personal blogs",
       "feed_url": "https://meiert.com/en/feed/",
       "feed_icon": "https://meiert.com/media/social.png"
-    },
-    {
-      "id": "https://ronaldsvilcins.com/2026/10/27/using-html-attribute-values-inside-css-with-attr/",
-      "title": "Using HTML Attribute Values Inside CSS With attr()",
-      "published": "2026-10-26T22:00:00+00:00",
-      "author": "Ronalds Vilciņš",
-      "description": "CSS attr() reads HTML attributes for generated labels and typed calculations. Use working examples, check support, and handle missing or invalid values.",
-      "link": "https://ronaldsvilcins.com/2026/10/27/using-html-attribute-values-inside-css-with-attr/",
-      "image": "https://ronaldsvilcins.com/og.png",
-      "feed_name": "Ronalds Vilciņš",
-      "feed_title": "Ronalds Vilciņš",
-      "category": "personal blogs",
-      "feed_url": "https://ronaldsvilcins.com/atom.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=ronaldsvilcins.com&sz=64"
     },
     {
       "id": "https://jeffbridgforth.com/?p=12699",
@@ -1055,6 +1055,20 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=mattgemmell.scot&sz=64"
     },
     {
+      "id": "https://ronaldsvilcins.com/2026/10/26/smarter-responsive-calculations-with-css-round/",
+      "title": "Smarter Responsive Calculations With CSS round()",
+      "published": "2026-10-26T06:00:00+00:00",
+      "author": "Ronalds Vilciņš",
+      "description": "CSS round() snaps responsive values to useful steps. See rounding strategies, spacing scales, and a column calculation, with browser support checks.",
+      "link": "https://ronaldsvilcins.com/2026/10/26/smarter-responsive-calculations-with-css-round/",
+      "image": "https://ronaldsvilcins.com/og.png",
+      "feed_name": "Ronalds Vilciņš",
+      "feed_title": "Ronalds Vilciņš",
+      "category": "personal blogs",
+      "feed_url": "https://ronaldsvilcins.com/atom.xml",
+      "feed_icon": "https://ronaldsvilcins.com/favicon.png"
+    },
+    {
       "id": "https://v7.robweychert.com/blog/2026/10/cult-of-chucky/",
       "title": "Cult of Chucky",
       "published": "2026-10-26T03:59:00+00:00",
@@ -1067,20 +1081,6 @@
       "category": "personal blogs",
       "feed_url": "http://feeds.feedburner.com/robweychert",
       "feed_icon": "https://www.google.com/s2/favicons?domain=v7.robweychert.com&sz=64"
-    },
-    {
-      "id": "https://ronaldsvilcins.com/2026/10/26/smarter-responsive-calculations-with-css-round/",
-      "title": "Smarter Responsive Calculations With CSS round()",
-      "published": "2026-10-25T22:00:00+00:00",
-      "author": "Ronalds Vilciņš",
-      "description": "CSS round() snaps responsive values to useful steps. See rounding strategies, spacing scales, and a column calculation, with browser support checks.",
-      "link": "https://ronaldsvilcins.com/2026/10/26/smarter-responsive-calculations-with-css-round/",
-      "image": "https://ronaldsvilcins.com/og.png",
-      "feed_name": "Ronalds Vilciņš",
-      "feed_title": "Ronalds Vilciņš",
-      "category": "personal blogs",
-      "feed_url": "https://ronaldsvilcins.com/atom.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=ronaldsvilcins.com&sz=64"
     },
     {
       "id": "https://paulrobertlloyd.com/2026/298/a1/watch_trap/",
@@ -1195,6 +1195,20 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.trovster.com&sz=64"
     },
     {
+      "id": "https://ronaldsvilcins.com/2026/10/25/what-the-browser-already-does-without-a-framework/",
+      "title": "What the Browser Already Does Without a Framework",
+      "published": "2026-10-25T06:00:00+00:00",
+      "author": "Ronalds Vilciņš",
+      "description": "Before adding a frontend framework, check what HTML, CSS, forms, responsive images, preferences, and browser navigation already provide.",
+      "link": "https://ronaldsvilcins.com/2026/10/25/what-the-browser-already-does-without-a-framework/",
+      "image": null,
+      "feed_name": "Ronalds Vilciņš",
+      "feed_title": "Ronalds Vilciņš",
+      "category": "personal blogs",
+      "feed_url": "https://ronaldsvilcins.com/atom.xml",
+      "feed_icon": "https://ronaldsvilcins.com/favicon.png"
+    },
+    {
       "id": "tag:v7.robweychert.com,2025:digest20261025",
       "title": "Entries logged without comment for the week ending 10/24",
       "published": "2026-10-25T04:00:00+00:00",
@@ -1279,20 +1293,6 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=alicebartlett.co.uk&sz=64"
     },
     {
-      "id": "https://ronaldsvilcins.com/2026/10/25/what-the-browser-already-does-without-a-framework/",
-      "title": "What the Browser Already Does Without a Framework",
-      "published": "2026-10-24T21:00:00+00:00",
-      "author": "Ronalds Vilciņš",
-      "description": "Before adding a frontend framework, check what HTML, CSS, forms, responsive images, preferences, and browser navigation already provide.",
-      "link": "https://ronaldsvilcins.com/2026/10/25/what-the-browser-already-does-without-a-framework/",
-      "image": null,
-      "feed_name": "Ronalds Vilciņš",
-      "feed_title": "Ronalds Vilciņš",
-      "category": "personal blogs",
-      "feed_url": "https://ronaldsvilcins.com/atom.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=ronaldsvilcins.com&sz=64"
-    },
-    {
       "id": "https://www.gsarigiannidis.gr/?p=2541",
       "title": "NASA spent millions on a pen that writes in zero gravity. The Russians used a pencil",
       "published": "2026-10-24T19:35:38+00:00",
@@ -1349,6 +1349,20 @@
       "feed_icon": "https://shkspr.mobi/blog/wp-content/uploads/2023/07/cropped-avatar-32x32.jpeg"
     },
     {
+      "id": "https://ronaldsvilcins.com/2026/10/24/why-i-keep-fonts-css-and-javascript-with-my-site/",
+      "title": "Why I Keep Fonts, CSS, and JavaScript With My Site",
+      "published": "2026-10-24T05:00:00+00:00",
+      "author": "Ronalds Vilciņš",
+      "description": "Self-hosting CSS, JavaScript, and fonts keeps critical dependencies versioned, predictable, and close to the page that needs them.",
+      "link": "https://ronaldsvilcins.com/2026/10/24/why-i-keep-fonts-css-and-javascript-with-my-site/",
+      "image": null,
+      "feed_name": "Ronalds Vilciņš",
+      "feed_title": "Ronalds Vilciņš",
+      "category": "personal blogs",
+      "feed_url": "https://ronaldsvilcins.com/atom.xml",
+      "feed_icon": "https://ronaldsvilcins.com/favicon.png"
+    },
+    {
       "id": "https://hamatti.org/posts/assumptions-are-sneaky/",
       "title": "Assumptions are sneaky",
       "published": "2026-10-24T00:00:00+00:00",
@@ -1361,20 +1375,6 @@
       "category": "personal blogs",
       "feed_url": "https://hamatti.org/feed/feed.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=hamatti.org&sz=64"
-    },
-    {
-      "id": "https://ronaldsvilcins.com/2026/10/24/why-i-keep-fonts-css-and-javascript-with-my-site/",
-      "title": "Why I Keep Fonts, CSS, and JavaScript With My Site",
-      "published": "2026-10-23T21:00:00+00:00",
-      "author": "Ronalds Vilciņš",
-      "description": "Self-hosting CSS, JavaScript, and fonts keeps critical dependencies versioned, predictable, and close to the page that needs them.",
-      "link": "https://ronaldsvilcins.com/2026/10/24/why-i-keep-fonts-css-and-javascript-with-my-site/",
-      "image": null,
-      "feed_name": "Ronalds Vilciņš",
-      "feed_title": "Ronalds Vilciņš",
-      "category": "personal blogs",
-      "feed_url": "https://ronaldsvilcins.com/atom.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=ronaldsvilcins.com&sz=64"
     },
     {
       "id": "6adbb7cd6232600823342364",
@@ -1559,6 +1559,20 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=rknight.me&sz=64"
     },
     {
+      "id": "https://ronaldsvilcins.com/2026/10/23/does-your-website-actually-need-a-cookie-banner/",
+      "title": "Does a Small Website Actually Need a Cookie Banner?",
+      "published": "2026-10-23T05:00:00+00:00",
+      "author": "Ronalds Vilciņš",
+      "description": "Start by inventorying storage, analytics, advertising, and embeds; a site with no optional tracking may have nothing to ask consent for.",
+      "link": "https://ronaldsvilcins.com/2026/10/23/does-your-website-actually-need-a-cookie-banner/",
+      "image": null,
+      "feed_name": "Ronalds Vilciņš",
+      "feed_title": "Ronalds Vilciņš",
+      "category": "personal blogs",
+      "feed_url": "https://ronaldsvilcins.com/atom.xml",
+      "feed_icon": "https://ronaldsvilcins.com/favicon.png"
+    },
+    {
       "id": "https://www.mikestreety.co.uk/blog/power-management-for-standing-desks/",
       "title": "Power management for standing desks",
       "published": "2026-10-23T00:00:00+00:00",
@@ -1613,20 +1627,6 @@
       "category": "personal blogs",
       "feed_url": "https://felixwaller.dev/rss.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=felixwaller.dev&sz=64"
-    },
-    {
-      "id": "https://ronaldsvilcins.com/2026/10/23/does-your-website-actually-need-a-cookie-banner/",
-      "title": "Does a Small Website Actually Need a Cookie Banner?",
-      "published": "2026-10-22T21:00:00+00:00",
-      "author": "Ronalds Vilciņš",
-      "description": "Start by inventorying storage, analytics, advertising, and embeds; a site with no optional tracking may have nothing to ask consent for.",
-      "link": "https://ronaldsvilcins.com/2026/10/23/does-your-website-actually-need-a-cookie-banner/",
-      "image": null,
-      "feed_name": "Ronalds Vilciņš",
-      "feed_title": "Ronalds Vilciņš",
-      "category": "personal blogs",
-      "feed_url": "https://ronaldsvilcins.com/atom.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=ronaldsvilcins.com&sz=64"
     },
     {
       "id": "https://felixwaller.dev/thinking/a-bloody-blunder",
@@ -1727,6 +1727,20 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=localhost:4000&sz=64"
     },
     {
+      "id": "https://ronaldsvilcins.com/2026/10/22/how-i-organize-my-hugo-site/",
+      "title": "How I Organize My Hugo Site",
+      "published": "2026-10-22T05:00:00+00:00",
+      "author": "Ronalds Vilciņš",
+      "description": "A predictable Hugo structure for content, page resources, layouts, assets, static files, and configuration.",
+      "link": "https://ronaldsvilcins.com/2026/10/22/how-i-organize-my-hugo-site/",
+      "image": null,
+      "feed_name": "Ronalds Vilciņš",
+      "feed_title": "Ronalds Vilciņš",
+      "category": "personal blogs",
+      "feed_url": "https://ronaldsvilcins.com/atom.xml",
+      "feed_icon": "https://ronaldsvilcins.com/favicon.png"
+    },
+    {
       "id": "https://snook.ca/everything/new-iphone/",
       "title": "New iPhone",
       "published": "2026-10-22T00:00:00+00:00",
@@ -1739,20 +1753,6 @@
       "category": "personal blogs",
       "feed_url": "http://feeds.feedburner.com/snookca",
       "feed_icon": "https://www.google.com/s2/favicons?domain=snook.ca&sz=64"
-    },
-    {
-      "id": "https://ronaldsvilcins.com/2026/10/22/how-i-organize-my-hugo-site/",
-      "title": "How I Organize My Hugo Site",
-      "published": "2026-10-21T21:00:00+00:00",
-      "author": "Ronalds Vilciņš",
-      "description": "A predictable Hugo structure for content, page resources, layouts, assets, static files, and configuration.",
-      "link": "https://ronaldsvilcins.com/2026/10/22/how-i-organize-my-hugo-site/",
-      "image": null,
-      "feed_name": "Ronalds Vilciņš",
-      "feed_title": "Ronalds Vilciņš",
-      "category": "personal blogs",
-      "feed_url": "https://ronaldsvilcins.com/atom.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=ronaldsvilcins.com&sz=64"
     },
     {
       "id": "https://blog.jim-nielsen.com/2026/skip-retirement-for-utopia/",
@@ -1881,6 +1881,20 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=smus.com&sz=64"
     },
     {
+      "id": "https://ronaldsvilcins.com/2026/10/21/when-to-use-hugo-shortcodes-or-render-hooks/",
+      "title": "When to Use Hugo Shortcodes or Render Hooks",
+      "published": "2026-10-21T05:00:00+00:00",
+      "author": "Ronalds Vilciņš",
+      "description": "Use render hooks to change normal Markdown output and shortcodes for custom content with meaning Markdown cannot express.",
+      "link": "https://ronaldsvilcins.com/2026/10/21/when-to-use-hugo-shortcodes-or-render-hooks/",
+      "image": null,
+      "feed_name": "Ronalds Vilciņš",
+      "feed_title": "Ronalds Vilciņš",
+      "category": "personal blogs",
+      "feed_url": "https://ronaldsvilcins.com/atom.xml",
+      "feed_icon": "https://ronaldsvilcins.com/favicon.png"
+    },
+    {
       "id": "https://nerdy.dev/www-ep256-denver-cramer-glassware?utm_source=rss",
       "title": "Designing Whiskey Glasses with Denver Cramer",
       "published": "2026-10-21T02:48:36+00:00",
@@ -1979,20 +1993,6 @@
       "feed_icon": "https://meiert.com/media/social.png"
     },
     {
-      "id": "https://ronaldsvilcins.com/2026/10/21/when-to-use-hugo-shortcodes-or-render-hooks/",
-      "title": "When to Use Hugo Shortcodes or Render Hooks",
-      "published": "2026-10-20T21:00:00+00:00",
-      "author": "Ronalds Vilciņš",
-      "description": "Use render hooks to change normal Markdown output and shortcodes for custom content with meaning Markdown cannot express.",
-      "link": "https://ronaldsvilcins.com/2026/10/21/when-to-use-hugo-shortcodes-or-render-hooks/",
-      "image": null,
-      "feed_name": "Ronalds Vilciņš",
-      "feed_title": "Ronalds Vilciņš",
-      "category": "personal blogs",
-      "feed_url": "https://ronaldsvilcins.com/atom.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=ronaldsvilcins.com&sz=64"
-    },
-    {
       "id": "https://v7.robweychert.com/blog/2026/10/how-to-enter-the-art-world/",
       "title": "How to Enter the Art World",
       "published": "2026-10-20T15:59:00+00:00",
@@ -2077,6 +2077,20 @@
       "feed_icon": "https://i0.wp.com/zeldman.com/wp-content/uploads/2014/12/cropped-default-54a3966bv1_site_icon.png?fit=32%2C32&ssl=1"
     },
     {
+      "id": "https://ronaldsvilcins.com/2026/10/20/webp-vs-avif-vs-jpeg-which-image-format-should-you-use/",
+      "title": "WebP vs AVIF vs JPEG for Websites in 2026",
+      "published": "2026-10-20T05:00:00+00:00",
+      "author": "Ronalds Vilciņš",
+      "description": "Choose an image format by measured size and visual quality instead of assuming the newest option always wins.",
+      "link": "https://ronaldsvilcins.com/2026/10/20/webp-vs-avif-vs-jpeg-which-image-format-should-you-use/",
+      "image": null,
+      "feed_name": "Ronalds Vilciņš",
+      "feed_title": "Ronalds Vilciņš",
+      "category": "personal blogs",
+      "feed_url": "https://ronaldsvilcins.com/atom.xml",
+      "feed_icon": "https://ronaldsvilcins.com/favicon.png"
+    },
+    {
       "id": "http://nolanlawson.com/?p=20002",
       "title": "Do web components have a future if nobody is writing them?",
       "published": "2026-10-20T00:11:06+00:00",
@@ -2117,20 +2131,6 @@
       "category": "personal blogs",
       "feed_url": "https://meiert.com/en/feed/",
       "feed_icon": "https://meiert.com/media/social.png"
-    },
-    {
-      "id": "https://ronaldsvilcins.com/2026/10/20/webp-vs-avif-vs-jpeg-which-image-format-should-you-use/",
-      "title": "WebP vs AVIF vs JPEG for Websites in 2026",
-      "published": "2026-10-19T21:00:00+00:00",
-      "author": "Ronalds Vilciņš",
-      "description": "Choose an image format by measured size and visual quality instead of assuming the newest option always wins.",
-      "link": "https://ronaldsvilcins.com/2026/10/20/webp-vs-avif-vs-jpeg-which-image-format-should-you-use/",
-      "image": null,
-      "feed_name": "Ronalds Vilciņš",
-      "feed_title": "Ronalds Vilciņš",
-      "category": "personal blogs",
-      "feed_url": "https://ronaldsvilcins.com/atom.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=ronaldsvilcins.com&sz=64"
     },
     {
       "id": "https://blog.jim-nielsen.com/2026/icons-in-every-menu/",
@@ -2287,6 +2287,20 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=mattgemmell.scot&sz=64"
     },
     {
+      "id": "https://ronaldsvilcins.com/2026/10/19/choosing-between-srcset-and-picture/",
+      "title": "Choosing Between srcset and picture",
+      "published": "2026-10-19T05:00:00+00:00",
+      "author": "Ronalds Vilciņš",
+      "description": "Choose srcset when the image stays the same and picture when the crop, composition, or format needs to change.",
+      "link": "https://ronaldsvilcins.com/2026/10/19/choosing-between-srcset-and-picture/",
+      "image": null,
+      "feed_name": "Ronalds Vilciņš",
+      "feed_title": "Ronalds Vilciņš",
+      "category": "personal blogs",
+      "feed_url": "https://ronaldsvilcins.com/atom.xml",
+      "feed_icon": "https://ronaldsvilcins.com/favicon.png"
+    },
+    {
       "id": "https://www.mikestreety.co.uk/blog/an-unexpected-hostname-and-how-i-checked-before-i-panicked/",
       "title": "An unexpected hostname and how I checked before I panicked",
       "published": "2026-10-19T00:00:00+00:00",
@@ -2343,20 +2357,6 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=anselm-hannemann.com&sz=64"
     },
     {
-      "id": "https://ronaldsvilcins.com/2026/10/19/choosing-between-srcset-and-picture/",
-      "title": "Choosing Between srcset and picture",
-      "published": "2026-10-18T21:00:00+00:00",
-      "author": "Ronalds Vilciņš",
-      "description": "Choose srcset when the image stays the same and picture when the crop, composition, or format needs to change.",
-      "link": "https://ronaldsvilcins.com/2026/10/19/choosing-between-srcset-and-picture/",
-      "image": null,
-      "feed_name": "Ronalds Vilciņš",
-      "feed_title": "Ronalds Vilciņš",
-      "category": "personal blogs",
-      "feed_url": "https://ronaldsvilcins.com/atom.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=ronaldsvilcins.com&sz=64"
-    },
-    {
       "id": "https://thomasrigby.com/posts/2026-w42/",
       "title": "Weeknotes: 2026-W42",
       "published": "2026-10-18T19:36:15+00:00",
@@ -2397,6 +2397,20 @@
       "category": "personal blogs",
       "feed_url": "https://shkspr.mobi/blog/feed/atom/",
       "feed_icon": "https://shkspr.mobi/blog/wp-content/uploads/2023/07/cropped-avatar-32x32.jpeg"
+    },
+    {
+      "id": "https://ronaldsvilcins.com/2026/10/18/finding-hidden-content-with-hiddenuntil-found/",
+      "title": "Finding Hidden Content With hidden=\"until-found\"",
+      "published": "2026-10-18T05:00:00+00:00",
+      "author": "Ronalds Vilciņš",
+      "description": "Let Find in Page and fragment navigation reveal collapsed content with hidden=until-found, while keeping a usable fallback.",
+      "link": "https://ronaldsvilcins.com/2026/10/18/finding-hidden-content-with-hiddenuntil-found/",
+      "image": null,
+      "feed_name": "Ronalds Vilciņš",
+      "feed_title": "Ronalds Vilciņš",
+      "category": "personal blogs",
+      "feed_url": "https://ronaldsvilcins.com/atom.xml",
+      "feed_icon": "https://ronaldsvilcins.com/favicon.png"
     },
     {
       "id": "tag:v7.robweychert.com,2025:digest20261018",
@@ -2553,20 +2567,6 @@
       "feed_icon": "https://meiert.com/media/social.png"
     },
     {
-      "id": "https://ronaldsvilcins.com/2026/10/18/finding-hidden-content-with-hiddenuntil-found/",
-      "title": "Finding Hidden Content With hidden=\"until-found\"",
-      "published": "2026-10-17T21:00:00+00:00",
-      "author": "Ronalds Vilciņš",
-      "description": "Let Find in Page and fragment navigation reveal collapsed content with hidden=until-found, while keeping a usable fallback.",
-      "link": "https://ronaldsvilcins.com/2026/10/18/finding-hidden-content-with-hiddenuntil-found/",
-      "image": null,
-      "feed_name": "Ronalds Vilciņš",
-      "feed_title": "Ronalds Vilciņš",
-      "category": "personal blogs",
-      "feed_url": "https://ronaldsvilcins.com/atom.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=ronaldsvilcins.com&sz=64"
-    },
-    {
       "id": "https://www.raymondcamden.com/2026/10/17/generating-pdfs-from-word-templates-with-officeparser",
       "title": "Generating PDFs from Word Templates with officeParser",
       "published": "2026-10-17T18:00:00+00:00",
@@ -2679,6 +2679,20 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=rknight.me&sz=64"
     },
     {
+      "id": "https://ronaldsvilcins.com/2026/10/17/better-line-breaks-with-css-balance-and-pretty/",
+      "title": "Better Line Breaks With CSS balance and pretty",
+      "published": "2026-10-17T05:00:00+00:00",
+      "author": "Ronalds Vilciņš",
+      "description": "Use text-wrap balance for short headings and text-wrap pretty selectively for longer copy without hard-coded line breaks.",
+      "link": "https://ronaldsvilcins.com/2026/10/17/better-line-breaks-with-css-balance-and-pretty/",
+      "image": null,
+      "feed_name": "Ronalds Vilciņš",
+      "feed_title": "Ronalds Vilciņš",
+      "category": "personal blogs",
+      "feed_url": "https://ronaldsvilcins.com/atom.xml",
+      "feed_icon": "https://ronaldsvilcins.com/favicon.png"
+    },
+    {
       "id": "https://www.amitmerchant.com/an-online-first-version-control-system",
       "title": "An online-first version control system in this agentic era",
       "published": "2026-10-17T00:00:00+00:00",
@@ -2747,20 +2761,6 @@
       "category": "personal blogs",
       "feed_url": "https://paulrobertlloyd.com/feed.xml",
       "feed_icon": "/assets/icons/icon-192-any.png"
-    },
-    {
-      "id": "https://ronaldsvilcins.com/2026/10/17/better-line-breaks-with-css-balance-and-pretty/",
-      "title": "Better Line Breaks With CSS balance and pretty",
-      "published": "2026-10-16T21:00:00+00:00",
-      "author": "Ronalds Vilciņš",
-      "description": "Use text-wrap balance for short headings and text-wrap pretty selectively for longer copy without hard-coded line breaks.",
-      "link": "https://ronaldsvilcins.com/2026/10/17/better-line-breaks-with-css-balance-and-pretty/",
-      "image": null,
-      "feed_name": "Ronalds Vilciņš",
-      "feed_title": "Ronalds Vilciņš",
-      "category": "personal blogs",
-      "feed_url": "https://ronaldsvilcins.com/atom.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=ronaldsvilcins.com&sz=64"
     },
     {
       "id": "https://jeffbridgforth.com/?p=12640",
@@ -2875,6 +2875,20 @@
       "feed_icon": "https://shkspr.mobi/blog/wp-content/uploads/2023/07/cropped-avatar-32x32.jpeg"
     },
     {
+      "id": "https://ronaldsvilcins.com/2026/10/16/why-100vh-doesnt-always-fit-a-mobile-screen/",
+      "title": "Why 100vh Doesn’t Always Fit a Mobile Screen",
+      "published": "2026-10-16T05:00:00+00:00",
+      "author": "Ronalds Vilciņš",
+      "description": "Why 100vh can exceed the visible mobile screen. Choose svh, lvh, or dvh, let content grow, and put older Safari workarounds in their historical context.",
+      "link": "https://ronaldsvilcins.com/2026/10/16/why-100vh-doesnt-always-fit-a-mobile-screen/",
+      "image": null,
+      "feed_name": "Ronalds Vilciņš",
+      "feed_title": "Ronalds Vilciņš",
+      "category": "personal blogs",
+      "feed_url": "https://ronaldsvilcins.com/atom.xml",
+      "feed_icon": "https://ronaldsvilcins.com/favicon.png"
+    },
+    {
       "id": "https://hamatti.org/posts/i-really-like-how-ultrapool-calculates-your-money-rewards/",
       "title": "I really like how Ultrapool calculates your money rewards",
       "published": "2026-10-16T00:00:00+00:00",
@@ -2915,20 +2929,6 @@
       "category": "personal blogs",
       "feed_url": "https://www.davidpepin.ca/feed.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.davidpepin.ca&sz=64"
-    },
-    {
-      "id": "https://ronaldsvilcins.com/2026/10/16/why-100vh-doesnt-always-fit-a-mobile-screen/",
-      "title": "Why 100vh Doesn’t Always Fit a Mobile Screen",
-      "published": "2026-10-15T21:00:00+00:00",
-      "author": "Ronalds Vilciņš",
-      "description": "Why 100vh can exceed the visible mobile screen. Choose svh, lvh, or dvh, let content grow, and put older Safari workarounds in their historical context.",
-      "link": "https://ronaldsvilcins.com/2026/10/16/why-100vh-doesnt-always-fit-a-mobile-screen/",
-      "image": null,
-      "feed_name": "Ronalds Vilciņš",
-      "feed_title": "Ronalds Vilciņš",
-      "category": "personal blogs",
-      "feed_url": "https://ronaldsvilcins.com/atom.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=ronaldsvilcins.com&sz=64"
     },
     {
       "id": "https://adactio.com/journal/22801",
@@ -3001,6 +3001,20 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=localhost:4000&sz=64"
     },
     {
+      "id": "https://ronaldsvilcins.com/2026/10/15/keeping-a-website-usable-when-javascript-fails/",
+      "title": "Keeping a Website Usable When JavaScript Fails",
+      "published": "2026-10-15T05:00:00+00:00",
+      "author": "Ronalds Vilciņš",
+      "description": "Build content, navigation, and forms on working HTML so one failed script removes an enhancement instead of the whole page.",
+      "link": "https://ronaldsvilcins.com/2026/10/15/keeping-a-website-usable-when-javascript-fails/",
+      "image": null,
+      "feed_name": "Ronalds Vilciņš",
+      "feed_title": "Ronalds Vilciņš",
+      "category": "personal blogs",
+      "feed_url": "https://ronaldsvilcins.com/atom.xml",
+      "feed_icon": "https://ronaldsvilcins.com/favicon.png"
+    },
+    {
       "id": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
       "title": "JPEG XL vs AVIF for web use-cases",
       "published": "2026-10-15T01:00:00+00:00",
@@ -3041,20 +3055,6 @@
       "category": "personal blogs",
       "feed_url": "https://ohhelloana.blog/feed.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=ohhelloana.blog&sz=64"
-    },
-    {
-      "id": "https://ronaldsvilcins.com/2026/10/15/keeping-a-website-usable-when-javascript-fails/",
-      "title": "Keeping a Website Usable When JavaScript Fails",
-      "published": "2026-10-14T21:00:00+00:00",
-      "author": "Ronalds Vilciņš",
-      "description": "Build content, navigation, and forms on working HTML so one failed script removes an enhancement instead of the whole page.",
-      "link": "https://ronaldsvilcins.com/2026/10/15/keeping-a-website-usable-when-javascript-fails/",
-      "image": null,
-      "feed_name": "Ronalds Vilciņš",
-      "feed_title": "Ronalds Vilciņš",
-      "category": "personal blogs",
-      "feed_url": "https://ronaldsvilcins.com/atom.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=ronaldsvilcins.com&sz=64"
     },
     {
       "id": "https://www.bram.us/?p=36933",
@@ -3379,6 +3379,20 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.bram.us&sz=64"
     },
     {
+      "id": "https://ronaldsvilcins.com/2026/10/13/why-i-dont-use-analytics-on-my-personal-website/",
+      "title": "Why My Personal Website Does Not Use Analytics",
+      "published": "2026-10-13T05:00:00+00:00",
+      "author": "Ronalds Vilciņš",
+      "description": "I do not need visitor profiles to publish articles, projects, and photographs, so my personal site collects less and loads less.",
+      "link": "https://ronaldsvilcins.com/2026/10/13/why-i-dont-use-analytics-on-my-personal-website/",
+      "image": null,
+      "feed_name": "Ronalds Vilciņš",
+      "feed_title": "Ronalds Vilciņš",
+      "category": "personal blogs",
+      "feed_url": "https://ronaldsvilcins.com/atom.xml",
+      "feed_icon": "https://ronaldsvilcins.com/favicon.png"
+    },
+    {
       "id": "https://www.bennadel.com/blog/4916-htmx-4-adds-findall-support-in-css-selector-attributes.htm",
       "title": "HTMX 4 Adds findAll Support In CSS Selector Attributes",
       "published": "2026-10-13T01:09:34+00:00",
@@ -3447,20 +3461,6 @@
       "category": "personal blogs",
       "feed_url": "http://www.bennadel.com/index.cfm?dax=blog.rss&lst_tag_id=14,16,3,5,9,6,7,13,18,20,10,15",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.bennadel.com&sz=64"
-    },
-    {
-      "id": "https://ronaldsvilcins.com/2026/10/13/why-i-dont-use-analytics-on-my-personal-website/",
-      "title": "Why My Personal Website Does Not Use Analytics",
-      "published": "2026-10-12T21:00:00+00:00",
-      "author": "Ronalds Vilciņš",
-      "description": "I do not need visitor profiles to publish articles, projects, and photographs, so my personal site collects less and loads less.",
-      "link": "https://ronaldsvilcins.com/2026/10/13/why-i-dont-use-analytics-on-my-personal-website/",
-      "image": null,
-      "feed_name": "Ronalds Vilciņš",
-      "feed_title": "Ronalds Vilciņš",
-      "category": "personal blogs",
-      "feed_url": "https://ronaldsvilcins.com/atom.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=ronaldsvilcins.com&sz=64"
     },
     {
       "id": "https://www.aaron-gustafson.com/notebook/sortable-tables-with-progressive-enhancement/",
@@ -3603,6 +3603,20 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=mattgemmell.scot&sz=64"
     },
     {
+      "id": "https://ronaldsvilcins.com/2026/10/12/the-html-details-that-make-forms-more-accessible/",
+      "title": "The HTML Details That Make Forms More Accessible",
+      "published": "2026-10-12T05:00:00+00:00",
+      "author": "Ronalds Vilciņš",
+      "description": "Build clearer forms with visible labels, autocomplete, connected help and errors, fieldsets, and visible focus.",
+      "link": "https://ronaldsvilcins.com/2026/10/12/the-html-details-that-make-forms-more-accessible/",
+      "image": null,
+      "feed_name": "Ronalds Vilciņš",
+      "feed_title": "Ronalds Vilciņš",
+      "category": "personal blogs",
+      "feed_url": "https://ronaldsvilcins.com/atom.xml",
+      "feed_icon": "https://ronaldsvilcins.com/favicon.png"
+    },
+    {
       "id": "my-ai-policy",
       "title": "My AI policy [blog]",
       "published": "2026-10-12T00:00:00+00:00",
@@ -3629,20 +3643,6 @@
       "category": "personal blogs",
       "feed_url": "https://melanie-richards.com/feed.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=melanie-richards.com&sz=64"
-    },
-    {
-      "id": "https://ronaldsvilcins.com/2026/10/12/the-html-details-that-make-forms-more-accessible/",
-      "title": "The HTML Details That Make Forms More Accessible",
-      "published": "2026-10-11T21:00:00+00:00",
-      "author": "Ronalds Vilciņš",
-      "description": "Build clearer forms with visible labels, autocomplete, connected help and errors, fieldsets, and visible focus.",
-      "link": "https://ronaldsvilcins.com/2026/10/12/the-html-details-that-make-forms-more-accessible/",
-      "image": null,
-      "feed_name": "Ronalds Vilciņš",
-      "feed_title": "Ronalds Vilciņš",
-      "category": "personal blogs",
-      "feed_url": "https://ronaldsvilcins.com/atom.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=ronaldsvilcins.com&sz=64"
     },
     {
       "id": "https://thomasrigby.com/posts/2026-w41/",
