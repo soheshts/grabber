@@ -1,9 +1,23 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-01T16:02:31.721648+00:00",
-  "count": 431,
+  "updated": "2026-11-01T16:32:47.620796+00:00",
+  "count": 432,
   "summary": null,
   "items": [
+    {
+      "id": "https://dariuszwinkler.com/blog/digital-home/",
+      "title": "My new digital home",
+      "published": "2026-11-01T16:10:01+00:00",
+      "author": "Dariusz Winkler",
+      "description": "Technical details about my new website.",
+      "link": "https://dariuszwinkler.com/blog/digital-home/",
+      "image": "https://dariuszwinkler.com/blog/digital-home/assets/design.avif",
+      "feed_name": "Darek Kay",
+      "feed_title": "Dariusz Winkler",
+      "category": "personal blogs",
+      "feed_url": "https://darekkay.com/atom.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=dariuszwinkler.com&sz=64"
+    },
     {
       "id": "https://www.alpower.com/my-take-on-ai-in-november-2026",
       "title": "My take on AI in November 2026",

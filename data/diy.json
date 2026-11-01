@@ -1,9 +1,51 @@
 {
   "category": "DIY",
-  "updated": "2026-11-01T16:02:31.721648+00:00",
-  "count": 544,
+  "updated": "2026-11-01T16:32:47.620796+00:00",
+  "count": 547,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/samsung-galaxy-tab-s12-ultra-review/",
+      "title": "Samsung’s Galaxy Tab S12 Ultra has a gorgeous screen, fantastic S-Pen, and a size problem I can’t ignore",
+      "published": "2026-11-01T16:30:17+00:00",
+      "author": "Shimul Sood",
+      "description": "A tablet with laptop-sized ambitions.",
+      "link": "https://www.makeuseof.com/samsung-galaxy-tab-s12-ultra-review/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/samsung-galaxy-tab-s12-ultra-s-design-with-white-s-pen.png",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/rtx-spark-dgx-spark-comparison-laptop-unfinished/",
+      "title": "I’ve used NVIDIA’s AI laptop and its personal AI supercomputer, and only one feels finished",
+      "published": "2026-11-01T16:30:16+00:00",
+      "author": "Nick Lewis",
+      "description": "The RTX Spark's hardware is incredible, but Windows doesn't give you a chance to use it.",
+      "link": "https://www.howtogeek.com/rtx-spark-dgx-spark-comparison-laptop-unfinished/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/nvidia-rtx-spark-dgx-spark.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/294712/how-to-find-your-windows-pcs-serial-number/",
+      "title": "How to Find Your Windows PC's Serial Number",
+      "published": "2026-11-01T16:08:50+00:00",
+      "author": "Chris Hoffman, Nick Lewis",
+      "description": "No sticker? No problem—your computer probably has it saved internally.",
+      "link": "https://www.howtogeek.com/294712/how-to-find-your-windows-pcs-serial-number/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2017/02/Serial-Number-Header.png",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/everyone-recommends-brave-for-privacy-but-i-found-a-better-privacy-browser/",
       "title": "Everyone recommends Brave for privacy, but I found a better privacy browser",
