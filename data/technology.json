@@ -1,9 +1,23 @@
 {
   "category": "technology",
-  "updated": "2026-11-01T22:33:32.105795+00:00",
+  "updated": "2026-11-01T23:02:31.861978+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://tech.slashdot.org/story/26/11/01/229250/systemds-creator-opens-signups-for-private-preview-of-amutables-cryptographically-verified-linux-systems?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "title": "SystemD's Creator Opens Signups for Private Preview of Amutable's Cryptographically Verified Linux Systems",
+      "published": "2026-11-01T22:33:00+00:00",
+      "author": "EditorDavid",
+      "description": "SystemD creator Lennart Poettering left Red Hat for Microsoft in 2022, but 10 months ago left to co-found Amutable a company that aims to build cryptographically verified Linux systems that stay trusted over time. It's FOSS calls it \"a read-only, image-based system where every machine produces signed reports of its own state\" — and signups are now open for a private preview: Before announcing this Linux-based implementation, Amutable had released two open source tools. tine, a Buck2-based build…",
+      "link": "https://tech.slashdot.org/story/26/11/01/229250/systemds-creator-opens-signups-for-private-preview-of-amutables-cryptographically-verified-linux-systems?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+      "feed_name": "Slashdot",
+      "feed_title": "Slashdot",
+      "category": "technology",
+      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
+    },
     {
       "id": "https://slashdot.org/story/26/11/01/2130258/religious-exemption-from-using-ai-in-workplace-granted-to-humanist?utm_source=rss1.0mainlinkanon&utm_medium=feed",
       "title": "Religious Exemption from Using AI in Workplace Granted to Humanist",
@@ -13989,20 +14003,6 @@
       "category": "technology",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
-    },
-    {
-      "id": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-genie-4/",
-      "title": "We’re announcing Genie 4, our new world model for real-time interactive simulation.",
-      "published": "2026-10-27T16:00:00+00:00",
-      "author": null,
-      "description": "Today, we’re announcing our research on Genie 4, our new world model that brings unprecedented realism and native audio to real-time interactive simulation.The Genie 4 m…",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-genie-4/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/genie-3__blog__social-og.max-600x600.format-webp.webp",
-      "feed_name": "The Keyword",
-      "feed_title": "News from Google",
-      "category": "technology",
-      "feed_url": "https://www.blog.google/rss/",
-      "feed_icon": "https://blog.google/static/blogv2/images/google.png"
     }
   ]
 }
