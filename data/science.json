@@ -1,9 +1,23 @@
 {
   "category": "science",
-  "updated": "2026-11-01T08:33:02.039915+00:00",
+  "updated": "2026-11-01T09:03:39.157836+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/videos/crwyd2lyj15go#0",
+      "title": "Spill from vandalised home oil tank kills 13 birds",
+      "published": "2026-11-01T08:57:56+00:00",
+      "author": null,
+      "description": "A number of birds are also injured after the spill from the oil tank earlier this week.",
+      "link": "https://www.bbc.co.uk/news/videos/crwyd2lyj15go?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43b9/live/727760b0-d47e-11f1-b441-2b33b063138f.jpg",
+      "feed_name": "BBC News - Science & Environment",
+      "feed_title": "BBC News",
+      "category": "science",
+      "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cqrkypljk526o#1",
       "title": "Rhino siblings celebrate first birthday with cake",
@@ -13989,20 +14003,6 @@
       "category": "science",
       "feed_url": "http://feeds.wnyc.org/radiolab",
       "feed_icon": "https://image.simplecastcdn.com/images/2c9187d6-9dff-4257-bc55-469cf13afd48/60a2cfed-b8ca-460b-abb8-8ab0afb3fa8c/3000x3000/radiolab-showsquare-3000x3000.jpg?aid=rss_feed"
-    },
-    {
-      "id": "ba6bb57c-c35a-11f1-9807-3755c7197228",
-      "title": "The doctor fighting for pain-free IUDs",
-      "published": "2026-10-09T09:50:00+00:00",
-      "author": "Scientific American",
-      "description": "In this episode of Science Quickly, Rachel Feltman speaks with Helena Kopp Kallner, an ob-gyn and a professor, about her promising new study that shows local anesthetic can reduce pain during placements of intrauterine devices (IUDs). These devices are one of the most effective and convenient forms of birth control, but the pain of insertion keeps many patients away. Kopp Kallner explains why IUD insertion pain has long been ignored, how existing pain-relief options fall short and why patients…",
-      "link": null,
-      "image": null,
-      "feed_name": "60-Second Science",
-      "feed_title": "60-Second Science",
-      "category": "science",
-      "feed_url": "http://rss.sciam.com/sciam/60secsciencepodcast",
-      "feed_icon": "https://megaphone.imgix.net/podcasts/9e578524-a403-11ee-a6cf-cbcdcc0e11fb/image/ec5ff1c72de2a19d67bc6425661674b1.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
     }
   ]
 }

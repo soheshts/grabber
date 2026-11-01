@@ -1,9 +1,23 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-01T08:33:02.039915+00:00",
-  "count": 427,
+  "updated": "2026-11-01T09:03:39.157836+00:00",
+  "count": 428,
   "summary": null,
   "items": [
+    {
+      "id": "http://elizabethtai.com/?p=21921",
+      "title": "How I built Bob, my “chief of staff” and executive assistant",
+      "published": "2026-11-01T08:48:31+00:00",
+      "author": "Elizabeth Tai",
+      "description": "A very long article about how I built Bob, an AI executive assistant with Claude Code.",
+      "link": "https://elizabethtai.com/2026/11/01/how-i-built-bob-my-chief-of-staff-and-executive-assistant/",
+      "image": "https://elizabethtai.com/wp-content/uploads/2026/11/bob-the-exec-assstant.png",
+      "feed_name": "Elizabeth Tai",
+      "feed_title": "Elizabeth Tai",
+      "category": "personal blogs",
+      "feed_url": "https://elizabethtai.com/feed/",
+      "feed_icon": "https://elizabethtai.com/wp-content/uploads/2023/02/cropped-site-flavicon.png?w=32"
+    },
     {
       "id": "opencode-codemode",
       "title": "How OpenCode Runs Code Mode",
