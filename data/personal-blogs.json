@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-01T01:02:22.553239+00:00",
-  "count": 426,
+  "updated": "2026-11-01T01:33:13.731336+00:00",
+  "count": 427,
   "summary": null,
   "items": [
     {
@@ -59,6 +59,20 @@
       "category": "personal blogs",
       "feed_url": "https://giuseppegurgone.com/feed.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=giuseppegurgone.com&sz=64"
+    },
+    {
+      "id": "https://ronaldsvilcins.com/2026/11/01/let-components-react-to-css-variables-with-style-queries/",
+      "title": "Let Components React to CSS Variables With Style Queries",
+      "published": "2026-10-31T22:00:00+00:00",
+      "author": "Ronalds Vilciņš",
+      "description": "CSS style queries let components react to custom properties on their ancestors. Compare theme and density examples with var(), classes, and support limits.",
+      "link": "https://ronaldsvilcins.com/2026/11/01/let-components-react-to-css-variables-with-style-queries/",
+      "image": "https://ronaldsvilcins.com/og/496b3b86a2fc22468af68ae49c489e4e2e733ac08f8845ce005eeeb1b7096943.jpg",
+      "feed_name": "Ronalds Vilciņš",
+      "feed_title": "Ronalds Vilciņš",
+      "category": "personal blogs",
+      "feed_url": "https://ronaldsvilcins.com/atom.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=ronaldsvilcins.com&sz=64"
     },
     {
       "id": "https://thomasrigby.com/posts/great-british-book-off/",
