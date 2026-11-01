@@ -1,9 +1,23 @@
 {
   "category": "science",
-  "updated": "2026-11-01T17:03:55.191696+00:00",
+  "updated": "2026-11-01T17:33:28.147898+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/10/29/science/fop-bones-drugs.html",
+      "title": "These Patients Struggle With Runaway Bones. Finally There’s Hope.",
+      "published": "2026-11-01T17:11:56+00:00",
+      "author": "Stella Raine Chu",
+      "description": "F.O.P., a rare genetic condition, causes uncontrolled explosions of bone. New drugs may slow or halt the process.",
+      "link": "https://www.nytimes.com/2026/10/29/science/fop-bones-drugs.html",
+      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29SCI-FOP-kcwm/29SCI-FOP-kcwm-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Science",
+      "feed_title": "NYT > Science",
+      "category": "science",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "news712498394",
       "title": "How permanent daylight saving time could affect schools",
@@ -1235,20 +1249,6 @@
       "category": "science",
       "feed_url": "https://flowingdata.com/feed",
       "feed_icon": "https://flowingdata.com/wp-content/uploads/2025/01/logo-lone-square512x512-120x120.png"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/10/29/science/fop-bones-drugs.html",
-      "title": "These Patients Struggle With Runaway Bones. Finally There’s Hope.",
-      "published": "2026-10-30T20:20:50+00:00",
-      "author": "Stella Raine Chu",
-      "description": "F.O.P., a rare genetic condition, causes uncontrolled explosions of bone. New drugs may slow or halt the process.",
-      "link": "https://www.nytimes.com/2026/10/29/science/fop-bones-drugs.html",
-      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29SCI-FOP-kcwm/29SCI-FOP-kcwm-mediumSquareAt3X.jpg",
-      "feed_name": "NYT > Science",
-      "feed_title": "NYT > Science",
-      "category": "science",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "news712582861",
@@ -3227,7 +3227,7 @@
     {
       "id": "https://www.nytimes.com/2026/10/29/science/ai-eradicate-computer-bugs.html",
       "title": "After Reinventing Mathematics, Can A.I. Eradicate Computer Bugs?",
-      "published": "2026-10-29T21:09:08+00:00",
+      "published": "2026-10-29T21:09:09+00:00",
       "author": "Cade Metz",
       "description": "Using the same techniques that allowed A.I. technologies to crack a million-dollar math problem, researchers are building new systems that aim to solve the world’s cybersecurity crisis.",
       "link": "https://www.nytimes.com/2026/10/29/science/ai-eradicate-computer-bugs.html",

@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-01T17:03:55.191696+00:00",
-  "count": 550,
+  "updated": "2026-11-01T17:33:28.147898+00:00",
+  "count": 552,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/samsung-tv-plus/",
+      "title": "Your Samsung TV has 650 free channels behind one button most owners never press",
+      "published": "2026-11-01T17:30:17+00:00",
+      "author": "Brandon Miniman",
+      "description": "You can get hundreds of truly-free content options on your Samsung TV.",
+      "link": "https://www.makeuseof.com/samsung-tv-plus/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/remote.jpeg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/windows-11-says-you-have-a-choice-but-microsoft-is-quietly-removing-it/",
+      "title": "Windows 11 says you have a choice, but Microsoft is quietly removing it",
+      "published": "2026-11-01T17:30:16+00:00",
+      "author": "Sydney Butler",
+      "description": "Windows 11 dresses up as freedom while subtle defaults steer users toward online accounts and Edge integration.",
+      "link": "https://www.howtogeek.com/windows-11-says-you-have-a-choice-but-microsoft-is-quietly-removing-it/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/asus-vivobook-laptop-windows-11-desktop-on-box.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/i-opened-android-autos-developer-settings-and-3-of-them-changed-how-i-use-it-in-my-car/",
       "title": "I opened Android Auto's developer settings, and 3 of them changed how I use it in my car",
