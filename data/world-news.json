@@ -1,6 +1,6 @@
 {
   "category": "World News",
-  "updated": "2026-11-01T08:03:37.976472+00:00",
+  "updated": "2026-11-01T08:33:02.039915+00:00",
   "count": 1000,
   "summary": null,
   "items": [
@@ -17,6 +17,34 @@
       "category": "World News",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/science/nature/in-1916-engineers-straightened-a-tennessee-river-to-drain-land-110-years-later-authorities-have-acquired-985-acres-to-reconnect-its-floodplain-reduce-future-flooding-in-jackson-and-create-a-new-public-nature-area/articleshow/135419046.cms",
+      "title": "US river straightened 110 years ago to drain land, now set for restoration to reduce floods",
+      "published": "2026-11-01T07:46:48+00:00",
+      "author": "TOI Science Desk",
+      "description": "Authorities in Tennessee, US, have acquired 985 acres along the South Fork of the Forked Deer River to reduce flooding and restore natural habitats. The river was straightened in 1916 to drain surrounding land, but the changes contributed to flash floods and erosion. The restoration project aims to reconnect the river with its floodplain and eventually open the area to the public.",
+      "link": "https://timesofindia.indiatimes.com/science/nature/in-1916-engineers-straightened-a-tennessee-river-to-drain-land-110-years-later-authorities-have-acquired-985-acres-to-reconnect-its-floodplain-reduce-future-flooding-in-jackson-and-create-a-new-public-nature-area/articleshow/135419046.cms",
+      "image": "https://static.toiimg.com/photo/msid-135419200,imgsize-79254.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/science/archaeology/a-new-fossil-from-china-may-reveal-the-first-amphibian-known-to-have-lived-entirely-at-sea-the-armoured-2-4-foot-creature-lived-about-237-million-years-ago-challenging-what-scientists-know-about-amphibian-evolution/articleshow/135351573.cms",
+      "title": "A new fossil from China may reveal the first amphibian known to have lived entirely at sea; the armoured, 2.4-foot creature lived about 237 million years ago, challenging what scientists know about amphibian evolution",
+      "published": "2026-11-01T07:46:11+00:00",
+      "author": "TOI Lifestyle Desk",
+      "description": "A recent discovery of the fossil Gerrothorax maritimus reveals that some ancient amphibians lived completely in marine environments. Dated to approximately 237 million years ago, this species had a flattened body covered in bony armour. The fossils were found in deep-sea sediments, indicating they lived far from landmasses. Geochemical tests confirmed the strontium isotopes matched those in seawater during the Late Triassic period.",
+      "link": "https://timesofindia.indiatimes.com/science/archaeology/a-new-fossil-from-china-may-reveal-the-first-amphibian-known-to-have-lived-entirely-at-sea-the-armoured-2-4-foot-creature-lived-about-237-million-years-ago-challenging-what-scientists-know-about-amphibian-evolution/articleshow/135351573.cms",
+      "image": "https://static.toiimg.com/photo/msid-135419124,imgsize-209108.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o#0",
@@ -221,6 +249,20 @@
       "author": "Hannah Beech and Lauren DeCicca",
       "description": "Bangkok’s firefighters do more snake catching than firefighting, and Pinyo Pukpinyo trains them. But he refuses to kill the snakes, and he’s running out of containers.",
       "link": "https://www.nytimes.com/2026/11/01/world/asia/hes-the-top-snake-catcher-and-business-is-booming-theres-just-one-problem.html",
+      "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01int-snake-catcher-profile-promoimage-qtfg/01int-snake-catcher-profile-promoimage-qtfg-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/01/world/asia/snake-catcher-bangkok-thailand.html",
+      "title": "He’s the Top Snake Catcher, and Business Is Booming. There’s Just One Problem.",
+      "published": "2026-11-01T04:01:16+00:00",
+      "author": "Hannah Beech and Lauren DeCicca",
+      "description": "Bangkok’s firefighters do more snake catching than firefighting, and Pinyo Pukpinyo trains them. But he refuses to kill the snakes, and he’s running out of containers.",
+      "link": "https://www.nytimes.com/2026/11/01/world/asia/snake-catcher-bangkok-thailand.html",
       "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01int-snake-catcher-profile-promoimage-qtfg/01int-snake-catcher-profile-promoimage-qtfg-mediumSquareAt3X.jpg",
       "feed_name": "NYT",
       "feed_title": "NYT > World News",
@@ -13961,48 +14003,6 @@
       "category": "World News",
       "feed_url": "https://www.theguardian.com/world/rss",
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
-    },
-    {
-      "id": "108472742",
-      "title": "UBS pretax profits jump 27% in third quarter to $3.59 billion as wealth inflows surge",
-      "published": "2026-10-28T09:42:03+00:00",
-      "author": null,
-      "description": "UBS reported a third quarter pretax profit of almost $3.6 billion.",
-      "link": "https://www.cnbc.com/2026/10/28/ubs-earnings-third-quarter.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108273552-1772641307274-gettyimages-2264182952-AFP_99XG2WE.jpeg?v=1772641394&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official",
-      "title": "Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official",
-      "published": "2026-10-28T09:37:49+00:00",
-      "author": "Sarah Johnson",
-      "description": "Jean Kaseya, of the Africa CDC, warns of the illness spreading like Covid unless more funding is secured to increase preparedness and possible treatment The “unprecedented” spread of the Ebola outbreak means it could reach the UK and other countries, according to one of Africa’s top health officials. As the current outbreak reached 10,000 cases, with almost 5,000 deaths , Dr Jean Kaseya, director general of the Africa Centres for Disease Control and Prevention (CDC), compared the outbreak to th…",
-      "link": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official",
-      "image": "https://i.guim.co.uk/img/media/4c8a92421c88cf3bb5c2743cd8f6b4900e511a1f/538_0_4583_3667/master/4583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bfb124c256e54576249e81f1dfe63bac",
-      "feed_name": "The Guardian",
-      "feed_title": "World news | The Guardian",
-      "category": "World News",
-      "feed_url": "https://www.theguardian.com/world/rss",
-      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
-    },
-    {
-      "id": "https://www.ndtv.com/opinion/will-america-punish-trump-for-the-damage-he-has-done-why-midterms-are-a-threat-12247810#publisher=newsstand",
-      "title": "Opinion: Opinion | Is America Staring At A 'Blue Wave' Again? Why Trump Feels Threatened",
-      "published": "2026-10-28T09:34:20+00:00",
-      "author": null,
-      "description": "Wonder of wonders, the so-called 'red-neck' states - like Texas - are leaning democrat, and Vivek Ramaswamy is probably going to lose in Ohio. But will this be enough for a 'blue wave'?",
-      "link": "https://www.ndtv.com/opinion/will-america-punish-trump-for-the-damage-he-has-done-why-midterms-are-a-threat-12247810#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2024-11/r92i04ro_donald-trump_625x300_07_November_24.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     }
   ]
 }
