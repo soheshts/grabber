@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-01T15:02:54.012776+00:00",
-  "count": 540,
+  "updated": "2026-11-01T15:32:44.892751+00:00",
+  "count": 542,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/google-maps-find-parked-car/",
+      "title": "Google Maps has a trick for finding your parked car before you panic",
+      "published": "2026-11-01T15:31:16+00:00",
+      "author": "Judy Sanhz",
+      "description": "Google Maps Save parking can spare you that sinking feeling when you can't remember where you parked. Here's how you can use it.",
+      "link": "https://www.makeuseof.com/google-maps-find-parked-car/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/google-maps-save-parking.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/i-used-free-local-ai-to-organize-hundreds-of-photos-without-uploading-a-single-one/",
+      "title": "I used free local AI to organize hundreds of photos without uploading a single one",
+      "published": "2026-11-01T15:31:15+00:00",
+      "author": "Rich Hein",
+      "description": "I used free AI running on my mini PC to identify, rename, and organize more than 240 photos without uploading a single one.",
+      "link": "https://www.howtogeek.com/i-used-free-local-ai-to-organize-hundreds-of-photos-without-uploading-a-single-one/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/local-llm-hero-1.jpeg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://hackaday.com/?p=1397250",
       "title": "FloppoScope is a Disk Image Analyzer",
