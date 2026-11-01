@@ -1,9 +1,23 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-01T12:33:29.261239+00:00",
-  "count": 430,
+  "updated": "2026-11-01T13:02:30.405873+00:00",
+  "count": 432,
   "summary": null,
   "items": [
+    {
+      "id": "https://shkspr.mobi/blog/?p=65267",
+      "title": "10 Years on Mastodon",
+      "published": "2026-11-01T12:34:18+00:00",
+      "author": "Terence Eden",
+      "description": "As of today, I've been on the Mastodon social network for 10 years. I think that deserves a little reflection and celebration. Post by @Edent@mastodon.social View on Mastodon Social networks often launch in a blaze of glory but limp out of existence within a year or so. How many services have you signed up to, only to gradually drift away from? If you're anything like me, your password…",
+      "link": "https://shkspr.mobi/blog/2026/11/10-years-on-mastodon/",
+      "image": "https://shkspr.mobi/blog/wp-content/themes/edent-wordpress-theme/info/okgo.php?ID=65267&HTTP_REFERER=Atom",
+      "feed_name": "Terence Eden’s Blog",
+      "feed_title": "Terence Eden’s Blog",
+      "category": "personal blogs",
+      "feed_url": "https://shkspr.mobi/blog/feed/atom/",
+      "feed_icon": "https://shkspr.mobi/blog/wp-content/uploads/2023/07/cropped-avatar-32x32.jpeg"
+    },
     {
       "id": "https://paulrobertlloyd.com/2026/305/n1/",
       "title": "",
@@ -31,6 +45,20 @@
       "category": "personal blogs",
       "feed_url": "https://elizabethtai.com/feed/",
       "feed_icon": "https://elizabethtai.com/wp-content/uploads/2023/02/cropped-site-flavicon.png?w=32"
+    },
+    {
+      "id": "https://jamesiv.es/blog/making-source-engine-sprays-in-the-browser/",
+      "title": "Making Source Engine Sprays in the Browser",
+      "published": "2026-11-01T05:00:00+00:00",
+      "author": null,
+      "description": "How Valve's VTF spray format works, and what it took to build a spray maker for Source and GoldSrc games that runs in the browser.",
+      "link": "https://jamesiv.es/blog/making-source-engine-sprays-in-the-browser/",
+      "image": "https://jamesiv.es/_astro/meta.Bfj48Nxr_Z170FNE.jpg",
+      "feed_name": "James Ives",
+      "feed_title": "James Ives",
+      "category": "personal blogs",
+      "feed_url": "https://jamesiv.es/feeds/rss.xml",
+      "feed_icon": "https://jamesiv.es/images/logo.png"
     },
     {
       "id": "opencode-codemode",
