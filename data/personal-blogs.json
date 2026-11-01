@@ -1,9 +1,37 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-01T20:02:49.625260+00:00",
-  "count": 430,
+  "updated": "2026-11-01T20:32:14.706038+00:00",
+  "count": 433,
   "summary": null,
   "items": [
+    {
+      "id": "https://thomasrigby.com/posts/2026-w44/",
+      "title": "Weeknotes: 2026-W44",
+      "published": "2026-11-01T20:10:20+00:00",
+      "author": "Thomas Rigby (rss@thomasrigby.com)",
+      "description": "In which I get needled, channel my inner Motorhead, and get a taste of Norn Irn",
+      "link": "https://thomasrigby.com/posts/2026-w44/",
+      "image": "https://thomasrigby.com/images/DWXVKio0rV-600.jpeg",
+      "feed_name": "Thomas Rigby",
+      "feed_title": "Thomas Rigby",
+      "category": "personal blogs",
+      "feed_url": "https://thomasrigby.com/feed.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thomasrigby.com&sz=64"
+    },
+    {
+      "id": "https://ronaldsvilcins.com/2026/11/01/how-i-check-my-rss-subscriber-count/",
+      "title": "How I Check My RSS Subscriber Count",
+      "published": "2026-11-01T20:02:17+00:00",
+      "author": "Ronalds Vilciņš",
+      "description": "My RSS subscriber count comes from reader-reported totals stored in Cloudflare D1. Here is how I check the estimate and understand what it leaves out.",
+      "link": "https://ronaldsvilcins.com/2026/11/01/how-i-check-my-rss-subscriber-count/",
+      "image": "https://ronaldsvilcins.com/og/2a1e801ee3c409f393347264058519c569d1c6163f905c851c193ab9fd020f5a.jpg",
+      "feed_name": "Ronalds Vilciņš",
+      "feed_title": "Ronalds Vilciņš",
+      "category": "personal blogs",
+      "feed_url": "https://ronaldsvilcins.com/atom.xml",
+      "feed_icon": "https://ronaldsvilcins.com/favicon.png"
+    },
     {
       "id": "https://dariuszwinkler.com/blog/digital-home/",
       "title": "My new digital home",
@@ -201,6 +229,20 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=hamatti.org&sz=64"
     },
     {
+      "id": "https://zander.wtf/blog/2026-11-01-pr-elsewhere/",
+      "title": "PR Elsewhere",
+      "published": "2026-11-01T00:00:00+00:00",
+      "author": "Zander Martineau",
+      "description": "PR Elsewhere is a Chrome extension that adds a View in menu to GitHub pull requests, and it's now on the Chrome Web Store.",
+      "link": "https://zander.wtf/blog/2026-11-01-pr-elsewhere/",
+      "image": "https://zander.wtf/opengraph/2026-11-01-pr-elsewhere/og.png",
+      "feed_name": "Hi! I'm Zander, I make websites",
+      "feed_title": "Hi! I'm Zander, I make web things",
+      "category": "personal blogs",
+      "feed_url": "https://zander.wtf/blog.rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=zander.wtf&sz=64"
+    },
+    {
       "id": "https://thomasrigby.com/posts/great-british-book-off/",
       "title": "Great British Book Off",
       "published": "2026-10-31T21:29:24+00:00",
@@ -381,6 +423,20 @@
       "category": "personal blogs",
       "feed_url": "https://andrewmiracle.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=andrewmiracle.com&sz=64"
+    },
+    {
+      "id": "https://zander.wtf/blog/2026-10-31-watts-up/",
+      "title": "Watts Up",
+      "published": "2026-10-31T00:00:00+00:00",
+      "author": "Zander Martineau",
+      "description": "Watts Up is a Raycast extension that shows your MacBook's charger wattage, charging power and battery health, and it's now on the Raycast store.",
+      "link": "https://zander.wtf/blog/2026-10-31-watts-up/",
+      "image": "https://zander.wtf/opengraph/2026-10-31-watts-up/og.png",
+      "feed_name": "Hi! I'm Zander, I make websites",
+      "feed_title": "Hi! I'm Zander, I make web things",
+      "category": "personal blogs",
+      "feed_url": "https://zander.wtf/blog.rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=zander.wtf&sz=64"
     },
     {
       "id": "https://geoffgraham.me/?p=4962",
@@ -5295,20 +5351,6 @@
       "category": "personal blogs",
       "feed_url": "https://paulrobertlloyd.com/feed.xml",
       "feed_icon": "/assets/icons/icon-192-any.png"
-    },
-    {
-      "id": "6aa83dea1c0014e1299ebb0a",
-      "title": "Issue 110 – The Clarity Act collapses",
-      "published": "2026-10-02T20:29:05+00:00",
-      "author": "Molly White",
-      "description": "Regulators race to reassure the crypto industry as the industry’s flagship legislation collapses, SBF tries his luck with the Supreme Court, and crypto PACs unleash $30 million against Sherrod Brown",
-      "link": "https://www.citationneeded.news/issue-110/",
-      "image": "https://www.citationneeded.news/content/images/2026/10/gillibrand-clarity-1.png",
-      "feed_name": "Citation Needed",
-      "feed_title": "Citation Needed",
-      "category": "personal blogs",
-      "feed_url": "https://www.citationneeded.news/rss/",
-      "feed_icon": "https://www.citationneeded.news/favicon.png"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",

@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-01T20:02:49.625260+00:00",
-  "count": 563,
+  "updated": "2026-11-01T20:32:14.706038+00:00",
+  "count": 565,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/oldest-com-domain-still-online-symbolics/",
+      "title": "The internet's oldest '.com' domain is still alive, and you can visit it right now",
+      "published": "2026-11-01T20:30:16+00:00",
+      "author": "Oluwademilade Afolabi",
+      "description": "This domain was old before Google was even an idea.",
+      "link": "https://www.makeuseof.com/oldest-com-domain-still-online-symbolics/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/symbolics-com-open-in-a-modern-web-browser-showing-its-1985-registration-date.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/hidden-esp32-project-costs/",
+      "title": "5 hidden ESP32 project costs I forgot when I bought the cheap board",
+      "published": "2026-11-01T20:30:15+00:00",
+      "author": "Adam Davidson",
+      "description": "The true cost of cheap.",
+      "link": "https://www.howtogeek.com/hidden-esp32-project-costs/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/08/esp32-dev-board-on-wood-desk.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/excel-can-predict-next-years-numbers-with-one-button/",
       "title": "Excel can predict next year’s numbers with one button, and it shows how sure it is",

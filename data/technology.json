@@ -1,9 +1,23 @@
 {
   "category": "technology",
-  "updated": "2026-11-01T20:02:49.625260+00:00",
+  "updated": "2026-11-01T20:32:14.706038+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://linux.slashdot.org/story/26/11/01/2012246/ai-makes-linux-74-merge-window-the-largest-in-kernel-history?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "title": "AI Makes Linux 7.4 Merge Window the Largest in Kernel History",
+      "published": "2026-11-01T20:14:00+00:00",
+      "author": "EditorDavid",
+      "description": "\"On a Git commit basis, the Linux 7.4 merge window has been the busiest on record,\" writes Phoronix,\" with 19,671 commits since Linux 7.3: As of this morning in Linux Git ahead of v7.4-rc1, the kernel source tree is up to 41,605,120 lines. That's from 5,193,578 blank lines, 4,993,604 lines of comments, and 31,417,938 lines of detected code. Or nearly half a million lines of code added during the Linux 7.4 merge window, ignoring comments and blank lines [as detected by cloc ]. A historical graph…",
+      "link": "https://linux.slashdot.org/story/26/11/01/2012246/ai-makes-linux-74-merge-window-the-largest-in-kernel-history?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+      "feed_name": "Slashdot",
+      "feed_title": "Slashdot",
+      "category": "technology",
+      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
+    },
     {
       "id": "https://www.theverge.com/?p=1024232",
       "title": "Flock keeps ignoring requests to cancel its contracts",
@@ -13989,20 +14003,6 @@
       "category": "technology",
       "feed_url": "https://lifehacker.com/rss",
       "feed_icon": "https://www.google.com/s2/favicons?domain=lifehacker.com&sz=64"
-    },
-    {
-      "id": "TheNextWeb=7e126bc8fb86a8cb152765761138ae35",
-      "title": "Tesla built the Cybercab’s battery pack with room for cheaper LFP cells",
-      "published": "2026-10-27T15:20:46+00:00",
-      "author": "Darius Popa",
-      "description": "Tesla designed the Cybercab’s battery pack with spare space so it can later use cheaper lithium iron phosphate (LFP) cells, battery engineer Robert Sumpf told Munro Live. The robotaxi now uses Tesla’s 4680 cells. Tesla also said the Cybercab line can build cars faster than it deploys them. Tesla designed the battery pack in its […] This story continues at The Next Web",
-      "link": "https://thenextweb.com/news/tesla-cybercab-lfp-battery-pack",
-      "image": "https://media.thenextweb.com/2026/08/Tesla-Cybercab.avif",
-      "feed_name": "The Next Web",
-      "feed_title": "The Next Web",
-      "category": "technology",
-      "feed_url": "https://thenextweb.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
     }
   ]
 }
