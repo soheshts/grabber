@@ -1,9 +1,23 @@
 {
   "category": "science",
-  "updated": "2026-11-01T00:02:59.432809+00:00",
+  "updated": "2026-11-01T00:32:46.047595+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "news712327876",
+      "title": "This oddball reflective lava world is challenging to understand",
+      "published": "2026-11-01T00:30:01+00:00",
+      "author": null,
+      "description": "Among Kepler and TESS's many surprising exoplanet discoveries are the ultra-short-period (USP) planets. These planets move very quickly and complete an orbit in less than 24 hours. Ancient astronomers thought that Mercury was so fast—it goes around the sun every 88 days—that they named it after the Roman god Mercury, who was the fast-traveling messenger of the gods. They couldn't have known how sluggish Mercury is compared to the USPs.",
+      "link": "https://phys.org/news/2026-10-oddball-lava-world.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/this-artists-illustrat.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
     {
       "id": "0de3154d-0f17-4d7a-9cc1-b96ed26f458a",
       "title": "Lost In Space With Dr. Kirsten Banks (495)",
@@ -13989,20 +14003,6 @@
       "category": "science",
       "feed_url": "https://sciencebasedmedicine.org/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=sciencebasedmedicine.org&sz=64"
-    },
-    {
-      "id": "urn:bbc:podcast:w3ct8jt0",
-      "title": "The Life Scientific: Ginger Kerrick",
-      "published": "2026-10-05T20:00:00+00:00",
-      "author": "BBC World Service",
-      "description": "What do you do when your childhood dream of becoming an astronaut is grounded at the final hurdle? If you’re physicist Ginger Kerrick, you go on to help run the missions instead. After failing the medical of her astronaut application process, Ginger went on to become Nasa’s first non-astronaut CAPCOM and its first Hispanic female Flight Director. Across a remarkable three-decade career, she helped train the International Space Station’s first long-term crew, logged thousands of hours in Mission…",
-      "link": "http://www.bbc.co.uk/programmes/w3ct8jt0",
-      "image": null,
-      "feed_name": "Discovery",
-      "feed_title": "Discovery",
-      "category": "science",
-      "feed_url": "https://podcasts.files.bbci.co.uk/p002w557.rss",
-      "feed_icon": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0p7r0yl.jpg"
     }
   ]
 }
