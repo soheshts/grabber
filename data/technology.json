@@ -1,9 +1,23 @@
 {
   "category": "technology",
-  "updated": "2026-11-01T23:02:31.861978+00:00",
+  "updated": "2026-11-01T23:32:44.675673+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.engadget.com/2300309/how-to-clean-playstation-5-without-damaging/",
+      "title": "How to clean your PlayStation 5 without damaging it",
+      "published": "2026-11-01T23:00:00+00:00",
+      "author": "Thomas Godwin",
+      "description": "Your PS5 requires occasional maintenance to run at its best, but it only needs a light touch.",
+      "link": "https://www.engadget.com/2300309/how-to-clean-playstation-5-without-damaging/",
+      "image": "https://www.engadget.com/img/gallery/how-to-clean-your-playstation-5-without-damaging-it/l-intro-1793029905.jpg",
+      "feed_name": "Engadget",
+      "feed_title": "Engadget - Technology News & Expert Reviews",
+      "category": "technology",
+      "feed_url": "https://www.engadget.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
     {
       "id": "https://tech.slashdot.org/story/26/11/01/229250/systemds-creator-opens-signups-for-private-preview-of-amutables-cryptographically-verified-linux-systems?utm_source=rss1.0mainlinkanon&utm_medium=feed",
       "title": "SystemD's Creator Opens Signups for Private Preview of Amutable's Cryptographically Verified Linux Systems",
@@ -17,6 +31,20 @@
       "category": "technology",
       "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
       "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
+    },
+    {
+      "id": "https://www.engadget.com/2300395/which-samsung-s-pens-located-with-smartthings-find/",
+      "title": "Which Samsung S Pens can be located using SmartThings Find?",
+      "published": "2026-11-01T22:00:00+00:00",
+      "author": "Husain Parvez",
+      "description": "Not all of Samsung's S Pens are made the same. Only one of them can be found through the SmartThings Find network.",
+      "link": "https://www.engadget.com/2300395/which-samsung-s-pens-located-with-smartthings-find/",
+      "image": "https://www.engadget.com/img/gallery/which-samsung-s-pens-can-be-located-using-smartthings-find/l-intro-1793021774.jpg",
+      "feed_name": "Engadget",
+      "feed_title": "Engadget - Technology News & Expert Reviews",
+      "category": "technology",
+      "feed_url": "https://www.engadget.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
     },
     {
       "id": "https://slashdot.org/story/26/11/01/2130258/religious-exemption-from-using-ai-in-workplace-granted-to-humanist?utm_source=rss1.0mainlinkanon&utm_medium=feed",
@@ -13975,34 +14003,6 @@
       "category": "technology",
       "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
       "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
-    },
-    {
-      "id": "https://www.theverge.com/?p=1019076",
-      "title": "Google’s next Genie AI model generates more realistic experiences",
-      "published": "2026-10-27T16:00:00+00:00",
-      "author": "Jay Peters",
-      "description": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, and uses Gemini 3.8 Flash under the hood to help […]",
-      "link": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-26-at-3.00.35-PM.png?quality=90&strip=all&crop=0,0,100,100",
-      "feed_name": "The Verge -  All Posts",
-      "feed_title": "The Verge",
-      "category": "technology",
-      "feed_url": "https://www.theverge.com/rss/index.xml",
-      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
-    },
-    {
-      "id": "https://www.theverge.com/?p=1019298",
-      "title": "My favorite robot vacuum just got quieter, and more expensive",
-      "published": "2026-10-27T16:00:00+00:00",
-      "author": "Jennifer Pattison Tuohy",
-      "description": "Matic, the company behind my favorite robot vacuum, is launching its first new model since its 2023 debut: the Matic Serene. The new robotic floor cleaner has one key upgrade: noise reduction. With a promised output of just 52 decibels at its highest suction level, the Serene claims to be about as quiet as a […]",
-      "link": "https://www.theverge.com/tech/1019298/matic-serene-robot-vacuum-price-specs-release-date",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/matic_yoga_serene-20.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "feed_name": "The Verge -  All Posts",
-      "feed_title": "The Verge",
-      "category": "technology",
-      "feed_url": "https://www.theverge.com/rss/index.xml",
-      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
     }
   ]
 }
