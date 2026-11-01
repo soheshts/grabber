@@ -1,9 +1,51 @@
 {
   "category": "World News",
-  "updated": "2026-11-01T20:32:14.706038+00:00",
+  "updated": "2026-11-01T21:03:30.152141+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo#0",
+      "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire expires",
+      "published": "2026-11-01T21:01:58+00:00",
+      "author": null,
+      "description": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.",
+      "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8e6/live/7871d270-d627-11f1-a947-0507737f09b2.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/01/world/germany-russia-putin-deals-us-midterms.html",
+      "title": "A Lesson From Germany",
+      "published": "2026-11-01T20:45:44+00:00",
+      "author": "Katrin Bennhold",
+      "description": "Trump is betting on economic incentives to stop Putin in Ukraine. Germany’s experience shows why that strategy is risky.",
+      "link": "https://www.nytimes.com/2026/11/01/world/germany-russia-putin-deals-us-midterms.html",
+      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02int-theworld-trump-ostpolitik-02-mltw-promo/02int-theworld-trump-ostpolitik-02-mltw-promo-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/uk/a-12-year-old-boy-from-south-london-has-raised-more-than-13000-for-endangered-wildlife-built-a-35000-strong-online-following-and-caught-david-attenboroughs-attention-through-his-animal-videos-and-campaigns/articleshow/135428246.cms",
+      "title": "12-year-old London boy raises £13,000 for wildlife, wins Attenborough's praise",
+      "published": "2026-11-01T20:25:00+00:00",
+      "author": "TOI World Desk",
+      "description": "",
+      "link": "https://timesofindia.indiatimes.com/world/uk/a-12-year-old-boy-from-south-london-has-raised-more-than-13000-for-endangered-wildlife-built-a-35000-strong-online-following-and-caught-david-attenboroughs-attention-through-his-animal-videos-and-campaigns/articleshow/135428246.cms",
+      "image": "https://static.toiimg.com/photo/msid-135428362,imgsize-829483.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
     {
       "id": "https://timesofindia.indiatimes.com/science/archaeology/neanderthal-skeleton-reveals-evidence-of-targeted-violence-a-75000-year-old-murder-mystery-uncovered-by-scientists/articleshow/135426863.cms",
       "title": "A Neanderthal who died 75,000 years ago may have been killed by a wooden spear deliberately aimed at his heart, scientists say, offering rare evidence of targeted violence among our closest ancient relatives",
@@ -47,6 +89,20 @@
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
+      "id": "t3_1xld0ya",
+      "title": "Canadian PM Mark Carney says he had a ‘good conversation’ with Donald Trump",
+      "published": "2026-11-01T20:08:34+00:00",
+      "author": "/u/Immediate-Link490",
+      "description": "submitted by /u/Immediate-Link490 [link] [comments]",
+      "link": "https://www.reddit.com/r/worldnews/comments/1xld0ya/canadian_pm_mark_carney_says_he_had_a_good/",
+      "image": "https://external-preview.redd.it/sewe-QDVYp79ynwaKectjXgLcSdKzROsshZz1GmJClI.jpeg?width=640&crop=smart&auto=webp&s=a08f7bc14404786d895e10c3e1ccfc94ec90a3d3",
+      "feed_name": "World News",
+      "feed_title": "World News",
+      "category": "World News",
+      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
+      "feed_icon": "https://www.redditstatic.com/icon.png/"
+    },
+    {
       "id": "https://www.theguardian.com/australia-news/2026/nov/02/northern-territory-water-plan-condemned-as-blatant-and-shameless-attack-on-nature",
       "title": "Northern Territory water plan condemned as ‘blatant and shameless’ attack on nature",
       "published": "2026-11-01T20:02:57+00:00",
@@ -87,20 +143,6 @@
       "category": "World News",
       "feed_url": "https://www.theguardian.com/world/rss",
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo#0",
-      "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire to end",
-      "published": "2026-11-01T19:48:17+00:00",
-      "author": null,
-      "description": "A rare humanitarian ceasefire has allowed civilians to evacuate the Russian-occupied city of Oleshky.",
-      "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8e6/live/7871d270-d627-11f1-a947-0507737f09b2.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/us/an-82-year-old-florida-man-has-spent-seven-decades-collecting-magazines-photographs-and-celebrity-memorabilia-his-one-man-museum-now-includes-a-thank-you-letter-from-elizabeth-taylor/articleshow/135425118.cms",
@@ -779,7 +821,7 @@
       "title": "AI is stealing Indigenous Australian art and churning out ‘Temu slop’, artist says",
       "published": "2026-11-01T14:00:13+00:00",
       "author": "Tory Shepherd",
-      "description": "Chair of National Gallery’s First Nations advisory group says the technology is undermining artists’ agency and the authenticity of their work Get our breaking news email , free app or daily news podcast AI is taking First Nations art and turning it into “Temu slop”, the Pitjantjatjara artist Sally Scales has said. Scales, the chair of the National Gallery of Australia’s First Nations advisory group, said the technology is undermining the agency of First Nations artists and the authenticity of…",
+      "description": "Chair of National Gallery’s First Nations advisory group says the technology is undermining artists’ agency and the authenticity of their work Get our breaking news email , free app or daily news podcast AI is taking First Nations art and turning it into “Temu slop”, the Pitjantjatjara artist Sally Scales has said. Scales, the chair of the National Gallery of Australia’s First Nations advisory group, says the technology is undermining the agency of First Nations artists and the authenticity of…",
       "link": "https://www.theguardian.com/artanddesign/2026/nov/02/ai-stealing-indigenous-australian-art-temu-slop-artist-says-ntwnfb",
       "image": "https://i.guim.co.uk/img/media/d42e0956def730a6b1eb335fab858536fb224a9c/224_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a512af4d09236ad3d151d20d51c1b1e2",
       "feed_name": "The Guardian",
@@ -3913,7 +3955,7 @@
     {
       "id": "https://www.nytimes.com/2026/10/31/world/canada/national-ballet-canada-carney.html",
       "title": "75 Years On, the National Ballet of Canada ‘Remains the Icon’",
-      "published": "2026-10-31T10:00:08+00:00",
+      "published": "2026-10-31T10:00:09+00:00",
       "author": "Ian Austen",
       "description": "The dance company started on a shoestring and went on to become internationally acclaimed.",
       "link": "https://www.nytimes.com/2026/10/31/world/canada/national-ballet-canada-carney.html",
@@ -13961,48 +14003,6 @@
       "category": "World News",
       "feed_url": "https://www.reddit.com/r/worldnews/.rss",
       "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/ck4g1xe5xny4o#2",
-      "title": "How did Flávio Bolsonaro end up in Miami?",
-      "published": "2026-10-28T18:51:05+00:00",
-      "author": null,
-      "description": "BBC Verify has pieced together defeated presidential candidate Flávio Bolsonaro's journey through Brazil, Argentina and Ecuador to reach Miami.",
-      "link": "https://www.bbc.co.uk/news/videos/ck4g1xe5xny4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9c9/live/0a0506e0-d2f8-11f1-a701-fddedf244c16.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/benjamin-netanyahus-poll-stolen-charge-at-arab-parties-amid-fractured-mandate-12250870#publisher=newsstand",
-      "title": "Netanyahu's \"Poll Stolen\" Charge At Arab Parties Amid Fractured Mandate",
-      "published": "2026-10-28T18:44:26+00:00",
-      "author": null,
-      "description": "Netanyahu's Likud party has not been able to secure a majority",
-      "link": "https://www.ndtv.com/world-news/benjamin-netanyahus-poll-stolen-charge-at-arab-parties-amid-fractured-mandate-12250870#publisher=newsstand",
-      "image": "https://i.ndtvimg.com/i/2015-03/benjamin-netanyahu_650x400_61426369659.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
-      "id": "https://www.nytimes.com/live/2026/10/28/world/israel-elections/israels-opposition-may-not-be-able-to-form-a-government-but-it-still-could-control-parliament",
-      "title": "Israel’s opposition may not be able to form a government, but it still could control Parliament.",
-      "published": "2026-10-28T18:38:34+00:00",
-      "author": "Isabel Kershner",
-      "description": "Empty seats at the Knesset, the Israeli Parliament, following a vote to dissolve the assembly in May ahead of the elections.",
-      "link": "https://www.nytimes.com/live/2026/10/28/world/israel-elections/israels-opposition-may-not-be-able-to-form-a-government-but-it-still-could-control-parliament",
-      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28israel-parliament-topart-01-wbfv/28israel-parliament-topart-01-wbfv-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     }
   ]
 }
