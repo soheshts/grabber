@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-01T09:32:55.780098+00:00",
-  "count": 428,
+  "updated": "2026-11-01T10:03:17.228079+00:00",
+  "count": 429,
   "summary": null,
   "items": [
     {
@@ -73,6 +73,20 @@
       "category": "personal blogs",
       "feed_url": "https://giuseppegurgone.com/feed.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=giuseppegurgone.com&sz=64"
+    },
+    {
+      "id": "https://kittygiraudel.com/2026/11/01/playing-with-css-layers/",
+      "title": "Playing with CSS Layers",
+      "published": "2026-11-01T00:00:00+00:00",
+      "author": "Kitty Giraudel",
+      "description": "A short piece to share that I’ve implemented CSS layers on my website, and the few things I’ve learned on the way.",
+      "link": "https://kittygiraudel.com/2026/11/01/playing-with-css-layers/",
+      "image": "https://kittygiraudel.com/assets/images/playing-with-css-layers/banner.avif",
+      "feed_name": "Hugo Giraudel",
+      "feed_title": "Kitty Giraudel",
+      "category": "personal blogs",
+      "feed_url": "https://hugogiraudel.com/rss/index.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=kittygiraudel.com&sz=64"
     },
     {
       "id": "https://ronaldsvilcins.com/2026/11/01/let-components-react-to-css-variables-with-style-queries/",
