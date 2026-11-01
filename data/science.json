@@ -1,9 +1,23 @@
 {
   "category": "science",
-  "updated": "2026-11-01T06:02:48.568916+00:00",
+  "updated": "2026-11-01T06:32:22.078155+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c617kvqjd81jo#1",
+      "title": "Rare damselfly spotted by restored chalk river",
+      "published": "2026-11-01T06:19:16+00:00",
+      "author": null,
+      "description": "The Herts and Middlesex Trust says it is \"thrilled\" the new wetlands are helping species thrive.",
+      "link": "https://www.bbc.co.uk/news/articles/c617kvqjd81jo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be44/live/3aea5d10-d2d9-11f1-b677-b762d2f83f6e.jpg",
+      "feed_name": "BBC News - Science & Environment",
+      "feed_title": "BBC News",
+      "category": "science",
+      "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
     {
       "id": "https://www.sciencedaily.com/releases/2026/10/261031221201.htm",
       "title": "Scientists say a forgotten particle may explain why the universe exists",
@@ -13989,20 +14003,6 @@
       "category": "science",
       "feed_url": "http://rss.sciam.com/sciam/60secsciencepodcast",
       "feed_icon": "https://megaphone.imgix.net/podcasts/9e578524-a403-11ee-a6cf-cbcdcc0e11fb/image/ec5ff1c72de2a19d67bc6425661674b1.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
-    },
-    {
-      "id": "5c22eeae-ba64-11f0-8bbb-a3d8e9298804",
-      "title": "Fibermaxxing FTW: Meet the Neglected Nutrient That's the Key to Health",
-      "published": "2026-10-06T23:32:00+00:00",
-      "author": "Cynthia Graber and Nicola Twilley",
-      "description": "Move over protein, it's time to fibermaxx! Fiber has always been the neglected stepchild of nutrients: it's never been seen as essential, and some of its earliest enthusiasts were poop-obsessed oddballs. Take the inventor of cornflakes, John Harvey Kellogg. Inspired by the gorillas he saw at the zoo, he was fiber's first popular champion—but he also went around making people sniff his own perfect poops, and he believed that eating a plant-based, fiber-heavy, and condiment-free diet would help a…",
-      "link": null,
-      "image": null,
-      "feed_name": "Gastropod",
-      "feed_title": "Gastropod",
-      "category": "science",
-      "feed_url": "https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/2a195077-f014-41d2-8313-ab190186b4c2/277bcd5c-0a05-4c14-8ba6-ab190186b4d5/podcast.rss",
-      "feed_icon": "https://megaphone.imgix.net/podcasts/97d6d85e-e320-11eb-be6b-3ff4d7cb8782/image/3af290d77dd48789f45dcd5a93483cd1.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
     }
   ]
 }
