@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-01T12:02:49.642094+00:00",
-  "count": 524,
+  "updated": "2026-11-01T12:33:29.261239+00:00",
+  "count": 527,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/amazon-has-a-hidden-about-you-page-that-knows-your-interests-how-to-find-yours/",
+      "title": "How to find the hidden Amazon page that reveals what it knows about you",
+      "published": "2026-11-01T12:31:16+00:00",
+      "author": "Jack Mitchell",
+      "description": "Amazon secretly builds a detailed shopper profile page that offers some surprisingly accurate — and some not so accurate — insights.",
+      "link": "https://www.makeuseof.com/amazon-has-a-hidden-about-you-page-that-knows-your-interests-how-to-find-yours/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/amazon-about-you-desktop.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/the-disc-promised-1000-years-its-maker-didnt-last-a-decade/",
+      "title": "This disc promised 1,000 years. Its maker didn’t last a decade",
+      "published": "2026-11-01T12:30:15+00:00",
+      "author": "Sydney Butler",
+      "description": "A mineral-etched DVD claimed millennia of durability while optical drives vanished and startups folded.",
+      "link": "https://www.howtogeek.com/the-disc-promised-1000-years-its-maker-didnt-last-a-decade/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/09/an-lg-blu-ray-drive-with-m-disc-support-in-an-external-enclosure.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/fresh-windows-11-install-runs-in-the-background/",
       "title": "I checked what a fresh Windows 11 install runs in the background, and 6 things had no reason to be there",
@@ -31,6 +59,20 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://hackaday.com/?p=1397181",
+      "title": "Turning Syngas into Hydrocarbons with the Right Alpha",
+      "published": "2026-11-01T12:00:34+00:00",
+      "author": "Maya Posch",
+      "description": "Although the Fischer-Tropsch synthesis (F-T synthesis) process is well-known and on face value quite straightforward, using it for DIY production of a somewhat defined length hydrocarbons is fairly tricky. This …read more",
+      "link": "https://hackaday.com/2026/11/01/turning-syngas-into-hydrocarbons-with-the-right-alpha/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/10/fischer-tropsch_synthesis_reactor_hyperspace_pirate_youtube.jpg",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
     },
     {
       "id": "https://www.makeuseof.com/how-to-play-xbox-360-games-on-your-android-phone-in-buttery-smooth-60fps/",

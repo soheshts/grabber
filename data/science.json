@@ -1,9 +1,23 @@
 {
   "category": "science",
-  "updated": "2026-11-01T12:02:49.642094+00:00",
+  "updated": "2026-11-01T12:33:29.261239+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c64g18lkz0kno#1",
+      "title": "Aquarium shark that helped 'dispel myths' dies",
+      "published": "2026-11-01T12:13:50+00:00",
+      "author": null,
+      "description": "Staff at Plymouth's aquarium pay tribute to a sand tiger shark believed to be almost 30 years old.",
+      "link": "https://www.bbc.co.uk/news/articles/c64g18lkz0kno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e6e/live/db0e3e20-d472-11f1-9dda-1ba6fcc7d159.png",
+      "feed_name": "BBC News - Science & Environment",
+      "feed_title": "BBC News",
+      "category": "science",
+      "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
     {
       "id": "news712579746",
       "title": "Breaking the ice: Scientists use attracting particles to form an anti-spin ice",
@@ -87,6 +101,20 @@
       "category": "science",
       "feed_url": "https://www.wired.com/feed/category/science/latest/rss",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.wired.com&sz=64"
+    },
+    {
+      "id": "https://www.scientificamerican.com/article/these-tattoos-can-magically-disappear-heres-how-they-work/",
+      "title": "These tattoos can magically' disappear—here’s how they work",
+      "published": "2026-11-01T10:00:00+00:00",
+      "author": null,
+      "description": "How handy would it be if you could make your tattoos invisible for a job interview in the morning and reveal them again for a party in the evening?",
+      "link": "https://www.scientificamerican.com/article/these-tattoos-can-magically-disappear-heres-how-they-work/",
+      "image": "https://static.scientificamerican.com/dam/asset/e6cd783d-3103-4c5a-81cb-4a0040596f03/UV-tattoos.jpg?m=1793391494.117&w=1200",
+      "feed_name": "Scientific American Content: Global",
+      "feed_title": "Scientific American Content: Global",
+      "category": "science",
+      "feed_url": "http://rss.sciam.com/ScientificAmerican-Global",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.scientificamerican.com&sz=64"
     },
     {
       "id": "https://www.bbc.co.uk/news/videos/crwyd2lyj15go#0",
@@ -13975,34 +14003,6 @@
       "category": "science",
       "feed_url": "https://podcasts.files.bbci.co.uk/p002w557.rss",
       "feed_icon": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0p7r0yl.jpg"
-    },
-    {
-      "id": "5d6b4eed-3721-40dd-aaee-fefd332cf286",
-      "title": "Why Am I Unhappy?",
-      "published": "2026-10-12T17:35:10+00:00",
-      "author": "Hidden Brain Media",
-      "description": "We often imagine that feelings of unhappiness come from outside us — in our circumstances or the difficult people in our lives. But what if the forces that erode our happiness come from within? Psychologist George Loewenstein joins us to explore why our minds nudge us toward the negative, even when we want to feel happy. He also offers ways to better understand these forces and lessen their power over us. And on Your Questions Answered, psychologist Alison Ledgerwood returns to respond to your…",
-      "link": "https://www.hiddenbrain.org/",
-      "image": null,
-      "feed_name": "Hidden Brain",
-      "feed_title": "Hidden Brain",
-      "category": "science",
-      "feed_url": "https://feeds.npr.org/510308/podcast.xml",
-      "feed_icon": "https://image.simplecastcdn.com/images/5982e1b7-239c-4b89-81f9-49df1f33fdae/dd71b17c-82bb-441d-a979-e16975aebc1c/3000x3000/hbtilewshankarfinal_rgbsimplecast.jpg?aid=rss_feed"
-    },
-    {
-      "id": "6ac7affae2a72faefc1e8d12",
-      "title": "How to make parenting less lonely | Stacey McLachlan",
-      "published": "2026-10-12T15:00:00+00:00",
-      "author": "TED",
-      "description": "When parents first have kids, some risk entering “the loneliest decade,” where they fall out of touch with friends. Writer Stacey McLachlan decided to do something different when she had her daughter, refusing to let her social life slip away. In this witty talk, she shares her solution — and why it matters for all of us. Hosted on Acast. See acast.com/privacy for more information.",
-      "link": "http://go.ted.com/staceymclachlan",
-      "image": null,
-      "feed_name": "TED Talks Daily (SD video)",
-      "feed_title": "TED Talks Daily",
-      "category": "science",
-      "feed_url": "https://pa.tedcdn.com/feeds/talks.rss",
-      "feed_icon": "https://assets.pippa.io/shows/67587e77c705e441797aff96/show-cover.png"
     }
   ]
 }
