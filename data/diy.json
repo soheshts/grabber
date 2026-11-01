@@ -1,9 +1,51 @@
 {
   "category": "DIY",
-  "updated": "2026-11-01T14:32:14.557096+00:00",
-  "count": 537,
+  "updated": "2026-11-01T15:02:54.012776+00:00",
+  "count": 540,
   "summary": null,
   "items": [
+    {
+      "id": "https://hackaday.com/?p=1397250",
+      "title": "FloppoScope is a Disk Image Analyzer",
+      "published": "2026-11-01T15:00:36+00:00",
+      "author": "Zoe Skyforest",
+      "description": "If you’re a big retro tech fan, you might still have a floppy drive on hand, or even some sort of high-end disk imaging solution. If you’re a little less …read more",
+      "link": "https://hackaday.com/2026/11/01/flopposcope-is-a-disk-image-analyzer/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/10/disk_layout_zoom_in_4c6843-e1793511476720.png",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
+    {
+      "id": "https://www.makeuseof.com/these-router-defaults-could-be-holding-back-your-wi-fi-without-you-realizing-it/",
+      "title": "These 4 router defaults could be holding back your Wi-Fi without you realizing it",
+      "published": "2026-11-01T15:00:16+00:00",
+      "author": "Oluwaseun Bamisile",
+      "description": "Your router’s default settings are built for convenience, not speed.",
+      "link": "https://www.makeuseof.com/these-router-defaults-could-be-holding-back-your-wi-fi-without-you-realizing-it/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/deco-x50-router.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/off-grid-messaging-get-started-lora-meshtastic/",
+      "title": "Off-grid messaging: How to get started with LoRa and Meshtastic",
+      "published": "2026-11-01T15:00:15+00:00",
+      "author": "Tim Brookes",
+      "description": "No internet required.",
+      "link": "https://www.howtogeek.com/off-grid-messaging-get-started-lora-meshtastic/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2025/07/the-lilygo-t-echo-lora-radio-on-a-table-plugged-into-a-laptop-1.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/replaced-google-photos-with-an-app-that-keeps-photos-private-even-from-its-own-servers/",
       "title": "I replaced Google Photos with an app that keeps my photos private, even from its own servers",
