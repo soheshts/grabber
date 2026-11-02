@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-02T04:02:24.146090+00:00",
-  "count": 580,
+  "updated": "2026-11-02T04:33:36.211596+00:00",
+  "count": 581,
   "summary": null,
   "items": [
+    {
+      "id": "https://hackaday.com/?p=1397431&preview=true&preview_id=1397431",
+      "title": "Hackaday Links: November 1, 2026",
+      "published": "2026-11-02T03:00:09+00:00",
+      "author": "Tom Nardi",
+      "description": "We’re less than a week away from the 2026 Hackaday Supercon, and things are getting a little… intense. So we trust you’ll forgive us if this week’s post weighs in …read more",
+      "link": "https://hackaday.com/2026/11/01/hackaday-links-november-1-2026/",
+      "image": "https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/haiku-os-makes-more-sense-for-old-hardware-why-it-beats-linux-on-ancient-machines/",
       "title": "Forget lightweight Linux, this forgotten OS is reviving ancient PCs",
