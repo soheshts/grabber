@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-02T00:32:22.848945+00:00",
-  "count": 579,
+  "updated": "2026-11-02T01:03:45.269989+00:00",
+  "count": 580,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.howtogeek.com/haiku-os-makes-more-sense-for-old-hardware-why-it-beats-linux-on-ancient-machines/",
+      "title": "Forget lightweight Linux, this forgotten OS is reviving ancient PCs",
+      "published": "2026-11-02T01:00:15+00:00",
+      "author": "Arol Wright",
+      "description": "All isn't lost with your old PC.",
+      "link": "https://www.howtogeek.com/haiku-os-makes-more-sense-for-old-hardware-why-it-beats-linux-on-ancient-machines/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/haiku-os-running-on-vm-hero.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/open-source-web-editor-turns-display-into-home-assistant-dashboard/",
       "title": "This open-source web editor turns a $25 AliExpress display into a Home Assistant dashboard",
