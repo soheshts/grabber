@@ -1,7 +1,7 @@
 {
   "category": "funny",
-  "updated": "2026-11-02T20:33:31.430383+00:00",
-  "count": 320,
+  "updated": "2026-11-02T21:03:44.858552+00:00",
+  "count": 321,
   "summary": null,
   "items": [
     {
@@ -297,6 +297,20 @@
       "category": "funny",
       "feed_url": "http://syndication.thedailywtf.com/TheDailyWtf",
       "feed_icon": "https://www.google.com/s2/favicons?domain=thedailywtf.com&sz=64"
+    },
+    {
+      "id": "https://xkcd.com/3319/",
+      "title": "Elevators",
+      "published": "2026-11-02T05:00:00+00:00",
+      "author": null,
+      "description": "",
+      "link": "https://xkcd.com/3319/",
+      "image": "https://imgs.xkcd.com/comics/elevators.png",
+      "feed_name": "xkcd.com",
+      "feed_title": "xkcd.com",
+      "category": "funny",
+      "feed_url": "https://xkcd.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=xkcd.com&sz=64"
     },
     {
       "id": "https://cheezburger.com/47272197/neighbor-offered-california-homeowners-driveway-as-parking-to-guests-until-one-visitor-closed-the",

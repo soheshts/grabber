@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-02T20:33:31.430383+00:00",
-  "count": 447,
+  "updated": "2026-11-02T21:03:44.858552+00:00",
+  "count": 445,
   "summary": null,
   "items": [
     {
@@ -5519,34 +5519,6 @@
       "category": "personal blogs",
       "feed_url": "http://www.bennadel.com/index.cfm?dax=blog.rss&lst_tag_id=14,16,3,5,9,6,7,13,18,20,10,15",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.bennadel.com&sz=64"
-    },
-    {
-      "id": "http://nolanlawson.com/?p=20001",
-      "title": "Why don’t more developers “use the platform”?",
-      "published": "2026-10-03T20:49:29+00:00",
-      "author": "Nolan Lawson",
-      "description": "For years, advocates for web standards, performance, and accessibility have implored web developers to “use the platform”. I’ve often been one of those advocates. The argument is simple: why build something yourself, in JavaScript, when the browser can do it for you? Whatever you build, it’s likely…",
-      "link": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
-      "image": "https://nolanlawson.com/_astro/dragndrop.CW1aBe6Q_ZIsssE.webp",
-      "feed_name": "Read the Tea Leaves",
-      "feed_title": "Read the Tea Leaves",
-      "category": "personal blogs",
-      "feed_url": "https://nolanlawson.com/feed/",
-      "feed_icon": "https://nolanlawson.com/favicon.png"
-    },
-    {
-      "id": "https://nerdy.dev/page-view-count-regression-fixed?utm_source=rss",
-      "title": "Page View Count Regression Fixed",
-      "published": "2026-10-03T20:45:16+00:00",
-      "author": "webmaster@admin",
-      "description": "Page view counts regressed Oct 1 and were fixed just now. Hopefully those historical counts can be retrieved or fixed; working on it.",
-      "link": "https://nerdy.dev/page-view-count-regression-fixed?utm_source=rss",
-      "image": null,
-      "feed_name": "Adam Argyle",
-      "feed_title": "Adam Argyle",
-      "category": "personal blogs",
-      "feed_url": "https://nerdy.dev/rss.xml",
-      "feed_icon": "https://nerdy.dev/rss-icon.png"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
