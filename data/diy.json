@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-01T23:32:44.675673+00:00",
-  "count": 577,
+  "updated": "2026-11-02T00:02:35.358744+00:00",
+  "count": 579,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.howtogeek.com/open-source-web-editor-turns-display-into-home-assistant-dashboard/",
+      "title": "This open-source web editor turns a $25 AliExpress display into a Home Assistant dashboard",
+      "published": "2026-11-02T00:00:15+00:00",
+      "author": "Umair Khurshid",
+      "description": "PowerPoint energy, Home Assistant nerdiness, and a whole lot less firmware pain!",
+      "link": "https://www.howtogeek.com/open-source-web-editor-turns-display-into-home-assistant-dashboard/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/a-guition-esp32-s3-touchscreen-displays-a-vesp-cloud-dashboard-with-light-controls-a-digital-clock-and-climate-settings.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://hackaday.com/?p=1397252",
+      "title": "Cheap FPGA Board Becomes Retro-Style Computer",
+      "published": "2026-11-02T00:00:00+00:00",
+      "author": "Zoe Skyforest",
+      "description": "The Tang Nano 9K is a cheap FPGA development board that can usually be acquired for around $15 or so. [ThePartsBin] has been experimenting with this hardware and figured out …read more",
+      "link": "https://hackaday.com/2026/11/01/cheap-fpga-board-becomes-retro-style-computer/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/10/Screenshot-2026-11-01-171115-e1793513503988.png",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/local-llm-control-thermostat-versus-nest-and-ecobee/",
       "title": "I let a local LLM control my thermostat to see if it could beat Nest and Ecobee",
