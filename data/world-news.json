@@ -1,9 +1,51 @@
 {
   "category": "World News",
-  "updated": "2026-11-02T22:02:59.504732+00:00",
+  "updated": "2026-11-02T22:32:58.943260+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "108505005",
+      "title": "Palantir reports booming U.S. commercial revenue growth, topping government for first time",
+      "published": "2026-11-02T22:22:00+00:00",
+      "author": null,
+      "description": "Palantir's commercial revenue jumped 148% to $984 million, surpassing government revenue of $953 million.",
+      "link": "https://www.cnbc.com/2026/11/02/palantir-pltr-earnings-q3-2026.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108369598-1790701524916-gettyimages-2297198796-TRUMP_TECH_AI.jpeg?v=1790701583&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.theguardian.com/australia-news/2026/nov/03/australia-social-media-ban-high-court-challenge-reddit-digital-freedom-project",
+      "title": "Reddit and libertarian group challenge Australia’s under-16s social media ban in high court",
+      "published": "2026-11-02T22:09:35+00:00",
+      "author": "Josh Taylor Technology reporter",
+      "description": "Social network and Digital Freedom Project, led by NSW state MP John Ruddick, seek to overturn ban on grounds of implied freedom of political communication Australia’s world-leading under-16s social media ban will face its first major legal challenge on Tuesday, as Reddit and an advocacy group headed by a libertarian politician seek to overturn the law in the high court. Nearly 11 months ago, 10 platforms – Snapchat, TikTok, YouTube, Facebook, Instagram, Reddit, Kick, X, Twitch and Threads – we…",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/03/australia-social-media-ban-high-court-challenge-reddit-digital-freedom-project",
+      "image": "https://i.guim.co.uk/img/media/16ee33b934a4ab917511d1197550b8271b7c221c/686_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f09e77d835684492a914a116a265621a",
+      "feed_name": "The Guardian",
+      "feed_title": "World news | The Guardian",
+      "category": "World News",
+      "feed_url": "https://www.theguardian.com/world/rss",
+      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
+    {
+      "id": "t3_1xmay2e",
+      "title": "Explosions and Air-Defense Activity Reported on Iran’s Qeshm Island",
+      "published": "2026-11-02T22:01:25+00:00",
+      "author": "/u/Odd-Complex8103",
+      "description": "submitted by /u/Odd-Complex8103 [link] [comments]",
+      "link": "https://www.reddit.com/r/worldnews/comments/1xmay2e/explosions_and_airdefense_activity_reported_on/",
+      "image": "https://external-preview.redd.it/gQQXGXUOHTZ_pb72AIq1_85aDxOOAhkvwu48ge4Kx1w.jpeg?width=640&crop=smart&auto=webp&s=a31d28d2eb62e09bb3c18b589ef6cd5bebd8967b",
+      "feed_name": "World News",
+      "feed_title": "World News",
+      "category": "World News",
+      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
+      "feed_icon": "https://www.redditstatic.com/icon.png/"
+    },
     {
       "id": "108490442",
       "title": "Intel foundry push faces critical test after stock's 45% plunge in October",
@@ -12,20 +54,6 @@
       "description": "Intel’s turnaround now hinges on proving its foundry strategy can deliver, as customers look for signs the company will add fab capacity and catch TSMC",
       "link": "https://www.cnbc.com/2026/11/02/intel-foundry-faces-critical-test-after-stocks-45percent-plunge-in-october.html",
       "image": "https://image.cnbcfm.com/api/v1/image/108477596-1793228649614-gettyimages-2298424248-JAPAN_INTEL.jpeg?v=1793228835&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "108505005",
-      "title": "Palantir reports booming U.S. commercial revenue growth, topping government for first time",
-      "published": "2026-11-02T21:46:56+00:00",
-      "author": null,
-      "description": "Palantir's commercial revenue jumped 148% to $984 million, surpassing government revenue of $953 million.",
-      "link": "https://www.cnbc.com/2026/11/02/palantir-pltr-earnings-q3-2026.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108369598-1790701524916-gettyimages-2297198796-TRUMP_TECH_AI.jpeg?v=1790701583&w=1920&h=1080",
       "feed_name": "CNBC",
       "feed_title": "International: Top News And Analysis",
       "category": "World News",
@@ -91,7 +119,7 @@
     {
       "id": "https://www.nytimes.com/2026/11/02/travel/odyssey-cruise-ship-cambodia-auction.html",
       "title": "Odyssey ‘Endless Cruise’ Ship Stranded in Cambodia May Be Headed for Auction Block",
-      "published": "2026-11-02T21:18:59+00:00",
+      "published": "2026-11-02T21:19:00+00:00",
       "author": "Ceylan Yeğinsu",
       "description": "Efforts to pull together more funding for the ship, stuck in Cambodia, appear to have faltered, leaving its passengers unsure about what to do next.",
       "link": "https://www.nytimes.com/2026/11/02/travel/odyssey-cruise-ship-cambodia-auction.html",
@@ -217,7 +245,7 @@
     {
       "id": "https://www.nytimes.com/2026/11/02/world/middleeast/iran-deal-strait-of-hormuz.html",
       "title": "Iran Says It Would Reopen Strait of Hormuz in 2 Days as Part of U.S. Deal",
-      "published": "2026-11-02T20:25:33+00:00",
+      "published": "2026-11-02T20:25:34+00:00",
       "author": "Erika Solomon, Sanam Mahoozi, Adam Rasgon and Vivian Nereim",
       "description": "Iranian officials spoke of some progress in negotiating to reopen the strait even as they prepared for all-out war. A Qatari delegation arrived in Tehran on Monday to meet with the foreign minister to continue talks.",
       "link": "https://www.nytimes.com/2026/11/02/world/middleeast/iran-deal-strait-of-hormuz.html",
@@ -1496,20 +1524,6 @@
       "description": "Growing disdain for gambling and animal cruelty concerns drive sliding interest in race that once ‘stopped the nation’ Get our breaking news email , free app or daily news podcast A record number of Australians are turning their backs on the Melbourne Cup, with more than two-thirds surveyed saying they have low or zero interest in the annual horse race. Support for the Melbourne Cup has been sliding consistently for a number of years, but the Guardian Essential poll found just 9% of Australians…",
       "link": "https://www.theguardian.com/sport/2026/nov/03/melbourne-cup-2026-poll-record-numbers-turn-their-backs",
       "image": "https://i.guim.co.uk/img/media/18e539c086a5485a2841f913bd3235e357321865/519_0_3714_2971/master/3714.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2fd9887585665475917b841977f7dfed",
-      "feed_name": "The Guardian",
-      "feed_title": "World news | The Guardian",
-      "category": "World News",
-      "feed_url": "https://www.theguardian.com/world/rss",
-      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
-    },
-    {
-      "id": "https://www.theguardian.com/australia-news/2026/nov/03/australia-social-media-ban-high-court-challenge-reddit-digital-freedom-project",
-      "title": "Reddit and libertarian group challenge Australia’s under-16s social media ban in high court",
-      "published": "2026-11-02T14:00:44+00:00",
-      "author": "Josh Taylor Technology reporter",
-      "description": "Social network and Digital Freedom Project, led by NSW state MP John Ruddick, seek to overturn ban on grounds of implied freedom of political communication Australia’s world-leading under-16s social media ban will face its first major legal challenge on Tuesday, as Reddit and an advocacy group headed by a libertarian politician seek to overturn the law in the high court. Nearly 11 months ago, 10 platforms – Snapchat, TikTok, YouTube, Facebook, Instagram, Reddit, Kick, X, Twitch and Threads – we…",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/03/australia-social-media-ban-high-court-challenge-reddit-digital-freedom-project",
-      "image": "https://i.guim.co.uk/img/media/16ee33b934a4ab917511d1197550b8271b7c221c/686_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f09e77d835684492a914a116a265621a",
       "feed_name": "The Guardian",
       "feed_title": "World news | The Guardian",
       "category": "World News",
@@ -13989,20 +14003,6 @@
       "category": "World News",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "https://www.ndtv.com/india-news/whose-peace-how-a-1361-english-law-lives-on-in-delhis-bond-cases-of-cjps-ashutosh-ranka-saurav-das-and-aisas-neha-bora-12249121#publisher=newsstand",
-      "title": "From King Edward III To Neha Bora, A 1361 Law Lives On In 'Peace Bonds': NDTV Explains",
-      "published": "2026-10-29T16:31:03+00:00",
-      "author": null,
-      "description": "Edward III of England enacted the Justice of Peace Act, which evolved over seven centuries.",
-      "link": "https://www.ndtv.com/india-news/whose-peace-how-a-1361-english-law-lives-on-in-delhis-bond-cases-of-cjps-ashutosh-ranka-saurav-das-and-aisas-neha-bora-12249121#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-10/0jovm8eo_edward-iii-neha-bora-and-peace-bond_625x300_28_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     }
   ]
 }
