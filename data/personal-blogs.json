@@ -1,9 +1,23 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-02T00:02:35.358744+00:00",
+  "updated": "2026-11-02T00:32:22.848945+00:00",
   "count": 439,
   "summary": null,
   "items": [
+    {
+      "id": "com.seldo/posts/a-proposal-how-to-hire-junior-engineers-in-the-age-of-ai",
+      "title": "A proposal: how to hire junior engineers in the age of AI",
+      "published": "2026-11-02T00:26:48+00:00",
+      "author": null,
+      "description": "About six weeks ago I wrote We are all Product Engineers now , an exploration of what LLM-written code is doing to the job of software development. A few weeks after that I turned it into an AI Engineer New York talk , which at a quarter-million views is now by far the most-watched talk I’ve ever given. The talk and the post both end with an exhortation: we have to figure out how to hire new engineers to do the vastly-changed job of software development now that “programming” isn’t part of that…",
+      "link": "https://seldo.com/posts/a-proposal-how-to-hire-junior-engineers-in-the-age-of-ai",
+      "image": null,
+      "feed_name": "Seldo.com RSS Feed",
+      "feed_title": "Seldo.com",
+      "category": "personal blogs",
+      "feed_url": "https://seldo.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=seldo.com&sz=64"
+    },
     {
       "id": "https://thomasrigby.com/posts/til-the-angelis-brothers/",
       "title": "#TIL: The Angelis Brothers",
@@ -5421,20 +5435,6 @@
       "category": "personal blogs",
       "feed_url": "http://www.bennadel.com/index.cfm?dax=blog.rss&lst_tag_id=14,16,3,5,9,6,7,13,18,20,10,15",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.bennadel.com&sz=64"
-    },
-    {
-      "id": "https://nerdy.dev/transitioning-field-sizing-content-with-css?utm_source=rss",
-      "title": "Transitioning Field Sizing Content With CSS",
-      "published": "2026-10-03T00:04:08+00:00",
-      "author": "atom@argyleink",
-      "description": "Neat CSS trick: Use anchor to track the size changes in a textarea (or whatever) and transition instead of instantly update 🤘🏻 See on Codepen",
-      "link": "https://nerdy.dev/transitioning-field-sizing-content-with-css?utm_source=rss",
-      "image": null,
-      "feed_name": "Adam Argyle",
-      "feed_title": "Adam Argyle",
-      "category": "personal blogs",
-      "feed_url": "https://nerdy.dev/rss.xml",
-      "feed_icon": "https://nerdy.dev/rss-icon.png"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
