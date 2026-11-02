@@ -1,9 +1,65 @@
 {
   "category": "World News",
-  "updated": "2026-11-02T05:02:29.561663+00:00",
+  "updated": "2026-11-02T05:33:07.660673+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "108499880",
+      "title": "Binance sees $3.64 billion in net outflows as withdrawals resume after massive hack",
+      "published": "2026-11-02T05:09:45+00:00",
+      "author": null,
+      "description": "Binance recorded $3.64 billion in net outflows after resuming withdrawals following a $6.3 billion hack, representing 2.1% of its total assets.",
+      "link": "https://www.cnbc.com/2026/11/02/binance-outflow-hack-bitcoin.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108486123-1793363750138-gettyimages-2302145323-Binance.jpeg?v=1793363814&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "108500930",
+      "title": "Oil prices fall amid reports that the U.S. and Iran are both seeking diplomacy",
+      "published": "2026-11-02T05:04:26+00:00",
+      "author": null,
+      "description": "Oil fell Monday, amid news that both the U.S. and Iran are pursuing diplomacy amid ongoing Mideast tensions",
+      "link": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108405351-1791927798323-gettyimages-2299513882-AFP_D3722F9.jpeg?v=1791980526&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/02/world/canada/this-hour-has-22-minutes-trump-carney.html",
+      "title": "‘This Hour Has 22 Minutes,’ a Canadian Sketch Show, Beats American Late Night to the Punchline",
+      "published": "2026-11-02T05:01:07+00:00",
+      "author": "Shawna Richer",
+      "description": "The long-running comedy show “This Hour Has 22 Minutes” is having a heyday playing with the fraught relationship between President Trump and Canada.",
+      "link": "https://www.nytimes.com/2026/11/02/world/canada/this-hour-has-22-minutes-trump-carney.html",
+      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02int-canada-us-comedy-vtfm/02int-canada-us-comedy-vtfm-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/02/world/asia/chinas-message-to-its-rivals-you-need-what-we-make.html",
+      "title": "China’s Message to Its Rivals: You Need What We Make",
+      "published": "2026-11-02T05:00:08+00:00",
+      "author": "David Pierson and Berry Wang",
+      "description": "It’s not just rare earths. China is making it harder for other countries to shed their dependence on its solar, drone and drugmaking technology.",
+      "link": "https://www.nytimes.com/2026/11/02/world/asia/chinas-message-to-its-rivals-you-need-what-we-make.html",
+      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02int-china-export-controls-01-pqvb/02int-china-export-controls-01-pqvb-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "https://timesofindia.indiatimes.com/world/us/a-kentucky-man-married-his-partner-of-nearly-30-years-in-a-hospital-15-days-before-she-died-after-her-daughter-challenged-the-ceremony-an-october-30-appeals-court-overturned-the-ruling-that-had-voided-the-marriage/articleshow/135424622.cms",
       "title": "US man marries dying partner in hospital, court reverses ruling voiding marriage",
@@ -11,7 +67,7 @@
       "author": "TOI World Desk",
       "description": "A Kentucky man who married his partner of nearly 30 years in hospital just 15 days before her death has won an appeal after her daughter challenged the marriage. The daughter questioned her mother's ability to consent and how the marriage licence was obtained. On Friday, the Kentucky Court of Appeals overturned the ruling invalidating the marriage and ordered further examination of the case.",
       "link": "https://timesofindia.indiatimes.com/world/us/a-kentucky-man-married-his-partner-of-nearly-30-years-in-a-hospital-15-days-before-she-died-after-her-daughter-challenged-the-ceremony-an-october-30-appeals-court-overturned-the-ruling-that-had-voided-the-marriage/articleshow/135424622.cms",
-      "image": "https://static.toiimg.com/photo/msid-135425041,imgsize-2742.cms",
+      "image": "https://static.toiimg.com/photo/msid-135446223,imgsize-135090.cms",
       "feed_name": "Times of India",
       "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
       "category": "World News",
@@ -353,20 +409,6 @@
       "category": "World News",
       "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "108499880",
-      "title": "Binance sees $3.64 billion in net outflows as withdrawals resume after massive hack",
-      "published": "2026-11-02T00:11:37+00:00",
-      "author": null,
-      "description": "Binance recorded $3.64 billion in net outflows after resuming withdrawals following a $6.3 billion hack, representing 2.1% of its total assets.",
-      "link": "https://www.cnbc.com/2026/11/02/binance-outflow-hack-bitcoin.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108486123-1793363750138-gettyimages-2302145323-Binance.jpeg?v=1793363814&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
       "id": "https://www.theguardian.com/australia-news/2026/nov/02/nationals-leader-matt-canavan-one-nation-james-ashby-capricornia-election-ntwnfb",
@@ -13961,48 +14003,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo#1",
-      "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
-      "published": "2026-10-28T21:16:30+00:00",
-      "author": null,
-      "description": "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs.",
-      "link": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85bb/live/bcdd9ca0-d384-11f1-b5f4-fd541fd21001.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo#0",
-      "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
-      "published": "2026-10-28T21:16:30+00:00",
-      "author": null,
-      "description": "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs.",
-      "link": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85bb/live/bcdd9ca0-d384-11f1-b5f4-fd541fd21001.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "t3_1xi0pmi",
-      "title": "Nord Stream won't reopen after the war, Brussels tells US and Russia",
-      "published": "2026-10-28T21:12:01+00:00",
-      "author": "/u/Not_Tom_Jones",
-      "description": "submitted by /u/Not_Tom_Jones [link] [comments]",
-      "link": "https://www.reddit.com/r/worldnews/comments/1xi0pmi/nord_stream_wont_reopen_after_the_war_brussels/",
-      "image": "https://external-preview.redd.it/AaZOF_l920JLf9d6E7gfG-nyF_ZRfzsaSEvsGv9SIIs.jpeg?width=640&crop=smart&auto=webp&s=748a525fcc97857760f31868dabc665b49a51622",
-      "feed_name": "World News",
-      "feed_title": "World News",
-      "category": "World News",
-      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
-      "feed_icon": "https://www.redditstatic.com/icon.png/"
     }
   ]
 }
