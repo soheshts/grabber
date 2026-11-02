@@ -1,9 +1,37 @@
 {
   "category": "technology",
-  "updated": "2026-11-02T11:03:07.194167+00:00",
+  "updated": "2026-11-02T11:33:36.300565+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.engadget.com/2303590/apple-is-reportedly-launching-three-new-ipads-early-next-year/",
+      "title": "Apple is reportedly launching three new iPads early next year",
+      "published": "2026-11-02T11:12:11+00:00",
+      "author": "Steve Dent",
+      "description": "Follow its iPad mini launch last week, Apple may unveil three new iPad models early next year.",
+      "link": "https://www.engadget.com/2303590/apple-is-reportedly-launching-three-new-ipads-early-next-year/",
+      "image": "https://www.engadget.com/img/gallery/apple-is-reportedly-launching-three-new-ipads-early-next-year/l-intro-1793617622.jpg",
+      "feed_name": "Engadget",
+      "feed_title": "Engadget - Technology News & Expert Reviews",
+      "category": "technology",
+      "feed_url": "https://www.engadget.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
+    {
+      "id": "TheNextWeb=123d2237c6949e27b9985fa67acc3783",
+      "title": "North Korean hackers used AI in crypto heists record $6bn Binance theft",
+      "published": "2026-11-02T11:11:10+00:00",
+      "author": "Ana Maria Constantin",
+      "description": "North Korean hackers may be using AI to plan and carry out cryptocurrency thefts, according to security experts cited in a Bloomberg report published on Monday. They point to the growing complexity and precision of recent attacks, including last week’s record theft from Binance. The use of AI has not been confirmed, and Bloomberg presents […] This story continues at The Next Web",
+      "link": "https://thenextweb.com/news/north-korean-hackers-ai-crypto-heists-binance",
+      "image": "https://media.thenextweb.com/2026/11/bitcoin-ethereum-coins-binance-logo.avif",
+      "feed_name": "The Next Web",
+      "feed_title": "The Next Web",
+      "category": "technology",
+      "feed_url": "https://thenextweb.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
     {
       "id": "https://stratechery.com/?p=20740",
       "title": "Google Earnings, Facebook Déjà Vu, The Agent Play",
@@ -13975,34 +14003,6 @@
       "category": "technology",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
-    },
-    {
-      "id": "https://arstechnica.com/culture/2026/10/warner-bros-drops-final-trailer-for-dune-part-three/",
-      "title": "Warner Bros. drops final trailer for Dune: Part Three",
-      "published": "2026-10-27T18:05:55+00:00",
-      "author": "Jennifer Ouellette",
-      "description": "\"After years of combat, I've become the oppressor Chani had sworn to fight.\"",
-      "link": "https://arstechnica.com/culture/2026/10/warner-bros-drops-final-trailer-for-dune-part-three/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/dune1-500x500-1793122976.jpg",
-      "feed_name": "Ars Technica",
-      "feed_title": "Ars Technica - All content",
-      "category": "technology",
-      "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
-      "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
-    },
-    {
-      "id": "yt:video:ZbmAv0O_Cmg",
-      "title": "Inside the early days of the AI revolution | The Vergecast",
-      "published": "2026-10-27T18:03:06+00:00",
-      "author": "The Verge",
-      "description": "Kevin Roose's new book, The AGI Chronicles, tells the story of the AI revolution. He joins the show to explain its earliest beginnings: the researchers who discovered what language models could do, the people who debated whether humans or computers should are more special, and the executives who started the companies that currently rule our economy. What do they want, and what are they building? 0:00 Intro 00:18 90 Seconds on The Verge 01:53 Introducing AGI Chronicles 03:41 Google and DeepMind…",
-      "link": "https://www.youtube.com/watch?v=ZbmAv0O_Cmg",
-      "image": "https://i3.ytimg.com/vi/ZbmAv0O_Cmg/hqdefault.jpg",
-      "feed_name": "The Verge",
-      "feed_title": "The Verge",
-      "category": "technology",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?user=TheVerge",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64"
     }
   ]
 }
