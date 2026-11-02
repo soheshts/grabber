@@ -1,9 +1,23 @@
 {
   "category": "science",
-  "updated": "2026-11-02T10:32:46.333421+00:00",
+  "updated": "2026-11-02T11:03:07.194167+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "news712574401",
+      "title": "Enzyme found to have surprising role in earliest infant gut microbiome development",
+      "published": "2026-11-02T11:00:01+00:00",
+      "author": null,
+      "description": "Microbiologists have found that an enzyme not normally associated with microbial activities in the human gut has a role in how some bacteria access key nutrients in breast milk.",
+      "link": "https://phys.org/news/2026-10-enzyme-role-earliest-infant-gut.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/infant-6.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
     {
       "id": "https://www.nytimes.com/2026/11/02/science/animals-grief-death.html",
       "title": "Do Animals Grieve?",
@@ -13989,20 +14003,6 @@
       "category": "science",
       "feed_url": "http://rss.sciam.com/sciam/60secsciencepodcast",
       "feed_icon": "https://megaphone.imgix.net/podcasts/9e578524-a403-11ee-a6cf-cbcdcc0e11fb/image/ec5ff1c72de2a19d67bc6425661674b1.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
-    },
-    {
-      "id": "https://sciencebasedmedicine.org/?p=125185",
-      "title": "Why cancer patients choose “integrative oncology” and what they get: Perception vs. reality",
-      "published": "2026-10-19T07:00:00+00:00",
-      "author": "David Gorski",
-      "description": "Two recent studies, one from France and one from Taiwan, examine why patients seek \"integrative\" oncology and what they get. An undercover investigation shows how divorced from reality their perception is. The post Why cancer patients choose “integrative oncology” and what they get: Perception vs. reality first appeared on Science-Based Medicine .",
-      "link": "https://sciencebasedmedicine.org/why-cancer-patients-choose-integrative-oncology-and-what-they-get-perception-vs-reality/?utm_source=rss&utm_medium=rss&utm_campaign=why-cancer-patients-choose-integrative-oncology-and-what-they-get-perception-vs-reality",
-      "image": "https://sciencebasedmedicine.org/wp-content/uploads/2021/06/integrative-pseudoscience-480x270.jpg",
-      "feed_name": "Science-Based Medicine",
-      "feed_title": "Science-Based Medicine",
-      "category": "science",
-      "feed_url": "https://sciencebasedmedicine.org/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=sciencebasedmedicine.org&sz=64"
     }
   ]
 }
