@@ -1,9 +1,37 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-02T12:04:05.072391+00:00",
-  "count": 438,
+  "updated": "2026-11-02T12:33:18.745245+00:00",
+  "count": 440,
   "summary": null,
   "items": [
+    {
+      "id": "https://rknight.me/blog/st-jude-drawings-gallery/",
+      "title": "St Jude Drawings Gallery",
+      "published": "2026-11-02T12:28:00+00:00",
+      "author": "Robb Knight",
+      "description": "A gallery of all the drawings I did for St Jude this year",
+      "link": "https://rknight.me/blog/st-jude-drawings-gallery/",
+      "image": "https://cdn.rknight.me/site/2026/st-jude-drawings-collage.jpg",
+      "feed_name": "Robb Knight • Posts • Atom Feed",
+      "feed_title": "Robb Knight • Posts • Atom Feed",
+      "category": "personal blogs",
+      "feed_url": "https://rknight.me/feed.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=rknight.me&sz=64"
+    },
+    {
+      "id": "https://hey.georgie.nu/jervis-bay/",
+      "title": "Weekend in Jervis Bay",
+      "published": "2026-11-02T12:02:00+00:00",
+      "author": null,
+      "description": "My first time in Jervis Bay, a coastal town a few hours out of Sydney, for a friend’s birthday.",
+      "link": "https://hey.georgie.nu/jervis-bay/",
+      "image": "https://hey.georgie.nu/images/_2026/jervis/thumbnail.jpg",
+      "feed_name": "Hey Georgie",
+      "feed_title": "Hey Georgie",
+      "category": "personal blogs",
+      "feed_url": "https://hey.georgie.nu/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hey.georgie.nu&sz=64"
+    },
     {
       "id": "https://mattgemmell.scot/books/once-upon-a-time/stories/the-old/",
       "title": "Mini-story: The Old",
@@ -527,7 +555,7 @@
       "title": "Day trip to Beitou Hot Spring Village and Tamsui",
       "published": "2026-10-31T12:00:00+00:00",
       "author": null,
-      "description": "",
+      "description": "A visit to the hot springs town, enjoying public hot baths, and then a couple of night markets and food.",
       "link": "https://hey.georgie.nu/beitou-tamsui/",
       "image": "https://hey.georgie.nu/images/_2026/beitou/thumbnail.jpg",
       "feed_name": "Hey Georgie",

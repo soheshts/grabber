@@ -1,9 +1,93 @@
 {
   "category": "World News",
-  "updated": "2026-11-02T12:04:05.072391+00:00",
+  "updated": "2026-11-02T12:33:18.745245+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o#0",
+      "title": "Ryanair says it may freeze workers' pay and raise airfares",
+      "published": "2026-11-02T12:22:10+00:00",
+      "author": null,
+      "description": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.",
+      "link": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/895b/live/a85523b0-d691-11f1-8f56-0b6ab08f384e.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/us/arnold-schwarzenegger-backed-a-project-to-plant-traditional-fig-trees-in-uganda-the-initiative-aims-to-restore-forests-while-protecting-local-livelihoods/articleshow/135452034.cms",
+      "title": "Arnold Schwarzenegger backs Uganda fig project to restore forests and aid locals",
+      "published": "2026-11-02T12:20:00+00:00",
+      "author": "TOI World Desk",
+      "description": "",
+      "link": "https://timesofindia.indiatimes.com/world/us/arnold-schwarzenegger-backed-a-project-to-plant-traditional-fig-trees-in-uganda-the-initiative-aims-to-restore-forests-while-protecting-local-livelihoods/articleshow/135452034.cms",
+      "image": "https://static.toiimg.com/photo/msid-135452207,imgsize-1843924.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/02/world/middleeast/israel-election-prime-minister.html",
+      "title": "Netanyahu and Eisenkot Seek Shot to Be Israel’s Premier",
+      "published": "2026-11-02T12:13:26+00:00",
+      "author": "Aaron Boxerman",
+      "description": "Party leaders will make competing cases to the Israeli president for either Benjamin Netanyahu or Gadi Eisenkot to get the first chance to build a governing coalition.",
+      "link": "https://www.nytimes.com/2026/11/02/world/middleeast/israel-election-prime-minister.html",
+      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02int-israel-wrangling-mgkf/02int-israel-wrangling-mgkf-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "t3_1xlvfth",
+      "title": "Zelenskyy: Ukraine will halt strikes on Russian refineries if US provides interceptors",
+      "published": "2026-11-02T12:07:43+00:00",
+      "author": "/u/Ceyyhun",
+      "description": "submitted by /u/Ceyyhun [link] [comments]",
+      "link": "https://www.reddit.com/r/worldnews/comments/1xlvfth/zelenskyy_ukraine_will_halt_strikes_on_russian/",
+      "image": "https://external-preview.redd.it/ChRhTysqG4Sztdxbw1-NeBx1xJWQMEuzXXr3BC6znSE.jpeg?width=640&crop=smart&auto=webp&s=752a07d63a862f38b813714c22a3afad1add1c92",
+      "feed_name": "World News",
+      "feed_title": "World News",
+      "category": "World News",
+      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
+      "feed_icon": "https://www.redditstatic.com/icon.png/"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/02/science/animals-grief-death.html",
+      "title": "Do Animals Grieve?",
+      "published": "2026-11-02T12:07:41+00:00",
+      "author": "Emily Anthes",
+      "description": "The feeling of existential loss was long thought to be uniquely human. But studies of coyotes, cockatoos and other creatures are prompting some scientists to reconsider.",
+      "link": "https://www.nytimes.com/2026/11/02/science/animals-grief-death.html",
+      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/00SCI-UNKNOWNS-ANIMALGRIEF-hero-01-gzbw/00SCI-UNKNOWNS-ANIMALGRIEF-hero-01-gzbw-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c8zxlqxwed4do#1",
+      "title": "Uganda begins withdrawing troops from Somalia after 20 years",
+      "published": "2026-11-02T12:05:34+00:00",
+      "author": null,
+      "description": "The country was the first to contribute troops to the AU mission established to stabilise Somalia in 2007.",
+      "link": "https://www.bbc.co.uk/news/articles/c8zxlqxwed4do?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c17/live/01b6a350-d68f-11f1-b7fe-13bd08d80ad6.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo#0",
       "title": "Supermarket freezers in Belgium, Sweden and Luxembourg hit by suspected cyber-attack",
@@ -19,6 +103,20 @@
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
+      "id": "https://timesofindia.indiatimes.com/world/us/who-was-the-female-pilot-in-the-learjet-60-crash-intense-social-media-speculation-over-alexandra-dudgeon-nathalia-filguerias-as-identity-kept-under-wraps/articleshow/135460830.cms",
+      "title": "Who was the female pilot in the Learjet 60 crash? Intense social media speculation over Alexandra Dudgeon, Nathalia Filguerias as identity kept under wraps",
+      "published": "2026-11-02T11:54:14+00:00",
+      "author": "Poulomi Ghosh",
+      "description": "As no names of the victims of the Learjet plane crash have been revealed, social media speculations were intense. Alexandra Dudgeon was named as the female pilot of the doomed plane for a few hours after the crash with no official confirmation. Dudgeon apparently issued a statement asserting that she was not on the plane. Then social media speculations picked one Nathalia Filgueiras as the female pilot. There has been no official confirmation, only social media speculations.",
+      "link": "https://timesofindia.indiatimes.com/world/us/who-was-the-female-pilot-in-the-learjet-60-crash-intense-social-media-speculation-over-alexandra-dudgeon-nathalia-filguerias-as-identity-kept-under-wraps/articleshow/135460830.cms",
+      "image": "https://static.toiimg.com/photo/msid-135461015,imgsize-38770.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
       "id": "https://www.nytimes.com/2026/11/02/world/europe/pope-plane-shepherd-one-flights.html",
       "title": "Up in the Clouds With the Pope, It’s Still Commercial",
       "published": "2026-11-02T11:49:16+00:00",
@@ -31,20 +129,6 @@
       "category": "World News",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o#0",
-      "title": "Ryanair says it may freeze workers' pay and raise airfares",
-      "published": "2026-11-02T11:27:25+00:00",
-      "author": null,
-      "description": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.",
-      "link": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/895b/live/a85523b0-d691-11f1-8f56-0b6ab08f384e.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/us/a-california-accountant-told-investors-their-money-would-fund-backyard-homes-but-no-homes-were-built-and-more-than-8-2-million-vanished-in-risky-trading-he-has-now-been-sentenced-to-63-months-in-prison/articleshow/135450352.cms",
@@ -257,20 +341,6 @@
       "feed_icon": "https://www.redditstatic.com/icon.png/"
     },
     {
-      "id": "https://www.nytimes.com/2026/11/02/world/middleeast/israel-election-prime-minister.html",
-      "title": "Netanyahu and Eisenkot Seek Shot to Be Israel’s Premier",
-      "published": "2026-11-02T10:30:54+00:00",
-      "author": "Aaron Boxerman",
-      "description": "Party leaders will make competing cases to the Israeli president for either Benjamin Netanyahu or Gadi Eisenkot to get the first chance to build a governing coalition.",
-      "link": "https://www.nytimes.com/2026/11/02/world/middleeast/israel-election-prime-minister.html",
-      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02int-israel-wrangling-mgkf/02int-israel-wrangling-mgkf-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
       "id": "https://www.ndtv.com/opinion/us-has-no-election-commission-trump-is-testing-what-that-can-mean-12270841#publisher=newsstand",
       "title": "Opinion: Opinion | US Has No 'Election Commission'. Trump Is Testing What That Can Mean",
       "published": "2026-11-02T10:14:39+00:00",
@@ -320,20 +390,6 @@
       "description": "During the king’s visits to three former colonies, many people came out for celebratory parades and events. Others said the British state needed to atone for slavery’s toll.",
       "link": "https://www.nytimes.com/2026/11/02/world/europe/king-charles-caribbean-slavery-commonwealth.html",
       "image": "https://static01.nyt.com/images/2026/11/01/multimedia/2int-uk-king-voices-1-tvmw/2int-uk-king-voices-1-tvmw-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/02/science/animals-grief-death.html",
-      "title": "Do Animals Grieve?",
-      "published": "2026-11-02T10:02:39+00:00",
-      "author": "Emily Anthes",
-      "description": "The feeling of existential loss was long thought to be uniquely human. But studies of coyotes, cockatoos and other creatures are prompting some scientists to reconsider.",
-      "link": "https://www.nytimes.com/2026/11/02/science/animals-grief-death.html",
-      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/00SCI-UNKNOWNS-ANIMALGRIEF-hero-01-gzbw/00SCI-UNKNOWNS-ANIMALGRIEF-hero-01-gzbw-mediumSquareAt3X.jpg",
       "feed_name": "NYT",
       "feed_title": "NYT > World News",
       "category": "World News",
@@ -566,20 +622,6 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c8zxlqxwed4do#0",
-      "title": "Uganda begins withdrawing troops from Somalia after 20 years",
-      "published": "2026-11-02T08:55:27+00:00",
-      "author": null,
-      "description": "The country was the first to contribute troops to the AU mission established to stabilise Somalia in 2007.",
-      "link": "https://www.bbc.co.uk/news/articles/c8zxlqxwed4do?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c17/live/01b6a350-d68f-11f1-b7fe-13bd08d80ad6.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c8zxlqxwed4do#1",
       "title": "Uganda begins withdrawing troops from Somalia after 20 years",
       "published": "2026-11-02T08:55:27+00:00",
       "author": null,
@@ -13961,48 +14003,6 @@
       "category": "World News",
       "feed_url": "https://www.theguardian.com/world/rss",
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/from-intifada-to-kingmaker-israels-arab-parties-momentum-post-hamas-attack-12252533#publisher=newsstand",
-      "title": "From 'Intifada' To Kingmaker: Israel's Arab Parties' Momentum Post Hamas Attack",
-      "published": "2026-10-29T07:19:48+00:00",
-      "author": null,
-      "description": "Israel's Arab parties generally represent Palestinian citizens of Israel",
-      "link": "https://www.ndtv.com/world-news/from-intifada-to-kingmaker-israels-arab-parties-momentum-post-hamas-attack-12252533#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-10/n1m2oglk_arab-parties_625x300_29_October_26.jpeg",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
-      "id": "108478625",
-      "title": "Tencent, Visa deepen payments push in China after regulatory green light",
-      "published": "2026-10-29T07:01:50+00:00",
-      "author": null,
-      "description": "Tencent and Visa are expanding their payments partnership following recent regulatory approvals for foreign financial firms in China.",
-      "link": "https://www.cnbc.com/2026/10/29/tencent-visa-citi-mastercard-.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108341104-1785249291222-gettyimages-2278013093-TFSPI_28052026-5649.jpeg?v=1785249316&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/us/us-midterms-fbi-ice-agents-will-not-serve-as-election-monitors-doj-says/articleshow/135294071.cms",
-      "title": "US midterms: FBI, ICE agents will not serve as election monitors, DOJ says",
-      "published": "2026-10-29T06:59:43+00:00",
-      "author": "Trisha Mahajan",
-      "description": "The US Department of Justice has decided that FBI personnel will not oversee polling sites during upcoming elections. Concerns were raised regarding potential intimidation of voters, especially from minority communities. Civil rights groups, led by the NAACP, filed a lawsuit to prevent federal law enforcement at polling places. Federal election monitors will be present but will not have law enforcement powers.",
-      "link": "https://timesofindia.indiatimes.com/world/us/us-midterms-fbi-ice-agents-will-not-serve-as-election-monitors-doj-says/articleshow/135294071.cms",
-      "image": "https://static.toiimg.com/photo/msid-135294471,imgsize-162024.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     }
   ]
 }

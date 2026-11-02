@@ -1,9 +1,23 @@
 {
   "category": "gaming",
-  "updated": "2026-11-02T12:04:05.072391+00:00",
+  "updated": "2026-11-02T12:33:18.745245+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.eurogamer.net/id-software-doing-great-losing-half-the-studio",
+      "title": "\"We're doing great,\" says id Software boss, despite losing \"about half of our studio\" amid devastating Xbox cuts",
+      "published": "2026-11-02T12:12:11+00:00",
+      "author": "Sherif Saed",
+      "description": "Iconic Doom and Quake developer id Software was among the most heavily impacted Microsoft-owned studios during Xbox CEO Asha Sharma's devastating business \"reset\" earlier this year, with around 136 employees reportedly losing their jobs. Read more",
+      "link": "https://www.eurogamer.net/id-software-doing-great-losing-half-the-studio",
+      "image": "https://assetsio.gnwcdn.com/A-demonic-looking-character-in-Doom-The-Dark-Ages.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "feed_name": "Eurogamer.net",
+      "feed_title": "Eurogamer.net Latest Articles Feed",
+      "category": "gaming",
+      "feed_url": "https://www.eurogamer.net/?format=rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.eurogamer.net&sz=64"
+    },
     {
       "id": "https://www.polygon.com/lord-of-the-ring-gandalf-greatest-quote/",
       "title": "23 Years Later, Gandalf’s Greatest Lord of the Rings Line Is Still the Wisest Quote in Fantasy History",
@@ -59,6 +73,20 @@
       "category": "gaming",
       "feed_url": "https://www.eurogamer.net/?format=rss",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.eurogamer.net&sz=64"
+    },
+    {
+      "id": "5ad57fd1-2695-401b-8353-c2d57b4e7eee",
+      "title": "Speedrunner Breaks Super Mario Bros. World Record While Dressed as the Italian Plumber, Now Just 2 Frames From Theoretical Perfect Run",
+      "published": "2026-11-02T11:14:58+00:00",
+      "author": "Kirk McKeand",
+      "description": "Niftski, the speedrunning world record holder for Super Mario Bros., beat his own record on a Halloween livestream while dressed as Mario. Speaking in character, he said: “Hopefully I don’t get this today because that would be very stupid.” Guess what?",
+      "link": "https://www.ign.com/articles/niftski-breaks-super-mario-bros-world-record",
+      "image": "https://assets-prd.ignimgs.com/2026/11/02/screenshot-2026-11-02-111401-1793618060128.png",
+      "feed_name": "IGN All",
+      "feed_title": "IGN Articles",
+      "category": "gaming",
+      "feed_url": "http://feeds.ign.com/ign/all",
+      "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
     },
     {
       "id": "https://www.polygon.com/phantom-blade-zero-4-million-copies-opening-weekend/",
@@ -13975,34 +14003,6 @@
       "category": "gaming",
       "feed_url": "https://www.polygon.com/rss/index.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.polygon.com&sz=64"
-    },
-    {
-      "id": "https://kotaku.com/?p=2000749786",
-      "title": "Walter Koenig, Star Of Star Trek And Babylon 5, Dies Aged 90",
-      "published": "2026-10-26T16:51:42+00:00",
-      "author": "John Walker",
-      "description": "The actor is survived by his daughter, comedian Danielle",
-      "link": "https://kotaku.com/walter-koenig-star-of-star-trek-and-babylon-5-dies-aged-90-2000749786",
-      "image": "https://kotaku.com/app/uploads/2026/10/koenig-1280x720.jpg",
-      "feed_name": "Kotaku",
-      "feed_title": "Kotaku",
-      "category": "gaming",
-      "feed_url": "https://kotaku.com/rss",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=kotaku.com&sz=64"
-    },
-    {
-      "id": "81321a35-7fe3-451c-8f91-1a257b20942b",
-      "title": "Walter Koenig, Star Trek's Chekov, Dies at Age 90",
-      "published": "2026-10-26T16:49:11+00:00",
-      "author": "Jim Vejvoda",
-      "description": "Walter Koenig, who played Chekov on the original Star Trek series, has died at age 90. Koenig joined the NBC series Star Trek in its second season as Russian crewmember Ensign Pavel Andreievich Chekov.",
-      "link": "https://www.ign.com/articles/walter-koenig-star-treks-chekov-dies-at-age-90",
-      "image": "https://assets-prd.ignimgs.com/2026/10/26/koenig-chekov-trek-1280-1793033253538.jpg",
-      "feed_name": "IGN All",
-      "feed_title": "IGN Articles",
-      "category": "gaming",
-      "feed_url": "http://feeds.ign.com/ign/all",
-      "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
     }
   ]
 }
