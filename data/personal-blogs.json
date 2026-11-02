@@ -1,9 +1,23 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-02T07:32:57.696852+00:00",
+  "updated": "2026-11-02T08:03:46.862154+00:00",
   "count": 440,
   "summary": null,
   "items": [
+    {
+      "id": "https://mattgemmell.scot/books/once-upon-a-time/stories/the-old/",
+      "title": "Mini-story: The Old",
+      "published": "2026-11-02T07:00:00+00:00",
+      "author": null,
+      "description": "Humanity spreads everywhere, but there are also some abandoned places in the world. Former villages, and towns, and even cities, now left behind and given over to nature. It’s in those places that we roam. A mistake was made, somehow; a mistake of genetics. There are only a few of us, and we are as human as anyone else, but we’re also different. It’s in these forgotten habitats of humanity that we’re mostly safe from the rest of you. A person can exist for a long time in a place that society ha…",
+      "link": "https://mattgemmell.scot/books/once-upon-a-time/stories/the-old/",
+      "image": "https://mattgemmell.scot/images/once-upon-a-time-collection/once-upon-a-time-collection-cover.jpg",
+      "feed_name": "Matt Gemmell",
+      "feed_title": "Matt Gemmell",
+      "category": "personal blogs",
+      "feed_url": "http://mattgemmell.com/atom.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mattgemmell.scot&sz=64"
+    },
     {
       "id": "https://v7.robweychert.com/blog/2026/11/detour/",
       "title": "Detour",
@@ -5435,20 +5449,6 @@
       "category": "personal blogs",
       "feed_url": "https://rknight.me/feed.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=rknight.me&sz=64"
-    },
-    {
-      "id": "https://thomasrigby.com/posts/ab-testing-misinformation-and-youtube/",
-      "title": "A/B testing, misinformation, and YouTube",
-      "published": "2026-10-03T07:43:32+00:00",
-      "author": "Thomas Rigby (rss@thomasrigby.com)",
-      "description": "YouTube have weaponised misinformation",
-      "link": "https://thomasrigby.com/posts/ab-testing-misinformation-and-youtube/",
-      "image": null,
-      "feed_name": "Thomas Rigby",
-      "feed_title": "Thomas Rigby",
-      "category": "personal blogs",
-      "feed_url": "https://thomasrigby.com/feed.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=thomasrigby.com&sz=64"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
