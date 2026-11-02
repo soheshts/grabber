@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-02T17:02:51.249849+00:00",
-  "count": 614,
+  "updated": "2026-11-02T17:33:39.750974+00:00",
+  "count": 616,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/the-best-version-of-youtube-one-google-doesnt-give/",
+      "title": "The best version of YouTube is the one Google doesn't give you",
+      "published": "2026-11-02T17:30:16+00:00",
+      "author": "Varun Krishan",
+      "description": "Unhook allows you to consume YouTube content without any distractions.",
+      "link": "https://www.makeuseof.com/the-best-version-of-youtube-one-google-doesnt-give/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/unhook-youtube-homepage-on-laptop-screen-with-mug.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/microsoft-still-wont-automate-dark-mode-in-windows-11-so-i-used-this-simple-fix/",
+      "title": "Microsoft still won't automate dark mode in Windows 11, so I used this simple fix",
+      "published": "2026-11-02T17:30:15+00:00",
+      "author": "Rich Hein",
+      "description": "PowerToys Light Switch lets Windows 11 automatically change themes at sunset or on a schedule, but it doesn't work perfectly with every app.",
+      "link": "https://www.howtogeek.com/microsoft-still-wont-automate-dark-mode-in-windows-11-so-i-used-this-simple-fix/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/light-switch-hero-4.png",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/i-thought-limiting-my-galaxy-to-80-was-the-smartest-choice-until-i-looked-closer/",
       "title": "I thought limiting my Galaxy to 80% was the smartest choice until I looked closer",
