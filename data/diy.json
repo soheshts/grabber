@@ -1,9 +1,65 @@
 {
   "category": "DIY",
-  "updated": "2026-11-02T16:33:27.183120+00:00",
-  "count": 609,
+  "updated": "2026-11-02T17:02:51.249849+00:00",
+  "count": 614,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/i-thought-limiting-my-galaxy-to-80-was-the-smartest-choice-until-i-looked-closer/",
+      "title": "I thought limiting my Galaxy to 80% was the smartest choice until I looked closer",
+      "published": "2026-11-02T17:01:16+00:00",
+      "author": "Brandon Miniman",
+      "description": "You might not be charging fully.",
+      "link": "https://www.makeuseof.com/i-thought-limiting-my-galaxy-to-80-was-the-smartest-choice-until-i-looked-closer/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/feat-9.jpeg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/lora-and-an-esp32-are-all-you-need-to-make-messages-truly-private/",
+      "title": "LoRa and an ESP32 are all you need to make messages truly private",
+      "published": "2026-11-02T17:01:15+00:00",
+      "author": "Umair Khurshid",
+      "description": "Finally, a reason to put that electronics hobby to suspiciously good use!",
+      "link": "https://www.howtogeek.com/lora-and-an-esp32-are-all-you-need-to-make-messages-truly-private/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/a-meshtastic-development-board-connected-to-a-usb-cable-and-an-external-antenna.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/spacex-wants-to-be-the-4th-big-us-carrier-buy-boost-mobile/",
+      "title": "SpaceX wants to be the 4th big U.S. carrier, and they're willing to buy Boost Mobile to get there",
+      "published": "2026-11-02T16:49:12+00:00",
+      "author": "Ingrid Cruz",
+      "description": "Here's what we know about SpaceX's plans so far.",
+      "link": "https://www.howtogeek.com/spacex-wants-to-be-the-4th-big-us-carrier-buy-boost-mobile/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/11/space-mobile-logo.png",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.makeuseof.com/your-laptops-usb-c-ports-arent-all-equal-and-theres-a-way-to-tell/",
+      "title": "Your laptop's USB-C ports aren't all equal, and there's a way to tell",
+      "published": "2026-11-02T16:46:16+00:00",
+      "author": "Kanika Gogia",
+      "description": "Your laptop's USB-C ports look alike, but they might work very differently.",
+      "link": "https://www.makeuseof.com/your-laptops-usb-c-ports-arent-all-equal-and-theres-a-way-to-tell/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/09/asus-zenbook-14-ux3480qa-usb-c-ports.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/lenovo-yoga-pro-9n-15-gen-11-review/",
       "title": "Lenovo Yoga Pro 9n 15 Gen 11 review: The few who should consider this will love it",
@@ -17,6 +73,20 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://hackaday.com/?p=1397466",
+      "title": "Solar Light Shows Why Replacing NiMH with Li-Ion is Dangerous",
+      "published": "2026-11-02T16:30:00+00:00",
+      "author": "Maya Posch",
+      "description": "Recently [DiodeGoneWild] got his paws on a purportedly IP44-rated outdoor solar light with PIR motion sensor that also contains an 18650 Li-ion cell. Since it’s being sold in Czechia in …read more",
+      "link": "https://hackaday.com/2026/11/02/solar-light-shows-why-replacing-nimh-with-li-ion-is-dangerous/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/solar_light_circuit_diodegonewild_youtube.jpg",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
     },
     {
       "id": "https://www.makeuseof.com/diamonds-tape-measure-explained/",

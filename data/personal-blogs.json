@@ -1,9 +1,23 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-02T16:33:27.183120+00:00",
-  "count": 446,
+  "updated": "2026-11-02T17:02:51.249849+00:00",
+  "count": 447,
   "summary": null,
   "items": [
+    {
+      "id": "https://rachelandrew.co.uk/?p=3935",
+      "title": "Making features generic in CSS",
+      "published": "2026-11-02T16:39:58+00:00",
+      "author": "rachelandrew",
+      "description": "CSS has two new positional alignment keywords as part of CSS Box Alignment Level 3: flow-start and flow-end. These are defined as aliases for the existing flex-start and flex-end keywords. Therefore, in a supporting browser, the following two lines should align flex items to the end of the flex container (the right assuming you are ... Making features generic in CSS",
+      "link": "https://rachelandrew.co.uk/archives/2026/11/02/making-features-generic-in-css/",
+      "image": null,
+      "feed_name": "Rachel Andrew",
+      "feed_title": "Rachel Andrew",
+      "category": "personal blogs",
+      "feed_url": "http://www.rachelandrew.co.uk/feed/",
+      "feed_icon": "https://rachelandrew.co.uk/wp-content/uploads/2022/07/favicon1.png"
+    },
     {
       "id": "6ad6846f6761fb000177bea8",
       "title": "Nobody learns good taste by being told — from the Desk of van Schneider — Edition №280",
