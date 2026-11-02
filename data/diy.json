@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-02T14:02:59.437046+00:00",
-  "count": 599,
+  "updated": "2026-11-02T14:33:36.269163+00:00",
+  "count": 601,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/i-checked-my-google-account-and-found-a-device-that-shouldve-been-signed-out/",
+      "title": "I checked my Google Account and found a device that should've been signed out",
+      "published": "2026-11-02T14:30:16+00:00",
+      "author": "Kanika Gogia",
+      "description": "Your Google Account might remember devices you've long forgotten.",
+      "link": "https://www.makeuseof.com/i-checked-my-google-account-and-found-a-device-that-shouldve-been-signed-out/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/07/google-account-security-and-sign-in-options.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/these-are-the-top-3-linux-distros-for-newcomers/",
+      "title": "These are the only 3 Linux distros I recommend to newcomers",
+      "published": "2026-11-02T14:30:15+00:00",
+      "author": "Dibakar Ghosh",
+      "description": "You should try at least these three distros before calling it quits on Linux!",
+      "link": "https://www.howtogeek.com/these-are-the-top-3-linux-distros-for-newcomers/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/lenovo-googlebook-15-linux-terminal-01.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/ethernet-cables-color-code-explained/",
       "title": "I never realized Ethernet cables had a color code until now",
