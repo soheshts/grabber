@@ -1,7 +1,7 @@
 {
   "category": "funny",
-  "updated": "2026-11-02T13:03:53.895461+00:00",
-  "count": 300,
+  "updated": "2026-11-02T13:33:42.839128+00:00",
+  "count": 301,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,20 @@
       "category": "funny",
       "feed_url": "https://www.penny-arcade.com/feed",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.penny-arcade.com&sz=64"
+    },
+    {
+      "id": "https://thedailywtf.com/articles/get-it-now",
+      "title": "CodeSOD: Get It Now",
+      "published": "2026-11-02T06:30:00+00:00",
+      "author": "Remy Porter",
+      "description": "\"TODO\" comments are an inescapable part of our work. Yes, yes, you should just do it right the first time, everything should probably have a ticket in whatever your ticket system is for visibility, but at some point, you're just going to leave a \"TODO\" behind. But hopefully, the TODO gets TODONE, which is not what happened in Sam C 's codebase. function getnow ( ) { //TODO return '2012' ; } It's the XKCD , but for years. Or WHAT YEAR IS IN memes. At least it's a relatively recent year, not some…",
+      "link": "https://thedailywtf.com/articles/get-it-now",
+      "image": "https://s3.amazonaws.com/remy.jetpackshark.com/remy-thumb.jpg",
+      "feed_name": "The Daily WTF",
+      "feed_title": "The Daily WTF",
+      "category": "funny",
+      "feed_url": "http://syndication.thedailywtf.com/TheDailyWtf",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thedailywtf.com&sz=64"
     },
     {
       "id": "https://cheezburger.com/47272197/neighbor-offered-california-homeowners-driveway-as-parking-to-guests-until-one-visitor-closed-the",
