@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-02T11:33:36.300565+00:00",
-  "count": 588,
+  "updated": "2026-11-02T12:04:05.072391+00:00",
+  "count": 590,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/i-stopped-relying-on-smart-health-scores-after-learning-what-they-actually-ignore/",
+      "title": "I stopped relying on SMART health scores after learning what they actually ignore",
+      "published": "2026-11-02T12:00:17+00:00",
+      "author": "Shaheer Khan",
+      "description": "SMART health scores miss the SSD failures that matter most",
+      "link": "https://www.makeuseof.com/i-stopped-relying-on-smart-health-scores-after-learning-what-they-actually-ignore/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/a-lexar-nvme-ssd-held-between-fingers-1.jpeg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/docker-compose-turned-my-fragile-pi-hole-setup-into-a-rock-solid-dns-fortress/",
+      "title": "Docker Compose turned my fragile Pi-hole setup into a rock-solid DNS fortress",
+      "published": "2026-11-02T12:00:15+00:00",
+      "author": "Umair Khurshid",
+      "description": "My Pi-hole setup needed to survive the occasional mistake, update, and reboot!",
+      "link": "https://www.howtogeek.com/docker-compose-turned-my-fragile-pi-hole-setup-into-a-rock-solid-dns-fortress/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/an-hp-zbook-displays-the-pi-hole-dashboard-with-315-596-total-queries-41-384-blocked-queries-and-13-741-adlist-domains-1.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/made-a-windows-recovery-usb-that-can-do-far-more-than-reinstall-windows/",
       "title": "I made a Windows recovery USB that can do far more than reinstall Windows",

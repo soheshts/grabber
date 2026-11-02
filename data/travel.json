@@ -1,9 +1,23 @@
 {
   "category": "travel",
-  "updated": "2026-11-02T11:33:36.300565+00:00",
+  "updated": "2026-11-02T12:04:05.072391+00:00",
   "count": 96,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/11/02/world/europe/pope-plane-shepherd-one-flights.html",
+      "title": "Up in the Clouds With the Pope, It’s Still Commercial",
+      "published": "2026-11-02T11:49:16+00:00",
+      "author": "Motoko Rich",
+      "description": "Unlike American presidents, Pope Leo XIV has no private jet, so he travels on commercial airlines, like the rest of us. Well, almost.",
+      "link": "https://www.nytimes.com/2026/11/02/world/europe/pope-plane-shepherd-one-flights.html",
+      "image": "https://static01.nyt.com/images/2026/10/08/multimedia/08pope-plane-01-wfpl/08pope-plane-01-wfpl-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Travel",
+      "feed_title": "NYT > Travel",
+      "category": "travel",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "https://www.nytimes.com/2026/11/02/travel/catherine-zeta-jones-wales.html",
       "title": "Catherine Zeta-Jones’s 5 Favorite Places in Wales",
@@ -12,20 +26,6 @@
       "description": "The Oscar-winning star of “Chicago,” “Traffic” and the new AMC+ series “Kill Jackie” shares her go-to spots in Wales, where she was born and raised.",
       "link": "https://www.nytimes.com/2026/11/02/travel/catherine-zeta-jones-wales.html",
       "image": "https://static01.nyt.com/images/2026/11/02/travel/02trav-5Places-PROMO-Wales/02trav-5Places-PROMO-Wales-mediumSquareAt3X.jpg",
-      "feed_name": "NYT > Travel",
-      "feed_title": "NYT > Travel",
-      "category": "travel",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/02/world/europe/pope-plane-shepherd-one-flights.html",
-      "title": "Up in the Clouds With the Pope, It’s Still Commercial",
-      "published": "2026-11-02T10:00:50+00:00",
-      "author": "Motoko Rich",
-      "description": "Unlike American presidents, Pope Leo XIV has no private jet, so he travels on commercial airlines, like the rest of us. Well, almost.",
-      "link": "https://www.nytimes.com/2026/11/02/world/europe/pope-plane-shepherd-one-flights.html",
-      "image": "https://static01.nyt.com/images/2026/10/08/multimedia/08pope-plane-01-wfpl/08pope-plane-01-wfpl-mediumSquareAt3X.jpg",
       "feed_name": "NYT > Travel",
       "feed_title": "NYT > Travel",
       "category": "travel",
