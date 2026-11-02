@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-02T01:32:41.182835+00:00",
-  "count": 439,
+  "updated": "2026-11-02T02:02:55.805162+00:00",
+  "count": 438,
   "summary": null,
   "items": [
     {
@@ -5421,20 +5421,6 @@
       "category": "personal blogs",
       "feed_url": "https://manuelmoreale.com/feed/rss",
       "feed_icon": "https://manuelmoreale.com/media/site/768b30cae2-1759134593/avatar.jpg"
-    },
-    {
-      "id": "https://www.bennadel.com/blog/4913-preventing-htmx-and-alpine-js-from-binding-to-user-generated-content.htm",
-      "title": "Preventing HTMX And Alpine.js From Binding To User Generated Content",
-      "published": "2026-10-03T01:58:59+00:00",
-      "author": null,
-      "description": "Ben Nadel demonstrates how to prevent user generated content (UGC) from maliciously triggering HTMX 4 and Alpine.js behaviors in his ColdFusion output....",
-      "link": "https://www.bennadel.com/blog/4913-preventing-htmx-and-alpine-js-from-binding-to-user-generated-content.htm",
-      "image": null,
-      "feed_name": "Ben Nadel",
-      "feed_title": "Ben Nadel's Web Development and User Experience Feed @ BenNadel.com",
-      "category": "personal blogs",
-      "feed_url": "http://www.bennadel.com/index.cfm?dax=blog.rss&lst_tag_id=14,16,3,5,9,6,7,13,18,20,10,15",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.bennadel.com&sz=64"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",

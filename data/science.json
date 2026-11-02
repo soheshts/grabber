@@ -1,6 +1,6 @@
 {
   "category": "science",
-  "updated": "2026-11-02T01:32:41.182835+00:00",
+  "updated": "2026-11-02T02:02:55.805162+00:00",
   "count": 1000,
   "summary": null,
   "items": [
@@ -17,6 +17,20 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "https://www.nature.com/articles/d41586-026-03387-3",
+      "title": "Measles made a stealthy return as another virus took the spotlight",
+      "published": "2026-11-02T00:00:00+00:00",
+      "author": null,
+      "description": "Nature, Published online: 02 November 2026; doi:10.1038/d41586-026-03387-3 Vaccination rates dropped after the COVID-19 pandemic disrupted public-health programmes and their funding.",
+      "link": "https://www.nature.com/articles/d41586-026-03387-3",
+      "image": null,
+      "feed_name": "Nature",
+      "feed_title": "Nature",
+      "category": "science",
+      "feed_url": "https://www.nature.com/nature.rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=feeds.nature.com&sz=64"
     },
     {
       "id": "news712498511",
@@ -13989,20 +14003,6 @@
       "category": "science",
       "feed_url": "https://pa.tedcdn.com/feeds/talks.rss",
       "feed_icon": "https://assets.pippa.io/shows/67587e77c705e441797aff96/show-cover.png"
-    },
-    {
-      "id": "6ad106ca7d8c76637e5f689e",
-      "title": "Microplastics React With Water, a New Study Says. That’s a Problem for Biology",
-      "published": "2026-10-17T09:00:00+00:00",
-      "author": "Jorge Garay",
-      "description": "Though plastic is usually inert, tiny pieces of it have the potential to react with one of the most pervasive molecules in the environment and in our bodies.",
-      "link": "https://www.wired.com/story/microplastics-react-with-water-new-study-says-thats-a-problem-for-biology/",
-      "image": "https://media.wired.com/photos/6ad106cafa571af93e3403ed/master/pass/1245245666",
-      "feed_name": "Science Latest",
-      "feed_title": "Science Latest",
-      "category": "science",
-      "feed_url": "https://www.wired.com/feed/category/science/latest/rss",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.wired.com&sz=64"
     }
   ]
 }
