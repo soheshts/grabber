@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-02T13:33:42.839128+00:00",
-  "count": 597,
+  "updated": "2026-11-02T14:02:59.437046+00:00",
+  "count": 599,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/ethernet-cables-color-code-explained/",
+      "title": "I never realized Ethernet cables had a color code until now",
+      "published": "2026-11-02T14:00:16+00:00",
+      "author": "Pankil Shah",
+      "description": "Your rainbow of Ethernet cables doesn’t mean what you think.",
+      "link": "https://www.makeuseof.com/ethernet-cables-color-code-explained/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/11/blue-yellow-and-gray-ethernet-cables.png",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/i-monitor-my-homelab-from-my-car-now-thanks-to-a-free-sideloaded-android-auto-app/",
+      "title": "I monitor my homelab from my car now, thanks to a free sideloaded Android Auto app",
+      "published": "2026-11-02T14:00:15+00:00",
+      "author": "David J. Buck",
+      "description": "Android Auto blocks browsers, but this free app gets around it (for when you’re parked)",
+      "link": "https://www.howtogeek.com/i-monitor-my-homelab-from-my-car-now-thanks-to-a-free-sideloaded-android-auto-app/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/11/homelab-browser-on-android-auto-screen.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/photon-raw-editor-guides-edits-as-they-happen-better-than-youtube-tutorials/",
       "title": "This RAW editor for beginners explains its edits as you make them, and it beats my YouTube tutorials",
