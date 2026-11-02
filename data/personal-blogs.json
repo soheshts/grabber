@@ -1,9 +1,23 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-02T21:03:44.858552+00:00",
-  "count": 445,
+  "updated": "2026-11-02T21:35:01.544134+00:00",
+  "count": 446,
   "summary": null,
   "items": [
+    {
+      "id": "https://thomasrigby.com/posts/til-earl-grey/",
+      "title": "#TIL: Earl Grey",
+      "published": "2026-11-02T21:22:20+00:00",
+      "author": "Thomas Rigby (rss@thomasrigby.com)",
+      "description": "I was today years old when I learned where this tea got it's name",
+      "link": "https://thomasrigby.com/posts/til-earl-grey/",
+      "image": "https://thomasrigby.com/images/_5hs7KpYwY-600.jpeg",
+      "feed_name": "Thomas Rigby",
+      "feed_title": "Thomas Rigby",
+      "category": "personal blogs",
+      "feed_url": "https://thomasrigby.com/feed.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thomasrigby.com&sz=64"
+    },
     {
       "id": "https://rachelandrew.co.uk/?p=3935",
       "title": "Making features generic in CSS",

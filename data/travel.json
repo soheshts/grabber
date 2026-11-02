@@ -1,9 +1,37 @@
 {
   "category": "travel",
-  "updated": "2026-11-02T21:03:44.858552+00:00",
-  "count": 105,
+  "updated": "2026-11-02T21:35:01.544134+00:00",
+  "count": 106,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/11/02/world/europe/pope-plane-shepherd-one-flights.html",
+      "title": "Up in the Clouds With the Pope, It’s Still Commercial",
+      "published": "2026-11-02T21:26:14+00:00",
+      "author": "Motoko Rich",
+      "description": "Unlike American presidents, Pope Leo XIV has no private jet, so he travels on commercial airlines, like the rest of us. Well, almost.",
+      "link": "https://www.nytimes.com/2026/11/02/world/europe/pope-plane-shepherd-one-flights.html",
+      "image": "https://static01.nyt.com/images/2026/10/08/multimedia/08pope-plane-01-wfpl/08pope-plane-01-wfpl-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Travel",
+      "feed_title": "NYT > Travel",
+      "category": "travel",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/02/travel/odyssey-cruise-ship-cambodia-auction.html",
+      "title": "Odyssey ‘Endless Cruise’ Ship Stranded in Cambodia May Be Headed for Auction Block",
+      "published": "2026-11-02T21:18:59+00:00",
+      "author": "Ceylan Yeğinsu",
+      "description": "Efforts to pull together more funding for the ship, stuck in Cambodia, appear to have faltered, leaving its passengers unsure about what to do next.",
+      "link": "https://www.nytimes.com/2026/11/02/travel/odyssey-cruise-ship-cambodia-auction.html",
+      "image": null,
+      "feed_name": "NYT > Travel",
+      "feed_title": "NYT > Travel",
+      "category": "travel",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "https://www.atlasobscura.com/places/tomba-dei-gigante-s-ena-e-thimes",
       "title": "Tomba Dei Gigante S’Ena e Thimes in Dorgali, Italy",
@@ -129,20 +157,6 @@
       "category": "travel",
       "feed_url": "https://www.theguardian.com/uk/travel/rss",
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/02/world/europe/pope-plane-shepherd-one-flights.html",
-      "title": "Up in the Clouds With the Pope, It’s Still Commercial",
-      "published": "2026-11-02T11:49:16+00:00",
-      "author": "Motoko Rich",
-      "description": "Unlike American presidents, Pope Leo XIV has no private jet, so he travels on commercial airlines, like the rest of us. Well, almost.",
-      "link": "https://www.nytimes.com/2026/11/02/world/europe/pope-plane-shepherd-one-flights.html",
-      "image": "https://static01.nyt.com/images/2026/10/08/multimedia/08pope-plane-01-wfpl/08pope-plane-01-wfpl-mediumSquareAt3X.jpg",
-      "feed_name": "NYT > Travel",
-      "feed_title": "NYT > Travel",
-      "category": "travel",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://www.nytimes.com/2026/11/02/travel/catherine-zeta-jones-wales.html",

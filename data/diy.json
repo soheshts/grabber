@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-02T21:03:44.858552+00:00",
-  "count": 630,
+  "updated": "2026-11-02T21:35:01.544134+00:00",
+  "count": 633,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.howtogeek.com/i-made-a-tiny-smart-home-dashboard-out-of-an-old-pixel-watch/",
+      "title": "I made a tiny smart home dashboard out of an old Pixel Watch",
+      "published": "2026-11-02T21:30:15+00:00",
+      "author": "Joe Fedewa",
+      "description": "A Pixel Watch makes a surprisingly good smart home remote.",
+      "link": "https://www.howtogeek.com/i-made-a-tiny-smart-home-dashboard-out-of-an-old-pixel-watch/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/pixel-watch-smart-home-dashboard-1.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/netflix-movies-to-watch-this-week-november-2/",
+      "title": "4 exciting movies to watch on Netflix this week (November 2-8)",
+      "published": "2026-11-02T21:16:15+00:00",
+      "author": "T.M. Amrita",
+      "description": "From crime thrillers to Christmas cheer, there's something for everyone.",
+      "link": "https://www.howtogeek.com/netflix-movies-to-watch-this-week-november-2/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/09/netflix-logo-with-popcorn.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/windows-11-file-explorer-fixes-not-worth-the-trade-off/",
       "title": "I tested the File Explorer fixes everyone recommends. Most weren't worth the trade-off",
@@ -17,6 +45,20 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://hackaday.com/?p=1397479",
+      "title": "Investigating whether Zener Diodes work for ESD Protection",
+      "published": "2026-11-02T21:00:09+00:00",
+      "author": "Maya Posch",
+      "description": "Sometimes the naming of parts in electronics can contribute to confusion about what they are good for, with the topic of Zener diodes in the context of fast surges like …read more",
+      "link": "https://hackaday.com/2026/11/02/investigating-whether-zener-diodes-work-for-esd-protection/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/zener_vs_tvs_diode_btt_lab_youtube.jpg",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
     },
     {
       "id": "https://www.howtogeek.com/milwaukee-power-tool-accessory-deals/",
