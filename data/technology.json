@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated": "2026-11-02T23:03:45.316054+00:00",
+  "updated": "2026-11-02T23:32:17.386098+00:00",
   "count": 1000,
   "summary": null,
   "items": [
@@ -17,6 +17,20 @@
       "category": "technology",
       "feed_url": "https://www.engadget.com/rss.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
+    {
+      "id": "https://entertainment.slashdot.org/story/26/11/02/2043259/study-claims-vizio-simply-ignores-smart-tv-spying-opt-out-requests?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "title": "Study Claims Vizio Simply Ignores 'Smart' TV Spying Opt Out Requests",
+      "published": "2026-11-02T23:00:00+00:00",
+      "author": "BeauHD",
+      "description": "An anonymous reader quotes a report from Techdirt: Recently, reports emerged that LG TVs are sniffing around your local network, and even listening to your local environment, even when the TV is purportedly \"off.\" Some of those voice commands were then stored in plain text and uploaded to the internet. LG's response? To deny everything. [...] That latter point is central to a new study out of Northeastern that conducted 5,943 experiments across twelve commercial \"smart\" TV devices. The research…",
+      "link": "https://entertainment.slashdot.org/story/26/11/02/2043259/study-claims-vizio-simply-ignores-smart-tv-spying-opt-out-requests?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+      "feed_name": "Slashdot",
+      "feed_title": "Slashdot",
+      "category": "technology",
+      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
     },
     {
       "id": "https://www.theverge.com/?p=1024915",
@@ -13989,20 +14003,6 @@
       "category": "technology",
       "feed_url": "https://lifehacker.com/rss",
       "feed_icon": "https://www.google.com/s2/favicons?domain=lifehacker.com&sz=64"
-    },
-    {
-      "id": "https://blog.google/products-and-platforms/platforms/google-pay/indie-games-fund-africa-selected-studios/",
-      "title": "Indie Games Fund in Africa: Meet the selected studios",
-      "published": "2026-10-28T14:00:00+00:00",
-      "author": "Nicola Julius",
-      "description": "Header graphic for Indie Games Fund Africa featuring a blue cartoon character celebrating next to a large yellow ring and two sparkling stars against a teal background, with the Google Play logo in the bottom right corner.",
-      "link": "https://blog.google/products-and-platforms/platforms/google-pay/indie-games-fund-africa-selected-studios/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IGFund_Blogger-Header-Africa-27.max-600x600.format-webp.webp",
-      "feed_name": "The Keyword",
-      "feed_title": "News from Google",
-      "category": "technology",
-      "feed_url": "https://www.blog.google/rss/",
-      "feed_icon": "https://blog.google/static/blogv2/images/google.png"
     }
   ]
 }

@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-02T23:03:45.316054+00:00",
-  "count": 638,
+  "updated": "2026-11-02T23:32:17.386098+00:00",
+  "count": 639,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.howtogeek.com/this-raspberry-pi-ai-project-turned-my-notes-into-a-searchable-second-brain/",
+      "title": "This Raspberry Pi AI project turned my notes into a searchable second brain",
+      "published": "2026-11-02T23:30:15+00:00",
+      "author": "Patrick Campanale",
+      "description": "No subscription, no cloud AI, just a Pi 5 that knows where my notes are.",
+      "link": "https://www.howtogeek.com/this-raspberry-pi-ai-project-turned-my-notes-into-a-searchable-second-brain/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/raspberry-pi-5-honeycomb-case.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/qview-simple-image-viewer-for-windows/",
       "title": "Double-clicking a picture on Windows finally feels simple again",
