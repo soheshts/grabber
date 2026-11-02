@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-02T18:33:10.391960+00:00",
-  "count": 446,
+  "updated": "2026-11-02T19:03:46.723649+00:00",
+  "count": 447,
   "summary": null,
   "items": [
     {
@@ -31,6 +31,20 @@
       "category": "personal blogs",
       "feed_url": "http://www.vanschneider.com/feed",
       "feed_icon": "https://vanschneider.com/blog/favicon.png"
+    },
+    {
+      "id": "https://katiekodes.com/azure-mfa-claims-challenge",
+      "title": "How to MFA in the Azure CLI",
+      "published": "2026-11-02T15:00:00+00:00",
+      "author": "Katie",
+      "description": "Microsoft is now enforcing MFA and it will mess up your Terraform",
+      "link": "https://katiekodes.com/azure-mfa-claims-challenge/",
+      "image": "https://res.cloudinary.com/kkcl/image/upload/t_kkogfbk/w_750,h_380,c_fit,co_white,g_north_west,x_80,y_190,l_text:Inter-bold.otf_80_bold:How%20to%20MFA%20in%20the%20Azure%20CLI/t_wKK/kk-og-bg-roomier.jpg",
+      "feed_name": "Katie Kodes",
+      "feed_title": "Katie Kodes",
+      "category": "personal blogs",
+      "feed_url": "https://katiekodes.com/feed.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=katiekodes.com&sz=64"
     },
     {
       "id": "https://adactio.com/journal/22823",
