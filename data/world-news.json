@@ -1,9 +1,23 @@
 {
   "category": "World News",
-  "updated": "2026-11-02T01:03:45.269989+00:00",
+  "updated": "2026-11-02T01:32:41.182835+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo#0",
+      "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+      "published": "2026-11-02T01:18:27+00:00",
+      "author": null,
+      "description": "Hours later Russian authorities said its app was also hacked, with fake warnings sent inside the country.",
+      "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3608/live/1d2513e0-d646-11f1-b441-2b33b063138f.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
     {
       "id": "https://www.nytimes.com/2026/11/01/world/asia/snake-catcher-bangkok-thailand.html",
       "title": "He’s the Top Snake Catcher, and Business Is Booming. There’s Just One Problem.",
@@ -73,20 +87,6 @@
       "category": "World News",
       "feed_url": "https://www.theguardian.com/world/rss",
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo#0",
-      "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
-      "published": "2026-11-01T22:38:24+00:00",
-      "author": null,
-      "description": "Authorities say there is no threat and have advised the public to stay calm and follow official channels for information.",
-      "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3608/live/1d2513e0-d646-11f1-b441-2b33b063138f.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "t3_1xlgjs3",
