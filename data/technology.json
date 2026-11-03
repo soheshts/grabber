@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated": "2026-11-03T10:03:43.548743+00:00",
+  "updated": "2026-11-03T10:32:18.983731+00:00",
   "count": 1000,
   "summary": null,
   "items": [
@@ -17,6 +17,20 @@
       "category": "technology",
       "feed_url": "https://www.blog.google/rss/",
       "feed_icon": "https://blog.google/static/blogv2/images/google.png"
+    },
+    {
+      "id": "TheNextWeb=e0391122fd80d91916b38e4029499270",
+      "title": "Nvidia tells cloud partners to cap Chinese business at 49%, FT reports",
+      "published": "2026-11-03T10:15:20+00:00",
+      "author": "Alina Maria Stan",
+      "description": "Nvidia has instructed its data centre partners to limit business with Chinese customers, requiring cloud computing providers to sell at least 51% of their services to non-Chinese companies, the Financial Times reported on Tuesday. The rule applies to new contracts, leaving existing agreements untouched, according to five people familiar with the matter cited by the […] This story continues at The Next Web",
+      "link": "https://thenextweb.com/news/nvidia-cloud-partners-cap-china-business",
+      "image": "https://media.thenextweb.com/2026/10/nvidia-logo-sign-building-exterior-trees.avif",
+      "feed_name": "The Next Web",
+      "feed_title": "The Next Web",
+      "category": "technology",
+      "feed_url": "https://thenextweb.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
     },
     {
       "id": "TheNextWeb=c601968bcc8c3bff13c0b6d92d06c1a3",
@@ -73,6 +87,20 @@
       "category": "technology",
       "feed_url": "https://thenextweb.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
+    {
+      "id": "https://readwrite.com/?p=651706",
+      "title": "Illinois appeals Pacold injunction blocking its prediction-market licensing and tax regime",
+      "published": "2026-11-03T08:33:45+00:00",
+      "author": "ReadWrite Editor",
+      "description": "A federal judge has barred Illinois from licensing, taxing or prosecuting sports event contracts listed on CFTC-regulated exchanges. The state's appeal sends the fight to the Seventh Circuit, which already has prediction-market cases from Wisconsin. The post Illinois appeals Pacold injunction blocking its prediction-market licensing and tax regime appeared first on ReadWrite .",
+      "link": "https://readwrite.com/illinois-appeals-pacold-injunction-blocking-its-prediction-market-licensing-and-tax-regime/",
+      "image": "https://readwrite.com/wp-content/uploads/2026/11/match-651706-900x601.jpg",
+      "feed_name": "ReadWrite",
+      "feed_title": "ReadWrite",
+      "category": "technology",
+      "feed_url": "https://readwrite.com/feed/",
+      "feed_icon": "https://readwrite.com/wp-content/uploads/2024/10/cropped-readwrite-favicon-32x32.png"
     },
     {
       "id": "02xja6LRycBvG7u6dDaQS3v",
@@ -13975,34 +14003,6 @@
       "category": "technology",
       "feed_url": "https://thenextweb.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
-    },
-    {
-      "id": "https://www.theverge.com/?p=1020769",
-      "title": "Meta says it’ll probably delay its controversial new business terms again",
-      "published": "2026-10-28T16:15:30+00:00",
-      "author": "Emma Roth",
-      "description": "Meta says it may push the implementation of its new business terms past November 20th as it faces backlash from publishers over concerns about AI training. In a post on X, Meta communications head Andy Stone said the company does \"not plan to make policy changes without a full consultation with industry groups and leaders.\" […]",
-      "link": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_3_Meta.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "feed_name": "The Verge -  All Posts",
-      "feed_title": "The Verge",
-      "category": "technology",
-      "feed_url": "https://www.theverge.com/rss/index.xml",
-      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
-    },
-    {
-      "id": "07Bde41YMbxAUCWxVZH8vTn",
-      "title": "Pride and Prejudice trailer: Faithful to the story, romantic at heart",
-      "published": "2026-10-28T16:07:45+00:00",
-      "author": null,
-      "description": "Netflix's \"Pride and Prejudice\" trailer: the Dolly Alderton-written six-part series stars Emma Corrin, Olivia Colman, and Rufus Sewell.",
-      "link": "https://mashable.com/entertainment/pride-and-prejudice-netflix-trailer",
-      "image": "https://helios-i.mashable.com/imagery/videos/07Bde41YMbxAUCWxVZH8vTn/hero-image.jpg",
-      "feed_name": "Mashable",
-      "feed_title": "Mashable",
-      "category": "technology",
-      "feed_url": "http://feeds.mashable.com/Mashable",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
     }
   ]
 }

@@ -1,9 +1,23 @@
 {
   "category": "travel",
-  "updated": "2026-11-03T10:03:43.548743+00:00",
-  "count": 107,
+  "updated": "2026-11-03T10:32:18.983731+00:00",
+  "count": 108,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/11/03/travel/hudson-river-bridges-walks.html",
+      "title": "Four Bridge Walks Across the Hudson River",
+      "published": "2026-11-03T10:01:43+00:00",
+      "author": "Rich Cohen and Graham Dickie",
+      "description": "Seeking renewal, a writer took to walking across bridges that span the river, coming away with a new perspective.",
+      "link": "https://www.nytimes.com/2026/11/03/travel/hudson-river-bridges-walks.html",
+      "image": null,
+      "feed_name": "NYT > Travel",
+      "feed_title": "NYT > Travel",
+      "category": "travel",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "https://www.theguardian.com/travel/2026/nov/03/perfect-weekend-darent-valley-kent-demi-paradise-great-pubs",
       "title": "A perfect weekend in the Darent valley, Kent: a ‘demi-paradise’ of art, lavender fields and great pubs",
