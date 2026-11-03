@@ -1,13 +1,41 @@
 {
   "category": "World News",
-  "updated": "2026-11-03T22:04:22.725434+00:00",
+  "updated": "2026-11-03T22:32:39.050942+00:00",
   "count": 1000,
   "summary": null,
   "items": [
     {
+      "id": "108512032",
+      "title": "JetBlue raises bag fees for third time in a year as fuel costs bite",
+      "published": "2026-11-03T22:26:20+00:00",
+      "author": null,
+      "description": "JetBlue raised baggage fees for the third time in a year as fuel costs continued to climb.",
+      "link": "https://www.cnbc.com/2026/11/03/jetblue-checked-bag-fee.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108177264-1753465786241-gettyimages-2210810836-20250420_sd_airplanes_120.jpeg?v=1753465847&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/03/world/europe/king-charles-speech-uk-slave-trade-antigua.html",
+      "title": "King Charles Says U.K.’s Role in Slave Trade ‘Fills My Heart With Horror’",
+      "published": "2026-11-03T22:19:16+00:00",
+      "author": "Michael D. Shear",
+      "description": "The monarch called Britain’s trafficking of enslaved people from Africa a “shameful chapter of history” at a meeting of Commonwealth heads of government in Antigua.",
+      "link": "https://www.nytimes.com/2026/11/03/world/europe/king-charles-speech-uk-slave-trade-antigua.html",
+      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-king-commonwealth-meeting-01-fzvc/03int-king-commonwealth-meeting-01-fzvc-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
       "id": "108506116",
       "title": "AMD stock jumps 8% on earnings as data center revenue nearly doubles",
-      "published": "2026-11-03T22:03:07+00:00",
+      "published": "2026-11-03T22:10:55+00:00",
       "author": null,
       "description": "AMD reported better-than-expected third-quarter results, driven by booming sales of AI chips",
       "link": "https://www.cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html",
@@ -17,6 +45,76 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/nov/03/grizzly-bear-attack-canada",
+      "title": "One dead and another missing in suspected grizzly bear attack in Canada",
+      "published": "2026-11-03T22:08:50+00:00",
+      "author": "Leyland Cecco in Toronto",
+      "description": "The incident took place in the same province where a grizzly attacked a group of schoolchildren last November A mother is dead and her daughter is missing in western Canada after a suspected grizzly bear attack in the same community where a bear attacked a group of schoolchildren earlier in the year. On Tuesday, the British Columbia conservation officer service said in a social media post that it had launched a search for the two missing people on the weekend, and that during the search on Sund…",
+      "link": "https://www.theguardian.com/world/2026/nov/03/grizzly-bear-attack-canada",
+      "image": "https://i.guim.co.uk/img/media/fceb81be290fbe0b0ac46e0b4dfc0b39aab55c9c/480_0_4800_3840/master/4800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7221e5e4952201cce8572e86370e447c",
+      "feed_name": "The Guardian",
+      "feed_title": "World news | The Guardian",
+      "category": "World News",
+      "feed_url": "https://www.theguardian.com/world/rss",
+      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/03/world/europe/spain-train-crash-transport-minister-resigns-oscar-puente.html",
+      "title": "Spain’s Transport Minister Resigns After Deadly High-Speed Rail Crash",
+      "published": "2026-11-03T22:07:12+00:00",
+      "author": "Carlos Barragán",
+      "description": "Nearly 70 people died in the crash, the second high-speed rail accident in less than a year.",
+      "link": "https://www.nytimes.com/2026/11/03/world/europe/spain-train-crash-transport-minister-resigns-oscar-puente.html",
+      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-spain-train-crash-photo-gvlj/03int-spain-train-crash-photo-gvlj-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo#0",
+      "title": "Spanish transport minister resigns days after deadly train crash",
+      "published": "2026-11-03T22:04:09+00:00",
+      "author": null,
+      "description": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
+      "link": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d61f/live/6dc1cd30-d7c6-11f1-a701-fddedf244c16.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/03/us/politics/midterm-elections-polls-early-results-senate-house.html",
+      "title": "How Will the Midterms Play Out? These Races May Provide Early Clues.",
+      "published": "2026-11-03T22:01:05+00:00",
+      "author": "John Yoon",
+      "description": "Election results in states where voting ends early could indicate how each party will fare in House and Senate races elsewhere in the country.",
+      "link": "https://www.nytimes.com/2026/11/03/us/politics/midterm-elections-polls-early-results-senate-house.html",
+      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03pol-early-clues-5p-qwhc/03pol-early-clues-5p-qwhc-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/largest-monitoring-effort-in-history-trumps-doj-deploys-1000-monitors-democrats-allege-voter-intimidation/articleshow/135513557.cms",
+      "title": "Trump’s DOJ deploys 1,000 monitors across 50 states; Democrats allege voter intimidation",
+      "published": "2026-11-03T21:59:16+00:00",
+      "author": "Aashish Vashistha",
+      "description": "",
+      "link": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/largest-monitoring-effort-in-history-trumps-doj-deploys-1000-monitors-democrats-allege-voter-intimidation/articleshow/135513557.cms",
+      "image": "https://static.toiimg.com/photo/msid-135513567,imgsize-105156.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
       "id": "https://www.nytimes.com/2026/11/03/world/americas/us-venezuela-strike-eln-drug-trafficking.html",
@@ -59,20 +157,6 @@
       "category": "World News",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo#0",
-      "title": "Spanish transport minister resigns days after deadly train crash",
-      "published": "2026-11-03T21:40:42+00:00",
-      "author": null,
-      "description": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
-      "link": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d61f/live/6dc1cd30-d7c6-11f1-a701-fddedf244c16.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "https://www.ndtv.com/world-news/spains-transport-minister-scar-puente-resigns-days-after-deadly-train-crash-12279204#publisher=newsstand",
@@ -495,20 +579,6 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
-      "id": "108512032",
-      "title": "JetBlue raises bag fees for third time in a year as fuel costs bite",
-      "published": "2026-11-03T20:07:50+00:00",
-      "author": null,
-      "description": "JetBlue raised baggage fees for the third time in a year as fuel costs continued to climb.",
-      "link": "https://www.cnbc.com/2026/11/03/jetblue-checked-bag-fee.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108177264-1753465786241-gettyimages-2210810836-20250420_sd_airplanes_120.jpeg?v=1753465847&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
       "id": "108508169",
       "title": "Crude oil prices fall for second day as market hopes for diplomatic resolution to Iran war",
       "published": "2026-11-03T20:02:10+00:00",
@@ -873,6 +943,20 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
+      "id": "108499352",
+      "title": "Midterm elections could jolt stocks if Democrats sweep Congress",
+      "published": "2026-11-03T18:05:18+00:00",
+      "author": null,
+      "description": "Wall Street weighs how the 2026 midterms could affect stocks, Treasury yields, artificial intelligence, energy prices, banks, defense and healthcare.",
+      "link": "https://www.cnbc.com/2026/11/03/midterm-election-stock-market.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108475287-1793203213214-108475287-17932031442026-10-28t155338z_471645677_rc2zboa6dy3a_rtrmadp_0_usa-dailylife.jpg?v=1793203220&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
       "id": "https://timesofindia.indiatimes.com/world/us/melania-trump-to-host-russia-ukraine-officials-at-white-house-over-oleshky-ceasefire/articleshow/135509258.cms",
       "title": "Melania Trump to host Russia, Ukraine officials at White House over Oleshky ceasefire",
       "published": "2026-11-03T18:01:24+00:00",
@@ -1209,20 +1293,6 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
-      "id": "108499352",
-      "title": "Midterm elections could jolt stocks if Democrats sweep Congress",
-      "published": "2026-11-03T16:51:00+00:00",
-      "author": null,
-      "description": "Wall Street weighs how the 2026 midterms could affect stocks, Treasury yields, artificial intelligence, energy prices, banks, defense and healthcare.",
-      "link": "https://www.cnbc.com/2026/11/03/midterm-election-stock-market.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108475287-1793203213214-108475287-17932031442026-10-28t155338z_471645677_rc2zboa6dy3a_rtrmadp_0_usa-dailylife.jpg?v=1793203220&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
       "id": "t3_1xmy5w4",
       "title": "Von der Leyen: ‘The closure of the Strait of Hormuz cost the EU an additional 127 billion’ - News",
       "published": "2026-11-03T16:50:19+00:00",
@@ -1417,20 +1487,6 @@
       "category": "World News",
       "feed_url": "https://www.reddit.com/r/worldnews/.rss",
       "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/03/world/europe/king-charles-speech-uk-slave-trade-antigua.html",
-      "title": "King Charles Says U.K.’s Role in Slave Trade ‘Fills My Heart With Horror’",
-      "published": "2026-11-03T15:33:45+00:00",
-      "author": "Michael D. Shear",
-      "description": "The monarch called Britain’s trafficking of slaves from Africa a “shameful chapter of history” at a meeting of Commonwealth heads of government in Antigua.",
-      "link": "https://www.nytimes.com/2026/11/03/world/europe/king-charles-speech-uk-slave-trade-antigua.html",
-      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-king-commonwealth-meeting-01-fzvc/03int-king-commonwealth-meeting-01-fzvc-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/us/trump-unveiled-the-lincoln-memorial-reflecting-pools-latest-repairs-on-november-2-after-the-blue-coating-failed-and-algae-spread-a-project-once-estimated-below-2-million-has-drawn-over-14-million-in-contracts/articleshow/135504827.cms",
@@ -13947,62 +14003,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "t3_1xji7bq",
-      "title": "Poland not warned by U.S. to soften tone on Russia, says defense chief. Reuters reported that some NATO allies, including Lithuania, Latvia and Estonia, had been told inflammatory statements were undermining European security",
-      "published": "2026-10-30T15:19:41+00:00",
-      "author": "/u/TVP_World_News",
-      "description": "submitted by /u/TVP_World_News [link] [comments]",
-      "link": "https://www.reddit.com/r/worldnews/comments/1xji7bq/poland_not_warned_by_us_to_soften_tone_on_russia/",
-      "image": "https://external-preview.redd.it/M_1LlETTSnebdOpirj3dAbB0LZUKBeJOOLdIjlQqwp8.jpeg?width=640&crop=smart&auto=webp&s=2c3ffac2eadd131744c63a25b3acfa4523a13791",
-      "feed_name": "World News",
-      "feed_title": "World News",
-      "category": "World News",
-      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
-      "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c63r529wn2vzo#1",
-      "title": "Democratic senator blames Egypt press crackdown on US military aid decision",
-      "published": "2026-10-30T15:17:11+00:00",
-      "author": null,
-      "description": "Chris Murphy said waiving a human rights condition on aid paved the way for arrests of journalists.",
-      "link": "https://www.bbc.co.uk/news/articles/c63r529wn2vzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fe5/live/560bc7b0-d454-11f1-a701-fddedf244c16.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "t3_1xji1ln",
-      "title": "Pentagon urges NATO allies to tone down warnings about Russia",
-      "published": "2026-10-30T15:13:32+00:00",
-      "author": "/u/Neptun_11",
-      "description": "submitted by /u/Neptun_11 [link] [comments]",
-      "link": "https://www.reddit.com/r/worldnews/comments/1xji1ln/pentagon_urges_nato_allies_to_tone_down_warnings/",
-      "image": "https://external-preview.redd.it/i5p22ohJWbGR6AHsTwvueWioXvIiO0itKyNKie7C5Rw.jpeg?width=640&crop=smart&auto=webp&s=0783ddc531c9f1d4d9fa18e849a09926f4be7eb2",
-      "feed_name": "World News",
-      "feed_title": "World News",
-      "category": "World News",
-      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
-      "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "108485748",
-      "title": "Swiss central bank posts bumper $23 billion profit thanks to gold, foreign assets",
-      "published": "2026-10-30T15:07:48+00:00",
-      "author": null,
-      "description": "Unlike other major central banks, the Swiss National Bank has a significant equity portfolio.",
-      "link": "https://www.cnbc.com/2026/10/30/swiss-national-bank-q3-profit-gold-foreign-asset.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108486141-1793364706366-gettyimages-2296238684-SWITZERLAND_SNB.jpeg?v=1793364727&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     }
   ]
 }
