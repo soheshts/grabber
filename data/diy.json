@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-03T13:03:53.836220+00:00",
-  "count": 651,
+  "updated": "2026-11-03T13:32:45.304934+00:00",
+  "count": 653,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.howtogeek.com/esp32-projects-you-can-set-up-in-a-browser-without-writing-any-code/",
+      "title": "5 ESP32 projects you can set up in a browser without writing any code",
+      "published": "2026-11-03T13:30:15+00:00",
+      "author": "Patrick Campanale",
+      "description": "Web flashers do the hard part, so you can skip straight to the fun.",
+      "link": "https://www.howtogeek.com/esp32-projects-you-can-set-up-in-a-browser-without-writing-any-code/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/esp32-development-board-with-microcontroller-and-components.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.makeuseof.com/bose-quietcomfort-2-deal-early-black-friday-sale/",
+      "title": "The 'excellent' Bose QuietComfort 2 headphones are already 39% off ahead of Black Friday",
+      "published": "2026-11-03T13:17:16+00:00",
+      "author": "Patrick Farmer",
+      "description": "Well, that didn't take very long.",
+      "link": "https://www.makeuseof.com/bose-quietcomfort-2-deal-early-black-friday-sale/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/bose-quietcomfort-2-review-7.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/turn-spare-phone-into-comic-reader-for-free/",
       "title": "I turned a spare phone into a distraction-free comic reader for $0",

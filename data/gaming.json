@@ -1,9 +1,23 @@
 {
   "category": "gaming",
-  "updated": "2026-11-03T13:03:53.836220+00:00",
+  "updated": "2026-11-03T13:32:45.304934+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://kotaku.com/?p=2000752726",
+      "title": "Dead By Daylight Developers Launch A Second Lengthy Attempt At Damage Control Following TheBurntPeanut Controversy",
+      "published": "2026-11-03T13:30:56+00:00",
+      "author": "John Walker",
+      "description": "Halloween hangovers continue for Behaviour Interactive",
+      "link": "https://kotaku.com/dead-by-daylight-theburntpeanut-streamer-controversy-behaviour-interactive-2000752726",
+      "image": "https://kotaku.com/app/uploads/2026/11/deadbydaylight-halloween.jpg",
+      "feed_name": "Kotaku",
+      "feed_title": "Kotaku",
+      "category": "gaming",
+      "feed_url": "https://kotaku.com/rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=kotaku.com&sz=64"
+    },
     {
       "id": "https://www.polygon.com/zero-parades-directors-cut-switch-2-ps5-xbox-release/",
       "title": "2026’s Best RPG Is Finally on Consoles Just in Time for GOTY Season",
@@ -31,6 +45,34 @@
       "category": "gaming",
       "feed_url": "https://kotaku.com/rss",
       "feed_icon": "https://www.google.com/s2/favicons?domain=kotaku.com&sz=64"
+    },
+    {
+      "id": "3e6dbd87-3da0-489b-9302-251618b66bfc",
+      "title": "Wild Horse Nine Review",
+      "published": "2026-11-03T13:00:00+00:00",
+      "author": "Scott Collura",
+      "description": "Review: Wild Horse Nine is a great hang. The script is one of Martin McDonagh's best, complemented by Rockwell's and Malkovich's beautifully nuanced performances.",
+      "link": "https://www.ign.com/articles/wild-horse-nine-review",
+      "image": "https://assets-prd.ignimgs.com/2026/11/03/wild-horse-nine-thumb-1793668023196.jpg",
+      "feed_name": "IGN All",
+      "feed_title": "IGN Articles",
+      "category": "gaming",
+      "feed_url": "http://feeds.ign.com/ign/all",
+      "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
+    },
+    {
+      "id": "5ad88015-0284-4524-99e3-09e263630aae",
+      "title": "'Go Play GTA 6, We Need to Detox,' Wardogs Developer Tells Fans as It Prepares to Take December Off",
+      "published": "2026-11-03T12:36:08+00:00",
+      "author": "Kirk McKeand",
+      "description": "After the runaway success of Wardogs, a new sandbox multiplayer shooter in Early Access on PC, the team at Bulkhead is taking a well-deserved break. They want you to know you can take a break, too.",
+      "link": "https://www.ign.com/articles/go-play-gta-6-says-wardogs-developer",
+      "image": "https://assets-prd.ignimgs.com/2026/10/28/jason-and-lucia-01-1793212840753.jpg",
+      "feed_name": "IGN All",
+      "feed_title": "IGN Articles",
+      "category": "gaming",
+      "feed_url": "http://feeds.ign.com/ign/all",
+      "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
     },
     {
       "id": "https://www.rockpapershotgun.com/arc-raiders-devs-embark-insist-that-using-genai-for-voice-lines-was-necessary-as-actors-would-just-go-crazy-if-they-had-to-read-all-of-that",
@@ -73,6 +115,20 @@
       "category": "gaming",
       "feed_url": "https://www.polygon.com/rss/index.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.polygon.com&sz=64"
+    },
+    {
+      "id": "99136d2c-42fa-4182-8aa6-21d168540b6c",
+      "title": "Mike Flanagan Teases 'Very Cool and Unexpected On-Ramp' Into the World of Warhammer 40,000 for Henry Cavill's Amazon TV Show",
+      "published": "2026-11-03T12:18:45+00:00",
+      "author": "Wesley Yin-Poole",
+      "description": "Horror specialist Mike Flanagan has issued an update on his hotly anticipated live-action Warhammer 40,000 TV series starring Henry Cavill, teasing something “unexpected” for fans.",
+      "link": "https://www.ign.com/articles/mike-flanagan-teases-very-cool-and-unexpected-on-ramp-into-the-world-of-warhammer-40000-for-henry-cavills-amazon-tv-show",
+      "image": "https://assets-prd.ignimgs.com/2026/11/03/henrycavillwarhammershowblogroll-1639133656381-1749468238633-1785228321207-1793708045643.jpeg",
+      "feed_name": "IGN All",
+      "feed_title": "IGN Articles",
+      "category": "gaming",
+      "feed_url": "http://feeds.ign.com/ign/all",
+      "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
     },
     {
       "id": "https://www.eurogamer.net/itchio-generative-ai-filters-slop",
@@ -13947,62 +14003,6 @@
       "category": "gaming",
       "feed_url": "http://feeds.ign.com/ign/all",
       "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
-    },
-    {
-      "id": "22315dc9-3bb3-4197-9f4f-ed9ccda9152f",
-      "title": "Blizzard Teases Familiar Locations for Post-Launch World of Warcraft Forever Updates",
-      "published": "2026-10-27T17:00:00+00:00",
-      "author": "Jacqueline Thomas",
-      "description": "World of Warcraft Forever gets its full release on November 4, and while the MMO will stay tethered to the two vanilla continents, Eastern Kingdoms and Kalimdor, it sounds like future updates could add some of the areas we've visited in the expansions.",
-      "link": "https://www.ign.com/articles/blizzard-teases-familiar-locations-for-post-launch-world-of-warcraft-forever-updates",
-      "image": "https://assets-prd.ignimgs.com/2022/09/24/witchking-blog-officialtrailer-1663978199643.png",
-      "feed_name": "IGN All",
-      "feed_title": "IGN Articles",
-      "category": "gaming",
-      "feed_url": "http://feeds.ign.com/ign/all",
-      "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
-    },
-    {
-      "id": "c2a2aa0d-59da-4eaa-b826-ebf9698ccbaf",
-      "title": "The Big World of Warcraft Forever Interview: Blizzard Reveals Its Plan for the Next Great MMO",
-      "published": "2026-10-27T17:00:00+00:00",
-      "author": "Jacqueline Thomas",
-      "description": "IGN interviews Blizzard on the past, present, and future of gaming's next great MMO: World of Warcraft Forever.",
-      "link": "https://www.ign.com/articles/world-of-warcraft-forever-launch-interview-blizzard-azeroth",
-      "image": "https://assets-prd.ignimgs.com/2026/09/28/wow-1790594365869.jpg",
-      "feed_name": "IGN All",
-      "feed_title": "IGN Articles",
-      "category": "gaming",
-      "feed_url": "http://feeds.ign.com/ign/all",
-      "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
-    },
-    {
-      "id": "https://www.rockpapershotgun.com/this-is-a-serious-incident-kingdom-come-deliverance-2-devs-warhorse-hit-by-cyberattack-targeting-their-systems-and-data",
-      "title": "\"This is a serious incident\": Kingdom Come: Deliverance 2 devs Warhorse hit by cyberattack targeting their systems and data",
-      "published": "2026-10-27T17:00:00+00:00",
-      "author": "Mark Warren",
-      "description": "Kingdom Come Deliverance 2 developers Warhorse, who're also working on a Lord of the Rings RPG , have revealed that they've been targeted by a cyberattack aiming to access their systems and data. The studio are currently working to make sure their locks are all clicked back into place and tolearn exactly how the incident happened. Read more",
-      "link": "https://www.rockpapershotgun.com/this-is-a-serious-incident-kingdom-come-deliverance-2-devs-warhorse-hit-by-cyberattack-targeting-their-systems-and-data",
-      "image": "https://assetsio.gnwcdn.com/kingdom-come-deliverance-2-multiplayer-mod-work-in-progress-01.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "feed_name": "Rock, Paper, Shotgun",
-      "feed_title": "Rock, Paper, Shotgun",
-      "category": "gaming",
-      "feed_url": "http://feeds.feedburner.com/RockPaperShotgun",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.rockpapershotgun.com&sz=64"
-    },
-    {
-      "id": "https://www.eurogamer.net/warhorse-cyberattack-kingdom-come-deliverance",
-      "title": "\"This is a serious incident\" - Kingdom Come: Deliverance developer Warhorse suffers cyberattack",
-      "published": "2026-10-27T16:53:16+00:00",
-      "author": "Robert Purchese",
-      "description": "Kingdom Come: Deliverance developer Warhorse Studios has confirmed it's suffered a \"serious\" cyberattack, saying it is currently working to determine the \"full extent\" of its impact. Read more",
-      "link": "https://www.eurogamer.net/warhorse-cyberattack-kingdom-come-deliverance",
-      "image": "https://assetsio.gnwcdn.com/KCDII_Standard_KA_Unbranded.png?width=690&quality=85&format=jpg&auto=webp",
-      "feed_name": "Eurogamer.net",
-      "feed_title": "Eurogamer.net Latest Articles Feed",
-      "category": "gaming",
-      "feed_url": "https://www.eurogamer.net/?format=rss",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.eurogamer.net&sz=64"
     }
   ]
 }
