@@ -1,9 +1,37 @@
 {
   "category": "technology",
-  "updated": "2026-11-03T16:03:07.250730+00:00",
+  "updated": "2026-11-03T16:33:15.605911+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.engadget.com/2303890/easy-way-turn-regular-tv-smart/",
+      "title": "The easiest way to turn your regular TV into a smart TV",
+      "published": "2026-11-03T16:15:00+00:00",
+      "author": "Maddie Fisher",
+      "description": "If you have an older TV that doesn't have smart features, you might not need to upgrade. Here's how to turn your \"dumb\" TV into a smart one.",
+      "link": "https://www.engadget.com/2303890/easy-way-turn-regular-tv-smart/",
+      "image": "https://www.engadget.com/img/gallery/the-easiest-way-to-turn-your-regular-tv-into-a-smart-tv/l-intro-1793632819.jpg",
+      "feed_name": "Engadget",
+      "feed_title": "Engadget - Technology News & Expert Reviews",
+      "category": "technology",
+      "feed_url": "https://www.engadget.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
+    {
+      "id": "https://science.slashdot.org/story/26/11/03/0537252/mit-researchers-used-gpt-6-astra-to-edit-qwens-open-weights-directly-boosting-math-scores?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "title": "MIT Researchers Used GPT-6 Astra To Edit Qwen's Open Weights Directly, Boosting Math Scores",
+      "published": "2026-11-03T16:00:00+00:00",
+      "author": "BeauHD",
+      "description": "An anonymous reader quotes a report from VentureBeat: Researchers from the Massachusetts Institute of Technology (MIT) Computer Science & Artificial Intelligence Laboratory (CSAIL) reported today that they used OpenAI's GPT-6 Astra language model to raise a small, open source Qwen model's math score roughly sixfold by directly editing its weights -- the numerical parameters that govern its behavior. Rikiya Takehi, Jayden Teoh, Alex Zhang and Omar Khattab described their work in a research blog…",
+      "link": "https://science.slashdot.org/story/26/11/03/0537252/mit-researchers-used-gpt-6-astra-to-edit-qwens-open-weights-directly-boosting-math-scores?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+      "feed_name": "Slashdot",
+      "feed_title": "Slashdot",
+      "category": "technology",
+      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
+    },
     {
       "id": "https://www.theverge.com/?post_type=vm_stream&p=1020640",
       "title": "Midterm elections 2026: all the news",
@@ -205,7 +233,7 @@
       "title": "A truck-sized NASA space telescope is about to crash to Earth",
       "published": "2026-11-03T14:17:55+00:00",
       "author": "Jess Weatherbed",
-      "description": "Almost 22 years after it was launched, NASA's Swift Observatory is now about to fall back to Earth on Wednesday after attempts to push it back into a higher orbit failed. NASA announced that the aging space telescope is anticipated to re-enter Earth's atmosphere at approximately 3:30AM ET (give or take 11 hours), and that […]",
+      "description": "Almost 22 years after it was launched, NASA's Swift Observatory is now about to fall back to Earth on Wednesday after attempts to push it back into a higher orbit failed. NASA announced that the aging space telescope is anticipated to re-enter Earth's atmosphere at approximately 3:30AM ET (give or take 11 hours) and that […]",
       "link": "https://www.theverge.com/science/1025227/nasa-swift-observatory-falling-to-earth",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/NASA-Swift-rescue-mission-failure.png?quality=90&strip=all&crop=0,0,100,100",
       "feed_name": "The Verge -  All Posts",
@@ -13975,34 +14003,6 @@
       "category": "technology",
       "feed_url": "https://www.engadget.com/rss.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
-    },
-    {
-      "id": "https://blog.google/products/ads-commerce/ads-decoded-podcast-search-data/",
-      "title": "Adapt your ad strategy to meet the way people search today.",
-      "published": "2026-10-28T19:00:00+00:00",
-      "author": null,
-      "description": "Google's Ads Decoded podcast tells you how to make smarter marketing decisions using the latest data on how consumers search.",
-      "link": "https://blog.google/products/ads-commerce/ads-decoded-podcast-search-data/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E7_YT_thumbnail.max-600x600.format-webp.webp",
-      "feed_name": "The Keyword",
-      "feed_title": "News from Google",
-      "category": "technology",
-      "feed_url": "https://www.blog.google/rss/",
-      "feed_icon": "https://blog.google/static/blogv2/images/google.png"
-    },
-    {
-      "id": "https://tech.slashdot.org/story/26/10/28/1816223/amazon-finds-tokenmaxxing-lacks-productivity-gains?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "title": "Amazon Finds 'Tokenmaxxing' Lacks Productivity Gains",
-      "published": "2026-10-28T19:00:00+00:00",
-      "author": "BeauHD",
-      "description": "Ancient Slashdot reader Gilmoure shares a report from Tom's Hardware, adding: \"Huh. Looks like consuming one's own slop does not turn the wheels of industry.\" From the report: Amazon wants its engineers to quit chasing token counts, warning that heavy AI usage does not automatically mean better work. In updated engineering guidelines published on October 27, the company laid out how developers and managers should gauge AI's real impact -- and the takeaway is blunt: consuming more tokens is not…",
-      "link": "https://tech.slashdot.org/story/26/10/28/1816223/amazon-finds-tokenmaxxing-lacks-productivity-gains?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-      "feed_name": "Slashdot",
-      "feed_title": "Slashdot",
-      "category": "technology",
-      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
     }
   ]
 }
