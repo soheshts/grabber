@@ -1,9 +1,37 @@
 {
   "category": "World News",
-  "updated": "2026-11-03T07:03:08.829250+00:00",
+  "updated": "2026-11-03T07:32:23.511508+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "108508598",
+      "title": "Aramco's profit rises as refining margins strengthen amid Iran war",
+      "published": "2026-11-03T07:24:47+00:00",
+      "author": null,
+      "description": "Aramco posted third-quarter earnings on Tuesday.",
+      "link": "https://www.cnbc.com/2026/11/03/saudi-aramcos-third-quarter-middle-east-.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108202704-17586327552025-09-23t130437z_1633395249_rc2kt5aecgw7_rtrmadp_0_repsol-m-a-saudi-aramco.jpeg?v=1758632775&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o#0",
+      "title": "Russian bombing kills 29 people at Ukraine aid centre, Kyiv says",
+      "published": "2026-11-03T07:24:12+00:00",
+      "author": null,
+      "description": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
+      "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee1e/live/8480acc0-d6eb-11f1-a741-236ee91c2e25.png",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
     {
       "id": "108508168",
       "title": "Blackstone president calls for more equity to fund AI buildout as debt risks mount",
@@ -633,20 +661,6 @@
       "category": "World News",
       "feed_url": "https://www.reddit.com/r/worldnews/.rss",
       "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o#0",
-      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
-      "published": "2026-11-03T01:56:27+00:00",
-      "author": null,
-      "description": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
-      "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee1e/live/8480acc0-d6eb-11f1-a741-236ee91c2e25.png",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "t3_1xmfyf6",
@@ -13989,20 +14003,6 @@
       "category": "World News",
       "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "t3_1xivvqt",
-      "title": "Carney says Canada wants to be 'associate member' of the European Union",
-      "published": "2026-10-29T20:52:44+00:00",
-      "author": "/u/Nightronno",
-      "description": "submitted by /u/Nightronno [link] [comments]",
-      "link": "https://www.reddit.com/r/worldnews/comments/1xivvqt/carney_says_canada_wants_to_be_associate_member/",
-      "image": null,
-      "feed_name": "World News",
-      "feed_title": "World News",
-      "category": "World News",
-      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
-      "feed_icon": "https://www.redditstatic.com/icon.png/"
     }
   ]
 }
