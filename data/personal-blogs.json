@@ -1,9 +1,23 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-03T22:32:39.050942+00:00",
+  "updated": "2026-11-03T23:03:52.339289+00:00",
   "count": 444,
   "summary": null,
   "items": [
+    {
+      "id": "https://thomasrigby.com/posts/til-turtle/",
+      "title": "#TIL: Turtle",
+      "published": "2026-11-03T22:27:33+00:00",
+      "author": "Thomas Rigby (rss@thomasrigby.com)",
+      "description": "I was today years old when I learned about the most adorable drawing software",
+      "link": "https://thomasrigby.com/posts/til-turtle/",
+      "image": null,
+      "feed_name": "Thomas Rigby",
+      "feed_title": "Thomas Rigby",
+      "category": "personal blogs",
+      "feed_url": "https://thomasrigby.com/feed.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thomasrigby.com&sz=64"
+    },
     {
       "id": "6ae777d0dddabae29b4e920f",
       "title": "A crypto and AI money guide to election night",
@@ -5491,20 +5505,6 @@
       "category": "personal blogs",
       "feed_url": "https://zander.wtf/blog.rss.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=zander.wtf&sz=64"
-    },
-    {
-      "id": "https://mattgemmell.scot/three-hundred-stories-later/",
-      "title": "Article: Three Hundred Stories Later",
-      "published": "2026-10-04T23:00:00+00:00",
-      "author": null,
-      "description": "Today marks the three-hundredth short story I’ve published, one per week, over the last (almost) six years. I haven’t missed a week yet, even when my son was born. I write extra stories ahead of time if there’s something coming up, like a trip, or indeed a pregnancy due date. A new story is published each Monday and sent out via email for free. You can also buy the full e-book compendium , if you like. There are 380,000 or so words in those stories collectively, and you can’t write that amount…",
-      "link": "https://mattgemmell.scot/three-hundred-stories-later/",
-      "image": null,
-      "feed_name": "Matt Gemmell",
-      "feed_title": "Matt Gemmell",
-      "category": "personal blogs",
-      "feed_url": "http://mattgemmell.com/atom.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=mattgemmell.scot&sz=64"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
