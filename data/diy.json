@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-03T20:03:55.830289+00:00",
-  "count": 695,
+  "updated": "2026-11-03T20:32:19.159315+00:00",
+  "count": 697,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/gpu-partitioning-windows-virtual-machine/",
+      "title": "How to share your graphics card with a Windows virtual machine",
+      "published": "2026-11-03T20:30:16+00:00",
+      "author": "Tashreef Shareef",
+      "description": "GPU partitioning lets your host and VM share the same graphics card simultaneously.",
+      "link": "https://www.makeuseof.com/gpu-partitioning-windows-virtual-machine/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/gpu-virtual-machine-device-manager-display-adapters-intel-xe-graphics.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/milwaukee-has-3-battery-systems-and-youre-buying-the-wrong-one/",
+      "title": "Milwaukee has 3 battery systems, and you're probably using the wrong one",
+      "published": "2026-11-03T20:30:15+00:00",
+      "author": "Cory Gunther",
+      "description": "Do you really need all that power?",
+      "link": "https://www.howtogeek.com/milwaukee-has-3-battery-systems-and-youre-buying-the-wrong-one/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/10/milwaukee-battery-packs-sitting-together.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/shure-sm7b-amazon-deal/",
       "title": "You can finally get a discount on one of the world's best microphones",
