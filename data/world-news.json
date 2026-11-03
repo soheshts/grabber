@@ -1,9 +1,65 @@
 {
   "category": "World News",
-  "updated": "2026-11-03T21:03:51.122940+00:00",
+  "updated": "2026-11-03T21:32:27.058729+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "108506116",
+      "title": "AMD stock jumps 7% on earnings as data center revenue nearly doubles",
+      "published": "2026-11-03T21:20:14+00:00",
+      "author": null,
+      "description": "AMD reported better-than-expected third-quarter results, driven by booming sales of AI chips",
+      "link": "https://www.cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108475788-1793209689654-gettyimages-2298419364-SKOREA_AMD.jpeg?v=1793209712&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo#0",
+      "title": "Spanish transport minister resigns days after deadly train crash",
+      "published": "2026-11-03T21:19:57+00:00",
+      "author": null,
+      "description": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
+      "link": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d61f/live/6dc1cd30-d7c6-11f1-a701-fddedf244c16.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/we-will-find-you-hunt-you-down-trumps-dhs-secretary-warns-illegal-voters-on-election-day-newsom-fights-it-out-with-ice/articleshow/135513071.cms",
+      "title": "‘We will find you, hunt you down’: Trump’s DHS secretary warns illegal voters on Election Day; Newsom fights it out with ICE",
+      "published": "2026-11-03T21:11:50+00:00",
+      "author": "Poulomi Ghosh",
+      "description": "",
+      "link": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/we-will-find-you-hunt-you-down-trumps-dhs-secretary-warns-illegal-voters-on-election-day-newsom-fights-it-out-with-ice/articleshow/135513071.cms",
+      "image": "https://static.toiimg.com/photo/msid-135513176,imgsize-51320.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/who-protects-those-counting-americas-votes-us-election-workers-face-threats-amid-midterms/articleshow/135512154.cms",
+      "title": "Who protects those counting America's votes? US election workers face threats amid midterms",
+      "published": "2026-11-03T20:58:54+00:00",
+      "author": "TOI World Desk",
+      "description": "In response to escalating threats and harassment, local government workers overseeing elections in the US are now under heightened security measures. This includes installation of bulletproof glass and emergency panic buttons, alongside training to manage aggressive behavior and suspicious items. The situation is compounded by the departure of numerous election officials, complicating recruitment efforts. Federal authorities remain dedicated to investigating threats to maintain the integrity of…",
+      "link": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/who-protects-those-counting-americas-votes-us-election-workers-face-threats-amid-midterms/articleshow/135512154.cms",
+      "image": "https://static.toiimg.com/photo/msid-135513036,imgsize-64881.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
     {
       "id": "https://www.nytimes.com/2026/11/03/world/canada/canada-west-bank-lawsuit.html",
       "title": "West Bank Property Sales Tactics Face a Challenge in Canada",
@@ -45,20 +101,6 @@
       "category": "World News",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo#0",
-      "title": "Spanish transport minister resigns days after deadly train crash",
-      "published": "2026-11-03T20:56:32+00:00",
-      "author": null,
-      "description": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
-      "link": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d61f/live/6dc1cd30-d7c6-11f1-a701-fddedf244c16.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "108512166",
@@ -115,6 +157,20 @@
       "category": "World News",
       "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
       "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
+      "id": "t3_1xn4lmx",
+      "title": "Spanish transport minister resigns after two deadly train crashes in one year",
+      "published": "2026-11-03T20:43:51+00:00",
+      "author": "/u/cnn",
+      "description": "submitted by /u/cnn [link] [comments]",
+      "link": "https://www.reddit.com/r/worldnews/comments/1xn4lmx/spanish_transport_minister_resigns_after_two/",
+      "image": "https://external-preview.redd.it/ltI4zo86AaH-IvNuBEIj96fVXZWC5Ymrtj3wtTWZxXQ.png?width=640&crop=smart&auto=webp&s=8825187f1cb3c1d141f1a30eb36ffeb158ea9112",
+      "feed_name": "World News",
+      "feed_title": "World News",
+      "category": "World News",
+      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
+      "feed_icon": "https://www.redditstatic.com/icon.png/"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo#0",
@@ -283,6 +339,20 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
+      "id": "t3_1xn3ywe",
+      "title": "Russia Looks to Delay Defense Ministry Pay Amid Budget Gap",
+      "published": "2026-11-03T20:19:51+00:00",
+      "author": "/u/Marketmanipulator941",
+      "description": "submitted by /u/Marketmanipulator941 [link] [comments]",
+      "link": "https://www.reddit.com/r/worldnews/comments/1xn3ywe/russia_looks_to_delay_defense_ministry_pay_amid/",
+      "image": "https://external-preview.redd.it/89hREkEhqtuvlzyWney-nPRpeZyS6AoY3lRQtr0_5hc.jpeg?width=640&crop=smart&auto=webp&s=c8803e1f29c294b48d4104f44ab0962b10b4f7b7",
+      "feed_name": "World News",
+      "feed_title": "World News",
+      "category": "World News",
+      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
+      "feed_icon": "https://www.redditstatic.com/icon.png/"
     },
     {
       "id": "108505692",
@@ -13933,76 +14003,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "t3_1xjh2k3",
-      "title": "Australian court orders Erin Patterson never to be released from prison for mushroom poisonings",
-      "published": "2026-10-30T14:35:39+00:00",
-      "author": "/u/NightmaresOfDarkness",
-      "description": "submitted by /u/NightmaresOfDarkness [link] [comments]",
-      "link": "https://www.reddit.com/r/worldnews/comments/1xjh2k3/australian_court_orders_erin_patterson_never_to/",
-      "image": "https://external-preview.redd.it/XfeIdkZN5BrEiN6Zckd_ljBNRtK5JIlsdzggHbz2Tp0.jpeg?width=640&crop=smart&auto=webp&s=c27682d56fc5c1d1f35dd14e0337f1aec51368a9",
-      "feed_name": "World News",
-      "feed_title": "World News",
-      "category": "World News",
-      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
-      "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/us/in-2002-two-friends-began-selling-15-tickets-to-a-strip-mall-haunted-house-in-denver-by-2026-their-business-had-expanded-to-18-halloween-attractions-and-around-4500-seasonal-jobs/articleshow/135358103.cms",
-      "title": "How two US friends turned a small haunted house into a multimillion-dollar Halloween business",
-      "published": "2026-10-30T14:30:00+00:00",
-      "author": "TOI World Desk",
-      "description": "Two friends, Chris Stafford and Warren Conard, opened a haunted house in a Denver shopping complex in 2002, charging $15 per ticket. What began as a side business has grown into a multimillion-dollar company with 18 seasonal Halloween attractions across the US. The company paid around 4,500 workers during the 2025 Halloween season and is now expanding into Christmas entertainment.",
-      "link": "https://timesofindia.indiatimes.com/world/us/in-2002-two-friends-began-selling-15-tickets-to-a-strip-mall-haunted-house-in-denver-by-2026-their-business-had-expanded-to-18-halloween-attractions-and-around-4500-seasonal-jobs/articleshow/135358103.cms",
-      "image": "https://static.toiimg.com/photo/msid-135359881,imgsize-79364.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/bride-nearly-lifted-by-giant-balloons-during-wedding-photoshoot-in-turkey-12259829#publisher=newsstand",
-      "title": "Bride Nearly Lifted By Giant Balloons During Wedding Photoshoot In Turkey",
-      "published": "2026-10-30T14:23:58+00:00",
-      "author": null,
-      "description": "The incident took place on October 26 in Istanbul.",
-      "link": "https://www.ndtv.com/world-news/bride-nearly-lifted-by-giant-balloons-during-wedding-photoshoot-in-turkey-12259829#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-10/t778rsv8_viral-video-_625x300_30_October_26.jpeg",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/us/meet-landon-hoberman-17-from-new-jersey-whose-campaign-to-stop-unwanted-plastic-cutlery-is-credited-with-preventing-8-1-million-single-use-utensils-and-saving-restaurants-more-than-200000/articleshow/135364478.cms",
-      "title": "17-Year-Old’s Campaign Against Plastic Cutlery Prevents 8.1 Million Single-Use Utensils",
-      "published": "2026-10-30T14:21:48+00:00",
-      "author": "TOI World Desk",
-      "description": "Landon Hoberman, a 17-year-old from New Jersey, has made remarkable strides in reducing plastic cutlery usage in restaurants. His campaign has succeeded in keeping over 8 million utensils out of landfills, while restaurants collectively saved more than $200,000 by making cutlery optional for takeaway. This initiative showcases how small changes can lead to significant environmental impact and financial savings, presenting a scalable model for communities seeking to tackle single-use plastics.",
-      "link": "https://timesofindia.indiatimes.com/world/us/meet-landon-hoberman-17-from-new-jersey-whose-campaign-to-stop-unwanted-plastic-cutlery-is-credited-with-preventing-8-1-million-single-use-utensils-and-saving-restaurants-more-than-200000/articleshow/135364478.cms",
-      "image": "https://static.toiimg.com/photo/msid-135364694,imgsize-28405.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/10/30/business/mosquito-laser-ai.html",
-      "title": "A Powerful Mosquito-Hunting Laser Uses A.I. to Zap Winged Pests",
-      "published": "2026-10-30T14:14:36+00:00",
-      "author": "Keith Bradsher",
-      "description": "Using sensors developed for self-driving cars, a Chinese start-up claims it can track and destroy tiny flying targets while avoiding people, pets and reflective surfaces.",
-      "link": "https://www.nytimes.com/2026/10/30/business/mosquito-laser-ai.html",
-      "image": "https://static01.nyt.com/images/2026/10/19/arts/rv-ai-mosquitos-final-v3/rv-ai-mosquitos-final-v3-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     }
   ]
 }
