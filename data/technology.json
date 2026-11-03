@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated": "2026-11-03T11:33:37.570986+00:00",
+  "updated": "2026-11-03T12:03:24.531106+00:00",
   "count": 1000,
   "summary": null,
   "items": [
@@ -17,6 +17,34 @@
       "category": "technology",
       "feed_url": "https://www.blog.google/rss/",
       "feed_icon": "https://blog.google/static/blogv2/images/google.png"
+    },
+    {
+      "id": "https://www.theverge.com/?p=1024504",
+      "title": "Redmagic upgrades its liquid-cooled gaming phone with extra RGBs",
+      "published": "2026-11-03T12:00:00+00:00",
+      "author": "Dominic Preston",
+      "description": "After introducing true liquid cooling to its gaming phones last year, Redmagic is upping the ante in its 12 Pro by building RGB lights into the transparent cooling loop, too. And they work! Sort of. The lights do turn on, and they can be set to glow in set patterns, activate for specific apps, or […]",
+      "link": "https://www.theverge.com/gadgets/1024504/redmagic-12-pro-liquid-cooling-rgb-lighting-185hz-camera",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/redmagic-12-pro-3.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "feed_name": "The Verge -  All Posts",
+      "feed_title": "The Verge",
+      "category": "technology",
+      "feed_url": "https://www.theverge.com/rss/index.xml",
+      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
+    },
+    {
+      "id": "https://www.theverge.com/?p=1024747",
+      "title": "Rivian spinoff Also wants to reinvent the wheel — but first, it has to ship",
+      "published": "2026-11-03T12:00:00+00:00",
+      "author": "Andrew J. Hawkins",
+      "description": "When Rivian quietly spun off its micromobility brand, Also, a lot of observers wondered if the luxury EV maker had bitten off more than it can chew. Chris Yu insists that's not the case. Yu, a Stanford aeronautics PhD and former CTO at Specialized, runs the startup as an independent business that counts Rivian as […]",
+      "link": "https://www.theverge.com/transportation/1024747/rivian-spinoff-also-chris-yu-interview-ebike-production-ramp",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2242247571.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "feed_name": "The Verge -  All Posts",
+      "feed_title": "The Verge",
+      "category": "technology",
+      "feed_url": "https://www.theverge.com/rss/index.xml",
+      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
     },
     {
       "id": "06W8xFn0kOatqAyg372LWdk",
@@ -13975,34 +14003,6 @@
       "category": "technology",
       "feed_url": "https://www.blog.google/rss/",
       "feed_icon": "https://blog.google/static/blogv2/images/google.png"
-    },
-    {
-      "id": "https://blog.google/products-and-platforms/products/chrome/enhanced-autofill-gmail/",
-      "title": "Chrome’s enhanced autofill helps you fill out forms with suggestions pulled from Gmail.",
-      "published": "2026-10-28T17:00:00+00:00",
-      "author": "Amanda Lim",
-      "description": "Chrome enhanced autofill",
-      "link": "https://blog.google/products-and-platforms/products/chrome/enhanced-autofill-gmail/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Chrome_Ambient_Autofill_Static_.max-600x600.format-webp.webp",
-      "feed_name": "The Keyword",
-      "feed_title": "News from Google",
-      "category": "technology",
-      "feed_url": "https://www.blog.google/rss/",
-      "feed_icon": "https://blog.google/static/blogv2/images/google.png"
-    },
-    {
-      "id": "https://www.theverge.com/?p=1020626",
-      "title": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
-      "published": "2026-10-28T17:00:00+00:00",
-      "author": "Andrew Liszewski",
-      "description": "Following improvements made to Chrome's enhanced autofill last year that included your name, passport number, email address, and physical addresses sourced from your Google Accounts and services like Google Wallet, the feature is now expanding. Starting today, Chrome's enhanced autofill will use Gemini with Personal Intelligence to suggest information sourced from your Gmail, potentially saving […]",
-      "link": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/chrome.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "feed_name": "The Verge -  All Posts",
-      "feed_title": "The Verge",
-      "category": "technology",
-      "feed_url": "https://www.theverge.com/rss/index.xml",
-      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
     }
   ]
 }

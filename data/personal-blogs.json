@@ -1,9 +1,23 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-03T11:33:37.570986+00:00",
+  "updated": "2026-11-03T12:03:24.531106+00:00",
   "count": 441,
   "summary": null,
   "items": [
+    {
+      "id": "http://www.effortmark.co.uk/?p=1590",
+      "title": "An app that reads alt-text from pptx",
+      "published": "2026-11-03T11:00:42+00:00",
+      "author": "Caroline Jarrett",
+      "description": "We think that it’s really important to make PowerPoint presentations accessible. And that means: writing alt-text for all the images. The PowerPoint Checker app: reads a file in .pptx format, checks the reading order of each item on each slide extracts all the Continue reading... An app that reads alt-text from pptx",
+      "link": "https://www.effortmark.co.uk/alt-text-from-pptx/",
+      "image": "https://www.effortmark.co.uk/wp-content/uploads/2021/09/pptx-checker-300.jpg",
+      "feed_name": "Effortmark",
+      "feed_title": "Effortmark",
+      "category": "personal blogs",
+      "feed_url": "http://www.effortmark.co.uk/feed/",
+      "feed_icon": "https://www.effortmark.co.uk/wp-content/uploads/2019/04/cropped-Effortmark-Logo-Favicon-32x32.jpg"
+    },
     {
       "id": "https://jeffbridgforth.com/?p=12707",
       "title": "Weeknotes 26:44",
@@ -5449,20 +5463,6 @@
       "category": "personal blogs",
       "feed_url": "https://chriscoyier.net/feed/",
       "feed_icon": "https://i0.wp.com/chriscoyier.net/wp-content/uploads/2021/07/IsUISvAq_400x400.jpg?fit=32%2C32&quality=89&ssl=1"
-    },
-    {
-      "id": "https://shkspr.mobi/blog/?p=72702",
-      "title": "My Pitch for the New Season of Doctor Who",
-      "published": "2026-10-04T11:34:50+00:00",
-      "author": "Terence Eden",
-      "description": "With the news that the BBC are tendering for a new series of Doctor Who, I thought I'd write down what I want from the show. This is, to be fair, pure fan-service wankery with zero chance of being made. I've based it on the oft-made observation that Hollywood is obsessed with remaking successful films rather than trying to remake unsuccessful ones. Do we really need another Spider-Man origin…",
-      "link": "https://shkspr.mobi/blog/2026/10/my-pitch-for-the-new-season-of-doctor-who/",
-      "image": "https://shkspr.mobi/blog/wp-content/themes/edent-wordpress-theme/info/okgo.php?ID=72702&HTTP_REFERER=Atom",
-      "feed_name": "Terence Eden’s Blog",
-      "feed_title": "Terence Eden’s Blog",
-      "category": "personal blogs",
-      "feed_url": "https://shkspr.mobi/blog/feed/atom/",
-      "feed_icon": "https://shkspr.mobi/blog/wp-content/uploads/2023/07/cropped-avatar-32x32.jpeg"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
