@@ -1,9 +1,23 @@
 {
   "category": "science",
-  "updated": "2026-11-03T02:33:02.857026+00:00",
+  "updated": "2026-11-03T03:02:58.387307+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "news712848258",
+      "title": "Study dives into lesser-known climate impacts of global reforestation",
+      "published": "2026-11-03T02:40:01+00:00",
+      "author": null,
+      "description": "Simon Fraser University researchers are zeroing in on how global forestation efforts impact our climate system beyond CO₂ removal in a new study.",
+      "link": "https://phys.org/news/2026-11-lesser-climate-impacts-global-reforestation.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/sfu-study-dives-into-l.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
     {
       "id": "news712833716",
       "title": "Ceres' water ice can mask massive surface salt deposits",
@@ -13989,20 +14003,6 @@
       "category": "science",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2026/10/261023023734.htm",
-      "title": "NASA’s asteroid Bennu samples reveal a 4.5-billion-year-old secret",
-      "published": "2026-10-24T12:50:06+00:00",
-      "author": null,
-      "description": "Tiny samples from asteroid Bennu are rewriting scientists' understanding of how our Solar System formed. New evidence suggests that Bennu was born where material from the inner and outer Solar System mixed, with Jupiter playing a surprising role in shaping its formation.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261023023734.htm",
-      "image": null,
-      "feed_name": "Latest Science News -- ScienceDaily",
-      "feed_title": "Latest Science News -- ScienceDaily",
-      "category": "science",
-      "feed_url": "https://www.sciencedaily.com/rss/all.xml",
-      "feed_icon": "https://www.sciencedaily.com/images/scidaily-logo-rss.png"
     }
   ]
 }
