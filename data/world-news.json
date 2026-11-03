@@ -1,9 +1,51 @@
 {
   "category": "World News",
-  "updated": "2026-11-03T01:33:23.383233+00:00",
+  "updated": "2026-11-03T02:03:48.663225+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o#0",
+      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+      "published": "2026-11-03T01:56:27+00:00",
+      "author": null,
+      "description": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
+      "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee1e/live/8480acc0-d6eb-11f1-a741-236ee91c2e25.png",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://www.theguardian.com/australia-news/live/2026/nov/03/rba-interest-rates-meeting-today-latest-news-australia-reserve-bank-cash-rate-announcement-decision-live-updates",
+      "title": "RBA interest rates live: Reserve Bank of Australia meeting today before cash rate decision and announcement – latest news",
+      "published": "2026-11-03T01:52:57+00:00",
+      "author": "Nick Visser",
+      "description": "Reserve Bank is expected to raise interest rates to an 18-year high on Tuesday, the fifth hike this year Get our breaking news email , free app or daily news podcast Anthony Albanese defended his government’s record in the face of a likely rate hike. The prime minister is in Saint John’s, Antigua and Barbuda, for the Commonwealth heads of government meeting at the request of King Charles. We work each and every day on cost of living. What I recognise as well is that by engaging in the world, we…",
+      "link": "https://www.theguardian.com/australia-news/live/2026/nov/03/rba-interest-rates-meeting-today-latest-news-australia-reserve-bank-cash-rate-announcement-decision-live-updates",
+      "image": "https://i.guim.co.uk/img/media/4b59f9affe07234b60bcd306cbe130d9aa41c2ee/10_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=063deab0053c8ab11e20721a0b4edc90",
+      "feed_name": "The Guardian",
+      "feed_title": "World news | The Guardian",
+      "category": "World News",
+      "feed_url": "https://www.theguardian.com/world/rss",
+      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
+    {
+      "id": "108507068",
+      "title": "North Korea denies links to Binance hack as researchers trace stolen billions",
+      "published": "2026-11-03T01:52:28+00:00",
+      "author": null,
+      "description": "North Korea rejected U.S. allegations linking it to the Binance hack as blockchain researchers traced billions in stolen cryptocurrency across networks.",
+      "link": "https://www.cnbc.com/2026/11/03/north-korea-binance-elliptic-chainalysis.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/106499002-15874838120502019-03-02t052208z_863148038_rc137238e550_rtrmadp_3_vietnam-northkorea.jpg?v=1587483883&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
     {
       "id": "108504882",
       "title": "Supreme Court rejects DOJ's bid to block California from counting disputed ballots",
@@ -19,13 +61,27 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
+      "id": "t3_1xmfsur",
+      "title": "US struck Iran's Qeshm Island, Wall Street Journal reports",
+      "published": "2026-11-03T01:30:46+00:00",
+      "author": "/u/CircumspectCapybara",
+      "description": "submitted by /u/CircumspectCapybara [link] [comments]",
+      "link": "https://www.reddit.com/r/worldnews/comments/1xmfsur/us_struck_irans_qeshm_island_wall_street_journal/",
+      "image": null,
+      "feed_name": "World News",
+      "feed_title": "World News",
+      "category": "World News",
+      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
+      "feed_icon": "https://www.redditstatic.com/icon.png/"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo#1",
       "title": "North Korea denies being behind record $6.3bn Binance hack",
       "published": "2026-11-03T01:23:03+00:00",
       "author": null,
       "description": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
       "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b9c/live/3d06bb60-d721-11f1-b335-69af4183ea6e.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a90/live/75145840-d727-11f1-b237-93d5595d4291.jpg",
       "feed_name": "BBC News - World",
       "feed_title": "BBC News",
       "category": "World News",
@@ -423,20 +479,6 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o#0",
-      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
-      "published": "2026-11-02T21:10:04+00:00",
-      "author": null,
-      "description": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
-      "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee1e/live/8480acc0-d6eb-11f1-a741-236ee91c2e25.png",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "https://www.nytimes.com/2026/11/02/world/africa/trump-south-africa-trade-program-agoa.html",
@@ -1253,7 +1295,7 @@
     {
       "id": "https://www.nytimes.com/2026/11/02/world/europe/serbia-hungary-elections-trump.html",
       "title": "Why Orban and Vucic Broke With Trump on Election Denial",
-      "published": "2026-11-02T16:48:12+00:00",
+      "published": "2026-11-02T16:48:13+00:00",
       "author": "Andrew Higgins",
       "description": "Rejecting President Trump’s election denial playbook, nationalist leaders in Serbia and Hungary opted for an orderly retreat.",
       "link": "https://www.nytimes.com/2026/11/02/world/europe/serbia-hungary-elections-trump.html",
@@ -13961,48 +14003,6 @@
       "category": "World News",
       "feed_url": "https://www.theguardian.com/world/rss",
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/amid-record-turnout-in-israel-a-look-at-past-performance-of-arab-parties-12255904#publisher=newsstand",
-      "title": "Amid Record Turnout In Israel, A Look At Past Performance Of Arab Parties",
-      "published": "2026-10-29T17:40:29+00:00",
-      "author": null,
-      "description": "The left-wing Joint List was projected to win 12 seats, and the socially conservative United Arab List, or Ra'am, could win seven seats, putting them in a kingmaker's position in forming the next government.",
-      "link": "https://www.ndtv.com/world-news/amid-record-turnout-in-israel-a-look-at-past-performance-of-arab-parties-12255904#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-10/n4jfcevo_datafy_625x300_29_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
-      "id": "108477606",
-      "title": "Analysis: Kevin Warsh is keeping Wall Street guessing. It may be his most powerful tool",
-      "published": "2026-10-29T17:32:34+00:00",
-      "author": null,
-      "description": "The new chairman made clear he leans toward higher interest rates, but left himself options depending on how the data comes in.",
-      "link": "https://www.cnbc.com/2026/10/29/kevin-warsh-fed-october-rate-decision-december-hike.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108476071-1793213743711-gettyimages-2302418579-aw1a9798_mrowkbqv.jpeg?v=1793213760&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "t3_1xiqf9l",
-      "title": "Ottawa vows to prepare for all contingencies, ‘including war,’ in national security plan",
-      "published": "2026-10-29T17:28:45+00:00",
-      "author": "/u/MilkyWayObserver",
-      "description": "submitted by /u/MilkyWayObserver [link] [comments]",
-      "link": "https://www.reddit.com/r/worldnews/comments/1xiqf9l/ottawa_vows_to_prepare_for_all_contingencies/",
-      "image": "https://external-preview.redd.it/nEqiumPNhuH3ffUV1asmUoo2Vj3MsxzsKGagrnko4Rk.jpeg?width=640&crop=smart&auto=webp&s=6f768ca6721303c3f2b1bf692c1f0986386bc8a5",
-      "feed_name": "World News",
-      "feed_title": "World News",
-      "category": "World News",
-      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
-      "feed_icon": "https://www.redditstatic.com/icon.png/"
     }
   ]
 }
