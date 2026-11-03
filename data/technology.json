@@ -1,9 +1,37 @@
 {
   "category": "technology",
-  "updated": "2026-11-03T15:32:50.427986+00:00",
+  "updated": "2026-11-03T16:03:07.250730+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.theverge.com/?post_type=vm_stream&p=1020640",
+      "title": "Midterm elections 2026: all the news",
+      "published": "2026-11-03T15:58:39+00:00",
+      "author": "Lauren Feiner",
+      "description": "The 2026 midterm elections will determine the scope of President Donald Trump’s power in his final two years in office, and signal what voters care about going into the 2028 presidential election. While this year’s races are expected to be most broadly defined by affordability issues, there’s several topics impacting the tech industry that appear […]",
+      "link": "https://www.theverge.com/policy/1020640/midterm-elections-2026-all-the-news",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK423_ELECTIONS2.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "feed_name": "The Verge -  All Posts",
+      "feed_title": "The Verge",
+      "category": "technology",
+      "feed_url": "https://www.theverge.com/rss/index.xml",
+      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
+    },
+    {
+      "id": "https://www.engadget.com/2300406/what-does-h-plus-symbol-mean-samsung-phone/",
+      "title": "What does the H+ symbol mean on your Samsung phone?",
+      "published": "2026-11-03T15:45:00+00:00",
+      "author": "Christine Persaud",
+      "description": "The status bar of your smartphone is littered with arcane symbols that are mostly undecipherable. We all know what 4G and 5G are, so what is H+?",
+      "link": "https://www.engadget.com/2300406/what-does-h-plus-symbol-mean-samsung-phone/",
+      "image": "https://www.engadget.com/img/gallery/what-does-the-h-symbol-mean-on-your-samsung-phone/l-intro-1792776714.jpg",
+      "feed_name": "Engadget",
+      "feed_title": "Engadget - Technology News & Expert Reviews",
+      "category": "technology",
+      "feed_url": "https://www.engadget.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
     {
       "id": "https://www.theverge.com/?p=1025245",
       "title": "Apple is all in on AI — its own and everyone else’s",
@@ -11,7 +39,7 @@
       "author": "Rani Molla",
       "description": "Apple's latest earnings show how it's continuing to capitalize on the AI boom without busting its budget on the infrastructure spending consuming its competitors. Overall, Apple posted its best-ever fiscal year for revenue and earnings per share. iPhone and Mac sales continued to grow strongly in the fourth quarter. iPhone revenue rose 17.5% from a […]",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951261/VRG_Illo_N_Barclay_5_apple.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2301906266.jpg?quality=90&strip=all&crop=0,0,100,100",
       "feed_name": "The Verge -  All Posts",
       "feed_title": "The Verge",
       "category": "technology",
@@ -13975,34 +14003,6 @@
       "category": "technology",
       "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
       "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
-    },
-    {
-      "id": "01M61TKRZS4S045XN049CT5FAC",
-      "title": "10 Fun and Quirky iPhone Duo Apps Worth Checking Out",
-      "published": "2026-10-28T19:00:00+00:00",
-      "author": "Pranay Parab",
-      "description": "Unfold your iPhone Duo to solve puzzles, play music, and more.",
-      "link": "https://lifehacker.com/tech/fun-iphone-duo-apps?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M61TKRZS4S045XN049CT5FAC/hero-image.jpg",
-      "feed_name": "Lifehacker",
-      "feed_title": "Lifehacker",
-      "category": "technology",
-      "feed_url": "https://lifehacker.com/rss",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=lifehacker.com&sz=64"
-    },
-    {
-      "id": "https://www.theverge.com/?p=1021165",
-      "title": "Brendan Carr plans to let prisons jam cellphone signals",
-      "published": "2026-10-28T18:57:02+00:00",
-      "author": "Stevie Bonifield",
-      "description": "FCC Chairman Brendan Carr announced the agency will vote on November 19th on rules that would allow prisons to use signal jamming. Radiofrequency jammers are generally banned under Section 333 and the Communications Act of 1934, with few exceptions, and Carr has noted they've been permitted for use at some federal facilities already. Carr claims […]",
-      "link": "https://www.theverge.com/policy/1021165/fcc-brendan-carr-prison-phone-jamming",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STKS513_FCC_D.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "feed_name": "The Verge -  All Posts",
-      "feed_title": "The Verge",
-      "category": "technology",
-      "feed_url": "https://www.theverge.com/rss/index.xml",
-      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
     }
   ]
 }
