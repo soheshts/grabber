@@ -1,9 +1,23 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-03T13:32:45.304934+00:00",
-  "count": 444,
+  "updated": "2026-11-03T14:03:48.208474+00:00",
+  "count": 445,
   "summary": null,
   "items": [
+    {
+      "id": "https://daverupert.com/2026/11/write-mo/",
+      "title": "Write mo'",
+      "published": "2026-11-03T13:34:00+00:00",
+      "author": null,
+      "description": "I decided not to do #NaNoWriMo this year. Part of that is because I’ve never done it. Never even attempted it. Don’t even want to. Writing a novel is a life goal of mine, but cramming it all into one month isn’t for me. November is impossibly busy. But I do think it would be cool to have a big excuse for avoiding all those obligations. “Dave, come to this holiday party!” “Sorry, I’m writing a novel.” “Dave, come work at the school’s fall carnival!” “Sorry, I’m writing a novel.” “Dave, pay atten…",
+      "link": "https://daverupert.com/2026/11/write-mo/",
+      "image": "https://cdn.daverupert.com/posts/2026/nine-billion-names-of-god.webp",
+      "feed_name": "Dave Rupert",
+      "feed_title": "daverupert.com",
+      "category": "personal blogs",
+      "feed_url": "https://daverupert.com/atom.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=daverupert.com&sz=64"
+    },
     {
       "id": "https://shkspr.mobi/blog/?p=73536",
       "title": "Just a little AI resistance, as a treat",
@@ -31,6 +45,20 @@
       "category": "personal blogs",
       "feed_url": "http://www.effortmark.co.uk/feed/",
       "feed_icon": "https://www.effortmark.co.uk/wp-content/uploads/2019/04/cropped-Effortmark-Logo-Favicon-32x32.jpg"
+    },
+    {
+      "id": "https://ronaldsvilcins.com/2026/11/03/why-content-visibility-often-needs-contain-intrinsic-size/",
+      "title": "Why content-visibility Often Needs contain-intrinsic-size",
+      "published": "2026-11-03T06:00:00+00:00",
+      "author": "Ronalds Vilciņš",
+      "description": "contain-intrinsic-size reserves space while content-visibility skips rendering. See how auto remembers sizes and how to choose useful placeholder values.",
+      "link": "https://ronaldsvilcins.com/2026/11/03/why-content-visibility-often-needs-contain-intrinsic-size/",
+      "image": "https://ronaldsvilcins.com/og/04b0f3464e17c1a76375bf0f95424a27a89c2730d54c1df92148c6bb7bd93cf1.jpg",
+      "feed_name": "Ronalds Vilciņš",
+      "feed_title": "Ronalds Vilciņš",
+      "category": "personal blogs",
+      "feed_url": "https://ronaldsvilcins.com/atom.xml",
+      "feed_icon": "https://ronaldsvilcins.com/favicon.png"
     },
     {
       "id": "https://jeffbridgforth.com/?p=12707",
@@ -5491,20 +5519,6 @@
       "category": "personal blogs",
       "feed_url": "https://gomakethings.com/feed/index.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=gomakethings.com&sz=64"
-    },
-    {
-      "id": "https://chriscoyier.net/?p=14056",
-      "title": "im Water",
-      "published": "2026-10-04T13:58:55+00:00",
-      "author": "Chris Coyier",
-      "description": "This promotional video is either too weird or not weird enough, but I like core idea of im Water: a carrying strap for a water bottle designed into the label itself. The family business had a screen printing business growing up, including a big die cutting machine, which could totally be used for a job […]",
-      "link": "https://chriscoyier.net/2026/10/04/im-water/",
-      "image": null,
-      "feed_name": "Chris Coyier",
-      "feed_title": "Chris Coyier",
-      "category": "personal blogs",
-      "feed_url": "https://chriscoyier.net/feed/",
-      "feed_icon": "https://i0.wp.com/chriscoyier.net/wp-content/uploads/2021/07/IsUISvAq_400x400.jpg?fit=32%2C32&quality=89&ssl=1"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",

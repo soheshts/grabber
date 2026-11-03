@@ -1,9 +1,65 @@
 {
   "category": "World News",
-  "updated": "2026-11-03T13:32:45.304934+00:00",
+  "updated": "2026-11-03T14:03:48.208474+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "108508169",
+      "title": "U.S. crude oil falls below $95 per barrel as market hopes for diplomatic resolution to Iran war",
+      "published": "2026-11-03T13:58:32+00:00",
+      "author": null,
+      "description": "The rebound in oil prices come a day after the U.S. and Iranian presidents signalled they are open to a diplomatic solution to Iran war.",
+      "link": "https://www.cnbc.com/2026/11/03/oil-prices-climb-after-us-reportedly-strikes-irans-qeshm-island.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108372905-1791235928184-gettyimages-2298177809-AFP_D2BL2AG.jpeg?v=1791235982&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo#0",
+      "title": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
+      "published": "2026-11-03T13:55:47+00:00",
+      "author": null,
+      "description": "Supermarkets have reported problems from Estonia and Sweden to Portugal and Italy and many retainers have been forced to discard food.",
+      "link": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a890/live/d92739f0-d778-11f1-9539-05485195b558.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "108505122",
+      "title": "Versant earnings beat expectations as digital platforms drive growth",
+      "published": "2026-11-03T13:48:04+00:00",
+      "author": null,
+      "description": "Versant posted third-quarter earnings that beat Wall Street expectations and reaffirmed its full-year guidance.",
+      "link": "https://www.cnbc.com/2026/11/03/versant-vsnt-q3-2026-earnings.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108351052-1787071877038-NV1F62R.jpg?v=1793654489&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cm9wz01dx8xro#1",
+      "title": "Jet may have broken apart before Florida crash, officials say, as family named among victims",
+      "published": "2026-11-03T13:44:44+00:00",
+      "author": null,
+      "description": "Adam Robinson, Helen Sharp, and their two children - Emma, four, and Charlie, two - died after the plane nosedived.",
+      "link": "https://www.bbc.co.uk/news/articles/cm9wz01dx8xro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fb6/live/93e34d90-d70d-11f1-a0eb-498100a176c1.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
     {
       "id": "108499352",
       "title": "Midterm elections could jolt stocks if Democrats sweep Congress",
@@ -61,6 +117,20 @@
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
+      "id": "https://timesofindia.indiatimes.com/world/us/in-2012-a-us-student-was-forgotten-in-a-dea-cell-for-five-days-without-food-or-water-he-drank-his-own-urine-to-survive-and-the-government-later-paid-him-4-1-million-in-a-settlement/articleshow/135501239.cms",
+      "title": "US student forgotten in DEA cell for 5 days gets $4.1 million",
+      "published": "2026-11-03T13:23:59+00:00",
+      "author": "TOI World Desk",
+      "description": "",
+      "link": "https://timesofindia.indiatimes.com/world/us/in-2012-a-us-student-was-forgotten-in-a-dea-cell-for-five-days-without-food-or-water-he-drank-his-own-urine-to-survive-and-the-government-later-paid-him-4-1-million-in-a-settlement/articleshow/135501239.cms",
+      "image": "https://static.toiimg.com/photo/msid-135501418,imgsize-776940.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
       "id": "108509759",
       "title": "Russia confirms new Ukraine peace talks as Melania Trump prepares to host ceasefire meeting",
       "published": "2026-11-03T13:22:25+00:00",
@@ -87,20 +157,6 @@
       "category": "World News",
       "feed_url": "https://www.theguardian.com/world/rss",
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo#0",
-      "title": "Europe on alert after supermarket freezers hit by cyber-attacks in nine countries",
-      "published": "2026-11-03T13:12:04+00:00",
-      "author": null,
-      "description": "Supermarkets have reported problems from Estonia and Sweden to Portugal and Italy and many retainers have been forced to discard food.",
-      "link": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a890/live/d92739f0-d778-11f1-9539-05485195b558.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/uk/an-essex-couple-spent-eight-years-building-a-miniature-railway-in-their-quarter-acre-garden-it-now-has-400-metres-of-track-and-five-locomotives-all-outside-their-home/articleshow/135488202.cms",
@@ -339,20 +395,6 @@
       "category": "World News",
       "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
       "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
-      "id": "108505122",
-      "title": "Versant earnings beat expectations as digital platforms drive growth",
-      "published": "2026-11-03T12:06:59+00:00",
-      "author": null,
-      "description": "Versant posted third-quarter earnings that beat Wall Street expectations and reaffirmed its full-year guidance.",
-      "link": "https://www.cnbc.com/2026/11/03/versant-vsnt-q3-2026-earnings.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108351052-1787071877038-NV1F62R.jpg?v=1793654489&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
       "id": "https://www.ndtv.com/world-news/nest-of-5-000-rare-ants-stolen-from-england-nature-reserve-police-launch-investigation-12276671#publisher=newsstand",
@@ -649,20 +691,6 @@
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cm9wz01dx8xro#1",
-      "title": "Jet may have broken apart before Florida crash, officials say, as family named among victims",
-      "published": "2026-11-03T10:02:48+00:00",
-      "author": null,
-      "description": "Adam Robinson, Helen Sharp, and their two children - Emma, four, and Charlie, two - died after the plane nosedived.",
-      "link": "https://www.bbc.co.uk/news/articles/cm9wz01dx8xro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fb6/live/93e34d90-d70d-11f1-a0eb-498100a176c1.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
       "id": "t3_1xmp1nd",
       "title": "Ukraine to reach mass interceptor production against jet Shaheds at the end of 2026",
       "published": "2026-11-03T10:02:02+00:00",
@@ -675,20 +703,6 @@
       "category": "World News",
       "feed_url": "https://www.reddit.com/r/worldnews/.rss",
       "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "108508169",
-      "title": "Oil prices climb after U.S. strikes Iran's Qeshm Island",
-      "published": "2026-11-03T09:58:37+00:00",
-      "author": null,
-      "description": "The rebound in oil prices come a day after the U.S. and Iranian presidents signalled they are open to a diplomatic solution to Iran war.",
-      "link": "https://www.cnbc.com/2026/11/03/oil-prices-climb-after-us-reportedly-strikes-irans-qeshm-island.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108372905-1791235928184-gettyimages-2298177809-AFP_D2BL2AG.jpeg?v=1791235982&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
       "id": "t3_1xmos8g",
@@ -13989,20 +14003,6 @@
       "category": "World News",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/rest-of-world/university-of-georgia-secures-8-million-noaa-grant-to-plan-restoration-of-326-acres-of-salt-marsh-across-four-states-using-dredged-sediment/articleshow/135346519.cms",
-      "title": "University of Georgia secures $8 million NOAA grant to plan restoration of acres of salt marsh",
-      "published": "2026-10-30T06:15:00+00:00",
-      "author": "TOI World Desk",
-      "description": "University of Georgia has received an $8 million grant to restore salt marsh habitat across four coastal states. The initiative, which spans from North Carolina to Florida, will assess the use of dredged sediment. This project aims to elevate marshes and support diverse wildlife while addressing rising sea levels and pollution. Proposed restoration sites include Bird-Long Island, Cape Lookout National Seashore, Cape Romain National Wildlife Refuge, and Julia’s Island.",
-      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/university-of-georgia-secures-8-million-noaa-grant-to-plan-restoration-of-326-acres-of-salt-marsh-across-four-states-using-dredged-sediment/articleshow/135346519.cms",
-      "image": "https://static.toiimg.com/photo/msid-135346806,imgsize-106472.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     }
   ]
 }
