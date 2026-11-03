@@ -1,15 +1,15 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-03T12:03:24.531106+00:00",
-  "count": 441,
+  "updated": "2026-11-03T12:33:40.651415+00:00",
+  "count": 443,
   "summary": null,
   "items": [
     {
       "id": "http://www.effortmark.co.uk/?p=1590",
-      "title": "An app that reads alt-text from pptx",
+      "title": "An app that reads alt text from pptx",
       "published": "2026-11-03T11:00:42+00:00",
       "author": "Caroline Jarrett",
-      "description": "We think that it’s really important to make PowerPoint presentations accessible. And that means: writing alt-text for all the images. The PowerPoint Checker app: reads a file in .pptx format, checks the reading order of each item on each slide extracts all the Continue reading... An app that reads alt-text from pptx",
+      "description": "We think that it’s really important to make PowerPoint presentations accessible. And that means: writing alt text for all the images. PowerPoint does have quite a useful accessibility checker that tells you whether or not an image has alt text. But Continue reading... An app that reads alt text from pptx",
       "link": "https://www.effortmark.co.uk/alt-text-from-pptx/",
       "image": "https://www.effortmark.co.uk/wp-content/uploads/2021/09/pptx-checker-300.jpg",
       "feed_name": "Effortmark",
@@ -31,6 +31,34 @@
       "category": "personal blogs",
       "feed_url": "http://jeffbridgforth.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=jeffbridgforth.com&sz=64"
+    },
+    {
+      "id": "https://meiert.com/blog/html-minifier-next-to-html-minifier/",
+      "title": "How to Switch From HTML Minifier Next 9 to HTML Minifier 5",
+      "published": "2026-11-02T23:00:00+00:00",
+      "author": null,
+      "description": "A checklist to move from HTML Minifier Next to HTML Minifier—now maintained again—, which is mostly a matter of renaming.",
+      "link": "https://meiert.com/blog/html-minifier-next-to-html-minifier/",
+      "image": "https://d3rdtowr0c5lpf.cloudfront.net/media/social.png",
+      "feed_name": "Blog (Web Development, Mostly) · Jens Oliver Meiert",
+      "feed_title": "Jens Oliver Meiert · Code Optimization, Digital Defense, World Models",
+      "category": "personal blogs",
+      "feed_url": "https://meiert.com/en/feed/",
+      "feed_icon": "https://meiert.com/media/social.png"
+    },
+    {
+      "id": "https://meiert.com/blog/html-minifier-4-5/",
+      "title": "How to Upgrade From HTML Minifier 4 to 5",
+      "published": "2026-11-02T23:00:00+00:00",
+      "author": null,
+      "description": "A checklist to work through the breaking changes when updating from HTML Minifier 4.0.0, released in 2019.",
+      "link": "https://meiert.com/blog/html-minifier-4-5/",
+      "image": "https://d3rdtowr0c5lpf.cloudfront.net/media/social.png",
+      "feed_name": "Blog (Web Development, Mostly) · Jens Oliver Meiert",
+      "feed_title": "Jens Oliver Meiert · Code Optimization, Digital Defense, World Models",
+      "category": "personal blogs",
+      "feed_url": "https://meiert.com/en/feed/",
+      "feed_icon": "https://meiert.com/media/social.png"
     },
     {
       "id": "https://thomasrigby.com/posts/til-earl-grey/",
