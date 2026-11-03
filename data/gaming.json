@@ -1,6 +1,6 @@
 {
   "category": "gaming",
-  "updated": "2026-11-03T08:03:28.345986+00:00",
+  "updated": "2026-11-03T08:32:30.512523+00:00",
   "count": 1000,
   "summary": null,
   "items": [
@@ -17,6 +17,20 @@
       "category": "gaming",
       "feed_url": "https://www.polygon.com/rss/index.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.polygon.com&sz=64"
+    },
+    {
+      "id": "711fbcd0-d0e8-4928-830a-545f31301c2f",
+      "title": "Bass X Machina Episode 1 Review",
+      "published": "2026-11-03T08:01:00+00:00",
+      "author": "Scott Collura",
+      "description": "Review: Netflix's Bass X Machina revisits the legend of Deputy U.S. Marshal Bass Reeves, adding a steampunk twist to what is essentially an origin story for this version of the lawman.",
+      "link": "https://www.ign.com/articles/bass-x-machina-episode-1-review-netflix",
+      "image": "https://assets-prd.ignimgs.com/2026/11/03/bass-x-machina-thumb-1793666648660.jpg",
+      "feed_name": "IGN All",
+      "feed_title": "IGN Articles",
+      "category": "gaming",
+      "feed_url": "http://feeds.ign.com/ign/all",
+      "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
     },
     {
       "id": "https://www.escapistmagazine.com/?p=1216673",
@@ -13989,20 +14003,6 @@
       "category": "gaming",
       "feed_url": "https://kotaku.com/rss",
       "feed_icon": "https://www.google.com/s2/favicons?domain=kotaku.com&sz=64"
-    },
-    {
-      "id": "8bd6c7c1-627d-4143-8cef-a99ac2ad8fa4",
-      "title": "Wandering Cat's Cage Is a Dystopian Manga Worth Reading",
-      "published": "2026-10-27T15:30:00+00:00",
-      "author": "Jesse Schedeen",
-      "description": "We've got an exclusive preview of Wandering Cat's Cage, a haunting new dystopian manga from Fantagraphics and MSX: Mangasplaining Extra.",
-      "link": "https://www.ign.com/articles/wandering-cats-cage-is-a-dystopian-manga-worth-reading",
-      "image": "https://assets-prd.ignimgs.com/2026/10/26/mixcollage-26-oct-2026-02-24-pm-6888-1793039079745.jpg",
-      "feed_name": "IGN All",
-      "feed_title": "IGN Articles",
-      "category": "gaming",
-      "feed_url": "http://feeds.ign.com/ign/all",
-      "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
     }
   ]
 }
