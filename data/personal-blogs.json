@@ -1,9 +1,23 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-03T14:03:48.208474+00:00",
-  "count": 445,
+  "updated": "2026-11-03T14:33:36.362011+00:00",
+  "count": 444,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.lukew.com/ff/entry.asp?2170",
+      "title": "Design Feedback for AI Agents",
+      "published": "2026-11-03T14:00:00+00:00",
+      "author": "Luke Wroblewski",
+      "description": "No plan survives contact with the battlefield and no design system survives contact with the product. Products are full of variants and combinations most design systems don't account for. So when AI agents are the ones applying design systems to production code, how does this real world battle hardening happen? In Design systems for AI agents , I outlined the techniques we use to ensure coding agents make use of design specifications and components each time they make changes or create new feat…",
+      "link": "https://www.lukew.com/ff/2170/design-feedback-for-ai-agents",
+      "image": "http://static.lukew.com/intent_designsystem_agents.png",
+      "feed_name": "LukeW | Digital Product Design + Strategy",
+      "feed_title": "LukeW | Digital Product Design + Strategy",
+      "category": "personal blogs",
+      "feed_url": "http://feeds.feedburner.com/FunctioningForm",
+      "feed_icon": "https://static.lukew.com/lukew_space.png"
+    },
     {
       "id": "https://daverupert.com/2026/11/write-mo/",
       "title": "Write mo'",
@@ -5491,34 +5505,6 @@
       "category": "personal blogs",
       "feed_url": "https://blog.jim-nielsen.com/feed.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=blog.jim-nielsen.com&sz=64"
-    },
-    {
-      "id": "https://v7.robweychert.com/blog/2026/10/strangers-on-a-train/",
-      "title": "Strangers on a Train",
-      "published": "2026-10-04T14:30:00+00:00",
-      "author": "Rob Weychert",
-      "description": "📖 Patricia Highsmith, 1950 Of all the villains I’ve encountered in fiction, I’m struggling to think of one more loathsome than Strangers on a Train ’s Charles Bruno. I don’t feel great about it, because any mid-century, gay-coded character deserves at least some empathy, but this spoiled momma’s boy is simply the worst . I don’t begrudge the movie version’s drastic simplification of Strangers , but Robert Walker’s portrayal of Bruno is so spot-on, I kind of wish Hitchcock could have let him tak…",
-      "link": "https://v7.robweychert.com/blog/2026/10/strangers-on-a-train/",
-      "image": "https://v7.robweychert.com/assets/img/vK-iNd7zOw-300.jpeg",
-      "feed_name": "Rob Weychert",
-      "feed_title": "Rob Weychert",
-      "category": "personal blogs",
-      "feed_url": "http://feeds.feedburner.com/robweychert",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=v7.robweychert.com&sz=64"
-    },
-    {
-      "id": "https://gomakethings.com/articles/radical-books-that-arent-a-slog/",
-      "title": "Radical books that aren't a slog",
-      "published": "2026-10-04T14:30:00+00:00",
-      "author": null,
-      "description": "I’m loving the resurgence of zines! Violet B. Fox just released on on radical books that aren’t a slog, a collection of books for leftists that aren’t super dense theory by old dead white guys. There’s so many good ones to choose from, but I started with The Parable of the Sower by Octavia Butler. For posterity, I’ve saved a local backup, but you should visit Violet’s site instead.",
-      "link": "https://gomakethings.com/articles/radical-books-that-arent-a-slog/",
-      "image": null,
-      "feed_name": "Go Make Things",
-      "feed_title": "Go Make Things",
-      "category": "personal blogs",
-      "feed_url": "https://gomakethings.com/feed/index.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=gomakethings.com&sz=64"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
