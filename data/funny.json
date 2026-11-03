@@ -1,9 +1,23 @@
 {
   "category": "funny",
-  "updated": "2026-11-03T12:33:40.651415+00:00",
-  "count": 329,
+  "updated": "2026-11-03T13:03:53.836220+00:00",
+  "count": 330,
   "summary": null,
   "items": [
+    {
+      "id": "https://thedailywtf.com/articles/death-of-the-auth-er",
+      "title": "CodeSOD: Death of the Auth-Er",
+      "published": "2026-11-03T06:30:00+00:00",
+      "author": "Remy Porter",
+      "description": "When writing Perl, it's not unusual to want to die . The die function ends your Perl program with an error string, and you'll often see code like: die \"My error\" unless $i > 5 or die \"Other error\" if check() , because Perl just loves the backwards conditionals. What's even more fun with die is how it behaves with eval blocks , so it doesn't always kill your program, sometimes it is how you pass error strings back out of sections of your program. And poor Bobby has inherited some Perl that just…",
+      "link": "https://thedailywtf.com/articles/death-of-the-auth-er",
+      "image": "https://thedailywtf.com/images/inedo/buildmaster-icon.png",
+      "feed_name": "The Daily WTF",
+      "feed_title": "The Daily WTF",
+      "category": "funny",
+      "feed_url": "http://syndication.thedailywtf.com/TheDailyWtf",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thedailywtf.com&sz=64"
+    },
     {
       "id": "https://cheezburger.com/47273221/wife-reclaims-her-garage-after-husband-prioritizes-brothers-12000-motorcycle-for-3-months-leaving",
       "title": "Wife reclaims her garage after husband prioritizes brother's $12,000 motorcycle for 3 months, leaving her car outside in freezing weather: ‘Nobody asked me once how I was getting to work’",
