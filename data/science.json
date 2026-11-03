@@ -1,9 +1,23 @@
 {
   "category": "science",
-  "updated": "2026-11-03T03:02:58.387307+00:00",
+  "updated": "2026-11-03T03:34:44.951946+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "news712848386",
+      "title": "How political disagreement with our neighbors relates to whether we bother casting a ballot",
+      "published": "2026-11-03T03:20:02+00:00",
+      "author": null,
+      "description": "In the 2025 federal election, Canadians voted at the highest rate since 1993. Explanations for high or low turnout usually focus on the national election campaign, including how close the race was and what seemed to be at stake.",
+      "link": "https://phys.org/news/2026-11-political-disagreement-neighbors-bother-ballot.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/two-graphs-on-the-left.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
     {
       "id": "news712848258",
       "title": "Study dives into lesser-known climate impacts of global reforestation",
@@ -13989,20 +14003,6 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/10/24/science/space/stellafane-telescopes-makers.html",
-      "title": "Some Buy Telescopes. These People Build Them From Scratch.",
-      "published": "2026-10-24T12:57:50+00:00",
-      "author": "Katrina Miller and Billy Hickey",
-      "description": "For a century, amateur telescope makers have gathered at the Stellafane convention to celebrate their craft. Will the event last another 100 years?",
-      "link": "https://www.nytimes.com/2026/10/24/science/space/stellafane-telescopes-makers.html",
-      "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24SCI-TELESCOPE-MAKERS-stillpromo-tzpm/24SCI-TELESCOPE-MAKERS-stillpromo-tzpm-mediumSquareAt3X.jpg",
-      "feed_name": "NYT > Science",
-      "feed_title": "NYT > Science",
-      "category": "science",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     }
   ]
 }
