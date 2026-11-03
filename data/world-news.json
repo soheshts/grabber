@@ -1,15 +1,43 @@
 {
   "category": "World News",
-  "updated": "2026-11-03T01:02:58.980003+00:00",
+  "updated": "2026-11-03T01:33:23.383233+00:00",
   "count": 1000,
   "summary": null,
   "items": [
     {
+      "id": "108504882",
+      "title": "Supreme Court rejects DOJ's bid to block California from counting disputed ballots",
+      "published": "2026-11-03T01:32:13+00:00",
+      "author": null,
+      "description": "The Department of Justice's request to the Supreme Court in the California case came as it appeals dismissal of a lawsuit over Alaska's Senate election.",
+      "link": "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108504750-1793636844896-gettyimages-2302277319-1576563-me-early-vote-center-riv-co-8-gmf.jpeg?v=1793636869&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo#1",
+      "title": "North Korea denies being behind record $6.3bn Binance hack",
+      "published": "2026-11-03T01:23:03+00:00",
+      "author": null,
+      "description": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
+      "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b9c/live/3d06bb60-d721-11f1-b335-69af4183ea6e.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
       "id": "https://www.theguardian.com/australia-news/2026/nov/03/one-nation-volunteer-alleged-attack-assault-torquay-victoria-ntwnfb",
       "title": "Man and boy arrested after One Nation volunteer allegedly attacked with baseball bat in Victoria",
-      "published": "2026-11-03T00:45:06+00:00",
+      "published": "2026-11-03T01:09:34+00:00",
       "author": "Benita Kolovos Victorian state correspondent",
-      "description": "Police confirm arrest of 37-year-old and 14-year-old boy over alleged assault outside Torquay home on Sunday night A man and boy have been arrested after a One Nation volunteer was allegedly attacked with a baseball bat outside his home on Victoria’s Surf Coast. Police on Tuesday confirmed they arrested a 37-year-old Hampton park man and a 14-year-old boy over the incident, which occurred at a Torquay home on Sunday night. Continue reading...",
+      "description": "Police confirm arrest of 37-year-old and 14-year-old boy over alleged assault outside Torquay home on Sunday night Get our breaking news email , free app or daily news podcast A man and boy have been arrested after a One Nation volunteer was allegedly attacked with a baseball bat outside his home on Victoria’s Surf Coast. Police on Tuesday confirmed they arrested a 37-year-old Hampton Park man and a 14-year-old boy over the incident, which occurred at a Torquay home on Sunday night. Continue re…",
       "link": "https://www.theguardian.com/australia-news/2026/nov/03/one-nation-volunteer-alleged-attack-assault-torquay-victoria-ntwnfb",
       "image": "https://i.guim.co.uk/img/media/be81fc8e5317b8d9fda03dd475be6fc59c90dd1e/849_0_6088_4870/master/6088.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0d5255d02b67bfcba154ad79f5770296",
       "feed_name": "The Guardian",
@@ -17,6 +45,20 @@
       "category": "World News",
       "feed_url": "https://www.theguardian.com/world/rss",
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/benjamin-netanyahu-calls-for-broad-national-government-under-his-leadership-12273545#publisher=newsstand",
+      "title": "Netanyahu Calls For \"Broad National Government\" Under His Leadership",
+      "published": "2026-11-03T00:35:20+00:00",
+      "author": null,
+      "description": "Netanyahu called for a \"broad national government\" without the Arab parties on Monday.",
+      "link": "https://www.ndtv.com/world-news/benjamin-netanyahu-calls-for-broad-national-government-under-his-leadership-12273545#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-11/1jjvluig_benjamin-netanyahu_625x300_03_November_26.jpeg",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
       "id": "https://www.theguardian.com/australia-news/2026/nov/03/kate-mcclymont-evidence-alan-jones-trial-ntwnfb",
@@ -61,18 +103,46 @@
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
-      "id": "108504882",
-      "title": "Supreme Court rejects DOJ's bid to block California from counting disputed ballots",
-      "published": "2026-11-02T23:48:28+00:00",
+      "id": "https://www.ndtv.com/world-news/multiple-explosions-heard-on-qeshm-island-bandar-lengeh-in-iran-report-12273948#publisher=newsstand",
+      "title": "Multiple Explosions Heard On Qeshm Island, Bandar Lengeh In Iran: Report",
+      "published": "2026-11-03T00:06:48+00:00",
       "author": null,
-      "description": "The Department of Justice's request to the Supreme Court in the California case came as it appeals dismissal of a lawsuit over Alaska's Senate election.",
-      "link": "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108504750-1793636844896-gettyimages-2302277319-1576563-me-early-vote-center-riv-co-8-gmf.jpeg?v=1793636869&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
+      "description": "According to the report, two US MQM-170 reconnaissance drones were brought down south of Qeshm Island.",
+      "link": "https://www.ndtv.com/world-news/multiple-explosions-heard-on-qeshm-island-bandar-lengeh-in-iran-report-12273948#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-06/t2tfvsbg_iran_625x300_04_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
       "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/north-korea-test-fires-strategic-cruise-missiles-report-12273932#publisher=newsstand",
+      "title": "North Korea Test Fires Strategic Cruise Missiles: Report",
+      "published": "2026-11-02T23:58:59+00:00",
+      "author": null,
+      "description": "North Korea test-fired strategic cruise missiles, state media reported Tuesday.",
+      "link": "https://www.ndtv.com/world-news/north-korea-test-fires-strategic-cruise-missiles-report-12273932#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-11/f8io8684_north-korea-fires-missile_625x300_03_November_26.jpeg",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/us-issues-warning-to-citizens-over-possible-houthi-attacks-on-saudi-arabia-12273919#publisher=newsstand",
+      "title": "US Issues Warning To Citizens Over Possible Houthi Attacks On Saudi Arabia",
+      "published": "2026-11-02T23:44:10+00:00",
+      "author": null,
+      "description": "The US Embassy in Saudi Arabia has issued a security alert for American citizens.",
+      "link": "https://www.ndtv.com/world-news/us-issues-warning-to-citizens-over-possible-houthi-attacks-on-saudi-arabia-12273919#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2021-08/qelgsmqg_saudi-airport_625x300_31_August_21.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
       "id": "t3_1xmdcu0",
@@ -115,6 +185,20 @@
       "category": "World News",
       "feed_url": "https://www.reddit.com/r/worldnews/.rss",
       "feed_icon": "https://www.redditstatic.com/icon.png/"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/us-supreme-court-rejects-trumps-push-to-set-aside-california-ballots-12273903#publisher=newsstand",
+      "title": "US Supreme Court Rejects Trump's Push To Set Aside California Ballots",
+      "published": "2026-11-02T23:26:34+00:00",
+      "author": null,
+      "description": "The Supreme Court on Monday rejected a push for California to set aside thousands of mail ballots.",
+      "link": "https://www.ndtv.com/world-news/us-supreme-court-rejects-trumps-push-to-set-aside-california-ballots-12273903#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-09/7mj237jc_us-supreme-court-_625x300_15_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
       "id": "108480303",
@@ -717,20 +801,6 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/benjamin-netanyahu-calls-for-broad-national-government-under-his-leadership-12273545#publisher=newsstand",
-      "title": "Netanyahu Calls For \"Broad National Government\" Under His Leadership",
-      "published": "2026-11-02T19:14:08+00:00",
-      "author": null,
-      "description": "Israeli Prime Minister Benjamin Netanyahu called on Monday for a broad coalition government without Arab lists, saying he should be its leader since his Likud party won the most seats in parliament.",
-      "link": "https://www.ndtv.com/world-news/benjamin-netanyahu-calls-for-broad-national-government-under-his-leadership-12273545#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-11/1jjvluig_benjamin-netanyahu_625x300_03_November_26.jpeg",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
       "id": "https://www.nytimes.com/2026/11/02/world/europe/russia-polish-political-turmoil.html",
@@ -13933,76 +14003,6 @@
       "category": "World News",
       "feed_url": "https://www.reddit.com/r/worldnews/.rss",
       "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/us/a-connecticut-couple-has-committed-410-million-to-turn-a-125-acre-former-coal-and-oil-power-plant-into-a-waterfront-park-zoning-approval-moves-the-long-closed-industrial-site-closer-to-public-use/articleshow/135233466.cms",
-      "title": "$410M plan to transform Connecticut power plant into waterfront park",
-      "published": "2026-10-29T17:25:00+00:00",
-      "author": "TOI World Desk",
-      "description": "",
-      "link": "https://timesofindia.indiatimes.com/world/us/a-connecticut-couple-has-committed-410-million-to-turn-a-125-acre-former-coal-and-oil-power-plant-into-a-waterfront-park-zoning-approval-moves-the-long-closed-industrial-site-closer-to-public-use/articleshow/135233466.cms",
-      "image": "https://static.toiimg.com/photo/msid-135233764,imgsize-815559.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/10/29/world/africa/rwanda-sanctions-m23-congo.html",
-      "title": "U.S. Hits Rwanda With New Sanctions Over a Conflict Trump Declared ‘Ended’",
-      "published": "2026-10-29T17:13:48+00:00",
-      "author": "Lynsey Chutel",
-      "description": "The Treasury Department accused Rwanda of undermining a U.S.-brokered peace agreement by supporting a rebel group in the eastern Democratic Republic of Congo.",
-      "link": "https://www.nytimes.com/2026/10/29/world/africa/rwanda-sanctions-m23-congo.html",
-      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29int-rwanda-1-qmkv/29int-rwanda-1-qmkv-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "t3_1xipshh",
-      "title": "80% of Ukrainians Back Refinery Strikes Despite US Aid Risk",
-      "published": "2026-10-29T17:05:52+00:00",
-      "author": "/u/ArgentineBeauty",
-      "description": "submitted by /u/ArgentineBeauty [link] [comments]",
-      "link": "https://www.reddit.com/r/worldnews/comments/1xipshh/80_of_ukrainians_back_refinery_strikes_despite_us/",
-      "image": "https://external-preview.redd.it/DcKAwN06rLy7vA2MKAD2aL2zgqp0pJWKlH3b4gt6bwI.jpeg?width=640&crop=smart&auto=webp&s=4483e93e26ecc407db4905e7c29132c8d7e79910",
-      "feed_name": "World News",
-      "feed_title": "World News",
-      "category": "World News",
-      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
-      "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo#0",
-      "title": "EU chief lays out vision for new Canada partnership at Montreal summit",
-      "published": "2026-10-29T17:02:59+00:00",
-      "author": null,
-      "description": "Ursula von der Leyen continued to use the term \"associate member\" for Canada despite some opposition of the bloc's members, including Germany.",
-      "link": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b497/live/e5c53340-d3ba-11f1-8c27-87a7c72809db.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo#1",
-      "title": "EU chief lays out vision for new Canada partnership at Montreal summit",
-      "published": "2026-10-29T17:02:59+00:00",
-      "author": null,
-      "description": "Ursula von der Leyen continued to use the term \"associate member\" for Canada despite some opposition of the bloc's members, including Germany.",
-      "link": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b497/live/e5c53340-d3ba-11f1-8c27-87a7c72809db.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     }
   ]
 }
