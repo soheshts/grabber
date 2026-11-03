@@ -1,13 +1,27 @@
 {
   "category": "World News",
-  "updated": "2026-11-03T16:33:15.605911+00:00",
+  "updated": "2026-11-03T17:02:39.325046+00:00",
   "count": 1000,
   "summary": null,
   "items": [
     {
+      "id": "108476446",
+      "title": "5 things to watch on Election Day as Democrats push for control of Congress",
+      "published": "2026-11-03T16:51:52+00:00",
+      "author": null,
+      "description": "Voters head to the polls Tuesday to decide control of Congress in an election that will define the last two years of Donald Trump's presidency.",
+      "link": "https://www.cnbc.com/2026/11/03/election-day-congress-races.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108474733-1793195461380-108474733-1793195388615-gettyimages-2300118385-10162026_PHH_VOTING_12JPG.jpg?v=1793195469&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
       "id": "108499352",
       "title": "Midterm elections could jolt stocks if Democrats sweep Congress",
-      "published": "2026-11-03T16:31:52+00:00",
+      "published": "2026-11-03T16:51:00+00:00",
       "author": null,
       "description": "Wall Street weighs how the 2026 midterms could affect stocks, Treasury yields, artificial intelligence, energy prices, banks, defense and healthcare.",
       "link": "https://www.cnbc.com/2026/11/03/midterm-election-stock-market.html",
@@ -17,6 +31,34 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/03/health/maternal-drapes-nigeria-childbirth.html",
+      "title": "An 80-Cent Plastic Pouch Is Saving Thousands of Women From Dying in Childbirth",
+      "published": "2026-11-03T16:35:26+00:00",
+      "author": "Stephanie Nolen and Taiwo Aina",
+      "description": "The maternal drape, as it is called, is helping to solve one of the world’s most intractable health problems.",
+      "link": "https://www.nytimes.com/2026/11/03/health/maternal-drapes-nigeria-childbirth.html",
+      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/00dc-maternal-drape-husaina-ljbz/00dc-maternal-drape-husaina-ljbz-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/02/world/middleeast/iran-deal-strait-of-hormuz.html",
+      "title": "Iran Says It Would Reopen Strait of Hormuz in 2 Days as Part of U.S. Deal",
+      "published": "2026-11-03T16:32:56+00:00",
+      "author": "Erika Solomon, Sanam Mahoozi, Adam Rasgon and Vivian Nereim",
+      "description": "Iranian officials spoke of some progress in negotiating to reopen the strait even as they prepared for all-out war. A Qatari delegation arrived in Tehran on Monday to meet with the foreign minister to continue talks.",
+      "link": "https://www.nytimes.com/2026/11/02/world/middleeast/iran-deal-strait-of-hormuz.html",
+      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02-int-Iran-Diplomacy-01-jglt/02-int-Iran-Diplomacy-01-jglt-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "108510770",
@@ -45,6 +87,20 @@
       "category": "World News",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cw62ye1030njo#1",
+      "title": "Irish Olympian Ciara Mageean was a 'talented and inspirational human being'",
+      "published": "2026-11-03T16:20:59+00:00",
+      "author": null,
+      "description": "The former European champion and two-time Olympic runner had been diagnosed with stage four bowel cancer.",
+      "link": "https://www.bbc.co.uk/news/articles/cw62ye1030njo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0120/live/ab031c10-d796-11f1-801d-cf196dc7232c.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "t3_1xmx4ek",
@@ -87,20 +143,6 @@
       "category": "World News",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "108476446",
-      "title": "5 things to watch on Election Day as Democrats push for control of Congress",
-      "published": "2026-11-03T15:55:04+00:00",
-      "author": null,
-      "description": "Voters head to the polls Tuesday to decide control of Congress in an election that will define the last two years of Donald Trump's presidency.",
-      "link": "https://www.cnbc.com/2026/11/03/election-day-congress-races.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108474733-1793195461380-108474733-1793195388615-gettyimages-2300118385-10162026_PHH_VOTING_12JPG.jpg?v=1793195469&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
       "id": "108509300",
@@ -227,6 +269,20 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "t3_1xmvep5",
+      "title": "Polish Prime Minister Donald Tusk accuses Russia of seeking to fuel \"instability\" in Poland by ​meddling in a dispute between his government and the president ‌over the Constitutional Tribunal",
+      "published": "2026-11-03T15:07:34+00:00",
+      "author": "/u/Raj_Valiant3011",
+      "description": "submitted by /u/Raj_Valiant3011 [link] [comments]",
+      "link": "https://www.reddit.com/r/worldnews/comments/1xmvep5/polish_prime_minister_donald_tusk_accuses_russia/",
+      "image": null,
+      "feed_name": "World News",
+      "feed_title": "World News",
+      "category": "World News",
+      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
+      "feed_icon": "https://www.redditstatic.com/icon.png/"
     },
     {
       "id": "https://www.ndtv.com/world-news/us-midterm-elections-2026-live-updates-donald-trump-jd-vance-democrats-republicans-senate-house-12276905#publisher=newsstand",
@@ -759,6 +815,20 @@
       "category": "World News",
       "feed_url": "https://www.theguardian.com/world/rss",
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/us/a-missouri-woman-rescued-an-orphaned-fawn-after-its-mother-was-killed-13-years-later-the-deer-had-her-own-babies-and-brought-them-back-to-the-familys-garden/articleshow/135493518.cms",
+      "title": "A rescued fawn returns 13 years later with her babies to visit her family",
+      "published": "2026-11-03T13:00:00+00:00",
+      "author": "TOI World Desk",
+      "description": "",
+      "link": "https://timesofindia.indiatimes.com/world/us/a-missouri-woman-rescued-an-orphaned-fawn-after-its-mother-was-killed-13-years-later-the-deer-had-her-own-babies-and-brought-them-back-to-the-familys-garden/articleshow/135493518.cms",
+      "image": "https://static.toiimg.com/photo/msid-135493731,imgsize-2036778.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/europe/europe-on-alert-after-bomb-threats-target-at-least-four-passenger-flights/articleshow/135499966.cms",
@@ -2887,20 +2957,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/02/world/middleeast/iran-deal-strait-of-hormuz.html",
-      "title": "Iran Says It Would Reopen Strait of Hormuz in 2 Days as Part of U.S. Deal",
-      "published": "2026-11-02T20:25:34+00:00",
-      "author": "Erika Solomon, Sanam Mahoozi, Adam Rasgon and Vivian Nereim",
-      "description": "Iranian officials spoke of some progress in negotiating to reopen the strait even as they prepared for all-out war. A Qatari delegation arrived in Tehran on Monday to meet with the foreign minister to continue talks.",
-      "link": "https://www.nytimes.com/2026/11/02/world/middleeast/iran-deal-strait-of-hormuz.html",
-      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02-int-Iran-Diplomacy-01-jglt/02-int-Iran-Diplomacy-01-jglt-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://timesofindia.indiatimes.com/science/earth/after-nearly-40-years-of-monitoring-california-scientists-recorded-64-72f-water-200-feet-below-monterey-bay-on-october-26-beating-a-1997-record-as-el-nio-brought-tropical-species-into-the-region/articleshow/135446393.cms",
@@ -13942,62 +13998,6 @@
       "description": "Elon Musk has raised alarms regarding the risk of Democratic supremacy over Congress and the presidency by 2028. He pointed out potential transformative measures like granting statehood to Washington DC and Puerto Rico, legalizing undocumented immigrants, and enlarging the Supreme Court. Musk contends these could cement a long-term one-party system in America.",
       "link": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/will-be-game-over-for-america-elon-musk-raises-three-concerns-against-democrats-ahead-of-midterms/articleshow/135352581.cms",
       "image": "https://static.toiimg.com/photo/msid-135352924,imgsize-116120.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/what-israels-election-deadlock-means-for-india-iran-and-gaza-12258070#publisher=newsstand",
-      "title": "What Israel's Election Deadlock Means For India, Iran And Gaza",
-      "published": "2026-10-30T08:33:08+00:00",
-      "author": null,
-      "description": "Netanyahu will probably get the first shot at building a coalition.",
-      "link": "https://www.ndtv.com/world-news/what-israels-election-deadlock-means-for-india-iran-and-gaza-12258070#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-10/iaijmuj4_netanyahu_625x300_28_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cxvgdzpy7241o#0",
-      "title": "How Kenyans got caught in $130m US ghost student scam",
-      "published": "2026-10-30T08:32:35+00:00",
-      "author": null,
-      "description": "The alleged scheme used stolen identities to claim US student aid, with Kenyans among those charged.",
-      "link": "https://www.bbc.co.uk/news/articles/cxvgdzpy7241o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9a2/live/3d8d5420-d43a-11f1-9ba3-e16b46d57ce6.png",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cxvgdzpy7241o#1",
-      "title": "How Kenyans got caught in $130m US ghost student scam",
-      "published": "2026-10-30T08:32:35+00:00",
-      "author": null,
-      "description": "The alleged scheme used stolen identities to claim US student aid, with Kenyans among those charged.",
-      "link": "https://www.bbc.co.uk/news/articles/cxvgdzpy7241o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9a2/live/3d8d5420-d43a-11f1-9ba3-e16b46d57ce6.png",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/us-streamers/did-lacy-misunderstand-his-japan-restaurant-bill-streamer-reveals-what-actually-happened/articleshow/135351609.cms",
-      "title": "Did Lacy misunderstand his Japan restaurant bill? Streamer reveals what actually happened",
-      "published": "2026-10-30T08:31:38+00:00",
-      "author": "Global Sports Desk",
-      "description": "Twitch streamer Nick \"Lacy\" has addressed a mix-up involving a $12,000 restaurant bill he thought he owed in Japan. Initially confused due to language issues, he later discovered he was only responsible for extra food. Realizing the impact of his comments, Lacy has since apologized to the restaurant for inadvertently causing them negative publicity and acknowledged the necessity of clearer communication.",
-      "link": "https://timesofindia.indiatimes.com/world/us-streamers/did-lacy-misunderstand-his-japan-restaurant-bill-streamer-reveals-what-actually-happened/articleshow/135351609.cms",
-      "image": "https://static.toiimg.com/photo/msid-135351701,imgsize-583478.cms",
       "feed_name": "Times of India",
       "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
       "category": "World News",
