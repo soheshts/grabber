@@ -1,9 +1,51 @@
 {
   "category": "World News",
-  "updated": "2026-11-04T05:03:54.827701+00:00",
+  "updated": "2026-11-04T05:32:42.105922+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "108514090",
+      "title": "AI stocks fall as Texas governor result raises data center risks",
+      "published": "2026-11-04T05:16:01+00:00",
+      "author": null,
+      "description": "Tech stocks were down in overnight trading, and grew more severe as the night wore on, as the likelihood of a blue wave grew.",
+      "link": "https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108511091-1793714895762-gettyimages-2302880756-US_MIDTERMS.jpeg?v=1793714928&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/rest-of-world/singer-sia-secretly-gave-more-than-1-million-to-19-survivor-contestants-over-eight-years-including-players-who-never-won-the-show/articleshow/135524251.cms",
+      "title": "Sia gave $1 million to Survivor players, including those who never won",
+      "published": "2026-11-04T05:07:56+00:00",
+      "author": "TOI World Desk",
+      "description": "",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/singer-sia-secretly-gave-more-than-1-million-to-19-survivor-contestants-over-eight-years-including-players-who-never-won-the-show/articleshow/135524251.cms",
+      "image": "https://static.toiimg.com/photo/msid-135524579,imgsize-858828.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/04/world/europe/palestine-action-ban-uk-supreme-court.html",
+      "title": "U.K. Supreme Court to Hear Challenge to Ban on Palestine Action: What to Know",
+      "published": "2026-11-04T05:01:04+00:00",
+      "author": "Karla Adam",
+      "description": "The government designated the protest group as a terrorist organization last year, prompting criticism. The country’s Supreme Court is set to begin hearing a challenge to the ban on Wednesday.",
+      "link": "https://www.nytimes.com/2026/11/04/world/europe/palestine-action-ban-uk-supreme-court.html",
+      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04xp-palestine-action-wtk-bqvh/04xp-palestine-action-wtk-bqvh-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "https://www.theguardian.com/australia-news/2026/nov/04/aukus-worst-australian-defence-decision-ever-public-inquiry",
       "title": "Aukus is ‘worst, riskiest and most costly’ Australian defence decision ever, public inquiry into submarine deal says",
@@ -59,6 +101,20 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
+      "id": "t3_1xnf1bp",
+      "title": "Doctor circumcised boy 'without seeking his opinion'",
+      "published": "2026-11-04T04:34:52+00:00",
+      "author": "/u/BigSupermark",
+      "description": "submitted by /u/BigSupermark [link] [comments]",
+      "link": "https://www.reddit.com/r/worldnews/comments/1xnf1bp/doctor_circumcised_boy_without_seeking_his_opinion/",
+      "image": "https://external-preview.redd.it/q15mRvBGZJ4Vwb_b7SJFJ-hDMvc6d7k8IWSuexjBxx0.jpeg?width=640&crop=smart&auto=webp&s=9b9570848c7b9ca1df2aa86ab068574ed4bf6ffc",
+      "feed_name": "World News",
+      "feed_title": "World News",
+      "category": "World News",
+      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
+      "feed_icon": "https://www.redditstatic.com/icon.png/"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/us-election-results-amy-acton-defeats-donald-trump-backed-vivek-ramaswamy-to-become-ohios-first-woman-governor/articleshow/135522936.cms",
@@ -13947,62 +14003,6 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "108486001",
-      "title": "'Bad time to troll': Binance co-founder Zhao asks Musk for support after hack",
-      "published": "2026-10-30T20:02:45+00:00",
-      "author": null,
-      "description": "Binance co-founder Changpeng Zhao asked Elon Musk to stop “trolling” after a $6.3 billion hack, pointing to Binance’s $1 billion-plus SpaceX stake.",
-      "link": "https://www.cnbc.com/2026/10/30/binance-hack-elon-musk-tesla-spacex.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108152763-1748632191432-gettyimages-2217113797-AFP_48PB7F7.jpeg?v=1748633237&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/us/an-aquarium-plant-escaped-into-florida-waterways-in-the-1950s-within-40-years-hydrilla-had-spread-to-over-70-of-the-states-watersheds/articleshow/135209540.cms",
-      "title": "Hydrilla spread across 70% of Florida watersheds within 40 years",
-      "published": "2026-10-30T20:00:00+00:00",
-      "author": "TOI World Desk",
-      "description": "",
-      "link": "https://timesofindia.indiatimes.com/world/us/an-aquarium-plant-escaped-into-florida-waterways-in-the-1950s-within-40-years-hydrilla-had-spread-to-over-70-of-the-states-watersheds/articleshow/135209540.cms",
-      "image": "https://static.toiimg.com/photo/msid-135211167,imgsize-2787777.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/oct/30/canada-european-union-alliance",
-      "title": "Canada and EU announce new alliance open to like-minded countries",
-      "published": "2026-10-30T19:42:15+00:00",
-      "author": "Leyland Cecco in Toronto",
-      "description": "Alliance for the Future, unveiled at Montreal summit and open to other countries, conceived for world ‘shaken by new storms’ Canada and Europe have announced a new alliance of like-minded nations to serve as both a “protective canopy under which our citizens can thrive” and a powerful hedge against the unpredictable nature of geopolitics, while welcoming other countries to join. Speaking to reporters on Friday from Montreal, the prime minister, Mark Carney, and the European Commission president…",
-      "link": "https://www.theguardian.com/world/2026/oct/30/canada-european-union-alliance",
-      "image": "https://i.guim.co.uk/img/media/fb5d95bd3e88ee966741d3d25099a1b85ecc6648/0_99_3718_2973/master/3718.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f4549c2a16ab79035ed72ffed98a6f7c",
-      "feed_name": "The Guardian",
-      "feed_title": "World news | The Guardian",
-      "category": "World News",
-      "feed_url": "https://www.theguardian.com/world/rss",
-      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/us/in-1974-more-than-6000-peregrine-falcons-were-released-into-the-wild-after-the-population-wiped-out-helping-restore-the-once-endangered-birds-across-north-america/articleshow/135209766.cms",
-      "title": "How a 1974 release helped peregrine falcons reclaim their place in North America",
-      "published": "2026-10-30T19:30:00+00:00",
-      "author": "TOI World Desk",
-      "description": "",
-      "link": "https://timesofindia.indiatimes.com/world/us/in-1974-more-than-6000-peregrine-falcons-were-released-into-the-wild-after-the-population-wiped-out-helping-restore-the-once-endangered-birds-across-north-america/articleshow/135209766.cms",
-      "image": "https://static.toiimg.com/photo/msid-135210098,imgsize-1641368.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     }
   ]
 }
