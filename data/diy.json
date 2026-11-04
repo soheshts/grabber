@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-04T00:33:33.475323+00:00",
-  "count": 709,
+  "updated": "2026-11-04T01:03:47.589127+00:00",
+  "count": 710,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.howtogeek.com/built-weekend-bluetooth-tracker-from-esp32-nrf-connect-does-the-rest/",
+      "title": "I built a weekend Bluetooth tracker from an ESP32, and nRF Connect does the rest",
+      "published": "2026-11-04T01:00:15+00:00",
+      "author": "David J. Buck",
+      "description": "Building a Bluetooth tracker from a $3 board taught me why AirTags work.",
+      "link": "https://www.howtogeek.com/built-weekend-bluetooth-tracker-from-esp32-nrf-connect-does-the-rest/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/es32-feature.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://hackaday.com/?p=1397654",
       "title": "Etching Press Aims To Impress",
