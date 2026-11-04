@@ -1,9 +1,23 @@
 {
   "category": "World News",
-  "updated": "2026-11-04T01:03:47.589127+00:00",
+  "updated": "2026-11-04T01:33:07.886484+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "108513230",
+      "title": "Google responds to political backlash over removing search from schools that ban AI",
+      "published": "2026-11-04T01:07:01+00:00",
+      "author": null,
+      "description": "After elected officials voiced outrage over Google turning off search at schools that ban AI, the company said search can be turned back on with AI Overviews.",
+      "link": "https://www.cnbc.com/2026/11/03/google-responds-to-outrage-over-removing-search-in-schools-that-ban-ai.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108188588-1755702485558-gettyimages-2188607530-DTRAMONTAN_09DEC24_013JPG.jpeg?v=1755702561&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
     {
       "id": "https://www.ndtv.com/world-news/us-midterm-election-results-2026-democrates-republicans-donald-trump-leading-winner-12279445#publisher=newsstand",
       "title": "Early Trends Give Democrats Lead In Republican Districts In US Midterms",
@@ -31,6 +45,20 @@
       "category": "World News",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "t3_1xnaes5",
+      "title": "Trump says US 'locked and loaded' but may have no reason to strike Iran",
+      "published": "2026-11-04T00:46:12+00:00",
+      "author": "/u/Boston-Bets",
+      "description": "submitted by /u/Boston-Bets [link] [comments]",
+      "link": "https://www.reddit.com/r/worldnews/comments/1xnaes5/trump_says_us_locked_and_loaded_but_may_have_no/",
+      "image": "https://external-preview.redd.it/XjXek23PPhTGIzTWUhIvJ3BC7ueZutx36OM7e3yEB4s.jpeg?width=640&crop=smart&auto=webp&s=a1d3671c5c10425964a4f80039cbfdcff2e3f165",
+      "feed_name": "World News",
+      "feed_title": "World News",
+      "category": "World News",
+      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
+      "feed_icon": "https://www.redditstatic.com/icon.png/"
     },
     {
       "id": "https://www.ndtv.com/world-news/us-midterm-elections-2026-live-updates-donald-trump-jd-vance-democrats-republicans-senate-house-12276905#publisher=newsstand",
@@ -87,20 +115,6 @@
       "category": "World News",
       "feed_url": "https://www.theguardian.com/world/rss",
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
-    },
-    {
-      "id": "108513230",
-      "title": "Google responds to political backlash over removing search from schools that ban AI",
-      "published": "2026-11-04T00:10:07+00:00",
-      "author": null,
-      "description": "After elected officials voiced outrage over Google turning off search at schools that ban AI, the company said search can be turned back on with AI Overviews.",
-      "link": "https://www.cnbc.com/2026/11/03/google-responds-to-outrage-over-removing-search-in-schools-that-ban-ai.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108188588-1755702485558-gettyimages-2188607530-DTRAMONTAN_09DEC24_013JPG.jpeg?v=1755702561&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
       "id": "https://www.ndtv.com/world-news/man-pardoned-by-trump-over-january-6-role-charged-with-threatening-judges-12279292#publisher=newsstand",
@@ -13989,20 +14003,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "t3_1xjlci0",
-      "title": "Joint Statement: Canada and the European Union building together an Alliance for the Future",
-      "published": "2026-10-30T17:15:43+00:00",
-      "author": "/u/Nightronno",
-      "description": "submitted by /u/Nightronno [link] [comments]",
-      "link": "https://www.reddit.com/r/worldnews/comments/1xjlci0/joint_statement_canada_and_the_european_union/",
-      "image": "https://external-preview.redd.it/p6uQFWoA54sgEEPQmyj7NPEUDu3sjqlbQNWEZ-2qOro.png?width=640&crop=smart&auto=webp&s=a453cafd687190e58537bcebfc17794caa530b73",
-      "feed_name": "World News",
-      "feed_title": "World News",
-      "category": "World News",
-      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
-      "feed_icon": "https://www.redditstatic.com/icon.png/"
     }
   ]
 }
