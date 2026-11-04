@@ -1,9 +1,51 @@
 {
   "category": "World News",
-  "updated": "2026-11-04T03:32:17.331408+00:00",
+  "updated": "2026-11-04T04:03:45.159925+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-midterms-election.html",
+      "title": "As Trump’s Midterm Deadline Looms, Gulf Countries Brace for Possible Renewal of Iran War",
+      "published": "2026-11-04T03:39:11+00:00",
+      "author": "Vivian Nereim",
+      "description": "The energy-rich Gulf Arab countries are engaged in a flurry of mediation efforts to avert war between the U.S. and Iran, as many fear that the fighting will be worse this time around.",
+      "link": "https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-midterms-election.html",
+      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-gulf-war-1-vkwm/03int-gulf-war-1-vkwm-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "108499352",
+      "title": "Midterm elections could jolt stocks as Democrats look poised to sweep Congress",
+      "published": "2026-11-04T03:38:08+00:00",
+      "author": null,
+      "description": "Wall Street weighs how the 2026 midterms could affect stocks, Treasury yields, artificial intelligence, energy prices, banks, defense and healthcare.",
+      "link": "https://www.cnbc.com/2026/11/03/midterm-election-stock-market.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108475287-1793203213214-108475287-17932031442026-10-28t155338z_471645677_rc2zboa6dy3a_rtrmadp_0_usa-dailylife.jpg?v=1793203220&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.theguardian.com/australia-news/2026/nov/04/alleged-attack-on-one-nation-volunteer-not-politically-motivated-victoria-police-ntwnfb",
+      "title": "Alleged attack on One Nation supporter not believed to be politically motivated, Victoria police say",
+      "published": "2026-11-04T03:34:15+00:00",
+      "author": "Benita Kolovos Victorian state correspondent",
+      "description": "Police also allege Torquay man was attacked with a ‘blunt weapon’ rather than a baseball bat as originally reported An alleged attack on a One Nation supporter is not believed to have been politically motivated, Victoria police say, clarifying that a “blunt weapon” was allegedly used rather than a baseball bat as originally reported. On Tuesday, police confirmed they arrested a 37-year-old Hampton Park man and a 14-year-old boy over the alleged attack on a 60-year-old man outside his Torquay ho…",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/04/alleged-attack-on-one-nation-volunteer-not-politically-motivated-victoria-police-ntwnfb",
+      "image": "https://i.guim.co.uk/img/media/266f4c58f8e7d0232209b2bdc9e37d3fc51472fb/0_0_3702_2962/master/3702.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=87de35951cd1ec426e4f4657e7587135",
+      "feed_name": "The Guardian",
+      "feed_title": "World news | The Guardian",
+      "category": "World News",
+      "feed_url": "https://www.theguardian.com/world/rss",
+      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
     {
       "id": "108515162",
       "title": "Treasury yields fall as investors crowd into bonds for safety amid election stock sell-off",
@@ -75,20 +117,6 @@
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
     },
     {
-      "id": "https://www.theguardian.com/australia-news/2026/nov/04/alleged-attack-on-one-nation-volunteer-not-politically-motivated-victoria-police-ntwnfb",
-      "title": "Alleged attack on One Nation supporter not believed to be politically motivated, Victoria police say",
-      "published": "2026-11-04T02:39:33+00:00",
-      "author": "Benita Kolovos Victorian state correspondent",
-      "description": "Police also allege Torquay man was attacked with a ‘blunt weapon’ rather than a baseball bat as originally reported An alleged attack on a One Nation supporter is not believed to have been politically motivated, Victoria police say, clarifying that a “blunt weapon” was allegedly used rather than a baseball bat as originally reported. On Tuesday, police confirmed they arrested a 37-year-old Hampton Park man and a 14-year-old boy over the alleged attack on a 60-year-old man outside his Torquay ho…",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/04/alleged-attack-on-one-nation-volunteer-not-politically-motivated-victoria-police-ntwnfb",
-      "image": "https://i.guim.co.uk/img/media/266f4c58f8e7d0232209b2bdc9e37d3fc51472fb/0_0_3702_2962/master/3702.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=87de35951cd1ec426e4f4657e7587135",
-      "feed_name": "The Guardian",
-      "feed_title": "World news | The Guardian",
-      "category": "World News",
-      "feed_url": "https://www.theguardian.com/world/rss",
-      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
-    },
-    {
       "id": "https://www.ndtv.com/world-news/vivek-ramaswamy-to-ro-khanna-how-are-indian-origin-faces-performing-in-us-midterms-12279690#publisher=newsstand",
       "title": "Vivek Ramaswamy To Ro Khanna: How Are Indian-Origin Faces Performing In US Midterms",
       "published": "2026-11-04T02:38:53+00:00",
@@ -109,7 +137,7 @@
       "author": null,
       "description": "Ossoff is seen as a potential leading contender for the Democratic nomination for president in 2028 if he throws his hat in the ring.",
       "link": "https://www.bbc.co.uk/news/articles/cqwyrmm2k4mpo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5f5/live/9c21ceb0-d7c0-11f1-a719-bf3dc3a3d5b5.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7dde/live/6d838380-d7f9-11f1-afc1-71ff3c391379.jpg",
       "feed_name": "BBC News - World",
       "feed_title": "BBC News",
       "category": "World News",
@@ -143,20 +171,6 @@
       "category": "World News",
       "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
       "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
-      "id": "108499352",
-      "title": "Midterm elections could jolt stocks if Democrats sweep Congress",
-      "published": "2026-11-04T01:49:58+00:00",
-      "author": null,
-      "description": "Wall Street weighs how the 2026 midterms could affect stocks, Treasury yields, artificial intelligence, energy prices, banks, defense and healthcare.",
-      "link": "https://www.cnbc.com/2026/11/03/midterm-election-stock-market.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108475287-1793203213214-108475287-17932031442026-10-28t155338z_471645677_rc2zboa6dy3a_rtrmadp_0_usa-dailylife.jpg?v=1793203220&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
       "id": "https://www.nytimes.com/2026/11/03/world/middleeast/israel-coalition-arab-lawmakers.html",
@@ -213,6 +227,20 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "t3_1xnaq0h",
+      "title": "Code cracked for Margam shipwreck padlock solving 400-year-old mystery",
+      "published": "2026-11-04T01:00:36+00:00",
+      "author": "/u/ocularius61",
+      "description": "submitted by /u/ocularius61 [link] [comments]",
+      "link": "https://www.reddit.com/r/worldnews/comments/1xnaq0h/code_cracked_for_margam_shipwreck_padlock_solving/",
+      "image": "https://external-preview.redd.it/68XeiiIGO4WK6ijbLxoX3WGY1kJwdO_rUrCvOmyF_cI.jpeg?width=640&crop=smart&auto=webp&s=4fce5acbac015487ff210e334c4aef8c51afbc60",
+      "feed_name": "World News",
+      "feed_title": "World News",
+      "category": "World News",
+      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
+      "feed_icon": "https://www.redditstatic.com/icon.png/"
     },
     {
       "id": "https://www.nytimes.com/2026/11/03/world/africa/congo-anthrax-hippos-virunga-park.html",
@@ -819,7 +847,7 @@
     {
       "id": "https://www.nytimes.com/2026/11/03/world/asia/afghan-deportation-flight.html",
       "title": "Afghan Woman Is Among Dozens to Be Deported to Afghanistan",
-      "published": "2026-11-03T20:57:48+00:00",
+      "published": "2026-11-03T20:57:49+00:00",
       "author": "Pranav Baskar, Hamed Aleaziz, Mattathias Schwartz and Elian Peltier",
       "description": "The Trump administration has arranged a flight to send dozens of Afghan immigrants back to Afghanistan, despite the risk of persecution by the Taliban.",
       "link": "https://www.nytimes.com/2026/11/03/world/asia/afghan-deportation-flight.html",
@@ -2901,20 +2929,6 @@
       "category": "World News",
       "feed_url": "https://www.theguardian.com/world/rss",
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-midterms-election.html",
-      "title": "As Trump’s Midterm Deadline Looms, Gulf Countries Brace for Possible Renewal of Iran War",
-      "published": "2026-11-03T10:47:18+00:00",
-      "author": "Vivian Nereim",
-      "description": "The energy-rich Gulf Arab countries are engaged in a flurry of mediation efforts to avert war between the U.S. and Iran, as many fear that the fighting will be worse this time around.",
-      "link": "https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-midterms-election.html",
-      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-gulf-war-1-vkwm/03int-gulf-war-1-vkwm-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/us/a-tennessee-couple-said-nearly-30-years-of-mowing-gardening-and-holding-yard-sales-gave-them-ownership-of-a-strip-next-to-their-home-on-october-29-an-appeals-court-ruled-that-the-developer-owned-the-disputed-land/articleshow/135485818.cms",
@@ -13989,20 +14003,6 @@
       "category": "World News",
       "feed_url": "https://www.reddit.com/r/worldnews/.rss",
       "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/independent-russian-newspaper-shuts-down-amid-kremlin-pressure-12261254#publisher=newsstand",
-      "title": "Independent Russian Newspaper Shuts Down Amid Kremlin Pressure",
-      "published": "2026-10-30T18:28:20+00:00",
-      "author": null,
-      "description": "Several of its reporters have been murdered in killings.",
-      "link": "https://www.ndtv.com/world-news/independent-russian-newspaper-shuts-down-amid-kremlin-pressure-12261254#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-10/87i9s39s_-novaya-gazeta_625x300_30_October_26.jpeg",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     }
   ]
 }
