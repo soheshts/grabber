@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-04T07:03:48.823777+00:00",
-  "count": 440,
+  "updated": "2026-11-04T07:32:45.844275+00:00",
+  "count": 442,
   "summary": null,
   "items": [
     {
@@ -115,6 +115,20 @@
       "category": "personal blogs",
       "feed_url": "https://ronaldsvilcins.com/atom.xml",
       "feed_icon": "https://ronaldsvilcins.com/favicon.png"
+    },
+    {
+      "id": "https://nerdy.dev/www-ep257-local-engineer-runs-out-of-tokens?utm_source=rss",
+      "title": "WWW Ep257 Local Engineer Runs Out Of Tokens",
+      "published": "2026-11-03T01:38:44+00:00",
+      "author": "adam@whiskey.fm",
+      "description": "Ep #257 Local Engineer Runs Out of Tokens, Discovers \"Programming\" Robbie and I sip a rye and talk token budgets, Copilot getting yanked mid-workflow, SDD with worktrees, whether frameworks still matter, slop as a choice, Jeff the cliff-diving lawnmower, and Amp as the…",
+      "link": "https://nerdy.dev/www-ep257-local-engineer-runs-out-of-tokens?utm_source=rss",
+      "image": "https://nerdy.dev/media/www-ep257.jpg",
+      "feed_name": "Adam Argyle",
+      "feed_title": "Adam Argyle",
+      "category": "personal blogs",
+      "feed_url": "https://nerdy.dev/rss.xml",
+      "feed_icon": "https://nerdy.dev/rss-icon.png"
     },
     {
       "id": "https://jeffbridgforth.com/?p=12707",
@@ -1193,6 +1207,20 @@
       "category": "personal blogs",
       "feed_url": "https://www.tempertemper.net/feeds/main.xml",
       "feed_icon": "https://www.tempertemper.net/assets/img/icons/favicon.png"
+    },
+    {
+      "id": "https://nerdy.dev/scroll-axis-design-system-rule?utm_source=rss",
+      "title": "Scroll Axis Design System Rule",
+      "published": "2026-10-28T23:49:04+00:00",
+      "author": "atom@argyleink",
+      "description": "Design system rule: Y scroll = scroll trigger X scroll = scroll driven",
+      "link": "https://nerdy.dev/scroll-axis-design-system-rule?utm_source=rss",
+      "image": null,
+      "feed_name": "Adam Argyle",
+      "feed_title": "Adam Argyle",
+      "category": "personal blogs",
+      "feed_url": "https://nerdy.dev/rss.xml",
+      "feed_icon": "https://nerdy.dev/rss-icon.png"
     },
     {
       "id": "https://meiert.com/blog/catastrophic-ai/",
