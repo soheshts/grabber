@@ -1,9 +1,23 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-04T22:32:17.448789+00:00",
+  "updated": "2026-11-04T23:02:40.844027+00:00",
   "count": 444,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.aaron-gustafson.com/notebook/there-can-be-only-one-redux/",
+      "title": "There Can Be Only One, Redux",
+      "published": "2026-11-04T22:30:29+00:00",
+      "author": "Aaron Gustafson",
+      "description": "Back in 2022, I wrote “There can be only one: Options for building ‘choose one’ fields” for HTMHell . The interaction sounds simple—pick one option from a list—but choosing the right HTML control involves a few tradeoffs. A <select> is compact, but you generally need to open it to see the available choices. Radio buttons put all the options in front of you, making them easier to scan and compare, but the group typically requires more screen real estate. What if we could maintain visibility whil…",
+      "link": "https://www.aaron-gustafson.com/notebook/there-can-be-only-one-redux/",
+      "image": "https://www.aaron-gustafson.com/i/share-cards/there-can-be-only-one-redux.jpg",
+      "feed_name": "Aaron Gustafson",
+      "feed_title": "Aaron Gustafson: Latest Posts",
+      "category": "personal blogs",
+      "feed_url": "https://www.aaron-gustafson.com/feeds/latest-posts.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.aaron-gustafson.com&sz=64"
+    },
     {
       "id": "https://www.bennadel.com/blog/4923-why-cfml-cant-just-compile-variable-scoping-into-the-byte-code.htm",
       "title": "Why CFML Can't \"Just\" Compile Variable Scoping Into The Byte Code",
@@ -5491,20 +5505,6 @@
       "category": "personal blogs",
       "feed_url": "https://techhub.iodigital.com/feed.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=techhub.iodigital.com&sz=64"
-    },
-    {
-      "id": "https://meiert.com/blog/html-minifier-next-updates-7/",
-      "title": "HTML Minifier Next: Exempt CSS, JS, and SVG From Minification, Collapse No-Break Spaces and Empty Attributes, Higher Correctness",
-      "published": "2026-10-05T23:00:00+00:00",
-      "author": null,
-      "description": "On the latest changes to the super-configurable web page minifier.",
-      "link": "https://meiert.com/blog/html-minifier-next-updates-7/",
-      "image": null,
-      "feed_name": "Blog (Web Development, Mostly) · Jens Oliver Meiert",
-      "feed_title": "Jens Oliver Meiert · Code Optimization, Digital Defense, World Models",
-      "category": "personal blogs",
-      "feed_url": "https://meiert.com/en/feed/",
-      "feed_icon": "https://meiert.com/media/social.png"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
