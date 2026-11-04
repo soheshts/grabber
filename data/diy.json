@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-04T17:03:58.104800+00:00",
-  "count": 745,
+  "updated": "2026-11-04T17:32:22.774059+00:00",
+  "count": 747,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/windows-boot-time-logs-find-slow-startup/",
+      "title": "Windows logs exactly how long every boot takes, and it showed me where mine was slowing down",
+      "published": "2026-11-04T17:30:17+00:00",
+      "author": "Oluwademilade Afolabi",
+      "description": "The spinning dots weren't talking, but the logs certainly were.",
+      "link": "https://www.makeuseof.com/windows-boot-time-logs-find-slow-startup/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/04/filtering-on-the-event-viewer-1.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/this-hidden-task-manager-feature-makes-suspicious-windows-processes-easier-to-spot/",
+      "title": "Task Manager's best security features are hidden by default, here's how to turn them on",
+      "published": "2026-11-04T17:30:16+00:00",
+      "author": "Goran Damnjanovic",
+      "description": "Shady processes can fake their names, but faking their location is much harder.",
+      "link": "https://www.howtogeek.com/this-hidden-task-manager-feature-makes-suspicious-windows-processes-easier-to-spot/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/dsc_0277.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/using-node-red-for-smart-home/",
       "title": "Node-RED is used to create escape rooms—here's why I use it for my smart home",
