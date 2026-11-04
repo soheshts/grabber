@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-04T11:33:54.461909+00:00",
-  "count": 717,
+  "updated": "2026-11-04T12:02:53.103846+00:00",
+  "count": 719,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/openlogi-gives-logitech-mouse-owners-an-open-source-software-alternative/",
+      "title": "OpenLogi gives Logitech mouse owners an open-source software alternative",
+      "published": "2026-11-04T12:00:17+00:00",
+      "author": "Rob LeFebvre",
+      "description": "OpenLogi runs my MX Master 4's haptics with no Logitech account, but firmware updates still want the app I was trying to delete.",
+      "link": "https://www.makeuseof.com/openlogi-gives-logitech-mouse-owners-an-open-source-software-alternative/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/logitech-mxmaster-4.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/5-new-unraid-apps-that-are-worth-installing-on-your-home-server/",
+      "title": "5 new Unraid apps that will level up your home server",
+      "published": "2026-11-04T12:00:15+00:00",
+      "author": "Umair Khurshid",
+      "description": "Your unRAID server has been hoarding storage. These five new apps can put it to work, claim free games, and even edit videos in your browser!",
+      "link": "https://www.howtogeek.com/5-new-unraid-apps-that-are-worth-installing-on-your-home-server/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/a-laptop-displaying-the-unraid-os-7-3-4-dashboard-with-server-hardware-details-array-and-pool-storage-usage-disk-health-cpu-utilization-and-shared-folders.png",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/android-17-makes-these-android-apps-irrelevant/",
       "title": "There’s no need to install these Android apps, because Android 17 already takes care of it",

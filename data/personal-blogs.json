@@ -1,9 +1,23 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-04T11:33:54.461909+00:00",
+  "updated": "2026-11-04T12:02:53.103846+00:00",
   "count": 442,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.amitmerchant.com/ai-agent-dependencies-management",
+      "title": "The Next Dependency Problem Is Inside Your AI Agent",
+      "published": "2026-11-04T00:00:00+00:00",
+      "author": "Amit Merchant",
+      "description": "Managing external dependencies for a software project has become an integral part of the software supply chain. Whether it’s application dependencies with tools like npm, Yarn, Composer, and so on. Or dependencies used by CI/CD workflows with tools like GitHub Actions, we’ve made considerable progress in managing dependencies across these layers.",
+      "link": "https://www.amitmerchant.com/ai-agent-dependencies-management/",
+      "image": "https://www.amitmerchant.com/cdn/ai-agent-dependencies-management.png",
+      "feed_name": "Amit Merchant",
+      "feed_title": "Amit Merchant",
+      "category": "personal blogs",
+      "feed_url": "https://www.amitmerchant.com/feed.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.amitmerchant.com&sz=64"
+    },
     {
       "id": "https://thomasrigby.com/posts/til-turtle/",
       "title": "#TIL: Turtle",
@@ -5463,20 +5477,6 @@
       "category": "personal blogs",
       "feed_url": "https://chriscoyier.net/feed/",
       "feed_icon": "https://i0.wp.com/chriscoyier.net/wp-content/uploads/2021/07/IsUISvAq_400x400.jpg?fit=32%2C32&quality=89&ssl=1"
-    },
-    {
-      "id": "https://shkspr.mobi/blog/?p=76276",
-      "title": "[RSS Club] Changes to the RSS and Atom feeds",
-      "published": "2026-10-05T11:34:03+00:00",
-      "author": "Terence Eden",
-      "description": "This content is exclusive to RSS and Atom subscribers. It is not on the web. Shhhhh! A few weeks ago I accidentally broke some of your feed readers. I was using <![CDATA[ … ]]> blocks in the feed. That allows me to put in raw HTML without the need for escaping. Unfortunately, some feed readers unescaped text which should have remained escaped. Confusing, innit? Anyway, if you've a mind to, I'd b…",
-      "link": "https://shkspr.mobi/blog/2026/10/rss-club-changes-to-the-rss-and-atom-feeds/",
-      "image": "https://shkspr.mobi/blog/wp-content/uploads/2012/08/atomic-bomb-2621291_640.jpg",
-      "feed_name": "Terence Eden’s Blog",
-      "feed_title": "Terence Eden’s Blog",
-      "category": "personal blogs",
-      "feed_url": "https://shkspr.mobi/blog/feed/atom/",
-      "feed_icon": "https://shkspr.mobi/blog/wp-content/uploads/2023/07/cropped-avatar-32x32.jpeg"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
