@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-04T20:33:36.204912+00:00",
-  "count": 446,
+  "updated": "2026-11-04T21:03:01.539847+00:00",
+  "count": 445,
   "summary": null,
   "items": [
     {
@@ -5519,20 +5519,6 @@
       "category": "personal blogs",
       "feed_url": "https://www.stefanjudis.com/rss.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.stefanjudis.com&sz=64"
-    },
-    {
-      "id": "https://ronaldsvilcins.com/2026/10/06/where-css-performance-problems-come-from/",
-      "title": "Where CSS Performance Problems Come From",
-      "published": "2026-10-05T21:00:00+00:00",
-      "author": "Ronalds Vilciņš",
-      "description": "Focus CSS performance work on stylesheet weight, layout, painting, DOM size, and unused rules before benchmarking ordinary selectors.",
-      "link": "https://ronaldsvilcins.com/2026/10/06/where-css-performance-problems-come-from/",
-      "image": null,
-      "feed_name": "Ronalds Vilciņš",
-      "feed_title": "Ronalds Vilciņš",
-      "category": "personal blogs",
-      "feed_url": "https://ronaldsvilcins.com/atom.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=ronaldsvilcins.com&sz=64"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",

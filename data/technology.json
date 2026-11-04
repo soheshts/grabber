@@ -1,9 +1,37 @@
 {
   "category": "technology",
-  "updated": "2026-11-04T20:33:36.204912+00:00",
+  "updated": "2026-11-04T21:03:01.539847+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "TheNextWeb=05a8da2d1627a14529a4c14a264e0f13",
+      "title": "Apple cuts engineers’ daily AI budgets as it reins in spending",
+      "published": "2026-11-04T20:40:46+00:00",
+      "author": "Ana Maria Constantin",
+      "description": "Apple cut the daily AI spending cap for some engineers from $300 to $200 last month and plans further cuts, Bloomberg reports. It comes as CEO John Ternus pushes for a leaner Apple, while the company’s R&D costs rose 32% on AI and infrastructure. Apple has cut how much some engineers can spend on AI […] This story continues at The Next Web",
+      "link": "https://thenextweb.com/news/apple-cuts-employee-ai-token-budgets",
+      "image": "https://media.thenextweb.com/2026/11/apple-logo-silver-macbook-lid.avif",
+      "feed_name": "The Next Web",
+      "feed_title": "The Next Web",
+      "category": "technology",
+      "feed_url": "https://thenextweb.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
+    {
+      "id": "https://www.engadget.com/2307116/pangram-expands-its-ai-detection-tools-to-video-and-images/",
+      "title": "Pangram expands its AI detection tools to video and images",
+      "published": "2026-11-04T20:28:18+00:00",
+      "author": "Karissa Bell",
+      "description": "The company behind the widely used tool for AI text is moving into more kinds of AI slop.",
+      "link": "https://www.engadget.com/2307116/pangram-expands-its-ai-detection-tools-to-video-and-images/",
+      "image": "https://www.engadget.com/img/gallery/pangram-expands-its-ai-detection-tools-to-video-and-images/l-intro-1793824046.jpg",
+      "feed_name": "Engadget",
+      "feed_title": "Engadget - Technology News & Expert Reviews",
+      "category": "technology",
+      "feed_url": "https://www.engadget.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
     {
       "id": "https://www.theverge.com/?p=1026787",
       "title": "Gemini for Home now plugs into AT&T’s smart security system",
@@ -13975,34 +14003,6 @@
       "category": "technology",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
-    },
-    {
-      "id": "5117023",
-      "title": "Using AI to Vibe Code Your TV Is Stupid",
-      "published": "2026-10-30T12:00:00+00:00",
-      "author": "Geoffrey Morrison",
-      "description": "No one likes clunky TV interfaces or their activity being tracked, but using AI isn’t how to avoid it. There’s an easier way.",
-      "link": "https://www.cnet.com/tech/home-entertainment/using-ai-to-vibe-code-your-tv-is-stupid/",
-      "image": "https://www.cnet.com/wp-content/uploads/sites/2/Dont-Use-AI-for-Googl-TV-Malte-Mueller-Tfilm.jpg",
-      "feed_name": "CNET News",
-      "feed_title": "News – CNET",
-      "category": "technology",
-      "feed_url": "https://www.cnet.com/rss/news/",
-      "feed_icon": "https://www.cnet.com/wp-content/uploads/sites/2/cropped-favicon-480.png?w=32"
-    },
-    {
-      "id": "https://www.engadget.com/2301498/lenovo-googlebook-15-review/",
-      "title": "Lenovo Googlebook 15 review: Your Android phone's new best friend",
-      "published": "2026-10-30T12:00:00+00:00",
-      "author": "Sam Rutherford",
-      "description": "Despite Lenovo providing excellent hardware for Google's new laptop platform, Googlebook OS will only impress Android die-hards.",
-      "link": "https://www.engadget.com/2301498/lenovo-googlebook-15-review/",
-      "image": "https://www.engadget.com/img/gallery/lenovo-googlebook-15-review-your-android-phones-new-best-friend/l-intro-1793300409.jpg",
-      "feed_name": "Engadget",
-      "feed_title": "Engadget - Technology News & Expert Reviews",
-      "category": "technology",
-      "feed_url": "https://www.engadget.com/rss.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
     }
   ]
 }
