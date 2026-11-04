@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-04T11:04:15.463089+00:00",
-  "count": 715,
+  "updated": "2026-11-04T11:33:54.461909+00:00",
+  "count": 717,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/android-17-makes-these-android-apps-irrelevant/",
+      "title": "There’s no need to install these Android apps, because Android 17 already takes care of it",
+      "published": "2026-11-04T11:30:16+00:00",
+      "author": "Pankil Shah",
+      "description": "Google just made these popular apps obsolete.",
+      "link": "https://www.makeuseof.com/android-17-makes-these-android-apps-irrelevant/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/05/android-17-beta-installing-on-pixel-10a.png",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/i-host-the-entire-wikipedia-locally-with-a-raspberry-pi-and-its-easy/",
+      "title": "I host the entire Wikipedia locally with a Raspberry Pi, and it's easy",
+      "published": "2026-11-04T11:30:15+00:00",
+      "author": "Sydney Butler",
+      "description": "A Raspberry Pi and a 1TB drive become an offline knowledge hub with Kiwix and ZIM files for LAN browsing.",
+      "link": "https://www.howtogeek.com/i-host-the-entire-wikipedia-locally-with-a-raspberry-pi-and-its-easy/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/img-20261027-wa0010.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/how-to-use-gpu-unlock-nvidia-rtx-ai-speed-limit/",
       "title": "How to double your NVIDIA RTX card’s tensor speed with 'gpu-unlock'",
