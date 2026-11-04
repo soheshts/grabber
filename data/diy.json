@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-04T03:03:19.223886+00:00",
-  "count": 710,
+  "updated": "2026-11-04T03:32:17.331408+00:00",
+  "count": 711,
   "summary": null,
   "items": [
+    {
+      "id": "https://hackaday.com/?p=1397655",
+      "title": "Cat Feeder Ensures Fed Cats",
+      "published": "2026-11-04T03:00:36+00:00",
+      "author": "Bryan Cockfield",
+      "description": "Automatic cat feeders are a dime a dozen, largely because this is an easy problem to solve. Dry cat food is easy for machines to manipulate, and the electronics needed …read more",
+      "link": "https://hackaday.com/2026/11/03/cat-feeder-ensures-fed-cats/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/cat-feeder-main.png",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/built-weekend-bluetooth-tracker-from-esp32-nrf-connect-does-the-rest/",
       "title": "I built a weekend Bluetooth tracker from an ESP32, and nRF Connect does the rest",
