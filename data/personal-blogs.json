@@ -1,9 +1,51 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-04T14:03:51.292444+00:00",
-  "count": 441,
+  "updated": "2026-11-04T14:32:50.958681+00:00",
+  "count": 445,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.bennadel.com/blog/4923-why-cfml-cant-just-compile-variable-scoping-into-the-byte-code.htm",
+      "title": "Why CFML Can't \"Just\" Compile Variable Scoping Into The Byte Code",
+      "published": "2026-11-04T19:10:28+00:00",
+      "author": null,
+      "description": "Ben Nadel demonstrates that automatic variable scoping can't \"just\" be compiled into the CFML byte code. ColdFusion is far too dynamic for that; at least in some contexts....",
+      "link": "https://www.bennadel.com/blog/4923-why-cfml-cant-just-compile-variable-scoping-into-the-byte-code.htm",
+      "image": "https://bennadel-cdn.com/resources/uploads/2026/dynamic-variable-scope-lookup-coldfusion@2x.png",
+      "feed_name": "Ben Nadel",
+      "feed_title": "Ben Nadel's Web Development and User Experience Feed @ BenNadel.com",
+      "category": "personal blogs",
+      "feed_url": "http://www.bennadel.com/index.cfm?dax=blog.rss&lst_tag_id=14,16,3,5,9,6,7,13,18,20,10,15",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.bennadel.com&sz=64"
+    },
+    {
+      "id": "6aeaecb7dddabae29b4f025f",
+      "title": "Crypto and AI’s $250 million election goes sideways",
+      "published": "2026-11-04T14:14:44+00:00",
+      "author": "Molly White",
+      "description": "The industries’ biggest bets lost almost across the board.",
+      "link": "https://www.citationneeded.news/2026-election-results/",
+      "image": "https://www.citationneeded.news/content/images/2026/11/us-sen-sherrod-brown-visits-the-121st-air-refueling-561af4.jpg",
+      "feed_name": "Citation Needed",
+      "feed_title": "Citation Needed",
+      "category": "personal blogs",
+      "feed_url": "https://www.citationneeded.news/rss/",
+      "feed_icon": "https://www.citationneeded.news/favicon.png"
+    },
+    {
+      "id": "http://finley.im/2026/11/04/heaven-here-i-come/",
+      "title": "Heaven Here I Come by We the Kingdom",
+      "published": "2026-11-04T14:00:00+00:00",
+      "author": null,
+      "description": "My feet now walk these dusty roads Soon the streets of gold Goodbye to sin and shame forever I am going home All Saints' Day was Sunday, and this one has been on repeat since. John saw \"a great multitude that no one could number, from every nation, from all tribes and peoples and languages, standing before the throne and before the Lamb\" (Revelation 7:9). We the Kingdom pictures those same saints at the gate, waving us in. I'm trading my sorrows For joy that never ends The saints are at the pea…",
+      "link": "http://finley.im/2026/11/04/heaven-here-i-come/",
+      "image": "https://finley.im/open-graph/2026/11/04/heaven-here-i-come.png",
+      "feed_name": "Finley, I am.",
+      "feed_title": "Finley, I am.",
+      "category": "personal blogs",
+      "feed_url": "https://finley.im/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=finley.im&sz=64"
+    },
     {
       "id": "https://shkspr.mobi/blog/?p=76815",
       "title": "Book Review: Practice by Rosalind Brown ★★★★☆",
@@ -17,6 +59,34 @@
       "category": "personal blogs",
       "feed_url": "https://shkspr.mobi/blog/feed/atom/",
       "feed_icon": "https://shkspr.mobi/blog/wp-content/uploads/2023/07/cropped-avatar-32x32.jpeg"
+    },
+    {
+      "id": "https://csswizardry.com/2026/11/web-perf-wednesday-016-lighthouse-13-6-can-lift-scores-without-a-faster-site/",
+      "title": "Web-Perf Wednesday 016 – Lighthouse 13.6 Can Lift Scores Without a Faster Site",
+      "published": "2026-11-04T12:00:00+00:00",
+      "author": null,
+      "description": "Lighthouse 13.6 changes simulated FCP and LCP, so PageSpeed Insights scores can improve even when the page itself has not changed.",
+      "link": "https://csswizardry.com/2026/11/web-perf-wednesday-016-lighthouse-13-6-can-lift-scores-without-a-faster-site/",
+      "image": null,
+      "feed_name": "CSS Wizardry",
+      "feed_title": "CSS Wizardry",
+      "category": "personal blogs",
+      "feed_url": "http://feeds.feedburner.com/csswizardry",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=csswizardry.com&sz=64"
+    },
+    {
+      "id": "https://ronaldsvilcins.com/2026/11/04/better-vertical-text-alignment-with-text-box-trim/",
+      "title": "Better Vertical Text Alignment With text-box-trim",
+      "published": "2026-11-04T06:00:00+00:00",
+      "author": "Ronalds Vilciņš",
+      "description": "CSS text-box-trim adjusts space around text using font metrics. See cap and baseline edges, heading and button examples, plus readable browser fallbacks.",
+      "link": "https://ronaldsvilcins.com/2026/11/04/better-vertical-text-alignment-with-text-box-trim/",
+      "image": "https://ronaldsvilcins.com/og/0abf854f3b4a4e09ed6a4a8924f49ed8814f951eba847f3bceb4ea24de9689d4.jpg",
+      "feed_name": "Ronalds Vilciņš",
+      "feed_title": "Ronalds Vilciņš",
+      "category": "personal blogs",
+      "feed_url": "https://ronaldsvilcins.com/atom.xml",
+      "feed_icon": "https://ronaldsvilcins.com/favicon.png"
     },
     {
       "id": "https://www.amitmerchant.com/ai-agent-dependencies-management",
@@ -5449,20 +5519,6 @@
       "category": "personal blogs",
       "feed_url": "https://thomasrigby.com/feed.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=thomasrigby.com&sz=64"
-    },
-    {
-      "id": "https://gomakethings.com/articles/no-human-is-illegal/",
-      "title": "No human is illegal",
-      "published": "2026-10-05T14:30:00+00:00",
-      "author": null,
-      "description": "I just ordered a bunch of leftist patches to put on my backpack, because virtue signaling is good, actually. One patch I kept seeing over and over again is… No human is illegal on stolen land. I get it. It’s supposed to point out the hypocrisy of complaining about illegal immigration in a country that was founded by stealing it from and genociding the people who already lived here.",
-      "link": "https://gomakethings.com/articles/no-human-is-illegal/",
-      "image": null,
-      "feed_name": "Go Make Things",
-      "feed_title": "Go Make Things",
-      "category": "personal blogs",
-      "feed_url": "https://gomakethings.com/feed/index.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=gomakethings.com&sz=64"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
