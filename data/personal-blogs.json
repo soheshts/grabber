@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-04T17:32:22.774059+00:00",
-  "count": 447,
+  "updated": "2026-11-04T18:03:59.993448+00:00",
+  "count": 448,
   "summary": null,
   "items": [
     {
@@ -31,6 +31,20 @@
       "category": "personal blogs",
       "feed_url": "https://blog.jim-nielsen.com/feed.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=blog.jim-nielsen.com&sz=64"
+    },
+    {
+      "id": "https://keithjgrant.com/posts/2026/11/do-we-need-a-modern-lightweight-css-toolset/",
+      "title": "Do We Need a Modern, Lightweight CSS Toolset?",
+      "published": "2026-11-04T17:34:18+00:00",
+      "author": "Keith J. Grant (barkeep@keithjgrant.com)",
+      "description": "For a while now, I’ve been mildly frustrated with the state of CSS tooling. Sass has served its purpose, but lingers on as little more than a fancy concatenation tool . Lightning CSS was “modern” for a time, but it too feels heavy-handed to me these days. With modern CSS, the tooling we’ve gotten used to has very little work it needs to do anymore. I kind of wonder if modern tooling could venture away from being a “preprocessor” more into the realm of helping direct our design system and code a…",
+      "link": "https://keithjgrant.com/posts/2026/11/do-we-need-a-modern-lightweight-css-toolset/",
+      "image": "https://res.cloudinary.com/keithjgrant/image/fetch/c_scale,f_auto,w_600/https://keithjgrant.com//images/2026/blueprints.jpg",
+      "feed_name": "Keith J. Grant",
+      "feed_title": "Keith J. Grant",
+      "category": "personal blogs",
+      "feed_url": "https://keithjgrant.com/posts/index.xml",
+      "feed_icon": "http://keithjgrant.com/favicon.ico"
     },
     {
       "id": "6aeaecb7dddabae29b4f025f",
