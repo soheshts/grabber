@@ -1,9 +1,37 @@
 {
   "category": "fashion",
-  "updated": "2026-11-04T15:04:43.342354+00:00",
-  "count": 581,
+  "updated": "2026-11-04T15:33:37.155378+00:00",
+  "count": 584,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/11/04/style/we-rate-dogs-ai.html",
+      "title": "How WeRateDogs Is Fighting A.I. Slop, One Perfect Puppy at a Time",
+      "published": "2026-11-04T15:22:50+00:00",
+      "author": "Sarah Lyall",
+      "description": "Matt Nelson built an internet empire based on jokes he wrote at 18. Now he is trying to stem the tide of fake dogs taking over dog lovers’ feeds.",
+      "link": "https://www.nytimes.com/2026/11/04/style/we-rate-dogs-ai.html",
+      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04ST-WE-RATE-DOGS-01-hcfk/04ST-WE-RATE-DOGS-01-hcfk-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Style",
+      "feed_title": "NYT > Style",
+      "category": "fashion",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://fashionista.com/2026/11/coperni-closes-tomorrow-ltd",
+      "title": "Coperni Ceases Operations Amid Distributor Conflict",
+      "published": "2026-11-04T15:05:01+00:00",
+      "author": "Catie Pusateri",
+      "description": "After eight years in business, Co-Founders Sébastien Meyer and Arnaud Vaillant are shutting down the Parisian label.",
+      "link": "https://fashionista.com/2026/11/coperni-closes-tomorrow-ltd",
+      "image": "https://fashionista.com/.image/NTg6MDAwMDAwMDAwODA2NzU0/fashion-france-women-coperni.jpg?profile=rss&x=49&y=0",
+      "feed_name": "Fashionista",
+      "feed_title": "Fashionista Full",
+      "category": "fashion",
+      "feed_url": "https://fashionista.com/.rss/excerpt/",
+      "feed_icon": "https://fashionista.com/site/images/apple-touch-icon.png"
+    },
     {
       "id": "tn9ktFsvY3LuQUo73jVPLF",
       "title": "They're Here: The Chicest Minimalist Gifts for the Most Elegant Dresser You Know",
@@ -215,20 +243,6 @@
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
-      "id": "https://www.nytimes.com/2026/11/04/style/we-rate-dogs-ai.html",
-      "title": "WeRateDogs Loves All Dogs. A.I. Puppies Are Another Story.",
-      "published": "2026-11-04T10:00:09+00:00",
-      "author": "Sarah Lyall",
-      "description": "Matt Nelson built an internet empire based on jokes he wrote at 18. Now he is trying to stem the tide of fake dogs taking over dog lovers’ feeds.",
-      "link": "https://www.nytimes.com/2026/11/04/style/we-rate-dogs-ai.html",
-      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04ST-WE-RATE-DOGS-01-hcfk/04ST-WE-RATE-DOGS-01-hcfk-mediumSquareAt3X.jpg",
-      "feed_name": "NYT > Style",
-      "feed_title": "NYT > Style",
-      "category": "fashion",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
       "id": "rbv7z4nGxMvz9LDiMTwHKo",
       "title": "9 Coat Trends That Will Make Your Winter Outfits Look Chicer",
       "published": "2026-11-04T10:00:00+00:00",
@@ -255,6 +269,20 @@
       "category": "fashion",
       "feed_url": "https://www.whowhatwear.com/rss",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.whowhatwear.com&sz=64"
+    },
+    {
+      "id": "https://www.theguardian.com/lifeandstyle/2026/nov/04/celebrity-hairstylist-john-frieda-dies-aged-75",
+      "title": "‘A true icon of the hair industry’: celebrity hairstylist John Frieda dies aged 75",
+      "published": "2026-11-04T09:59:08+00:00",
+      "author": "Caroline Davies",
+      "description": "Businessman styled stars such as Twiggy, Madonna and Joanna Lumley and created popular hair care line Frizz Ease John Frieda, the celebrity hairstylist who launched his own bestselling hair product range, has died aged 75. In an Instagram post, his salon wrote: “It is with heavy hearts that we share the news that our dear John passed away peacefully … surrounded by his family. Continue reading...",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/nov/04/celebrity-hairstylist-john-frieda-dies-aged-75",
+      "image": "https://i.guim.co.uk/img/media/92da8b433e44dcf6c5d1ba1cd5d457ca0f80dee1/113_0_2762_2209/master/2762.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e5db2512cf997c4029d3942b8fcb5e64",
+      "feed_name": "Fashion | The Guardian",
+      "feed_title": "Fashion | The Guardian",
+      "category": "fashion",
+      "feed_url": "https://www.theguardian.com/fashion/rss",
+      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
     },
     {
       "id": "ekvpiNBt29d6vefQFzJh6a",
@@ -633,6 +661,20 @@
       "category": "fashion",
       "feed_url": "https://www.fashionbeans.com/rss-feed/?category=fashion",
       "feed_icon": "https://www.fashionbeans.com/wp-content/uploads/2022/11/FB_Favicon_48x48.png"
+    },
+    {
+      "id": "https://www.theguardian.com/thefilter/2026/nov/03/best-womens-coats-autumn-winter-2026-uk",
+      "title": "Faux fur, funnel necks and timeless wool: the 47 best women’s coats for autumn and winter",
+      "published": "2026-11-03T15:00:20+00:00",
+      "author": "Melanie Wilkinson",
+      "description": "Long, short, tailored or sporty, there’s a great jacket for everyone – here are our favourites • Jess Cartner-Morley’s November style essentials It’s November, which means your thick tights and cosiest jumpers have emerged from that box under the bed. And while winter weather brings with it a whole host of wardrobe-related challenges, few can’t be solved with the addition of an outstanding coat. A coat is the easiest way to add a stamp of your signature style to an outfit. They bring sophistica…",
+      "link": "https://www.theguardian.com/thefilter/2026/nov/03/best-womens-coats-autumn-winter-2026-uk",
+      "image": "https://i.guim.co.uk/img/media/f715916cbdec72090942863171b24657862e9f59/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvZmlsdGVyLXVrLnBuZw&enable=upscale&s=8263a5037057b721afe77baba0956eab",
+      "feed_name": "Fashion | The Guardian",
+      "feed_title": "Fashion | The Guardian",
+      "category": "fashion",
+      "feed_url": "https://www.theguardian.com/fashion/rss",
+      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
     },
     {
       "id": "https://www.fashionbeans.com/?p=1139049",

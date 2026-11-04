@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-04T15:04:43.342354+00:00",
-  "count": 734,
+  "updated": "2026-11-04T15:33:37.155378+00:00",
+  "count": 737,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/i-turned-my-old-macbook-into-a-home-server-and-gave-it-a-new-lease-on-life/",
+      "title": "I turned my old MacBook into a home server and gave it a new lease on life",
+      "published": "2026-11-04T15:31:17+00:00",
+      "author": "Jack Mitchell",
+      "description": "Running a few docker containers let me sync files and stream my media library, while Tailscale provided remote access to my repurposed Mac.",
+      "link": "https://www.makeuseof.com/i-turned-my-old-macbook-into-a-home-server-and-gave-it-a-new-lease-on-life/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/macbook-as-home-server.png",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/claude-can-create-motion-graphics-now-heres-how-easy-it-is/",
+      "title": "I made a full animated promo using Claude in just 4 prompts",
+      "published": "2026-11-04T15:31:16+00:00",
+      "author": "Zunaid Ali",
+      "description": "Your next big launch video might be a few prompts away.",
+      "link": "https://www.howtogeek.com/claude-can-create-motion-graphics-now-heres-how-easy-it-is/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/02/close-up-of-the-claude-code-welcome-screen-on-an-ipad-connected-to-a-mac.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/how-to-turn-a-single-photo-into-a-3d-scene-with-apples-free-ai/",
       "title": "How to turn a single photo into a 3D scene with Apple’s free AI",
@@ -31,6 +59,20 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://hackaday.com/?p=1397638",
+      "title": "Yesterday Has Never Looked This Good: Feast Your Eyes On The 2026 Retrocomputing Challenge Winners!",
+      "published": "2026-11-04T15:00:00+00:00",
+      "author": "Jenny List",
+      "description": "If there’s one category among those we see here at Hackaday that has something for everyone, it’s retrocomputing. Spanning everything from relay-based machines that fill a wall through to modern …read more",
+      "link": "https://hackaday.com/2026/11/04/yesterday-has-never-looked-this-good-feast-your-eyes-on-the-2026-retrocomputing-challenge-winners/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/08/RetroComputing_Big_notext.jpg",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
     },
     {
       "id": "https://www.makeuseof.com/my-old-fire-tv-stick-felt-too-slow-to-keep-until-i-changed-these-settings/",
