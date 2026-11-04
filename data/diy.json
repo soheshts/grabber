@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-04T09:33:42.987839+00:00",
-  "count": 713,
+  "updated": "2026-11-04T11:04:15.463089+00:00",
+  "count": 715,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/how-to-use-gpu-unlock-nvidia-rtx-ai-speed-limit/",
+      "title": "How to double your NVIDIA RTX card’s tensor speed with 'gpu-unlock'",
+      "published": "2026-11-04T11:00:16+00:00",
+      "author": "Amir Bohlooli",
+      "description": "NVIDIA caps your RTX card’s tensor cores at half speed for AI. This free tool fixes it.",
+      "link": "https://www.makeuseof.com/how-to-use-gpu-unlock-nvidia-rtx-ai-speed-limit/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2026/07/asus-tuf-gaming-geforce-rtx-3090-graphics-card-box-on-a-wood-floor.jpeg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/using-ai-stop-smart-tv-spying-risky-this-is-safer/",
+      "title": "Using AI to stop your smart TV spying on you can be risky, but this is safer",
+      "published": "2026-11-04T11:00:15+00:00",
+      "author": "Tim Brookes",
+      "description": "Alternatively, why not both?",
+      "link": "https://www.howtogeek.com/using-ai-stop-smart-tv-spying-risky-this-is-safer/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/04/a-person-holding-an-infrared-tv-remote.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://hackaday.com/?p=1397754",
       "title": "Reading Data from an Unwilling Blood Pressure Monitor",
