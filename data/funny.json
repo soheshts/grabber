@@ -1,9 +1,23 @@
 {
   "category": "funny",
-  "updated": "2026-11-04T13:03:47.168515+00:00",
-  "count": 356,
+  "updated": "2026-11-04T13:33:41.872709+00:00",
+  "count": 358,
   "summary": null,
   "items": [
+    {
+      "id": "https://theonion.com/?p=1851710448",
+      "title": "Why Hasn’t Abdul El-Sayed Accomplished Any Of His Campaign Goals Since Winning 2 Minutes Ago?",
+      "published": "2026-11-04T13:17:52+00:00",
+      "author": "The Onion Staff",
+      "description": "In The Know’s Midterm 2026 Election Panel debates if El-Sayed’s string of broken campaign promises over the last half-minute could mean the end of the progressive movement in America. The post Why Hasn’t Abdul El-Sayed Accomplished Any Of His Campaign Goals Since Winning 2 Minutes Ago? appeared first on The Onion .",
+      "link": "https://theonion.com/why-hasnt-abdul-el-sayed-accomplished-any-of-his-campaign-goals-since-winning-2-minutes-ago/",
+      "image": "https://theonion.com/wp-content/uploads/2026/11/ITK2604_DELIVERY_Webstill.jpg",
+      "feed_name": "The Onion",
+      "feed_title": "The Onion",
+      "category": "funny",
+      "feed_url": "https://www.theonion.com/rss",
+      "feed_icon": "https://theonion.com/wp-content/uploads/2024/07/cropped-site-icon.png?w=32"
+    },
     {
       "id": "https://cheezburger.com/47288325/23-funniest-feline-memes-to-get-you-warmed-up-for-the-week",
       "title": "23 Funniest Feline Memes to Get You Warmed Up for the Week",
@@ -31,6 +45,20 @@
       "category": "funny",
       "feed_url": "https://www.penny-arcade.com/feed",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.penny-arcade.com&sz=64"
+    },
+    {
+      "id": "https://thedailywtf.com/articles/what-it-doesn-t-do",
+      "title": "Representative Line: What it Doesn't Do",
+      "published": "2026-11-04T06:30:00+00:00",
+      "author": "Remy Porter",
+      "description": "Alastair found this comment in his codebase, and wondered, \"who wrote this comment?\" A quick blame answered the question: he did. He did not, however, write the code. public function getAllMailers ( ) { // This function neither returns Mailers, nor all of them. ... } I suppose the comment was easier to add that doing a global find/replace to update the function name everywhere. But I do wonder, what does this function return? In any case, sing along: \"I wrote the comment, but I did not pick thi…",
+      "link": "https://thedailywtf.com/articles/what-it-doesn-t-do",
+      "image": "https://thedailywtf.com/images/inedo/proget-icon.png",
+      "feed_name": "The Daily WTF",
+      "feed_title": "The Daily WTF",
+      "category": "funny",
+      "feed_url": "http://syndication.thedailywtf.com/TheDailyWtf",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thedailywtf.com&sz=64"
     },
     {
       "id": "https://cheezburger.com/47284485/remote-worker-confronts-wife-after-she-accuses-them-of-chooing-kids-away-during-virtual-meeting-with",
