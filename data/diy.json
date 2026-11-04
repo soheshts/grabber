@@ -1,9 +1,51 @@
 {
   "category": "DIY",
-  "updated": "2026-11-04T12:02:53.103846+00:00",
-  "count": 719,
+  "updated": "2026-11-04T12:33:39.760255+00:00",
+  "count": 722,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/i-stopped-tweaking-my-router-after-discovering-these-hidden-windows-wi-fi-settings/",
+      "title": "I stopped tweaking my router after discovering these hidden Windows Wi-Fi settings",
+      "published": "2026-11-04T12:30:16+00:00",
+      "author": "Afam Onyimadu",
+      "description": "Each setting targets one symptom, from dropped calls to slow uploads.",
+      "link": "https://www.makeuseof.com/i-stopped-tweaking-my-router-after-discovering-these-hidden-windows-wi-fi-settings/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/windows-wifi-settings.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/tailscale-turned-my-raspberry-pi-into-the-travel-router-i-actually-wanted/",
+      "title": "Tailscale turned my Raspberry Pi into the travel router I actually wanted",
+      "published": "2026-11-04T12:30:15+00:00",
+      "author": "Umair Khurshid",
+      "description": "This Raspberry Pi knows its way around my home network, even when I am hundreds of miles away!",
+      "link": "https://www.howtogeek.com/tailscale-turned-my-raspberry-pi-into-the-travel-router-i-actually-wanted/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/hp-zbook-displaying-the-headscale-v0-29-1-dashboard-with-a-raspberry-pi-5-connected-to-a-netgear-nighthawk-usb-wi-fi-adapter-on-a-black-carbon-fiber-desk-mat.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://hackaday.com/?p=1397771",
+      "title": "A Ridiculous Journey to Set the Clock in a 2014 Renault",
+      "published": "2026-11-04T12:00:48+00:00",
+      "author": "Tom Nardi",
+      "description": "As difficult as it may be to believe, it’s not possible to adjust the time on a 2014 Renault Latitude’s in-dash navigation system unless you have an original SD card …read more",
+      "link": "https://hackaday.com/2026/11/04/a-ridiculous-journey-to-set-the-clock-in-a-2014-renault/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/renaultclock_feat.jpg",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/openlogi-gives-logitech-mouse-owners-an-open-source-software-alternative/",
       "title": "OpenLogi gives Logitech mouse owners an open-source software alternative",
