@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-04T13:33:41.872709+00:00",
-  "count": 728,
+  "updated": "2026-11-04T14:03:51.292444+00:00",
+  "count": 730,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/understand-why-android-power-users-swear-by-tasker/",
+      "title": "I finally understand why Android power users swear by this app",
+      "published": "2026-11-04T14:00:16+00:00",
+      "author": "Jayric Maning",
+      "description": "A bit complex, but its the best automation app for Android.",
+      "link": "https://www.makeuseof.com/understand-why-android-power-users-swear-by-tasker/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/11/running-tasker-profile.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/samsungs-best-one-ui-multitasking-gesture-is-disabled-by-default/",
+      "title": "Samsung’s best one UI multitasking gesture is disabled by default",
+      "published": "2026-11-04T14:00:15+00:00",
+      "author": "Bertel King",
+      "description": "Wait for it to pop before your eyes.",
+      "link": "https://www.howtogeek.com/samsungs-best-one-ui-multitasking-gesture-is-disabled-by-default/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/256384.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/car-battery-test-shows-will-survive-first-freeze/",
       "title": "This 30-second test tells you whether your car battery will survive the first freeze",

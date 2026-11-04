@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-04T13:33:41.872709+00:00",
-  "count": 443,
+  "updated": "2026-11-04T14:03:51.292444+00:00",
+  "count": 441,
   "summary": null,
   "items": [
     {
@@ -5463,34 +5463,6 @@
       "category": "personal blogs",
       "feed_url": "https://gomakethings.com/feed/index.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=gomakethings.com&sz=64"
-    },
-    {
-      "id": "https://www.lukew.com/ff/entry.asp?2165",
-      "title": "Many Agents, Many Views",
-      "published": "2026-10-05T14:00:00+00:00",
-      "author": "Luke Wroblewski",
-      "description": "In today's AI-powered software , you manage agents, they manage more agents, and those agents manage even more agents. Chat threads break with that scale. We need to know what agents are planning, what they've already done, and how best to steer them. In other words we need different ways of seeing things. When most people think about staying on top of agent activity, they jump to management views: an inbox like those found in Slack and email; a dashboard like those found in monitoring apps. Ef…",
-      "link": "https://www.lukew.com/ff/2165/many-agents-many-views",
-      "image": "http://static.lukew.com/agent_management_patterns.png",
-      "feed_name": "LukeW | Digital Product Design + Strategy",
-      "feed_title": "LukeW | Digital Product Design + Strategy",
-      "category": "personal blogs",
-      "feed_url": "http://feeds.feedburner.com/FunctioningForm",
-      "feed_icon": "https://static.lukew.com/lukew_space.png"
-    },
-    {
-      "id": "https://chriscoyier.net/?p=14055",
-      "title": "WordPress MCP",
-      "published": "2026-10-05T13:54:59+00:00",
-      "author": "Chris Coyier",
-      "description": "I’ve still got all my WordPress sites on Pressable and happily so; I think they do a good job! They do everything you’d expect a WordPress host to do. The things I specifically like are: On that last point, I appreciated this little one-clicker: With that on (and presumably because I also use Jetpack and […]",
-      "link": "https://chriscoyier.net/2026/10/05/wordpress-mcp/",
-      "image": "https://i0.wp.com/chriscoyier.net/wp-content/uploads/2026/10/CleanShot-2026-10-05-at-6.17.01-AM%402x.png?resize=1024%2C618&quality=80&ssl=1",
-      "feed_name": "Chris Coyier",
-      "feed_title": "Chris Coyier",
-      "category": "personal blogs",
-      "feed_url": "https://chriscoyier.net/feed/",
-      "feed_icon": "https://i0.wp.com/chriscoyier.net/wp-content/uploads/2021/07/IsUISvAq_400x400.jpg?fit=32%2C32&quality=89&ssl=1"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
