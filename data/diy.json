@@ -1,9 +1,51 @@
 {
   "category": "DIY",
-  "updated": "2026-11-04T15:33:37.155378+00:00",
-  "count": 737,
+  "updated": "2026-11-04T16:03:49.297533+00:00",
+  "count": 740,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/my-amazon-echo-has-been-hiding-a-second-job-and-its-not-playing-music/",
+      "title": "My Amazon Echo has been hiding a second job, and it's not playing music",
+      "published": "2026-11-04T16:00:16+00:00",
+      "author": "Chris Hachey",
+      "description": "Boost your signal with your speaker.",
+      "link": "https://www.makeuseof.com/my-amazon-echo-has-been-hiding-a-second-job-and-its-not-playing-music/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/01/echo-dot.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/home-assistant-speaks-infrared-now-and-this-10-esp32-is-all-it-needs/",
+      "title": "Home Assistant speaks infrared now, and this $10 ESP32 is all it needs",
+      "published": "2026-11-04T16:00:15+00:00",
+      "author": "Patrick Campanale",
+      "description": "No account, no app, no internet—just an IR LED and ESPHome.",
+      "link": "https://www.howtogeek.com/home-assistant-speaks-infrared-now-and-this-10-esp32-is-all-it-needs/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/esp32-ir-blaster-under-tcl-tv.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.makeuseof.com/android-is-getting-automatic-photo-backups-without-relying-on-the-cloud/",
+      "title": "Android is getting automatic photo backups without relying on the cloud",
+      "published": "2026-11-04T15:41:01+00:00",
+      "author": "Hamed Paydarfar",
+      "description": "Automatic local backups arrive as an option to keep photos on your own hard drive and skip recurring cloud storage fees.",
+      "link": "https://www.makeuseof.com/android-is-getting-automatic-photo-backups-without-relying-on-the-cloud/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/01/aves-gallery-app-home-photos-grid.png",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/i-turned-my-old-macbook-into-a-home-server-and-gave-it-a-new-lease-on-life/",
       "title": "I turned my old MacBook into a home server and gave it a new lease on life",
