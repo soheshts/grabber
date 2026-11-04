@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-03T23:32:43.529888+00:00",
-  "count": 706,
+  "updated": "2026-11-04T00:03:47.461238+00:00",
+  "count": 708,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.howtogeek.com/headless-raspberry-pi-projects-that-dont-need-monitor-mouse-keyboard/",
+      "title": "4 \"headless\" Raspberry Pi projects that don't need a monitor, mouse, or keyboard",
+      "published": "2026-11-04T00:00:15+00:00",
+      "author": "Sydney Butler",
+      "description": "Transform neglected Raspberry Pis into silent network guardians blocking trackers and ads via headless DNS filtering.",
+      "link": "https://www.howtogeek.com/headless-raspberry-pi-projects-that-dont-need-monitor-mouse-keyboard/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/20261027_122932.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/lg-tv-apple-tv-doorbell-feature/",
       "title": "I gave my LG TV the Apple TV doorbell feature it was missing",
@@ -31,6 +45,20 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.apartmenttherapy.com/rustic-new-build-fireplace-bedroom-ba-37695844",
+      "title": "A Statement Ceiling Gave This New-Build Bedroom an Elevated Cabin Feel",
+      "published": "2026-11-03T23:00:00+00:00",
+      "author": "LJ Smelker",
+      "description": "When interior designer Denise McIntire’s clients moved into their new-build Craftsman-style home, they had a “blank slate” primary bedroom that had simply been painted white and left alone. “It was lacking personality and personal style,” Denise explains. As founder and principal interior designer of Elevated Spaces Staging & Redesign, Denise was excited to create a space her clients could retreat to at the end of each day. READ MORE...",
+      "link": "https://www.apartmenttherapy.com/rustic-new-build-fireplace-bedroom-ba-37695844?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+projects",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2026/2026-10/denise-m-bedroom/denise-m-bedroom-before-lead",
+      "feed_name": "Apartment Therapy| Saving the world, one room at a time",
+      "feed_title": "Apartment Therapy| Saving the world, one room at a time",
+      "category": "DIY",
+      "feed_url": "https://www.apartmenttherapy.com/projects.rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.apartmenttherapy.com&sz=64"
     },
     {
       "id": "https://www.howtogeek.com/how-to-see-which-devices-on-your-wi-fi-are-sending-data-out-starting-with-your-router/",

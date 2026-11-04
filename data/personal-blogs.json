@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-03T23:32:43.529888+00:00",
-  "count": 444,
+  "updated": "2026-11-04T00:03:47.461238+00:00",
+  "count": 443,
   "summary": null,
   "items": [
     {
@@ -129,6 +129,20 @@
       "category": "personal blogs",
       "feed_url": "http://jeffbridgforth.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=jeffbridgforth.com&sz=64"
+    },
+    {
+      "id": "https://www.abeautifulsite.net/posts/revisiting-buttons-and-cursors/",
+      "title": "Revisiting Buttons and Cursors",
+      "published": "2026-11-03T00:00:00+00:00",
+      "author": "Cory LaViska (cory@abeautifulsite.net)",
+      "description": "The CSS Working Group resolved to use cursor: pointer for buttons and other clickable form controls in the new appearance: base styles. That happened on October 21, but I posted about it yesterday and, uh, people have feelings about cursors. I wrote about buttons and cursors back in 2022, when a post titled \"Buttons shouldn't have a hand cursor\" was making the rounds. I admitted I didn't have a strong opinion either way, then argued that not using the hand cursor had become the new anti-pattern…",
+      "link": "https://www.abeautifulsite.net/posts/revisiting-buttons-and-cursors/",
+      "image": "https://www.abeautifulsite.net/og-images/b26f5855.png",
+      "feed_name": "A Beautiful Site",
+      "feed_title": "A Beautiful Site",
+      "category": "personal blogs",
+      "feed_url": "https://www.abeautifulsite.net/feed/feed.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.abeautifulsite.net&sz=64"
     },
     {
       "id": "https://meiert.com/blog/html-minifier-next-to-html-minifier/",
@@ -5477,34 +5491,6 @@
       "category": "personal blogs",
       "feed_url": "https://allthingssmitty.com/atom.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=allthingssmitty.com&sz=64"
-    },
-    {
-      "id": "https://joshcollinsworth.com/blog/tupo",
-      "title": "The story of Tupo, my new daily logic puzzle",
-      "published": "2026-10-05T00:00:00+00:00",
-      "author": null,
-      "description": "Tupo is my first new game in four years. I'm excited to share it with the world, and to talk about the process behind it.",
-      "link": "https://joshcollinsworth.com/blog/tupo",
-      "image": null,
-      "feed_name": "Josh Collinsworth",
-      "feed_title": "Josh Collinsworth",
-      "category": "personal blogs",
-      "feed_url": "https://joshcollinsworth.com/api/rss.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=joshcollinsworth.com&sz=64"
-    },
-    {
-      "id": "https://zander.wtf/blog/lil-debugger/",
-      "title": "Introducing Lil' Debugger",
-      "published": "2026-10-05T00:00:00+00:00",
-      "author": "Zander Martineau",
-      "description": "I've hacked the same debug overlay into almost every job I've had, so I finally made it a proper package that shows the data behind any element when you hold Ctrl+Shift.",
-      "link": "https://zander.wtf/blog/lil-debugger/",
-      "image": null,
-      "feed_name": "Hi! I'm Zander, I make websites",
-      "feed_title": "Hi! I'm Zander, I make web things",
-      "category": "personal blogs",
-      "feed_url": "https://zander.wtf/blog.rss.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=zander.wtf&sz=64"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
