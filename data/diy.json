@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-04T16:03:49.297533+00:00",
-  "count": 740,
+  "updated": "2026-11-04T16:33:38.051056+00:00",
+  "count": 741,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.howtogeek.com/i-use-an-nvidia-and-amd-gpu-at-the-same-time-and-this-is-what-happens/",
+      "title": "I use an NVIDIA and AMD GPU in a single PC to power a setup that spans computer history",
+      "published": "2026-11-04T16:30:16+00:00",
+      "author": "Sydney Butler",
+      "description": "A bargain motherboard's rare VGA port led to a dual AMD iGPU and NVIDIA RTX 4070 Super display pairing surprise.",
+      "link": "https://www.howtogeek.com/i-use-an-nvidia-and-amd-gpu-at-the-same-time-and-this-is-what-happens/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/20261030_113012.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/my-amazon-echo-has-been-hiding-a-second-job-and-its-not-playing-music/",
       "title": "My Amazon Echo has been hiding a second job, and it's not playing music",
