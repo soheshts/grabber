@@ -1,7 +1,7 @@
 {
   "category": "funny",
-  "updated": "2026-11-04T06:03:48.594163+00:00",
-  "count": 355,
+  "updated": "2026-11-04T06:33:32.943507+00:00",
+  "count": 354,
   "summary": null,
   "items": [
     {
@@ -4959,20 +4959,6 @@
       "category": "funny",
       "feed_url": "https://www.smbc-comics.com/comic/rss",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.smbc-comics.com&sz=64"
-    },
-    {
-      "id": "https://thedailywtf.com/articles/the-date-and-time-and-time",
-      "title": "CodeSOD: The Date and Time and Time",
-      "published": "2026-10-05T06:30:00+00:00",
-      "author": "Remy Porter",
-      "description": "Today's anonymous submitter sends us some legacy Java code. The task is this: check what time it is. And fortunately, even in the older Java datetime libraries that were terrible , this was an easy task. You just needed to do something like new Date() , which constructs a date time object set to the current time. getTime() picks off just the time portion. Or, you could do this. Timestamp current = new Timestamp ( new Date ().getTime()); Date date = new Date (current.getTime()); This creates a d…",
-      "link": "https://thedailywtf.com/articles/the-date-and-time-and-time",
-      "image": "https://thedailywtf.com/images/inedo/buildmaster-icon.png",
-      "feed_name": "The Daily WTF",
-      "feed_title": "The Daily WTF",
-      "category": "funny",
-      "feed_url": "http://syndication.thedailywtf.com/TheDailyWtf",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=thedailywtf.com&sz=64"
     }
   ]
 }
