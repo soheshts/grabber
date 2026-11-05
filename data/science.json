@@ -1,9 +1,51 @@
 {
   "category": "science",
-  "updated": "2026-11-05T00:32:45.364993+00:00",
+  "updated": "2026-11-05T01:02:31.270847+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "news713035081",
+      "title": "Earth atmosphere emulators could enable faster and more accurate weather predictions",
+      "published": "2026-11-05T01:00:01+00:00",
+      "author": null,
+      "description": "If you partitioned the entire Earth, from just below the surface to the top of the atmosphere, into 1-kilometer-square chunks, there would be billions of them. Now run each of those cells through a series of complex physics equations, and you can see how the entire Earth system interacts and evolves in detail, one step at a time.",
+      "link": "https://phys.org/news/2026-11-earth-atmosphere-emulators-enable-faster.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/llnl-researchers-emula.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "news713035561",
+      "title": "European orbiter detects fresh hints of volcanic activity on Mars",
+      "published": "2026-11-05T00:40:07+00:00",
+      "author": null,
+      "description": "New evidence from gas seeping above volcanic rifts suggests Mars is not geologically dead deep inside, but merely sleeping. Fresh fissures along the Alba Mons region hint at active spots under the surface, where gases from inside the planet may be making their way up to the surface.",
+      "link": "https://phys.org/news/2026-11-european-orbiter-fresh-hints-volcanic.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/european-orbiter-detec-5.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "news713029921",
+      "title": "How ranchers on Brazil's 'Dirty List' bypass forced labor safeguards by selling cattle through intermediaries",
+      "published": "2026-11-05T00:40:02+00:00",
+      "author": null,
+      "description": "Brazil's \"Dirty List,\" a public registry that names employers found to have violated anti-slavery laws, is a key component of the country's efforts to combat forced labor. Major meatpackers in Brazil signed sustainable sourcing commitments promising to not purchase cattle directly from ranchers on the Dirty List. But new research shows that ranchers have found ways around these restrictions, rerouting cattle through intermediaries and allowing cattle linked to forced labor to remain in domestic…",
+      "link": "https://phys.org/news/2026-11-ranchers-brazil-dirty-bypass-labor.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-research-reveals-h-14.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
     {
       "id": "news713034421",
       "title": "First direct observations reveal hydrogen dissolved in tiny gaps between metal atoms",
@@ -13961,48 +14003,6 @@
       "category": "science",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "news712317781",
-      "title": "Quantum gates set speed record at 6.8 nanoseconds with over 99.98% accuracy",
-      "published": "2026-10-27T18:40:12+00:00",
-      "author": null,
-      "description": "Researchers from Jülich, Aachen and Cologne have performed a quantum operation on a qubit in just 6.8 nanoseconds—with more than 99.98% accuracy. Such operations typically take several tens of nanoseconds in superconducting quantum computers. The paper was published in Nature Communications.",
-      "link": "https://phys.org/news/2026-10-quantum-gates-nanoseconds-accuracy.html",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fast-but-accurate--a-n.jpg",
-      "feed_name": "Phys.org - latest science and technology news stories",
-      "feed_title": "Phys.org - latest science and technology news stories",
-      "category": "science",
-      "feed_url": "https://phys.org/rss-feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "news712310786",
-      "title": "How Russian regions are affected by the war on Ukraine",
-      "published": "2026-10-27T18:40:08+00:00",
-      "author": null,
-      "description": "The war on Ukraine is changing Russia far beyond the immediate effects of the conflict.",
-      "link": "https://phys.org/news/2026-10-russian-regions-affected-war-ukraine.html",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/war-1.jpg",
-      "feed_name": "Phys.org - latest science and technology news stories",
-      "feed_title": "Phys.org - latest science and technology news stories",
-      "category": "science",
-      "feed_url": "https://phys.org/rss-feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "news712326788",
-      "title": "Embedded enzymes help plastics break down faster in the deep sea",
-      "published": "2026-10-27T18:30:06+00:00",
-      "author": null,
-      "description": "Scientists have developed a way for certain types of compostable plastic to break down much faster in marine environments, from shallow coastal waters to the deep sea. The breakthrough comes from tiny enzymes embedded in the plastic that help degrade it from within.",
-      "link": "https://phys.org/news/2026-10-embedded-enzymes-plastics-faster-deep.html",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/enzymes-help-plastics-1.jpg",
-      "feed_name": "Phys.org - latest science and technology news stories",
-      "feed_title": "Phys.org - latest science and technology news stories",
-      "category": "science",
-      "feed_url": "https://phys.org/rss-feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
     }
   ]
 }
