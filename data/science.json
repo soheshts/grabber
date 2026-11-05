@@ -1,9 +1,23 @@
 {
   "category": "science",
-  "updated": "2026-11-05T01:02:31.270847+00:00",
+  "updated": "2026-11-05T01:32:42.668224+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "news713035321",
+      "title": "A new route to calculating gluon production in proton–nucleus collisions",
+      "published": "2026-11-05T01:20:01+00:00",
+      "author": null,
+      "description": "In the theoretical study of proton-nucleus collisions, the colliding projectiles can be described as streams of color charges moving along their respective trajectories. These color charges couple to gluons, which then produce the particles that are observed in the final state (gluons and quarks, which eventually produce hadrons).",
+      "link": "https://phys.org/news/2026-11-route-gluon-production-protonnucleus-collisions.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/gluon-production-in-pr.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
     {
       "id": "news713035081",
       "title": "Earth atmosphere emulators could enable faster and more accurate weather predictions",
@@ -13989,20 +14003,6 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/10/27/science/docktober-nudibranchs.html",
-      "title": "It’s Docktober. Do You Know Where the Sea Slugs Are?",
-      "published": "2026-10-27T18:57:35+00:00",
-      "author": "Chona Kasinger and Alan Burdick",
-      "description": "Where there are floating docks, there are often communities of colorful marine organisms just below — and a community of curious people just above.",
-      "link": "https://www.nytimes.com/2026/10/27/science/docktober-nudibranchs.html",
-      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27SCI-DOCKTOBER-stillpromo2-kmjf/27SCI-DOCKTOBER-stillpromo2-kmjf-mediumSquareAt3X.jpg",
-      "feed_name": "NYT > Science",
-      "feed_title": "NYT > Science",
-      "category": "science",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     }
   ]
 }
