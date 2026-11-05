@@ -1,9 +1,51 @@
 {
   "category": "DIY",
-  "updated": "2026-11-05T12:03:53.911940+00:00",
-  "count": 787,
+  "updated": "2026-11-05T12:33:10.943443+00:00",
+  "count": 790,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/software-habits-quietly-hammering-your-ssd-with-unnecessary-writes/",
+      "title": "4 software habits quietly hammering your SSD with unnecessary writes",
+      "published": "2026-11-05T12:30:17+00:00",
+      "author": "Oluwaseun Bamisile",
+      "description": "Every SSD has a finite number of writes.",
+      "link": "https://www.makeuseof.com/software-habits-quietly-hammering-your-ssd-with-unnecessary-writes/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/gigabyte-512gb-nvme-ssd.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/unexpected-things-you-can-do-with-a-mini-pc/",
+      "title": "5 unexpected things you can do with a $100 mini PC",
+      "published": "2026-11-05T12:30:16+00:00",
+      "author": "Adam Davidson",
+      "description": "Think outside the (tiny) box.",
+      "link": "https://www.howtogeek.com/unexpected-things-you-can-do-with-a-mini-pc/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2025/07/a-mini-pc-with-a-steam-controller-and-a-gamecube-in-an-entertainment-center.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://hackaday.com/?p=1397930",
+      "title": "Finger Joint Cutter Uses a Jigsaw Blade, But Not As We Know It",
+      "published": "2026-11-05T12:00:32+00:00",
+      "author": "Donald Papp",
+      "description": "Around these parts, finger joints (or box joints) are usually the product of laser cutting. [bluesyann] shows us a method of using a stationary jigsaw, a custom blade, and 3D-printed …read more",
+      "link": "https://hackaday.com/2026/11/05/finger-joint-cutter-uses-a-jigsaw-blade-but-not-as-we-know-it/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/Jigsaw-Box-Joint-Cutter-2-banner.png",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/turn-off-this-windows-feature-for-better-internet-speed/",
       "title": "The one Windows feature everyone should turn off immediately for better internet speed",

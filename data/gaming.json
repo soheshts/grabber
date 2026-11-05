@@ -1,9 +1,23 @@
 {
   "category": "gaming",
-  "updated": "2026-11-05T12:03:53.911940+00:00",
+  "updated": "2026-11-05T12:33:10.943443+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://kotaku.com/?p=2000754126",
+      "title": "Marvel’s Wolverine’s Sales Numbers Are Looking Pretty Dreadful",
+      "published": "2026-11-05T12:30:59+00:00",
+      "author": "Lewis Parker",
+      "description": "Sony's Q2 2026 earnings report just released, and Logan is currently being outsold by Rhythm Heaven Groove",
+      "link": "https://kotaku.com/marvels-wolverine-insomniac-sony-playstation-ps5-sales-figures-2000754126",
+      "image": "https://kotaku.com/app/uploads/2026/09/Marvels-Wolverine_20260825212951-2-1280x720.jpg",
+      "feed_name": "Kotaku",
+      "feed_title": "Kotaku",
+      "category": "gaming",
+      "feed_url": "https://kotaku.com/rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=kotaku.com&sz=64"
+    },
     {
       "id": "https://www.eurogamer.net/nintendo-switch-2-hardware-decline-software-boom",
       "title": "Nintendo game sales surge thanks to Tomodachi Life: Living the Dream, but Switch 2 hardware suffers big decline",
@@ -17,6 +31,20 @@
       "category": "gaming",
       "feed_url": "https://www.eurogamer.net/?format=rss",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.eurogamer.net&sz=64"
+    },
+    {
+      "id": "e3de1fde-0c2e-48da-b381-4aa24030acd9",
+      "title": "Sony Announces Official Marvel's Wolverine Sales Figure for the First Time, Raises PlayStation Sales Forecast With GTA 6 Imminent",
+      "published": "2026-11-05T11:17:06+00:00",
+      "author": "Wesley Yin-Poole",
+      "description": "Sony has raised its sales forecast for its gaming business, while announcing an official sales figure for Marvel’s Wolverine for the first time.",
+      "link": "https://www.ign.com/articles/sony-announces-official-marvels-wolverine-sales-figure-for-the-first-time-raises-playstation-sales-forecast-with-gta-6-imminent",
+      "image": "https://assets-prd.ignimgs.com/2026/09/10/marvels-wolverine-review-blogroll-1789029798227.jpg",
+      "feed_name": "IGN All",
+      "feed_title": "IGN Articles",
+      "category": "gaming",
+      "feed_url": "http://feeds.ign.com/ign/all",
+      "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
     },
     {
       "id": "https://www.polygon.com/the-legend-of-zelda-ocarina-of-time-remake-water-temple-change/",
@@ -13975,34 +14003,6 @@
       "category": "gaming",
       "feed_url": "https://www.polygon.com/rss/index.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.polygon.com&sz=64"
-    },
-    {
-      "id": "https://www.polygon.com/helldivers-2-anti-cheat-update-review-bombing/",
-      "title": "Helldivers 2 Players in Open Revolt Over Game’s Controversial Update",
-      "published": "2026-10-29T14:25:05+00:00",
-      "author": "Elijah Gonzalez",
-      "description": "Helldivers 2's Steam user scores are back in the red after a controversial update added Easy Anti-Cheat to the game.",
-      "link": "https://www.polygon.com/helldivers-2-anti-cheat-update-review-bombing/",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/08/helldivers-2-bring-the-boom-_-out-26-august-1-4-screenshot.jpg",
-      "feed_name": "Polygon -  All",
-      "feed_title": "Polygon.com",
-      "category": "gaming",
-      "feed_url": "https://www.polygon.com/rss/index.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.polygon.com&sz=64"
-    },
-    {
-      "id": "https://www.eurogamer.net/fromsofts-switch-2-exclusive-the-duskbloods-has-been-delayed-into-2027",
-      "title": "FromSoft's Switch 2 exclusive, The Duskbloods, has been delayed into 2027",
-      "published": "2026-10-29T14:14:25+00:00",
-      "author": "Dom Peppiatt",
-      "description": "FromSoftware's The Duskbloods - a game that is best described as Bloodborne meets Sekiro meets Dark Souls, with jetpacks and dinos thrown in - has been delayed from its 2026 launch window into an unspecified time in 2027. Read more",
-      "link": "https://www.eurogamer.net/fromsofts-switch-2-exclusive-the-duskbloods-has-been-delayed-into-2027",
-      "image": "https://assetsio.gnwcdn.com/duskbloods-calendar.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "feed_name": "Eurogamer.net",
-      "feed_title": "Eurogamer.net Latest Articles Feed",
-      "category": "gaming",
-      "feed_url": "https://www.eurogamer.net/?format=rss",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.eurogamer.net&sz=64"
     }
   ]
 }

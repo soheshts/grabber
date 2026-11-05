@@ -1,6 +1,6 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-05T12:03:53.911940+00:00",
+  "updated": "2026-11-05T12:33:10.943443+00:00",
   "count": 442,
   "summary": null,
   "items": [
@@ -45,6 +45,20 @@
       "category": "personal blogs",
       "feed_url": "https://ishadeed.com/feed.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=ishadeed.com&sz=64"
+    },
+    {
+      "id": "https://heydonworks.com/article/i-am-not-an-accessibility-specialist-hire-me/",
+      "title": "I am not a developer or an accessibility specialist. Hire me?",
+      "published": "2026-11-05T00:00:00+00:00",
+      "author": null,
+      "description": "About being a so-called unicorn and its value.",
+      "link": "https://heydonworks.com/article/i-am-not-an-accessibility-specialist-hire-me/",
+      "image": "https://heydonworks.com/images/unofficial.png",
+      "feed_name": "HeydonWorks",
+      "feed_title": "HeydonWorks",
+      "category": "personal blogs",
+      "feed_url": "http://www.heydonworks.com/feed",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=heydonworks.com&sz=64"
     },
     {
       "id": "https://www.aaron-gustafson.com/notebook/there-can-be-only-one-redux/",
@@ -5463,20 +5477,6 @@
       "category": "personal blogs",
       "feed_url": "http://adactio.com/journal/rss/",
       "feed_icon": "https://adactio.com/images/rssbutton.gif"
-    },
-    {
-      "id": "https://www.baldurbjarnason.com/notes/photos/old-raven-photos-revisited/",
-      "title": "Old raven photos revisited",
-      "published": "2026-10-06T12:10:00+00:00",
-      "author": "Baldur Bjarnason",
-      "description": "So, a couple of years ago the raven gang that spends part of the winter alternating between Selfoss and Hveragerði was around for the holiday season. So one of my neighbours left out their holiday roast leftovers for the ravens, which meant they were hanging around the house for a while There’s an old saying here in Iceland: “Guð launar fyrir hrafninn”, which could be translated as “God pays the raven’s way”. Basically that feeding ravens will bring fortune.",
-      "link": "https://www.baldurbjarnason.com/notes/photos/old-raven-photos-revisited/",
-      "image": "https://www.baldurbjarnason.com/img/LHDnr2bpWd-6032.jpeg",
-      "feed_name": "Baldur Bjarnason's Notes on the Web",
-      "feed_title": "Baldur Bjarnason's Notes on the Web",
-      "category": "personal blogs",
-      "feed_url": "https://feedpress.me/baldurbjarnason",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.baldurbjarnason.com&sz=64"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",

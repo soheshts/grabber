@@ -1,9 +1,23 @@
 {
   "category": "funny",
-  "updated": "2026-11-05T12:03:53.911940+00:00",
-  "count": 390,
+  "updated": "2026-11-05T12:33:10.943443+00:00",
+  "count": 391,
   "summary": null,
   "items": [
+    {
+      "id": "https://thedailywtf.com/articles/only-create-me-if-i-exist",
+      "title": "CodeSOD: Only Create Me if I Exist",
+      "published": "2026-11-05T06:30:00+00:00",
+      "author": "Remy Porter",
+      "description": "Foreign keys are an important part of making sure the entities in our relational database can be connected back together and queried correctly. It's part of proper data normalization. This isn't shocking, of course: the order line table has a foreign key over to the products table, so that every line item points to a product we sell. That's database 101. Database 201, you'd also think about the times where you have a hierarchy of records, where say, every Employee has a ManagerId , which is a f…",
+      "link": "https://thedailywtf.com/articles/only-create-me-if-i-exist",
+      "image": "https://thedailywtf.com/images/inedo/buildmaster-icon.png",
+      "feed_name": "The Daily WTF",
+      "feed_title": "The Daily WTF",
+      "category": "funny",
+      "feed_url": "http://syndication.thedailywtf.com/TheDailyWtf",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thedailywtf.com&sz=64"
+    },
     {
       "id": "https://cheezburger.com/47291909/november-memes-that-say-yes-to-not-doing-anything-for-the-rest-of-these-cold-months-while-the",
       "title": "NOvember Memes That Say Yes to Not Doing Anything for the Rest of These Cold Months While the Sunsets at 4 PM",

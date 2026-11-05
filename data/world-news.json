@@ -1,15 +1,15 @@
 {
   "category": "World News",
-  "updated": "2026-11-05T12:03:53.911940+00:00",
+  "updated": "2026-11-05T12:33:10.943443+00:00",
   "count": 1000,
   "summary": null,
   "items": [
     {
       "id": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o#0",
       "title": "Ronaldo retires from Portugal duty",
-      "published": "2026-11-05T11:56:02+00:00",
+      "published": "2026-11-05T12:28:01+00:00",
       "author": null,
-      "description": "Portugal legend Cristiano Ronaldo says he is retiring from international football.",
+      "description": "Portugal legend Cristiano Ronaldo says \"the day has come for me to hand back the number seven shirt\".",
       "link": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dee2/live/8500a0e0-d909-11f1-b72c-d16cdc75f35f.jpg",
       "feed_name": "BBC News - World",
@@ -19,9 +19,51 @@
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
+      "id": "108524969",
+      "title": "Bank of England hikes interest rate for the first time since Iran war, warns inflation will near 5%",
+      "published": "2026-11-05T12:27:01+00:00",
+      "author": null,
+      "description": "",
+      "link": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108243682-17660765522025-12-18t164547z_2096923420_rc23jiae5pf5_rtrmadp_0_britain-boe.jpeg?v=1766076616&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "108516252",
+      "title": "What Trump losing power over Congress means for Iran, Ukraine and foreign policy",
+      "published": "2026-11-05T12:24:08+00:00",
+      "author": null,
+      "description": "Democratic control of Congress could bring greater scrutiny of Trump’s handling of the Iran and Ukraine wars, while leaving him broad foreign-policy powers.",
+      "link": "https://www.cnbc.com/2026/11/04/democrats-congress-trump-foreign-policy.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108481752-1793296045958-gettyimages-2302031929-AFP_D4UV3V7.jpeg?v=1793296110&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/us/two-michigan-neighbours-agreed-to-split-the-cost-of-removing-trees-that-threatened-a-barn-but-the-work-never-happened-after-a-2000-dispute-an-appeals-court-ruled-the-homeowner-could-not-sue-over-the-same-trees/articleshow/135569529.cms",
+      "title": "US man sues neighbour over trees threatening his barn; appeals court rejects case",
+      "published": "2026-11-05T12:00:00+00:00",
+      "author": "TOI World Desk",
+      "description": "Two Michigan neighbours agreed to pay $2,000 each to remove trees that threatened a barn, but the work never happened. When Seth Merle failed to return Richard Hagopian's money, the dispute reached court. Merle later filed another lawsuit over the same trees, arguing they remained dangerous. The Michigan Court of Appeals dismissed his case, ruling that the issue had already been decided.",
+      "link": "https://timesofindia.indiatimes.com/world/us/two-michigan-neighbours-agreed-to-split-the-cost-of-removing-trees-that-threatened-a-barn-but-the-work-never-happened-after-a-2000-dispute-an-appeals-court-ruled-the-homeowner-could-not-sue-over-the-same-trees/articleshow/135569529.cms",
+      "image": "https://static.toiimg.com/photo/msid-135571480,imgsize-346630.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
       "id": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-europe-flights-airlines.html",
       "title": "New Series of Bomb Threats Disrupts Flights in Europe",
-      "published": "2026-11-05T11:54:57+00:00",
+      "published": "2026-11-05T11:54:58+00:00",
       "author": "Jonathan Wolfe",
       "description": "The planes that were targeted, including in Italy and France, landed safely, officials said. No explosives have been found.",
       "link": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-europe-flights-airlines.html",
@@ -75,6 +117,20 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
+      "id": "https://www.ndtv.com/world-news/jon-ossoff-us-midterms-trump-who-is-jon-ossoff-democrat-senator-dubbed-as-the-next-barack-obama-12287535#publisher=newsstand",
+      "title": "Who Is Jon Ossoff, Democrat Senator Dubbed As The 'Next Barack Obama’?",
+      "published": "2026-11-05T11:30:05+00:00",
+      "author": null,
+      "description": "An aggressive Trump critic, Ossoff managed to beat Republican Mike Collins.",
+      "link": "https://www.ndtv.com/world-news/jon-ossoff-us-midterms-trump-who-is-jon-ossoff-democrat-senator-dubbed-as-the-next-barack-obama-12287535#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-11/vp3c6qbc_jon-ossoff-_625x300_05_November_26.jpeg",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
       "id": "https://timesofindia.indiatimes.com/world/us/an-iowa-landlord-lost-700000-in-what-he-described-as-a-ponzi-scheme-as-his-marriage-fell-apart-a-court-upheld-a-351446-divorce-payment-despite-his-claim-that-much-of-the-property-belonged-to-him-before-marriage/articleshow/135570142.cms",
       "title": "Iowa landlord loses appeal over $351,446 divorce payment after $700,000 Ponzi scheme loss",
       "published": "2026-11-05T11:30:00+00:00",
@@ -89,6 +145,20 @@
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
+      "id": "t3_1xog8vy",
+      "title": "Saudi Arabia crisis: Houthis seek $51 billion to end war",
+      "published": "2026-11-05T11:25:37+00:00",
+      "author": "/u/Expensive_Syrup_6529",
+      "description": "submitted by /u/Expensive_Syrup_6529 [link] [comments]",
+      "link": "https://www.reddit.com/r/worldnews/comments/1xog8vy/saudi_arabia_crisis_houthis_seek_51_billion_to/",
+      "image": null,
+      "feed_name": "World News",
+      "feed_title": "World News",
+      "category": "World News",
+      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
+      "feed_icon": "https://www.redditstatic.com/icon.png/"
+    },
+    {
       "id": "t3_1xog3oo",
       "title": "Russia Approves Supply of 90 Missile Launchers to Iran",
       "published": "2026-11-05T11:16:45+00:00",
@@ -101,6 +171,20 @@
       "category": "World News",
       "feed_url": "https://www.reddit.com/r/worldnews/.rss",
       "feed_icon": "https://www.redditstatic.com/icon.png/"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/man-97-dies-at-his-own-birthday-party-dancing-to-staying-alive-12287476#publisher=newsstand",
+      "title": "Man, 97, Dies At His Own Birthday Party Dancing To 'Staying' Alive'",
+      "published": "2026-11-05T11:14:50+00:00",
+      "author": null,
+      "description": "Vito, 97, passed away shortly after a lively birthday party in California.",
+      "link": "https://www.ndtv.com/world-news/man-97-dies-at-his-own-birthday-party-dancing-to-staying-alive-12287476#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-11/8s8c6g6s_as_625x300_05_November_26.jpeg",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/rest-of-world/canadian-woman-seema-david-began-feeding-people-in-need-from-shared-kitchens-in-toronto-in-2013-she-later-built-5n2-into-a-food-charity-with-its-own-indoor-farms/articleshow/135566044.cms",
@@ -187,6 +271,20 @@
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
+      "id": "https://www.ndtv.com/world-news/plane-escorted-to-rome-by-fighter-jet-after-bomb-alerts-disrupt-two-flights-12287352#publisher=newsstand",
+      "title": "Plane Escorted To Rome By Fighter Jet After Bomb Alerts Disrupt Two Flights",
+      "published": "2026-11-05T10:53:12+00:00",
+      "author": null,
+      "description": "The Helsinki-Rome flight was checked by bomb disposal experts",
+      "link": "https://www.ndtv.com/world-news/plane-escorted-to-rome-by-fighter-jet-after-bomb-alerts-disrupt-two-flights-12287352#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2025-10/bnarrab_air-travel_625x300_14_October_25.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
       "id": "https://timesofindia.indiatimes.com/real-estate/news/in-2023-rush-limbaughs-24000-square-foot-palm-beach-mansion-sold-for-155-million-four-months-later-its-new-billionaire-owner-demolished-it-and-a-2026-report-shows-why-the-land-mattered-more-than-the-house/articleshow/135568438.cms",
       "title": "Why a billionaire demolished a $155 million Palm Beach mansion",
       "published": "2026-11-05T10:35:12+00:00",
@@ -255,6 +353,20 @@
       "category": "World News",
       "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://www.ndtv.com/opinion/why-a-politically-wounded-trump-may-turn-even-more-dangerous-12287070#publisher=newsstand",
+      "title": "Opinion: Opinion | A Wounded Trump Could Soon Make The World Pay For His Defeat",
+      "published": "2026-11-05T10:25:28+00:00",
+      "author": null,
+      "description": "The US and the rest of the world should worry more about what Trump might do next to redeem himself.",
+      "link": "https://www.ndtv.com/opinion/why-a-politically-wounded-trump-may-turn-even-more-dangerous-12287070#publisher=newsstand",
+      "image": "https://i.ndtvimg.com/i/2016-06/donald-trump-afp-650_650x400_51466647406.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
       "id": "t3_1xof95w",
@@ -339,20 +451,6 @@
       "category": "World News",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "https://www.ndtv.com/opinion/why-a-politically-wounded-trump-may-turn-even-more-dangerous-12287070#publisher=newsstand",
-      "title": "Opinion: Opinion | Why A Politically 'Wounded' Trump May Turn Even More Dangerous Now",
-      "published": "2026-11-05T10:02:32+00:00",
-      "author": null,
-      "description": "",
-      "link": "https://www.ndtv.com/opinion/why-a-politically-wounded-trump-may-turn-even-more-dangerous-12287070#publisher=newsstand",
-      "image": "https://i.ndtvimg.com/i/2016-06/donald-trump-afp-650_650x400_51466647406.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/us/a-new-york-woman-says-co-op-staff-entered-her-apartment-while-she-was-out-took-her-dog-and-cat-and-concealed-where-the-dog-went-three-years-later-an-appeals-court-has-let-her-trespass-and-distress-claims-proceed/articleshow/135566388.cms",
@@ -4273,20 +4371,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "108516252",
-      "title": "What Trump losing power over Congress means for Iran, Ukraine and foreign policy",
-      "published": "2026-11-04T12:07:08+00:00",
-      "author": null,
-      "description": "Democratic control of Congress could bring greater scrutiny of Trump’s handling of the Iran and Ukraine wars, while leaving him broad foreign-policy powers.",
-      "link": "https://www.cnbc.com/2026/11/04/democrats-congress-trump-foreign-policy.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108481752-1793296045958-gettyimages-2302031929-AFP_D4UV3V7.jpeg?v=1793296110&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
       "id": "t3_1xnmftn",
@@ -13919,90 +14003,6 @@
       "category": "World News",
       "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
       "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o#0",
-      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
-      "published": "2026-11-02T01:45:42+00:00",
-      "author": null,
-      "description": "The move by Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, was called a \"despicable betrayal\" by one top Democrat.",
-      "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/228a/live/b46d8f40-d676-11f1-93e1-3b657b665bcf.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "t3_1xljij8",
-      "title": "King must be removed as Antigua's head of state, nation's PM says in Commonwealth trip bombshell",
-      "published": "2026-11-02T00:51:29+00:00",
-      "author": "/u/pppppppppppppppppd",
-      "description": "submitted by /u/pppppppppppppppppd [link] [comments]",
-      "link": "https://www.reddit.com/r/worldnews/comments/1xljij8/king_must_be_removed_as_antiguas_head_of_state/",
-      "image": "https://external-preview.redd.it/8mcZIu3M0mFwUTzG2J7DwE5VpYwfmypqLjwraCHgtmg.jpeg?width=640&crop=smart&auto=webp&s=baaa30af27640171942820da9f50ff7ce6a9f0fd",
-      "feed_name": "World News",
-      "feed_title": "World News",
-      "category": "World News",
-      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
-      "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/01/world/asia/snake-catcher-bangkok-thailand.html",
-      "title": "He’s the Top Snake Catcher, and Business Is Booming. There’s Just One Problem.",
-      "published": "2026-11-02T00:22:34+00:00",
-      "author": "Hannah Beech and Lauren DeCicca",
-      "description": "Bangkok’s firefighters do more snake catching than firefighting, and Pinyo Pukpinyo trains them. But he refuses to kill the snakes, and he’s running out of containers.",
-      "link": "https://www.nytimes.com/2026/11/01/world/asia/snake-catcher-bangkok-thailand.html",
-      "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01int-snake-catcher-profile-promoimage-qtfg/01int-snake-catcher-profile-promoimage-qtfg-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o#0",
-      "title": "France launches attempted murder investigation after petrol bomb thrown at police",
-      "published": "2026-11-02T00:15:30+00:00",
-      "author": null,
-      "description": "There were hundreds of arrests as protesters took to the streets in cities across France for the third weekend in a row.",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30b9/live/175c0e10-d62c-11f1-b085-b9e65bc8bfff.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o#1",
-      "title": "France launches attempted murder investigation after petrol bomb thrown at police",
-      "published": "2026-11-02T00:15:30+00:00",
-      "author": null,
-      "description": "There were hundreds of arrests as protesters took to the streets in cities across France for the third weekend in a row.",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30b9/live/175c0e10-d62c-11f1-b085-b9e65bc8bfff.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://www.theguardian.com/australia-news/2026/nov/02/nationals-leader-matt-canavan-one-nation-james-ashby-capricornia-election-ntwnfb",
-      "title": "Pauline Hanson and James Ashby rule out running against Nationals leader Matt Canavan in Capricornia",
-      "published": "2026-11-01T23:05:05+00:00",
-      "author": "Tess Ikonomou",
-      "description": "‘My political career may die,’ senator says after Michelle Landry announced she will not recontest her Queensland seat of Capricornia Get our daily political email , free app or daily news podcast The Nationals leader, Matt Canavan, will run for a lower house Queensland seat at the next federal election but will avoid having to face off against a key One Nation figure. Canavan confirmed his bid following the announcement that Capricornia MP Michelle Landry will retire, leading to speculation it…",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/02/nationals-leader-matt-canavan-one-nation-james-ashby-capricornia-election-ntwnfb",
-      "image": "https://i.guim.co.uk/img/media/3468fb281bb71900d7f19ac825f84190e284cb06/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=384d583bb0f7ad86e59ec17fb6d7f8f1",
-      "feed_name": "The Guardian",
-      "feed_title": "World news | The Guardian",
-      "category": "World News",
-      "feed_url": "https://www.theguardian.com/world/rss",
-      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
     }
   ]
 }
