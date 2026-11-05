@@ -1,9 +1,51 @@
 {
   "category": "DIY",
-  "updated": "2026-11-05T15:04:00.378609+00:00",
-  "count": 804,
+  "updated": "2026-11-05T15:32:29.709609+00:00",
+  "count": 807,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/my-router-shows-whos-on-wifi-but-this-free-app-tells-me-whos-been-there/",
+      "title": "My router shows who's on my Wi-Fi, but this free app tells me who's been there",
+      "published": "2026-11-05T15:30:16+00:00",
+      "author": "Oluwaseun Bamisile",
+      "description": "A self-hosted watchdog for your network.",
+      "link": "https://www.makeuseof.com/my-router-shows-whos-on-wifi-but-this-free-app-tells-me-whos-been-there/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/netalertx-1.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/ai-is-breaking-locked-down-game-consoles-and-manufacturers-cant-stop-it/",
+      "title": "AI is breaking locked-down game consoles, and manufacturers can't stop it",
+      "published": "2026-11-05T15:30:15+00:00",
+      "author": "Rich Hein",
+      "description": "AI is helping developers jailbreak consoles, mash up games, and run software that Nintendo, Sony, and Microsoft never intended.",
+      "link": "https://www.howtogeek.com/ai-is-breaking-locked-down-game-consoles-and-manufacturers-cant-stop-it/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/11/playstation-5-1.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://hackaday.com/?p=1397272",
+      "title": "I Think We Should See Other SBCs",
+      "published": "2026-11-05T15:00:46+00:00",
+      "author": "Arya Voronova",
+      "description": "Are you currently designing a project for a common single-board computer (SBC), and do you expect other people to build your project, too? We routinely feature projects that do exactly …read more",
+      "link": "https://hackaday.com/2026/11/05/i-think-we-should-see-other-sbcs/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/10/SBC.jpg",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/my-fire-tablet-stopped-crawling-once-i-stripped-out-amazons-apps/",
       "title": "My Fire tablet stopped crawling once I stripped out Amazon’s apps",

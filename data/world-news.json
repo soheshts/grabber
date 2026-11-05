@@ -1,13 +1,55 @@
 {
   "category": "World News",
-  "updated": "2026-11-05T15:04:00.378609+00:00",
+  "updated": "2026-11-05T15:32:29.709609+00:00",
   "count": 1000,
   "summary": null,
   "items": [
     {
+      "id": "108525066",
+      "title": "Bomb threats disrupt flights across Europe for the second time. Here’s what we know",
+      "published": "2026-11-05T15:26:06+00:00",
+      "author": null,
+      "description": "Dozens of flights across Europe reported bomb threats on Thursday for the second time this week, disrupting air travel across London, Dublin, and Helsinki.",
+      "link": "https://www.cnbc.com/2026/11/05/bomb-threats-flights-europe.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108525493-1793884661000-gettyimages-2303158782-AA_05112026_3026991.jpeg?v=1793884708&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/05/world/asia/bangladesh-garment-workers-protest-wage.html",
+      "title": "Bangladesh Agrees to Raise Minimum Wage for Garment Workers After Protests",
+      "published": "2026-11-05T15:12:01+00:00",
+      "author": "Saif Hasnat",
+      "description": "Hundreds of garment factories were shut down this week as workers in the country, the world’s second-largest exporter of clothing, demonstrated for higher pay.",
+      "link": "https://www.nytimes.com/2026/11/05/world/asia/bangladesh-garment-workers-protest-wage.html",
+      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05vid-bangladesh-cover-jtbq/05vid-bangladesh-cover-jtbq-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/multiple-flights-in-europe-again-diverted-after-bomb-threats-deemed-malicious-hoaxes-12288339#publisher=newsstand",
+      "title": "'Malicious Hoaxes': Several Flights In Europe Diverted After Bomb Threats",
+      "published": "2026-11-05T15:03:30+00:00",
+      "author": null,
+      "description": "Several flights across Europe received hoax bomb threats earlier this week as well",
+      "link": "https://www.ndtv.com/world-news/multiple-flights-in-europe-again-diverted-after-bomb-threats-deemed-malicious-hoaxes-12288339#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2025-12/iu4ia664_ryanair-viral-post_625x300_17_December_25.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
       "id": "https://www.nytimes.com/2026/11/05/world/canada/canada-grizzly-bear-attack-mother-daughter-killed.html",
       "title": "Canadian Officials Search for Bears After Mother and Daughter Are Killed on Hike",
-      "published": "2026-11-05T14:59:48+00:00",
+      "published": "2026-11-05T15:02:06+00:00",
       "author": "Karla Adam",
       "description": "Wildlife officers were working to trap grizzly bears along a trail after the remains of the two hikers were found near a remote community in British Columbia this week.",
       "link": "https://www.nytimes.com/2026/11/05/world/canada/canada-grizzly-bear-attack-mother-daughter-killed.html",
@@ -17,6 +59,20 @@
       "category": "World News",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "108525907",
+      "title": "Democrats to probe JPMorgan's relationship with Epstein when they take Senate control",
+      "published": "2026-11-05T14:58:26+00:00",
+      "author": null,
+      "description": "Democrats are preparing to put a spotlight back on Epstein as part of sweeping investigations following their wipeout victories in Tuesday's midterm elections.",
+      "link": "https://www.cnbc.com/2026/11/05/jpmorgan-epstein-democrats-erdoes-midterm-election.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108338471-1784724287235-gettyimages-2281451826-DNI_POSTPONED.jpeg?v=1784724306&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
       "id": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-europe-flights-airlines.html",
@@ -45,20 +101,6 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/05/world/asia/bangladesh-garment-workers-protest-wage.html",
-      "title": "Bangladesh Agrees to Raise Minimum Wage for Garment Workers After Protests",
-      "published": "2026-11-05T14:51:07+00:00",
-      "author": "Saif Hasnat",
-      "description": "Hundreds of garment factories were shut down this week as workers in the country, the world’s second-largest exporter of clothing, demonstrated for higher pay.",
-      "link": "https://www.nytimes.com/2026/11/05/world/asia/bangladesh-garment-workers-protest-wage.html",
-      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05vid-bangladesh-cover-jtbq/05vid-bangladesh-cover-jtbq-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo#0",
@@ -115,6 +157,20 @@
       "category": "World News",
       "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/us-midterm-elections-blue-tsunami-and-habibi-among-top-google-search-trends-12288692#publisher=newsstand",
+      "title": "US Midterm Elections: 'Blue Tsunami' And 'Habibi' Among Top Google Search Trends",
+      "published": "2026-11-05T14:28:36+00:00",
+      "author": null,
+      "description": "Democrats flip seven Senate seats in 2026 midterms amid blue wave surge.",
+      "link": "https://www.ndtv.com/world-news/us-midterm-elections-blue-tsunami-and-habibi-among-top-google-search-trends-12288692#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-11/17rg462k_as_625x300_05_November_26.jpeg",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
       "id": "https://www.bbc.co.uk/news/videos/c9dr8713zjgyo#2",
@@ -230,6 +286,20 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo#0",
+      "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+      "published": "2026-11-05T13:51:03+00:00",
+      "author": null,
+      "description": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
+      "link": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff8f/live/68eb4bf0-d8e4-11f1-a701-fddedf244c16.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo#1",
       "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
       "published": "2026-11-05T13:51:03+00:00",
       "author": null,
@@ -13933,76 +14003,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/chinas-5-000-ton-digging-machines-could-hit-indias-infrastructure-push-12269549#publisher=newsstand",
-      "title": "China's 5,000-Ton Digging Machines Could Hit India's Infrastructure Push",
-      "published": "2026-11-02T05:25:43+00:00",
-      "author": null,
-      "description": "Building sites might not be an obvious chokepoint in the global economy",
-      "link": "https://www.ndtv.com/world-news/chinas-5-000-ton-digging-machines-could-hit-indias-infrastructure-push-12269549#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-11/16iv5brg_china-machines_625x300_02_November_26.jpeg",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/us/travis-scotts-cactus-jack-foundation-partners-with-a-fashion-scholarship-fund-to-award-students-10000-each-and-offer-hands-on-design-training-to-build-practical-skills/articleshow/135446392.cms",
-      "title": "Travis Scott's Cactus Jack awards $10,000 fashion scholarships with design training",
-      "published": "2026-11-02T05:25:03+00:00",
-      "author": "TOI World Desk",
-      "description": "",
-      "link": "https://timesofindia.indiatimes.com/world/us/travis-scotts-cactus-jack-foundation-partners-with-a-fashion-scholarship-fund-to-award-students-10000-each-and-offer-hands-on-design-training-to-build-practical-skills/articleshow/135446392.cms",
-      "image": "https://static.toiimg.com/photo/msid-135446628,imgsize-867516.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "t3_1xlonud",
-      "title": "Attempted murder probe after petrol bomb thrown at French riot police",
-      "published": "2026-11-02T05:15:25+00:00",
-      "author": "/u/DarthWojak",
-      "description": "submitted by /u/DarthWojak [link] [comments]",
-      "link": "https://www.reddit.com/r/worldnews/comments/1xlonud/attempted_murder_probe_after_petrol_bomb_thrown/",
-      "image": "https://external-preview.redd.it/vk106XnDQYntQyv671LLULVay7jZP7w5K_X-LzMsRSU.jpeg?width=640&crop=smart&auto=webp&s=ce74d1274cb0e9ac4438dd0289ab025ce808b110",
-      "feed_name": "World News",
-      "feed_title": "World News",
-      "category": "World News",
-      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
-      "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "108499880",
-      "title": "Binance sees $3.64 billion in net outflows as withdrawals resume after massive hack",
-      "published": "2026-11-02T05:09:45+00:00",
-      "author": null,
-      "description": "Binance recorded $3.64 billion in net outflows after resuming withdrawals following a $6.3 billion hack, representing 2.1% of its total assets.",
-      "link": "https://www.cnbc.com/2026/11/02/binance-outflow-hack-bitcoin.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108486123-1793363750138-gettyimages-2302145323-Binance.jpeg?v=1793363814&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/02/world/asia/chinas-message-to-its-rivals-you-need-what-we-make.html",
-      "title": "China’s Message to Its Rivals: You Need What We Make",
-      "published": "2026-11-02T05:00:08+00:00",
-      "author": "David Pierson and Berry Wang",
-      "description": "It’s not just rare earths. China is making it harder for other countries to shed their dependence on its solar, drone and drugmaking technology.",
-      "link": "https://www.nytimes.com/2026/11/02/world/asia/chinas-message-to-its-rivals-you-need-what-we-make.html",
-      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02int-china-export-controls-01-pqvb/02int-china-export-controls-01-pqvb-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     }
   ]
 }
