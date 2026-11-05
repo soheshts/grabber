@@ -1,9 +1,23 @@
 {
   "category": "science",
-  "updated": "2026-11-05T07:03:11.408591+00:00",
+  "updated": "2026-11-05T07:33:32.951985+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "urn:bbc:podcast:m0033pdc",
+      "title": "Leaf it to Nature",
+      "published": "2026-11-05T07:00:00+00:00",
+      "author": "BBC Radio 4",
+      "description": "We walk on them, rake them up, often barely give them a thought, but the humble leaf is an extraordinary feat of biological engineering. Adam Rutherford and Jessica Fostekew are joined plant scientist Tracy Lawson, biologist Jonathan Silvertown, and comedian Alex Kealy to uncover the hidden ingenuity of leaves. They explore how leaves evolved, why plants face a constant battle between thirst and starvation, and whether understanding their clever adaptations could help us engineer crops for a ho…",
+      "link": "http://www.bbc.co.uk/programmes/m0033pdc",
+      "image": "https://ichef.bbci.co.uk/images/ic/1200x675/p0pfwlz7.jpg",
+      "feed_name": "The Infinite Monkey Cage",
+      "feed_title": "The Infinite Monkey Cage",
+      "category": "science",
+      "feed_url": "https://podcasts.files.bbci.co.uk/b00snr0w.rss",
+      "feed_icon": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0pfwmbx.jpg"
+    },
     {
       "id": "news713005744",
       "title": "Centuries-old cemetery helps scientists link climate shocks to Industrial Revolution disease",
@@ -13984,20 +13998,6 @@
       "description": "The rapid increase in the availability of genomic data has transformed plant breeding by enabling the prediction of complex traits directly from DNA markers. Genomic prediction provides a means to accelerate selection decisions, reduce phenotyping costs and shorten breeding cycles. Despite its promise, the practical implementation of genomic prediction remains challenging because prediction accuracy varies across datasets, populations and traits. Researchers must often evaluate multiple statist…",
       "link": "https://phys.org/news/2026-10-genobridge-trait-genomic-analysis-pipeline.html",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/genobridge-months-of-w.jpg",
-      "feed_name": "Phys.org - latest science and technology news stories",
-      "feed_title": "Phys.org - latest science and technology news stories",
-      "category": "science",
-      "feed_url": "https://phys.org/rss-feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "news712330469",
-      "title": "SPINE: A machine-learning program is on the trail of ghost particles",
-      "published": "2026-10-27T19:10:01+00:00",
-      "author": null,
-      "description": "Neutrinos are among the most abundant particles in the universe, but they are also among the most elusive. Nearly massless, they are produced by nuclear reactions in the sun, exploding stars, particle accelerators and even the decay of radioactive elements on Earth. They interact so weakly with ordinary matter that trillions pass through each person every second without leaving a trace. Studying these ghostly particles could help answer some of the biggest questions in physics, from the nature…",
-      "link": "https://phys.org/news/2026-10-spine-machine-trail-ghost-particles.html",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/icarus.jpg",
       "feed_name": "Phys.org - latest science and technology news stories",
       "feed_title": "Phys.org - latest science and technology news stories",
       "category": "science",
