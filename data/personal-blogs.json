@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-05T09:33:35.384556+00:00",
-  "count": 442,
+  "updated": "2026-11-05T10:03:08.428888+00:00",
+  "count": 443,
   "summary": null,
   "items": [
     {
@@ -45,6 +45,20 @@
       "category": "personal blogs",
       "feed_url": "https://www.aaron-gustafson.com/feeds/latest-posts.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.aaron-gustafson.com&sz=64"
+    },
+    {
+      "id": "https://thomasrigby.com/posts/til-negative-reinforcement/",
+      "title": "#TIL: Negative Reinforcement",
+      "published": "2026-11-04T21:38:31+00:00",
+      "author": "Thomas Rigby (rss@thomasrigby.com)",
+      "description": "I was today years old when I learned the nuance of the term",
+      "link": "https://thomasrigby.com/posts/til-negative-reinforcement/",
+      "image": null,
+      "feed_name": "Thomas Rigby",
+      "feed_title": "Thomas Rigby",
+      "category": "personal blogs",
+      "feed_url": "https://thomasrigby.com/feed.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thomasrigby.com&sz=64"
     },
     {
       "id": "https://www.bennadel.com/blog/4923-why-cfml-cant-just-compile-variable-scoping-into-the-byte-code.htm",

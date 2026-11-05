@@ -1,9 +1,23 @@
 {
   "category": "science",
-  "updated": "2026-11-05T09:33:35.384556+00:00",
+  "updated": "2026-11-05T10:03:08.428888+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "news713010907",
+      "title": "Fractal patterns reveal hidden limits to AI predictability",
+      "published": "2026-11-05T10:00:04+00:00",
+      "author": null,
+      "description": "Researchers at the University of Sydney have identified a fundamental mathematical reason why artificial intelligence systems can learn different behaviors even when trained under almost identical conditions, a discovery that could help improve the reliability and trustworthiness of AI technologies.",
+      "link": "https://phys.org/news/2026-11-fractal-patterns-reveal-hidden-limits.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/sydney-researchers-unc.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
     {
       "id": "news713074236",
       "title": "Prehistoric 'giant rat' found in Thailand from fossil teeth",
@@ -13989,20 +14003,6 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "6adfca7628ba980ed3d02255",
-      "title": "Anthropic Says It Will Revolutionize Biology—Some Day",
-      "published": "2026-10-27T19:39:04+00:00",
-      "author": "Emily Mullin",
-      "description": "In breathless press releases and posts, the company has touted its models’ ability to deliver scientific breakthroughs. But its IPO filing taps the brakes on just how fast its AI will lead to big discoveries.",
-      "link": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/",
-      "image": "https://media.wired.com/photos/6ae0b0627e979e34b657973e/master/pass/102726-Anthropic%20Bio.jpg",
-      "feed_name": "Science Latest",
-      "feed_title": "Science Latest",
-      "category": "science",
-      "feed_url": "https://www.wired.com/feed/category/science/latest/rss",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.wired.com&sz=64"
     }
   ]
 }
