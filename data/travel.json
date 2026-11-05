@@ -1,9 +1,23 @@
 {
   "category": "travel",
-  "updated": "2026-11-05T18:32:56.001368+00:00",
-  "count": 123,
+  "updated": "2026-11-05T19:03:04.388633+00:00",
+  "count": 124,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-airline-passengers.html",
+      "title": "Passengers Tell of Fear After Bomb Threats Hit European Flights",
+      "published": "2026-11-05T18:42:52+00:00",
+      "author": "Josephine de La Bruyère and Amelia Nierenberg",
+      "description": "Passengers recounted landing at a military base and being subjected to security checks and travel delays after threats that turned out to be hoaxes affected planes in Italy, Poland, Spain.",
+      "link": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-airline-passengers.html",
+      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-bomb-threats-scene01-photo-bqtk/05int-bomb-threats-scene01-photo-bqtk-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Travel",
+      "feed_title": "NYT > Travel",
+      "category": "travel",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "https://www.nytimes.com/2026/11/02/world/europe/pope-plane-shepherd-one-flights.html",
       "title": "Up in the Clouds With the Pope, It’s Still Commercial",

@@ -1,9 +1,37 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-05T18:32:56.001368+00:00",
-  "count": 441,
+  "updated": "2026-11-05T19:03:04.388633+00:00",
+  "count": 442,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.baldurbjarnason.com/notes/photos/looking-back-at-snow/",
+      "title": "Looking back at snow",
+      "published": "2026-11-05T18:49:00+00:00",
+      "author": "Baldur Bjarnason",
+      "description": "A few black and white photos from a snowy 2024. Thankfully it’s not this snowy these days.",
+      "link": "https://www.baldurbjarnason.com/notes/photos/looking-back-at-snow/",
+      "image": "https://www.baldurbjarnason.com/img/pyLNPTu7VM-6032.jpeg",
+      "feed_name": "Baldur Bjarnason's Notes on the Web",
+      "feed_title": "Baldur Bjarnason's Notes on the Web",
+      "category": "personal blogs",
+      "feed_url": "https://feedpress.me/baldurbjarnason",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.baldurbjarnason.com&sz=64"
+    },
+    {
+      "id": "https://www.baldurbjarnason.com/2026/automation-and-self-censorship/",
+      "title": "Automation, algorithms, and self-censorship",
+      "published": "2026-11-05T18:39:00+00:00",
+      "author": "Baldur Bjarnason",
+      "description": "I’m probably not going to turn this essay into a video and maybe not even a podcast. Not because of the theme or any of the concerns raised, but simply because I don’t know if I’ll have the time to do so this week. A couple of my videos on YouTube got picked up by their recommendation algorithm. Even by the most conservative “percentage of the audience who watched to the end” estimate, those videos had an audience that was at least one hundred times larger than my channel’s baseline. They’re st…",
+      "link": "https://www.baldurbjarnason.com/2026/automation-and-self-censorship/",
+      "image": "https://v1.screenshot.11ty.dev/https%3A%2F%2Fwww.baldurbjarnason.com%2F2026%2Fautomation-and-self-censorship%2F/opengraph/",
+      "feed_name": "Baldur Bjarnason's Notes on the Web",
+      "feed_title": "Baldur Bjarnason's Notes on the Web",
+      "category": "personal blogs",
+      "feed_url": "https://feedpress.me/baldurbjarnason",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.baldurbjarnason.com&sz=64"
+    },
     {
       "id": "https://paulrobertlloyd.com/2026/309/j1/",
       "title": "♫ You Can’t Always Get What You Want by Rolling Stones",
@@ -1115,7 +1143,7 @@
       "title": "Writing is Magic; Machine Writing is Ash",
       "published": "2026-10-31T16:40:00+00:00",
       "author": "Baldur Bjarnason",
-      "description": "A year’s membership in the Premium Newsletter for €50 €25 EUR (price includes VAT, where applicable) A couple of years ago I found some of the old journals I’d kept when I was a teenager. Some of the thoughts in it were innocuous and silly. Some of them were heavier – had a weight I still carry with me today – especially the passages I wrote when I was hospitalised for a summer. None of it’s great writing . But all of it helped at the time. Taking thoughts and putting them down into writing hel…",
+      "description": "A year’s membership in the Premium Newsletter for €50 EUR (price includes VAT, where applicable) A couple of years ago I found some of the old journals I’d kept when I was a teenager. Some of the thoughts in it were innocuous and silly. Some of them were heavier – had a weight I still carry with me today – especially the passages I wrote when I was hospitalised for a summer. None of it’s great writing . But all of it helped at the time. Taking thoughts and putting them down into writing helped…",
       "link": "https://www.baldurbjarnason.com/2026/machine-writing-is-ash/",
       "image": "https://www.baldurbjarnason.com/img/eAXHKdUQqC-1456.png",
       "feed_name": "Baldur Bjarnason's Notes on the Web",
@@ -5449,20 +5477,6 @@
       "category": "personal blogs",
       "feed_url": "https://til.simonwillison.net/tils/feed.atom",
       "feed_icon": "https://www.google.com/s2/favicons?domain=til.simonwillison.net&sz=64"
-    },
-    {
-      "id": "https://blog.jim-nielsen.com/2026/app-icon-hoa/",
-      "title": "Apple’s App Icon HOA",
-      "published": "2026-10-06T19:00:00+00:00",
-      "author": null,
-      "description": "Louie Mantia has a great post about how app icons are converging towards the squircle on iOS and macOS. His post reads like a history. If you’re wondering, “How did we get to a place where all app icons are becoming squircles?” Mantia’s post answers that question by starting at the beginning. It’s hard to walk away from Mantia’s article without a sense of empathy for Apple’s position, like “Oh ok, I get why they’re doing what they’re doing. It makes sense.” Apple’s direction is kind of a tacit…",
-      "link": "https://blog.jim-nielsen.com/2026/app-icon-hoa/",
-      "image": "https://cdn.jim-nielsen.com/blog/2026/apples-hoa-icons.png",
-      "feed_name": "Jim Nielsen’s Blog",
-      "feed_title": "Jim Nielsen’s Blog",
-      "category": "personal blogs",
-      "feed_url": "https://blog.jim-nielsen.com/feed.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=blog.jim-nielsen.com&sz=64"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
