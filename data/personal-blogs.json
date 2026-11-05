@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-05T08:32:26.542623+00:00",
-  "count": 441,
+  "updated": "2026-11-05T09:03:09.244738+00:00",
+  "count": 442,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,20 @@
       "category": "personal blogs",
       "feed_url": "https://paulrobertlloyd.com/feed.xml",
       "feed_icon": "/assets/icons/icon-192-any.png"
+    },
+    {
+      "id": "https://ishadeed.com/article/beyond-the-viewport/",
+      "title": "Beyond the viewport: Introducing Site Seeing",
+      "published": "2026-11-05T00:00:00+00:00",
+      "author": null,
+      "description": "",
+      "link": "https://ishadeed.com/article/beyond-the-viewport/",
+      "image": "https://ishadeed.com/assets/beyond-the-viewport/thumb.jpg",
+      "feed_name": "Ahmad Shadeed",
+      "feed_title": "Ahmad Shadeed",
+      "category": "personal blogs",
+      "feed_url": "https://ishadeed.com/feed.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=ishadeed.com&sz=64"
     },
     {
       "id": "https://www.aaron-gustafson.com/notebook/there-can-be-only-one-redux/",
