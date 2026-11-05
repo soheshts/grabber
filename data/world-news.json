@@ -1,9 +1,149 @@
 {
   "category": "World News",
-  "updated": "2026-11-05T17:33:43.532954+00:00",
+  "updated": "2026-11-05T18:03:54.816209+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo#0",
+      "title": "French protests see numbers surge as unions join strikes over high cost of living",
+      "published": "2026-11-05T17:59:53+00:00",
+      "author": null,
+      "description": "The interior ministry estimates 600,000 people joined protests across France, while the unions say the number was far higher.",
+      "link": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f641/live/977c1840-d91c-11f1-b441-2b33b063138f.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "108512642",
+      "title": "Trump's energy deals are about to face a wave of investigations by Democrats",
+      "published": "2026-11-05T17:56:55+00:00",
+      "author": null,
+      "description": "Democrats are certain to scrutinize the U.S. intervention in Venezuela, administration mineral deals and the cancellation of previously funded energy projects.",
+      "link": "https://www.cnbc.com/2026/11/05/trump-election-energy-venezuela-critical-mineral-renewable-iran.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108244722-1766417176896-gettyimages-2227111307-US-NEWS-TRUMP-WIND-POWER-VP.jpeg?v=1766442970&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/05/world/africa/lana-nusseibeh-united-nations-uae-sudan.html",
+      "title": "Lana Nusseibeh’s U.N. Bid Collides With U.A.E.’s Role in Sudan",
+      "published": "2026-11-05T17:53:39+00:00",
+      "author": "Declan Walsh",
+      "description": "Lana Nusseibeh, one of the Gulf nation’s top diplomats, has led the effort to deny her country’s role in Sudan. Now it’s complicating her bid to become secretary general of the United Nations.",
+      "link": "https://www.nytimes.com/2026/11/05/world/africa/lana-nusseibeh-united-nations-uae-sudan.html",
+      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-sudan-lana-2-kgtq/05int-sudan-lana-2-kgtq-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-europe-flights-airlines.html",
+      "title": "What to Know About the Bomb Threats Disrupting Flights in Europe",
+      "published": "2026-11-05T17:51:09+00:00",
+      "author": "Jonathan Wolfe, Leo Sands and Jeanna Smialek",
+      "description": "More than two dozen planes that were targeted on Thursday landed safely, officials said, after similar threats earlier this week. The hoaxes have added to airspace anxiety in the region.",
+      "link": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-europe-flights-airlines.html",
+      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05xp-bomb-threats-tbwg/05xp-bomb-threats-tbwg-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/05/world/middleeast/peace-talks-iran-united-states-qatar-nuclear-program.html",
+      "title": "Iran is Reviewing ‘Concrete Proposals’ on Nuclear Program, Officials Say",
+      "published": "2026-11-05T17:44:40+00:00",
+      "author": "Adam Rasgon, Vivian Nereim, Tyler Pager and Farnaz Fassihi",
+      "description": "Iran’s willingness to re-engage on the issue suggests that Qatar-led diplomatic efforts to avert full-blown war between the U.S. and Iran have had some success.",
+      "link": "https://www.nytimes.com/2026/11/05/world/middleeast/peace-talks-iran-united-states-qatar-nuclear-program.html",
+      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-iran-negotiations-vmfc/05int-iran-negotiations-vmfc-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/05/world/americas/bolsonaro-escape-brazil-milei-adviser-argentina.html",
+      "title": "Bolsonaro’s Escape From Brazil Was Aided by Milei Adviser at Argentine Airport",
+      "published": "2026-11-05T17:43:39+00:00",
+      "author": "Emma Bubola, Diego Bogarin and Lucía Cholakian Herrera",
+      "description": "A top adviser to President Javier Milei of Argentina met Flávio Bolsonaro, the defeated Brazilian presidential candidate, at an Argentine airport, three people involved in the operation said.",
+      "link": "https://www.nytimes.com/2026/11/05/world/americas/bolsonaro-escape-brazil-milei-adviser-argentina.html",
+      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04int-argentina-bolsonaro01-photo-jtkl/04int-argentina-bolsonaro01-photo-jtkl-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "108525907",
+      "title": "Democrats to probe JPMorgan's relationship with Jeffrey Epstein when they take Senate control",
+      "published": "2026-11-05T17:42:29+00:00",
+      "author": null,
+      "description": "JPMorgan kept Jeffrey Epstein as a client for years after top executive Mary Erdoes hearing claims he paid to have underage girls brought to his home.",
+      "link": "https://www.cnbc.com/2026/11/05/jpmorgan-epstein-democrats-erdoes-midterm-election.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108338471-1784724287235-gettyimages-2281451826-DNI_POSTPONED.jpeg?v=1784724306&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo#0",
+      "title": "Paraguay President Santiago Peña resigns after bank collapse",
+      "published": "2026-11-05T17:40:40+00:00",
+      "author": null,
+      "description": "The move follows a bank collapse and after the lower house of congress voted in favour of pursuing an impeachment trial against him.",
+      "link": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12e6/live/3ccd15c0-d93a-11f1-95ea-8df9a040b6bf.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/05/world/europe/melania-trump-oleshky-ukraine-ceasefire.html",
+      "title": "How Melania Trump Became a Dark Horse Diplomat on Ukraine",
+      "published": "2026-11-05T17:39:24+00:00",
+      "author": "Siobhán O’Grady",
+      "description": "Both Moscow and Kyiv say Mrs. Trump’s team was the driving force behind an evacuation of a besieged city. It was also in their interest to deliver her a humanitarian win.",
+      "link": "https://www.nytimes.com/2026/11/05/world/europe/melania-trump-oleshky-ukraine-ceasefire.html",
+      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05Ukraine-Oleshky-01-mgbz/05Ukraine-Oleshky-01-mgbz-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/nov/05/meghan-sussex-thomas-markle-jr-philippines-child-sexual-abuse-inquiry",
+      "title": "Duchess of Sussex’s estranged half-brother ‘person of interest’ in child sexual abuse inquiry",
+      "published": "2026-11-05T17:37:27+00:00",
+      "author": "Caroline Davies",
+      "description": "Philippine official says there are ‘signs that point to Thomas Markle Jr’s involvement in crime’, but he’s not yet being treated as a suspect The Duchess of Sussex’s estranged half-brother, Thomas Markle Jr, has been named as a “person of interest” in the Philippine authorities’ inquiry into child sexual abuse image allegations made against her father, Thomas Markle Sr. The country’s interior and local government secretary, Jonvic Remulla, told a press conference in Manila there were “signs tha…",
+      "link": "https://www.theguardian.com/world/2026/nov/05/meghan-sussex-thomas-markle-jr-philippines-child-sexual-abuse-inquiry",
+      "image": "https://i.guim.co.uk/img/media/f07363f35ce5612b989365a754efde92e8077a12/384_0_2441_1953/master/2441.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=12aa7bf67ac1e1d6adb892c0424ebda3",
+      "feed_name": "The Guardian",
+      "feed_title": "World news | The Guardian",
+      "category": "World News",
+      "feed_url": "https://www.theguardian.com/world/rss",
+      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
     {
       "id": "https://www.nytimes.com/2026/11/05/world/americas/flavio-bolsonaro-florida-brazil.html",
       "title": "How Did Flávio Bolsonaro Flee Brazil? ‘I’ll Take That to the Grave,’ He Says",
@@ -47,6 +187,20 @@
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
+      "id": "https://timesofindia.indiatimes.com/world/europe/expect-new-dynamics-ukraine-hopes-for-greater-assistance-after-democrats-sweep-midterms/articleshow/135582124.cms",
+      "title": "‘Expect new dynamics’: Ukraine hopes for more support after Democrats sweep midterms",
+      "published": "2026-11-05T17:24:45+00:00",
+      "author": "Pranjal Pandey",
+      "description": "Ukraine anticipates enhanced military and financial assistance from the United States after the midterm elections. Foreign minister Andrii Sybiha expressed hope for new dynamics and support from the incoming Democratic majority. Ukrainian President Volodymyr Zelenskyy acknowledged the Democrats' vocal backing of Ukraine since their election success. This shift in power could enable legislation favoring aid to Ukraine despite previous limitations.",
+      "link": "https://timesofindia.indiatimes.com/world/europe/expect-new-dynamics-ukraine-hopes-for-greater-assistance-after-democrats-sweep-midterms/articleshow/135582124.cms",
+      "image": "https://static.toiimg.com/photo/msid-135582274,imgsize-62368.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
       "id": "https://timesofindia.indiatimes.com/world/uk/a-63-year-old-woman-smears-faeces-in-her-husbands-mouth-after-threatening-to-make-him-eat-it-at-1-million-farmhouse-handed-12-month-suspended-jail-term-judge-calls-attack-gratuitous-degradation/articleshow/135581499.cms",
       "title": "Wife smears faeces in husband's mouth after threatening to make him eat it; gets suspended jail term",
       "published": "2026-11-05T17:24:12+00:00",
@@ -61,34 +215,6 @@
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
-      "id": "https://www.theguardian.com/world/2026/nov/05/meghan-sussex-thomas-markle-jr-philippines-child-sexual-abuse-inquiry",
-      "title": "Duchess of Sussex’s estranged half brother ‘person of interest’ in child sexual abuse inquiry",
-      "published": "2026-11-05T17:20:52+00:00",
-      "author": "Caroline Davies",
-      "description": "Philippine authorities say there are ‘signs that point to Thomas Markle Jr’s involvement in crime’, but was not being treated as a suspect The Duchess of Sussex’s estranged half brother, Thomas Markle Jr, has been named as a “person of interest” in the Philippine authorities’ inquiry into child sexual abuse image allegations made against her father, Thomas Markle Sr. The country’s interior and local government secretary, Jonvic Remulla, told a press conference in Manila there were “signs that p…",
-      "link": "https://www.theguardian.com/world/2026/nov/05/meghan-sussex-thomas-markle-jr-philippines-child-sexual-abuse-inquiry",
-      "image": "https://i.guim.co.uk/img/media/f07363f35ce5612b989365a754efde92e8077a12/384_0_2441_1953/master/2441.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=12aa7bf67ac1e1d6adb892c0424ebda3",
-      "feed_name": "The Guardian",
-      "feed_title": "World news | The Guardian",
-      "category": "World News",
-      "feed_url": "https://www.theguardian.com/world/rss",
-      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
-    },
-    {
-      "id": "108525907",
-      "title": "Democrats to probe JPMorgan's relationship with Jeffrey Epstein when they take Senate control",
-      "published": "2026-11-05T17:16:48+00:00",
-      "author": null,
-      "description": "JPMorgan kept Jeffrey Epstein as a client for years after top executive Mary Erdoes hearing claims he paid to have underage girls brought to his home.",
-      "link": "https://www.cnbc.com/2026/11/05/jpmorgan-epstein-democrats-erdoes-midterm-election.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108338471-1784724287235-gettyimages-2281451826-DNI_POSTPONED.jpeg?v=1784724306&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
       "id": "https://timesofindia.indiatimes.com/world/us/a-louisiana-stepfather-created-a-trust-and-family-property-company-in-2004-after-he-and-his-wife-died-a-dispute-arose-over-who-could-change-future-beneficiaries-and-an-appeals-court-upheld-the-trust-protectors-powers/articleshow/135578576.cms",
       "title": "Louisiana court upholds a trust protector's powers to change beneficiaries and approve early closure",
       "published": "2026-11-05T17:15:00+00:00",
@@ -101,20 +227,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo#0",
-      "title": "Paraguay President Santiago Peña resigns after bank collapse",
-      "published": "2026-11-05T17:14:41+00:00",
-      "author": null,
-      "description": "The move follows a bank collapse and after the lower house of congress voted in favour of pursuing an impeachment trial against him.",
-      "link": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12e6/live/3ccd15c0-d93a-11f1-95ea-8df9a040b6bf.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/us/vance-lances-trump-as-maga-enters-week-of-the-long-knives/articleshow/135581378.cms",
@@ -145,20 +257,6 @@
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
     },
     {
-      "id": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-europe-flights-airlines.html",
-      "title": "What to Know About the Bomb Threats Disrupting Flights in Europe",
-      "published": "2026-11-05T17:05:13+00:00",
-      "author": "Jonathan Wolfe, Leo Sands and Jeanna Smialek",
-      "description": "More than a dozen planes that were targeted on Thursday landed safely, officials said, after similar threats earlier this week. The hoaxes have added to airspace anxiety in the region.",
-      "link": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-europe-flights-airlines.html",
-      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05xp-bomb-threats-tbwg/05xp-bomb-threats-tbwg-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
       "id": "https://www.nytimes.com/2026/11/05/world/europe/british-ebola-case-congo-uk.html",
       "title": "British Citizen Infected With Ebola in Congo to Be Evacuated to UK, BBC Reports",
       "published": "2026-11-05T17:03:22+00:00",
@@ -187,20 +285,6 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
-      "id": "https://www.nytimes.com/2026/11/05/world/africa/lana-nusseibeh-united-nations-uae-sudan.html",
-      "title": "Lana Nusseibeh’s U.N. Bid Collides With U.A.E.’s Role in Sudan",
-      "published": "2026-11-05T16:42:05+00:00",
-      "author": "Declan Walsh",
-      "description": "Lana Nusseibeh, one of the Gulf nation’s top diplomats, has led the effort to deny her country’s role in Sudan. Now it’s complicating her bid to become secretary general of the United Nations.",
-      "link": "https://www.nytimes.com/2026/11/05/world/africa/lana-nusseibeh-united-nations-uae-sudan.html",
-      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-sudan-lana-2-kgtq/05int-sudan-lana-2-kgtq-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
       "id": "https://timesofindia.indiatimes.com/world/us/3-injured-in-shooting-at-us-post-office-in-iowa-suspect-detained/articleshow/135580526.cms",
       "title": "3 injured in shooting at US post office in Iowa, suspect detained",
       "published": "2026-11-05T16:37:41+00:00",
@@ -222,20 +306,6 @@
       "description": "Hundreds of garment factories were shut down this week as workers in the country, the world’s second-largest exporter of clothing, demonstrated for higher pay.",
       "link": "https://www.nytimes.com/2026/11/05/world/asia/bangladesh-garment-workers-protest-wage.html",
       "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05vid-bangladesh-cover-jtbq/05vid-bangladesh-cover-jtbq-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/05/world/middleeast/peace-talks-iran-united-states-qatar-nuclear-program.html",
-      "title": "Iran is Reviewing ‘Concrete Proposals’ on Nuclear Program, Officials Say",
-      "published": "2026-11-05T16:34:55+00:00",
-      "author": "Adam Rasgon, Vivian Nereim, Tyler Pager and Farnaz Fassihi",
-      "description": "Iran’s willingness to re-engage on the issue suggests that Qatar-led diplomatic efforts to avert full-blown war between the U.S. and Iran have had some success.",
-      "link": "https://www.nytimes.com/2026/11/05/world/middleeast/peace-talks-iran-united-states-qatar-nuclear-program.html",
-      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-iran-negotiations-vmfc/05int-iran-negotiations-vmfc-mediumSquareAt3X.jpg",
       "feed_name": "NYT",
       "feed_title": "NYT > World News",
       "category": "World News",
@@ -285,20 +355,6 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
-      "id": "108512642",
-      "title": "Trump's energy deals are about to face a wave of investigations by Democrats",
-      "published": "2026-11-05T16:23:48+00:00",
-      "author": null,
-      "description": "Democrats are certain to scrutinize the U.S. intervention in Venezuela, administration mineral deals and the cancellation of previously funded energy projects.",
-      "link": "https://www.cnbc.com/2026/11/05/trump-election-energy-venezuela-critical-mineral-renewable-iran.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108244722-1766417176896-gettyimages-2227111307-US-NEWS-TRUMP-WIND-POWER-VP.jpeg?v=1766442970&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
       "id": "https://www.nytimes.com/2026/11/05/world/europe/france-protests-general-strike.html",
       "title": "After Riots and Protests, French Workers Are Going on Strike",
       "published": "2026-11-05T16:22:30+00:00",
@@ -339,20 +395,6 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/05/world/americas/bolsonaro-escape-brazil-milei-adviser-argentina.html",
-      "title": "Bolsonaro’s Escape From Brazil Was Aided by Milei Adviser at Argentine Airport",
-      "published": "2026-11-05T16:06:45+00:00",
-      "author": "Emma Bubola, Diego Bogarin and Lucía Cholakian Herrera",
-      "description": "A top adviser to President Javier Milei of Argentina met Flávio Bolsonaro, the defeated Brazilian presidential candidate, at an Argentine airport, three people involved in the operation said.",
-      "link": "https://www.nytimes.com/2026/11/05/world/americas/bolsonaro-escape-brazil-milei-adviser-argentina.html",
-      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04int-argentina-bolsonaro01-photo-jtkl/04int-argentina-bolsonaro01-photo-jtkl-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "108524969",
@@ -423,34 +465,6 @@
       "category": "World News",
       "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo#0",
-      "title": "France holds new strikes and protests as unions demand immediate answers",
-      "published": "2026-11-05T15:43:15+00:00",
-      "author": null,
-      "description": "Five of France's unions join a wave of strikes and protests in a national day of action.",
-      "link": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f641/live/977c1840-d91c-11f1-b441-2b33b063138f.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/05/world/europe/melania-trump-oleshky-ukraine-ceasefire.html",
-      "title": "How Melania Trump Became a Dark Horse Diplomat on Ukraine",
-      "published": "2026-11-05T15:41:34+00:00",
-      "author": "Siobhán O’Grady",
-      "description": "Both Moscow and Kyiv say Mrs. Trump’s team was the driving force behind an evacuation of a besieged city. It was also in their interest to deliver her a humanitarian win.",
-      "link": "https://www.nytimes.com/2026/11/05/world/europe/melania-trump-oleshky-ukraine-ceasefire.html",
-      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05Ukraine-Oleshky-01-mgbz/05Ukraine-Oleshky-01-mgbz-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/us/a-washington-couple-signed-a-prenup-when-the-husband-was-worth-over-15-million-and-his-wife-had-175000-after-disputes-over-a-porsche-and-divorce-legal-fees-an-appeals-court-broadened-the-scope-for-attorney-fee-awards/articleshow/135576325.cms",
@@ -13989,20 +14003,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/saudi-hit-biggest-hodeidah-ras-issa-port-houthi-control-group-calls-it-war-crime-12270298#publisher=newsstand",
-      "title": "Saudi Hits Biggest Port Under Houthis' Control, Group Calls It \"War Crime\"",
-      "published": "2026-11-02T08:12:36+00:00",
-      "author": null,
-      "description": "The Ras Issa port, north of the city, also serves to import and store oil.",
-      "link": "https://www.ndtv.com/world-news/saudi-hit-biggest-hodeidah-ras-issa-port-houthi-control-group-calls-it-war-crime-12270298#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-11/psbuf3hs_yemen-houthi-afp_625x300_02_November_26.jpeg",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     }
   ]
 }
