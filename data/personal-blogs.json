@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-04T23:33:34.153124+00:00",
-  "count": 444,
+  "updated": "2026-11-05T00:03:49.458494+00:00",
+  "count": 440,
   "summary": null,
   "items": [
     {
@@ -5449,62 +5449,6 @@
       "category": "personal blogs",
       "feed_url": "http://feeds.feedburner.com/robweychert",
       "feed_icon": "https://www.google.com/s2/favicons?domain=v7.robweychert.com&sz=64"
-    },
-    {
-      "id": "https://bradfrost.com/blog/post/laser-storm/",
-      "title": "Laser Storm",
-      "published": "2026-10-06T00:00:00+00:00",
-      "author": "Brad Frost",
-      "description": "This weekend, I took Ella to her cousin's birthday party at Laser Storm on McKnight Road north of Pittsburgh. The small structure is now dwarfed by much larger, newer chain stores, but entering the doors transported me to the same amazing world my cousins and I would visit as tweens. Behold its majesty: Just look at these wall paintings: Outside of the laser tag arena is the arcade area, equipped with many of the classics. For my money, things like this need to be protected at all costs. Sure,…",
-      "link": "https://bradfrost.com/blog/post/laser-storm/",
-      "image": "https://media.bradfrost.com/objects/0b825fc0d86f4df0ac8fc1efa127ac0f2c506d3f34e45e51247d3fd7f49ca1ec.jpg",
-      "feed_name": "Brad Frost",
-      "feed_title": "Brad Frost",
-      "category": "personal blogs",
-      "feed_url": "http://feeds.feedburner.com/brad-frosts-blog",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=bradfrost.com&sz=64"
-    },
-    {
-      "id": "https://ruuda.nl/2026/hosting-without-hyperscalers",
-      "title": "Hosting without hyperscalers",
-      "published": "2026-10-06T00:00:00+00:00",
-      "author": "Ruud van Asseldonk",
-      "description": "How I host my blog has evolved throughout the years. In this post I explain how and why I moved my blog from American hyperscalers to European infrastructure.",
-      "link": "https://ruuda.nl/2026/hosting-without-hyperscalers",
-      "image": null,
-      "feed_name": "Ruud van Asseldonk",
-      "feed_title": "Ruud van Asseldonk",
-      "category": "personal blogs",
-      "feed_url": "https://ruudvanasseldonk.com/feed.xml",
-      "feed_icon": "/favicon.png"
-    },
-    {
-      "id": "https://www.amitmerchant.com/7-game-changing-web-ui-features-you-need-to-start-using-today",
-      "title": "7 Game-Changing Web UI Features You Can Start Using Today",
-      "published": "2026-10-06T00:00:00+00:00",
-      "author": "Amit Merchant",
-      "description": "I was watching this video from the Google IO on all the new web UI features that are coming to the web platform and I was blown away by how many of these features are already available in modern browsers.",
-      "link": "https://www.amitmerchant.com/7-game-changing-web-ui-features-you-need-to-start-using-today/",
-      "image": "https://www.amitmerchant.com/cdn/7-game-changing-web-ui-features-you-need-to-start-using-today.png",
-      "feed_name": "Amit Merchant",
-      "feed_title": "Amit Merchant",
-      "category": "personal blogs",
-      "feed_url": "https://www.amitmerchant.com/feed.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.amitmerchant.com&sz=64"
-    },
-    {
-      "id": "https://techhub.iodigital.com/articles/spring-boot-oauth2-login-flow",
-      "title": "Spring Boot: Handling the OAuth2 Login Flow",
-      "published": "2026-10-06T00:00:00+00:00",
-      "author": "iO tech_hub",
-      "description": "How Spring Security wires up Azure AD authentication so your frontend never has to touch a token.",
-      "link": "https://techhub.iodigital.com/articles/spring-boot-oauth2-login-flow",
-      "image": null,
-      "feed_name": "iO tech_hub",
-      "feed_title": "iO tech_hub",
-      "category": "personal blogs",
-      "feed_url": "https://techhub.iodigital.com/feed.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=techhub.iodigital.com&sz=64"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
