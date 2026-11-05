@@ -1,9 +1,65 @@
 {
   "category": "World News",
-  "updated": "2026-11-05T21:33:41.061790+00:00",
+  "updated": "2026-11-05T22:03:04.952045+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo#1",
+      "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+      "published": "2026-11-05T21:56:00+00:00",
+      "author": null,
+      "description": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US mid-terms",
+      "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e01/live/e1c54f70-d958-11f1-a800-d9dce9e5aa21.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "108526746",
+      "title": "Elon Musk's Tesla and SpaceX lose over $420 billion in combined market cap after midterms",
+      "published": "2026-11-05T21:43:33+00:00",
+      "author": null,
+      "description": "Elon Musk's Tesla and SpaceX lose $420 billion in combined market cap after midterms",
+      "link": "https://www.cnbc.com/2026/11/05/tesla-spacex-stocks-fall-after-2026-midterms.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108443511-1792616630586-108443511-1792616084338-gettyimages-2297246496-AFP_C9Q98QB.jpeg?v=1792701546&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/05/world/americas/paraguay-santiago-pena-resigns.html",
+      "title": "Paraguay’s President, Santiago Peña, Quits Amid Ueno Bank Scandal",
+      "published": "2026-11-05T21:37:01+00:00",
+      "author": "Laurence Blair",
+      "description": "The president of the South American nation, Santiago Peña, has apologized for failing to prevent its worst financial crisis in decades.",
+      "link": "https://www.nytimes.com/2026/11/05/world/americas/paraguay-santiago-pena-resigns.html",
+      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-paraguay01-photo-lmhv/05int-paraguay01-photo-lmhv-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/05/world/europe/finland-fitburg-russia-ship-baltic-cables-sabotage.html",
+      "title": "Finland Sends 2 Men to Prison for Damaging Undersea Cable in Baltic Sea",
+      "published": "2026-11-05T21:34:35+00:00",
+      "author": "Amelia Nierenberg and Johanna Lemola",
+      "description": "A Finnish court convicted the captain and boatswain of a cargo ship of aggravated criminal damage in relation to an incident last year in the Gulf of Finland.",
+      "link": "https://www.nytimes.com/2026/11/05/world/europe/finland-fitburg-russia-ship-baltic-cables-sabotage.html",
+      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-finland-ship-jvkl/05int-finland-ship-jvkl-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "https://www.nytimes.com/2026/11/05/world/canada/carney-sovereignty-federal-budget-trade.html",
       "title": "Carney Asserts Canada’s Sovereignty and Vows to End Homelessness in Budget",
@@ -31,20 +87,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo#1",
-      "title": "Nvidia and SpaceX lose billions in market value as tech and AI stocks plummet",
-      "published": "2026-11-05T21:25:57+00:00",
-      "author": null,
-      "description": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US mid-terms",
-      "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e01/live/e1c54f70-d958-11f1-a800-d9dce9e5aa21.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo#0",
@@ -1571,20 +1613,6 @@
       "category": "World News",
       "feed_url": "https://www.theguardian.com/world/rss",
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/05/world/europe/finland-fitburg-russia-ship-baltic-cables-sabotage.html",
-      "title": "Finland Sends 2 Men to Prison for Damaging Undersea Cable in Baltic Sea",
-      "published": "2026-11-05T13:54:18+00:00",
-      "author": "Amelia Nierenberg and Johanna Lemola",
-      "description": "A Finnish court convicted the captain and boatswain of a cargo ship of aggravated criminal damage in relation to an incident last year in the Gulf of Finland.",
-      "link": "https://www.nytimes.com/2026/11/05/world/europe/finland-fitburg-russia-ship-baltic-cables-sabotage.html",
-      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-finland-ship-jvkl/05int-finland-ship-jvkl-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/us/a-florida-man-sold-his-georgia-home-and-paid-money-from-a-joint-account-toward-a-new-marital-house-after-a-two-year-marriage-ended-an-appeals-court-ruled-he-could-not-get-separate-credit-for-that-down-payment/articleshow/135570789.cms",
@@ -13975,34 +14003,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/us/kevin-costners-yellowstone-brought-an-estimated-2-1-million-visitors-to-montana-in-one-year-and-a-university-study-links-the-series-to-730-million-in-tourism-spending/articleshow/135451229.cms",
-      "title": "Yellowstone drew 2.1 million visitors to Montana; $730 million tourism spending",
-      "published": "2026-11-02T13:00:00+00:00",
-      "author": "TOI World Desk",
-      "description": "",
-      "link": "https://timesofindia.indiatimes.com/world/us/kevin-costners-yellowstone-brought-an-estimated-2-1-million-visitors-to-montana-in-one-year-and-a-university-study-links-the-series-to-730-million-in-tourism-spending/articleshow/135451229.cms",
-      "image": "https://static.toiimg.com/photo/msid-135451343,imgsize-987278.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "108503081",
-      "title": "Crude prices slide as investors brace for a big week",
-      "published": "2026-11-02T12:57:06+00:00",
-      "author": null,
-      "description": "Futures push higher ahead of Apple, the midterms and jobs data due Friday",
-      "link": "https://www.cnbc.com/2026/11/02/crude-prices-crater-investors-brace-for-big-week.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108478855-1793252242563-gettyimages-2265325794-US-.jpeg?v=1793376733&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     }
   ]
 }
