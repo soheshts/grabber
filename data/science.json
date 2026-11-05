@@ -1,9 +1,23 @@
 {
   "category": "science",
-  "updated": "2026-11-05T11:04:00.292915+00:00",
+  "updated": "2026-11-05T11:32:47.266835+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c5ev3wm3ng42o#1",
+      "title": "Google refused 54K-name petition, say campaigners",
+      "published": "2026-11-05T11:30:03+00:00",
+      "author": null,
+      "description": "Campaigners oppose the development of a large data centre on a wildlife site at Thurrock.",
+      "link": "https://www.bbc.co.uk/news/articles/c5ev3wm3ng42o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cca/live/7b91b3d0-d90b-11f1-93e1-3b657b665bcf.jpg",
+      "feed_name": "BBC News - Science & Environment",
+      "feed_title": "BBC News",
+      "category": "science",
+      "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
     {
       "id": "6aeb99b5079f98228327c10a",
       "title": "Particle Physicists Are Getting a First Glimpse Into the ‘Zeptoverse’",
@@ -45,6 +59,20 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "65555d50-c8bd-11f1-bbcb-cb9c9266f358",
+      "title": "Could ultrasound interrupt the brain’s addiction loop? [Sponsored]",
+      "published": "2026-11-05T10:00:00+00:00",
+      "author": "Scientific American",
+      "description": "Addiction hijacks the brain’s reward circuitry, and current treatments often struggle to break its grip. In this episode, neuroscientist and neurosurgeon Ali Rezai of the WVU Rockefeller Neuroscience Institute explains how an experimental, noninvasive focused-ultrasound treatment aimed at the nucleus accumbens could quiet cravings so that therapy and medication work better. He also describes how wearables and AI might flag people at risk of relapse before it happens. This podcast was produced f…",
+      "link": null,
+      "image": null,
+      "feed_name": "60-Second Science",
+      "feed_title": "60-Second Science",
+      "category": "science",
+      "feed_url": "http://rss.sciam.com/sciam/60secsciencepodcast",
+      "feed_icon": "https://megaphone.imgix.net/podcasts/9e578524-a403-11ee-a6cf-cbcdcc0e11fb/image/ec5ff1c72de2a19d67bc6425661674b1.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
     },
     {
       "id": "news713074236",
@@ -13970,34 +13998,6 @@
       "description": "How did the human brain become so much larger than that of our closest evolutionary relatives? Part of the answer lies not in new genes, but in how humans and non-human apes use the genes they share. Using brain organoids grown from stem cells, an international team led by Prof. Mareike Albert at TUD Dresden University of Technology compared early brain development in humans, chimpanzees, and gorillas.",
       "link": "https://phys.org/news/2026-10-human-brain-humans-great-apes.html",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/what-makes-us-human-re.jpg",
-      "feed_name": "Phys.org - latest science and technology news stories",
-      "feed_title": "Phys.org - latest science and technology news stories",
-      "category": "science",
-      "feed_url": "https://phys.org/rss-feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "news712333651",
-      "title": "Autonomous rendezvous system overcomes simulated spacecraft failures in lab tests",
-      "published": "2026-10-27T20:00:03+00:00",
-      "author": null,
-      "description": "There is a problem in low Earth orbit, and it's growing. According to the European Space Agency, there are about 19,440 satellites on orbit, 3,540 of which are nonfunctioning and/or not emitting a signal to warn other spacecraft of their location. The need to service these sleepwalking satellites in space will only increase as more are launched.",
-      "link": "https://phys.org/news/2026-10-autonomous-rendezvous-simulated-spacecraft-failures.html",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cortex-the-brains-behi-1.jpg",
-      "feed_name": "Phys.org - latest science and technology news stories",
-      "feed_title": "Phys.org - latest science and technology news stories",
-      "category": "science",
-      "feed_url": "https://phys.org/rss-feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "news712315167",
-      "title": "Cooperation in fish: Study reveals a social complexity seen mainly in birds, mammals",
-      "published": "2026-10-27T20:00:01+00:00",
-      "author": null,
-      "description": "In some group-living animals, individuals other than the parents help care for offspring. This breeding system, known as cooperative breeding, is thought to have evolved from monogamous family groups in which offspring remain in their natal group and engage in various cooperative behaviors, including helping to care for younger siblings. Cooperative breeding has been documented in mammals and birds.",
-      "link": "https://phys.org/news/2026-10-cooperation-fish-reveals-social-complexity.html",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cooperation-in-fish-li.jpg",
       "feed_name": "Phys.org - latest science and technology news stories",
       "feed_title": "Phys.org - latest science and technology news stories",
       "category": "science",
