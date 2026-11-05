@@ -1,6 +1,6 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-05T19:03:04.388633+00:00",
+  "updated": "2026-11-05T19:33:19.761794+00:00",
   "count": 442,
   "summary": null,
   "items": [
@@ -31,6 +31,20 @@
       "category": "personal blogs",
       "feed_url": "https://feedpress.me/baldurbjarnason",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.baldurbjarnason.com&sz=64"
+    },
+    {
+      "id": "https://www.raymondcamden.com/2026/11/05/getting-structured-data-from-web-pages-with-ai-and-re-usable-specs",
+      "title": "Getting Structured Data from Web Pages with AI and Re-usable Specs",
+      "published": "2026-11-05T18:00:00+00:00",
+      "author": "Raymond Camden",
+      "description": "As I say from time to time, every now and then I build something as a proof of concept and the result is... ok? I'm not really sure if the idea actually made sense and if the final result is usable, but the exploration was interesting enough that I think it warrants sharing with you good people. That's what today's post is. This demo all began with a simple idea - how do you handle getting RSS like content from a site that doesn't actually have an RSS feed? This typically relies on looking at t…",
+      "link": "https://www.raymondcamden.com/2026/11/05/getting-structured-data-from-web-pages-with-ai-and-re-usable-specs",
+      "image": "https://static.raymondcamden.com/images/banners/cat-stove.jpg",
+      "feed_name": "Raymond Camden",
+      "feed_title": "Raymond Camden",
+      "category": "personal blogs",
+      "feed_url": "https://www.raymondcamden.com/feed.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.raymondcamden.com&sz=64"
     },
     {
       "id": "https://paulrobertlloyd.com/2026/309/j1/",
@@ -5463,20 +5477,6 @@
       "category": "personal blogs",
       "feed_url": "https://ronaldsvilcins.com/atom.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=ronaldsvilcins.com&sz=64"
-    },
-    {
-      "id": "tag:til.simonwillison.net,2020-04-30:datasette_datasette-parseable-opentelemetry.md",
-      "title": "Using Parseable with Datasette for OpenTelemetry traces",
-      "published": "2026-10-06T19:07:31+00:00",
-      "author": "Simon Willison",
-      "description": "Parseable is a brand new observability tool, compatible with OpenTelemetry , for storing and querying observability data. Datasette 1.0a41 added support for OpenTelemetry tracing, contributed by Alex Garcia . Here's how I ran the two together, giving me neat local visualizations of traces of Datasette responses. Installing Parseable I used the open source release of Parseable from their GitHub releases - I tried v3.2.4 . They have a macOS Apple Silicon release (a 171MB download) which I downloa…",
-      "link": "https://til.simonwillison.net/datasette/datasette-parseable-opentelemetry",
-      "image": "https://raw.githubusercontent.com/simonw/til/refs/heads/main/datasette/datasette-parsable.webp",
-      "feed_name": "Simon Willison TIL",
-      "feed_title": "Simon Willison TIL",
-      "category": "personal blogs",
-      "feed_url": "https://til.simonwillison.net/tils/feed.atom",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=til.simonwillison.net&sz=64"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
