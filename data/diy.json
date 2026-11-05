@@ -1,9 +1,51 @@
 {
   "category": "DIY",
-  "updated": "2026-11-05T15:32:29.709609+00:00",
-  "count": 807,
+  "updated": "2026-11-05T16:32:29.788941+00:00",
+  "count": 810,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.howtogeek.com/your-pcs-bios-is-a-black-box-that-even-open-source-firmware-cant-completely-replace/",
+      "title": "Your PC's BIOS is a black box that even open-source firmware can't completely replace",
+      "published": "2026-11-05T16:30:16+00:00",
+      "author": "Ismar Hrnjicevic",
+      "description": "You can make your PC more open, but you can't make it fully open-source.",
+      "link": "https://www.howtogeek.com/your-pcs-bios-is-a-black-box-that-even-open-source-firmware-cant-completely-replace/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2025/03/52865452270_e771b634a6_o.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.makeuseof.com/redesign-windows-file-explorer-start-menu-settings-app-with-windhawk/",
+      "title": "I gave Windows File Explorer, Start menu, and the Settings app a makeover with this free tool",
+      "published": "2026-11-05T16:01:17+00:00",
+      "author": "Pankil Shah",
+      "description": "These apps have never looked this attractive.",
+      "link": "https://www.makeuseof.com/redesign-windows-file-explorer-start-menu-settings-app-with-windhawk/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/windows-monitor-showing-file-explorer-settings-and-start-menu.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/your-android-tv-box-could-have-come-with-malware-already-installed/",
+      "title": "Your Android TV box could have come with malware already installed",
+      "published": "2026-11-05T16:01:15+00:00",
+      "author": "Rich Hein",
+      "description": "Some Android TV boxes shipped with malware already installed. Find out which models were implicated and what owners should do next.",
+      "link": "https://www.howtogeek.com/your-android-tv-box-could-have-come-with-malware-already-installed/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/2026-11-03-09_30_11-greenshot.png",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/my-router-shows-whos-on-wifi-but-this-free-app-tells-me-whos-been-there/",
       "title": "My router shows who's on my Wi-Fi, but this free app tells me who's been there",

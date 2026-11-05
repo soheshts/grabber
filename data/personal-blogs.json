@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-05T15:32:29.709609+00:00",
-  "count": 444,
+  "updated": "2026-11-05T16:32:29.788941+00:00",
+  "count": 441,
   "summary": null,
   "items": [
     {
@@ -5463,48 +5463,6 @@
       "category": "personal blogs",
       "feed_url": "https://matthiasott.com/rss",
       "feed_icon": "https://www.google.com/s2/favicons?domain=matthiasott.com&sz=64"
-    },
-    {
-      "id": "https://chriscoyier.net/?p=14078",
-      "title": "Kelsey",
-      "published": "2026-10-06T16:05:46+00:00",
-      "author": "Chris Coyier",
-      "description": "My sister is in a currently-running-on-TV political ad. It’s against the republican chucklefuck Tom Tiffany who was one of those anti-American dingleberries that claimed Biden “stole the election” and thinks Trumps tariff plans are super neato. Kelsey’s journey with healthcare insurance has been pretty rough. She gets denied for medications and treatments all the time, […]",
-      "link": "https://chriscoyier.net/2026/10/06/kelsey/",
-      "image": null,
-      "feed_name": "Chris Coyier",
-      "feed_title": "Chris Coyier",
-      "category": "personal blogs",
-      "feed_url": "https://chriscoyier.net/feed/",
-      "feed_icon": "https://i0.wp.com/chriscoyier.net/wp-content/uploads/2021/07/IsUISvAq_400x400.jpg?fit=32%2C32&quality=89&ssl=1"
-    },
-    {
-      "id": "https://christianheilmann.com/?p=10308",
-      "title": "TLDRs newsletters are TLDR so I wrote a converter that gets all the important links",
-      "published": "2026-10-06T15:52:53+00:00",
-      "author": "Chris Heilmann",
-      "description": "Much like a lot of other people, I subscribe to quite a few of the newsletters of TLDR. As I re-use the things I found there in own publications, I did find the newsletters – ironically – not quite succinct enough to go through them quickly. I wanted to skip sponsored sections and other cruft, […]",
-      "link": "https://christianheilmann.com/2026/10/06/tldrs-newsletters-are-tldr-so-i-wrote-a-converter-that-gets-all-the-important-links/",
-      "image": null,
-      "feed_name": "Christian Heilmann",
-      "feed_title": "Christian Heilmann",
-      "category": "personal blogs",
-      "feed_url": "http://feeds.feedburner.com/chrisheilmann",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=christianheilmann.com&sz=64"
-    },
-    {
-      "id": "https://daverupert.com/2026/10/html-recursion/",
-      "title": "Recursion is DEAD and HTML killed it",
-      "published": "2026-10-06T15:36:00+00:00",
-      "author": null,
-      "description": "There’s a new web platform feature flighting in Chromium called Declarative Partial Updates . This proposal adds a new <?marker> element which enables out-of-order streaming of content. Rather than the traditional way of building the HTML you need on the server, or sending JSON down to a JavaScript framework, you can staple HTML onto the initial response and use the <template for=\"\"> syntax to inject that content into the <?marker name=\"\"> placeholder. A simple example of this would be: <!-- NO…",
-      "link": "https://daverupert.com/2026/10/html-recursion/",
-      "image": null,
-      "feed_name": "Dave Rupert",
-      "feed_title": "daverupert.com",
-      "category": "personal blogs",
-      "feed_url": "https://daverupert.com/atom.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=daverupert.com&sz=64"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
