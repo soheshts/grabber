@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-05T17:03:57.134254+00:00",
-  "count": 814,
+  "updated": "2026-11-05T17:33:43.532954+00:00",
+  "count": 816,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/eufy-essential-alarm-system-review/",
+      "title": "If I were starting over, I’d skip Ring and buy this alarm system instead",
+      "published": "2026-11-05T17:30:17+00:00",
+      "author": "Jonathon Jachura",
+      "description": "This subscription-less home security system is on-par with other leading brands.",
+      "link": "https://www.makeuseof.com/eufy-essential-alarm-system-review/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/eufy-alarm-system-retail-box-angled.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/5-docker-containers-that-make-managing-a-linux-server-easier/",
+      "title": "5 Docker containers that make my Linux server easier to maintain",
+      "published": "2026-11-05T17:30:16+00:00",
+      "author": "Umair Khurshid",
+      "description": "Running a server gets complicated quickly. These tools help keep things under control!",
+      "link": "https://www.howtogeek.com/5-docker-containers-that-make-managing-a-linux-server-easier/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/04/a-lenovo-rd440-rack-mount-server-mounted-to-a-27u-rack-in-a-homelab.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/windows-laptop-shouldnt-losing-battery-overnight/",
       "title": "Your Windows laptop shouldn't be losing this much battery overnight",

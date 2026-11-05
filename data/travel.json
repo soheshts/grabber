@@ -1,9 +1,37 @@
 {
   "category": "travel",
-  "updated": "2026-11-05T17:03:57.134254+00:00",
-  "count": 122,
+  "updated": "2026-11-05T17:33:43.532954+00:00",
+  "count": 123,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/11/02/world/europe/pope-plane-shepherd-one-flights.html",
+      "title": "Up in the Clouds With the Pope, It’s Still Commercial",
+      "published": "2026-11-05T17:19:41+00:00",
+      "author": "Motoko Rich",
+      "description": "Unlike American presidents, Pope Leo XIV has no private jet, so he travels on commercial airlines, like the rest of us. Well, almost.",
+      "link": "https://www.nytimes.com/2026/11/02/world/europe/pope-plane-shepherd-one-flights.html",
+      "image": "https://static01.nyt.com/images/2026/10/08/multimedia/08pope-plane-01-wfpl/08pope-plane-01-wfpl-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Travel",
+      "feed_title": "NYT > Travel",
+      "category": "travel",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.atlasobscura.com/places/ta-ma-stream",
+      "title": "Tà Má Stream in Vietnam",
+      "published": "2026-11-05T17:00:00+00:00",
+      "author": null,
+      "description": "Hidden deep within the remote highlands of Vinh Thanh district, Ta Ma Stream offers an arresting departure from the sun-drenched beaches of the coast. Flowing with icy, crystal-clear water year-round, the stream carves its way through a primeval woodland guarded for generations by the indigenous Ba Na community of Ha Ri village. Its most surreal transformation occurs around March, when an ancient forest of century-old wild ixora (hoa trang) trees bursts into brilliant canopies of fiery red and…",
+      "link": "https://www.atlasobscura.com/places/ta-ma-stream",
+      "image": "https://img.atlasobscura.com/NNCGUFcXAkWsfU46_KMiy7FH0pl2SEG0RUnLKIv7ujY/rs:fill:300:200:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9jYzgw/MjVmMy05OTQ3LTQw/YjUtOTMyNy1kZDBk/N2FhYzYwMWM5Y2Yx/MGNlYTU4ZWExMGFm/YThfMTAwMDAxMTAz/My5wbmc.png",
+      "feed_name": "Atlas Obscura - Latest Articles and Places",
+      "feed_title": "Atlas Obscura - Latest Articles and Places",
+      "category": "travel",
+      "feed_url": "https://www.atlasobscura.com/feeds/latest",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.atlasobscura.com&sz=64"
+    },
     {
       "id": "https://www.atlasobscura.com/places/gods-house-tower",
       "title": "Gods House Tower in Southampton, England",
@@ -255,20 +283,6 @@
       "category": "travel",
       "feed_url": "https://www.theguardian.com/uk/travel/rss",
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/02/world/europe/pope-plane-shepherd-one-flights.html",
-      "title": "Up in the Clouds With the Pope, It’s Still Commercial",
-      "published": "2026-11-02T21:26:15+00:00",
-      "author": "Motoko Rich",
-      "description": "Unlike American presidents, Pope Leo XIV has no private jet, so he travels on commercial airlines, like the rest of us. Well, almost.",
-      "link": "https://www.nytimes.com/2026/11/02/world/europe/pope-plane-shepherd-one-flights.html",
-      "image": "https://static01.nyt.com/images/2026/10/08/multimedia/08pope-plane-01-wfpl/08pope-plane-01-wfpl-mediumSquareAt3X.jpg",
-      "feed_name": "NYT > Travel",
-      "feed_title": "NYT > Travel",
-      "category": "travel",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://www.nytimes.com/2026/11/02/travel/odyssey-cruise-ship-cambodia-auction.html",
