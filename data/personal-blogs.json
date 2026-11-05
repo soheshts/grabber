@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-05T14:03:55.489518+00:00",
-  "count": 443,
+  "updated": "2026-11-05T14:33:52.777166+00:00",
+  "count": 444,
   "summary": null,
   "items": [
     {
@@ -31,6 +31,20 @@
       "category": "personal blogs",
       "feed_url": "https://manuelmoreale.com/feed/rss",
       "feed_icon": "https://manuelmoreale.com/media/site/768b30cae2-1759134593/avatar.jpg"
+    },
+    {
+      "id": "https://ronaldsvilcins.com/2026/11/05/keep-anchor-links-below-sticky-headers-with-scroll-margin/",
+      "title": "Keep Anchor Links Below Sticky Headers With scroll-margin",
+      "published": "2026-11-05T06:00:00+00:00",
+      "author": "Ronalds Vilciņš",
+      "description": "scroll-margin keeps anchor targets clear of sticky headers. Set a useful offset, account for changing header heights, and keep smooth scrolling optional.",
+      "link": "https://ronaldsvilcins.com/2026/11/05/keep-anchor-links-below-sticky-headers-with-scroll-margin/",
+      "image": "https://ronaldsvilcins.com/og/b9b916a4663dd449bae0177eb6aea231bcd7cc78e20752e849c323d017d12255.jpg",
+      "feed_name": "Ronalds Vilciņš",
+      "feed_title": "Ronalds Vilciņš",
+      "category": "personal blogs",
+      "feed_url": "https://ronaldsvilcins.com/atom.xml",
+      "feed_icon": "https://ronaldsvilcins.com/favicon.png"
     },
     {
       "id": "https://paulrobertlloyd.com/2026/309/n1/",
