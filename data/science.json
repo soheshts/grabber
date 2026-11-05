@@ -1,9 +1,37 @@
 {
   "category": "science",
-  "updated": "2026-11-05T21:03:16.031807+00:00",
+  "updated": "2026-11-05T21:33:41.061790+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "news713111282",
+      "title": "Physicist develops detector capable of counting photons for quantum computing",
+      "published": "2026-11-05T21:20:09+00:00",
+      "author": null,
+      "description": "Detecting a single photon is a challenge in itself. But what if you also want to know exactly how many photons arrive at a particular point at the same time? Physicist Erik Baalbergen is working on light detectors that can do just that. They form a key building block for the optical quantum computer of the future.",
+      "link": "https://phys.org/news/2026-11-physicist-detector-capable-photons-quantum.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/leiden-physicist-devel.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "news713095461",
+      "title": "Citizen science program helps find exotic ticks",
+      "published": "2026-11-05T21:20:06+00:00",
+      "author": null,
+      "description": "Climate change is affecting not only our weather but also the distribution of parasites and the diseases they can carry. One example is the growing presence of Hyalomma ticks in parts of Europe where they were previously uncommon. These ticks are of particular interest because they can transmit Crimean-Congo hemorrhagic fever virus (CCHFV), a pathogen that can cause serious, sometimes life-threatening illness in humans. Hyalomma ticks are typically found in warm and dry regions of Africa, Asia…",
+      "link": "https://phys.org/news/2026-11-citizen-science-exotic.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-to-find-exotic-tic.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
     {
       "id": "news713094620",
       "title": "As Antarctic blue whales advance along the road to recovery, continued oversight is key",
@@ -175,7 +203,7 @@
     {
       "id": "https://www.nytimes.com/2026/11/05/climate/climate-environment-ballot-meaures-midterms.html",
       "title": "Environmental Ballot Wins",
-      "published": "2026-11-05T19:40:21+00:00",
+      "published": "2026-11-05T19:40:22+00:00",
       "author": "Scott Dance",
       "description": "Voters around the country approved measures on conservation, water and data centers on Tuesday.",
       "link": "https://www.nytimes.com/2026/11/05/climate/climate-environment-ballot-meaures-midterms.html",
@@ -13975,34 +14003,6 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "news712321742",
-      "title": "Major Southern Hemisphere ocean layer shifts, raising questions about heat and carbon storage",
-      "published": "2026-10-28T10:00:01+00:00",
-      "author": null,
-      "description": "The Antarctic Intermediate Water (AAIW)—a vast layer of fresh water spanning much of the Southern Hemisphere's ocean—has rapidly reversed its long-term trends in salinity and density, according to new research. The AAIW helps store carbon, supply oxygen and drive global ocean currents.",
-      "link": "https://phys.org/news/2026-10-major-southern-hemisphere-ocean-layer.html",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/antarctic-sea-ice-loss.jpg",
-      "feed_name": "Phys.org - latest science and technology news stories",
-      "feed_title": "Phys.org - latest science and technology news stories",
-      "category": "science",
-      "feed_url": "https://phys.org/rss-feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "https://www.scientificamerican.com/article/7-spooky-bat-facts-right-in-time-for-halloween/",
-      "title": "7 spooky bat facts—right in time for Halloween",
-      "published": "2026-10-28T10:00:00+00:00",
-      "author": null,
-      "description": "Bats deserve a little more love",
-      "link": "https://www.scientificamerican.com/article/7-spooky-bat-facts-right-in-time-for-halloween/",
-      "image": "https://static.scientificamerican.com/dam/asset/ddb7b41b-91e1-44ca-92d0-f539ffd524ff/bat.jpg?m=1793022992.053&w=1200",
-      "feed_name": "Scientific American Content: Global",
-      "feed_title": "Scientific American Content: Global",
-      "category": "science",
-      "feed_url": "http://rss.sciam.com/ScientificAmerican-Global",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.scientificamerican.com&sz=64"
     }
   ]
 }
