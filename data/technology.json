@@ -1,9 +1,51 @@
 {
   "category": "technology",
-  "updated": "2026-11-05T20:32:50.335098+00:00",
+  "updated": "2026-11-05T21:03:16.031807+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.theverge.com/?p=1028178",
+      "title": "Blue Origin’s next launch now won’t happen until 2027",
+      "published": "2026-11-05T20:47:14+00:00",
+      "author": "Jay Peters",
+      "description": "Blue Origin plans to do its next New Glenn rocket launch in January 2027, according to CNBC and the Financial Times, which cite a memo from CEO Dave Limp sent to staff. The new timeline follows a May launchpad explosion that damaged Blue Origin's New Glenn launchpad ahead of a flight that would have brought […]",
+      "link": "https://www.theverge.com/science/1028178/blue-origins-next-launch-now-wont-happen-until-2027",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2281421326.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "feed_name": "The Verge -  All Posts",
+      "feed_title": "The Verge",
+      "category": "technology",
+      "feed_url": "https://www.theverge.com/rss/index.xml",
+      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
+    },
+    {
+      "id": "TheNextWeb=b0ff03694c04366a1977f85b6fddf861",
+      "title": "Anthropic lets Claude read your bank accounts, but not move money",
+      "published": "2026-11-05T20:39:47+00:00",
+      "author": "Ana Maria Constantin",
+      "description": "Anthropic launched Personal Finance, a beta that lets US Claude subscribers on Pro, Max and Ultra link bank and card accounts through Plaid and ask about their spending. Claude can read balances and transactions but cannot move money, and the feature has no ads. Anthropic is letting some Claude subscribers in the US connect their […] This story continues at The Next Web",
+      "link": "https://thenextweb.com/news/anthropic-claude-personal-finance-plaid-read-only-beta",
+      "image": "https://media.thenextweb.com/2026/11/claude-personal-finance-beta-app-screen-iphone.avif",
+      "feed_name": "The Next Web",
+      "feed_title": "The Next Web",
+      "category": "technology",
+      "feed_url": "https://thenextweb.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
+    {
+      "id": "https://www.engadget.com/2308483/a-bioware-documentary-is-set-to-arrive-next-year/",
+      "title": "A BioWare documentary is set to arrive next year",
+      "published": "2026-11-05T20:33:13+00:00",
+      "author": "Kris Holt",
+      "description": "Massive Effect: The BioWare Story started filming two years before EA shut down the studio.",
+      "link": "https://www.engadget.com/2308483/a-bioware-documentary-is-set-to-arrive-next-year/",
+      "image": "https://www.engadget.com/img/gallery/a-bioware-documentary-is-set-to-arrive-next-year/l-intro-1793910593.jpg",
+      "feed_name": "Engadget",
+      "feed_title": "Engadget - Technology News & Expert Reviews",
+      "category": "technology",
+      "feed_url": "https://www.engadget.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
     {
       "id": "yt:video:wMc2dG3_Qe4",
       "title": "Does listening to an audiobook count as reading? #Vergecast",
@@ -75,6 +117,20 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
     },
     {
+      "id": "https://arstechnica.com/science/2026/11/getting-software-to-help-block-out-a-star-so-we-can-see-exoplanets/",
+      "title": "Software squeezes more data out of Webb Telescope for imaging exoplanets",
+      "published": "2026-11-05T19:59:22+00:00",
+      "author": "John Timmer",
+      "description": "Software optimizes a physical model of the telescope to reduce noise.",
+      "link": "https://arstechnica.com/science/2026/11/getting-software-to-help-block-out-a-star-so-we-can-see-exoplanets/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/image-1-500x500.png",
+      "feed_name": "Ars Technica",
+      "feed_title": "Ars Technica - All content",
+      "category": "technology",
+      "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
+      "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
+    },
+    {
       "id": "https://www.engadget.com/2308419/tiktok-just-released-a-standalone-shop-app-but-its-not-in-america-just-yet/",
       "title": "TikTok just released a standalone Shop app, but it's not in America just yet",
       "published": "2026-11-05T19:58:23+00:00",
@@ -101,6 +157,20 @@
       "category": "technology",
       "feed_url": "https://www.engadget.com/rss.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
+    {
+      "id": "https://arstechnica.com/tech-policy/2026/11/kalshi-court-losses-pile-up-as-judges-refuse-to-block-state-gambling-laws/",
+      "title": "Kalshi court losses pile up as judges refuse to block state gambling laws",
+      "published": "2026-11-05T19:46:37+00:00",
+      "author": "Jon Brodkin",
+      "description": "Kalshi can't avoid gambling law by claiming it doesn't offer gambling, state AG says.",
+      "link": "https://arstechnica.com/tech-policy/2026/11/kalshi-court-losses-pile-up-as-judges-refuse-to-block-state-gambling-laws/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/kalshi-ad-500x500-1783536860.jpg",
+      "feed_name": "Ars Technica",
+      "feed_title": "Ars Technica - All content",
+      "category": "technology",
+      "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
+      "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
     },
     {
       "id": "https://www.engadget.com/2308376/warby-parker-seemingly-spilled-the-beans-on-googles-android-xr-smart-glasses-launch/",
@@ -202,7 +272,7 @@
     },
     {
       "id": "https://arstechnica.com/health/2026/11/is-maha-dying-or-will-it-be-reborn-whats-next-after-crushing-midterm-losses/",
-      "title": "Is MAHA dying—or will it be reborn? What's next after crushing midterm losses?",
+      "title": "MAHA lost bigly in the midterms—is it at death's door?",
       "published": "2026-11-05T18:49:41+00:00",
       "author": "Beth Mole",
       "description": "RFK Jr.'s Make America Healthy Again movement was in trouble before voting began.",
@@ -13933,76 +14003,6 @@
       "category": "technology",
       "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
       "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
-    },
-    {
-      "id": "https://www.engadget.com/2301241/tsa-electronics-red-flags/",
-      "title": "Traveling with electronics? These 5 items could raise TSA red flags",
-      "published": "2026-10-31T15:45:00+00:00",
-      "author": "Christine Persaud",
-      "description": "Travel is stressful enough. Here's what you should know about TSA rules on traveling with tech.",
-      "link": "https://www.engadget.com/2301241/tsa-electronics-red-flags/",
-      "image": "https://www.engadget.com/img/gallery/traveling-with-electronics-these-5-items-could-raise-tsa-red-flags/l-intro-1793277794.jpg",
-      "feed_name": "Engadget",
-      "feed_title": "Engadget - Technology News & Expert Reviews",
-      "category": "technology",
-      "feed_url": "https://www.engadget.com/rss.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
-    },
-    {
-      "id": "https://www.engadget.com/2299191/amazon-fire-tv-stick-setting-better-audio/",
-      "title": "The Amazon Fire TV Stick setting you should try for better audio",
-      "published": "2026-10-31T15:30:00+00:00",
-      "author": "Adnan Ahmed",
-      "description": "Dialogue is an important part of any movie or TV show, but it isn't always as clear as we would like. Amazon's Fire TV Stick has a solution.",
-      "link": "https://www.engadget.com/2299191/amazon-fire-tv-stick-setting-better-audio/",
-      "image": "https://www.engadget.com/img/gallery/the-amazon-fire-tv-stick-setting-you-should-try-for-better-audio/l-intro-1793163251.jpg",
-      "feed_name": "Engadget",
-      "feed_title": "Engadget - Technology News & Expert Reviews",
-      "category": "technology",
-      "feed_url": "https://www.engadget.com/rss.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
-    },
-    {
-      "id": "04vwRsu1IayuU1knIBGAOV6",
-      "title": "HBO teases a new season of It: Welcome to Derry with 30-minute Halloween special",
-      "published": "2026-10-31T15:25:33+00:00",
-      "author": null,
-      "description": "HBO teases a new season of 'It: Welcome to Derry' with 30-minute Halloween special",
-      "link": "https://mashable.com/entertainment/hbo-teases-a-new-season-of-it-welcome-to-derry-with-30-minute-halloween",
-      "image": "https://helios-i.mashable.com/imagery/articles/04vwRsu1IayuU1knIBGAOV6/hero-image.png",
-      "feed_name": "Mashable",
-      "feed_title": "Mashable",
-      "category": "technology",
-      "feed_url": "http://feeds.mashable.com/Mashable",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
-    },
-    {
-      "id": "https://www.engadget.com/2301218/repost-with-instagram-purpose-how-to-do/",
-      "title": "What is the purpose of reposting on Instagram and how do you do it?",
-      "published": "2026-10-31T15:15:00+00:00",
-      "author": "Gabriela Vătu",
-      "description": "It's the easiest way to share posts and reels you like with all of your followers.",
-      "link": "https://www.engadget.com/2301218/repost-with-instagram-purpose-how-to-do/",
-      "image": "https://www.engadget.com/img/gallery/what-is-the-purpose-of-reposting-on-instagram-and-how-do-you-do-it/l-intro-1793280962.jpg",
-      "feed_name": "Engadget",
-      "feed_title": "Engadget - Technology News & Expert Reviews",
-      "category": "technology",
-      "feed_url": "https://www.engadget.com/rss.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
-    },
-    {
-      "id": "https://www.theverge.com/?p=1024058",
-      "title": "Windows 11 tries new shortcuts for Xbox gaming mode and search",
-      "published": "2026-10-31T15:12:19+00:00",
-      "author": "Terrence O’Brien",
-      "description": "The latest Windows 11 Insider build adds some powerful new search features and quick settings while in Xbox mode. The Xbox shortcuts let you control things like Bluetooth, WiFi, and power settings without having to exit gaming mode. The search improvements are quite comprehensive. You can now filter results for files, actions, or web results. […]",
-      "link": "https://www.theverge.com/tech/1024058/windows-11-search-improvements-xbox-quick-settings",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/10d-outlook-filterresults.png?quality=90&strip=all&crop=0,0,100,100",
-      "feed_name": "The Verge -  All Posts",
-      "feed_title": "The Verge",
-      "category": "technology",
-      "feed_url": "https://www.theverge.com/rss/index.xml",
-      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
     }
   ]
 }
