@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-05T13:03:52.826203+00:00",
-  "count": 792,
+  "updated": "2026-11-05T13:33:41.623988+00:00",
+  "count": 794,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/how-to-search-steam-users/",
+      "title": "How to Search Steam for Specific Users",
+      "published": "2026-11-05T13:30:17+00:00",
+      "author": "Brad R. Edwards",
+      "description": "Want to quickly contact other Steam users? We'll outline a few ways you can search for them.",
+      "link": "https://www.makeuseof.com/how-to-search-steam-users/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/04/steam-big-picture-mode-with-pc.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/clever-way-to-power-wi-fi-and-phones-with-ryobi-battery/",
+      "title": "I turned my Ryobi battery into backup power for my Wi-Fi router and phone",
+      "published": "2026-11-05T13:30:16+00:00",
+      "author": "Cory Gunther",
+      "description": "Everyone can appreciate extra backup power during an emergency outage.",
+      "link": "https://www.howtogeek.com/clever-way-to-power-wi-fi-and-phones-with-ryobi-battery/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/ryobi-battery-and-power-source-powering-wifi-router-1.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/windows-11-performance-tweaks-dont-solve-problem-you-think/",
       "title": "Most Windows 11 performance tweaks don't solve the problem you think they're solving",
