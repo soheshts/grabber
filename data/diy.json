@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-06T21:02:29.806856+00:00",
-  "count": 911,
+  "updated": "2026-11-06T21:33:18.851605+00:00",
+  "count": 914,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/jellyfin-plugins-that-make-it-feel-better-than-plex/",
+      "title": "5 Jellyfin plugins that make it feel better than Plex",
+      "published": "2026-11-06T21:31:17+00:00",
+      "author": "Oliver Haslam",
+      "description": "Upgrade your movie and TV show-watching experience",
+      "link": "https://www.makeuseof.com/jellyfin-plugins-that-make-it-feel-better-than-plex/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/jellyfin-on-ipad-and-desktop-tailscale.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/i-tried-an-open-source-android-auto-alternative-in-my-car-and-it-beats-googles-version-in-every-way-but-one/",
+      "title": "I tried an open-source Android Auto alternative in my car, and it beats Google's version in every way but one",
+      "published": "2026-11-06T21:31:16+00:00",
+      "author": "Joe Fedewa",
+      "description": "Sideloaded apps and choose your own voice assistant.",
+      "link": "https://www.howtogeek.com/i-tried-an-open-source-android-auto-alternative-in-my-car-and-it-beats-googles-version-in-every-way-but-one/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/aare-running-on-a-car-display.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/5-signs-your-android-battery-problem-isnt-the-battery/",
       "title": "5 signs your Android battery problem isn’t the battery",
@@ -31,6 +59,20 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://hackaday.com/?p=1398217",
+      "title": "MousePods Reverse Engineers Head Tracking Data From Stubborn AirPods",
+      "published": "2026-11-06T21:00:14+00:00",
+      "author": "Donald Papp",
+      "description": "[Matteo Gaudioso] released MousePods, a Python tool which accesses the motion sensors in Apple AirPods on Linux, turning them into mouse input. No Apple host required. Doing this required reverse-engineering …read more",
+      "link": "https://hackaday.com/2026/11/06/mousepods-reverse-engineers-head-tracking-data-from-stubborn-airpods/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/MousePods-anim-optimized.gif",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
     },
     {
       "id": "https://www.makeuseof.com/windows-11-new-start-menu-usable-settings/",
