@@ -1,9 +1,65 @@
 {
   "category": "DIY",
-  "updated": "2026-11-06T16:32:18.544983+00:00",
-  "count": 884,
+  "updated": "2026-11-06T17:04:00.783988+00:00",
+  "count": 889,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/delete-large-folders-faster-windows/",
+      "title": "Windows File Explorer makes deleting large folders painfully slow, but there's a faster way",
+      "published": "2026-11-06T17:00:18+00:00",
+      "author": "Tashreef Shareef",
+      "description": "Skip the slow file counting and wipe huge folders from the command line.",
+      "link": "https://www.makeuseof.com/delete-large-folders-faster-windows/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/windows-file-explorer-showing-devices-and-drives-with-multiple-storage-volumes.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/jailbroken-kindle-settings-look-like-real-book/",
+      "title": "I changed these settings on my jailbroken Kindle, and now everything looks like a real book",
+      "published": "2026-11-06T17:00:17+00:00",
+      "author": "Adam Davidson",
+      "description": "Margin Chuzzlewit.",
+      "link": "https://www.howtogeek.com/jailbroken-kindle-settings-look-like-real-book/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/a-kindle-showing-a-page-from-jude-the-obscure-lying-on-top-of-a-physical-hardback-copy-of-tess-of-the-d-urbevilles.png",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.makeuseof.com/claude-3d-printer-absurdly-useful-combination/",
+      "title": "Claude and a 3D printer are an absurdly useful combination",
+      "published": "2026-11-06T16:46:18+00:00",
+      "author": "Yadullah Abidi",
+      "description": "I wired Claude to my 3D printers, and it's almost magic.",
+      "link": "https://www.makeuseof.com/claude-3d-printer-absurdly-useful-combination/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/claude-code-mascot-sitting-on-bambu-lab-a1-mini-3d-printer.JPG",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://hackaday.com/?p=1398078",
+      "title": "Why the ULC Audio Codec is a Perfect Fit for the N64",
+      "published": "2026-11-06T16:30:48+00:00",
+      "author": "Maya Posch",
+      "description": "Although the Nintendo 64 could deliver solid 3D graphics with assets loaded at a blistering speed from the game cartridge, audi0-wise it was a bit more hampered. The main challenge …read more",
+      "link": "https://hackaday.com/2026/11/06/why-the-ulc-audio-codec-is-a-perfect-fit-for-the-n64/",
+      "image": "https://hackaday.com/wp-content/uploads/2020/12/n64-featured.jpg",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/my-favorite-laptop-for-local-ai-doesnt-use-rtx-spark-or-strix-halo-its-the-third-option-everyone-underestimates/",
       "title": "My favorite laptop for local AI doesn't use RTX Spark or Strix Halo, it's the third option everyone underestimates",
@@ -17,6 +73,20 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://hackaday.com/?p=1398023",
+      "title": "This Week in Security: More Linux Bugs, Biggest Crypto Theft Ever, Prusa Printers, Residential Proxies",
+      "published": "2026-11-06T16:21:04+00:00",
+      "author": "Mike Kershaw",
+      "description": "Linux kernel bugs which can be triggered remotely, without any login, are rare. Most kernel vulnerabilities need an attacker to already be running code on the machine. CVE-2026-98432 is one of those: …read more",
+      "link": "https://hackaday.com/2026/11/06/this-week-in-security-more-linux-bugs-biggest-crypto-theft-ever-prusa-printers-residential-proxies/",
+      "image": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaGFja2FkYXkuY29tXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDIwXC8wN1wvaGFja2FkYXktbG9nby13aXRoLXRleHQtb3BlbmdyYXBoLWRlZmF1bHQtaW1hZ2UuanBnIiwidHh0IjoiSGFja2FkYXkiLCJ0ZW1wbGF0ZSI6ImhpZ2h3YXkiLCJmb250IjoiIiwiYmxvZ19pZCI6MTU2NjcwMTc3fQ.kVPxWrsIQyGdD1cPoxYvzP1mD56qtpkNpW1nAFiZiIgMQ",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
     },
     {
       "id": "https://www.makeuseof.com/dune-david-lynch-denis-villeneuve/",
