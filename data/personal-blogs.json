@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-06T13:33:41.863186+00:00",
-  "count": 445,
+  "updated": "2026-11-06T14:04:42.149176+00:00",
+  "count": 446,
   "summary": null,
   "items": [
     {
@@ -73,6 +73,20 @@
       "category": "personal blogs",
       "feed_url": "https://hey.georgie.nu/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=hey.georgie.nu&sz=64"
+    },
+    {
+      "id": "https://ronaldsvilcins.com/2026/11/06/set-anchor-and-snap-insets-with-css-scroll-padding/",
+      "title": "Set Anchor and Snap Insets With CSS scroll-padding",
+      "published": "2026-11-06T06:00:00+00:00",
+      "author": "Ronalds Vilciņš",
+      "description": "scroll-padding sets a viewing inset for anchor targets and snap positions. See page, gallery, and panel examples, plus how it differs from normal padding.",
+      "link": "https://ronaldsvilcins.com/2026/11/06/set-anchor-and-snap-insets-with-css-scroll-padding/",
+      "image": "https://ronaldsvilcins.com/og/1cb6a96c72fbdf93e79466cd6211ddba23358ecf698a25606abda7218631be4f.jpg",
+      "feed_name": "Ronalds Vilciņš",
+      "feed_title": "Ronalds Vilciņš",
+      "category": "personal blogs",
+      "feed_url": "https://ronaldsvilcins.com/atom.xml",
+      "feed_icon": "https://ronaldsvilcins.com/favicon.png"
     },
     {
       "id": "https://www.amitmerchant.com/whats-new-in-php-86",
