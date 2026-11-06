@@ -1,12 +1,26 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-06T12:33:37.117045+00:00",
-  "count": 443,
+  "updated": "2026-11-06T13:03:06.026330+00:00",
+  "count": 445,
   "summary": null,
   "items": [
     {
+      "id": "https://shkspr.mobi/blog/?p=64450",
+      "title": "A video game which caused real world violence",
+      "published": "2026-11-06T12:34:34+00:00",
+      "author": "Terence Eden",
+      "description": "There has been a dramatic fall in the amount of interpersonal violence in most countries. I don't want to go too Freakanomics and, obviously, correlation is not causation but perhaps video games have a role to play in this? A teenager being cooped up in their room means less exposure to situations where hormonal impertinence is likely to cause a violent reaction. Shouting and screaming at people …",
+      "link": "https://shkspr.mobi/blog/2026/11/a-video-game-which-caused-real-world-violence/",
+      "image": "https://shkspr.mobi/blog/wp-content/uploads/2025/11/newpaper20041006-1.1.3.webp",
+      "feed_name": "Terence Eden’s Blog",
+      "feed_title": "Terence Eden’s Blog",
+      "category": "personal blogs",
+      "feed_url": "https://shkspr.mobi/blog/feed/atom/",
+      "feed_icon": "https://shkspr.mobi/blog/wp-content/uploads/2023/07/cropped-avatar-32x32.jpeg"
+    },
+    {
       "id": "https://markboulton.co.uk/journal/lets-try-another-post-to-test/",
-      "title": "November 06 2026",
+      "title": "Let’s try another post to test",
       "published": "2026-11-06T11:50:11+00:00",
       "author": "Mark Boulton (mark@markboulton.co.uk)",
       "description": "Let’s try another post to test with something bold? Or is this a heading? list item list item",
@@ -34,7 +48,7 @@
     },
     {
       "id": "https://markboulton.co.uk/journal/this-is-a-test-post-i/",
-      "title": "November 06 2026",
+      "title": "This is a test post.",
       "published": "2026-11-06T11:00:13+00:00",
       "author": "Mark Boulton (mark@markboulton.co.uk)",
       "description": "This is a test post. I need to have simple formatting buttons on this keypad, like bold, italic, a link flow, bullets. Oh I have some controls. Bold And adding a link markboulton.co.uk a bulleted list but it doesn’t add the next line on return, it just makes me add another. And let’s try and image. But then it doesn’t add it inline but in a floaty thing",
@@ -59,6 +73,20 @@
       "category": "personal blogs",
       "feed_url": "https://hey.georgie.nu/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=hey.georgie.nu&sz=64"
+    },
+    {
+      "id": "https://www.amitmerchant.com/whats-new-in-php-86",
+      "title": "What’s new in PHP 8.6",
+      "published": "2026-11-06T00:00:00+00:00",
+      "author": "Amit Merchant",
+      "description": "PHP 8.6 is shaping up to be another interesting release. It contains a mix of language improvements, new standard-library functions, better networking APIs, security improvements, and a few useful internal optimizations.",
+      "link": "https://www.amitmerchant.com/whats-new-in-php-86/",
+      "image": "https://www.amitmerchant.com/cdn/whats-new-in-php-86.png",
+      "feed_name": "Amit Merchant",
+      "feed_title": "Amit Merchant",
+      "category": "personal blogs",
+      "feed_url": "https://www.amitmerchant.com/feed.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.amitmerchant.com&sz=64"
     },
     {
       "id": "https://thomasrigby.com/posts/duel-of-the-defaults-2026/",
