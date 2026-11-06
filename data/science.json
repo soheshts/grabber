@@ -1,9 +1,37 @@
 {
   "category": "science",
-  "updated": "2026-11-06T20:32:26.923863+00:00",
+  "updated": "2026-11-06T21:02:29.806856+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "news713194621",
+      "title": "Future warming events will outdo the extreme heat waves of the recent past, new study finds",
+      "published": "2026-11-06T21:00:01+00:00",
+      "author": null,
+      "description": "The extreme heat waves we have seen over the last few years may only serve as a preview of what is to come as a result of climate change. A new study led by researcher Philipp Aglas-Leitner from Freie Universität Berlin, published in Nature Communications, finds that future heat waves could last longer, impact larger areas, and be much more severe.",
+      "link": "https://phys.org/news/2026-11-future-events-outdo-extreme.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-study-finds-future.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "news713194382",
+      "title": "Light-powered method resurrects 'dead-end' compounds for drug discovery",
+      "published": "2026-11-06T20:40:01+00:00",
+      "author": null,
+      "description": "Throughout the drug development process, which can take a decade or more, tens of thousands of chemical compounds are produced that never go on to become medicines. A Florida State University researcher is part of a team that has discovered a new way to give some of these \"dead ends\" a second chance at becoming the foundation for tomorrow's blockbuster drugs.",
+      "link": "https://phys.org/news/2026-11-powered-method-resurrects-dead-compounds.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/diagram-showing-the-ph.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
     {
       "id": "news713194141",
       "title": "Quantum gas microscope reveals individual atoms in first tunable three-component Hubbard system",
@@ -1881,6 +1909,20 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
     },
     {
+      "id": "https://www.nytimes.com/2026/11/05/climate/climate-environment-ballot-meaures-midterms.html",
+      "title": "Environmental Ballot Wins",
+      "published": "2026-11-05T21:19:39+00:00",
+      "author": "Scott Dance",
+      "description": "Voters around the country approved measures on conservation, water and data centers on Tuesday.",
+      "link": "https://www.nytimes.com/2026/11/05/climate/climate-environment-ballot-meaures-midterms.html",
+      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05cli-newsletter-ballot-measures-zmwl/05cli-newsletter-ballot-measures-zmwl-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Science",
+      "feed_title": "NYT > Science",
+      "category": "science",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
       "id": "news713094620",
       "title": "As Antarctic blue whales advance along the road to recovery, continued oversight is key",
       "published": "2026-11-05T21:00:13+00:00",
@@ -2047,20 +2089,6 @@
       "category": "science",
       "feed_url": "https://www.wired.com/feed/category/science/latest/rss",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.wired.com&sz=64"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/05/climate/climate-environment-ballot-meaures-midterms.html",
-      "title": "Environmental Ballot Wins",
-      "published": "2026-11-05T19:40:22+00:00",
-      "author": "Scott Dance",
-      "description": "Voters around the country approved measures on conservation, water and data centers on Tuesday.",
-      "link": "https://www.nytimes.com/2026/11/05/climate/climate-environment-ballot-meaures-midterms.html",
-      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05cli-newsletter-ballot-measures-zmwl/05cli-newsletter-ballot-measures-zmwl-mediumSquareAt3X.jpg",
-      "feed_name": "NYT > Science",
-      "feed_title": "NYT > Science",
-      "category": "science",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "news713092466",
@@ -13975,34 +14003,6 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cw5ynxepy4gno#0",
-      "title": "Serious pollution by water industry remains high despite £5bn investment",
-      "published": "2026-10-29T12:08:01+00:00",
-      "author": null,
-      "description": "All but one of England's water companies were rated as \"poor\" or \"requiring improvement\" for environmental targets.",
-      "link": "https://www.bbc.co.uk/news/articles/cw5ynxepy4gno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/934c/live/6b157700-d396-11f1-b490-07d78ce4b8e5.jpg",
-      "feed_name": "BBC News - Science & Environment",
-      "feed_title": "BBC News",
-      "category": "science",
-      "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2026/10/261028232719.htm",
-      "title": "Einstein's equations may explain the universe without dark energy",
-      "published": "2026-10-29T12:07:58+00:00",
-      "author": null,
-      "description": "Mathematicians have uncovered what they argue is a fundamental flaw in the standard model of the universe, potentially challenging the need for dark energy. Their calculations suggest that the mathematical framework used to describe cosmic expansion is inherently unstable and that the universe could accelerate naturally under Einstein's original theory of gravity. The findings also raise surprising questions about whether our location in the universe is as ordinary as scientists have long assum…",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261028232719.htm",
-      "image": "https://www.sciencedaily.com/images/1920/albert-einstein-quantum-cosmology.webp",
-      "feed_name": "Latest Science News -- ScienceDaily",
-      "feed_title": "Latest Science News -- ScienceDaily",
-      "category": "science",
-      "feed_url": "https://www.sciencedaily.com/rss/all.xml",
-      "feed_icon": "https://www.sciencedaily.com/images/scidaily-logo-rss.png"
     }
   ]
 }
