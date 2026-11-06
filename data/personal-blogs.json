@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-06T03:03:59.069911+00:00",
-  "count": 440,
+  "updated": "2026-11-06T03:32:42.568705+00:00",
+  "count": 441,
   "summary": null,
   "items": [
     {
@@ -227,6 +227,20 @@
       "category": "personal blogs",
       "feed_url": "https://hamatti.org/feed/feed.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=hamatti.org&sz=64"
+    },
+    {
+      "id": "https://blog.damato.design/posts/on-a-role",
+      "title": "On a role",
+      "published": "2026-11-05T00:00:00+00:00",
+      "author": "Donnie D'Amato",
+      "description": "What we are doing and what people think we do.",
+      "link": "https://blog.damato.design/posts/on-a-role",
+      "image": "https://blog.damato.design/images/you-keep-using-that-word.jpg",
+      "feed_name": "blog.damato.design",
+      "feed_title": "blog.damato.design",
+      "category": "personal blogs",
+      "feed_url": "https://blog.damato.design/feed.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=blog.damato.design&sz=64"
     },
     {
       "id": "https://www.aaron-gustafson.com/notebook/there-can-be-only-one-redux/",
