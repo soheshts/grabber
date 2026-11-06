@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-06T01:02:58.928067+00:00",
-  "count": 439,
+  "updated": "2026-11-06T01:32:44.728910+00:00",
+  "count": 440,
   "summary": null,
   "items": [
     {
@@ -101,6 +101,20 @@
       "category": "personal blogs",
       "feed_url": "https://paulrobertlloyd.com/feed.xml",
       "feed_icon": "/assets/icons/icon-192-any.png"
+    },
+    {
+      "id": "https://nerdy.dev/bye-deno-hello-cloudflare?utm_source=rss",
+      "title": "Bye Deno, Hello Cloudflare",
+      "published": "2026-11-05T16:30:00+00:00",
+      "author": "webmaster@admin",
+      "description": "and wassup Astro",
+      "link": "https://nerdy.dev/bye-deno-hello-cloudflare?utm_source=rss",
+      "image": "https://nerdy.dev/media/skull-card.png",
+      "feed_name": "Adam Argyle",
+      "feed_title": "Adam Argyle",
+      "category": "personal blogs",
+      "feed_url": "https://nerdy.dev/rss.xml",
+      "feed_icon": "https://nerdy.dev/rss-icon.png"
     },
     {
       "id": "http://finley.im/2026/11/05/bigger-than-our-whole-world/",

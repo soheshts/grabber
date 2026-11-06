@@ -1,9 +1,37 @@
 {
   "category": "science",
-  "updated": "2026-11-06T01:02:58.928067+00:00",
+  "updated": "2026-11-06T01:32:44.728910+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "news713105496",
+      "title": "How often should you be working at the office? Here's what the research suggests",
+      "published": "2026-11-06T01:30:01+00:00",
+      "author": null,
+      "description": "Office attendance from Monday to Friday used to be a pretty standard requirement for many jobs. But plenty of employees have now developed a taste for working from home. And in response, some of their employers have started to tighten the rules on hybrid work.",
+      "link": "https://phys.org/news/2026-11-office.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/blurred-office.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "https://www.bbc.co.uk/weather/articles/cwyvrz09mnd6o#0",
+      "title": "Could the earliest weakening of the polar vortex on record bring UK snow?",
+      "published": "2026-11-06T01:22:39+00:00",
+      "author": null,
+      "description": "An unprecedented early weakening of the polar vortex is causing uncertainty amongst experts over the impact it will have on UK weather as Simon King explains.",
+      "link": "https://www.bbc.co.uk/weather/articles/cwyvrz09mnd6o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dca/live/cb01af10-d8ed-11f1-b7ca-cbaa67b24b8c.jpg",
+      "feed_name": "BBC News - Science & Environment",
+      "feed_title": "BBC News",
+      "category": "science",
+      "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
     {
       "id": "news713104441",
       "title": "Chemicals in sewage-based fertilizer may persist in farmland soil for years",
@@ -1784,7 +1812,7 @@
     },
     {
       "id": "https://www.nature.com/articles/d41586-026-03568-0",
-      "title": "The hidden cost of flexible work in academia: women do more parenting",
+      "title": "The surprising reason women in academia do more parenting than men",
       "published": "2026-11-05T00:00:00+00:00",
       "author": "Rachel Fieldhouse",
       "description": "Nature, Published online: 05 November 2026; doi:10.1038/d41586-026-03568-0 Policies designed to keep women in the workforce could be entrenching gendered parenting roles.",
@@ -13975,34 +14003,6 @@
       "category": "science",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "news712392919",
-      "title": "National parenting support strategy could strengthen Australia's efforts to protect children",
-      "published": "2026-10-28T13:20:08+00:00",
-      "author": null,
-      "description": "Australia has no shortage of policies relating to children. In fact, these policies are often in the headlines. Billions of dollars are invested each year trying to improve outcomes for children and young people.",
-      "link": "https://phys.org/news/2026-10-national-parenting-strategy-australia-efforts.html",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/parents.jpg",
-      "feed_name": "Phys.org - latest science and technology news stories",
-      "feed_title": "Phys.org - latest science and technology news stories",
-      "category": "science",
-      "feed_url": "https://phys.org/rss-feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "news712396621",
-      "title": "Parts of Tibetan Plateau's frozen ground are gaining ice despite warming",
-      "published": "2026-10-28T13:20:04+00:00",
-      "author": null,
-      "description": "High on the Qinghai-Xizang Plateau, the ground stays frozen, with only the top few meters melting each summer. Although the region is warming about twice as fast as the global average, a new study finds that more than a third of its permafrost, mainly in the central plateau, has gained ice since 2000. Stronger westerly winds bring more rain and snow, which seeps into the ground in summer and freezes again in winter.",
-      "link": "https://phys.org/news/2026-10-tibetan-plateau-frozen-ground-gaining.html",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/pku-study-finds-frozen.jpg",
-      "feed_name": "Phys.org - latest science and technology news stories",
-      "feed_title": "Phys.org - latest science and technology news stories",
-      "category": "science",
-      "feed_url": "https://phys.org/rss-feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
     }
   ]
 }
