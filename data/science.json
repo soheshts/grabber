@@ -1,9 +1,23 @@
 {
   "category": "science",
-  "updated": "2026-11-06T07:33:37.200634+00:00",
+  "updated": "2026-11-06T08:03:58.694472+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "89c4bd18-e398-43a5-a175-4f1eacdf8456",
+      "title": "Episode 621 with Ben Acker",
+      "published": "2026-11-06T07:31:00+00:00",
+      "author": "Andy Wood, Matt Kirshen, Jesse Case",
+      "description": "Writer Ben Acker @bnacker , one of the masterminds behind the Thrilling Adventure Hour , and author of Stories to Keep You Alive Despite Vampires joins Jesse and Matt to talk about color changing glass ! (Sidenote, listener Mark who works with the team later emailed to say here's a link to a video of it changing color, and they're getting it analysed to see how close in material structure this is to the original Roman.) Plus why did crocodiles survive the asteroid that wiped out dinosaurs? In t…",
+      "link": "https://probablyscience.libsyn.com/episode-621-with-ben-acker",
+      "image": "http://assets.libsyn.com/content/208592979?height=250&width=250&overlay=true",
+      "feed_name": "Probably Science",
+      "feed_title": "Probably Science",
+      "category": "science",
+      "feed_url": "https://probablyscience.libsyn.com/rss",
+      "feed_icon": "https://static.libsyn.com/p/assets/e/d/1/4/ed14d1d63c8773b4/ProbablyScienceSallyArt.jpg"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cmx23zzlezp8o#1",
       "title": "'Extra special' tamarin twins born at zoo",
@@ -13989,20 +14003,6 @@
       "category": "science",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "news712393679",
-      "title": "Urban street trees lose much of their capacity to cool during droughts",
-      "published": "2026-10-28T15:00:09+00:00",
-      "author": null,
-      "description": "The combination of heat waves and drought markedly reduces the capacity of street trees to cool the air in Mediterranean cities. The lack of soil moisture severely restricts plant transpiration, reducing the thermal relief provided by these trees during extreme heat events.",
-      "link": "https://phys.org/news/2026-10-urban-street-trees-capacity-cool.html",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/urban-street-trees.jpg",
-      "feed_name": "Phys.org - latest science and technology news stories",
-      "feed_title": "Phys.org - latest science and technology news stories",
-      "category": "science",
-      "feed_url": "https://phys.org/rss-feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
     }
   ]
 }
