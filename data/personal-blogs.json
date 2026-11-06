@@ -1,9 +1,23 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-06T14:04:42.149176+00:00",
-  "count": 446,
+  "updated": "2026-11-06T14:32:26.351679+00:00",
+  "count": 445,
   "summary": null,
   "items": [
+    {
+      "id": "https://markboulton.co.uk/journal/test-post/",
+      "title": "Test Post",
+      "published": "2026-11-06T14:19:00+00:00",
+      "author": "Mark Boulton (mark@markboulton.co.uk)",
+      "description": "This is a test post. How does it look. Image above.",
+      "link": "https://markboulton.co.uk/journal/test-post/",
+      "image": "https://markboulton.co.uk/images/journal/2026/test-post-1.jpg",
+      "feed_name": "Mark Boulton's Journal RSS",
+      "feed_title": "Mark Boulton Journal",
+      "category": "personal blogs",
+      "feed_url": "https://markboulton.co.uk/journal/feed/feed.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=markboulton.co.uk&sz=64"
+    },
     {
       "id": "https://shkspr.mobi/blog/?p=64450",
       "title": "A video game which caused real world violence",
@@ -5505,34 +5519,6 @@
       "category": "personal blogs",
       "feed_url": "http://jeffbridgforth.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=jeffbridgforth.com&sz=64"
-    },
-    {
-      "id": "https://chriscoyier.net/?p=14091",
-      "title": "Glasses",
-      "published": "2026-10-07T14:15:00+00:00",
-      "author": "Chris Coyier",
-      "description": "How it started: How it’s going: This is my prescription: I think it means nearsightedness. I’m mostly fine with close-up objects (like my phone/computer), but things 10+ feet away are blurry. The glasses help! Nice for driving and being inside large buildings. As my vision got worse, I honestly thought I just had watery eyes […]",
-      "link": "https://chriscoyier.net/2026/10/07/glasses/",
-      "image": "https://i0.wp.com/chriscoyier.net/wp-content/uploads/2026/10/IMG_0065-768x1024-1.jpeg?resize=768%2C1024&quality=89&ssl=1",
-      "feed_name": "Chris Coyier",
-      "feed_title": "Chris Coyier",
-      "category": "personal blogs",
-      "feed_url": "https://chriscoyier.net/feed/",
-      "feed_icon": "https://i0.wp.com/chriscoyier.net/wp-content/uploads/2021/07/IsUISvAq_400x400.jpg?fit=32%2C32&quality=89&ssl=1"
-    },
-    {
-      "id": "https://rknight.me/blog/st-jude-2026-recap/",
-      "title": "St Jude 2026 Recap",
-      "published": "2026-10-07T14:11:22+00:00",
-      "author": "Robb Knight",
-      "description": "Extended September is over and so is Relay's fundraiser this year",
-      "link": "https://rknight.me/blog/st-jude-2026-recap/",
-      "image": "https://cdn.rknight.me/site/2026/st-jude-jimothy-photo.jpg",
-      "feed_name": "Robb Knight • Posts • Atom Feed",
-      "feed_title": "Robb Knight • Posts • Atom Feed",
-      "category": "personal blogs",
-      "feed_url": "https://rknight.me/feed.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=rknight.me&sz=64"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
