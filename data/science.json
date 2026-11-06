@@ -1,9 +1,23 @@
 {
   "category": "science",
-  "updated": "2026-11-06T06:03:38.463261+00:00",
+  "updated": "2026-11-06T06:32:14.614193+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmx23zzlezp8o#1",
+      "title": "'Extra special' tamarin twins born at zoo",
+      "published": "2026-11-06T06:15:18+00:00",
+      "author": null,
+      "description": "Shaldon Wildlife Trust says it is one of two European zoos to breed the species in 2026.",
+      "link": "https://www.bbc.co.uk/news/articles/cmx23zzlezp8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f95/live/0ad4e410-d919-11f1-ad94-e17fee4cd332.jpg",
+      "feed_name": "BBC News - Science & Environment",
+      "feed_title": "BBC News",
+      "category": "science",
+      "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
     {
       "id": "https://www.twis.org/?p=4347",
       "title": "4 November, 2026 – Episode 1082 – A Blue Wave for Science?",
@@ -13989,20 +14003,6 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "6adb8f7a52428fc30bf6f9ca",
-      "title": "How people are using AI to grieve, love and connect | Jennifer Cearns",
-      "published": "2026-10-28T15:00:00+00:00",
-      "author": "TED",
-      "description": "Many people fear AI is eroding our humanity, replacing real relationships with synthetic ones that leave us lonelier than ever. Digital anthropologist Jennifer Cearns believes the opposite may be true. After talking to hundreds of people who turn to AI for grief, love, friendship and more, she pokes holes in this familiar fear — and hints at what these strange new relationships can teach us about ourselves. Hosted on Acast. See acast.com/privacy for more information.",
-      "link": "http://go.ted.com/jennifercearns",
-      "image": null,
-      "feed_name": "TED Talks Daily (SD video)",
-      "feed_title": "TED Talks Daily",
-      "category": "science",
-      "feed_url": "https://pa.tedcdn.com/feeds/talks.rss",
-      "feed_icon": "https://assets.pippa.io/shows/67587e77c705e441797aff96/show-cover.png"
     }
   ]
 }
