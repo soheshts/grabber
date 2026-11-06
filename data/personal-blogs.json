@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-05T23:33:35.653245+00:00",
-  "count": 444,
+  "updated": "2026-11-06T00:02:45.298199+00:00",
+  "count": 439,
   "summary": null,
   "items": [
     {
@@ -5435,76 +5435,6 @@
       "category": "personal blogs",
       "feed_url": "https://www.aaron-gustafson.com/feeds/latest-posts.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.aaron-gustafson.com&sz=64"
-    },
-    {
-      "id": "https://www.amitmerchant.com/practical-way-to-check-your-ai-search-visibility",
-      "title": "A Practical Way to Check Your AI Search Visibility",
-      "published": "2026-10-07T00:00:00+00:00",
-      "author": "Amit Merchant",
-      "description": "Last month, I built an AI agent that could search the web before answering a question. While working on the article around that project, I got another project idea and that was around the visibility of a website in the world of AI-powered search.",
-      "link": "https://www.amitmerchant.com/practical-way-to-check-your-ai-search-visibility/",
-      "image": "https://www.amitmerchant.com/cdn/practical-way-to-check-your-ai-search-visibility.png",
-      "feed_name": "Amit Merchant",
-      "feed_title": "Amit Merchant",
-      "category": "personal blogs",
-      "feed_url": "https://www.amitmerchant.com/feed.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.amitmerchant.com&sz=64"
-    },
-    {
-      "id": "https://ohhelloana.blog/september-bookmarks/",
-      "title": "Bookmarks that were lingering in tabs",
-      "published": "2026-10-07T00:00:00+00:00",
-      "author": "Ana Rodrigues (hello@anarodrigu.es)",
-      "description": "I was a big girl this week and I finally read and closed all the tabs I had open. Here's my picks from that selection. Fresh browser start - here I go. Bookmarks related to tech and web development Native HTML and CSS Features That Replaced JavaScript by Ronalds Vilciņš. What happens to our blogs when we die? by Michael Harley. favicons to go by Robb Knight. My HTML boilerplate in 2026 by Manuel Matuzović. StaticHost . GoAccess . Pixquare . What happened to the frontend by David Poblador i Garc…",
-      "link": "https://ohhelloana.blog/september-bookmarks/",
-      "image": null,
-      "feed_name": "Ana Rodrigues",
-      "feed_title": "Ana Rodrigues",
-      "category": "personal blogs",
-      "feed_url": "https://ohhelloana.blog/feed.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=ohhelloana.blog&sz=64"
-    },
-    {
-      "id": "https://hamatti.org/posts/3-2-1-becoming-a-djangonaut/",
-      "title": "3… 2… 1… becoming a Djangonaut",
-      "published": "2026-10-07T00:00:00+00:00",
-      "author": "Juha-Matti Santala (juhis@hamatti.org)",
-      "description": "Series: 3… 2… 1… becoming a Djangonaut (you are here) Djangonaut Log 1: Lift-off and first week in Djangonaut Space Debugging a flaky test — how I methodologically tamed an annoying bug Assumptions are sneaky Djangonaut Log 2: Leaving the atmosphere and first merged contributions Djangonaut Log 3: Into the orbit! Djangonaut Space Djangonaut Space is a free, 8-week group mentoring program where individuals will work self-paced in a semi-structured learning environment. It seeks to help members o…",
-      "link": "https://hamatti.org/posts/3-2-1-becoming-a-djangonaut/",
-      "image": null,
-      "feed_name": "Juha-Matti Santala - Community Builder. Dreamer. Adventurer.",
-      "feed_title": "Juha-Matti Santala - Community Builder. Dreamer. Adventurer.",
-      "category": "personal blogs",
-      "feed_url": "https://hamatti.org/feed/feed.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=hamatti.org&sz=64"
-    },
-    {
-      "id": "https://www.ryangittings.co.uk/blog/the-branding-process/",
-      "title": "The Branding Process",
-      "published": "2026-10-07T00:00:00+00:00",
-      "author": "Ryan Gittings (hello@ryangittings.co.uk)",
-      "description": "Creating your visual identity should feel exciting and easy to follow. Here’s how we’ll work together, what’s included, and where additional work might come in. Before we start This process works best when you have a business name, a clear idea of what you offer, and an understanding of your customers. If you’re still figuring those things out, let me know. I can discuss what you need and scope that work separately before we start designing. What’s included? A short questionnaire and kickoff ca…",
-      "link": "https://www.ryangittings.co.uk/blog/the-branding-process/",
-      "image": null,
-      "feed_name": "Ryan Gittings Blog",
-      "feed_title": "Ryan Gittings Blog",
-      "category": "personal blogs",
-      "feed_url": "https://www.ryangittings.co.uk/feed.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.ryangittings.co.uk&sz=64"
-    },
-    {
-      "id": "https://techhub.iodigital.com/articles/migrating-from-firestore-to-firebase-sql-connect",
-      "title": "We moved off Firestore. The slow page stayed slow.",
-      "published": "2026-10-07T00:00:00+00:00",
-      "author": "iO tech_hub",
-      "description": "Two days after our internal resume platform moved from Firestore to Firebase SQL Connect, the page that pushed us into it was still downloading 18 MB and locking up for a minute. The new database made a better query possible. Writing that query is what made the page fast.",
-      "link": "https://techhub.iodigital.com/articles/migrating-from-firestore-to-firebase-sql-connect",
-      "image": null,
-      "feed_name": "iO tech_hub",
-      "feed_title": "iO tech_hub",
-      "category": "personal blogs",
-      "feed_url": "https://techhub.iodigital.com/feed.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=techhub.iodigital.com&sz=64"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
