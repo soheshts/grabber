@@ -1,9 +1,23 @@
 {
   "category": "technology",
-  "updated": "2026-11-06T01:32:44.728910+00:00",
+  "updated": "2026-11-06T02:03:53.488573+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "5182142",
+      "title": "If the White House Network Can Be Hijacked by Proxies, Your Smart Home Is Already at Risk",
+      "published": "2026-11-06T01:26:07+00:00",
+      "author": "Joe Supan",
+      "description": "A new report finds residential proxies exiting the White House network 236 times in the past month.",
+      "link": "https://www.cnet.com/tech/services-and-software/if-the-white-house-network-can-be-hijacked-by-proxies-your-smart-home-is-already-at-risk/",
+      "image": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-1212234694.jpg",
+      "feed_name": "CNET News",
+      "feed_title": "News – CNET",
+      "category": "technology",
+      "feed_url": "https://www.cnet.com/rss/news/",
+      "feed_icon": "https://www.cnet.com/wp-content/uploads/sites/2/cropped-favicon-480.png?w=32"
+    },
     {
       "id": "https://www.theverge.com/?p=1028454",
       "title": "OpenAI is stepping back from NDAs for data center projects",
@@ -13989,20 +14003,6 @@
       "category": "technology",
       "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
       "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
-    },
-    {
-      "id": "03NcWGwGyxWEgeQoxRG8DqL",
-      "title": "NYT Connections hints today: Meanings for each word for Nov. 1, 2026",
-      "published": "2026-11-01T03:00:00+00:00",
-      "author": null,
-      "description": "Why is NYT Connections trending today? Explaining the meanings behind the clues for NYT Connections #1239.",
-      "link": "https://mashable.com/entertainment/nyt-connections-hints-meanings-november-1-2026",
-      "image": "https://helios-i.mashable.com/imagery/articles/03NcWGwGyxWEgeQoxRG8DqL/hero-image.jpg",
-      "feed_name": "Mashable",
-      "feed_title": "Mashable",
-      "category": "technology",
-      "feed_url": "http://feeds.mashable.com/Mashable",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
     }
   ]
 }
