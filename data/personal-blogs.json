@@ -1,9 +1,23 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-06T15:33:52.651477+00:00",
+  "updated": "2026-11-06T16:03:58.328321+00:00",
   "count": 445,
   "summary": null,
   "items": [
+    {
+      "id": "https://daverupert.com/2026/11/pseudo-pseudo-classes/",
+      "title": "Pseudo-pseudo-classes for maximum interactive demos!",
+      "published": "2026-11-06T15:50:00+00:00",
+      "author": null,
+      "description": "Have you ever wanted to display all variants of a Button next to each other in your Storybook like your designer did in Figma? But then you come to a screeching halt when you realize :hover , :active , :focus don’t work without user-interaction? Blergh. Whatever can we do? I got nerd-sniped by this problem in the ShopTalk Discord when Nils said he was trying to build a simple state machine demo for his components. A handful of immediate options came to my head: Style states using .is-hover util…",
+      "link": "https://daverupert.com/2026/11/pseudo-pseudo-classes/",
+      "image": null,
+      "feed_name": "Dave Rupert",
+      "feed_title": "daverupert.com",
+      "category": "personal blogs",
+      "feed_url": "https://daverupert.com/atom.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=daverupert.com&sz=64"
+    },
     {
       "id": "https://markboulton.co.uk/journal/test-post/",
       "title": "Test Post",
@@ -5505,20 +5519,6 @@
       "category": "personal blogs",
       "feed_url": "https://www.bram.us/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.bram.us&sz=64"
-    },
-    {
-      "id": "https://www.baldurbjarnason.com/2026/modes-of-thinking/",
-      "title": "Different modes of thinking",
-      "published": "2026-10-07T15:35:00+00:00",
-      "author": "Baldur Bjarnason",
-      "description": "Spend any time writing online, and you’ll inevitably run into people, at times, who seem to have an odd understanding of what you published. Some of this is down to laziness – people scan the text and react to what they assume you wrote. Sometimes it’s an actual misunderstanding that’s either down to bad writing on your part or poor reading on theirs. But more and more I’ve had to face the possibility that my thought processes are just substantively different from the way the majority approache…",
-      "link": "https://www.baldurbjarnason.com/2026/modes-of-thinking/",
-      "image": null,
-      "feed_name": "Baldur Bjarnason's Notes on the Web",
-      "feed_title": "Baldur Bjarnason's Notes on the Web",
-      "category": "personal blogs",
-      "feed_url": "https://feedpress.me/baldurbjarnason",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.baldurbjarnason.com&sz=64"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
