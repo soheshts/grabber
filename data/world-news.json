@@ -1,9 +1,79 @@
 {
   "category": "World News",
-  "updated": "2026-11-06T21:33:18.851605+00:00",
+  "updated": "2026-11-06T22:03:05.219754+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/11/06/us/thomas-markle-arrested-child-sexual-abuse.html",
+      "title": "Meghan Markle’s Father Is Arrested on Child Sex Abuse Material Charges",
+      "published": "2026-11-06T21:59:43+00:00",
+      "author": "Remy Tumin",
+      "description": "Thomas Markle Sr., Meghan’s estranged father, was arrested in Florida on Friday. He has denied the accusations against him.",
+      "link": "https://www.nytimes.com/2026/11/06/us/thomas-markle-arrested-child-sexual-abuse.html",
+      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06xp-markle1/06xp-markle1-mediumSquareAt3X-v2.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o#1",
+      "title": "Elon Musk appears to signal the end of the road for Cybertruck",
+      "published": "2026-11-06T21:49:50+00:00",
+      "author": null,
+      "description": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
+      "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7ce/live/3fc37350-d9f3-11f1-a701-fddedf244c16.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/yemens-houthis-say-30-dead-in-saudi-strikes-on-market-12295050#publisher=newsstand",
+      "title": "Yemen's Houthis Say 30 Dead In Saudi Strikes On Market",
+      "published": "2026-11-06T21:40:01+00:00",
+      "author": null,
+      "description": "Yemen's Houthis said Saudi airstrikes killed 30 people at a market on Friday.",
+      "link": "https://www.ndtv.com/world-news/yemens-houthis-say-30-dead-in-saudi-strikes-on-market-12295050#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-11/u5r31ces_saudi-strikes-yemen_625x300_07_November_26.jpeg",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
+      "id": "t3_1xpopuc",
+      "title": "Pope Leo Says He Voted In U.S. Election Because He's \"Proud To Be An American\"",
+      "published": "2026-11-06T21:28:50+00:00",
+      "author": "/u/EssoEssex",
+      "description": "submitted by /u/EssoEssex [link] [comments]",
+      "link": "https://www.reddit.com/r/worldnews/comments/1xpopuc/pope_leo_says_he_voted_in_us_election_because_hes/",
+      "image": "https://external-preview.redd.it/gsQQKP0qjT3Ofrad0TlfdvnF-yqHKpekVTeSp261qgU.jpeg?width=640&crop=smart&auto=webp&s=d2740c019ac0baf19cf307f3ccc2a371d4679ae2",
+      "feed_name": "World News",
+      "feed_title": "World News",
+      "category": "World News",
+      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
+      "feed_icon": "https://www.redditstatic.com/icon.png/"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/science/archaeology/altar-stone-mystery-deepens-stonehenges-origins-linked-to-scotland-remain-elusive/articleshow/135612200.cms",
+      "title": "New research rules out the theory of Stonehenge Altar Stone's Northeast Scottish Origin",
+      "published": "2026-11-06T21:28:00+00:00",
+      "author": "TOI Science Desk",
+      "description": "Researchers continue to explore the origins of the Altar Stone at Stonehenge, which weighs approximately six tonnes. Recent studies suggested a possible origin from northeast Scotland, but findings have complicated this theory. A new international team's research found no matching source from the Scottish locations they examined, narrowing possibilities down. Previous assumptions about the Altar Stone's Welsh origins have been challenged by new geological insights.",
+      "link": "https://timesofindia.indiatimes.com/science/archaeology/altar-stone-mystery-deepens-stonehenges-origins-linked-to-scotland-remain-elusive/articleshow/135612200.cms",
+      "image": "https://static.toiimg.com/photo/msid-135612324,imgsize-1493967.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
     {
       "id": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph",
       "title": "Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph",
@@ -17,6 +87,20 @@
       "category": "World News",
       "feed_url": "https://www.theguardian.com/world/rss",
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/real-estate/news/a-three-bedroom-brisbane-house-once-filled-with-thousands-of-books-became-home-to-pigeons-wasps-and-snakes-after-its-owner-entered-care-the-cleared-405-square-metre-property-is-now-heading-to-auction/articleshow/135557460.cms",
+      "title": "Brisbane Library House Auction: former private library cleared for sale; rebuild interest grows",
+      "published": "2026-11-06T21:22:00+00:00",
+      "author": "TOI Real Estate Desk",
+      "description": "After years of neglect, a three-bedroom home in Wynnum, Brisbane, has undergone a remarkable transformation. This property, once filled with a vast collection of books and memorabilia, required extensive teamwork to clear out its contents and evict wildlife. Now, it's being showcased as an exciting renovation or rebuilding opportunity in a sought-after neighborhood, with an auction date set for November 14, 2026, drawing potential buyers eager to invest.",
+      "link": "https://timesofindia.indiatimes.com/real-estate/news/a-three-bedroom-brisbane-house-once-filled-with-thousands-of-books-became-home-to-pigeons-wasps-and-snakes-after-its-owner-entered-care-the-cleared-405-square-metre-property-is-now-heading-to-auction/articleshow/135557460.cms",
+      "image": "https://static.toiimg.com/photo/msid-135557477,imgsize-1305923.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
       "id": "108534215",
@@ -157,20 +241,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/06/us/thomas-markle-arrested-child-sexual-abuse.html",
-      "title": "Meghan Markle’s Father Is Arrested on Child Sex Abuse Material Charges",
-      "published": "2026-11-06T20:27:33+00:00",
-      "author": "Remy Tumin",
-      "description": "Thomas Markle Sr., Meghan’s estranged father, was arrested in Florida on Friday. He has denied the accusations against him.",
-      "link": "https://www.nytimes.com/2026/11/06/us/thomas-markle-arrested-child-sexual-abuse.html",
-      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06xp-markle1/06xp-markle1-mediumSquareAt3X-v2.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://timesofindia.indiatimes.com/science/archaeology/for-more-than-60-years-visitors-walked-through-a-cave-in-spain-without-noticing-hundreds-of-ice-age-engravings-archaeologists-have-now-identified-280-motifs-making-it-one-of-mediterranean-iberias-largest-art-sites/articleshow/135595063.cms",
@@ -2285,20 +2355,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o#1",
-      "title": "Elon Musk appears to signal the end of the road for Cybertruck",
-      "published": "2026-11-06T09:57:04+00:00",
-      "author": null,
-      "description": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
-      "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7ce/live/3fc37350-d9f3-11f1-a701-fddedf244c16.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "https://www.theguardian.com/environment/2026/nov/06/new-york-boston-us-weather-tracker",
@@ -13947,62 +14003,6 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "t3_1xmy5w4",
-      "title": "Von der Leyen: ‘The closure of the Strait of Hormuz cost the EU an additional 127 billion’ - News",
-      "published": "2026-11-03T16:50:19+00:00",
-      "author": "/u/IntrepidWolverine517",
-      "description": "submitted by /u/IntrepidWolverine517 [link] [comments]",
-      "link": "https://www.reddit.com/r/worldnews/comments/1xmy5w4/von_der_leyen_the_closure_of_the_strait_of_hormuz/",
-      "image": "https://external-preview.redd.it/h9mu_iohUpe8AMHPagp91dz96C-JDkEUd_TK94nlIUg.jpeg?width=640&crop=smart&auto=webp&s=6f6b496130c0f14c6f13b10aaee20162cc4e1f57",
-      "feed_name": "World News",
-      "feed_title": "World News",
-      "category": "World News",
-      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
-      "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/us/trumps-planned-250-foot-memorial-arch-near-arlington-cemetery-could-begin-construction-this-week-but-a-federal-judge-has-now-ordered-rapid-court-notifications-and-warned-against-work-without-proper-approval/articleshow/135505338.cms",
-      "title": "Trump’s Arlington Arch faces court hurdles as construction could begin this week",
-      "published": "2026-11-03T16:36:33+00:00",
-      "author": "TOI World Desk",
-      "description": "",
-      "link": "https://timesofindia.indiatimes.com/world/us/trumps-planned-250-foot-memorial-arch-near-arlington-cemetery-could-begin-construction-this-week-but-a-federal-judge-has-now-ordered-rapid-court-notifications-and-warned-against-work-without-proper-approval/articleshow/135505338.cms",
-      "image": "https://static.toiimg.com/photo/msid-135505395,imgsize-487948.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/us-midterm-elections-2026-new-york-county-ballot-machine-faces-glitch-as-voting-continues-for-midterms-12278497#publisher=newsstand",
-      "title": "New York County Ballot Machine Faces Glitch As Voting Continues For Midterms",
-      "published": "2026-11-03T16:36:31+00:00",
-      "author": null,
-      "description": "Trump and his allies have previously spread unproven conspiracy theories about voting machines",
-      "link": "https://www.ndtv.com/world-news/us-midterm-elections-2026-new-york-county-ballot-machine-faces-glitch-as-voting-continues-for-midterms-12278497#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-11/edi1661_us-midterm-_625x300_03_November_26.jpeg",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/science/nature/in-2024-researchers-began-hanging-different-coloured-and-patterned-sheets-inside-a-canadian-seabird-colony-by-2026-their-study-found-stripes-caused-2-8-times-fewer-bird-collisions-than-plain-sheets/articleshow/135489384.cms",
-      "title": "Canadian scientists find dark colours and stripes could make buildings safer for seabirds",
-      "published": "2026-11-03T16:36:26+00:00",
-      "author": "TOI Science Desk",
-      "description": "A study conducted at a seabird colony in Canada found that darker colours and patterned surfaces could reduce bird collisions caused by artificial lighting at night. Researchers discovered that vertically striped sheets recorded 2.8 times fewer bird collisions than plain sheets, while black sheets performed better than white ones. The findings could help make coastal buildings, ships and offshore facilities safer for seabirds.",
-      "link": "https://timesofindia.indiatimes.com/science/nature/in-2024-researchers-began-hanging-different-coloured-and-patterned-sheets-inside-a-canadian-seabird-colony-by-2026-their-study-found-stripes-caused-2-8-times-fewer-bird-collisions-than-plain-sheets/articleshow/135489384.cms",
-      "image": "https://static.toiimg.com/photo/msid-135489952,imgsize-148122.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     }
   ]
 }
