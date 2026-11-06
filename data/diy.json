@@ -1,9 +1,51 @@
 {
   "category": "DIY",
-  "updated": "2026-11-06T12:03:56.713885+00:00",
-  "count": 863,
+  "updated": "2026-11-06T12:33:37.117045+00:00",
+  "count": 866,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/google-photos-missing-features/",
+      "title": "For all its editing magic, Google Photos still has frustrating blind spots",
+      "published": "2026-11-06T12:30:17+00:00",
+      "author": "Pankil Shah",
+      "description": "Google Photos still has room to improve.",
+      "link": "https://www.makeuseof.com/google-photos-missing-features/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/12/android-phone-showing-google-photos-app.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/your-old-laptop-makes-a-great-homelab-for-learning-but-not-for-anything-you-depend-on/",
+      "title": "Your old laptop makes a great homelab for learning, but not for anything you depend on",
+      "published": "2026-11-06T12:30:16+00:00",
+      "author": "Patrick Campanale",
+      "description": "Free hardware is great for learning, but it fails in ways you won't see coming.",
+      "link": "https://www.howtogeek.com/your-old-laptop-makes-a-great-homelab-for-learning-but-not-for-anything-you-depend-on/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/09/img20260220170843.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://hackaday.com/?p=1398098",
+      "title": "The Goat Emoji Is 100% Valid Machine Code, and It Doesn’t Stop There",
+      "published": "2026-11-06T12:00:33+00:00",
+      "author": "Donald Papp",
+      "description": "Did you know emojis can be executables? Well, they are if you treat them like Intel 8088 or 8086 machine code, anyway. [GloriousCow] shared this clever revelation, demonstrating that executable …read more",
+      "link": "https://hackaday.com/2026/11/06/the-goat-emoji-is-100-valid-machine-code-and-it-doesnt-stop-there/",
+      "image": "https://hackaday.com/wp-content/uploads/2016/08/turingtapes.jpg",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/microsofts-last-old-secure-boot-certificate-just-expired-so-i-checked-whether-my-pcs-got-the-new-ones/",
       "title": "Microsoft’s last old Secure Boot certificate just expired, so I checked whether my PCs got the new ones",
