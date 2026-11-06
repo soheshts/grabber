@@ -1,7 +1,7 @@
 {
   "category": "space",
-  "updated": "2026-11-06T17:04:00.783988+00:00",
-  "count": 275,
+  "updated": "2026-11-06T17:33:45.317370+00:00",
+  "count": 276,
   "summary": null,
   "items": [
     {
@@ -26,6 +26,20 @@
       "description": "This NASA/ESA Hubble Space Telescope image released Nov. 5, 2026, provides a lesson in galactic history. The sparkling collection of stars is named Messier 30 (M30) after the French astronomer, Charles Messier, who cataloged M30 and other diffuse objects that might be mistaken for comets in the early telescopes of Messier’s time. M30 lies about […]",
       "link": "https://www.nasa.gov/image-article/m30s-sparkling-stars/",
       "image": "https://www.nasa.gov/wp-content/uploads/2026/11/hubble-m30-potm2610a.jpg?w=2048",
+      "feed_name": "NASA Breaking News",
+      "feed_title": "NASA",
+      "category": "space",
+      "feed_url": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.nasa.gov&sz=64"
+    },
+    {
+      "id": "https://science.nasa.gov/earth/supercomputing-tech-demo-schedule/",
+      "title": "Supercomputing Tech Demo Schedule",
+      "published": "2026-11-06T16:03:52+00:00",
+      "author": null,
+      "description": "Supercomputing 2026 Join NASA in the Exhibit Hall (Booth #4038) for presentations by NASA experts. Full Tech Demo schedule below. TUESDAY, NOVEMBER 17 10:00 AMType-safe Templates in Fortran 2028Tom Clune10:30 AMType-safe Templates in Fortran 2028Tom Clune11:00 AM Type-safe Templates in Fortran 2028Tom Clune1:00PM Mixing and Matching and Multiple Versions, Oh My!Brad Richardson1:30 PMMixing and Matching and Multiple […]",
+      "link": "https://science.nasa.gov/earth/supercomputing-tech-demo-schedule/",
+      "image": "https://assets.science.nasa.gov/content/dam/science/astro/programs/cosmic-origins/images/misc/NASA-Meatball-Feature5.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
       "feed_name": "NASA Breaking News",
       "feed_title": "NASA",
       "category": "space",

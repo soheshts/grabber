@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-06T17:04:00.783988+00:00",
-  "count": 889,
+  "updated": "2026-11-06T17:33:45.317370+00:00",
+  "count": 891,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/i-tried-dlss-5-in-roblox-and-i-wish-i-could-unsee-the-results/",
+      "title": "I tried DLSS 5 in Roblox, and I wish I could unsee the results",
+      "published": "2026-11-06T17:30:17+00:00",
+      "author": "Suman Biswas",
+      "description": "DLSS 5 in Roblox works, but I wish it didn't.",
+      "link": "https://www.makeuseof.com/i-tried-dlss-5-in-roblox-and-i-wish-i-could-unsee-the-results/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/roblox-dlss.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/i-tried-replacing-windows-on-a-gaming-pc-with-ubuntu-heres-what-still-doesnt-work/",
+      "title": "Ubuntu gaming has never been better, so why am I still stuck on Windows?",
+      "published": "2026-11-06T17:30:16+00:00",
+      "author": "Arol Wright",
+      "description": "The constant struggle of getting huge games to work on an OS they're not made for.",
+      "link": "https://www.howtogeek.com/i-tried-replacing-windows-on-a-gaming-pc-with-ubuntu-heres-what-still-doesnt-work/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/ubuntu-26-10-terminal-hero.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/delete-large-folders-faster-windows/",
       "title": "Windows File Explorer makes deleting large folders painfully slow, but there's a faster way",
