@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-06T17:33:45.317370+00:00",
-  "count": 891,
+  "updated": "2026-11-06T18:03:23.222511+00:00",
+  "count": 893,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/home-assistant-weekend-projects/",
+      "title": "3 Home Assistant projects you can actually finish in a weekend",
+      "published": "2026-11-06T18:00:17+00:00",
+      "author": "Michael Bizzaco",
+      "description": "It's your smart home, not Amazon's.",
+      "link": "https://www.makeuseof.com/home-assistant-weekend-projects/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/05/home-assistant-green-front.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/google-wallet-can-hold-these-things-you-still-carry-in-your-physical-wallet/",
+      "title": "Google Wallet can hold these 5 things you still carry in your physical wallet",
+      "published": "2026-11-06T18:00:16+00:00",
+      "author": "Vishwamoorthy Ramakrishnan",
+      "description": "Stop carrying these physical cards everywhere you go.",
+      "link": "https://www.howtogeek.com/google-wallet-can-hold-these-things-you-still-carry-in-your-physical-wallet/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/google-wallet-on-top-of-a-pixel-phone-avif.png",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/i-tried-dlss-5-in-roblox-and-i-wish-i-could-unsee-the-results/",
       "title": "I tried DLSS 5 in Roblox, and I wish I could unsee the results",
@@ -79,7 +107,7 @@
       "title": "Why the ULC Audio Codec is a Perfect Fit for the N64",
       "published": "2026-11-06T16:30:48+00:00",
       "author": "Maya Posch",
-      "description": "Although the Nintendo 64 could deliver solid 3D graphics with assets loaded at a blistering speed from the game cartridge, audi0-wise it was a bit more hampered. The main challenge …read more",
+      "description": "Although the Nintendo 64 could deliver solid 3D graphics with assets loaded at a blistering speed from the game cartridge, audio-wise it was a bit more hampered. The main challenge …read more",
       "link": "https://hackaday.com/2026/11/06/why-the-ulc-audio-codec-is-a-perfect-fit-for-the-n64/",
       "image": "https://hackaday.com/wp-content/uploads/2020/12/n64-featured.jpg",
       "feed_name": "Blog – Hackaday",
