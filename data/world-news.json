@@ -1,13 +1,13 @@
 {
   "category": "World News",
-  "updated": "2026-11-06T20:03:54.516696+00:00",
+  "updated": "2026-11-06T20:32:26.923863+00:00",
   "count": 1000,
   "summary": null,
   "items": [
     {
       "id": "108534215",
       "title": "OpenAI bugging suspect Alfozan pleads not guilty",
-      "published": "2026-11-06T19:58:29+00:00",
+      "published": "2026-11-06T20:30:32+00:00",
       "author": null,
       "description": "Saudi national Abdulrahman Alfozan is charged with planting a recording device in a conference room at artificial intelligence giant OpenAI.",
       "link": "https://www.cnbc.com/2026/11/06/openai-bugging-alfozan-saudi.html",
@@ -17,6 +17,48 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/06/us/thomas-markle-arrested-child-sexual-abuse.html",
+      "title": "Meghan Markle’s Father Is Arrested on Child Sex Abuse Material Charges",
+      "published": "2026-11-06T20:27:33+00:00",
+      "author": "Remy Tumin",
+      "description": "Thomas Markle Sr., Meghan’s estranged father, was arrested in Florida on Friday. He has denied the accusations against him.",
+      "link": "https://www.nytimes.com/2026/11/06/us/thomas-markle-arrested-child-sexual-abuse.html",
+      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06xp-markle1/06xp-markle1-mediumSquareAt3X-v2.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-flights-campaign-ireland.html",
+      "title": "Bomb Threats in Europe Probably a Coordinated Campaign, Ireland Says",
+      "published": "2026-11-06T20:07:47+00:00",
+      "author": "Megan Specia",
+      "description": "Multiple flights in Europe were disrupted and several newsrooms in Ireland were evacuated after false bomb threats, the latest of a series of security incidents.",
+      "link": "https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-flights-campaign-ireland.html",
+      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-ireland-threats-01-mtjw/06int-ireland-threats-01-mtjw-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/us/in-1980-stephen-king-bought-a-red-victorian-home-in-maine-for-135000-46-years-later-the-house-holds-his-literary-archives-while-a-neighbouring-mansion-offers-writers-10-day-residencies-and-2500-stipends/articleshow/135619089.cms",
+      "title": "Stephen King's Maine mansion becomes a literary archive, with $2,500 writers' retreats next door",
+      "published": "2026-11-06T20:04:00+00:00",
+      "author": "TOI World Desk",
+      "description": "Stephen King and Tabitha have innovatively turned their Bangor residence into a unique archive and retreat for writers. This initiative offers aid and an inspiring atmosphere, allowing selected authors to immerse themselves in their work. The nearby Brown Mansion will serve as an additional haven, benefitting a variety of literary talents, including educators and Maine local writers.",
+      "link": "https://timesofindia.indiatimes.com/world/us/in-1980-stephen-king-bought-a-red-victorian-home-in-maine-for-135000-46-years-later-the-house-holds-his-literary-archives-while-a-neighbouring-mansion-offers-writers-10-day-residencies-and-2500-stipends/articleshow/135619089.cms",
+      "image": "https://static.toiimg.com/photo/msid-135619813,imgsize-149428.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
       "id": "108530432",
@@ -411,20 +453,6 @@
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
-      "id": "https://www.nytimes.com/2026/11/06/us/thomas-markle-arrested-child-sexual-abuse.html",
-      "title": "Meghan Markle’s Father Is Arrested on Child Sex Abuse Material Charges",
-      "published": "2026-11-06T18:24:47+00:00",
-      "author": "Remy Tumin",
-      "description": "Thomas Markle Sr., Meghan’s estranged father, was arrested in Florida on Friday. He has denied the accusations against him.",
-      "link": "https://www.nytimes.com/2026/11/06/us/thomas-markle-arrested-child-sexual-abuse.html",
-      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06xp-markle1/06xp-markle1-mediumSquareAt3X-v2.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
       "id": "https://www.nytimes.com/2026/11/06/world/europe/europe-migrants-rwanda.html",
       "title": "European Countries Push, Again, To Deport Migrants to Rwanda",
       "published": "2026-11-06T18:23:32+00:00",
@@ -656,20 +684,6 @@
       "description": "The Trump administration has been negotiating agreements with dozens of individual countries. Public health experts say a global agreement would be far more effective.",
       "link": "https://www.nytimes.com/2026/11/06/us/politics/pandemic-prevention-african-countries.html",
       "image": "https://static01.nyt.com/images/2026/11/05/multimedia/00dc-pandemic-prep1-vzcq/00dc-pandemic-prep1-vzcq-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-flights-campaign-ireland.html",
-      "title": "Bomb Threats in Europe Probably a Coordinated Campaign, Ireland Says",
-      "published": "2026-11-06T17:16:56+00:00",
-      "author": "Megan Specia",
-      "description": "Multiple flights in Europe were disrupted and several newsrooms in Ireland were evacuated after false bomb threats, the latest of a series of security incidents.",
-      "link": "https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-flights-campaign-ireland.html",
-      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-ireland-threats-01-mtjw/06int-ireland-threats-01-mtjw-mediumSquareAt3X.jpg",
       "feed_name": "NYT",
       "feed_title": "NYT > World News",
       "category": "World News",
@@ -13989,20 +14003,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c5djv0p0re2no#0",
-      "title": "Libya's top religious authority rules against wearing Nike clothes",
-      "published": "2026-11-03T14:56:46+00:00",
-      "author": null,
-      "description": "The US company was named after the Greek goddess of victory, so the Dar al-Ifta said displaying its logo was unIslamic.",
-      "link": "https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a365/live/15a45a60-d789-11f1-9440-953b82c8f55a.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     }
   ]
 }
