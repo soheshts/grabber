@@ -1,9 +1,51 @@
 {
   "category": "DIY",
-  "updated": "2026-11-06T19:03:56.208769+00:00",
-  "count": 900,
+  "updated": "2026-11-06T19:32:21.317243+00:00",
+  "count": 903,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/tagstudio-organize-files-with-tags/",
+      "title": "Thousands of files don't need thousands of folders when you have this app",
+      "published": "2026-11-06T19:30:17+00:00",
+      "author": "Oluwademilade Afolabi",
+      "description": "Finding old files shouldn't require an archaeological expedition.",
+      "link": "https://www.makeuseof.com/tagstudio-organize-files-with-tags/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/tagstudio-file-organizer-windows.png",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/your-cpu-bottleneck-isnt-real-and-im-tired-of-pretending-that-it-is/",
+      "title": "Your CPU bottleneck isn't real, and I'm tired of pretending that it is",
+      "published": "2026-11-06T19:30:16+00:00",
+      "author": "Monica J. White",
+      "description": "Stop blaming your CPU for every gaming performance problem",
+      "link": "https://www.howtogeek.com/your-cpu-bottleneck-isnt-real-and-im-tired-of-pretending-that-it-is/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/04/amd-ryzen-5-5600x-cpu-motherboard.JPG",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/the-google-pixel-11-is-200-off-on-amazon-right-now/",
+      "title": "The Google Pixel 11 is at its lowest price yet on Amazon",
+      "published": "2026-11-06T19:22:16+00:00",
+      "author": "HTG Deals Desk",
+      "description": "This flagship phone is now $200 off",
+      "link": "https://www.howtogeek.com/the-google-pixel-11-is-200-off-on-amazon-right-now/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2025/09/google-pixel-10-11.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/my-usb-drive-was-slower-one-windows-setting-was-the-reason/",
       "title": "My USB drive was much slower than expected, and one Windows setting was the reason",

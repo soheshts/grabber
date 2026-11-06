@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-06T19:03:56.208769+00:00",
-  "count": 446,
+  "updated": "2026-11-06T19:32:21.317243+00:00",
+  "count": 445,
   "summary": null,
   "items": [
     {
@@ -5519,20 +5519,6 @@
       "category": "personal blogs",
       "feed_url": "https://ronaldsvilcins.com/atom.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=ronaldsvilcins.com&sz=64"
-    },
-    {
-      "id": "https://www.bram.us/?p=36888",
-      "title": "Bringing Microsoft Internet Explorer’s proprietary “Interpage Transitions” back to Modern Browsers using the View Transition API",
-      "published": "2026-10-07T19:07:00+00:00",
-      "author": "Bramus!",
-      "description": "Back in late 2024, I started working on a fun end-of-year side project named ie-page-transitions . It”s a CSS + JS library that brings back Microsoft Internet Explorer’s proprietary “Interpage Transitions” to modern browsers, powered by the View Transition API. After sitting unfinished for a while, I finally got all 23 classic effects over the finish line and published the project on page-transitions.style .",
-      "link": "https://www.bram.us/2026/10/07/ie-page-transitions/",
-      "image": null,
-      "feed_name": "Bram.us",
-      "feed_title": "Bram.us",
-      "category": "personal blogs",
-      "feed_url": "https://www.bram.us/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.bram.us&sz=64"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
