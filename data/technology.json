@@ -1,9 +1,37 @@
 {
   "category": "technology",
-  "updated": "2026-11-06T22:33:42.804833+00:00",
+  "updated": "2026-11-06T23:03:34.522024+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.theverge.com/?p=1029338",
+      "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+      "published": "2026-11-06T23:00:44+00:00",
+      "author": "Jay Peters",
+      "description": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially influence the company to push for its most advanced chips to be made available to China.\" Megaspeed […]",
+      "link": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "feed_name": "The Verge -  All Posts",
+      "feed_title": "The Verge",
+      "category": "technology",
+      "feed_url": "https://www.theverge.com/rss/index.xml",
+      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
+    },
+    {
+      "id": "https://www.theverge.com/?post_type=vm_stream&p=1029162",
+      "title": "Starlink Mobile: All the news on SpaceX’s major mobile carrier ambitions",
+      "published": "2026-11-06T22:45:43+00:00",
+      "author": "Emma Roth",
+      "description": "SpaceX has declared that it’s going to make Starlink Mobile a “major” mobile carrier. The Elon Musk-owned company has already deployed thousands of direct-to-cell satellites, but its next big challenge is building out its 5G network here on Earth. As part of its plans to rival AT&T, Verizon, and T-Mobile, SpaceX has inked a deal […]",
+      "link": "https://www.theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKB355_SPACEX_C.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "feed_name": "The Verge -  All Posts",
+      "feed_title": "The Verge",
+      "category": "technology",
+      "feed_url": "https://www.theverge.com/rss/index.xml",
+      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
+    },
     {
       "id": "https://news.slashdot.org/story/26/11/06/211208/activists-breach-microsoft-data-center-construction-site-as-protests-spread-in-europe?utm_source=rss1.0mainlinkanon&utm_medium=feed",
       "title": "Activists Breach Microsoft Data Center Construction Site As Protests Spread In Europe",
@@ -13975,34 +14003,6 @@
       "category": "technology",
       "feed_url": "https://thenextweb.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
-    },
-    {
-      "id": "https://www.engadget.com/2300346/nintendo-switch-2-microsd-card-why-its-important-to-use/",
-      "title": "Why it's important to use a microSD Express card with your Nintendo Switch 2",
-      "published": "2026-11-02T14:45:00+00:00",
-      "author": "Thomas Godwin",
-      "description": "The Switch 2 has expandable storage that you should take advantage of. But you can't use the same cards that worked with your original Switch.",
-      "link": "https://www.engadget.com/2300346/nintendo-switch-2-microsd-card-why-its-important-to-use/",
-      "image": "https://www.engadget.com/img/gallery/why-its-important-to-use-a-microsd-card-with-your-nintendo-switch-2/l-intro-1791815329.jpg",
-      "feed_name": "Engadget",
-      "feed_title": "Engadget - Technology News & Expert Reviews",
-      "category": "technology",
-      "feed_url": "https://www.engadget.com/rss.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
-    },
-    {
-      "id": "01M62A02VWH2MPZ33SE4ZXH2AY",
-      "title": "The Top 10 Movies Right Now, According to Streaming Data",
-      "published": "2026-11-02T14:30:45+00:00",
-      "author": "Stephen Johnson",
-      "description": "October's streaming charts were all about horror movies, natch.",
-      "link": "https://lifehacker.com/entertainment/the-top-10-movies-right-now-according-to-streaming-data?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M62A02VWH2MPZ33SE4ZXH2AY/hero-image.png",
-      "feed_name": "Lifehacker",
-      "feed_title": "Lifehacker",
-      "category": "technology",
-      "feed_url": "https://lifehacker.com/rss",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=lifehacker.com&sz=64"
     }
   ]
 }
