@@ -1,9 +1,37 @@
 {
   "category": "travel",
-  "updated": "2026-11-06T10:03:03.282957+00:00",
-  "count": 126,
+  "updated": "2026-11-06T10:33:36.317934+00:00",
+  "count": 128,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/11/06/t-magazine/budapest-hungary-night-walking.html",
+      "title": "Wandering Budapest’s Haunted Streets",
+      "published": "2026-11-06T10:01:09+00:00",
+      "author": "Andrew Higgins and Anthony Cotsifas",
+      "description": "The Hungarian capital is a place of wrenching history and astonishing beauty, one perhaps best experienced at night.",
+      "link": "https://www.nytimes.com/2026/11/06/t-magazine/budapest-hungary-night-walking.html",
+      "image": null,
+      "feed_name": "NYT > Travel",
+      "feed_title": "NYT > Travel",
+      "category": "travel",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/06/travel/el-nino-skiing-united-states.html",
+      "title": "What Does the Super El Niño Mean for Ski Season?",
+      "published": "2026-11-06T10:00:32+00:00",
+      "author": "David Goodman",
+      "description": "The climate event is predicted to alter snowfall patterns across the U.S. and Canada. Experts are starting to see how it might play out across ski country.",
+      "link": "https://www.nytimes.com/2026/11/06/travel/el-nino-skiing-united-states.html",
+      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29trav-elnino-skiing-vptl/29trav-elnino-skiing-vptl-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Travel",
+      "feed_title": "NYT > Travel",
+      "category": "travel",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "https://www.theguardian.com/travel/2026/nov/06/readers-travel-tips-best-conservation-tourism-holidays",
       "title": "‘Instead of scuba diving on shrinking reefs, we helped regrow them’: readers’ best conservation tourism experiences",
