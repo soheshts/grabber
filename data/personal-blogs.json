@@ -1,9 +1,23 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-07T00:02:29.479138+00:00",
-  "count": 442,
+  "updated": "2026-11-07T00:32:24.317323+00:00",
+  "count": 443,
   "summary": null,
   "items": [
+    {
+      "id": "https://chriscoyier.net/?p=29903",
+      "title": "Got Them Little Side Projects Moved to CodePen Hosting",
+      "published": "2026-11-06T23:42:31+00:00",
+      "author": "Chris Coyier",
+      "description": "I had my little Smashburgers in Bend website on Astro on Cloudflare Pages. While I 💜 both of those things, CodePen hosting is more than capable, and that’s obviously extremely fun and satisfying for me. I had the Smashburgers site on Astro way back when because they supported multi-page view transitions in a really nice […]",
+      "link": "https://chriscoyier.net/2026/11/06/got-them-little-side-projects-moved-to-codepen-hosting/",
+      "image": null,
+      "feed_name": "Chris Coyier",
+      "feed_title": "Chris Coyier",
+      "category": "personal blogs",
+      "feed_url": "https://chriscoyier.net/feed/",
+      "feed_icon": "https://i0.wp.com/chriscoyier.net/wp-content/uploads/2021/07/IsUISvAq_400x400.jpg?fit=32%2C32&quality=89&ssl=1"
+    },
     {
       "id": "https://rknight.me/blog/weeknote-2025/",
       "title": "Weeknote #2025",
