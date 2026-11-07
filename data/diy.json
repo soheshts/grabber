@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-07T22:32:22.175164+00:00",
-  "count": 993,
+  "updated": "2026-11-07T23:03:05.038821+00:00",
+  "count": 995,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/round-sync-android-cloud-storage-manager/",
+      "title": "I stopped juggling cloud apps after finding this open-source Android file manager",
+      "published": "2026-11-07T23:00:16+00:00",
+      "author": "Oluwademilade Afolabi",
+      "description": "I didn't know my cloud drives needed a group chat until now.",
+      "link": "https://www.makeuseof.com/round-sync-android-cloud-storage-manager/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/round-sync-cloud-local-storage-android.png",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/short-netlix-series-download-before-power-outage/",
+      "title": "4 short Netflix series to download before you're caught off guard by a power outage",
+      "published": "2026-11-07T23:00:15+00:00",
+      "author": "Tyler Dupont",
+      "description": "These bite-sized series are perfect when the Wi-Fi goes dark.",
+      "link": "https://www.howtogeek.com/short-netlix-series-download-before-power-outage/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/netflix-logo-behind-fogged-glass-with-a-shadowy-figure.avif",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/what-happens-when-skip-router-and-connect-your-nas-directly-to-pc/",
       "title": "This is what happens when you skip the router and connect your NAS directly to your PC",
