@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-07T10:33:15.905183+00:00",
-  "count": 932,
+  "updated": "2026-11-07T11:03:00.826235+00:00",
+  "count": 934,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/must-have-apps-for-google-pixel-phones/",
+      "title": "My new Pixel wasn't complete until I installed these apps",
+      "published": "2026-11-07T11:00:16+00:00",
+      "author": "Pankil Shah",
+      "description": "Your Pixel is incomplete without these apps.",
+      "link": "https://www.makeuseof.com/must-have-apps-for-google-pixel-phones/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/12/002-2.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/futuristic-wearable-exoskeleton-feel-like-robocop/",
+      "title": "This futuristic wearable exoskeleton makes me feel like RoboCop",
+      "published": "2026-11-07T11:00:15+00:00",
+      "author": "Tim Brookes",
+      "description": "Dead or alive, you’re coming with me.",
+      "link": "https://www.howtogeek.com/futuristic-wearable-exoskeleton-feel-like-robocop/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/hypershell-x-ultra-s-side-view.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://hackaday.com/?p=1398293",
       "title": "A Bike-Friendly, DIY Action Cam Stereo Microphone",
