@@ -1,9 +1,23 @@
 {
   "category": "science",
-  "updated": "2026-11-07T07:02:42.295863+00:00",
+  "updated": "2026-11-07T07:32:19.213696+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cw98zzn7z04vo#1",
+      "title": "New Forest wildfire restoration work begins",
+      "published": "2026-11-07T07:14:33+00:00",
+      "author": null,
+      "description": "Work begins to restore nature to part of the New Forest destroyed by a summer wildfire.",
+      "link": "https://www.bbc.co.uk/news/articles/cw98zzn7z04vo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3410/live/ef5a4170-da04-11f1-84c1-dbcae60402d7.png",
+      "feed_name": "BBC News - Science & Environment",
+      "feed_title": "BBC News",
+      "category": "science",
+      "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
     {
       "id": "https://www.scientificamerican.com/article/math-puzzle-secret-formula/",
       "title": "Math Puzzle: Secret formula",
@@ -13989,20 +14003,6 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2026/10/261028232659.htm",
-      "title": "A single brain signal may explain schizophrenia's most puzzling symptoms",
-      "published": "2026-10-29T13:14:52+00:00",
-      "author": null,
-      "description": "Scientists have identified a weakened brain signal that may connect several seemingly unrelated symptoms of schizophrenia, including sensory processing difficulties, disorganized speech, and greater symptom severity. The surprising discovery could help explain the disorder's underlying mechanisms and potentially lead to earlier detection and new treatments.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261028232659.htm",
-      "image": "https://www.sciencedaily.com/images/1920/translucent-glowing-human-brain-signals-waves.webp",
-      "feed_name": "Latest Science News -- ScienceDaily",
-      "feed_title": "Latest Science News -- ScienceDaily",
-      "category": "science",
-      "feed_url": "https://www.sciencedaily.com/rss/all.xml",
-      "feed_icon": "https://www.sciencedaily.com/images/scidaily-logo-rss.png"
     }
   ]
 }
