@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-07T19:32:51.734278+00:00",
-  "count": 439,
+  "updated": "2026-11-07T20:03:00.745449+00:00",
+  "count": 438,
   "summary": null,
   "items": [
     {
@@ -5421,20 +5421,6 @@
       "category": "personal blogs",
       "feed_url": "https://ronaldsvilcins.com/atom.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=ronaldsvilcins.com&sz=64"
-    },
-    {
-      "id": "https://www.bram.us/?p=36905",
-      "title": "caniname: CLI tool to check project name availability across Netlify and NPM (and other sources)",
-      "published": "2026-10-08T19:52:35+00:00",
-      "author": "Bramus!",
-      "description": "Whenever I build a new tool or custom element (like <show-keystrokes> or <rich-input> ), I always end up doing the same manual dance: checking if the package name is still free on NPM and if the matching <name>.netlify.app subdomain is still unclaimed on Netlify. To automate that check, I built caniname .",
-      "link": "https://www.bram.us/2026/10/08/caniname-cli-tool-to-check-project-name-availability/",
-      "image": "https://www.bram.us/wordpress/wp-content/uploads/2026/10/og-image.jpg",
-      "feed_name": "Bram.us",
-      "feed_title": "Bram.us",
-      "category": "personal blogs",
-      "feed_url": "https://www.bram.us/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.bram.us&sz=64"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",

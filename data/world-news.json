@@ -1,13 +1,13 @@
 {
   "category": "World News",
-  "updated": "2026-11-07T19:32:51.734278+00:00",
+  "updated": "2026-11-07T20:03:00.745449+00:00",
   "count": 1000,
   "summary": null,
   "items": [
     {
       "id": "108544822",
       "title": "Trump offers UFC chief Dana White press secretary job",
-      "published": "2026-11-07T19:27:36+00:00",
+      "published": "2026-11-07T20:02:15+00:00",
       "author": null,
       "description": "President Donald Trump offered the job of press secretary to UFC president and CEO Dana White on Saturday.",
       "link": "https://www.cnbc.com/2026/11/07/trump-ufc-dana-white-press-secretary-offer.html",
@@ -17,6 +17,76 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo#0",
+      "title": "What we know so far after Polish gunman in military clothing opens fire in Krakow",
+      "published": "2026-11-07T19:51:44+00:00",
+      "author": null,
+      "description": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.",
+      "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/07/world/middleeast/israel-eisenkot-government.html",
+      "title": "Israeli Opposition Leader Tapped to Try to Form Government",
+      "published": "2026-11-07T19:50:21+00:00",
+      "author": "Ephrat Livni and Aaron Boxerman",
+      "description": "Gadi Eisenkot, a former military chief, hopes to succeed Benjamin Netanyahu as prime minister by cobbling together a coalition after an inconclusive election.",
+      "link": "https://www.nytimes.com/2026/11/07/world/middleeast/israel-eisenkot-government.html",
+      "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-israel-politics-eisenkot-HFO-vbtf/08int-israel-politics-eisenkot-HFO-vbtf-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "t3_1xqezyx",
+      "title": "Israeli President Picks Gadi Eisenkot, Netanyahu Rival, To Form Government",
+      "published": "2026-11-07T19:41:24+00:00",
+      "author": "/u/EssoEssex",
+      "description": "submitted by /u/EssoEssex [link] [comments]",
+      "link": "https://www.reddit.com/r/worldnews/comments/1xqezyx/israeli_president_picks_gadi_eisenkot_netanyahu/",
+      "image": null,
+      "feed_name": "World News",
+      "feed_title": "World News",
+      "category": "World News",
+      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
+      "feed_icon": "https://www.redditstatic.com/icon.png/"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/us/who-is-ufc-boss-dana-white-who-gets-surprising-offer-from-donald-trump-to-be-white-house-press-secretary/articleshow/135645732.cms",
+      "title": "Who is UFC boss Dana White who gets surprising offer from Donald Trump to be White House press secretary?",
+      "published": "2026-11-07T19:33:59+00:00",
+      "author": "Poulomi Ghosh",
+      "description": "",
+      "link": "https://timesofindia.indiatimes.com/world/us/who-is-ufc-boss-dana-white-who-gets-surprising-offer-from-donald-trump-to-be-white-house-press-secretary/articleshow/135645732.cms",
+      "image": "https://static.toiimg.com/photo/msid-135645749,imgsize-74438.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/us/magic-tree-house-author-mary-pope-osborne-has-donated-more-than-1-2-million-books-to-children-in-underserved-us-schools-through-her-gift-of-books-programme/articleshow/135454189.cms",
+      "title": "Mary Pope Osborne donates 1.2 million books to children across the US",
+      "published": "2026-11-07T19:30:00+00:00",
+      "author": "TOI World Desk",
+      "description": "",
+      "link": "https://timesofindia.indiatimes.com/world/us/magic-tree-house-author-mary-pope-osborne-has-donated-more-than-1-2-million-books-to-children-in-underserved-us-schools-through-her-gift-of-books-programme/articleshow/135454189.cms",
+      "image": "https://static.toiimg.com/photo/msid-135454341,imgsize-744296.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
       "id": "https://www.nytimes.com/2026/11/07/world/europe/france-fourth-saturday-protests.html",
@@ -47,6 +117,20 @@
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
+      "id": "https://timesofindia.indiatimes.com/world/rest-of-world/10-years-of-the-paris-agreement-who-are-the-top-10-carbon-emitters-of-the-world-and-where-does-india-stand/articleshow/135630304.cms",
+      "title": "10 years of the Paris Agreement, top 10 carbon emitters of the world; where does India stand",
+      "published": "2026-11-07T19:20:00+00:00",
+      "author": "TOI Lifestyle Desk",
+      "description": "Natural disasters have spotlighted the urgent link between climate change and escalating global carbon emissions. The 2025 Global Carbon Budget predicts fossil fuel emissions will soar to unprecedented levels. Although India is among the top three carbon emitters, its per-capita emissions are significantly lower compared to China and the U.S.",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/10-years-of-the-paris-agreement-who-are-the-top-10-carbon-emitters-of-the-world-and-where-does-india-stand/articleshow/135630304.cms",
+      "image": "https://static.toiimg.com/photo/msid-135630645,imgsize-99335.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
       "id": "https://www.nytimes.com/video/world/americas/100000011168848/haiti-nightclub-shelter-gang-violence.html",
       "title": "Inside the Nightclub Sheltering Haitians From Violent Gangs",
       "published": "2026-11-07T19:19:20+00:00",
@@ -59,6 +143,20 @@
       "category": "World News",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/us/that-stops-when-im-governor-texas-governor-elect-gina-hinojosa-warns-elon-musk-big-tech-over-data-centres/articleshow/135645426.cms",
+      "title": "‘That stops when I’m governor’: Texas governor-elect Gina Hinojosa warns Elon Musk, Big Tech over data centres",
+      "published": "2026-11-07T19:17:38+00:00",
+      "author": "Poulomi Ghosh",
+      "description": "",
+      "link": "https://timesofindia.indiatimes.com/world/us/that-stops-when-im-governor-texas-governor-elect-gina-hinojosa-warns-elon-musk-big-tech-over-data-centres/articleshow/135645426.cms",
+      "image": "https://static.toiimg.com/photo/msid-135645515,imgsize-54330.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o#1",
@@ -227,20 +325,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo#0",
-      "title": "What we know about Krakow mass shooting so far",
-      "published": "2026-11-07T18:22:11+00:00",
-      "author": null,
-      "description": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.",
-      "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "https://www.nytimes.com/2026/11/07/world/europe/ukraine-russia-war-operation-vivaldi.html",
@@ -13919,90 +14003,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/us-streamers/how-theburntpeanut-turned-a-small-gaming-channel-into-a-streaming-sensation-after-making-one-major-change-to-his-content/articleshow/135531820.cms",
-      "title": "How TheBurntPeanut turned a small gaming channel into a streaming sensation after making one major change to his content",
-      "published": "2026-11-04T08:34:31+00:00",
-      "author": "Global Sports Desk",
-      "description": "TheBurntPeanut transformed his streaming career by adopting a humorous approach with a virtual peanut avatar. He initially struggled to gain viewers while making serious gaming guides for Escape from Tarkov. His change to a funny streaming style significantly increased his audience and popularity over time. The launch of ARC Raiders further contributed to his success as he became a well-known figure among gamers.",
-      "link": "https://timesofindia.indiatimes.com/world/us-streamers/how-theburntpeanut-turned-a-small-gaming-channel-into-a-streaming-sensation-after-making-one-major-change-to-his-content/articleshow/135531820.cms",
-      "image": "https://static.toiimg.com/photo/msid-135531966,imgsize-521363.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "t3_1xnj2az",
-      "title": "China Confirms Talks With Russia, US on First Trilateral Meeting",
-      "published": "2026-11-04T08:32:13+00:00",
-      "author": "/u/bloomberg",
-      "description": "submitted by /u/bloomberg [link] [comments]",
-      "link": "https://www.reddit.com/r/worldnews/comments/1xnj2az/china_confirms_talks_with_russia_us_on_first/",
-      "image": "https://external-preview.redd.it/sIPdS_ycKGYApO_M5We28R7lfCor0EjM1xwnS32Hqh8.jpeg?width=640&crop=smart&auto=webp&s=19f020de41368c16440bf29e4c83f5db7488f5ed",
-      "feed_name": "World News",
-      "feed_title": "World News",
-      "category": "World News",
-      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
-      "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "t3_1xnip3v",
-      "title": "Democrats win control of Congress; experts say little will change for Ukraine, Europe",
-      "published": "2026-11-04T08:08:23+00:00",
-      "author": "/u/kindermaxi123",
-      "description": "submitted by /u/kindermaxi123 [link] [comments]",
-      "link": "https://www.reddit.com/r/worldnews/comments/1xnip3v/democrats_win_control_of_congress_experts_say/",
-      "image": "https://external-preview.redd.it/niqm7ojaidLkt5j5cWYfrxig2zXFpAZMDL8Z5UWCQjw.jpeg?width=640&crop=smart&auto=webp&s=76a3f86c97d7e7fdcec2b37797a4e981581cdbfc",
-      "feed_name": "World News",
-      "feed_title": "World News",
-      "category": "World News",
-      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
-      "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cq74pexm44elo#3",
-      "title": "Tears, celebrations and selfies: US midterms in pictures",
-      "published": "2026-11-04T08:05:53+00:00",
-      "author": null,
-      "description": "Democrats cheered as they picked up victories in Republican states. Tears were shed as Republican losses mounted.",
-      "link": "https://www.bbc.co.uk/news/articles/cq74pexm44elo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/542e/live/f2cd3c50-d83c-11f1-a701-fddedf244c16.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/us-midterm-elections-results-2026-sherrod-brown-flips-senate-seat-in-ohio-for-democrats-ousts-republican-jon-husted-12280808#publisher=newsstand",
-      "title": "Sherrod Brown Flips Senate Seat In Ohio For Democrats, Ousts Republican",
-      "published": "2026-11-04T08:00:00+00:00",
-      "author": null,
-      "description": "Sherrod Brown now serves out the final two years of the Senate term won by JD Vance in 2022.",
-      "link": "https://www.ndtv.com/world-news/us-midterm-elections-results-2026-sherrod-brown-flips-senate-seat-in-ohio-for-democrats-ousts-republican-jon-husted-12280808#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-11/ja6saeqk_sherrod-brown_625x300_04_November_26.jpeg",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/maga-rejection-ends-donald-trumps-tariff-bully-tactics-against-india-top-economist-jeffrey-d-sachs-12281308#publisher=newsstand",
-      "title": "MAGA Rejection Ends Trump's Tariff Bully Tactics Against India: Top Economist",
-      "published": "2026-11-04T07:59:44+00:00",
-      "author": null,
-      "description": "NDTV's Shiv Aroor speaks to economist Jeffrey D Sachs",
-      "link": "https://www.ndtv.com/world-news/maga-rejection-ends-donald-trumps-tariff-bully-tactics-against-india-top-economist-jeffrey-d-sachs-12281308#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-11/eavfhmno_jeffrey-d-sachs_625x300_04_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     }
   ]
 }
