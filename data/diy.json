@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-07T11:32:25.874644+00:00",
-  "count": 936,
+  "updated": "2026-11-07T12:03:06.954256+00:00",
+  "count": 938,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/the-worst-mistake-after-leaving-your-laptop-in-a-freezing-car/",
+      "title": "The worst mistake you can make after leaving your laptop in a freezing car",
+      "published": "2026-11-07T12:01:16+00:00",
+      "author": "Gregory Gibson",
+      "description": "A little chemistry could’ve saved my battery",
+      "link": "https://www.makeuseof.com/the-worst-mistake-after-leaving-your-laptop-in-a-freezing-car/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/snow-covered-pajero-io.png",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/docker-isnt-magic-its-these-5-linux-kernel-features-strapped-together/",
+      "title": "Docker isn't magic, it's these 5 Linux kernel features strapped together",
+      "published": "2026-11-07T12:00:15+00:00",
+      "author": "Andrew Heinzman",
+      "description": "Who invented containers?",
+      "link": "https://www.howtogeek.com/docker-isnt-magic-its-these-5-linux-kernel-features-strapped-together/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2025/02/illustration-of-the-docker-logo-featuring-a-stylized-whale-carrying-containers-and-a-nas-server.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/aaa-games-you-can-now-play-in-your-browser-including-gta-halo-and-half-life/",
       "title": "6 AAA games you can now play in your browser, including GTA 5, Halo, and Skate 3",
