@@ -1,9 +1,51 @@
 {
   "category": "science",
-  "updated": "2026-11-07T14:02:58.784024+00:00",
+  "updated": "2026-11-07T14:33:12.698753+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "news713180960",
+      "title": "The introduction of a medieval public health system exposed the population to roundworm",
+      "published": "2026-11-07T14:30:01+00:00",
+      "author": null,
+      "description": "Medieval health and sanitation efforts involved deliberate interventions; however, some of these measures had the opposite effect, leading to an increased spread of disease in Trondheim.",
+      "link": "https://phys.org/news/2026-11-introduction-medieval-health-exposed-population.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-introduction-of-a.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/07/science/donald-trump-daylight-saving-time.html",
+      "title": "Still on the President’s Agenda: Daylight Saving Time",
+      "published": "2026-11-07T14:21:08+00:00",
+      "author": "Lynne Peeples",
+      "description": "Following an election-year rout for Republicans, Trump castigated lawmakers for not passing the Sunshine Protection Act. Some scientists have warned against the change.",
+      "link": "https://www.nytimes.com/2026/11/07/science/donald-trump-daylight-saving-time.html",
+      "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07SCI-DSL-TRUMP-ltmq/07SCI-DSL-TRUMP-ltmq-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Science",
+      "feed_title": "NYT > Science",
+      "category": "science",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/06/science/lonnie-thompson-dead.html",
+      "title": "Lonnie Thompson Has Died. He Dodged Avalanches to Preserve Climate History.",
+      "published": "2026-11-07T14:19:29+00:00",
+      "author": "Raymond Zhong",
+      "description": "His observations helped establish shriveling mountain glaciers as an unmistakable consequence of human-caused warming. He was 78.",
+      "link": "https://www.nytimes.com/2026/11/06/science/lonnie-thompson-dead.html",
+      "image": null,
+      "feed_name": "NYT > Science",
+      "feed_title": "NYT > Science",
+      "category": "science",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "news713196588",
       "title": "Theory predicting an older universe without dark matter or dark energy passes key cosmological tests",
@@ -157,20 +199,6 @@
       "category": "science",
       "feed_url": "https://www.sciencedaily.com/rss/all.xml",
       "feed_icon": "https://www.sciencedaily.com/images/scidaily-logo-rss.png"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/07/science/donald-trump-daylight-saving-time.html",
-      "title": "Despite All, Daylight Saving Time Is Still on Trump’s Mind",
-      "published": "2026-11-07T10:03:35+00:00",
-      "author": "Lynne Peeples",
-      "description": "Following an election-year rout for Republicans, Trump castigated lawmakers for not passing the Sunshine Protection Act. Some scientists have warned against the change.",
-      "link": "https://www.nytimes.com/2026/11/07/science/donald-trump-daylight-saving-time.html",
-      "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07SCI-DSL-TRUMP-ltmq/07SCI-DSL-TRUMP-ltmq-mediumSquareAt3X.jpg",
-      "feed_name": "NYT > Science",
-      "feed_title": "NYT > Science",
-      "category": "science",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://www.sciencedaily.com/releases/2026/11/261104012305.htm",
@@ -563,20 +591,6 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/06/science/lonnie-thompson-dead.html",
-      "title": "Lonnie Thompson Has Died. He Dodged Avalanches to Preserve Climate History.",
-      "published": "2026-11-06T19:17:59+00:00",
-      "author": "Raymond Zhong",
-      "description": "His observations helped establish shriveling mountain glaciers as an unmistakable consequence of human-caused warming. He was 78.",
-      "link": "https://www.nytimes.com/2026/11/06/science/lonnie-thompson-dead.html",
-      "image": null,
-      "feed_name": "NYT > Science",
-      "feed_title": "NYT > Science",
-      "category": "science",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "news713186658",
@@ -13984,20 +13998,6 @@
       "description": "Researchers at University of Tsukuba have found that river responses to rainfall can reach rivers and appear as runoff much more rapidly than previously assumed in mountainous regions. Through continuous monitoring of precipitation and river water levels, they documented rapid rainfall-related responses not only in moderate-relief catchments but also in high-relief catchments with mountain slopes exceeding 500 m in length. The findings provide new insights into runoff generation and flood devel…",
       "link": "https://phys.org/news/2026-10-rainfall-mountain-slopes-rivers-faster.html",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rainfall-can-travel-fr.jpg",
-      "feed_name": "Phys.org - latest science and technology news stories",
-      "feed_title": "Phys.org - latest science and technology news stories",
-      "category": "science",
-      "feed_url": "https://phys.org/rss-feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "news712490860",
-      "title": "Ancient charcoal remains provide clues about Neanderthal camp organization",
-      "published": "2026-10-29T15:50:01+00:00",
-      "author": null,
-      "description": "Usually, people associate archaeological studies with bones, pottery and primitive tools, but archaeologists often find other clues about how ancient people lived hidden throughout a site. A new study, published in the Journal of Paleolithic Archaeology, focuses on bits of charcoal and their spatial organization to get a glimpse of Neanderthal life in Abric Romaní, an ancient rock shelter near Barcelona.",
-      "link": "https://phys.org/news/2026-10-ancient-charcoal-clues-neanderthal.html",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ancient-charcoal-remai.jpg",
       "feed_name": "Phys.org - latest science and technology news stories",
       "feed_title": "Phys.org - latest science and technology news stories",
       "category": "science",
