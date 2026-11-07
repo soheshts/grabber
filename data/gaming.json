@@ -1,6 +1,6 @@
 {
   "category": "gaming",
-  "updated": "2026-11-07T02:03:50.966083+00:00",
+  "updated": "2026-11-07T02:33:14.784421+00:00",
   "count": 1000,
   "summary": null,
   "items": [
@@ -17,6 +17,20 @@
       "category": "gaming",
       "feed_url": "https://www.polygon.com/rss/index.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.polygon.com&sz=64"
+    },
+    {
+      "id": "923616f7-4885-4d4b-be7d-3ce7343b0c48",
+      "title": "Avengers: Doomsday Car Commercial Features New Look at Nightcrawler, Sparks Theories About Unannounced Heroes",
+      "published": "2026-11-07T01:14:21+00:00",
+      "author": "Michael Cripe",
+      "description": "An Avengers: Doomsday car commercial just revealed a first look at Alan Cumming's Nightcrawler in motion – and it may have teased a surprising cameo, too.",
+      "link": "https://www.ign.com/articles/avengers-doomsday-car-commercial-features-new-look-at-nightcrawler-sparks-theories-about-unannounced-heroes",
+      "image": "https://assets-prd.ignimgs.com/2026/11/07/avengers-doomsday-car-commercial-1794010987736.png",
+      "feed_name": "IGN All",
+      "feed_title": "IGN Articles",
+      "category": "gaming",
+      "feed_url": "http://feeds.ign.com/ign/all",
+      "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
     },
     {
       "id": "https://www.polygon.com/gta-games-ranked-metacritic-scores/",
@@ -13989,20 +14003,6 @@
       "category": "gaming",
       "feed_url": "http://feeds.ign.com/ign/all",
       "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
-    },
-    {
-      "id": "https://store.steampowered.com/news/289665/",
-      "title": "Team Fortress 2 Update Released",
-      "published": "2026-10-30T23:18:00+00:00",
-      "author": "Valve",
-      "description": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include: Updated cp_wildcat_event to fix missing model for Spies disguised as pumpkins Updated/Added some tournament medals",
-      "link": "https://store.steampowered.com/news/289665/",
-      "image": "https://store.fastly.steamstatic.com/public/shared/images/responsive/steam_share_image.jpg",
-      "feed_name": "Steam RSS News Feed",
-      "feed_title": "Steam RSS News Feed",
-      "category": "gaming",
-      "feed_url": "https://store.steampowered.com/feeds/news.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.steampowered.com&sz=64"
     }
   ]
 }
