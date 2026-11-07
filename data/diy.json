@@ -1,9 +1,51 @@
 {
   "category": "DIY",
-  "updated": "2026-11-07T16:32:31.768833+00:00",
-  "count": 963,
+  "updated": "2026-11-07T17:02:30.901896+00:00",
+  "count": 967,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/share-files-across-devices-with-pairdrop/",
+      "title": "This is the simplest way to share files across devices without installing apps",
+      "published": "2026-11-07T17:00:17+00:00",
+      "author": "Pankil Shah",
+      "description": "LocalSend and Blip don't even come close.",
+      "link": "https://www.makeuseof.com/share-files-across-devices-with-pairdrop/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/phone-and-windows-laptop-showing-pairdrop.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/the-first-foldable-e-ink-tablet-is-not-what-you-think-it-is/",
+      "title": "The first “foldable” E Ink tablet is not what you think it is",
+      "published": "2026-11-07T17:00:16+00:00",
+      "author": "Namerah Saud Fatmi",
+      "description": "InkLeaf has made the world's first dual-display eReader, but it's not really a foldable.",
+      "link": "https://www.howtogeek.com/the-first-foldable-e-ink-tablet-is-not-what-you-think-it-is/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/inkleaf-1.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.makeuseof.com/cheap-doorbell-texts-phone-never-bought-ring/",
+      "title": "My cheap wired doorbell texts my phone now, and I never bought a Ring",
+      "published": "2026-11-07T16:45:17+00:00",
+      "author": "Yadullah Abidi",
+      "description": "A $0.50 reed switch taught my doorbell to snitch on visitors.",
+      "link": "https://www.makeuseof.com/cheap-doorbell-texts-phone-never-bought-ring/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/esp32-with-a-dumb-doorbell.JPG",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/logitech-mx-keypad-review/",
       "title": "Logitech MX Keypad review: dedicated page buttons make nine keys feel like plenty",
@@ -17,6 +59,20 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://hackaday.com/?p=1398364",
+      "title": "Repairing a Polaroid 630 SL Lightmixer Instant Camera",
+      "published": "2026-11-07T16:30:03+00:00",
+      "author": "Maya Posch",
+      "description": "Before the advent of digital cameras, if you wanted to take a few photos without having to get a whole roll of film developed, you’d use some form of instant …read more",
+      "link": "https://hackaday.com/2026/11/07/repairing-a-polaroid-630-sl-lightmixer-instant-camera/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/polaroid_630_sl_instant_camera_odd_tinkering_youtube.jpg",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
     },
     {
       "id": "https://www.makeuseof.com/your-android-phone-has-a-battery-protection-setting-and-the-default-isnt-the-one-you-want/",
