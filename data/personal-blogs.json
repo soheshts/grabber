@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-06T23:33:15.369742+00:00",
-  "count": 444,
+  "updated": "2026-11-07T00:02:29.479138+00:00",
+  "count": 442,
   "summary": null,
   "items": [
     {
@@ -5477,34 +5477,6 @@
       "category": "personal blogs",
       "feed_url": "https://www.michaelcattell.com/feed.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=localhost:4000&sz=64"
-    },
-    {
-      "id": "https://sarahmhigley.com/writing/interactive-lists/",
-      "title": "The web needs interactive lists",
-      "published": "2026-10-08T00:00:00+00:00",
-      "author": "Sarah Higley",
-      "description": "One of the priciples of creating new web platform features is \"pave the cowpaths\" -- figure out what cursèd UI developers and designers are already creating with third party HTML/CSS/JS, and brainstorm how to pull it into the web platform. Maybe with an exorcism or two to fix any particularly egregious accessibility problems. When the same principle is applied to web accessibility specs, it generally means ensuring any widely used UI patterns can be marked up with an appropriate semantic patter…",
-      "link": "https://sarahmhigley.com/writing/interactive-lists/",
-      "image": "https://sarahmhigley.com/writing/assets/interactive-card-file-list.png",
-      "feed_name": "Sarah Higley",
-      "feed_title": "Sarah Higley",
-      "category": "personal blogs",
-      "feed_url": "https://sarahmhigley.com/feed.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=sarahmhigley.com&sz=64"
-    },
-    {
-      "id": "https://ohhelloana.blog/my-interop-2027/",
-      "title": "My Interop feature ranking",
-      "published": "2026-10-08T00:00:00+00:00",
-      "author": "Ana Rodrigues (hello@anarodrigu.es)",
-      "description": "The Firefox team just launched a website that allows users to rank the Interop 2027 proposals that they care about. And I care about things - for selfish reasons and for work. And that's a challenge. I want to rank things that only benefit me and my blog but I also want to rank things that would make my daily job easier. Or, at least, allow me to delete a lot of code. So I settled with a balance of five for each. My final ranking: CSS random() function CSS corner-shape property CSS gap decorati…",
-      "link": "https://ohhelloana.blog/my-interop-2027/",
-      "image": null,
-      "feed_name": "Ana Rodrigues",
-      "feed_title": "Ana Rodrigues",
-      "category": "personal blogs",
-      "feed_url": "https://ohhelloana.blog/feed.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=ohhelloana.blog&sz=64"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
