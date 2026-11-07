@@ -1,9 +1,37 @@
 {
   "category": "technology",
-  "updated": "2026-11-07T11:03:00.826235+00:00",
+  "updated": "2026-11-07T11:32:25.874644+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "TheNextWeb=b8d90616d9fdcba36fa0dbc14ee5dda3",
+      "title": "US charges three men over $129m scheme that faked CEOs’ voices with AI",
+      "published": "2026-11-07T11:01:01+00:00",
+      "author": "Alina Maria Stan",
+      "description": "US prosecutors have charged three men with using AI to copy the voices and faces of company bosses and lawyers, tricking staff into wiring about $129m. The indictment was unsealed on Thursday, the US Attorney’s Office in Manhattan said. The men are Jacob Soall, 41, Sharon Hazan, 54, and Guy Sheetrit, 42. Spanish police arrested Soall […] This story continues at The Next Web",
+      "link": "https://thenextweb.com/news/us-charges-three-ai-ceo-impersonation-129m-fraud",
+      "image": "https://media.thenextweb.com/2026/10/orange-neon-ai-sign-circuit-board.avif",
+      "feed_name": "The Next Web",
+      "feed_title": "The Next Web",
+      "category": "technology",
+      "feed_url": "https://thenextweb.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
+    {
+      "id": "https://news.slashdot.org/story/26/11/07/0249215/cryosphere-faces-permanent-damage-when-world-overshoots-15c-scientists-warn?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "title": "Cryosphere Faces Permanent Damage When World Overshoots 1.5C, Scientists Warn",
+      "published": "2026-11-07T11:00:00+00:00",
+      "author": "BeauHD",
+      "description": "A UN-backed report warns that even temporarily overshooting the Paris agreement's 1.5C warming target could cause permanent and widespread losses of glaciers, snow and polar ice sheets. With Greenland and Antarctic ice sheets already melting about six times faster than in the 1990s, the report argues that global temperatures should ultimately be brought back below 1C. The Guardian reports: The report, which comes as world leaders and diplomats converge on Turkey for the 31st annual Cop climate…",
+      "link": "https://news.slashdot.org/story/26/11/07/0249215/cryosphere-faces-permanent-damage-when-world-overshoots-15c-scientists-warn?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+      "feed_name": "Slashdot",
+      "feed_title": "Slashdot",
+      "category": "technology",
+      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
+    },
     {
       "id": "TheNextWeb=2a29652e886ba40c4c964caabeef433f",
       "title": "House chairs ask Nvidia’s Jensen Huang to explain reported spy link",
@@ -13975,34 +14003,6 @@
       "category": "technology",
       "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
       "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
-    },
-    {
-      "id": "https://www.theverge.com/?p=1024604",
-      "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
-      "published": "2026-11-02T18:01:30+00:00",
-      "author": "Emma Roth",
-      "description": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners in around 700,000 homes. The announcement comes as opposition to […]",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&strip=all&crop=0,0,100,100",
-      "feed_name": "The Verge -  All Posts",
-      "feed_title": "The Verge",
-      "category": "technology",
-      "feed_url": "https://www.theverge.com/rss/index.xml",
-      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
-    },
-    {
-      "id": "01M6EM3Y8NYE9N957CRQ75RVJ3",
-      "title": "This Handheld Vacuum Fixed My Biggest Problem With Cleaning",
-      "published": "2026-11-02T18:00:00+00:00",
-      "author": "Meredith Dietz",
-      "description": "It's laziness. The problem is laziness.",
-      "link": "https://lifehacker.com/home/handheld-vacuum-upgrade-of-the-week?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M6EM3Y8NYE9N957CRQ75RVJ3/hero-image.jpg",
-      "feed_name": "Lifehacker",
-      "feed_title": "Lifehacker",
-      "category": "technology",
-      "feed_url": "https://lifehacker.com/rss",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=lifehacker.com&sz=64"
     }
   ]
 }
