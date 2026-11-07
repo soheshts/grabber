@@ -1,9 +1,23 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-07T15:32:42.877789+00:00",
-  "count": 440,
+  "updated": "2026-11-07T16:03:55.123097+00:00",
+  "count": 441,
   "summary": null,
   "items": [
+    {
+      "id": "01m6v861v7zvx4s1xj4qa0gzbm",
+      "title": "Introducing snoei",
+      "published": "2026-11-07T15:10:58+00:00",
+      "author": "Sven Luijten",
+      "description": "",
+      "link": "https://svenluijten.com/blog/introducing-snoei",
+      "image": "https://oggy.sven.luijten.dev?title=Introducing+snoei&subtitle=My+development+workflow+these+days+makes+heavy+use+of+worktrees+and+stacked+PRs.+This+has+the+benefit+of+proper+isolatio...",
+      "feed_name": "Sven Luijten",
+      "feed_title": "Sven Luijten",
+      "category": "personal blogs",
+      "feed_url": "https://svenluijten.com/feeds/all.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=svenluijten.com&sz=64"
+    },
     {
       "id": "https://shkspr.mobi/blog/?p=73538",
       "title": "Book Review: When the Dust Settles - Stories of Love, Loss and Hope from an Expert in Disaster by Lucy Easthope ★★★★★",
