@@ -1,9 +1,23 @@
 {
   "category": "science",
-  "updated": "2026-11-07T06:02:33.651694+00:00",
+  "updated": "2026-11-07T06:32:34.603701+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.scientificamerican.com/article/math-puzzle-secret-formula/",
+      "title": "Math Puzzle: Secret formula",
+      "published": "2026-11-07T05:00:00+00:00",
+      "author": null,
+      "description": "Can you guess the puzzle writer’s secret formula?",
+      "link": "https://www.scientificamerican.com/article/math-puzzle-secret-formula/",
+      "image": "https://static.scientificamerican.com/dam/asset/3b98b863-01f7-4b5c-bc7a-4c7d87167981/Jumbled-Number-Blocks-RF.jpg?m=1793986701.28&w=1200",
+      "feed_name": "Scientific American Content: Global",
+      "feed_title": "Scientific American Content: Global",
+      "category": "science",
+      "feed_url": "http://rss.sciam.com/ScientificAmerican-Global",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.scientificamerican.com&sz=64"
+    },
     {
       "id": "news713190373",
       "title": "Disasters and debt. Escaping the 'climate-debt doom loop'",
@@ -13989,20 +14003,6 @@
       "category": "science",
       "feed_url": "https://www.sciencedaily.com/rss/all.xml",
       "feed_icon": "https://www.sciencedaily.com/images/scidaily-logo-rss.png"
-    },
-    {
-      "id": "news712384159",
-      "title": "Children need to learn to swim for academic and social milestones, rather than just fitness, research suggests",
-      "published": "2026-10-29T13:10:02+00:00",
-      "author": null,
-      "description": "With family budgets stretched ever tighter, swimming lessons can be one of the first expenses to be cut back—but with research showing swimming helps children not just physically but developmentally, researchers are calling for greater government support.",
-      "link": "https://phys.org/news/2026-10-children-academic-social-milestones.html",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/children-swimming.jpg",
-      "feed_name": "Phys.org - latest science and technology news stories",
-      "feed_title": "Phys.org - latest science and technology news stories",
-      "category": "science",
-      "feed_url": "https://phys.org/rss-feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
     }
   ]
 }
