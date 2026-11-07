@@ -1,9 +1,23 @@
 {
   "category": "World News",
-  "updated": "2026-11-07T04:03:13.813707+00:00",
+  "updated": "2026-11-07T04:34:04.981318+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/republicans-spent-more-democrats-won-more-inside-the-costliest-us-midterm-battle/articleshow/135626137.cms",
+      "title": "Republicans spent more, Democrats won more: Inside the costliest US midterm battle",
+      "published": "2026-11-07T04:17:53+00:00",
+      "author": "Shivanghi Payal",
+      "description": "In the 2026 US midterm elections, Democrats made notable gains among Latino voters, following a period of prior support for Republicans. Increased spending by GOP candidates did not secure the anticipated wins, resulting in losses in key districts. High turnout from Latino constituents significantly impacted voting dynamics nationwide, with many responding negatively to proposed data centre projects.",
+      "link": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/republicans-spent-more-democrats-won-more-inside-the-costliest-us-midterm-battle/articleshow/135626137.cms",
+      "image": "https://static.toiimg.com/photo/msid-135626296,imgsize-91368.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
     {
       "id": "t3_1xpwyrr",
       "title": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1718, Part 1 (Thread #1865)",
@@ -409,6 +423,20 @@
       "category": "World News",
       "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
       "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
+      "id": "t3_1xprmz3",
+      "title": "Japan’s Nikkei 225 Enters Bear Market as AI Selloff Deepens",
+      "published": "2026-11-06T23:36:37+00:00",
+      "author": "/u/sakhaliner",
+      "description": "submitted by /u/sakhaliner [link] [comments]",
+      "link": "https://www.reddit.com/r/worldnews/comments/1xprmz3/japans_nikkei_225_enters_bear_market_as_ai/",
+      "image": "https://external-preview.redd.it/phVjCnsvWMt-sVOfNzZGsGpDtFFxlLsVNERJd8KXo0A.jpeg?width=640&crop=smart&auto=webp&s=626767ddb321d921022024ac1bcd428daac95bc1",
+      "feed_name": "World News",
+      "feed_title": "World News",
+      "category": "World News",
+      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
+      "feed_icon": "https://www.redditstatic.com/icon.png/"
     },
     {
       "id": "https://www.ndtv.com/world-news/paraguay-senate-impeaches-president-santiago-pea-over-banking-crisis-12295139#publisher=newsstand",
@@ -13975,34 +14003,6 @@
       "category": "World News",
       "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
       "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/indian-americans-in-virginia-back-democrats-as-midterm-voting-gets-underway-12278974#publisher=newsstand",
-      "title": "Indian-Americans In Virginia Back Democrats As Midterm Voting Gets Underway",
-      "published": "2026-11-03T18:52:20+00:00",
-      "author": null,
-      "description": "Indian-American community described the election as an important moment",
-      "link": "https://www.ndtv.com/world-news/indian-americans-in-virginia-back-democrats-as-midterm-voting-gets-underway-12278974#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-11/sia8dd2g_us-midterm-_625x300_04_November_26.jpeg",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
-      "id": "108511116",
-      "title": "Binance co-CEO Richard Teng says hackers used fake job interviews, AI tool to steal $6.3 billion in crypto",
-      "published": "2026-11-03T18:40:37+00:00",
-      "author": null,
-      "description": "Binance has replenished 98% of $6.34 billion in affected assets, according to a security report the crypto exchange issued Tuesday.",
-      "link": "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108512474-1793731104889-gettyimages-2298522589-SINGAPORE_TOKEN2049.jpeg?v=1793731131&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     }
   ]
 }
