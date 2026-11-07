@@ -1,9 +1,51 @@
 {
   "category": "technology",
-  "updated": "2026-11-07T14:33:12.698753+00:00",
+  "updated": "2026-11-07T15:03:06.708647+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.engadget.com/2305351/windows-powertoys-automate-pc-tasks/",
+      "title": "Windows PowerToys can automate some of your more tedious PC tasks",
+      "published": "2026-11-07T14:45:00+00:00",
+      "author": "Luke James",
+      "description": "PowerToys is a secret weapon for Windows users, with tons of handy utilities to help you save time on your PC every day.",
+      "link": "https://www.engadget.com/2305351/windows-powertoys-automate-pc-tasks/",
+      "image": "https://www.engadget.com/img/gallery/windows-powertoys-can-automate-some-of-your-more-tedious-pc-tasks/l-intro-1793722923.jpg",
+      "feed_name": "Engadget",
+      "feed_title": "Engadget - Technology News & Expert Reviews",
+      "category": "technology",
+      "feed_url": "https://www.engadget.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
+    {
+      "id": "https://www.theverge.com/?p=1029460",
+      "title": "Good riddance, Cybertruck!",
+      "published": "2026-11-07T14:40:06+00:00",
+      "author": "Andrew J. Hawkins",
+      "description": "I'm calling it: time of death, November 6th, 1:30 AM, by tweet. Elon Musk's declaration Friday that Tesla would be \"winding down\" production of the Cybertruck next year to make room for the Cybercab was fascinating for a number of reasons. First, it was a humiliating way to kill a vehicle that was once hailed […]",
+      "link": "https://www.theverge.com/transportation/1029460/elon-musk-cybertruck-death-election-backlash",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/yI0AMBlStYQ-HD.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "feed_name": "The Verge -  All Posts",
+      "feed_title": "The Verge",
+      "category": "technology",
+      "feed_url": "https://www.theverge.com/rss/index.xml",
+      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
+    },
+    {
+      "id": "https://www.engadget.com/2304963/samsung-galaxy-s26-users-accessory-take-advantage-of/",
+      "title": "The accessory Samsung Galaxy S26 users should be taking advantage of",
+      "published": "2026-11-07T14:30:00+00:00",
+      "author": "Max Miller",
+      "description": "There's a lot to like about Samsung's Galaxy S26 phones, especially the S26 Ultra, but some users may not be taking full advantage of what they have to offer.",
+      "link": "https://www.engadget.com/2304963/samsung-galaxy-s26-users-accessory-take-advantage-of/",
+      "image": "https://www.engadget.com/img/gallery/the-accessory-samsung-galaxy-s26-users-should-be-taking-advantage-of/l-intro-1793687035.jpg",
+      "feed_name": "Engadget",
+      "feed_title": "Engadget - Technology News & Expert Reviews",
+      "category": "technology",
+      "feed_url": "https://www.engadget.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
     {
       "id": "https://www.engadget.com/2305214/touchscreen-laptop-whats-the-point-could-use-tablet/",
       "title": "What's the point of buying a touchscreen laptop when you could just get a tablet?",
@@ -549,6 +591,20 @@
       "category": "technology",
       "feed_url": "http://feeds.mashable.com/Mashable",
       "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
+    },
+    {
+      "id": "https://readwrite.com/?p=654707",
+      "title": "FanDuel US profit falls 94% to $3 million as Flutter spends on FanDuel Predicts",
+      "published": "2026-11-07T07:18:49+00:00",
+      "author": "ReadWrite Editor",
+      "description": "FanDuel's US adjusted EBITDA nearly disappeared in the third quarter of 2026, even as US revenue rose 6%. Flutter blamed spending on FanDuel Predicts and its Alberta launch, while FanDuel Casino's revenue growth slowed to 8%. The post FanDuel US profit falls 94% to $3 million as Flutter spends on FanDuel Predicts appeared first on ReadWrite .",
+      "link": "https://readwrite.com/fanduel-us-profit-falls-94-to-3-million-as-flutter-spends-on-fanduel-predicts/",
+      "image": "https://readwrite.com/wp-content/uploads/2026/11/new-york-stock-exchange-900x675.jpg",
+      "feed_name": "ReadWrite",
+      "feed_title": "ReadWrite",
+      "category": "technology",
+      "feed_url": "https://readwrite.com/feed/",
+      "feed_icon": "https://readwrite.com/wp-content/uploads/2024/10/cropped-readwrite-favicon-32x32.png"
     },
     {
       "id": "https://science.slashdot.org/story/26/11/07/0216257/vibrating-mattress-helps-clear-alzheimers-protein-from-the-brain?utm_source=rss1.0mainlinkanon&utm_medium=feed",
@@ -13947,62 +14003,6 @@
       "category": "technology",
       "feed_url": "https://thenextweb.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
-    },
-    {
-      "id": "0416YaobSCFOzP6XCnNcZhr",
-      "title": "Is it legit? How to tell if that website or social media account is a scam",
-      "published": "2026-11-02T19:19:02+00:00",
-      "author": null,
-      "description": "AI is making it easier to build fake sources and harder to fact-check information. Here's how to spot the real stuff.",
-      "link": "https://mashable.com/tech/how-to-verify-website-account-is-legit-or-scam",
-      "image": "https://helios-i.mashable.com/imagery/articles/0416YaobSCFOzP6XCnNcZhr/hero-image.jpg",
-      "feed_name": "Mashable",
-      "feed_title": "Mashable",
-      "category": "technology",
-      "feed_url": "http://feeds.mashable.com/Mashable",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
-    },
-    {
-      "id": "yt:video:bqDCkYaOtGA",
-      "title": "Cloud gaming works — but it's not winning",
-      "published": "2026-11-02T19:15:06+00:00",
-      "author": "The Verge",
-      "description": "Streaming all your video games seems like such a good, simple idea. All your games, everywhere, on any screen you like — it's the dream! The Verge's Sean Hollister explains how the tech works now (which might be better than you think), why it'll take a huge amount of work to make it even a little bit better, and why games like Grand Theft Auto VI probably can't just live in the cloud. 00:00 Intro 00:56 90 Seconds on The Verge 02:33 Why Cloud Gaming Now 07:19 Early Cloud Gaming History 10:53 Fri…",
-      "link": "https://www.youtube.com/watch?v=bqDCkYaOtGA",
-      "image": "https://i3.ytimg.com/vi/bqDCkYaOtGA/hqdefault.jpg",
-      "feed_name": "The Verge",
-      "feed_title": "The Verge",
-      "category": "technology",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?user=TheVerge",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64"
-    },
-    {
-      "id": "https://arstechnica.com/science/2026/11/most-of-our-measures-of-a-key-cognitive-process-dont-agree/",
-      "title": "Most of our measures of a key cognitive process don't agree",
-      "published": "2026-11-02T19:13:26+00:00",
-      "author": "John Timmer",
-      "description": "A big study with very little beyond negative results still gets published.",
-      "link": "https://arstechnica.com/science/2026/11/most-of-our-measures-of-a-key-cognitive-process-dont-agree/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2182089944-500x500.jpg",
-      "feed_name": "Ars Technica",
-      "feed_title": "Ars Technica - All content",
-      "category": "technology",
-      "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
-      "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
-    },
-    {
-      "id": "https://www.engadget.com/2304464/snap-settles-social-media-addiction-lawsuit-to-avoid-trial/",
-      "title": "Snap settles social media addiction lawsuit to avoid trial",
-      "published": "2026-11-02T19:09:53+00:00",
-      "author": "Karissa Bell",
-      "description": "Snap CEO Evan Spiegel was due to testify in the upcoming trial.",
-      "link": "https://www.engadget.com/2304464/snap-settles-social-media-addiction-lawsuit-to-avoid-trial/",
-      "image": "https://www.engadget.com/img/gallery/snap-settles-social-media-addiction-lawsuit-to-avoid-trial/l-intro-1793646506.jpg",
-      "feed_name": "Engadget",
-      "feed_title": "Engadget - Technology News & Expert Reviews",
-      "category": "technology",
-      "feed_url": "https://www.engadget.com/rss.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
     }
   ]
 }

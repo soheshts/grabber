@@ -1,9 +1,51 @@
 {
   "category": "DIY",
-  "updated": "2026-11-07T14:33:12.698753+00:00",
-  "count": 954,
+  "updated": "2026-11-07T15:03:06.708647+00:00",
+  "count": 957,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/your-linux-distro-could-be-quietly-costing-you-30-minutes-of-battery-life/",
+      "title": "Your Linux distro could be quietly costing you 30 minutes of battery life",
+      "published": "2026-11-07T15:01:16+00:00",
+      "author": "Dipan Saha",
+      "description": "Some distros just fare better.",
+      "link": "https://www.makeuseof.com/your-linux-distro-could-be-quietly-costing-you-30-minutes-of-battery-life/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/08/ubuntu-26-04-lts.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/how-to-prepare-your-ryobi-tools-batteries-for-winter/",
+      "title": "I bring my Ryobi batteries inside for the winter, and you should too",
+      "published": "2026-11-07T15:01:15+00:00",
+      "author": "Cory Gunther",
+      "description": "Battery temperature is more important than you think.",
+      "link": "https://www.howtogeek.com/how-to-prepare-your-ryobi-tools-batteries-for-winter/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/ryobi-one-4ah-battery-attached-to-a-drill-with-its-four-green-fuel-gauge-lights-on.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/368781/how-to-enable-ultimate-performance-power-plan-in-windows-10/",
+      "title": "How to enable the Ultimate Performance power plan in Windows",
+      "published": "2026-11-07T14:43:03+00:00",
+      "author": "Brady Gavin",
+      "description": "Ultimate performance comes at a cost.",
+      "link": "https://www.howtogeek.com/368781/how-to-enable-ultimate-performance-power-plan-in-windows-10/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/52675662149_dd10c0c7a4_o-1.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/tp-links-update-deadline-is-the-reason-to-put-openwrt-on-your-router/",
       "title": "TP-Link’s update deadline is the best reason yet to put OpenWrt on your router",
