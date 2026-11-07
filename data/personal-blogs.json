@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-07T17:33:36.903483+00:00",
-  "count": 441,
+  "updated": "2026-11-07T18:03:52.259801+00:00",
+  "count": 440,
   "summary": null,
   "items": [
     {
@@ -5449,20 +5449,6 @@
       "category": "personal blogs",
       "feed_url": "https://blog.tomayac.com/feed/feed.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=blog.tomayac.com&sz=64"
-    },
-    {
-      "id": "https://www.raymondcamden.com/2026/10/08/tiny-apps-with-tinyjs",
-      "title": "Tiny Apps with TinyJS",
-      "published": "2026-10-08T18:00:00+00:00",
-      "author": "Raymond Camden",
-      "description": "About a year ago, I was still running my live stream ( Code Break ) and my final three streams all covered one topic - building desktop applications with non-native code. I covered Tauri (HTML on the front, Rust on the back) and Flet (all Python). Recently I came across another option, tinyjs . TinyJS (technically the name is \"tinyjs\" but I can't make myself use the lowercase in my writing like that ;) is a lot like PhoneGap/Apache Cordova. Your application is the system web view shipped along…",
-      "link": "https://www.raymondcamden.com/2026/10/08/tiny-apps-with-tinyjs",
-      "image": "https://static.raymondcamden.com/images/2026/10/tj1.png",
-      "feed_name": "Raymond Camden",
-      "feed_title": "Raymond Camden",
-      "category": "personal blogs",
-      "feed_url": "https://www.raymondcamden.com/feed.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.raymondcamden.com&sz=64"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
