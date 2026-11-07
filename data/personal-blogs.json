@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-07T21:33:33.729592+00:00",
-  "count": 437,
+  "updated": "2026-11-07T22:03:50.004251+00:00",
+  "count": 438,
   "summary": null,
   "items": [
     {
@@ -255,6 +255,20 @@
       "category": "personal blogs",
       "feed_url": "https://www.benjystanton.co.uk/feed.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.benjystanton.co.uk&sz=64"
+    },
+    {
+      "id": "https://garrettdimon.com/journal/links/your-pr-shouldn-t-make-your-stomach-hurt",
+      "title": "Your PR Shouldn’t Make Your Stomach Hurt",
+      "published": "2026-11-06T00:00:00+00:00",
+      "author": "email@garrettdimon.com",
+      "description": "> If a pull request makes your stomach hurt, another round of AI review might not be the answer. John and Garrett compare the workflows that keep changes small, explain how feature flags helped move Fireside’s file storage, and talk about what to watch when support gets suspiciously quiet. Permalink",
+      "link": "https://thefridaydeploy.fireside.fm/2",
+      "image": "https://cdn.fireside.fm/file/fireside-images-2024/podcasts/images/c/cf46278b-b0e2-4c19-bb2d-a4220cbf6aab/episodes/2/2a9b943f-4aef-460f-8fa9-633838d64e27/cover_medium.jpg?v=1",
+      "feed_name": "Garrett Dimon",
+      "feed_title": "GarrettDimon.com Full",
+      "category": "personal blogs",
+      "feed_url": "https://feeds.feedburner.com/garrettdimoncom",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=garrettdimon.com&sz=64"
     },
     {
       "id": "https://thomasrigby.com/posts/duel-of-the-defaults-2026/",
