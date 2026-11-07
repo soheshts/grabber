@@ -1,9 +1,37 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-07T12:33:15.191312+00:00",
-  "count": 440,
+  "updated": "2026-11-07T13:03:02.050271+00:00",
+  "count": 441,
   "summary": null,
   "items": [
+    {
+      "id": "https://shkspr.mobi/blog/?p=73538",
+      "title": "Book Review: When the Dust Settles - Stories of Love, Loss and Hope from an Expert in Disaster by Lucy Easthope ★★★★★",
+      "published": "2026-11-07T12:34:34+00:00",
+      "author": "Terence Eden",
+      "description": "This is a difficult but essential book. I was initially put off by how graphically autobiographical it is. The disaster planning I came for was frequently interrupted with the author's loves, disasters, health issues, pains, and domestic issues. As the book wore on, I realised how vital that is. Disasters - whether natural or caused by human actions - cannot be tackled in a dispassionate way.…",
+      "link": "https://shkspr.mobi/blog/2026/11/book-review-when-the-dust-settles-stories-of-love-loss-and-hope-from-an-expert-in-disaster-by-lucy-easthope/",
+      "image": "https://shkspr.mobi/blog/wp-content/uploads/2026/07/hbg-title-when-the-dust-settles-2-32.webp",
+      "feed_name": "Terence Eden’s Blog",
+      "feed_title": "Terence Eden’s Blog",
+      "category": "personal blogs",
+      "feed_url": "https://shkspr.mobi/blog/feed/atom/",
+      "feed_icon": "https://shkspr.mobi/blog/wp-content/uploads/2023/07/cropped-avatar-32x32.jpeg"
+    },
+    {
+      "id": "https://ronaldsvilcins.com/2026/11/07/prevent-scroll-chaining-with-overscroll-behavior/",
+      "title": "Prevent Scroll Chaining With overscroll-behavior",
+      "published": "2026-11-07T06:00:00+00:00",
+      "author": "Ronalds Vilciņš",
+      "description": "overscroll-behavior controls scrolling at a container's boundary. Compare contain and none, use axis-specific rules, and understand the limits for modals.",
+      "link": "https://ronaldsvilcins.com/2026/11/07/prevent-scroll-chaining-with-overscroll-behavior/",
+      "image": "https://ronaldsvilcins.com/og/07f983c929cc0ab371e1b8ef8709422878c6d2b34367eb0332d5228acc2c4c3d.jpg",
+      "feed_name": "Ronalds Vilciņš",
+      "feed_title": "Ronalds Vilciņš",
+      "category": "personal blogs",
+      "feed_url": "https://ronaldsvilcins.com/atom.xml",
+      "feed_icon": "https://ronaldsvilcins.com/favicon.png"
+    },
     {
       "id": "https://chriscoyier.net/?p=29903",
       "title": "Got Them Little Side Projects Moved to CodePen Hosting",
@@ -5435,20 +5463,6 @@
       "category": "personal blogs",
       "feed_url": "http://feeds.feedburner.com/HtmlCssJavascript",
       "feed_icon": "https://www.google.com/s2/favicons?domain=htmlcssjavascript.com&sz=64"
-    },
-    {
-      "id": "https://kilianvalkhof.com/?p=3518",
-      "title": "I’d like to have a universal pseudo selector in CSS",
-      "published": "2026-10-08T13:00:13+00:00",
-      "author": "Kilian Valkhof",
-      "description": "Last week, I wasted about an hour of my time figuring out why a certain element had different dimensions than the same element elsewhere in the DOM. It had the same CSS and the same defined width and height, but it still rendered differently. Yes, it was box-sizing. Of course it was box-sizing. I immediately […] The post I’d like to have a universal pseudo selector in CSS first appeared on Kilian Valkhof .",
-      "link": "https://kilianvalkhof.com/2026/css-html/id-like-to-have-a-universal-pseudo-selector-in-css/",
-      "image": null,
-      "feed_name": "Kilian Valkhof",
-      "feed_title": "Kilian Valkhof",
-      "category": "personal blogs",
-      "feed_url": "http://feeds.feedburner.com/Kilianvalkhofcom",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=kilianvalkhof.com&sz=64"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
