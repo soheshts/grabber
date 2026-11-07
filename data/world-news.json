@@ -1,13 +1,27 @@
 {
   "category": "World News",
-  "updated": "2026-11-07T12:03:06.954256+00:00",
+  "updated": "2026-11-07T12:33:15.191312+00:00",
   "count": 1000,
   "summary": null,
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html",
+      "title": "How Israel’s Ex-Army Chief’s Could Oust Netanyahu",
+      "published": "2026-11-07T12:30:17+00:00",
+      "author": "David M. Halbfinger",
+      "description": "Gadi Eisenkot is poised to get a chance to form a new government, replacing Benjamin Netanyahu as prime minister. But the obstacles are formidable.",
+      "link": "https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html",
+      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-israel-eisenkot-01-tjwp/06int-israel-eisenkot-01-tjwp-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
       "id": "https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls",
       "title": "New Zealand election 2026 live results: National and Labour neck-and-neck as minor party eyes kingmaker role",
-      "published": "2026-11-07T11:51:36+00:00",
+      "published": "2026-11-07T12:27:30+00:00",
       "author": "Mark Saunokonoko",
       "description": "Polls show no coalition is expected to secure a majority of seats, in one of the closest elections in recent history New Zealand heads for election cliffhanger with minor party cast as kingmaker In New Zealand’s bellwether seat, what are locals thinking as a knife-edge poll looms? Another update here with 8% of the vote counted . National on 31.2%, Labour 28.4%, the Greens 12.9%, Act 11.2%, NZ First 9.6%, Opportunity 5.7% and Te Pāti Māori 0.4%. On these numbers, we would have a right bloc coal…",
       "link": "https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls",
@@ -17,6 +31,48 @@
       "category": "World News",
       "feed_url": "https://www.theguardian.com/world/rss",
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo#3",
+      "title": "Four things we learned this week about 2028 White House race",
+      "published": "2026-11-07T12:23:28+00:00",
+      "author": null,
+      "description": "The seismic Democratic gains in Congress could shape the presidential election, so who had a good night and who's making moves?",
+      "link": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/613a/live/900577b0-d9ed-11f1-b441-2b33b063138f.png",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/07/world/africa/congo-attack-ebola-isis-adf.html",
+      "title": "Islamist Militant Attack Forces Patients to Flee Ebola Clinic in Congo",
+      "published": "2026-11-07T12:06:57+00:00",
+      "author": "Declan Walsh",
+      "description": "At least 44 people were killed in a brutal assault by a group loyal to the Islamic State, officials said. The area is a hot spot of the growing Ebola outbreak.",
+      "link": "https://www.nytimes.com/2026/11/07/world/africa/congo-attack-ebola-isis-adf.html",
+      "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07int-congo-ebola-violence-twbp/07int-congo-ebola-violence-twbp-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/us/find-a-new-wife-katie-miller-reacts-to-news-report-detailing-her-lobbying-for-husband-millers-promotion-to-susie-wiles-job/articleshow/135636071.cms",
+      "title": "Find a new wife: Katie Miller reacts to news report detailing her 'lobbying' for husband Miller's promotion to Susie Wiles' job",
+      "published": "2026-11-07T12:05:00+00:00",
+      "author": "Poulomi Ghosh",
+      "description": "",
+      "link": "https://timesofindia.indiatimes.com/world/us/find-a-new-wife-katie-miller-reacts-to-news-report-detailing-her-lobbying-for-husband-millers-promotion-to-susie-wiles-job/articleshow/135636071.cms",
+      "image": "https://static.toiimg.com/photo/msid-135636108,imgsize-179206.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
       "id": "https://www.ndtv.com/world-news/hindu-boys-family-sues-uk-school-for-25-000-pounds-after-ban-on-tilak-12296978#publisher=newsstand",
@@ -201,20 +257,6 @@
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
-      "id": "https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html",
-      "title": "Why Israel’s Ex-Army Chief’s Next Mission Could Be Mission Impossible",
-      "published": "2026-11-07T10:24:06+00:00",
-      "author": "David M. Halbfinger",
-      "description": "Gadi Eisenkot is poised to get a chance to form a new government, replacing Benjamin Netanyahu as prime minister. But the obstacles are formidable.",
-      "link": "https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html",
-      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-israel-eisenkot-01-tjwp/06int-israel-eisenkot-01-tjwp-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
       "id": "https://timesofindia.indiatimes.com/real-estate/news/in-1991-a-couple-bought-222-acre-henry-island-off-nova-scotia-home-to-a-working-1902-lighthouse-and-a-striped-keepers-house-accessible-only-by-boat-or-helicopter-thirty-five-years-later-they-have-listed-it-for-c6-99-million/articleshow/135633335.cms",
       "title": "Remote lighthouse island for sale for $6.9 million",
       "published": "2026-11-07T10:15:50+00:00",
@@ -255,6 +297,20 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
+      "id": "t3_1xq2wvc",
+      "title": "EU presses UK to guarantee discounted university tuition fees for European students",
+      "published": "2026-11-07T10:04:11+00:00",
+      "author": "/u/enthusiast_anderson",
+      "description": "submitted by /u/enthusiast_anderson [link] [comments]",
+      "link": "https://www.reddit.com/r/worldnews/comments/1xq2wvc/eu_presses_uk_to_guarantee_discounted_university/",
+      "image": "https://external-preview.redd.it/4lhVBvogn_appp6njb89GTYcS4d9Daz2uxB32Y_Jjz8.jpeg?width=640&crop=smart&auto=webp&s=e1ba6b621faedc850d38f31d8f2c0398657274d1",
+      "feed_name": "World News",
+      "feed_title": "World News",
+      "category": "World News",
+      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
+      "feed_icon": "https://www.redditstatic.com/icon.png/"
     },
     {
       "id": "https://www.nytimes.com/2026/11/07/world/europe/ukraine-russia-war-operation-vivaldi.html",
@@ -2624,20 +2680,6 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo#0",
-      "title": "Four midterms takeaways for 2028 White House race",
-      "published": "2026-11-06T16:12:22+00:00",
-      "author": null,
-      "description": "The buzz about the presidential election is already under way - here's what we learned this week.",
-      "link": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/613a/live/900577b0-d9ed-11f1-b441-2b33b063138f.png",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo#3",
       "title": "Four midterms takeaways for 2028 White House race",
       "published": "2026-11-06T16:12:22+00:00",
       "author": null,
@@ -13961,48 +14003,6 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "108505403",
-      "title": "Trump DOJ sends target letters to Democrats in Alaska Senate criminal probe: Reports",
-      "published": "2026-11-03T23:26:39+00:00",
-      "author": null,
-      "description": "\"There's no doubt that the threats are threats to our democracy,\" said John Cusick, assistant counsel at the Legal Defense Fund.",
-      "link": "https://www.cnbc.com/2026/11/03/trump-doj-election-lawsuits-monitors-2026-midterms.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108453005-1792786191222-gettyimages-2301163225-ryder-ballots-1.jpeg?v=1792786239&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/uk/british-wedding-venue-shut-down-after-workers-found-five-world-war-ii-bombs-while-digging-for-solar-panels-guests-and-residents-forced-to-leave-while-explosives-were-detonated/articleshow/135490591.cms",
-      "title": "British wedding venue evacuated after workers uncover five World War II bombs while digging for solar panels; guests and residents forced to flee",
-      "published": "2026-11-03T23:25:00+00:00",
-      "author": "TOI World Desk",
-      "description": "While digging a trench at The Great Tythe Barn, workers stumbled upon five suspected World War II bombs, initially mistaking them for broken pipes. As their metal fins became visible, emergency services swiftly evacuated the area, setting up a 200-metre exclusion zone for safety. Identified as German explosives, the bombs were eventually neutralized in a controlled detonation, underscoring the historic shadows that still linger in various regions of Britain.",
-      "link": "https://timesofindia.indiatimes.com/world/uk/british-wedding-venue-shut-down-after-workers-found-five-world-war-ii-bombs-while-digging-for-solar-panels-guests-and-residents-forced-to-leave-while-explosives-were-detonated/articleshow/135490591.cms",
-      "image": "https://static.toiimg.com/photo/msid-135490695,imgsize-2174050.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/north-korea-warns-of-stronger-response-to-us-hostility-12279248#publisher=newsstand",
-      "title": "North Korea Warns Of Stronger Response To US \"Hostility\"",
-      "published": "2026-11-03T23:22:46+00:00",
-      "author": null,
-      "description": "Kim Yo Jong said the FBI's accusation showed \"US hostile policy\" toward North Korea.",
-      "link": "https://www.ndtv.com/world-news/north-korea-warns-of-stronger-response-to-us-hostility-12279248#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-09/tu42im5_kim-yo-jong-_625x300_18_September_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     }
   ]
 }

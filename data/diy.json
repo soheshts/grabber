@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-07T12:03:06.954256+00:00",
-  "count": 938,
+  "updated": "2026-11-07T12:33:15.191312+00:00",
+  "count": 941,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/powertoys-tricks-beyond-windows-11-snap-layouts/",
+      "title": "Windows 11 has Snap Layouts, but these PowerToys tricks take multitasking much further",
+      "published": "2026-11-07T12:30:16+00:00",
+      "author": "Judy Sanhz",
+      "description": "Snap Layouts can't find a buried window or keep one in view. These free PowerToys can, and one even puts your windows back where you left them.",
+      "link": "https://www.makeuseof.com/powertoys-tricks-beyond-windows-11-snap-layouts/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/09/powertoys-feature.jpeg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/pc-parts-i-happily-buy-used-and-i-always-buy-new/",
+      "title": "4 PC parts I happily buy used (and 4 I always buy new)",
+      "published": "2026-11-07T12:30:15+00:00",
+      "author": "Ismar Hrnjicevic",
+      "description": "One person's trash is another person's treasure. Except when it's just trash.",
+      "link": "https://www.howtogeek.com/pc-parts-i-happily-buy-used-and-i-always-buy-new/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/09/feature.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/the-worst-mistake-after-leaving-your-laptop-in-a-freezing-car/",
       "title": "The worst mistake you can make after leaving your laptop in a freezing car",
@@ -17,6 +45,20 @@
       "category": "DIY",
       "feed_url": "https://www.makeuseof.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://hackaday.com/?p=1398262",
+      "title": "The Hidden Microcontroller Inside a LoRa chip",
+      "published": "2026-11-07T12:00:34+00:00",
+      "author": "Jenny List",
+      "description": "If you’ve ever done anything with LoRa, the chances are you’ve used a LoRa chip or module as a peripheral for a microcontroller, and left it at that. But that’s …read more",
+      "link": "https://hackaday.com/2026/11/07/the-hidden-microcontroller-inside-a-lora-chip/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/lora-up-featured.jpg",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
     },
     {
       "id": "https://www.howtogeek.com/docker-isnt-magic-its-these-5-linux-kernel-features-strapped-together/",
