@@ -1,9 +1,51 @@
 {
   "category": "DIY",
-  "updated": "2026-11-07T21:02:51.400325+00:00",
-  "count": 986,
+  "updated": "2026-11-07T21:33:33.729592+00:00",
+  "count": 990,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/why-some-windows-apps-install-without-ever-asking-for-admin-rights/",
+      "title": "Why some Windows apps install without ever asking for admin rights",
+      "published": "2026-11-07T21:31:16+00:00",
+      "author": "Oluwademilade Afolabi",
+      "description": "Some installers ring the doorbell; other already have a key.",
+      "link": "https://www.makeuseof.com/why-some-windows-apps-install-without-ever-asking-for-admin-rights/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/a-windows-laptop-displaying-a-user-account-control-prompt-asking-whether-to-allow-an-installer-to-make-changes-to-the-device.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/youre-overcharging-your-smartwatch-and-its-aging-the-battery/",
+      "title": "You’re overcharging your smartwatch, and it’s aging the battery",
+      "published": "2026-11-07T21:31:15+00:00",
+      "author": "Ismar Hrnjicevic",
+      "description": "Help your smartwatch age more gracefully.",
+      "link": "https://www.howtogeek.com/youre-overcharging-your-smartwatch-and-its-aging-the-battery/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/09/pixel-watch-5-and-galaxy-watch-9-12.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/796732/where-are-screenshots-saved-in-windows/",
+      "title": "Where are screenshots saved on Windows 11 and Windows 10?",
+      "published": "2026-11-07T21:08:36+00:00",
+      "author": "Benj Edwards, Nick Lewis",
+      "description": "Learn to narrow-down the location with laser-like precision...or make an educated guess.",
+      "link": "https://www.howtogeek.com/796732/where-are-screenshots-saved-in-windows/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/52780811227_dbda70f972_o-1.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://hackaday.com/?p=1398417",
       "title": "Proper Linux, On An ESP32",
@@ -45,6 +87,20 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.apartmenttherapy.com/original-pink-tile-bathroom-wash-closet-ba-37692162",
+      "title": "She Created a “Pink Paradise” Bathroom Using Her Home’s Original Tiles",
+      "published": "2026-11-07T20:45:00+00:00",
+      "author": "LJ Smelker",
+      "description": "Laura Trexler and her husband’s 1915 historic house had a few quirks after being renovated in the ’80s to run as a bed and breakfast. One of them was that the guest bathroom was built directly into the room’s closet. The couple decided to renovate the entire house all at once, and ended up rewiring and basically replumbing every room — specifically the guest bathroom, because of “a decades-long leak that ruined the subfloor” and a leaking vanity sink. READ MORE...",
+      "link": "https://www.apartmenttherapy.com/original-pink-tile-bathroom-wash-closet-ba-37692162?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+projects",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2026/2026-11/laura-kelly-t-bathroom/laura-kelly-t-bathroom-before-tagged-2",
+      "feed_name": "Apartment Therapy| Saving the world, one room at a time",
+      "feed_title": "Apartment Therapy| Saving the world, one room at a time",
+      "category": "DIY",
+      "feed_url": "https://www.apartmenttherapy.com/projects.rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.apartmenttherapy.com&sz=64"
     },
     {
       "id": "https://www.makeuseof.com/brilliant-sci-fi-movies-watch-on-tubi-without-paying-a-cent/",

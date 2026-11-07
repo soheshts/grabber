@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-07T21:02:51.400325+00:00",
-  "count": 438,
+  "updated": "2026-11-07T21:33:33.729592+00:00",
+  "count": 437,
   "summary": null,
   "items": [
     {
@@ -5407,20 +5407,6 @@
       "category": "personal blogs",
       "feed_url": "http://feeds.feedburner.com/remysharp",
       "feed_icon": "https://remysharp.com/images/avatar-125.jpg"
-    },
-    {
-      "id": "https://www.bram.us/?p=36908",
-      "title": ", a custom input element that accepts mathematical formulas",
-      "published": "2026-10-08T21:22:43+00:00",
-      "author": "Bramus!",
-      "description": "Continuing my streak of small form-related Custom Elements (like <rich-input> ) , I built <calc-input> . It’s a custom input element that accepts mathematical formulas — such as 2 + 3 or (2 + 3) * 4 — and automatically toggles between showing the formula on focus and the calculated result on blur.",
-      "link": "https://www.bram.us/2026/10/08/calc-input-a-custom-input-element-that-accepts-mathematical-formulas/",
-      "image": null,
-      "feed_name": "Bram.us",
-      "feed_title": "Bram.us",
-      "category": "personal blogs",
-      "feed_url": "https://www.bram.us/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.bram.us&sz=64"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
