@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-07T17:02:30.901896+00:00",
-  "count": 967,
+  "updated": "2026-11-07T17:33:36.903483+00:00",
+  "count": 969,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/why-microsoft-launches-october/",
+      "title": "Something big always happens to Microsoft in October, and there's a reason why",
+      "published": "2026-11-07T17:31:16+00:00",
+      "author": "Tashreef Shareef",
+      "description": "Microsoft likes October too much, but the reason is not what you think.",
+      "link": "https://www.makeuseof.com/why-microsoft-launches-october/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/calendar-app-open-on-macos.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/google-backups-are-convenient-but-this-free-open-source-tool-gives-me-real-control/",
+      "title": "Google backups are convenient, but this free open-source tool gives me real control",
+      "published": "2026-11-07T17:31:15+00:00",
+      "author": "Vishwamoorthy Ramakrishnan",
+      "description": "Bypass Google One fees with seamless local backups",
+      "link": "https://www.howtogeek.com/google-backups-are-convenient-but-this-free-open-source-tool-gives-me-real-control/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/11/syncthing-sync.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/share-files-across-devices-with-pairdrop/",
       "title": "This is the simplest way to share files across devices without installing apps",
