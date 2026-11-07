@@ -1,9 +1,23 @@
 {
   "category": "travel",
-  "updated": "2026-11-07T20:03:00.745449+00:00",
-  "count": 134,
+  "updated": "2026-11-07T20:32:19.214469+00:00",
+  "count": 135,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/11/07/us/alien-throne-king-of-wings-new-mexico.html",
+      "title": "Alien Throne, a Unique Rock Formation in New Mexico, Collapses Amid Heavy Rains",
+      "published": "2026-11-07T20:21:48+00:00",
+      "author": "Rebecca Chao",
+      "description": "The oddly shaped 15-foot-tall pillar collapsed after a torrent of rain. It was the second loss of a striking rock formation in the region in less than a month.",
+      "link": "https://www.nytimes.com/2026/11/07/us/alien-throne-king-of-wings-new-mexico.html",
+      "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07xp-alien-throne-vtfj/07xp-alien-throne-vtfj-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Travel",
+      "feed_title": "NYT > Travel",
+      "category": "travel",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "https://www.theguardian.com/travel/2026/nov/07/albania-restored-stone-tower-houses-holiday",
       "title": "Albania’s restored stone houses throw open the doors to visitors",
@@ -119,7 +133,7 @@
     {
       "id": "https://www.nytimes.com/2026/11/06/travel/el-nino-skiing-united-states.html",
       "title": "What Does the Super El Niño Mean for Ski Season?",
-      "published": "2026-11-06T10:00:32+00:00",
+      "published": "2026-11-06T10:00:33+00:00",
       "author": "David Goodman",
       "description": "The climate event is predicted to alter snowfall patterns across the U.S. and Canada. Experts are starting to see how it might play out across ski country.",
       "link": "https://www.nytimes.com/2026/11/06/travel/el-nino-skiing-united-states.html",
