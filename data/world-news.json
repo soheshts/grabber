@@ -1,13 +1,27 @@
 {
   "category": "World News",
-  "updated": "2026-11-08T18:03:51.177658+00:00",
+  "updated": "2026-11-08T18:33:36.875820+00:00",
   "count": 1000,
   "summary": null,
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/11/08/world/americas/pope-leo-argentina-milei.html",
+      "title": "In Argentina, Pope Leo to Meet Church at Odds With President Milei",
+      "published": "2026-11-08T18:26:49+00:00",
+      "author": "Emma Bubola and Sarah Pabst",
+      "description": "The pontiff’s trip comes amid tensions between the country’s libertarian leader and its Catholic Church, which is deeply committed to social justice.",
+      "link": "https://www.nytimes.com/2026/11/08/world/americas/pope-leo-argentina-milei.html",
+      "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-pope-milei-jcpf/08int-pope-milei-jcpf-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o#0",
       "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-      "published": "2026-11-08T17:59:03+00:00",
+      "published": "2026-11-08T18:22:53+00:00",
       "author": null,
       "description": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
       "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
@@ -19,11 +33,25 @@
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
+      "id": "108545247",
+      "title": "Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported China spy link",
+      "published": "2026-11-08T18:18:30+00:00",
+      "author": null,
+      "description": "Lawmakers want to question Nvidia CEO Jensen Huang following reports about his relationship with an alleged Chinese intelligence asset.",
+      "link": "https://www.cnbc.com/2026/11/08/jensen-huang-nvidia-china-spy-congress.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108374284-1791395692942-Screenshot_2026-10-07_at_15124_PM.png?v=1794157596&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
       "id": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
       "title": "Collision of two trains in Egypt kills at least seven",
       "published": "2026-11-08T17:51:17+00:00",
       "author": "Associated Press",
-      "description": "President orders prompt investigation after one train derails in collision in al-Ayyat about 30 miles from Cairo Seven people were killed and more than 100 injured when two trains collided on Sunday south of the Egyptian capital, Cairo, officials said. The crash occurred in al-Ayyat district in Giza province, about 30 miles south of Cairo, when a train travelling to the south-western Fayoum province crashed into the rear of a train heading to the southern province of Aswan, according to the tra…",
+      "description": "President orders prompt investigation after one train derails in collision in al-Ayyat about 30 miles from Cairo Seven people were killed and more than 100 injured when two trains collided on Sunday south of the Egyptian capital, Cairo, officials said. The crash occurred in al-Ayyat district in Giza province, about 30 miles south of Cairo, when a train travelling to Fayoum province crashed into the rear of a train heading to the southern province of Aswan, according to the transport ministry. C…",
       "link": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
       "image": "https://i.guim.co.uk/img/media/a808842b1a53e7fd3b532b97395cca77e503ac74/368_99_4436_3549/master/4436.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d0cee9ac6dd8f1f6c39c7c8202ab1e97",
       "feed_name": "The Guardian",
@@ -45,6 +73,20 @@
       "category": "World News",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo#0",
+      "title": "Seven dead and more than 100 injured after trains collide in Egypt",
+      "published": "2026-11-08T17:35:13+00:00",
+      "author": null,
+      "description": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
+      "link": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3886/live/ab03aa70-db8a-11f1-b441-2b33b063138f.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html",
@@ -1006,20 +1048,6 @@
       "description": "Negotiators and leaders are gathering for annual United Nations climate talks. They come as global temperatures are set to breach a key threshold.",
       "link": "https://www.nytimes.com/2026/11/08/climate/what-is-cop31-climate.html",
       "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08CLI-COP31-FAQ-jqfw/08CLI-COP31-FAQ-jqfw-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/08/world/americas/pope-leo-argentina-milei.html",
-      "title": "In Argentina, Pope Leo to Meet Church at Odds With President Milei",
-      "published": "2026-11-08T10:00:57+00:00",
-      "author": "Emma Bubola and Sarah Pabst",
-      "description": "The pontiff’s trip comes amid tensions between the country’s libertarian leader and its Catholic Church, which is deeply committed to social justice.",
-      "link": "https://www.nytimes.com/2026/11/08/world/americas/pope-leo-argentina-milei.html",
-      "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-pope-milei-jcpf/08int-pope-milei-jcpf-mediumSquareAt3X.jpg",
       "feed_name": "NYT",
       "feed_title": "NYT > World News",
       "category": "World News",
@@ -2610,6 +2638,20 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o#1",
+      "title": "Paraguay's former president charged after bank collapse",
+      "published": "2026-11-07T19:17:22+00:00",
+      "author": null,
+      "description": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+      "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a65d/live/3fe15d20-da57-11f1-af22-a97b84c9ca63.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o#0",
       "title": "Paraguay's former president charged after bank collapse",
       "published": "2026-11-07T19:17:22+00:00",
       "author": null,
@@ -4338,20 +4380,6 @@
       "description": "The 82-year-old appeared in court in Florida after the FBI searched two Los Angeles-area storage units he rented.",
       "link": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97ed/live/4b09f660-da7c-11f1-a975-15a4138f9d40.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o#0",
-      "title": "Paraguay's president impeached and under house arrest after bank collapse",
-      "published": "2026-11-07T07:20:00+00:00",
-      "author": null,
-      "description": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
-      "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a65d/live/3fe15d20-da57-11f1-af22-a97b84c9ca63.jpg",
       "feed_name": "BBC News - World",
       "feed_title": "BBC News",
       "category": "World News",
@@ -13975,34 +14003,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "t3_1xnypx3",
-      "title": "Mayor Ali Rabeh wants France to make promoting the \"great replacement\" theory a criminal offense",
-      "published": "2026-11-04T20:19:04+00:00",
-      "author": "/u/DoremusJessup",
-      "description": "submitted by /u/DoremusJessup [link] [comments]",
-      "link": "https://www.reddit.com/r/worldnews/comments/1xnypx3/mayor_ali_rabeh_wants_france_to_make_promoting/",
-      "image": "https://external-preview.redd.it/Egc6rUCfeRfgQwep1UMna7X6S_S3rOlRkR7UZjNaCrk.jpeg?width=640&crop=smart&auto=webp&s=68d053b0349e30e1415e7d2bb27baa2c80b62de9",
-      "feed_name": "World News",
-      "feed_title": "World News",
-      "category": "World News",
-      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
-      "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-herzog-netanyahu-government.html",
-      "title": "Israel’s President Starts Talks on Whether Netanyahu or Eisenkot Can Form a Government",
-      "published": "2026-11-04T20:17:02+00:00",
-      "author": "Aaron Boxerman",
-      "description": "President Isaac Herzog began meeting with party leaders for two days to decide whether to give Prime Minister Benjamin Netanyahu or rivals the first chance at forming a coalition.",
-      "link": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-herzog-netanyahu-government.html",
-      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04-israel-elections-mlpv/04-israel-elections-mlpv-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     }
   ]
 }
