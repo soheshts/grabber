@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-08T19:32:29.580926+00:00",
+  "updated": "2026-11-08T20:03:54.443850+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/gemini-morning-briefing-gmail-calendar-drive/",
+      "title": "One Gemini prompt replaced my morning email, calendar, and Drive routine",
+      "published": "2026-11-08T20:00:16+00:00",
+      "author": "Saikat Basu",
+      "description": "I set up Gemini to summarize my inbox, schedule, and files before work",
+      "link": "https://www.makeuseof.com/gemini-morning-briefing-gmail-calendar-drive/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/gemini-workspace.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/free-open-source-android-apps-i-rely-on-when-i-have-no-cell-service/",
+      "title": "4 free, open-source Android apps I rely on when I have no cell service",
+      "published": "2026-11-08T20:00:15+00:00",
+      "author": "Tyler Dupont",
+      "description": "Improvise, adapt, overcome.",
+      "link": "https://www.howtogeek.com/free-open-source-android-apps-i-rely-on-when-i-have-no-cell-service/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/20261105_135044.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/star-wars-the-clone-wars-watch-order/",
       "title": "You've probably watched Star Wars: The Clone Wars in the wrong order",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/onedrive-desktop-sync-alternative/",
-      "title": "I’ll never sync my entire desktop with OneDrive again — here’s the setup I use now",
-      "published": "2026-10-25T13:00:17+00:00",
-      "author": "Afam Onyimadu",
-      "description": "OneDrive promises to simplify your storage, but I tried syncing my desktop with OneDrive and had an experience I would rather not repeat.",
-      "link": "https://www.makeuseof.com/onedrive-desktop-sync-alternative/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/09/onedrive-online-interface.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/smart-lock-install-mistakes/",
-      "title": "Don't make the same mistakes I did when installing a smart lock",
-      "published": "2026-10-25T12:30:17+00:00",
-      "author": "Michael Bizzaco",
-      "description": "Patience is truly a virtue.",
-      "link": "https://www.makeuseof.com/smart-lock-install-mistakes/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/12/smart-lock-2.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }
