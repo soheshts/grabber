@@ -1,9 +1,65 @@
 {
   "category": "World News",
-  "updated": "2026-11-08T22:03:56.513819+00:00",
+  "updated": "2026-11-08T22:33:46.488698+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "108545259",
+      "title": "Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy",
+      "published": "2026-11-08T22:22:18+00:00",
+      "author": null,
+      "description": "Huang told Nvidia staff in an email that he had an affair and that the company's board has opened an investigation into allegations the woman is a Chinese spy.",
+      "link": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108364527-1789665953765-gettyimages-2294936867-2026_sep_14_dreamforce_2974.jpeg?v=1794168955&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/real-estate/news/in-2010-a-developer-paid-1-25-million-for-two-wrecked-brooklyn-properties-sixteen-years-later-the-1852-mansion-is-listed-for-20-99-million-following-a-long-rebuild-alongside-its-renovated-carriage-house/articleshow/135630147.cms",
+      "title": "Historic Brooklyn mansion returns to market for $20.99M",
+      "published": "2026-11-08T22:18:00+00:00",
+      "author": "TOI Real Estate Desk",
+      "description": "Once a forgotten gem, a historic mansion in Brooklyn Heights from 1852 has been meticulously transformed and is now available for $14.99 million. The adjacent carriage house can be purchased separately for $6 million. After a decade-long renovation focused on preserving its original beauty while integrating luxury amenities, this estate invites potential buyers to explore various living arrangements, from family homes to vibrant workspaces.",
+      "link": "https://timesofindia.indiatimes.com/real-estate/news/in-2010-a-developer-paid-1-25-million-for-two-wrecked-brooklyn-properties-sixteen-years-later-the-1852-mansion-is-listed-for-20-99-million-following-a-long-rebuild-alongside-its-renovated-carriage-house/articleshow/135630147.cms",
+      "image": "https://static.toiimg.com/photo/msid-135630409,imgsize-172268.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o#2",
+      "title": "Doctor who treated victims of Krakow shooting speaks to the BBC",
+      "published": "2026-11-08T22:05:12+00:00",
+      "author": null,
+      "description": "Two doctors were eating near the city's Main Market Square when a gunman began firing at random.",
+      "link": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30fc/live/a92bdf90-dbbe-11f1-b441-2b33b063138f.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://www.theguardian.com/australia-news/2026/nov/09/man-charged-fatal-stabbing-hungrypanda-delivery-driver-jianming-feng-melbourne-ntwnfb",
+      "title": "Man charged with murder over fatal stabbing of HungryPanda delivery rider in Melbourne",
+      "published": "2026-11-08T22:03:59+00:00",
+      "author": "Australian Associated Press",
+      "description": "Footscray man charged over death of 47-year-old Feng Jianming in the CBD on Friday night Get our breaking news email , free app or daily news podcast A man has been charged with murder after a delivery rider was stabbed to death while working, leaving his family bereft and a city in mourning. On Friday night, HungryPanda delivery rider Feng Jianming, 47, and another rider confronted a man allegedly tampering with their bikes in Melbourne’s city centre. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/09/man-charged-fatal-stabbing-hungrypanda-delivery-driver-jianming-feng-melbourne-ntwnfb",
+      "image": "https://i.guim.co.uk/img/media/4954ad8d5503c8161345548e255e4fdf2719dd1d/585_40_1083_867/master/1083.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8f7d5f7f686217c017283305d51769d5",
+      "feed_name": "The Guardian",
+      "feed_title": "World news | The Guardian",
+      "category": "World News",
+      "feed_url": "https://www.theguardian.com/world/rss",
+      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
     {
       "id": "https://www.nytimes.com/2026/11/08/world/middleeast/egypt-train-collision-al-ayyat-district.html",
       "title": "Trains Collide Near Cairo, Killing 4",
@@ -17,6 +73,20 @@
       "category": "World News",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "t3_1xra83k",
+      "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+      "published": "2026-11-08T21:53:33+00:00",
+      "author": "/u/returntonone",
+      "description": "submitted by /u/returntonone [link] [comments]",
+      "link": "https://www.reddit.com/r/worldnews/comments/1xra83k/nvidia_launches_investigation_into_ceos_affair/",
+      "image": "https://external-preview.redd.it/BrM0esx62vBjN1nHKq1KkO6Pl7HTDXTHV2rOQ-7ZwtA.jpeg?width=640&crop=smart&auto=webp&s=a6d6ce17e397a96cc5476230503bf392bb72e440",
+      "feed_name": "World News",
+      "feed_title": "World News",
+      "category": "World News",
+      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
+      "feed_icon": "https://www.redditstatic.com/icon.png/"
     },
     {
       "id": "108545256",
@@ -75,6 +145,20 @@
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
+      "id": "https://www.nytimes.com/2026/11/08/world/europe/poland-shooting-suspect-family.html",
+      "title": "Reeling From Rare Mass Shooting, Poles Ask What Set Off Young Suspect",
+      "published": "2026-11-08T21:43:22+00:00",
+      "author": "Andrew Higgins",
+      "description": "Officials say that a 24-year-old killed his family and then six people during a rampage in Krakow. Now they are trying to determine the motive.",
+      "link": "https://www.nytimes.com/2026/11/08/world/europe/poland-shooting-suspect-family.html",
+      "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-poland-shooting-family-pjtb/08int-poland-shooting-family-pjtb-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
       "id": "https://timesofindia.indiatimes.com/world/us/billionaire-couple-lynda-and-stewart-resnick-pledged-50-million-to-uc-davis-in-2022-their-34000-square-foot-agricultural-research-centre-opened-in-may-2026/articleshow/135606232.cms",
       "title": "Billionaire couple's $50 million gift leads to new UC Davis research centre",
       "published": "2026-11-08T21:30:00+00:00",
@@ -93,7 +177,7 @@
       "title": "Cold blast brings springtime snow to alpine regions as temperatures plummet across Australia’s south-east",
       "published": "2026-11-08T21:25:10+00:00",
       "author": "Guardian staff",
-      "description": "Thredbo, Perisher and Mount Hotham all recorded falls, along with Kunanyi/Mount Wellington in Tasmania Get our breaking news email , free app or daily news podcast Snow blanketed parts of NSW, Victoria and Tasmania across the weekend as an unseasonal cold blast whipped through Australia’s south-east, but forecaster say warm temperatures and thunderstorms are on the way. Thredbo, Perisher and Mount Hotham all recorded falls on Saturday and Sunday, while snow also fell on Kunanyi/Mount Wellington…",
+      "description": "Thredbo, Perisher and Mount Hotham all recorded falls, along with Kunanyi/Mount Wellington in Tasmania Get our breaking news email , free app or daily news podcast Snow blanketed parts of New South Wales, Victoria and Tasmania across the weekend as an unseasonal cold blast whipped through Australia’s south-east, but forecasters say warm temperatures and thunderstorms are on the way. Thredbo, Perisher and Mount Hotham all recorded falls on Saturday and Sunday, while snow also fell on Kunanyi/Mou…",
       "link": "https://www.theguardian.com/australia-news/2026/nov/08/australia-weather-cold-blast-springtime-snow-thredbo-perisher-hotham-victoria-tasmania-el-nino",
       "image": "https://i.guim.co.uk/img/media/cec2d40cb1736bf071e01cfe1c16506146148e45/467_97_1218_975/master/1218.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c32eaac048da312a4fdb250ad9a45295",
       "feed_name": "The Guardian",
@@ -143,20 +227,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "108545259",
-      "title": "Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy",
-      "published": "2026-11-08T21:13:38+00:00",
-      "author": null,
-      "description": "Huang told Nvidia staff in an email that he had an affair and that the company's board has opened an investigation into allegations the woman is a Chinese spy.",
-      "link": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108364527-1789665953765-gettyimages-2294936867-2026_sep_14_dreamforce_2974.jpeg?v=1794168955&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
       "id": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation",
@@ -13933,76 +14003,6 @@
       "category": "World News",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo#0",
-      "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
-      "published": "2026-11-04T23:12:47+00:00",
-      "author": null,
-      "description": "Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather.",
-      "link": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30ea/live/eaa602a0-d75b-11f1-8f6b-d71817972456.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo#1",
-      "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
-      "published": "2026-11-04T23:12:47+00:00",
-      "author": null,
-      "description": "Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather.",
-      "link": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30ea/live/eaa602a0-d75b-11f1-8f6b-d71817972456.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "t3_1xo2zz1",
-      "title": "Tehran gloats as Republicans take a beating | \"Americans said NO TO WAR, and we endorse this message,\" declared one top Iranian official.",
-      "published": "2026-11-04T23:12:22+00:00",
-      "author": "/u/RollSafer",
-      "description": "submitted by /u/RollSafer [link] [comments]",
-      "link": "https://www.reddit.com/r/worldnews/comments/1xo2zz1/tehran_gloats_as_republicans_take_a_beating/",
-      "image": null,
-      "feed_name": "World News",
-      "feed_title": "World News",
-      "category": "World News",
-      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
-      "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "108518121",
-      "title": "Democrats take Congress in a blue wave. Here's what it means for your money",
-      "published": "2026-11-04T23:11:48+00:00",
-      "author": null,
-      "description": "Blue wave gives Democrats control of Congress. Here's how their agenda could affect your money, from healthcare and taxes to student loans and Social Security.",
-      "link": "https://www.cnbc.com/2026/11/04/blue-wave-democrats-control-congress-your-money.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108519125-17938086942026-11-04t133744z_779983334_rc20hoa5bbs5_rtrmadp_0_usa-election.jpeg?v=1793826476&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/north-korea-test-fires-new-air-defence-missile-system-kcna-reports-12284805#publisher=newsstand",
-      "title": "North Korea Test Fires New Air-Defence Missile System",
-      "published": "2026-11-04T23:10:57+00:00",
-      "author": null,
-      "description": "North Korea test-fired a newly designed air-defence missile system on Wednesday.",
-      "link": "https://www.ndtv.com/world-news/north-korea-test-fires-new-air-defence-missile-system-kcna-reports-12284805#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-11/fvm1ngnc_north-korea-fires-missile_625x300_05_November_26.jpeg",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     }
   ]
 }

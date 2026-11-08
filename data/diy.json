@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-08T22:03:56.513819+00:00",
+  "updated": "2026-11-08T22:33:46.488698+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.howtogeek.com/i-replaced-my-desktops-missing-usb-ports-with-one-30-expansion-card/",
+      "title": "I replaced my desktop's missing USB ports with one $30 expansion card",
+      "published": "2026-11-08T22:30:15+00:00",
+      "author": "Umair Khurshid",
+      "description": "I almost bought a 7 port USB card. Then I discovered what I was getting into!",
+      "link": "https://www.howtogeek.com/i-replaced-my-desktops-missing-usb-ports-with-one-30-expansion-card/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/febsmart-fs-u304c-pro-pcie-usb-3-0-expansion-card-with-four-blue-usb-a-ports-on-a-black-carbon-fiber-mat.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/5-docker-containers-id-install-before-exposing-my-homelab-to-the-internet/",
       "title": "5 Docker containers I'd install before exposing my homelab to the internet",
@@ -13989,20 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.makeuseof.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/a-cheap-office-pc-can-run-your-homelab-but-check-these-things-first/",
-      "title": "A $50 office PC can run your homelab, but check these 5 things first",
-      "published": "2026-10-25T15:30:18+00:00",
-      "author": "Ismar Hrnjicevic",
-      "description": "A $50 office PC could power your homelab for years, or be e-waste from day one.",
-      "link": "https://www.howtogeek.com/a-cheap-office-pc-can-run-your-homelab-but-check-these-things-first/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/06/dell-optiplex-960-desktop-back-view-ports-power-button.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
     }
   ]
 }
