@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-08T17:33:38.318126+00:00",
+  "updated": "2026-11-08T18:03:51.177658+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/swapped-classic-linux-commands-modern-rewrites/",
+      "title": "I swapped 5 classic Linux commands for their modern rewrites, and I’m not going back",
+      "published": "2026-11-08T18:01:16+00:00",
+      "author": "Yadullah Abidi",
+      "description": "Your terminal already works. These five tools make it pleasant.",
+      "link": "https://www.makeuseof.com/swapped-classic-linux-commands-modern-rewrites/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/04/linux-mint-23-2-zena-with-terminal-open-on-a-laptop.JPG",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/things-to-do-with-google-tvs-hidden-developer-mode/",
+      "title": "4 hidden Google TV developer options that fix a sluggish TV in minutes",
+      "published": "2026-11-08T18:01:15+00:00",
+      "author": "Vishwamoorthy Ramakrishnan",
+      "description": "Make Google TV feel faster.",
+      "link": "https://www.howtogeek.com/things-to-do-with-google-tvs-hidden-developer-mode/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/09/chromecast-google-tv-remote.avif",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/romance-books-that-prove-being-a-nerd-is-actually-attractive/",
       "title": "5 Romance Books That Prove Being a Nerd Is Actually Attractive",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/this-tiny-free-app-fixes-one-of-windows-most-annoying-audio-problems/",
-      "title": "This tiny free app fixes one of Windows' most annoying audio problems",
-      "published": "2026-10-25T11:00:17+00:00",
-      "author": "Oluwaseun Bamisile",
-      "description": "Switching audio devices should be easier.",
-      "link": "https://www.makeuseof.com/this-tiny-free-app-fixes-one-of-windows-most-annoying-audio-problems/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/soundswitch-app.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://hackaday.com/?p=1354366",
-      "title": "Meshtastic Pet Tracking",
-      "published": "2026-10-25T11:00:07+00:00",
-      "author": "Navarre Bartz",
-      "description": "Most commercial pet trackers require a subscription or network connection to function. [Jon G Aguado] wanted a better way and designed LIA, a Meshtastic collar tracker. LIA uses a custom …read more",
-      "link": "https://hackaday.com/2026/10/25/meshtastic-pet-tracking/",
-      "image": "https://hackaday.com/wp-content/uploads/2026/10/LIA-Open-Source-Meshtastic-LoRa-Pet-Tracker.webp",
-      "feed_name": "Blog – Hackaday",
-      "feed_title": "Blog – Hackaday",
-      "category": "DIY",
-      "feed_url": "https://hackaday.com/blog/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
     }
   ]
 }
