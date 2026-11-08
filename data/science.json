@@ -1,9 +1,23 @@
 {
   "category": "science",
-  "updated": "2026-11-08T21:03:55.281679+00:00",
+  "updated": "2026-11-08T21:32:50.084933+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/11/06/climate/fema-grants-cuts-resilience.html",
+      "title": "Disaster-Prone Communities Face Cuts and Slowdowns in Federal Help",
+      "published": "2026-11-08T21:06:54+00:00",
+      "author": "Scott Dance",
+      "description": "The Trump administration is scaling back or stalling investments that help vulnerable places harden themselves to rising flood and fire threats.",
+      "link": "https://www.nytimes.com/2026/11/06/climate/fema-grants-cuts-resilience.html",
+      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/00cli-climate-grants-01-fkhw/00cli-climate-grants-01-fkhw-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Science",
+      "feed_title": "NYT > Science",
+      "category": "science",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "news713195094",
       "title": "JWST tracks more than 100 magnified stellar events in the Dragon galaxy",
@@ -2084,20 +2098,6 @@
       "description": "A longstanding hypothesis held that some problems would always be hard for computers to solve quickly. But OpenAI disproved it — raising the possibility of radical new efficiencies.",
       "link": "https://www.nytimes.com/2026/11/06/science/ai-exponential-time-hypothesis.html",
       "image": null,
-      "feed_name": "NYT > Science",
-      "feed_title": "NYT > Science",
-      "category": "science",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/06/climate/fema-grants-cuts-resilience.html",
-      "title": "Disaster-Prone Communities Face Cuts and Slowdowns in Federal Help",
-      "published": "2026-11-06T10:00:45+00:00",
-      "author": "Scott Dance",
-      "description": "The Trump administration is scaling back or stalling investments that help vulnerable places harden themselves to rising flood and fire threats.",
-      "link": "https://www.nytimes.com/2026/11/06/climate/fema-grants-cuts-resilience.html",
-      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/00cli-climate-grants-01-fkhw/00cli-climate-grants-01-fkhw-mediumSquareAt3X.jpg",
       "feed_name": "NYT > Science",
       "feed_title": "NYT > Science",
       "category": "science",

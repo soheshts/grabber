@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-08T21:03:55.281679+00:00",
-  "count": 438,
+  "updated": "2026-11-08T21:32:50.084933+00:00",
+  "count": 440,
   "summary": null,
   "items": [
     {
@@ -9,7 +9,7 @@
       "title": "Weeknotes: 2026-W45",
       "published": "2026-11-08T20:58:27+00:00",
       "author": "Thomas Rigby (rss@thomasrigby.com)",
-      "description": "In which Autumn truly arrives and a blast from past unexpectedly arrives in my inbox",
+      "description": "In which Autumn truly arrives and a blast from the past unexpectedly arrives in my inbox",
       "link": "https://thomasrigby.com/posts/2026-w45/",
       "image": "https://thomasrigby.com/images/QZVemV9AMs-600.webp",
       "feed_name": "Thomas Rigby",
@@ -661,6 +661,20 @@
       "category": "personal blogs",
       "feed_url": "https://blog.damato.design/feed.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=blog.damato.design&sz=64"
+    },
+    {
+      "id": "https://bradfrost.com/links/post/in-your-face-meeting-reminder-app-for-mac-windows-iphone-and-ipad-in-your-face/",
+      "title": "In Your Face - Meeting reminder app for Mac, Windows, iPhone, and iPad | In Your Face",
+      "published": "2026-11-05T00:00:00+00:00",
+      "author": "Brad Frost",
+      "description": "In Your Face is one of my favorite apps for making sure my ADHD brain shows up to meetings and events on time.",
+      "link": "https://bradfrost.com/links/post/in-your-face-meeting-reminder-app-for-mac-windows-iphone-and-ipad-in-your-face/",
+      "image": "https://bradfrost.com/wp-content/uploads/2017/08/card-image.png",
+      "feed_name": "Brad Frost",
+      "feed_title": "Brad Frost",
+      "category": "personal blogs",
+      "feed_url": "http://feeds.feedburner.com/brad-frosts-blog",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=bradfrost.com&sz=64"
     },
     {
       "id": "https://www.aaron-gustafson.com/notebook/there-can-be-only-one-redux/",
@@ -2215,6 +2229,20 @@
       "category": "personal blogs",
       "feed_url": "https://hamatti.org/feed/feed.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=hamatti.org&sz=64"
+    },
+    {
+      "id": "https://bradfrost.com/blog/post/playing-my-world-helsinki-cathedral/",
+      "title": "Playing My World: Helsinki Cathedral",
+      "published": "2026-10-28T00:00:00+00:00",
+      "author": "Brad Frost",
+      "description": "I'm so happy about this I could cry. For years, I've \"played\" my visual world: objects, architecture, cityscapes, landscapes, and anything interesting. I map the shapes and patterns I see to shapes and patterns on the fretboard. I make little compositions with those shapes and patterns. People already think I'm weird wandering around town plunking a rubber-stringed bass ukelele, so I've I've never told anyone that I do this. It's just how my mind works. I never thought I'd be able to articulate…",
+      "link": "https://bradfrost.com/blog/post/playing-my-world-helsinki-cathedral/",
+      "image": null,
+      "feed_name": "Brad Frost",
+      "feed_title": "Brad Frost",
+      "category": "personal blogs",
+      "feed_url": "http://feeds.feedburner.com/brad-frosts-blog",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=bradfrost.com&sz=64"
     },
     {
       "id": "https://www.raymondcamden.com/2026/10/27/generating-pdf-invoices-from-word-templates-with-officeparser",
