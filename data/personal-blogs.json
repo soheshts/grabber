@@ -1,9 +1,23 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-08T10:02:31.751294+00:00",
-  "count": 439,
+  "updated": "2026-11-08T10:32:52.008715+00:00",
+  "count": 440,
   "summary": null,
   "items": [
+    {
+      "id": "https://ronaldsvilcins.com/2026/11/08/stop-scrollbar-layout-shifts-with-scrollbar-gutter/",
+      "title": "Stop Scrollbar Layout Shifts With scrollbar-gutter",
+      "published": "2026-11-08T06:00:00+00:00",
+      "author": "Ronalds Vilciņš",
+      "description": "Use scrollbar-gutter to reserve space for classic scrollbars. Compare stable and both-edges, handle panels, and understand why overlay scrollbars differ.",
+      "link": "https://ronaldsvilcins.com/2026/11/08/stop-scrollbar-layout-shifts-with-scrollbar-gutter/",
+      "image": "https://ronaldsvilcins.com/og/ededbc458a8ac174f695ae0fc3c27fdff79c5994ddebfb54e15c7bd14abf04bd.jpg",
+      "feed_name": "Ronalds Vilciņš",
+      "feed_title": "Ronalds Vilciņš",
+      "category": "personal blogs",
+      "feed_url": "https://ronaldsvilcins.com/atom.xml",
+      "feed_icon": "https://ronaldsvilcins.com/favicon.png"
+    },
     {
       "id": "https://www.amitmerchant.com/safari-just-made-browsercontrolled-dark-mode-real",
       "title": "Safari Just Made Browser-Controlled Dark Mode Real",
