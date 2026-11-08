@@ -1,9 +1,23 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-08T20:33:44.221656+00:00",
+  "updated": "2026-11-08T21:03:55.281679+00:00",
   "count": 438,
   "summary": null,
   "items": [
+    {
+      "id": "https://thomasrigby.com/posts/2026-w45/",
+      "title": "Weeknotes: 2026-W45",
+      "published": "2026-11-08T20:58:27+00:00",
+      "author": "Thomas Rigby (rss@thomasrigby.com)",
+      "description": "In which Autumn truly arrives and a blast from past unexpectedly arrives in my inbox",
+      "link": "https://thomasrigby.com/posts/2026-w45/",
+      "image": "https://thomasrigby.com/images/QZVemV9AMs-600.webp",
+      "feed_name": "Thomas Rigby",
+      "feed_title": "Thomas Rigby",
+      "category": "personal blogs",
+      "feed_url": "https://thomasrigby.com/feed.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thomasrigby.com&sz=64"
+    },
     {
       "id": "https://www.bennadel.com/blog/4924-exploring-coldfusions-undocumented-form-getpartsarray-method.htm",
       "title": "Exploring ColdFusion's Undocumented FORM.getPartsArray() Method",
@@ -5407,20 +5421,6 @@
       "category": "personal blogs",
       "feed_url": "https://zellwk.com/rss.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=zellwk.com&sz=64"
-    },
-    {
-      "id": "https://ronaldsvilcins.com/2026/10/10/making-links-easy-to-recognize/",
-      "title": "Making Links Easy to Recognize",
-      "published": "2026-10-09T21:00:00+00:00",
-      "author": "Ronalds Vilciņš",
-      "description": "Make links recognisable with underlines, clear focus states, useful text, and behaviour that does not surprise the reader.",
-      "link": "https://ronaldsvilcins.com/2026/10/10/making-links-easy-to-recognize/",
-      "image": null,
-      "feed_name": "Ronalds Vilciņš",
-      "feed_title": "Ronalds Vilciņš",
-      "category": "personal blogs",
-      "feed_url": "https://ronaldsvilcins.com/atom.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=ronaldsvilcins.com&sz=64"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
