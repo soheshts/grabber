@@ -1,9 +1,51 @@
 {
   "category": "technology",
-  "updated": "2026-11-08T18:33:36.875820+00:00",
+  "updated": "2026-11-08T19:03:59.855518+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.engadget.com/2309548/2tb-phone-storage-makes-sense/",
+      "title": "Why 2TB of phone storage makes more sense than you think",
+      "published": "2026-11-08T18:45:00+00:00",
+      "author": "Gabriela Vătu",
+      "description": "Is 2TB of phone storage worth it? Find out who needs it and who can safely skip it, plus how much space you need for everyday photos, apps and games.",
+      "link": "https://www.engadget.com/2309548/2tb-phone-storage-makes-sense/",
+      "image": "https://www.engadget.com/img/gallery/why-2tb-of-phone-storage-makes-more-sense-than-you-think/l-intro-1793990071.jpg",
+      "feed_name": "Engadget",
+      "feed_title": "Engadget - Technology News & Expert Reviews",
+      "category": "technology",
+      "feed_url": "https://www.engadget.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
+    {
+      "id": "https://it.slashdot.org/story/26/11/08/1758242/claude-codes-dont-ask-again-file-exposes-passwords-and-keys-in-1122-public-copies-on-github?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "title": "Claude Code's 'Don't Ask Again' File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
+      "published": "2026-11-08T18:34:00+00:00",
+      "author": "EditorDavid",
+      "description": "Be careful with the file .claude/settings.local.json, warns The Hacker News: Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them. When a user selects \"Yes, and don't ask again,\" Anthropic's AI coding assistant can save the command, word-for-word, including the secret, in a project settings file. Software security company Apiiro said that 1,122 public copies of that file hold at least one se…",
+      "link": "https://it.slashdot.org/story/26/11/08/1758242/claude-codes-dont-ask-again-file-exposes-passwords-and-keys-in-1122-public-copies-on-github?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+      "feed_name": "Slashdot",
+      "feed_title": "Slashdot",
+      "category": "technology",
+      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
+    },
+    {
+      "id": "https://www.engadget.com/2309033/biggest-disadvantages-using-ai-glasses/",
+      "title": "The biggest disadvantages of using AI glasses",
+      "published": "2026-11-08T18:30:00+00:00",
+      "author": "Maddie Fisher",
+      "description": "AI glasses can do a lot of cool things, there's no debate about that. But there are also serious downsides to the tech.",
+      "link": "https://www.engadget.com/2309033/biggest-disadvantages-using-ai-glasses/",
+      "image": "https://www.engadget.com/img/gallery/the-biggest-disadvantages-of-using-ai-glasses/l-intro-1793976467.jpg",
+      "feed_name": "Engadget",
+      "feed_title": "Engadget - Technology News & Expert Reviews",
+      "category": "technology",
+      "feed_url": "https://www.engadget.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
     {
       "id": "https://www.engadget.com/2308988/apple-macbook-pro-proled-tops-out-at-15000/",
       "title": "Apple's new MacBook Pro tops out at $15K – here's what that gets you",
@@ -87,6 +129,20 @@
       "category": "technology",
       "feed_url": "https://www.engadget.com/rss.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
+    {
+      "id": "05kCG8DyJt0HdcPapLSSvZT",
+      "title": "How to watch Atlético Madrid vs. Barcelona online for free",
+      "published": "2026-11-08T17:26:04+00:00",
+      "author": null,
+      "description": "How to watch La Liga for free. Live stream Atlético Madrid vs. Barcelona in La Liga for free from anywhere in the world.",
+      "link": "https://mashable.com/entertainment/atletico-madrid-barcelona-la-liga-2026-live-stream-for-free",
+      "image": "https://helios-i.mashable.com/imagery/articles/05kCG8DyJt0HdcPapLSSvZT/hero-image.jpg",
+      "feed_name": "Mashable",
+      "feed_title": "Mashable",
+      "category": "technology",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
     },
     {
       "id": "https://www.theverge.com/?p=1029533",
@@ -684,20 +740,6 @@
       "description": "Prime members can get $20 off their first two qualifying Uber Eats orders through Amazon, plus $0 delivery fees on orders of $25+.",
       "link": "https://mashable.com/tech/nov-8-uber-eats-amazon-prime-early-black-friday-deal",
       "image": "https://helios-i.mashable.com/imagery/articles/06LUxjGY5gQeO9XshElqDlu/hero-image.png",
-      "feed_name": "Mashable",
-      "feed_title": "Mashable",
-      "category": "technology",
-      "feed_url": "http://feeds.mashable.com/Mashable",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
-    },
-    {
-      "id": "05kCG8DyJt0HdcPapLSSvZT",
-      "title": "How to watch Atlético Madrid vs. Barcelona online for free",
-      "published": "2026-11-08T08:00:00+00:00",
-      "author": null,
-      "description": "How to watch La Liga for free. Live stream Atlético Madrid vs. Barcelona in La Liga for free from anywhere in the world.",
-      "link": "https://mashable.com/entertainment/atletico-madrid-barcelona-la-liga-2026-live-stream-for-free",
-      "image": "https://helios-i.mashable.com/imagery/articles/05kCG8DyJt0HdcPapLSSvZT/hero-image.jpg",
       "feed_name": "Mashable",
       "feed_title": "Mashable",
       "category": "technology",
@@ -13961,48 +14003,6 @@
       "category": "technology",
       "feed_url": "https://www.blog.google/rss/",
       "feed_icon": "https://blog.google/static/blogv2/images/google.png"
-    },
-    {
-      "id": "5172740",
-      "title": "The Bambu Lab H3C Is Here and It’s Powerful and Uncompromising",
-      "published": "2026-11-03T14:00:00+00:00",
-      "author": "James Bricknell",
-      "description": "The Bambu Lab H3C is a large-format 3D printer with nine printheads, and it’s available now.",
-      "link": "https://www.cnet.com/tech/computing/hands-on-bambu-lab-h3c/",
-      "image": "https://www.cnet.com/wp-content/uploads/sites/2/image-20-3.png",
-      "feed_name": "CNET News",
-      "feed_title": "News – CNET",
-      "category": "technology",
-      "feed_url": "https://www.cnet.com/rss/news/",
-      "feed_icon": "https://www.cnet.com/wp-content/uploads/sites/2/cropped-favicon-480.png?w=32"
-    },
-    {
-      "id": "https://www.theverge.com/?p=1024484",
-      "title": "Peak Design expands its collection of wireless charging accessories",
-      "published": "2026-11-03T14:00:00+00:00",
-      "author": "Andrew Liszewski",
-      "description": "Peak Design, best known for its backpacks and travel bags packed full of useful features, announced it's expanding its collection of chargers and charging accessories with new devices that focus on pairing premium materials with innovative functionality. \"Somewhere along the way, we accepted that the electronics we use every day should be cheap, disposable and […]",
-      "link": "https://www.theverge.com/tech/1024484/peak-design-wireless-travel-battery-charging-charger-station-qi",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/pd4.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "feed_name": "The Verge -  All Posts",
-      "feed_title": "The Verge",
-      "category": "technology",
-      "feed_url": "https://www.theverge.com/rss/index.xml",
-      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
-    },
-    {
-      "id": "https://www.theverge.com/?p=1024978",
-      "title": "Bambu’s nine-nozzle H3C foretells the future of 3D printing",
-      "published": "2026-11-03T14:00:00+00:00",
-      "author": "Sean Hollister",
-      "description": "Three years ago, I told you how home 3D printers had evolved for speed, producing parts in minutes that used to take hours or days. Now, the next evolution is here: printers that can swap between materials on the fly, mix different colors to produce nearly the full rainbow, mix soft and hard materials, and […]",
-      "link": "https://www.theverge.com/tech/1024978/bambu-h3c-color-mixing-toolchanger-3d-printer-trend",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/bambu-h3c.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "feed_name": "The Verge -  All Posts",
-      "feed_title": "The Verge",
-      "category": "technology",
-      "feed_url": "https://www.theverge.com/rss/index.xml",
-      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
     }
   ]
 }
