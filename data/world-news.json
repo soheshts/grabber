@@ -1,9 +1,37 @@
 {
   "category": "World News",
-  "updated": "2026-11-08T01:33:09.118644+00:00",
+  "updated": "2026-11-08T02:03:24.223500+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo#0",
+      "title": "What we know so far after Krakow gun attack",
+      "published": "2026-11-08T01:47:41+00:00",
+      "author": null,
+      "description": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at the home of the attacker.",
+      "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/middle-east/yemen-urges-lebanon-to-act-against-hezbollahs-military-support-to-houthis/articleshow/135649405.cms",
+      "title": "Yemen urges Lebanon to act against Hezbollah's military support to Houthis",
+      "published": "2026-11-08T01:25:19+00:00",
+      "author": "Abhishek Mishra",
+      "description": "",
+      "link": "https://timesofindia.indiatimes.com/world/middle-east/yemen-urges-lebanon-to-act-against-hezbollahs-military-support-to-houthis/articleshow/135649405.cms",
+      "image": "https://static.toiimg.com/photo/msid-135649418,imgsize-1032271.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
     {
       "id": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count",
       "title": "NZ election 2026: New Zealand faces weeks of uncertainty with results ‘too close to call’",
@@ -157,20 +185,6 @@
       "category": "World News",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo#0",
-      "title": "What we know so far after Krakow gun attack",
-      "published": "2026-11-07T22:58:49+00:00",
-      "author": null,
-      "description": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
-      "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/us/a-former-las-vegas-politician-raised-more-than-70000-to-build-a-memorial-for-a-slain-police-officer-prosecutors-said-she-used-the-donations-for-rent-and-her-daughters-wedding/articleshow/135538285.cms",
@@ -13989,20 +14003,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "108517094",
-      "title": "Euro zone inflation hits 4% for first time in three years as interest rate hike looms",
-      "published": "2026-11-04T10:47:30+00:00",
-      "author": null,
-      "description": "It was driven by energy inflation, which surged above 20% in October.",
-      "link": "https://www.cnbc.com/2026/11/04/euro-zone-cpi-inflation-october-ecb-rate-hike.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108354968-1787811029425-gettyimages-2289917289-GERMANY_ECO.jpeg?v=1787811055&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     }
   ]
 }
