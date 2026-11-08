@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-08T23:03:54.626588+00:00",
+  "updated": "2026-11-08T23:33:43.492018+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.howtogeek.com/samsungs-ram-plus-is-eating-8gb-of-my-storage-for-almost-no-benefit/",
+      "title": "Samsung's RAM Plus is eating 8GB of my storage for almost no benefit",
+      "published": "2026-11-08T23:30:15+00:00",
+      "author": "Vishwamoorthy Ramakrishnan",
+      "description": "Your Galaxy phone doesn't need it.",
+      "link": "https://www.howtogeek.com/samsungs-ram-plus-is-eating-8gb-of-my-storage-for-almost-no-benefit/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/a-phone-on-the-ram-memory-management-screen-with-a-ram-stick-behind-the-phone.avif",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/protect-battery-health-with-android-adaptive-charging/",
       "title": "If you charge your Android overnight, don’t do it without this feature",
@@ -13989,20 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/windows-optimize-drives-secret-ssd-feature/",
-      "title": "The Windows tool you're told never to use on SSDs has a secret",
-      "published": "2026-10-25T16:00:17+00:00",
-      "author": "Oluwademilade Afolabi",
-      "description": "That ‘Optimize’ button isn’t plotting an early funeral for your SSD.",
-      "link": "https://www.makeuseof.com/windows-optimize-drives-secret-ssd-feature/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/defragment-and-optimize-drives-appearing-in-windows-11-search.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }
