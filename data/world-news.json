@@ -1,6 +1,6 @@
 {
   "category": "World News",
-  "updated": "2026-11-08T10:32:52.008715+00:00",
+  "updated": "2026-11-08T11:02:36.507362+00:00",
   "count": 1000,
   "summary": null,
   "items": [
@@ -45,6 +45,20 @@
       "category": "World News",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "t3_1xquz2v",
+      "title": "Poland starts national mourning after six killed in Krakow shooting. Krakow’s main square has partly reopened after the traumatic events",
+      "published": "2026-11-08T10:00:21+00:00",
+      "author": "/u/Tyranish_PL",
+      "description": "submitted by /u/Tyranish_PL [link] [comments]",
+      "link": "https://www.reddit.com/r/worldnews/comments/1xquz2v/poland_starts_national_mourning_after_six_killed/",
+      "image": "https://external-preview.redd.it/Fd1Z0vnn0qSM8lvxd_NBRW4gfM-aeEp_1keL1od3-DA.jpeg?width=640&crop=smart&auto=webp&s=fe76174176f1c65ec50a0b91536401d8c90222bf",
+      "feed_name": "World News",
+      "feed_title": "World News",
+      "category": "World News",
+      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
+      "feed_icon": "https://www.redditstatic.com/icon.png/"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/south-asia/threat-to-heritage-buddhist-monks-protest-in-sri-lanka-against-religious-site-redevelopment/articleshow/135656335.cms",
@@ -13989,20 +14003,6 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c977p01kgmmko#1",
-      "title": "Secret police files released in Hungary, 37 years after fall of communism",
-      "published": "2026-11-04T15:28:18+00:00",
-      "author": null,
-      "description": "Critics say the move comes too late, that the files themselves are incomplete, and the move risks sowing division and causing unnecessary anguish.",
-      "link": "https://www.bbc.co.uk/news/articles/c977p01kgmmko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65b3/live/39dbf5e0-d861-11f1-85ab-b3cc3b5498c6.png",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     }
   ]
 }
