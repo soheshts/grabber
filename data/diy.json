@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-08T00:32:51.094923+00:00",
-  "count": 998,
+  "updated": "2026-11-08T01:03:02.931661+00:00",
+  "count": 999,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.howtogeek.com/turned-1990s-samsung-crt-into-retro-terminal-with-raspberry-pi-zero-2w/",
+      "title": "I turned a 1990s Samsung CRT into a retro terminal with a Raspberry Pi Zero 2W",
+      "published": "2026-11-08T01:00:15+00:00",
+      "author": "Sydney Butler",
+      "description": "A shabby SyncMaster, a tiny Pi, and a wireless keyboard combine into a minimal headless box that boots straight to shell.",
+      "link": "https://www.howtogeek.com/turned-1990s-samsung-crt-into-retro-terminal-with-raspberry-pi-zero-2w/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/crt-terminal-front.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://hackaday.com/?p=1398429",
       "title": "Play Text Adventures on an E-Paper Handheld",
