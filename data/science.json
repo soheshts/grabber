@@ -1,9 +1,37 @@
 {
   "category": "science",
-  "updated": "2026-11-09T21:03:44.808989+00:00",
+  "updated": "2026-11-09T21:32:25.328877+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "news713451961",
+      "title": "First known 'disappearing planet' has a neighbor that makes it wobble like a top",
+      "published": "2026-11-09T21:20:20+00:00",
+      "author": null,
+      "description": "UCLA-led astronomers have discovered the first known \"disappearing planet\" about 1,000 light-years away. The planet, TOI-2535 b, is a \"hot Jupiter,\" a gas giant that orbits extremely close to its host star. TOI-2535 b whips around its star in only 8.25 days—10 times faster than the 88 days that Mercury takes to go around our sun once.",
+      "link": "https://phys.org/news/2026-11-planet-neighbor.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ten-colorful-gas-giant.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "news713452699",
+      "title": "Researchers develop AI tool to improve crisis communication",
+      "published": "2026-11-09T21:20:13+00:00",
+      "author": null,
+      "description": "During a disaster, emergency managers need quick, reliable data to make decisions, but the vast and changing stream of information that emerges during a crisis can make it difficult to distinguish facts from noise.",
+      "link": "https://phys.org/news/2026-11-ai-tool-crisis-communication.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-develop-ai-16.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
     {
       "id": "news713451481",
       "title": "CheMeleon model adapts to predict molecular properties from scant data",
@@ -13975,34 +14003,6 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "news712564522",
-      "title": "Award-winning research helps companies keep products where they're needed most",
-      "published": "2026-10-30T14:00:01+00:00",
-      "author": null,
-      "description": "Before a stick of deodorant reaches a consumer's bathroom counter, it moves through a complex supply chain. Raw materials and packaging components are sourced, assembled into a finished product and shipped through warehouses and distribution centers before finally reaching a store shelf.",
-      "link": "https://phys.org/news/2026-10-award-companies-products-theyre.html",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/soap-shampoo-laundry-p.jpg",
-      "feed_name": "Phys.org - latest science and technology news stories",
-      "feed_title": "Phys.org - latest science and technology news stories",
-      "category": "science",
-      "feed_url": "https://phys.org/rss-feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "09d616a3-8758-4bb7-ab7e-ddd00168e975",
-      "title": "The Buried Bodies Case",
-      "published": "2026-10-30T14:00:00+00:00",
-      "author": "WNYC Studios",
-      "description": "What's a lawyer's obligation to provide the best defense to the worst people?",
-      "link": "https://www.radiolab.org",
-      "image": null,
-      "feed_name": "Radiolab",
-      "feed_title": "Radiolab",
-      "category": "science",
-      "feed_url": "http://feeds.wnyc.org/radiolab",
-      "feed_icon": "https://image.simplecastcdn.com/images/2c9187d6-9dff-4257-bc55-469cf13afd48/60a2cfed-b8ca-460b-abb8-8ab0afb3fa8c/3000x3000/radiolab-showsquare-3000x3000.jpg?aid=rss_feed"
     }
   ]
 }
