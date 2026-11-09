@@ -1,15 +1,29 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-09T18:33:43.447306+00:00",
-  "count": 442,
+  "updated": "2026-11-09T19:03:57.189073+00:00",
+  "count": 443,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.aaron-gustafson.com/notebook/system-colors-need-to-work-together/",
+      "title": "System Colors Need to Work Together",
+      "published": "2026-11-09T18:42:04+00:00",
+      "author": "Aaron Gustafson",
+      "description": "While testing out a recent web component , I discovered the demo I’d built made active buttons totally inaccessible, but only on Android in dark mode. I was baffled because I intentionally use system colors in all my web components and their demos. In the browsers I’d been testing, the pair looked great in both dark and light themes, but over on my phone it was a different story. In Chrome’s dark mode on Android, HighlightText is a mid-tone grey. Highlight is a mid-tone blue. The contrast was a…",
+      "link": "https://www.aaron-gustafson.com/notebook/system-colors-need-to-work-together/",
+      "image": "https://www.aaron-gustafson.com/i/share-cards/system-colors-need-to-work-together.jpg",
+      "feed_name": "Aaron Gustafson",
+      "feed_title": "Aaron Gustafson: Latest Posts",
+      "category": "personal blogs",
+      "feed_url": "https://www.aaron-gustafson.com/feeds/latest-posts.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.aaron-gustafson.com&sz=64"
+    },
     {
       "id": "https://markboulton.co.uk/journal/is-the-future-of-design-systems-in-a-context-layer/",
       "title": "Is The Future of Design Systems In A Context Layer?",
       "published": "2026-11-09T18:04:58+00:00",
       "author": "Mark Boulton (mark@markboulton.co.uk)",
-      "description": "Stuart Frisby nails a problem I’ve been observing for a while. I’ve long had the view that a design system (as we’ve known them) is one consumable form of a design language. A design language, and the context it provides for all sorts of tools, lies in a context layer. Always has, really. Take a corporate design system. Covering branding, physical product design, wayfinding, digital products. Multi discipline. One brand. What this documentation typically covers is fundamentals and examples. The…",
+      "description": "Stuart Frisby nails a problem I’ve been observing for a while. This is where design as infrastructure stops being a slogan and becomes a requirement. If the tool can’t communicate a standard, the standard has to be reachable from any tool. That means the context a designer needs, the system they build within and the operating model that says how decisions get made all have to exist at a level of abstraction that a sketching tool, a prompting tool and a coding agent can each read. Tokens and com…",
       "link": "https://markboulton.co.uk/journal/is-the-future-of-design-systems-in-a-context-layer/",
       "image": null,
       "feed_name": "Mark Boulton's Journal RSS",
