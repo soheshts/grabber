@@ -1,9 +1,37 @@
 {
   "category": "World News",
-  "updated": "2026-11-09T02:03:55.670533+00:00",
+  "updated": "2026-11-09T02:32:54.113822+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "108545272",
+      "title": "China wholesale inflation hits highest in more than four years as consumer measure slows",
+      "published": "2026-11-09T02:28:50+00:00",
+      "author": null,
+      "description": "The PPI for October came in at 5.7%, compared to the 5.3% expected by economists polled by Reuters.",
+      "link": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108545286-1794185503611-gettyimages-2300115692-vcg111674152282.jpeg?v=1794185552&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity",
+      "title": "Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit",
+      "published": "2026-11-09T02:11:25+00:00",
+      "author": "Agence France-Presse",
+      "description": "Pontiff tells Argentina’s president the economy must benefit all on second stop of 12-day Latin America tour Pope Leo XIV has delivered a stinging critique of Argentine president Javier Milei’s harsh austerity measures, insisting growth must benefit all in a speech met with rapturous applause in Buenos Aires. “The economy must be at the service of the people, rather than people being at the service of the economy,” he said on Sunday, shortly after landing in Argentina on the second leg of a Lat…",
+      "link": "https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity",
+      "image": "https://i.guim.co.uk/img/media/cebae71e5fdd86b5579126f7d39addd8b86cf7f9/123_0_2842_2274/master/2842.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=920553499e2d4cef68f79a76ce8f99b1",
+      "feed_name": "The Guardian",
+      "feed_title": "World news | The Guardian",
+      "category": "World News",
+      "feed_url": "https://www.theguardian.com/world/rss",
+      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
     {
       "id": "https://www.theguardian.com/australia-news/2026/nov/09/beau-lamarre-condon-trial-reenacts-shooting-jesse-baird-ntwnfb",
       "title": "‘I never executed Jesse Baird’: Beau Lamarre-Condon reenacts shooting when giving evidence in NSW trial",
@@ -47,23 +75,9 @@
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
     },
     {
-      "id": "https://www.ndtv.com/world-news/read-full-text-of-nvidia-ceo-jensen-huangs-letter-admitting-he-cheated-on-his-wife-12301518#publisher=newsstand",
-      "title": "Read Full Text Of Nvidia CEO Jensen Huang's Letter Admitting He Cheated On His Wife",
-      "published": "2026-11-09T01:19:58+00:00",
-      "author": null,
-      "description": "Jensen Huang will remain CEO during the investigation.",
-      "link": "https://www.ndtv.com/world-news/read-full-text-of-nvidia-ceo-jensen-huangs-letter-admitting-he-cheated-on-his-wife-12301518#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-02/baihk6q4_nvidia-ceo-jensen-huang_625x300_04_February_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
       "id": "https://www.ndtv.com/world-news/nvidia-launches-probe-into-ceo-jensen-huangs-affair-with-suspected-chinese-spy-12301484#publisher=newsstand",
       "title": "Nvidia Launches Probe Into CEO Jensen Huang's Affair With Suspected Chinese Spy",
-      "published": "2026-11-09T01:07:41+00:00",
+      "published": "2026-11-09T01:26:49+00:00",
       "author": null,
       "description": "Jensen Huang will remain CEO during the investigation.",
       "link": "https://www.ndtv.com/world-news/nvidia-launches-probe-into-ceo-jensen-huangs-affair-with-suspected-chinese-spy-12301484#publisher=newsstand",
@@ -75,11 +89,25 @@
       "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
+      "id": "https://www.ndtv.com/world-news/read-full-text-of-nvidia-ceo-jensen-huangs-letter-admitting-he-cheated-on-his-wife-12301518#publisher=newsstand",
+      "title": "Read Full Text Of Nvidia CEO Jensen Huang's Letter Admitting He Cheated On His Wife",
+      "published": "2026-11-09T01:25:36+00:00",
+      "author": null,
+      "description": "Jensen Huang will remain CEO during the investigation.",
+      "link": "https://www.ndtv.com/world-news/read-full-text-of-nvidia-ceo-jensen-huangs-letter-admitting-he-cheated-on-his-wife-12301518#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-02/baihk6q4_nvidia-ceo-jensen-huang_625x300_04_February_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
       "id": "https://www.ndtv.com/world-news/nvidia-ceo-jensen-huang-admits-affair-with-chinese-spy-alice-huang-you-deserve-better-from-me-12301472#publisher=newsstand",
       "title": "\"I Was Unfaithful To My Wife\": Nvidia's Jensen Huang Admits To Affair With Suspected Chinese Spy",
       "published": "2026-11-09T01:02:39+00:00",
       "author": null,
-      "description": "In the email, accessed by Axios, Huang acknowledged that he owes an apology to his family and all his employees and extended cooperation in investigation.",
+      "description": "Nvidia CEO Jensen Huang admitted to being \"unfaithful\" to his wife.",
       "link": "https://www.ndtv.com/world-news/nvidia-ceo-jensen-huang-admits-affair-with-chinese-spy-alice-huang-you-deserve-better-from-me-12301472#publisher=newsstand",
       "image": "https://c.ndtvimg.com/2026-11/loh212ks_jensen-huang_625x300_07_November_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
       "feed_name": "NDTV News - World-news",
@@ -13975,34 +14003,6 @@
       "category": "World News",
       "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
       "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/1-killed-2-injured-after-helicopter-crashes-into-biscayne-bay-near-miami-12285061#publisher=newsstand",
-      "title": "1 Killed, 2 Injured After Helicopter Crashes Into Bay Near Miami",
-      "published": "2026-11-05T01:30:32+00:00",
-      "author": null,
-      "description": "Robinson R44 II helicopter went down late Wednesday morning near Bill Baggs State Park, officials said.",
-      "link": "https://www.ndtv.com/world-news/1-killed-2-injured-after-helicopter-crashes-into-biscayne-bay-near-miami-12285061#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2023-03/hjs849g8_helicopter-generic_625x300_16_March_23.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
-      "id": "108522056",
-      "title": "White House panel delays hearing on Fed's Lisa Cook to Dec. 14",
-      "published": "2026-11-05T01:11:26+00:00",
-      "author": null,
-      "description": "President Donald Trump first tried to fire Lisa Cook in August 2025, but the Supreme Court in June blocked him from doing so, for now.",
-      "link": "https://www.cnbc.com/2026/11/04/trump-federal-reserve-lisa-cook-hearing.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108280427-1786124614115-108280427-1773939285477-gettyimages-2267401098-kd1_7891_8uve28ro.jpeg?v=1786124639&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     }
   ]
 }
