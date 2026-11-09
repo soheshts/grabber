@@ -1,9 +1,23 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-09T21:32:25.328877+00:00",
-  "count": 441,
+  "updated": "2026-11-09T22:03:56.850636+00:00",
+  "count": 442,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.bennadel.com/blog/4925-adding-multipart-form-data-support-to-my-parameter-grouping-polyfill-in-adobe-coldfusion.htm",
+      "title": "Adding \"Multipart/Form-Data\" Support To My Parameter Grouping Polyfill In Adobe ColdFusion",
+      "published": "2026-11-10T02:33:15+00:00",
+      "author": null,
+      "description": "Ben Nadel adds \"multipart/form-data\" requests to his \"[]\" field grouping semantics polyfill for Adobe ColdFusion 2025....",
+      "link": "https://www.bennadel.com/blog/4925-adding-multipart-form-data-support-to-my-parameter-grouping-polyfill-in-adobe-coldfusion.htm",
+      "image": "https://bennadel-cdn.com/resources/uploads/2026/coldfusion-multipart-field-group-polyfill@2x.png",
+      "feed_name": "Ben Nadel",
+      "feed_title": "Ben Nadel's Web Development and User Experience Feed @ BenNadel.com",
+      "category": "personal blogs",
+      "feed_url": "http://www.bennadel.com/index.cfm?dax=blog.rss&lst_tag_id=14,16,3,5,9,6,7,13,18,20,10,15",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.bennadel.com&sz=64"
+    },
     {
       "id": "https://www.aaron-gustafson.com/notebook/system-colors-need-to-work-together/",
       "title": "System Colors Need to Work Together",

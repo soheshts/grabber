@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-09T21:32:25.328877+00:00",
+  "updated": "2026-11-09T22:03:56.850636+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.howtogeek.com/microsoft-excel-workflow-turned-powerpoint-presentation-into-live-report/",
+      "title": "This Excel workflow turned my PowerPoint presentation into a live report",
+      "published": "2026-11-09T22:01:15+00:00",
+      "author": "Tony Phillips",
+      "description": "A quick refresh turns a folder of weekly reports into an updated PowerPoint slide.",
+      "link": "https://www.howtogeek.com/microsoft-excel-workflow-turned-powerpoint-presentation-into-live-report/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/excel-workflow-powerpoint-live-report.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.makeuseof.com/dc-danger-james-gunn-wonder-woman-batman-lanterns-swamp-thing/",
+      "title": "All 10 DC projects in danger after James Gunn’s shocking exit",
+      "published": "2026-11-09T21:59:17+00:00",
+      "author": "Dan Selcke",
+      "description": "After four years building a new DC Cinematic Universe, James Gunn has been replaced. What happens now?",
+      "link": "https://www.makeuseof.com/dc-danger-james-gunn-wonder-woman-batman-lanterns-swamp-thing/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2025/09/rev-1-spmn-17728rv3_high_res_jpeg-1.jpeg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/google-wallet-features-you-can-turn-off/",
       "title": "4 annoying Google Wallet features you can and should turn off",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.makeuseof.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/adaptive-charging-vs-80-cap-for-a-week-pixel-battery-health-winner/",
-      "title": "I pitted adaptive charging against an 80% cap for a week, and my battery health picked a winner",
-      "published": "2026-10-26T16:00:19+00:00",
-      "author": "Shimul Sood",
-      "description": "Full charge or forever young?",
-      "link": "https://www.makeuseof.com/adaptive-charging-vs-80-cap-for-a-week-pixel-battery-health-winner/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2026/08/google-pixel-11-pro-xl-in-a-person-s-hand.png",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/why-esp32s-secret-low-power-features-make-it-better-than-pi-for-battery-projects/",
-      "title": "Why ESP32's secret low-power features make it better than Pi for battery projects",
-      "published": "2026-10-26T16:00:18+00:00",
-      "author": "Nick Lewis",
-      "description": "They have a power draw measured in millionths of an amp.",
-      "link": "https://www.howtogeek.com/why-esp32s-secret-low-power-features-make-it-better-than-pi-for-battery-projects/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/esp32-development-board-with-microcontroller-and-components.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
     }
   ]
 }
