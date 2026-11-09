@@ -1,9 +1,65 @@
 {
   "category": "World News",
-  "updated": "2026-11-09T22:03:56.850636+00:00",
+  "updated": "2026-11-09T22:33:41.886046+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/11/09/world/europe/poland-mass-shooting-krakow-politics.html",
+      "title": "Mass Killing in Poland Becomes Cause for a Political Fight",
+      "published": "2026-11-09T22:29:12+00:00",
+      "author": "Andrew Higgins",
+      "description": "The government blames the far right for inspiring the gunman, while the opposition accuses the government of lax security.",
+      "link": "https://www.nytimes.com/2026/11/09/world/europe/poland-mass-shooting-krakow-politics.html",
+      "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09int-poland-new2-pqvj/09int-poland-new2-pqvj-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo#1",
+      "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
+      "published": "2026-11-09T22:17:23+00:00",
+      "author": null,
+      "description": "The ruling means the case can move forward, possibly with reduced charges in a new trial.",
+      "link": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f13d/live/216524b0-dc7f-11f1-ba95-5f07efd49f42.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/us-supreme-court-allows-trump-to-resume-border-wall-construction-in-big-bend-park-in-texas-12305596#publisher=newsstand",
+      "title": "US Supreme Court Allows Trump To Resume Border Wall Construction In Texas",
+      "published": "2026-11-09T22:16:42+00:00",
+      "author": null,
+      "description": "In October, US District Judge Kathleen Cardone in El Paso blocked the Trump administration's project.",
+      "link": "https://www.ndtv.com/world-news/us-supreme-court-allows-trump-to-resume-border-wall-construction-in-big-bend-park-in-texas-12305596#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-11/vbakt288_big-bend_625x300_10_November_26.jpeg",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/09/world/nvidia-affair-jensen-huang-russell-brand.html",
+      "title": "The Nvidia Affair",
+      "published": "2026-11-09T22:05:19+00:00",
+      "author": "Katrin Bennhold",
+      "description": "An illicit relationship between the C.E.O. and an alleged Chinese spy is putting the spotlight on a murky ecosystem of companies smuggling A.I. chips into China.",
+      "link": "https://www.nytimes.com/2026/11/09/world/nvidia-affair-jensen-huang-russell-brand.html",
+      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-theworld-nvidia-01-wkfl-promo/10int-theworld-nvidia-01-wkfl-promo-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "https://www.nytimes.com/2026/11/09/world/africa/trump-deportations-court-orders-refoulement.html",
       "title": "Immigrants Are Being Systematically Returned Home Despite Court Orders",
@@ -40,20 +96,6 @@
       "description": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process.",
       "link": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0303/live/c8a877f0-dc7e-11f1-93e1-3b657b665bcf.png",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo#1",
-      "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
-      "published": "2026-11-09T21:31:49+00:00",
-      "author": null,
-      "description": "The ruling means prosecutors can pursue the case, meaning they could reduce charges in a potential second trial or dismiss them altogether.",
-      "link": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f13d/live/216524b0-dc7f-11f1-ba95-5f07efd49f42.jpg",
       "feed_name": "BBC News - World",
       "feed_title": "BBC News",
       "category": "World News",
@@ -187,23 +229,9 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
-      "id": "https://www.nytimes.com/2026/11/09/world/nvidia-affair-jensen-huang-russell-brand.html",
-      "title": "The Nvidia Affair",
-      "published": "2026-11-09T20:52:03+00:00",
-      "author": "Katrin Bennhold",
-      "description": "An illicit relationship between the C.E.O. and an alleged Chinese spy is putting the spotlight on a murky ecosystem of companies smuggling A.I. chips into China.",
-      "link": "https://www.nytimes.com/2026/11/09/world/nvidia-affair-jensen-huang-russell-brand.html",
-      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-theworld-nvidia-01-wkfl-promo/10int-theworld-nvidia-01-wkfl-promo-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
       "id": "https://www.nytimes.com/2026/11/09/world/africa/senegal-migrant-boat-capsize-europe.html",
       "title": "Shipwreck Off Senegal Kills Dozens as Canary Islands Declare Migrant Emergency",
-      "published": "2026-11-09T20:50:12+00:00",
+      "published": "2026-11-09T20:50:13+00:00",
       "author": "Amelia Nierenberg, Saikou Jammeh and Carlos Barragán",
       "description": "Migrant arrivals to Europe are down overall but still claiming scores of victims, overwhelming local officials and dominating political debate.",
       "link": "https://www.nytimes.com/2026/11/09/world/africa/senegal-migrant-boat-capsize-europe.html",
@@ -619,20 +647,6 @@
       "category": "World News",
       "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
       "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/09/world/europe/poland-mass-shooting-krakow-politics.html",
-      "title": "Mass Killing in Poland Becomes Cause for a Political Fight",
-      "published": "2026-11-09T18:53:07+00:00",
-      "author": "Andrew Higgins",
-      "description": "The government blames the far right for inspiring the gunman, while the opposition accuses the government of lax security.",
-      "link": "https://www.nytimes.com/2026/11/09/world/europe/poland-mass-shooting-krakow-politics.html",
-      "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09int-poland-shooting-01-wqzp/09int-poland-shooting-01-wqzp-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://www.ndtv.com/world-news/white-house-on-temporary-lockdown-after-car-crashes-into-signpost-12304959#publisher=newsstand",
@@ -13989,20 +14003,6 @@
       "category": "World News",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "t3_1xou0lz",
-      "title": "Russia Warns Citizens to Avoid Travel to Iran Amid Rising Tensions",
-      "published": "2026-11-05T20:55:15+00:00",
-      "author": "/u/Puzzleheaded-Swany",
-      "description": "submitted by /u/Puzzleheaded-Swany [link] [comments]",
-      "link": "https://www.reddit.com/r/worldnews/comments/1xou0lz/russia_warns_citizens_to_avoid_travel_to_iran/",
-      "image": "https://external-preview.redd.it/FFFtTUYMrbHJNZVWKNQfZ30nJLZLQIfYuG_AZqo_FAg.jpeg?width=320&crop=smart&auto=webp&s=e8ebd6304b012c44ef0ff664c6986a3e2977105c",
-      "feed_name": "World News",
-      "feed_title": "World News",
-      "category": "World News",
-      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
-      "feed_icon": "https://www.redditstatic.com/icon.png/"
     }
   ]
 }

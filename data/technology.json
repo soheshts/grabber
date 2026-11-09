@@ -1,9 +1,51 @@
 {
   "category": "technology",
-  "updated": "2026-11-09T22:03:56.850636+00:00",
+  "updated": "2026-11-09T22:33:41.886046+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "yt:video:RavEFW5vb54",
+      "title": "iPhone Duo Livestream: How Many Folds Can Apple’s Phone Take? Day 11",
+      "published": "2026-11-09T22:10:15+00:00",
+      "author": "CNET",
+      "description": "Apple's iPhone Duo is out and we want to see how durable it is. So we built a robot to fold it 20,000+ times a day to test its limits. How long do you think it will last? 100,000 folds? 200,000 folds? 500,000 folds? Tune in and watch the testing live. We'll have CNET's editors online to answer any of your questions. Read more about the iPhone Duo Folding Test on CNET.com We Answer 16 Questions About Folding the iPhone Duo Hundreds of Thousands of Times https://zdcs.link/a5jBk8 The iPhone Duo Is…",
+      "link": "https://www.youtube.com/watch?v=RavEFW5vb54",
+      "image": "https://i3.ytimg.com/vi/RavEFW5vb54/hqdefault.jpg",
+      "feed_name": "CNET",
+      "feed_title": "CNET",
+      "category": "technology",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?user=CNETTV",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64"
+    },
+    {
+      "id": "https://games.slashdot.org/story/26/11/09/2154207/epic-games-comments-on-planned-linux-distribution-support?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "title": "Epic Games Comments On Planned Linux Distribution Support",
+      "published": "2026-11-09T22:00:00+00:00",
+      "author": "BeauHD",
+      "description": "Epic Games says it plans to support its new Linux launcher on as many distributions as possible, specifically naming Fedora, SteamOS, CachyOS and Omarchy. GamingOnLinux's Liam Squires-Hand reports: Speaking to Jake Jones, Communications Director at Epic Games, they said: \"Hey Liam! The new Epic Games Launcher is still in Preview and we plan to support as many Linux distributions as possible, including Fedora, SteamOS, Cachy, Omarchy, and more. We're testing and evaluating packaging formats for…",
+      "link": "https://games.slashdot.org/story/26/11/09/2154207/epic-games-comments-on-planned-linux-distribution-support?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+      "feed_name": "Slashdot",
+      "feed_title": "Slashdot",
+      "category": "technology",
+      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
+    },
+    {
+      "id": "https://arstechnica.com/culture/2026/11/dcu-shake-up-james-gunn-and-peter-safran-out-post-merger/",
+      "title": "DCU shake-up: James Gunn and Peter Safran out post-merger",
+      "published": "2026-11-09T21:55:35+00:00",
+      "author": "Jennifer Ouellette",
+      "description": "Producer and former Kevin Feige protege Jeremy Latcham will replace Gunn and Safran.",
+      "link": "https://arstechnica.com/culture/2026/11/dcu-shake-up-james-gunn-and-peter-safran-out-post-merger/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/lanterns3-500x500.jpg",
+      "feed_name": "Ars Technica",
+      "feed_title": "Ars Technica - All content",
+      "category": "technology",
+      "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
+      "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
+    },
     {
       "id": "TheNextWeb=10433a0b587093f1627a96fb5e8b39af",
       "title": "ByteDance’s Seedream 5.5 can edit one image 100 times without breaking it",
@@ -33,6 +75,20 @@
       "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
     },
     {
+      "id": "5188659",
+      "title": "New Paramount Plus and HBO Max Bundle to Arrive Early Next Year",
+      "published": "2026-11-09T21:43:01+00:00",
+      "author": "Kourtnee Jackson",
+      "description": "Now that the merger is complete, Skydance aims to deliver on its promise to bring both streamers together.",
+      "link": "https://www.cnet.com/tech/services-and-software/new-paramount-plus-and-hbo-max-bundle-to-arrive-early-next-year/",
+      "image": "https://www.cnet.com/wp-content/uploads/sites/2/lanterns-s1-aaron-pierre-kyle-chandler.jpg",
+      "feed_name": "CNET News",
+      "feed_title": "News – CNET",
+      "category": "technology",
+      "feed_url": "https://www.cnet.com/rss/news/",
+      "feed_icon": "https://www.cnet.com/wp-content/uploads/sites/2/cropped-favicon-480.png?w=32"
+    },
+    {
       "id": "01M712DHQGNCK6N656ZT6B59KG",
       "title": "These Samsung OLED TVs Are Up to $800 Off in This Early Black Friday Deal",
       "published": "2026-11-09T21:22:12+00:00",
@@ -45,6 +101,20 @@
       "category": "technology",
       "feed_url": "https://lifehacker.com/rss",
       "feed_icon": "https://www.google.com/s2/favicons?domain=lifehacker.com&sz=64"
+    },
+    {
+      "id": "https://arstechnica.com/tech-policy/2026/11/man-who-lost-308000-on-sports-bets-sues-kalshi-for-offering-illegal-gambling/",
+      "title": "Man who lost $308,000 on sports bets sues Kalshi for offering illegal gambling",
+      "published": "2026-11-09T21:13:39+00:00",
+      "author": "Jon Brodkin",
+      "description": "Lawsuit demands Kalshi return losses because online betting is illegal in Washington.",
+      "link": "https://arstechnica.com/tech-policy/2026/11/man-who-lost-308000-on-sports-bets-sues-kalshi-for-offering-illegal-gambling/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/kalshi-baseball-500x500-1794257986.jpg",
+      "feed_name": "Ars Technica",
+      "feed_title": "Ars Technica - All content",
+      "category": "technology",
+      "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
+      "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
     },
     {
       "id": "https://www.theverge.com/?p=1030252",
@@ -143,6 +213,20 @@
       "category": "technology",
       "feed_url": "https://thenextweb.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
+    {
+      "id": "https://arstechnica.com/gadgets/2026/11/a-sam-altman-parody-offers-an-amusing-lesson-in-memory-management/",
+      "title": "A Sam Altman parody offers an amusing lesson in memory management",
+      "published": "2026-11-09T20:49:09+00:00",
+      "author": "Nick Indge",
+      "description": "We verified the RAM numbers are real without sending any emails to OpenAI.",
+      "link": "https://arstechnica.com/gadgets/2026/11/a-sam-altman-parody-offers-an-amusing-lesson-in-memory-management/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1723107474-500x500.jpg",
+      "feed_name": "Ars Technica",
+      "feed_title": "Ars Technica - All content",
+      "category": "technology",
+      "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
+      "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
     },
     {
       "id": "01M70ZTS7G8YVPNF41AMZQVG3D",
@@ -6424,20 +6508,6 @@
       "description": "Apple's iPhone Duo is out and we want to see how durable it is. So we built a robot to fold it 20,000+ times a day to test its limits. How long do you think it will last? 100,000 folds? 200,000 folds? 500,000 folds? Tune in and watch the testing live. We'll have CNET's editors online to answer any of your questions. Read more about the iPhone Duo Folding Test on CNET.com We Answer 16 Questions About Folding the iPhone Duo Hundreds of Thousands of Times https://zdcs.link/a5jBk8 The iPhone Duo Is…",
       "link": "https://www.youtube.com/watch?v=mGvHmBs8OfA",
       "image": "https://i2.ytimg.com/vi/mGvHmBs8OfA/hqdefault.jpg",
-      "feed_name": "CNET",
-      "feed_title": "CNET",
-      "category": "technology",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?user=CNETTV",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64"
-    },
-    {
-      "id": "yt:video:RavEFW5vb54",
-      "title": "iPhone Duo Livestream: How Many Folds Can Apple’s Phone Take? Day 11",
-      "published": "2026-11-06T17:52:40+00:00",
-      "author": "CNET",
-      "description": "Apple's iPhone Duo is out and we want to see how durable it is. So we built a robot to fold it 20,000+ times a day to test its limits. How long do you think it will last? 100,000 folds? 200,000 folds? 500,000 folds? Tune in and watch the testing live. We'll have CNET's editors online to answer any of your questions. Read more about the iPhone Duo Folding Test on CNET.com We Answer 16 Questions About Folding the iPhone Duo Hundreds of Thousands of Times https://zdcs.link/a5jBk8 The iPhone Duo Is…",
-      "link": "https://www.youtube.com/watch?v=RavEFW5vb54",
-      "image": "https://i3.ytimg.com/vi/RavEFW5vb54/hqdefault.jpg",
       "feed_name": "CNET",
       "feed_title": "CNET",
       "category": "technology",
@@ -13933,76 +14003,6 @@
       "category": "technology",
       "feed_url": "https://thenextweb.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
-    },
-    {
-      "id": "TheNextWeb=596f6e834f2569ec81adc2fb6798f453",
-      "title": "EIC Scaling Club deep tech scale-ups raised €4bn after joining, report says",
-      "published": "2026-11-04T10:10:46+00:00",
-      "author": "Ana-Maria Stanciuc",
-      "description": "European deep tech companies in the European Innovation Council’s (EIC) Scaling Club have raised €4.06bn since joining the programme, according to a new report published by the initiative. The Club, funded by the EIC, supports 120 scale-ups from 26 countries. The report, Europe’s Deep Tech Scale-ups: Building Momentum, compares the members with 240 companies that […] This story continues at The Next Web",
-      "link": "https://thenextweb.com/news/eic-scaling-club-deep-tech-scale-ups-raised-e4bn-after-joining-report-says",
-      "image": "https://media.thenextweb.com/2026/11/eic-scaling-club-deep-tech-report-cover-rocket.avif",
-      "feed_name": "The Next Web",
-      "feed_title": "The Next Web",
-      "category": "technology",
-      "feed_url": "https://thenextweb.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
-    },
-    {
-      "id": "04NN26wGWCUGyKwvzVN1eri",
-      "title": "Review: I have no complaints about the Fitbit Edge, but I prefer the Fitbit Air",
-      "published": "2026-11-04T10:00:46+00:00",
-      "author": null,
-      "description": "The Fitbit Edge has everything you want from a fitness tracker, including week-long battery life. But I prefer the faceless Fitbit Air.",
-      "link": "https://mashable.com/tech/fitbit-edge-review",
-      "image": "https://helios-i.mashable.com/imagery/reviews/04NN26wGWCUGyKwvzVN1eri/hero-image.jpg",
-      "feed_name": "Mashable",
-      "feed_title": "Mashable",
-      "category": "technology",
-      "feed_url": "http://feeds.mashable.com/Mashable",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
-    },
-    {
-      "id": "035Y0YW3nAPK7OXcP2WtRtf",
-      "title": "Reading A Court of Splintered Harmony on your Kindle? Try this helpful feature.",
-      "published": "2026-11-04T10:00:46+00:00",
-      "author": null,
-      "description": "Reading a book you need to reference images on? This is how to pin text and images on your Kindle to easily reference back to them.",
-      "link": "https://mashable.com/tech/kindle-pinning-feature-how-to-pin-text-images",
-      "image": "https://helios-i.mashable.com/imagery/articles/035Y0YW3nAPK7OXcP2WtRtf/hero-image.png",
-      "feed_name": "Mashable",
-      "feed_title": "Mashable",
-      "category": "technology",
-      "feed_url": "http://feeds.mashable.com/Mashable",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
-    },
-    {
-      "id": "00VeTNvLaFZZ1xadKiQsPbr",
-      "title": "Amazon has cut the price of KPop Demon Hunters Collectible Trading Cards (Classic Edition)",
-      "published": "2026-11-04T10:00:29+00:00",
-      "author": null,
-      "description": "Save 11% on Kpop Demon Hunters Collectible Trading Cards at Amazon.",
-      "link": "https://mashable.com/life/nov-4-kpop-demon-hunters-trading-cards-deal",
-      "image": "https://helios-i.mashable.com/imagery/articles/00VeTNvLaFZZ1xadKiQsPbr/hero-image.png",
-      "feed_name": "Mashable",
-      "feed_title": "Mashable",
-      "category": "technology",
-      "feed_url": "http://feeds.mashable.com/Mashable",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
-    },
-    {
-      "id": "https://science.slashdot.org/story/26/11/04/066209/dinosaur-blood-found-in-fossils-for-the-first-time?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "title": "Dinosaur Blood Found In Fossils For the First Time",
-      "published": "2026-11-04T10:00:00+00:00",
-      "author": "BeauHD",
-      "description": "Researchers have confirmed the presence of intact biomolecules and mineralized red blood cells inside the 115-million-year-old fossilized bones of a juvenile Aratasaurus museunacionali from Brazil. The discovery challenges assumptions about how long blood-related biomolecules can survive and could help scientists study dinosaur metabolism, blood evolution and even how traces of ancient life might be preserved on other worlds. Popular Science reports: The evidence exists inside the fossilized li…",
-      "link": "https://science.slashdot.org/story/26/11/04/066209/dinosaur-blood-found-in-fossils-for-the-first-time?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-      "feed_name": "Slashdot",
-      "feed_title": "Slashdot",
-      "category": "technology",
-      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
     }
   ]
 }
