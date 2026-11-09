@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-09T05:03:57.471560+00:00",
-  "count": 438,
+  "updated": "2026-11-09T05:32:19.084173+00:00",
+  "count": 439,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,20 @@
       "category": "personal blogs",
       "feed_url": "https://thomasrigby.com/feed.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=thomasrigby.com&sz=64"
+    },
+    {
+      "id": "https://blog.jim-nielsen.com/2026/addition-by-subtraction/",
+      "title": "Addition By Subtraction",
+      "published": "2026-11-08T19:00:00+00:00",
+      "author": null,
+      "description": "I still think saying no is important. In that vein, here’s something I shipped by removing functionality (and I think my site is better for it). For the longest time on my icon gallery sites , you could view a list of icons in four pixel dimensions: 56×56 128×128 256×256 512×512 Each of these sizes could be accessed via a control on the website. This has been true for years on my site, whether it’s the current site: Or an older version of the site: By default, I loaded the 128-pixel version of…",
+      "link": "https://blog.jim-nielsen.com/2026/addition-by-subtraction/",
+      "image": "https://cdn.jim-nielsen.com/blog/2026/icon-size-newer-site.png",
+      "feed_name": "Jim Nielsen’s Blog",
+      "feed_title": "Jim Nielsen’s Blog",
+      "category": "personal blogs",
+      "feed_url": "https://blog.jim-nielsen.com/feed.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=blog.jim-nielsen.com&sz=64"
     },
     {
       "id": "https://www.bennadel.com/blog/4924-exploring-coldfusions-undocumented-form-getpartsarray-method.htm",
