@@ -1,6 +1,6 @@
 {
   "category": "science",
-  "updated": "2026-11-09T14:03:55.364730+00:00",
+  "updated": "2026-11-09T14:33:40.227413+00:00",
   "count": 1000,
   "summary": null,
   "items": [
@@ -585,6 +585,20 @@
       "author": "Chris Stokel-Walker",
       "description": "Nature, Published online: 09 November 2026; doi:10.1038/d41586-026-03626-7 The theoretical physicist unpacks the need for more humility in science and whether artificial intelligence could ever become conscious.",
       "link": "https://www.nature.com/articles/d41586-026-03626-7",
+      "image": null,
+      "feed_name": "Nature",
+      "feed_title": "Nature",
+      "category": "science",
+      "feed_url": "https://www.nature.com/nature.rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=feeds.nature.com&sz=64"
+    },
+    {
+      "id": "https://www.nature.com/articles/d41586-026-02998-0",
+      "title": "How academic freedom is changing around the world — by the numbers",
+      "published": "2026-11-09T00:00:00+00:00",
+      "author": "Miryam Naddaf",
+      "description": "Nature, Published online: 09 November 2026; doi:10.1038/d41586-026-02998-0 Nature reports on five countries where academic freedom either plummeted or soared in recent years.",
+      "link": "https://www.nature.com/articles/d41586-026-02998-0",
       "image": null,
       "feed_name": "Nature",
       "feed_title": "Nature",
@@ -13978,20 +13992,6 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o#0",
-      "title": "From Levi's to Primark - the fashion chains selling mended clothes",
-      "published": "2026-10-30T00:00:35+00:00",
-      "author": null,
-      "description": "A new generation is embracing eye-catching patching and visible mends.",
-      "link": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f93/live/75a32910-c9a5-11f1-ad54-aba20166b422.jpg",
-      "feed_name": "BBC News - Science & Environment",
-      "feed_title": "BBC News",
-      "category": "science",
-      "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o#1",
       "title": "From Levi's to Primark - the fashion chains selling mended clothes",
       "published": "2026-10-30T00:00:35+00:00",
       "author": null,
