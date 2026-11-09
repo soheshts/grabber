@@ -1,9 +1,51 @@
 {
   "category": "DIY",
-  "updated": "2026-11-09T15:03:16.997620+00:00",
+  "updated": "2026-11-09T15:33:23.447254+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/a-free-windows-tool-can-sanitize-documents-before-you-upload-them-to-ai/",
+      "title": "A free Windows tool can sanitize documents before you upload them to AI",
+      "published": "2026-11-09T15:30:17+00:00",
+      "author": "Afam Onyimadu",
+      "description": "Remove what's sensitive and private before handing it to AI.",
+      "link": "https://www.makeuseof.com/a-free-windows-tool-can-sanitize-documents-before-you-upload-them-to-ai/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/file-redaction-with-philter-desktop-on-windows.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/ditched-obsidian-for-free-and-open-source-alternative-with-built-in-sync/",
+      "title": "I ditched Obsidian for its free and open-source rival with built-in sync",
+      "published": "2026-11-09T15:30:16+00:00",
+      "author": "Dibakar Ghosh",
+      "description": "I didn’t expect a free, open-source app to outshine Obsidian in so many different areas, but here we are.",
+      "link": "https://www.howtogeek.com/ditched-obsidian-for-free-and-open-source-alternative-with-built-in-sync/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/trilium-notes-open-on-an-ultrawide-monitor-with-a-map-and-a-tree-of-linked-notes-1.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/nvidias-299-shield-tv-pro-is-aging-out-and-the-new-apple-tv-4k-is-taking-its-place/",
+      "title": "NVIDIA's $299 Shield TV Pro is aging out, and the new Apple TV 4K is taking its place",
+      "published": "2026-11-09T15:30:16+00:00",
+      "author": "Vishwamoorthy Ramakrishnan",
+      "description": "The NVIDIA Shield TV Pro is losing its appeal.",
+      "link": "https://www.howtogeek.com/nvidias-299-shield-tv-pro-is-aging-out-and-the-new-apple-tv-4k-is-taking-its-place/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2025/12/nvidia-shield-tv-pro-and-remote.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/google-maps-popular-times-avoid-crowded-stores/",
       "title": "5 minutes in Google Maps can save you an hour at the supermarket checkout",
@@ -13961,48 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://hackaday.com/blog/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
-    },
-    {
-      "id": "https://hackaday.com/?p=1243330",
-      "title": "Building a Swashplate-less Helicoper Rotor",
-      "published": "2026-10-26T05:00:22+00:00",
-      "author": "Aaron Beckendorf",
-      "description": "A helicopter blade uses a swash plate and a set of linkages to change the angle of the blades. Not only does it vary the collective pitch to increase or …read more",
-      "link": "https://hackaday.com/2026/10/25/building-a-swashplate-less-helicoper-rotor/",
-      "image": "https://hackaday.com/wp-content/uploads/2026/10/helicopter_propeller.png",
-      "feed_name": "Blog – Hackaday",
-      "feed_title": "Blog – Hackaday",
-      "category": "DIY",
-      "feed_url": "https://hackaday.com/blog/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
-    },
-    {
-      "id": "https://hackaday.com/?p=1354453",
-      "title": "Transforming a Tungsten Ditelluride Monolayer into a Transistor",
-      "published": "2026-10-26T02:00:52+00:00",
-      "author": "Maya Posch",
-      "description": "In the world of silicon semiconductors, the process of creating transistors and similar structures involves various rounds of modifications and additions in order to create the requisite functional layers. A …read more",
-      "link": "https://hackaday.com/2026/10/25/transforming-a-tungsten-ditelluride-monolayer-into-a-transistor/",
-      "image": "https://hackaday.com/wp-content/uploads/2026/10/tmdc_mosfet_seok_young_min_et_al_science_2026.jpg",
-      "feed_name": "Blog – Hackaday",
-      "feed_title": "Blog – Hackaday",
-      "category": "DIY",
-      "feed_url": "https://hackaday.com/blog/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/reasons-why-disabled-startup-apps-still-open-when-you-boot-windows-11/",
-      "title": "4 reasons your disabled apps still launch when Windows boots up",
-      "published": "2026-10-26T00:00:16+00:00",
-      "author": "Diana Todea",
-      "description": "Some apps are more stubborn than others",
-      "link": "https://www.howtogeek.com/reasons-why-disabled-startup-apps-still-open-when-you-boot-windows-11/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/disabled-apps-on-windows-11.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
     }
   ]
 }
