@@ -1,7 +1,7 @@
 {
   "category": "funny",
-  "updated": "2026-11-09T11:32:30.285211+00:00",
-  "count": 483,
+  "updated": "2026-11-09T12:03:57.104889+00:00",
+  "count": 484,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,20 @@
       "category": "funny",
       "feed_url": "https://www.penny-arcade.com/feed",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.penny-arcade.com&sz=64"
+    },
+    {
+      "id": "https://thedailywtf.com/articles/eventually",
+      "title": "CodeSOD: Eventually",
+      "published": "2026-11-09T06:30:00+00:00",
+      "author": "Remy Porter",
+      "description": "We were just discussing TODO comments recently , and that motivated Bernard to send us this representative comment.. // TODO: This method should ideally be in tax frame work but due to // the time constraint I am duplicating the code here. // Needs to be refactored. Oct 28, 03. This comment exists in this codebase, unchanged. It has been there for twenty three years. The refactoring has never happened. This comment has seen the world change over the last 23 years, as the technology landscape ha…",
+      "link": "https://thedailywtf.com/articles/eventually",
+      "image": "https://thedailywtf.com/images/inedo/buildmaster-icon.png",
+      "feed_name": "The Daily WTF",
+      "feed_title": "The Daily WTF",
+      "category": "funny",
+      "feed_url": "http://syndication.thedailywtf.com/TheDailyWtf",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thedailywtf.com&sz=64"
     },
     {
       "id": "https://cheezburger.com/47315973/employee-sends-fake-resume-to-the-company-where-he-works-out-of-curiosity-leaves-the-link-to-his",

@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-09T11:32:30.285211+00:00",
-  "count": 441,
+  "updated": "2026-11-09T12:03:57.104889+00:00",
+  "count": 440,
   "summary": null,
   "items": [
     {
@@ -5449,20 +5449,6 @@
       "category": "personal blogs",
       "feed_url": "http://feeds.feedburner.com/robweychert",
       "feed_icon": "https://www.google.com/s2/favicons?domain=v7.robweychert.com&sz=64"
-    },
-    {
-      "id": "https://shkspr.mobi/blog/?p=75774",
-      "title": "Some quick thoughts on Unit Testing ActivityPub",
-      "published": "2026-10-10T11:34:15+00:00",
-      "author": "Terence Eden",
-      "description": "I'll be radically honest here - I never really got the idea of \"Test Driven Development\". I'm much more of a \"telnet into production and damn the consequences\" kind of guy. Look, it's much more fun and my cardiologist recommends severe shocks every now and again. The essence of unit testing is pretty simple: Feed a function some data See how it responds Send it good data and if it returns…",
-      "link": "https://shkspr.mobi/blog/2026/10/some-thoughts-on-unit-testing-activitypub/",
-      "image": "https://shkspr.mobi/blog/wp-content/themes/edent-wordpress-theme/info/okgo.php?ID=75774&HTTP_REFERER=Atom",
-      "feed_name": "Terence Eden’s Blog",
-      "feed_title": "Terence Eden’s Blog",
-      "category": "personal blogs",
-      "feed_url": "https://shkspr.mobi/blog/feed/atom/",
-      "feed_icon": "https://shkspr.mobi/blog/wp-content/uploads/2023/07/cropped-avatar-32x32.jpeg"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
