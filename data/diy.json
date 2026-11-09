@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-09T19:33:20.451525+00:00",
+  "updated": "2026-11-09T20:03:57.044083+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/android-usb-file-transfers-mtp-bottleneck/",
+      "title": "Your Android phone is slow to transfer files for a reason older than USB 3",
+      "published": "2026-11-09T20:00:16+00:00",
+      "author": "Oluwademilade Afolabi",
+      "description": "Your cable might be innocent in this particular crime.",
+      "link": "https://www.makeuseof.com/android-usb-file-transfers-mtp-bottleneck/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/01/phone-usb-c-port-closeup.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/samsung-galaxy-apps-i-uninstall-instantly-on-every-phone/",
+      "title": "6 Samsung Galaxy apps I uninstall within minutes of unboxing",
+      "published": "2026-11-09T20:00:15+00:00",
+      "author": "Cory Gunther",
+      "description": "Remove the bloatware and free up space.",
+      "link": "https://www.howtogeek.com/samsung-galaxy-apps-i-uninstall-instantly-on-every-phone/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/03/galaxy-s26-ultra-home-screen.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/reasons-to-keep-your-old-gpu-right-next-to-your-new-one/",
       "title": "5 reasons to keep your old GPU right next to your new one",
@@ -132,7 +160,7 @@
     },
     {
       "id": "https://www.howtogeek.com/android-autos-next-big-redesign-is-taking-shape-and-i-found-4-clues/",
-      "title": "Android Auto is getting a major makeover: 4 changes to know",
+      "title": "Android Auto is getting a major makeover: 4 changes to know about",
       "published": "2026-11-09T18:00:15+00:00",
       "author": "Sanya Shah",
       "description": "Keep an eye for the new look.",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/a-few-powershell-commands-can-clean-up-and-speed-up-windows-faster-than-any-app/",
-      "title": "A few PowerShell commands can clean up and speed up Windows faster than any app",
-      "published": "2026-10-26T14:30:18+00:00",
-      "author": "Afam Onyimadu",
-      "description": "Built-in commands will save you the trouble of installing third-party apps on Windows 11.",
-      "link": "https://www.makeuseof.com/a-few-powershell-commands-can-clean-up-and-speed-up-windows-faster-than-any-app/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/03/using-the-powershell.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://hackaday.com/?p=1243246",
-      "title": "The Fascinating World of IrDA and Other Infrared Protocols",
-      "published": "2026-10-26T14:00:36+00:00",
-      "author": "Maya Posch",
-      "description": "Infrared (IR) communication technologies are probably one of the most influential, yet also one of the least flashiest. The fact that IR communication tends to be highly directional and often …read more",
-      "link": "https://hackaday.com/2026/10/26/the-fascinating-world-of-irda-and-other-infrared-protocols/",
-      "image": "https://hackaday.com/wp-content/uploads/2026/10/Optical_IR.jpg",
-      "feed_name": "Blog – Hackaday",
-      "feed_title": "Blog – Hackaday",
-      "category": "DIY",
-      "feed_url": "https://hackaday.com/blog/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
     }
   ]
 }
