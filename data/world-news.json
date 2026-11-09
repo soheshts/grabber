@@ -1,9 +1,65 @@
 {
   "category": "World News",
-  "updated": "2026-11-09T09:32:26.384003+00:00",
+  "updated": "2026-11-09T10:03:58.841998+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/11/09/world/africa/trump-deportations-court-orders-refoulement.html",
+      "title": "Immigrants Are Being Systematically Returned Home Despite Court Orders",
+      "published": "2026-11-09T10:00:43+00:00",
+      "author": "Megha Rajagopalan, Edward Wong, Ruth Maclean and Hamed Aleaziz",
+      "description": "Working with the Trump administration, foreign partners accept deportees, then ship them to nations where the U.S. itself would be prohibited from sending them.",
+      "link": "https://www.nytimes.com/2026/11/09/world/africa/trump-deportations-court-orders-refoulement.html",
+      "image": null,
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/09/world/europe/ukraine-russia-peace-talks.html",
+      "title": "Ukraine Peace Talks Resume This Week in Abu Dhabi",
+      "published": "2026-11-09T09:59:52+00:00",
+      "author": "Andrew E. Kramer",
+      "description": "U.S.-led talks to end the war between Russia and Ukraine will resume this week in Abu Dhabi. A cease-fire won’t be on the table.",
+      "link": "https://www.nytimes.com/2026/11/09/world/europe/ukraine-russia-peace-talks.html",
+      "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09int-ukraine-russia-talks-vfqh/09int-ukraine-russia-talks-vfqh-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "108545725",
+      "title": "Nvidia stock falls 5% as scrutiny turns to Jensen Huang’s relationship with alleged Chinese spy",
+      "published": "2026-11-09T09:37:44+00:00",
+      "author": null,
+      "description": "Nvidia said its board has launched an independent investigation following the reports that Huang was the target of a \"foreign intelligence effort.\"",
+      "link": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108447194-1792682505441-108447194-1792682412759-gettyimages-2301328017-2s4a6117_3tcndrih.jpg?v=1792682514&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/real-estate/news/in-2017-21-year-old-sophie-turner-bought-a-west-london-mews-townhouse-for-2-6-million-nine-years-later-after-two-price-cuts-the-game-of-thrones-star-is-now-accepting-offers-over-1-75-million/articleshow/135676041.cms",
+      "title": "Sophie Turner lists £2.6 million West London home for £1.75 million after two price cuts",
+      "published": "2026-11-09T09:31:01+00:00",
+      "author": "TOI Real Estate Desk",
+      "description": "Sophie Turner cut £550,000 off the asking price of her London property, bringing it down to £1.75 million. Initially bought for £2.6 million in July 2017, the actress is now looking to sell, though she'll suffer a financial hit of over £1 million. Turner, celebrated for her role in Game of Thrones, has exciting future projects lined up.",
+      "link": "https://timesofindia.indiatimes.com/real-estate/news/in-2017-21-year-old-sophie-turner-bought-a-west-london-mews-townhouse-for-2-6-million-nine-years-later-after-two-price-cuts-the-game-of-thrones-star-is-now-accepting-offers-over-1-75-million/articleshow/135676041.cms",
+      "image": "https://static.toiimg.com/photo/msid-135676128,imgsize-449480.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
     {
       "id": "https://www.ndtv.com/world-news/cow-urine-tea-filthy-homes-chinese-vloggers-pass-off-dhaka-slums-as-delhi-12302919#publisher=newsstand",
       "title": "Chinese Vloggers Livestream From Dhaka Slums, Say \"This Is New Delhi\"",
@@ -31,20 +87,6 @@
       "category": "World News",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "108545725",
-      "title": "Nvidia stock falls 5% as scrutiny turns to Jensen Huang’s relationship with alleged Chinese spy",
-      "published": "2026-11-09T09:14:40+00:00",
-      "author": null,
-      "description": "Nvidia said its board has launched an independent investigation following the reports that Huang was the target of a \"foreign intelligence effort.\"",
-      "link": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108447194-1792682505441-108447194-1792682412759-gettyimages-2301328017-2s4a6117_3tcndrih.jpg?v=1792682514&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
       "id": "https://www.ndtv.com/world-news/nvidias-jensen-huang-the-scandal-hit-ai-visionary-in-a-leather-jacket-12302861#publisher=newsstand",
@@ -13961,48 +14003,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/real-estate/news/madrids-iconic-la-ermita-mall-where-david-bowie-performed-and-carlos-sainz-raced-go-karts-is-being-demolished-to-make-way-for-529-homes-in-77-million-real-estate-makeover/articleshow/135539777.cms",
-      "title": "David Bowie performed here, Carlos Sainz raced go-karts: Madrid's iconic La Ermita mall demolished for 529 homes in €77 million makeover",
-      "published": "2026-11-05T09:00:01+00:00",
-      "author": "TOI Real Estate Desk",
-      "description": "The once-thriving La Ermita shopping centre in Madrid has met its end as plans to demolish it progress. In its place, a new development will rise, offering 529 homes, a blend of accessible and protected housing. This initiative aims to enhance local infrastructure, incorporating public spaces and green zones for the community.",
-      "link": "https://timesofindia.indiatimes.com/real-estate/news/madrids-iconic-la-ermita-mall-where-david-bowie-performed-and-carlos-sainz-raced-go-karts-is-being-demolished-to-make-way-for-529-homes-in-77-million-real-estate-makeover/articleshow/135539777.cms",
-      "image": "https://static.toiimg.com/photo/msid-135540128,imgsize-1910026.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/science/nature/in-1935-australia-introduced-cane-toads-to-control-pests-now-an-a28-million-project-aims-to-modify-685-infrastructure-items-across-7500-square-kilometres-to-stop-the-invasive-animals-reaching-the-pilbara/articleshow/135535303.cms",
-      "title": "Australia launches A$28 million project to stop invasive cane toads from reaching Pilbara after 1935 introduction",
-      "published": "2026-11-05T08:58:17+00:00",
-      "author": "TOI Science Desk",
-      "description": "A new project involving Curtin University and Rio Tinto seeks to establish a waterless barrier for cane toads. The initiative intends to protect Western Australia's Pilbara area from the ecologically damaging species. Researchers plan to modify water sources over a significant area to prevent the toads' survival. Traditional Owners have been engaged throughout the project to ensure cultural significance is respected.",
-      "link": "https://timesofindia.indiatimes.com/science/nature/in-1935-australia-introduced-cane-toads-to-control-pests-now-an-a28-million-project-aims-to-modify-685-infrastructure-items-across-7500-square-kilometres-to-stop-the-invasive-animals-reaching-the-pilbara/articleshow/135535303.cms",
-      "image": "https://static.toiimg.com/photo/msid-135535799,imgsize-131667.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "t3_1xodo2a",
-      "title": "Italian chef fired after refusing to put pineapple on pizza",
-      "published": "2026-11-05T08:41:11+00:00",
-      "author": "/u/cocacolapepsifanta",
-      "description": "submitted by /u/cocacolapepsifanta [link] [comments]",
-      "link": "https://www.reddit.com/r/worldnews/comments/1xodo2a/italian_chef_fired_after_refusing_to_put/",
-      "image": "https://external-preview.redd.it/SyTV-Y9UfbhZXnIb0GkLq8w_WrLk8wUVsoEdLxujQVs.jpeg?width=640&crop=smart&auto=webp&s=b25f7647ab363083593173f7cbedff10e4dace9f",
-      "feed_name": "World News",
-      "feed_title": "World News",
-      "category": "World News",
-      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
-      "feed_icon": "https://www.redditstatic.com/icon.png/"
     }
   ]
 }
