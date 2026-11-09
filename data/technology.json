@@ -1,9 +1,23 @@
 {
   "category": "technology",
-  "updated": "2026-11-09T01:03:52.696670+00:00",
+  "updated": "2026-11-09T01:33:40.461835+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.engadget.com/2309279/why-usb-device-not-showing-up-macbook-fixes/",
+      "title": "Why your USB device isn't showing up on your MacBook and how you can fix it",
+      "published": "2026-11-09T01:00:00+00:00",
+      "author": "Roger Fingas",
+      "description": "If your USB device isn't showing up on your MacBook, the issue could be anything from a damaged cord to software troubles. Find out how to fix these problems.",
+      "link": "https://www.engadget.com/2309279/why-usb-device-not-showing-up-macbook-fixes/",
+      "image": "https://www.engadget.com/img/gallery/why-your-usb-device-isnt-showing-up-on-your-macbook-and-how-you-can-fix-it/l-intro-1793975296.jpg",
+      "feed_name": "Engadget",
+      "feed_title": "Engadget - Technology News & Expert Reviews",
+      "category": "technology",
+      "feed_url": "https://www.engadget.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
     {
       "id": "https://www.engadget.com/2309282/which-canon-cameras-compatible-with-free-3d-software/",
       "title": "Which Canon Cameras Are Compatible With Its Free 3D Photo Software?",
@@ -31,6 +45,20 @@
       "category": "technology",
       "feed_url": "https://www.engadget.com/rss.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
+    {
+      "id": "07GOFK1CW8SJI2aC62dAK8d",
+      "title": "The best comedies streaming on Netflix right now",
+      "published": "2026-11-09T00:30:00+00:00",
+      "author": null,
+      "description": "Do you need a laugh right about now? Here are the the best comedies on Netflix, including \"KPop Demon Hunters,\" \"The Thursday Murder Club,\" and more.",
+      "link": "https://mashable.com/article/best-comedies-on-netflix",
+      "image": "https://helios-i.mashable.com/imagery/articles/07GOFK1CW8SJI2aC62dAK8d/hero-image.jpg",
+      "feed_name": "Mashable",
+      "feed_title": "Mashable",
+      "category": "technology",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
     },
     {
       "id": "https://it.slashdot.org/story/26/11/09/0020217/can-crowdstrikes-new-ai-kill-switch-shut-down-rogue-ai-agents?utm_source=rss1.0mainlinkanon&utm_medium=feed",
@@ -13975,34 +14003,6 @@
       "category": "technology",
       "feed_url": "http://feeds.mashable.com/Mashable",
       "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
-    },
-    {
-      "id": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/",
-      "title": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
-      "published": "2026-11-03T16:03:13+00:00",
-      "author": "Dan Goodin",
-      "description": "UEFI bootkit BlackX exploits Microsoft's lack of clarity around Secure Boot protections.",
-      "link": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/malware-500x500.jpg",
-      "feed_name": "Ars Technica",
-      "feed_title": "Ars Technica - All content",
-      "category": "technology",
-      "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
-      "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
-    },
-    {
-      "id": "https://science.slashdot.org/story/26/11/03/0537252/mit-researchers-used-gpt-6-astra-to-edit-qwens-open-weights-directly-boosting-math-scores?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "title": "MIT Researchers Used GPT-6 Astra To Edit Qwen's Open Weights Directly, Boosting Math Scores",
-      "published": "2026-11-03T16:00:00+00:00",
-      "author": "BeauHD",
-      "description": "An anonymous reader quotes a report from VentureBeat: Researchers from the Massachusetts Institute of Technology (MIT) Computer Science & Artificial Intelligence Laboratory (CSAIL) reported today that they used OpenAI's GPT-6 Astra language model to raise a small, open source Qwen model's math score roughly sixfold by directly editing its weights -- the numerical parameters that govern its behavior. Rikiya Takehi, Jayden Teoh, Alex Zhang and Omar Khattab described their work in a research blog…",
-      "link": "https://science.slashdot.org/story/26/11/03/0537252/mit-researchers-used-gpt-6-astra-to-edit-qwens-open-weights-directly-boosting-math-scores?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-      "feed_name": "Slashdot",
-      "feed_title": "Slashdot",
-      "category": "technology",
-      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
     }
   ]
 }
