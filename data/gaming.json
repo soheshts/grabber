@@ -1,9 +1,23 @@
 {
   "category": "gaming",
-  "updated": "2026-11-09T11:04:05.626983+00:00",
+  "updated": "2026-11-09T11:32:30.285211+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://kotaku.com/?p=2000755054",
+      "title": "Nvidia Shares Dip By Hundreds Of Billions Following CEO’s Statement On Affair With Possible Chinese Spy",
+      "published": "2026-11-09T11:30:08+00:00",
+      "author": "Lewis Parker",
+      "description": "The markets have not been kind to Nvidia this morning as CEO Jensen Huang's statement takes its toll on the company's stocks",
+      "link": "https://kotaku.com/nvidia-share-price-jensen-huang-ai-affair-alice-megaspeed-markets-2000755054",
+      "image": "https://kotaku.com/app/uploads/2025/01/93ba8ed2f12378e18f51ab48cc12aba1-1280x854.jpg",
+      "feed_name": "Kotaku",
+      "feed_title": "Kotaku",
+      "category": "gaming",
+      "feed_url": "https://kotaku.com/rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=kotaku.com&sz=64"
+    },
     {
       "id": "https://www.polygon.com/wow-forever-dungeon-xp-boost-leveling/",
       "title": "WoW: Forever Boosts Dungeon XP As Blizzard Struggles to Get Leveling Balance Right",
@@ -17,6 +31,20 @@
       "category": "gaming",
       "feed_url": "https://www.polygon.com/rss/index.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.polygon.com&sz=64"
+    },
+    {
+      "id": "cffe7ecc-5a52-4d70-b155-d38512876cbd",
+      "title": "Popular Nintendo Blogger Supper Mario Broth Says He May Only Have a Year to Live",
+      "published": "2026-11-09T10:55:22+00:00",
+      "author": "Kirk McKeand",
+      "description": "A popular Nintendo blogger who tells his viewers obscure facts about Super Mario has been hit with serious health conditions, including heart failure. The online personality has vowed to continue running the blog for as long as he’s able.",
+      "link": "https://www.ign.com/articles/supper-mario-broth-health-condition",
+      "image": "https://assets-prd.ignimgs.com/2026/11/09/gettyimages-1229469375-1794221614141.jpg",
+      "feed_name": "IGN All",
+      "feed_title": "IGN Articles",
+      "category": "gaming",
+      "feed_url": "http://feeds.ign.com/ign/all",
+      "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
     },
     {
       "id": "https://www.polygon.com/fortnite-pirate-shop-access-token-treasure-odds-revealed/",
@@ -13975,34 +14003,6 @@
       "category": "gaming",
       "feed_url": "http://feeds.ign.com/ign/all",
       "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
-    },
-    {
-      "id": "https://www.eurogamer.net/modern-warfare-4-switch-2-input-lag-digital-foundry",
-      "title": "Modern Warfare 4 on Switch 2 has much worse input lag than PS5",
-      "published": "2026-11-01T17:27:29+00:00",
-      "author": "Vikki Blake",
-      "description": "Call of Duty: Modern Warfare 4 on Switch 2 has noticeably worse input lag than on PS5, which could put Nintendo players at a disadvantage in multiplayer. Read more",
-      "link": "https://www.eurogamer.net/modern-warfare-4-switch-2-input-lag-digital-foundry",
-      "image": "https://assetsio.gnwcdn.com/cod-modern-warfare-4-captain-price.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "feed_name": "Eurogamer.net",
-      "feed_title": "Eurogamer.net Latest Articles Feed",
-      "category": "gaming",
-      "feed_url": "https://www.eurogamer.net/?format=rss",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.eurogamer.net&sz=64"
-    },
-    {
-      "id": "https://www.rockpapershotgun.com/it-looks-like-footage-of-a-persona-1-remake-has-leaked-and-if-its-legit-i-really-hope-you-dont-hate-the-colour-purple",
-      "title": "It looks like footage of a Persona 1 remake has leaked, and if it's legit I really hope you don't hate the colour purple",
-      "published": "2026-11-01T17:17:15+00:00",
-      "author": "Oisin Kuhnke",
-      "description": "In this genAI world, every single leak that makes its way out into the world should be seen as more of a \"leak\" until proven otherwise. With that said, it does kind of seem like a remake of the first Persona game is on the way, with some footage supposedly leaking and showing it in action. Read more",
-      "link": "https://www.rockpapershotgun.com/it-looks-like-footage-of-a-persona-1-remake-has-leaked-and-if-its-legit-i-really-hope-you-dont-hate-the-colour-purple",
-      "image": "https://assetsio.gnwcdn.com/persona-1-remake.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "feed_name": "Rock, Paper, Shotgun",
-      "feed_title": "Rock, Paper, Shotgun",
-      "category": "gaming",
-      "feed_url": "http://feeds.feedburner.com/RockPaperShotgun",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.rockpapershotgun.com&sz=64"
     }
   ]
 }

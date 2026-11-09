@@ -1,9 +1,51 @@
 {
   "category": "World News",
-  "updated": "2026-11-09T11:04:05.626983+00:00",
+  "updated": "2026-11-09T11:32:30.285211+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "108545725",
+      "title": "Nvidia stock falls 5% as scrutiny turns to Jensen Huang’s relationship with alleged Chinese spy",
+      "published": "2026-11-09T11:26:45+00:00",
+      "author": null,
+      "description": "Nvidia said its board has launched an independent investigation following the reports that Huang was the target of a \"foreign intelligence effort.\"",
+      "link": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108447194-1792682505441-108447194-1792682412759-gettyimages-2301328017-2s4a6117_3tcndrih.jpg?v=1792682514&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "108545905",
+      "title": "Rubio sees little hope of diplomatic breakthrough to Mideast deadlock amid 'outrageous' Iranian demands",
+      "published": "2026-11-09T11:09:14+00:00",
+      "author": null,
+      "description": "U.S. Secretary of State Marco Rubio told reporters that Iran negotiations remain unproductive.",
+      "link": "https://www.cnbc.com/2026/11/09/us-iran-war-trump-hormuz.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108522045-1793835560451-gettyimages-2303064890-SobhanFarajvan_110426.jpeg?v=1793835608&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "108545996",
+      "title": "Nasdaq defies Nvidia impact as Huang faces espionage affair probe",
+      "published": "2026-11-09T11:04:49+00:00",
+      "author": null,
+      "description": "The board opens an investigation into Huang's relationship with an alleged Chinese spy",
+      "link": "https://www.cnbc.com/2026/11/09/nasdaq-defies-nvidia-impact-huang-faces-espionage-affair-probe.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108317413-1780669968312-gettyimages-2279169438-jung-nvidiace260605_npyXP.jpeg?v=1780670112&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
     {
       "id": "https://www.nytimes.com/2026/11/09/world/africa/trump-deportations-court-orders-refoulement.html",
       "title": "Immigrants Are Being Systematically Returned Home Despite Court Orders",
@@ -45,6 +87,34 @@
       "category": "World News",
       "feed_url": "https://www.theguardian.com/world/rss",
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/pakistan/pakistani-tv-anchor-rabia-ahsan-shot-dead-at-home-police-probe-husbands-claim-of-accidental-firing/articleshow/135679088.cms",
+      "title": "Pakistani TV anchor Rabia Ahsan shot dead at home; husband detained",
+      "published": "2026-11-09T10:55:28+00:00",
+      "author": "Vijaya Srivastava",
+      "description": "",
+      "link": "https://timesofindia.indiatimes.com/world/pakistan/pakistani-tv-anchor-rabia-ahsan-shot-dead-at-home-police-probe-husbands-claim-of-accidental-firing/articleshow/135679088.cms",
+      "image": "https://static.toiimg.com/photo/msid-135679562,imgsize-30878.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
+      "id": "t3_1xroow5",
+      "title": "‘They had him crucified’: Christian convert faces torture, execution in Egypt for leaving Islam",
+      "published": "2026-11-09T10:53:28+00:00",
+      "author": "/u/barsik_",
+      "description": "submitted by /u/barsik_ [link] [comments]",
+      "link": "https://www.reddit.com/r/worldnews/comments/1xroow5/they_had_him_crucified_christian_convert_faces/",
+      "image": "https://external-preview.redd.it/tHjrs5a2e68Aqr5-oQiOdfI5aYgn1yp0nloulF_ZYjw.jpeg?width=640&crop=smart&auto=webp&s=f293fb2be416cc71d8a7027e95fca658a915138f",
+      "feed_name": "World News",
+      "feed_title": "World News",
+      "category": "World News",
+      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
+      "feed_icon": "https://www.redditstatic.com/icon.png/"
     },
     {
       "id": "https://www.nytimes.com/2026/11/09/world/americas/paraguay-bank-president-ueno.html",
@@ -185,20 +255,6 @@
       "category": "World News",
       "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
       "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
-      "id": "108545725",
-      "title": "Nvidia stock falls 4% as scrutiny turns to Jensen Huang’s relationship with alleged Chinese spy",
-      "published": "2026-11-09T10:13:02+00:00",
-      "author": null,
-      "description": "Nvidia said its board has launched an independent investigation following the reports that Huang was the target of a \"foreign intelligence effort.\"",
-      "link": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108447194-1792682505441-108447194-1792682412759-gettyimages-2301328017-2s4a6117_3tcndrih.jpg?v=1792682514&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
       "id": "https://www.nytimes.com/2026/11/09/us/politics/us-israel-midterm-elections.html",
@@ -13947,62 +14003,6 @@
       "category": "World News",
       "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/india/if-death-is-my-destiny-sheikh-hasina-firm-on-returning-to-bangladesh-in-december/articleshow/135569022.cms",
-      "title": "‘If death is my destiny’: Sheikh Hasina firm on returning to Bangladesh in December",
-      "published": "2026-11-05T10:26:07+00:00",
-      "author": "Pranjal Pandey",
-      "description": "Sheikh Hasina has confirmed her intention to return to Bangladesh, despite facing a death sentence. The former Prime Minister is aware of the risks associated with her return, including potential arrest or worse. Hasina's Awami League party has been banned, resulting in widespread political repression and violence against its members. She expressed concerns over the rising influence of extremist groups in the current political climate.",
-      "link": "https://timesofindia.indiatimes.com/india/if-death-is-my-destiny-sheikh-hasina-firm-on-returning-to-bangladesh-in-december/articleshow/135569022.cms",
-      "image": "https://static.toiimg.com/photo/msid-135569288,imgsize-108992.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.ndtv.com/opinion/why-a-politically-wounded-trump-may-turn-even-more-dangerous-12287070#publisher=newsstand",
-      "title": "Opinion: Opinion | A Wounded Trump Could Soon Make The World Pay For His Defeat",
-      "published": "2026-11-05T10:25:28+00:00",
-      "author": null,
-      "description": "The US and the rest of the world should worry more about what Trump might do next to redeem himself.",
-      "link": "https://www.ndtv.com/opinion/why-a-politically-wounded-trump-may-turn-even-more-dangerous-12287070#publisher=newsstand",
-      "image": "https://i.ndtvimg.com/i/2016-06/donald-trump-afp-650_650x400_51466647406.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
-      "id": "t3_1xof95w",
-      "title": "\"These are not the kind of jokes\": Zelenskyy responded to Musk's statements about Russian soldiers' casualties",
-      "published": "2026-11-05T10:25:17+00:00",
-      "author": "/u/ArgentineBeauty",
-      "description": "submitted by /u/ArgentineBeauty [link] [comments]",
-      "link": "https://www.reddit.com/r/worldnews/comments/1xof95w/these_are_not_the_kind_of_jokes_zelenskyy/",
-      "image": "https://external-preview.redd.it/O6YeYfuUhWALZNmIRvp9okQl-ISD9PiuWfp3jCo2N5w.jpeg?width=640&crop=smart&auto=webp&s=9f918cfbd5e607042e1e23a740583854bcc635df",
-      "feed_name": "World News",
-      "feed_title": "World News",
-      "category": "World News",
-      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
-      "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/05/world/asia/how-kpop-works-contracts.html",
-      "title": "At the Root of K-Pop’s Controversies, a Restrictive Business Model",
-      "published": "2026-11-05T10:23:51+00:00",
-      "author": "Jin Yu Young and Sarah Hurtes",
-      "description": "Labels exert extraordinary control over performers because only a few acts turn a profit.",
-      "link": "https://www.nytimes.com/2026/11/05/world/asia/how-kpop-works-contracts.html",
-      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/00int-kpop-takeaways-fmhk/00int-kpop-takeaways-fmhk-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     }
   ]
 }
