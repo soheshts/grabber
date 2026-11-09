@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-09T14:33:40.227413+00:00",
+  "updated": "2026-11-09T15:03:16.997620+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/google-maps-popular-times-avoid-crowded-stores/",
+      "title": "5 minutes in Google Maps can save you an hour at the supermarket checkout",
+      "published": "2026-11-09T15:00:17+00:00",
+      "author": "Judy Sanhz",
+      "description": "Google Maps can tell you when you supermarket gets packed before you leave home. It's easy to miss, but it can save you a long wait at checkout.",
+      "link": "https://www.makeuseof.com/google-maps-popular-times-avoid-crowded-stores/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/google-maps-popular-times-features.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/simple-woodworking-projects-i-built-without-expensive-tools/",
+      "title": "5 simple woodworking projects I built without expensive tools",
+      "published": "2026-11-09T15:00:16+00:00",
+      "author": "Joe Fedewa",
+      "description": "Not a birdhouse in sight.",
+      "link": "https://www.howtogeek.com/simple-woodworking-projects-i-built-without-expensive-tools/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/monitor-stand-hero.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/check-google-account-settings-stop-saving-private-conversations/",
       "title": "Check your Google account before this default setting saves your private conversations",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/these-3-linux-apps-replaced-all-my-favorite-dead-windows-apps/",
-      "title": "These 3 Linux apps replaced all my favorite dead Windows apps",
-      "published": "2026-10-25T23:01:17+00:00",
-      "author": "Dibakar Ghosh",
-      "description": "Windows moved on from these apps years ago, but I didn’t — and it turns out Linux didn’t either.",
-      "link": "https://www.howtogeek.com/these-3-linux-apps-replaced-all-my-favorite-dead-windows-apps/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/ultrawide-monitor-running-linux-mint-xfce-with-a-windows-xp-theme-showing-openshot-space-cadet-winamp-style-audacious-and-fastfetch.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://hackaday.com/?p=1376898&preview=true&preview_id=1376898",
-      "title": "Hackaday Links: October 25, 2026",
-      "published": "2026-10-25T23:00:48+00:00",
-      "author": "Tom Nardi",
-      "description": "Some disappointing, but perhaps not entirely unsurprising news this week out of Denmark — after announcing last year that they would transition away from Microsoft’s proprietary software, the realities of …read more",
-      "link": "https://hackaday.com/2026/10/25/hackaday-links-october-25-2026/",
-      "image": "https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg",
-      "feed_name": "Blog – Hackaday",
-      "feed_title": "Blog – Hackaday",
-      "category": "DIY",
-      "feed_url": "https://hackaday.com/blog/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
     }
   ]
 }
