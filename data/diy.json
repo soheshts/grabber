@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-09T03:03:04.789668+00:00",
+  "updated": "2026-11-09T03:32:51.456591+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://hackaday.com/?p=1398577",
+      "title": "Saving a Vintage High-Voltage Power Supply From the Scrap Heap",
+      "published": "2026-11-09T03:00:42+00:00",
+      "author": "Donald Papp",
+      "description": "[Mr Carlson’s Lab] saves a Fluke Model 407 high-voltage power supply from the scrap heap, and demonstrates carefully troubleshooting the vintage device to track the cause of the bad output …read more",
+      "link": "https://hackaday.com/2026/11/08/saving-a-vintage-high-voltage-power-supply-from-the-scrap-heap/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/SAVED-Power-Supply-Troubleshooting-All-The-Steps-From-Start-To-Finish-1-57-screenshot.png",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/enthusiasts-love-liquid-metal-why-one-of-riskiest-things-put-in-your-pc/",
       "title": "Enthusiasts love liquid metal. Here's why it's one of the riskiest things you can put in your PC",
@@ -13989,20 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.makeuseof.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://hackaday.com/?p=1354528",
-      "title": "Mesh Network Telephony Over Bluetooth on Android Phones",
-      "published": "2026-10-25T17:00:31+00:00",
-      "author": "Tyler August",
-      "description": "Telephony is a bit of a mixed bag. On the one hand, being able to talk to people in far off places is kind of neat, at least in theory. …read more",
-      "link": "https://hackaday.com/2026/10/25/mesh-network-telephony-over-bluetooth-on-android-phones/",
-      "image": "https://hackaday.com/wp-content/uploads/2026/10/MeshLive-screenshot.png",
-      "feed_name": "Blog – Hackaday",
-      "feed_title": "Blog – Hackaday",
-      "category": "DIY",
-      "feed_url": "https://hackaday.com/blog/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
     }
   ]
 }
