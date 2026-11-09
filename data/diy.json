@@ -1,9 +1,51 @@
 {
   "category": "DIY",
-  "updated": "2026-11-09T20:32:28.564730+00:00",
+  "updated": "2026-11-09T21:03:44.808989+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/smallest-local-llms-get-away/",
+      "title": "These are the smallest local LLMs you can get away with",
+      "published": "2026-11-09T21:00:16+00:00",
+      "author": "Yadullah Abidi",
+      "description": "Your GPU can’t run ChatGPT. These small LLMs are the next best thing.",
+      "link": "https://www.makeuseof.com/smallest-local-llms-get-away/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/this.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/you-dont-need-to-memorize-100-linux-commands-these-13-are-essential/",
+      "title": "You don't need to memorize 100 Linux commands, just these 13",
+      "published": "2026-11-09T21:00:15+00:00",
+      "author": "Nimrah Chaudhry",
+      "description": "Linux has hundreds of commands. Thankfully, you only need to know a handful.",
+      "link": "https://www.howtogeek.com/you-dont-need-to-memorize-100-linux-commands-these-13-are-essential/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/img_20261109_180020_4080x2720.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.makeuseof.com/ram-is-so-expensive-that-manufacturers-are-putting-used-parts-in-new-phones/",
+      "title": "RAM is so expensive that manufacturers are putting used parts in new phones",
+      "published": "2026-11-09T20:58:20+00:00",
+      "author": "Hamed Paydarfar",
+      "description": "Reworked RAM undergoes detaching, cleaning, and reballing yet may carry wear that risks freezes and data errors.",
+      "link": "https://www.makeuseof.com/ram-is-so-expensive-that-manufacturers-are-putting-used-parts-in-new-phones/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/ram-contact-zoomed.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/old-kindle-taught-me-what-touchscreen-reading-is-missing/",
       "title": "My old Kindle and tiny e-reader taught me what touchscreen reading is missing",
@@ -13961,48 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://hackaday.com/blog/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/self-hosted-stack-replaces-google-one-dropbox-plex-for-a-one-time-cost/",
-      "title": "A used office PC running open-source apps can save you $290 a year",
-      "published": "2026-10-26T15:30:19+00:00",
-      "author": "Nick Lewis",
-      "description": "A few hundred upfront pays for itself in less than two years.",
-      "link": "https://www.howtogeek.com/self-hosted-stack-replaces-google-one-dropbox-plex-for-a-one-time-cost/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2025/06/a-geekom-mini-pc-plugged-in-and-powered-on-1.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/habits-that-shorten-ryobi-battery-lifespans/",
-      "title": "These common habits are quietly shortening your Ryobi batteries’ lifespan",
-      "published": "2026-10-26T15:00:19+00:00",
-      "author": "Jonathon Jachura",
-      "description": "Here's what you shouldn't do if you want long lifespans out of your Ryobi power tool batteries.",
-      "link": "https://www.makeuseof.com/habits-that-shorten-ryobi-battery-lifespans/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/03/ryobi-18v-lithium-battery-side.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/new-movies-watch-this-week-netflix-paramount-plus-october-26/",
-      "title": "5 excellent new movies to watch this week across Netflix, Paramount+, and more (October 26-November 1)",
-      "published": "2026-10-26T15:00:18+00:00",
-      "author": "Dan Girolamo",
-      "description": "A Jack Ryan adventure and a thrilling musical drama highlight the best movies to watch this week.",
-      "link": "https://www.howtogeek.com/new-movies-watch-this-week-netflix-paramount-plus-october-26/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/10/miles-teller-whiplash.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
     }
   ]
 }
