@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-09T17:32:24.082281+00:00",
-  "count": 440,
+  "updated": "2026-11-09T18:03:59.688671+00:00",
+  "count": 441,
   "summary": null,
   "items": [
     {
@@ -73,6 +73,20 @@
       "category": "personal blogs",
       "feed_url": "http://mattgemmell.com/atom.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=mattgemmell.scot&sz=64"
+    },
+    {
+      "id": "https://ronaldsvilcins.com/2026/11/09/style-native-form-controls-with-accent-color/",
+      "title": "Style Native Form Controls With accent-color",
+      "published": "2026-11-09T06:00:00+00:00",
+      "author": "Ronalds Vilciņš",
+      "description": "Use accent-color to style native checkboxes, radios, sliders, and progress indicators. Keep their behaviour, set up dark mode, and check focus states.",
+      "link": "https://ronaldsvilcins.com/2026/11/09/style-native-form-controls-with-accent-color/",
+      "image": "https://ronaldsvilcins.com/og/3c36e1f77f13e5a857d5301e921e6ee0b2b01c89eb101447cc98db801a469f68.jpg",
+      "feed_name": "Ronalds Vilciņš",
+      "feed_title": "Ronalds Vilciņš",
+      "category": "personal blogs",
+      "feed_url": "https://ronaldsvilcins.com/atom.xml",
+      "feed_icon": "https://ronaldsvilcins.com/favicon.png"
     },
     {
       "id": "https://techhub.iodigital.com/articles/element-scoped-view-transitions",
