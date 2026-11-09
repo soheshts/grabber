@@ -1,9 +1,23 @@
 {
   "category": "travel",
-  "updated": "2026-11-09T10:03:58.841998+00:00",
-  "count": 135,
+  "updated": "2026-11-09T10:33:43.766093+00:00",
+  "count": 136,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/11/09/travel/electric-vehicle-rental-guide.html",
+      "title": "How to Rent an Electric Vehicle: A Guide for Newbies",
+      "published": "2026-11-09T10:00:40+00:00",
+      "author": "Eric A. Taub",
+      "description": "What you need to know about booking, driving and charging an E.V. if your travel plans include a getaway from gasoline-powered engines.",
+      "link": "https://www.nytimes.com/2026/11/09/travel/electric-vehicle-rental-guide.html",
+      "image": "https://static01.nyt.com/images/2026/11/06/travel/00Trav101-EV-illo/00Trav101-EV-illo-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Travel",
+      "feed_title": "NYT > Travel",
+      "category": "travel",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "https://www.theguardian.com/travel/2026/nov/09/trekking-holiday-brazil-atlantic-rainforests-minas-gerais",
       "title": "Trekking in Brazil’s Atlantic rainforests: ‘the day unfolds in a blaze of biodiversity’",

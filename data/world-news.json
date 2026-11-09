@@ -1,9 +1,65 @@
 {
   "category": "World News",
-  "updated": "2026-11-09T10:03:58.841998+00:00",
+  "updated": "2026-11-09T10:33:43.766093+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "108545725",
+      "title": "Nvidia stock falls 4% as scrutiny turns to Jensen Huang’s relationship with alleged Chinese spy",
+      "published": "2026-11-09T10:13:02+00:00",
+      "author": null,
+      "description": "Nvidia said its board has launched an independent investigation following the reports that Huang was the target of a \"foreign intelligence effort.\"",
+      "link": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108447194-1792682505441-108447194-1792682412759-gettyimages-2301328017-2s4a6117_3tcndrih.jpg?v=1792682514&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/09/us/politics/us-israel-midterm-elections.html",
+      "title": "Bipartisan Support for Israel Erodes as Both Sides Push for New Limits",
+      "published": "2026-11-09T10:02:55+00:00",
+      "author": "Edward Wong and Michael Crowley",
+      "description": "Vice President JD Vance is among Republicans calling for change. Many Democratic lawmakers have been driving a campaign to restrict military aid to Israel.",
+      "link": "https://www.nytimes.com/2026/11/09/us/politics/us-israel-midterm-elections.html",
+      "image": "https://static01.nyt.com/images/2026/11/08/multimedia/00dc-israel1-zghp/00dc-israel1-zghp-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/09/obituaries/lloyd-geering-dead.html",
+      "title": "Lloyd Geering, Pastor Who Disputed Christ’s Resurrection, Dies at 108",
+      "published": "2026-11-09T10:02:46+00:00",
+      "author": "Alan Cowell",
+      "description": "“It is faith that man needs, not past doctrines,” he said in defense of his views, which became a cause célèbre for many but were condemned by others.",
+      "link": "https://www.nytimes.com/2026/11/09/obituaries/lloyd-geering-dead.html",
+      "image": null,
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/09/world/americas/paraguay-bank-president-ueno.html",
+      "title": "How a Bank Implosion in Paraguay Ensnared a President",
+      "published": "2026-11-09T10:02:40+00:00",
+      "author": "Adam B. Ellick and Laurence Blair",
+      "description": "Prosecutors accused President Santiago Peña of funneling nearly a billion dollars of government funds to the Ueno bank as its executives made reckless insider loans.",
+      "link": "https://www.nytimes.com/2026/11/09/world/americas/paraguay-bank-president-ueno.html",
+      "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-paraguay-zjft/08int-paraguay-zjft-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "https://www.nytimes.com/2026/11/09/world/africa/trump-deportations-court-orders-refoulement.html",
       "title": "Immigrants Are Being Systematically Returned Home Despite Court Orders",
@@ -21,7 +77,7 @@
     {
       "id": "https://www.nytimes.com/2026/11/09/world/europe/ukraine-russia-peace-talks.html",
       "title": "Ukraine Peace Talks Resume This Week in Abu Dhabi",
-      "published": "2026-11-09T09:59:52+00:00",
+      "published": "2026-11-09T09:59:53+00:00",
       "author": "Andrew E. Kramer",
       "description": "U.S.-led talks to end the war between Russia and Ukraine will resume this week in Abu Dhabi. A cease-fire won’t be on the table.",
       "link": "https://www.nytimes.com/2026/11/09/world/europe/ukraine-russia-peace-talks.html",
@@ -31,20 +87,6 @@
       "category": "World News",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "108545725",
-      "title": "Nvidia stock falls 5% as scrutiny turns to Jensen Huang’s relationship with alleged Chinese spy",
-      "published": "2026-11-09T09:37:44+00:00",
-      "author": null,
-      "description": "Nvidia said its board has launched an independent investigation following the reports that Huang was the target of a \"foreign intelligence effort.\"",
-      "link": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108447194-1792682505441-108447194-1792682412759-gettyimages-2301328017-2s4a6117_3tcndrih.jpg?v=1792682514&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
       "id": "https://timesofindia.indiatimes.com/real-estate/news/in-2017-21-year-old-sophie-turner-bought-a-west-london-mews-townhouse-for-2-6-million-nine-years-later-after-two-price-cuts-the-game-of-thrones-star-is-now-accepting-offers-over-1-75-million/articleshow/135676041.cms",
@@ -613,7 +655,7 @@
       "author": null,
       "description": "The BBC enters Marseille's dangerous underworld, where young people are trapped, brutalised and exploited.",
       "link": "https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5447/live/ec9efd90-d9fa-11f1-93e1-3b657b665bcf.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a160/live/111155a0-dc27-11f1-b441-2b33b063138f.jpg",
       "feed_name": "BBC News - World",
       "feed_title": "BBC News",
       "category": "World News",
@@ -13961,48 +14003,6 @@
       "category": "World News",
       "feed_url": "https://www.reddit.com/r/worldnews/.rss",
       "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "108523866",
-      "title": "Rheinmetall shares plunge 17% after outlook cut as military contracts stall",
-      "published": "2026-11-05T09:06:40+00:00",
-      "author": null,
-      "description": "Rheinmetall cut its 2026 outlook for the second time in three months, citing delays to German military projects and artillery ammunition deliveries.",
-      "link": "https://www.cnbc.com/2026/11/05/rheinmetall-stock-outlook-sales-germany.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108298037-1777331190343-gettyimages-2235093505-20090101250915-99-37197.jpeg?v=1777331252&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cm93zv62v1n7o#1",
-      "title": "India's costliest film retells a beloved Hindu epic - but divides critics",
-      "published": "2026-11-05T09:04:42+00:00",
-      "author": null,
-      "description": "Easily the most anticipated Bollywood film of the year, Ramayana: Rise of a Legend is the first of two parts.",
-      "link": "https://www.bbc.co.uk/news/articles/cm93zv62v1n7o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/891f/live/5dbe2290-d932-11f1-93e1-3b657b665bcf.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/uk/after-three-weeks-of-testimony-a-london-jury-begins-deciding-seven-sexual-offence-charges-against-russell-brand-involving-six-women-as-the-actor-denies-every-allegation-and-awaits-a-unanimous-verdict/articleshow/135556183.cms",
-      "title": "Russell Brand Trial: Jury weighs seven sexual offence charges; deliberations to resume Wednesday",
-      "published": "2026-11-05T09:00:14+00:00",
-      "author": "TOI World Desk",
-      "description": "Jury discussions are now underway regarding comedian Russell Brand's sexual offences trial at Southwark Crown Court. Faced with multiple charges from six women about occurrences between 1999 and 2009, the prosecution argues that Brand leveraged his celebrity status for sexual manipulation. In his defense, Brand asserts that all encounters were consensual and refutes the allegations.",
-      "link": "https://timesofindia.indiatimes.com/world/uk/after-three-weeks-of-testimony-a-london-jury-begins-deciding-seven-sexual-offence-charges-against-russell-brand-involving-six-women-as-the-actor-denies-every-allegation-and-awaits-a-unanimous-verdict/articleshow/135556183.cms",
-      "image": "https://static.toiimg.com/photo/msid-135556230,imgsize-719792.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     }
   ]
 }
