@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-09T09:03:39.115906+00:00",
+  "updated": "2026-11-09T09:32:26.384003+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://hackaday.com/?p=1398322",
+      "title": "Determining Location by Listening for Airplanes",
+      "published": "2026-11-09T09:00:31+00:00",
+      "author": "Aaron Beckendorf",
+      "description": "Beyond what people deliberately disclose, there’s a surprising amount of information hidden in everyday messages, especially photos and videos. Even when people try to hide the location or time at …read more",
+      "link": "https://hackaday.com/2026/11/09/determining-location-by-listening-for-airplanes/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/doppler_curve_location.png",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://hackaday.com/?p=1398561",
       "title": "A Smart Alarm Clock That Doesn’t Sell Your Soul",
@@ -13989,20 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.makeuseof.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/microsoft-excel-name-tables-create-table-dialog/",
-      "title": "I've always recommended naming Excel tables, and Microsoft just removed the annoying part",
-      "published": "2026-10-25T17:31:17+00:00",
-      "author": "Tony Phillips",
-      "description": "Two decades after Excel introduced tables, Microsoft has finally made naming them less of a chore.",
-      "link": "https://www.howtogeek.com/microsoft-excel-name-tables-create-table-dialog/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/excel-laptop-screen-insert-tab-table-button.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
     }
   ]
 }
