@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-09T16:02:52.790665+00:00",
+  "updated": "2026-11-09T16:33:39.581350+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.howtogeek.com/weirdest-problems-with-refurbished-homelab-hardware-still-worth-it/",
+      "title": "3 weirdest I've encountered with refurbished homelab hardware, and why it's still worth it",
+      "published": "2026-11-09T16:31:16+00:00",
+      "author": "Umair Khurshid",
+      "description": "Buying refurbished hardware is a gamble. Somehow, I keep winning the weirdest prizes!",
+      "link": "https://www.howtogeek.com/weirdest-problems-with-refurbished-homelab-hardware-still-worth-it/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/a-dual-port-intel-x520-da2-network-card-with-a-white-heatsink-and-two-sfp-ports-held-in-front-of-a-server-chassis.png",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://hackaday.com/?p=1398554",
+      "title": "Reverse Engineering a 1960s Diode-Transistor Logic IC",
+      "published": "2026-11-09T16:30:02+00:00",
+      "author": "Maya Posch",
+      "description": "Before transistor-transistor logic (TTL) took over, diode-transistor logic (DTL) was a common sight especially in pre-IC circuits where it was a major improvement over resistor-transistor logic (RTL). That said, it’s …read more",
+      "link": "https://hackaday.com/2026/11/09/reverse-engineering-a-1960s-diode-transistor-logic-ic/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/signetics-ad.jpg",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/tested-smallest-and-biggest-ryobi-batteries-same-tools/",
       "title": "I put my smallest and biggest Ryobi batteries on the same tools to see where more battery stops helping",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.makeuseof.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/essential-excel-formulas-every-beginner-should-learn-first/",
-      "title": "6 essential Excel formulas every beginner should learn first",
-      "published": "2026-10-26T11:00:18+00:00",
-      "author": "Sanya Shah",
-      "description": "Start using Excel like a pro",
-      "link": "https://www.howtogeek.com/essential-excel-formulas-every-beginner-should-learn-first/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/excel-table-name-tblsales-cell-a1-monitor-screen.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/free-tools-that-are-way-better-than-adobe-acrobat/",
-      "title": "X Free Tools That are way better than Adobe Acrobat",
-      "published": "2026-10-26T10:30:17+00:00",
-      "author": "Nimrah Chaudhry",
-      "description": "Skip the Acrobat subscription. These 5 free, cross-platform PDF editors for Windows, macOS, and Linux handle editing, merging, OCR, and more.",
-      "link": "https://www.howtogeek.com/free-tools-that-are-way-better-than-adobe-acrobat/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/pdf-editor-feature-image.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
     }
   ]
 }
