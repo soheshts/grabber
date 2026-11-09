@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-09T19:03:57.189073+00:00",
+  "updated": "2026-11-09T19:33:20.451525+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.howtogeek.com/reasons-to-keep-your-old-gpu-right-next-to-your-new-one/",
+      "title": "5 reasons to keep your old GPU right next to your new one",
+      "published": "2026-11-09T19:30:16+00:00",
+      "author": "Sydney Butler",
+      "description": "A spare GPU can act as a silent accelerator for upscaling and frame generation, freeing your new card to render and lower latency.",
+      "link": "https://www.howtogeek.com/reasons-to-keep-your-old-gpu-right-next-to-your-new-one/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/08/two-rtx-gpus-in-server.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/nocturne-stephen-graham-apple-tv-adolescence-netflix/",
       "title": "The star of Netflix’s biggest show of 2025 took his next show to Apple TV, and it’s just as gripping",
@@ -13989,20 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://hackaday.com/blog/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/stopped-typing-same-things-windows-glorious/",
-      "title": "I stopped typing the same things over and over in Windows, and it's glorious",
-      "published": "2026-10-26T14:00:18+00:00",
-      "author": "Yadullah Abidi",
-      "description": "Shortcuts for your sentences, not just your keyboard.",
-      "link": "https://www.makeuseof.com/stopped-typing-same-things-windows-glorious/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/08/deskt-with-windows-and-linux-laptop.JPG",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }

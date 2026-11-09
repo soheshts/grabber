@@ -1,6 +1,6 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-09T19:03:57.189073+00:00",
+  "updated": "2026-11-09T19:33:20.451525+00:00",
   "count": 443,
   "summary": null,
   "items": [
@@ -199,6 +199,20 @@
       "category": "personal blogs",
       "feed_url": "https://shkspr.mobi/blog/feed/atom/",
       "feed_icon": "https://shkspr.mobi/blog/wp-content/uploads/2023/07/cropped-avatar-32x32.jpeg"
+    },
+    {
+      "id": "https://nerdy.dev/ponpon-mania-comic-ux?utm_source=rss",
+      "title": "Ponpon Mania Comic Ux",
+      "published": "2026-11-08T12:00:00+00:00",
+      "author": "atom@argyleink",
+      "description": "Next-gen feeling comic UX, love it. Arrow keys step through the panels while the music keeps going. Chapter 1 of Ponpon Mania: try it!",
+      "link": "https://nerdy.dev/ponpon-mania-comic-ux?utm_source=rss",
+      "image": "https://nerdy.dev/media/ponpon-mania-chapter-1.avif",
+      "feed_name": "Adam Argyle",
+      "feed_title": "Adam Argyle",
+      "category": "personal blogs",
+      "feed_url": "https://nerdy.dev/rss.xml",
+      "feed_icon": "https://nerdy.dev/rss-icon.png"
     },
     {
       "id": "https://ronaldsvilcins.com/2026/11/08/stop-scrollbar-layout-shifts-with-scrollbar-gutter/",
@@ -5477,20 +5491,6 @@
       "category": "personal blogs",
       "feed_url": "https://alvaromontoro.com/feed.rss",
       "feed_icon": "https://www.google.com/s2/favicons?domain=alvaromontoro.com&sz=64"
-    },
-    {
-      "id": "https://chriscoyier.net/?p=29810",
-      "title": "Media Diet",
-      "published": "2026-10-10T19:08:07+00:00",
-      "author": "Chris Coyier",
-      "description": "Not much screen time for me lately, so this is a few months’ worth. But I have enjoyed some things! I have all these shows that I really wanna finish, but just can’t get the gumption to do it. Lanterns didn’t hit for me. I’m only slogging through Hacks season 2. I would love to […]",
-      "link": "https://chriscoyier.net/2026/10/10/media-diet-11/",
-      "image": null,
-      "feed_name": "Chris Coyier",
-      "feed_title": "Chris Coyier",
-      "category": "personal blogs",
-      "feed_url": "https://chriscoyier.net/feed/",
-      "feed_icon": "https://i0.wp.com/chriscoyier.net/wp-content/uploads/2021/07/IsUISvAq_400x400.jpg?fit=32%2C32&quality=89&ssl=1"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
