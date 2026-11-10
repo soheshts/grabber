@@ -1,9 +1,23 @@
 {
   "category": "technology",
-  "updated": "2026-11-10T06:33:44.923337+00:00",
+  "updated": "2026-11-10T07:03:30.553500+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://hardware.slashdot.org/story/26/11/09/2317206/boston-dynamics-adds-wheels-to-atlas-humanoid?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "title": "Boston Dynamics Adds Wheels to Atlas Humanoid",
+      "published": "2026-11-10T07:00:00+00:00",
+      "author": "BeauHD",
+      "description": "Boston Dynamics has equipped its Atlas humanoid with wheels, allowing the robot to rapidly roll across flat terrain while still using its articulated legs to navigate obstacles and uneven surfaces. \"The 'experiment' combined classical model-based motor control with whole-body reinforcement learning to maintain dynamic stability across unstructured, real-world terrain,\" reports The Robot Report. From the report: In addition to learning how to move with wheels for feet, Atlas also performs piroue…",
+      "link": "https://hardware.slashdot.org/story/26/11/09/2317206/boston-dynamics-adds-wheels-to-atlas-humanoid?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+      "feed_name": "Slashdot",
+      "feed_title": "Slashdot",
+      "category": "technology",
+      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
+    },
     {
       "id": "https://science.slashdot.org/story/26/11/09/231215/fda-warns-glp-1s-may-increase-risk-of-sudden-blindness?utm_source=rss1.0mainlinkanon&utm_medium=feed",
       "title": "FDA Warns GLP-1s May Increase Risk of Sudden Blindness",
@@ -13989,20 +14003,6 @@
       "category": "technology",
       "feed_url": "https://lifehacker.com/rss",
       "feed_icon": "https://www.google.com/s2/favicons?domain=lifehacker.com&sz=64"
-    },
-    {
-      "id": "TheNextWeb=34e6ce4e8086dbdb2aa1a3b89f277dd1",
-      "title": "Google says a certified partner turned 1.3M Android TV boxes into a botnet",
-      "published": "2026-11-04T13:22:06+00:00",
-      "author": "Ana Maria Constantin",
-      "description": "Google and its partners have shut down XCPE, a botnet that ran on more than 1.3 million Android TV boxes. Google says the device maker built it in on purpose, its Threat Intelligence Group wrote in a blog post on Monday. “A device manufacturer intentionally infecting their users with malware is an unacceptable breach of […] This story continues at The Next Web",
-      "link": "https://thenextweb.com/news/google-videostrong-xcpe-botnet-android-tv-boxes",
-      "image": "https://media.thenextweb.com/2026/11/hand-remote-streaming-tv-menu-blurred.avif",
-      "feed_name": "The Next Web",
-      "feed_title": "The Next Web",
-      "category": "technology",
-      "feed_url": "https://thenextweb.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
     }
   ]
 }
