@@ -1,9 +1,23 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-10T20:32:34.021081+00:00",
-  "count": 446,
+  "updated": "2026-11-10T21:03:09.569539+00:00",
+  "count": 447,
   "summary": null,
   "items": [
+    {
+      "id": "https://markboulton.co.uk/journal/quire/",
+      "title": "Quire",
+      "published": "2026-11-10T20:37:31+00:00",
+      "author": "Mark Boulton (mark@markboulton.co.uk)",
+      "description": "I’ve been ill with a cold for the past couple of days. I’m not great at it. So, whilst getting distracted by this damn phone whilst trying to watch films, I embarked on scratching an itch I’ve had for a little while with this site. I want to be able to write, edit, and publish from my phone. In a very easy way. This site is quite straight-forward. It’s built using 11ty , which builds on Netlify from a GitHub repo. All markdown for content. Simple. But I wanted more than just a markdown editor.…",
+      "link": "https://markboulton.co.uk/journal/quire/",
+      "image": "https://markboulton.co.uk/images/journal/2026/quire-1.jpg",
+      "feed_name": "Mark Boulton's Journal RSS",
+      "feed_title": "Mark Boulton Journal",
+      "category": "personal blogs",
+      "feed_url": "https://markboulton.co.uk/journal/feed/feed.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=markboulton.co.uk&sz=64"
+    },
     {
       "id": "https://adrianroselli.com/?p=54370",
       "title": "My Interop 2027 Picks",
