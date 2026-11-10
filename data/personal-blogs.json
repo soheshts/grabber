@@ -1,6 +1,6 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-10T20:03:57.606347+00:00",
+  "updated": "2026-11-10T20:32:34.021081+00:00",
   "count": 446,
   "summary": null,
   "items": [
@@ -31,6 +31,20 @@
       "category": "personal blogs",
       "feed_url": "https://www.raymondcamden.com/feed.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.raymondcamden.com&sz=64"
+    },
+    {
+      "id": "https://nerdy.dev/prop-flip?utm_source=rss",
+      "title": "PropFLIP",
+      "published": "2026-11-10T15:00:00+00:00",
+      "author": "atom@argyleink",
+      "description": "FLIP, but the invert is 4 custom properties and CSS does the play",
+      "link": "https://nerdy.dev/prop-flip?utm_source=rss",
+      "image": "https://nerdy.dev/media/prop-flip-pancakes-v2.jpg",
+      "feed_name": "Adam Argyle",
+      "feed_title": "Adam Argyle",
+      "category": "personal blogs",
+      "feed_url": "https://nerdy.dev/rss.xml",
+      "feed_icon": "https://nerdy.dev/rss-icon.png"
     },
     {
       "id": "https://christianheilmann.com/?p=10347",
@@ -5519,20 +5533,6 @@
       "category": "personal blogs",
       "feed_url": "https://melanie-richards.com/feed.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=melanie-richards.com&sz=64"
-    },
-    {
-      "id": "https://thomasrigby.com/posts/2026-w41/",
-      "title": "Weeknotes: 2026-W41",
-      "published": "2026-10-11T20:09:33+00:00",
-      "author": "Thomas Rigby (rss@thomasrigby.com)",
-      "description": "In which I present my work for judgement",
-      "link": "https://thomasrigby.com/posts/2026-w41/",
-      "image": "https://thomasrigby.com/images/OkOPa9C-r6-600.jpeg",
-      "feed_name": "Thomas Rigby",
-      "feed_title": "Thomas Rigby",
-      "category": "personal blogs",
-      "feed_url": "https://thomasrigby.com/feed.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=thomasrigby.com&sz=64"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
