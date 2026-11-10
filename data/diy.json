@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-10T17:03:44.121311+00:00",
+  "updated": "2026-11-10T17:34:09.724515+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/the-gilded-age-hbo-guilty-pleasure/",
+      "title": "HBO’s best drama is also the ultimate guilty pleasure",
+      "published": "2026-11-10T17:30:16+00:00",
+      "author": "Dan Selcke",
+      "description": "It's hard not to feel ambivalent about enjoying The Gilded Age.",
+      "link": "https://www.makeuseof.com/the-gilded-age-hbo-guilty-pleasure/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2026/11/jack-gilpin-taissa-farmiga-carrie-coon-ashlie-atkinson.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/google-fi-new-super-network-unveiled/",
+      "title": "Google Fi network switching is back with the new 5G 'Super Network'",
+      "published": "2026-11-10T17:30:15+00:00",
+      "author": "Jefferson Mangubat",
+      "description": "Google Fi now switches between two 5G networks in real time.",
+      "link": "https://www.howtogeek.com/google-fi-new-super-network-unveiled/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/03/google-fi-text-on-pixel-10-lock-screen.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/stop-buying-tools-your-cordless-drill-can-handle-more-than-you-think/",
       "title": "Stop buying tools: Your cordless drill can handle more than you think",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/bosch-has-a-cross-brand-battery-that-works-on-over-150-tools/",
-      "title": "Bosch has an 18V battery that works with 10 different tool brands",
-      "published": "2026-10-27T12:30:15+00:00",
-      "author": "Cory Gunther",
-      "description": "One battery that powers over 150 tools.",
-      "link": "https://www.howtogeek.com/bosch-has-a-cross-brand-battery-that-works-on-over-150-tools/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/10/bosch-power-for-all-main-image.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/one-free-app-fixed-the-hardest-part-of-running-a-jellyfin-server/",
-      "title": "One free app fixed the hardest part of running a Jellyfin server",
-      "published": "2026-10-27T12:00:16+00:00",
-      "author": "Abhijith N Arjunan",
-      "description": "You don't really need an expensive monthly subscription to stream your media server from anywhere in the world!",
-      "link": "https://www.makeuseof.com/one-free-app-fixed-the-hardest-part-of-running-a-jellyfin-server/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/jellyfin-on-ipad-and-desktop-tailscale.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }
