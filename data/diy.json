@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-10T03:03:33.217416+00:00",
+  "updated": "2026-11-10T03:33:44.043178+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://hackaday.com/?p=1424317",
+      "title": "You Wouldn’t Download A Car…",
+      "published": "2026-11-10T03:00:06+00:00",
+      "author": "Jenny List",
+      "description": "For as long as there have been sports cars, there have been blokes in tin sheds making their own sports cars. It’s a pursuit that has birthed famous marques and …read more",
+      "link": "https://hackaday.com/2026/11/09/you-wouldnt-download-a-car/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/3dpcar-featured.jpg",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/6-linux-boot-options-that-can-save-you-from-a-broken-system/",
       "title": "6 Linux boot options that can save you from a broken system",
@@ -13989,20 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.makeuseof.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/i-pitted-the-32gb-rtx-spark-against-a-snapdragon-x2-laptop-for-local-ai-and-only-one-could-actually-run-the-model/",
-      "title": "I pitted the 32GB RTX Spark against a Snapdragon X2 laptop for local AI, and only one could actually run the model",
-      "published": "2026-10-26T18:30:17+00:00",
-      "author": "Patrick Campanale",
-      "description": "CUDA can’t help if the model never loads.",
-      "link": "https://www.howtogeek.com/i-pitted-the-32gb-rtx-spark-against-a-snapdragon-x2-laptop-for-local-ai-and-only-one-could-actually-run-the-model/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/rtx-spark-snapdragon-x2-stickers.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
     }
   ]
 }
