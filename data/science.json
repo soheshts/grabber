@@ -1,9 +1,51 @@
 {
   "category": "science",
-  "updated": "2026-11-10T14:03:46.236622+00:00",
+  "updated": "2026-11-10T14:33:16.420872+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "news713453327",
+      "title": "Simulations cast doubt on unusual asteroid's 'dark comet' status",
+      "published": "2026-11-10T14:20:10+00:00",
+      "author": null,
+      "description": "In 2031, Japan's Hayabusa2 spacecraft will arrive at the near-Earth asteroid 1998 KY26: a tiny body that is accelerating in a way that astronomers have struggled to explain. Some studies have suggested that the asteroid is pushed along by water escaping from it as gas, making it an as-yet theoretical \"dark comet.\"",
+      "link": "https://phys.org/news/2026-11-simulations-unusual-asteroid-dark-comet.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/simulations-suggest-un.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "news713524515",
+      "title": "A new role for chlorine: Uncovering anion redox in solid-state battery cathodes",
+      "published": "2026-11-10T14:20:01+00:00",
+      "author": null,
+      "description": "As demand grows for safer and more capable rechargeable batteries, scientists are looking beyond the familiar metal-centered chemistry of conventional cathodes. A promising route is to draw additional charge from anions—the negatively charged atoms in a material—rather than relying on transition metals alone. Oxygen and sulfur have attracted substantial attention in this area. Whether chlorine can play a comparable role in chloride-based battery cathodes has been less clear.",
+      "link": "https://phys.org/news/2026-11-role-chlorine-uncovering-anion-redox.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-role-for-chlorin-2.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o#0",
+      "title": "Sales of tinned food and bottled water jump after 'Be Ready' campaign launch",
+      "published": "2026-11-10T14:15:28+00:00",
+      "author": null,
+      "description": "Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies.",
+      "link": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f934/live/9e648690-dd01-11f1-a701-fddedf244c16.jpg",
+      "feed_name": "BBC News - Science & Environment",
+      "feed_title": "BBC News",
+      "category": "science",
+      "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
     {
       "id": "news713522778",
       "title": "Scientists release large-scale in situ cryo-ET resource for mouse sperm ultrastructure",
@@ -115,20 +157,6 @@
       "category": "science",
       "feed_url": "http://rss.sciam.com/ScientificAmerican-Global",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.scientificamerican.com&sz=64"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o#0",
-      "title": "Sales of tinned food and bottled water jump after 'Be Ready' campaign launch",
-      "published": "2026-11-10T11:43:06+00:00",
-      "author": null,
-      "description": "Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies.",
-      "link": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f934/live/9e648690-dd01-11f1-a701-fddedf244c16.jpg",
-      "feed_name": "BBC News - Science & Environment",
-      "feed_title": "BBC News",
-      "category": "science",
-      "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "news713513525",
@@ -781,6 +809,20 @@
       "author": "April Reese",
       "description": "Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03589-9 Clues from Mongolia suggest that underground fungal networks might be key for reviving degraded land and preserving plant biodiversity.",
       "link": "https://www.nature.com/articles/d41586-026-03589-9",
+      "image": null,
+      "feed_name": "Nature",
+      "feed_title": "Nature",
+      "category": "science",
+      "feed_url": "https://www.nature.com/nature.rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=feeds.nature.com&sz=64"
+    },
+    {
+      "id": "https://www.nature.com/articles/d41586-026-03278-7",
+      "title": "A practically perfect plesiosaur",
+      "published": "2026-11-10T00:00:00+00:00",
+      "author": null,
+      "description": "Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03278-7 A very well preserved ancient marine reptile and a Latin poem that describes an optical phenomenon, in this week’s pick from the Nature archive.",
+      "link": "https://www.nature.com/articles/d41586-026-03278-7",
       "image": null,
       "feed_name": "Nature",
       "feed_title": "Nature",
@@ -13961,48 +14003,6 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2026/10/261029072126.htm",
-      "title": "75,000-year-old Neanderthal may have been killed by a spear aimed at the heart",
-      "published": "2026-10-31T11:05:20+00:00",
-      "author": null,
-      "description": "A Neanderthal who died 75,000 years ago may have been killed by a wooden spear deliberately aimed at the heart, revealing rare evidence of prehistoric violence. A circular hole in the shoulder blade suggests the weapon pierced the chest and caused a rapidly fatal injury. Surprisingly, the same individual had survived an earlier devastating facial injury, suggesting other Neanderthals provided care and support.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261029072126.htm",
-      "image": "https://www.sciencedaily.com/images/1920/shanidar-a-scapula-hole.webp",
-      "feed_name": "Latest Science News -- ScienceDaily",
-      "feed_title": "Latest Science News -- ScienceDaily",
-      "category": "science",
-      "feed_url": "https://www.sciencedaily.com/rss/all.xml",
-      "feed_icon": "https://www.sciencedaily.com/images/scidaily-logo-rss.png"
-    },
-    {
-      "id": "news712647429",
-      "title": "Young Canadians focus on mental health at key climate trial",
-      "published": "2026-10-31T11:00:07+00:00",
-      "author": null,
-      "description": "At a landmark Canadian trial focused on the government's obligations to fight climate change, the young plaintiffs suing Ottawa over alleged policy failures have sought to focus attention on their mental health.",
-      "link": "https://phys.org/news/2026-10-young-canadians-focus-mental-health.html",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/demonstrators-have-sup.jpg",
-      "feed_name": "Phys.org - latest science and technology news stories",
-      "feed_title": "Phys.org - latest science and technology news stories",
-      "category": "science",
-      "feed_url": "https://phys.org/rss-feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "https://www.scientificamerican.com/article/how-your-brain-can-turn-your-own-reflection-into-something-unrecognizable/",
-      "title": "How your brain can turn your own reflection into something unrecognizable",
-      "published": "2026-10-31T11:00:00+00:00",
-      "author": null,
-      "description": "Staring at yourself in the mirror can create an illusionary effect, distorting your features to the point of appearing fantastical",
-      "link": "https://www.scientificamerican.com/article/how-your-brain-can-turn-your-own-reflection-into-something-unrecognizable/",
-      "image": "https://static.scientificamerican.com/dam/asset/c75faaf1-5a7d-4614-bc0e-0704b56eadb8/mirror-image.jpg?m=1793387609.429&w=1200",
-      "feed_name": "Scientific American Content: Global",
-      "feed_title": "Scientific American Content: Global",
-      "category": "science",
-      "feed_url": "http://rss.sciam.com/ScientificAmerican-Global",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.scientificamerican.com&sz=64"
     }
   ]
 }
