@@ -1,9 +1,23 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-10T16:03:57.948981+00:00",
-  "count": 445,
+  "updated": "2026-11-10T16:33:48.467157+00:00",
+  "count": 446,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.raymondcamden.com/2026/11/10/migrating-my-notes-app-to-supabase",
+      "title": "Migrating My Notes App to Supabase",
+      "published": "2026-11-10T18:00:00+00:00",
+      "author": "Raymond Camden",
+      "description": "Every now and then I put a service, API, framework, etc on my list of things to look at, and when I eventually get around to it, I wish I had made the time sooner. That's absolutely the case today. About two weeks ago I blogged about how I used TinyJS to build a desktop note application. This worked great and made use of a local SQLite database on the machine for storage. I was curious about how I'd migrate this to a \"real\" network based storage system that could be used in multiple places and…",
+      "link": "https://www.raymondcamden.com/2026/11/10/migrating-my-notes-app-to-supabase",
+      "image": "https://static.raymondcamden.com/images/banners/notes.jpg",
+      "feed_name": "Raymond Camden",
+      "feed_title": "Raymond Camden",
+      "category": "personal blogs",
+      "feed_url": "https://www.raymondcamden.com/feed.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.raymondcamden.com&sz=64"
+    },
     {
       "id": "https://christianheilmann.com/?p=10347",
       "title": "Pardon my dust 2 – redesigning christianheilmann.com",
