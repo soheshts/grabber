@@ -1,9 +1,23 @@
 {
   "category": "funny",
-  "updated": "2026-11-10T12:03:43.697240+00:00",
-  "count": 505,
+  "updated": "2026-11-10T12:33:23.313683+00:00",
+  "count": 506,
   "summary": null,
   "items": [
+    {
+      "id": "https://thedailywtf.com/articles/plenty-of-ids",
+      "title": "CodeSOD: Plenty of IDs",
+      "published": "2026-11-10T06:30:00+00:00",
+      "author": "Remy Porter",
+      "description": "Venkat joined a new team in the middle of a big refactoring effort. The code was quite a mess, glued together by long Python scripts with main functions longer than a Tolstoy novel. It was this effort to clean up the code into neat modules that highlighted some logical issues with their implementation. def generate_random_number (): \"\"\" Generate a 5 digit random number. \"\"\" return \"\" .join( map ( str , random.sample( range ( 0 , 10 ), 5 ))) The script this function comes from is a launcher scri…",
+      "link": "https://thedailywtf.com/articles/plenty-of-ids",
+      "image": "https://s3.amazonaws.com/remy.jetpackshark.com/remy-thumb.jpg",
+      "feed_name": "The Daily WTF",
+      "feed_title": "The Daily WTF",
+      "category": "funny",
+      "feed_url": "http://syndication.thedailywtf.com/TheDailyWtf",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thedailywtf.com&sz=64"
+    },
     {
       "id": "https://theonion.com/?p=1851710648",
       "title": "Entenmann’s CEO Announces He Happy To Share Donut Secrets With Chinese Spies In Exchange For Sex",
