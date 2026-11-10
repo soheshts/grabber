@@ -1,9 +1,23 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-10T19:32:51.476067+00:00",
-  "count": 445,
+  "updated": "2026-11-10T20:03:57.606347+00:00",
+  "count": 446,
   "summary": null,
   "items": [
+    {
+      "id": "https://adrianroselli.com/?p=54370",
+      "title": "My Interop 2027 Picks",
+      "published": "2026-11-10T19:51:39+00:00",
+      "author": "Adrian Roselli",
+      "description": "Interop 2027 is gathering votes and the deadline is 19 November 2026. For the second year now, Firefox made a page to let you rank your Interop 2027 choices. Which I’ve now done. I narrowed it down to fifteen, though getting there was oddly difficult. It seems the top three…",
+      "link": "https://adrianroselli.com/2026/11/my-interop-2027-picks.html",
+      "image": "https://adrianroselli.com/wp-content/uploads/2026/11/Interop-2027-300x300.png",
+      "feed_name": "Adrian Roselli",
+      "feed_title": "Adrian Roselli",
+      "category": "personal blogs",
+      "feed_url": "http://adrianroselli.com/feed",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=adrianroselli.com&sz=64"
+    },
     {
       "id": "https://www.raymondcamden.com/2026/11/10/migrating-my-notes-app-to-supabase",
       "title": "Migrating My Notes App to Supabase",
