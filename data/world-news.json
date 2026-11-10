@@ -1,13 +1,13 @@
 {
   "category": "World News",
-  "updated": "2026-11-10T01:02:37.814512+00:00",
+  "updated": "2026-11-10T01:32:47.974170+00:00",
   "count": 1000,
   "summary": null,
   "items": [
     {
       "id": "108547156",
       "title": "SoftBank Group shares surge 11% as Asian tech stocks rally after Wall Street rebounds",
-      "published": "2026-11-10T00:43:58+00:00",
+      "published": "2026-11-10T01:26:53+00:00",
       "author": null,
       "description": "A sharp decline in oil prices lifted sentiment while renewed buying in semiconductor names overnight spilled over into Asia, following last week's bruising sell-off.",
       "link": "https://www.cnbc.com/2026/11/10/ai-softbank-sk-hynix-samsung-wall-street-tech-stocks.html",
@@ -21,7 +21,7 @@
     {
       "id": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o#0",
       "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-      "published": "2026-11-10T00:34:53+00:00",
+      "published": "2026-11-10T01:22:10+00:00",
       "author": null,
       "description": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
       "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
@@ -31,6 +31,34 @@
       "category": "World News",
       "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://www.theguardian.com/australia-news/2026/nov/10/teen-planned-sydney-terror-attack-using-chatgpt-radicalised-tiktok-ntwnfb",
+      "title": "Teenager who planned terror attack in Sydney tells court he was radicalised online and used AI to strategise",
+      "published": "2026-11-10T01:09:19+00:00",
+      "author": "Josh Taylor Technology reporter",
+      "description": "Boy says he was first exposed to extremist material on TikTok, turned to Telegram and YouTube for bomb-making instructions, and used ChatGPT to devise his plans Get our breaking news email , free app or daily news podcast A teenager who admitted to planning a terrorist attack in Sydney in 2024 has told the court he was radicalised online after first seeing extremist material on TikTok and used ChatGPT to form his plans. The 16-year-old, known under the pseudonym as RK due to his age, pleaded gu…",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/10/teen-planned-sydney-terror-attack-using-chatgpt-radicalised-tiktok-ntwnfb",
+      "image": "https://i.guim.co.uk/img/media/560f38c53c59131a19338207e679804b1d3aa8c0/956_0_4778_3823/master/4778.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e5501f777152d4e497f7c2bb3c9bfdab",
+      "feed_name": "The Guardian",
+      "feed_title": "World news | The Guardian",
+      "category": "World News",
+      "feed_url": "https://www.theguardian.com/world/rss",
+      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
+    {
+      "id": "https://www.theguardian.com/australia-news/2026/nov/10/beau-lamarre-condon-murder-trial-ntwnfb",
+      "title": "Beau Lamarre-Condon denies being ‘obsessed’ with Jesse Baird as double murder trial continues",
+      "published": "2026-11-10T00:53:54+00:00",
+      "author": "Kat Wong",
+      "description": "Former police officer tells jury he joked about being ‘white girl crazy’ with friends as lawyer questions him over start of relationship with Baird Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon has denied being “obsessed” with Jesse Baird from the start of their relationship, telling a court he would have liked the TV presenter even if he was “a garbage cleaner”. The former police officer is accused of fatally shooting Baird and his new partner, Luke Davies, w…",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/10/beau-lamarre-condon-murder-trial-ntwnfb",
+      "image": "https://i.guim.co.uk/img/media/69a781da23f48b2cde91996a93de7520bc4ee220/202_458_2489_1992/master/2489.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=aa2d718ffea54d446d314c701abcd9bc",
+      "feed_name": "The Guardian",
+      "feed_title": "World news | The Guardian",
+      "category": "World News",
+      "feed_url": "https://www.theguardian.com/world/rss",
+      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
     },
     {
       "id": "https://timesofindia.indiatimes.com/real-estate/news/angels-singer-robbie-williams-gives-his-40-million-florida-mansion-a-rock-star-makeover-with-a-2000-square-foot-guest-pavilion-and-a-recording-studio/articleshow/135671993.cms",
@@ -61,18 +89,18 @@
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
-      "id": "https://www.theguardian.com/australia-news/2026/nov/10/beau-lamarre-condon-murder-trial-ntwnfb",
-      "title": "Beau Lamarre-Condon denies being ‘obsessed’ with Jesse Baird as evidence to double murder trial continues",
-      "published": "2026-11-10T00:18:13+00:00",
-      "author": "Kat Wong",
-      "description": "Former police officer tells jury he joked about being ‘white girl crazy’ with friends as lawyer questions him over start of relationship with Baird Beau Lamarre-Condon has denied being “obsessed” with Jesse Baird from the start of their relationship, telling a court he would have liked the TV presenter even if he was “a garbage cleaner”. The former police officer is accused of fatally shooting Baird and his new partner, Luke Davies, with his police service weapon in Baird’s Paddington home in S…",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/10/beau-lamarre-condon-murder-trial-ntwnfb",
-      "image": "https://i.guim.co.uk/img/media/69a781da23f48b2cde91996a93de7520bc4ee220/202_458_2489_1992/master/2489.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=aa2d718ffea54d446d314c701abcd9bc",
-      "feed_name": "The Guardian",
-      "feed_title": "World news | The Guardian",
+      "id": "108547033",
+      "title": "Trump says Jensen Huang told him Monday he didn't know paramour 'was a spy'",
+      "published": "2026-11-10T00:17:02+00:00",
+      "author": null,
+      "description": "President Donald Trump suggested he had only recently learned of allegations that Alice Huang was a Chinese spy.",
+      "link": "https://www.cnbc.com/2026/11/09/trump-jensen-huang-nvidia-chinese-spy.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108546942-1794261590589-gettyimages-2303927597-AFP_D6YH7G2.jpeg?v=1794261653&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
       "category": "World News",
-      "feed_url": "https://www.theguardian.com/world/rss",
-      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
       "id": "https://www.theguardian.com/australia-news/2026/nov/10/todd-russell-dies-beaconsfield-mine-collapse-survivor-death-illness-aged-54",
@@ -13975,34 +14003,6 @@
       "category": "World News",
       "feed_url": "https://www.reddit.com/r/worldnews/.rss",
       "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "108526766",
-      "title": "Jim Cramer explains why no AI stock seems safe from the market carnage",
-      "published": "2026-11-05T23:25:04+00:00",
-      "author": null,
-      "description": "CNBC’s Jim Cramer said AI stocks are becoming increasingly difficult to value.",
-      "link": "https://www.cnbc.com/2026/11/05/jim-cramer-ai-stocks-data-center-uncertainty.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/107109969-NUP_198430_00200r.jpg?v=1694042675&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/science/wildlife/us-wildlife-teams-surveyed-six-offshore-islands-for-invasive-species-finding-rats-on-five-and-iguanas-on-one-the-results-will-guide-future-work-to-protect-nesting-seabirds/articleshow/135458042.cms",
-      "title": "US wildlife teams surveyed six offshore islands for invasive species, finding rats on five and iguanas on one; the results will guide future work to protect nesting seabirds",
-      "published": "2026-11-05T23:20:00+00:00",
-      "author": "TOI Lifestyle Desk",
-      "description": "Recent surveys in the U.S. Virgin Islands have identified invasive species on several offshore cays. Black rats and green iguanas pose significant threats to local seabird populations, such as the red-billed tropicbird. Conservationists are now evaluating strategies to eradicate these non-native animals from the islands. Removal efforts could lead to improved nesting conditions for seabirds in the future. Successful initiatives may help restore these vital habitats for future generations.",
-      "link": "https://timesofindia.indiatimes.com/science/wildlife/us-wildlife-teams-surveyed-six-offshore-islands-for-invasive-species-finding-rats-on-five-and-iguanas-on-one-the-results-will-guide-future-work-to-protect-nesting-seabirds/articleshow/135458042.cms",
-      "image": "https://static.toiimg.com/photo/msid-135566102,imgsize-1882609.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     }
   ]
 }
