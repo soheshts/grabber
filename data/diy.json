@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-10T19:03:05.395694+00:00",
+  "updated": "2026-11-10T19:32:51.476067+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.howtogeek.com/why-combining-a-raspberry-pi-and-esp32-gives-you-the-best-of-both-worlds/",
+      "title": "Why combining a Raspberry Pi and ESP32 gives you the best of both worlds",
+      "published": "2026-11-10T19:30:16+00:00",
+      "author": "Umair Khurshid",
+      "description": "The Raspberry Pi and ESP32 might just be the ultimate DIY power couple!",
+      "link": "https://www.howtogeek.com/why-combining-a-raspberry-pi-and-esp32-gives-you-the-best-of-both-worlds/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/03/an-esp32-lying-on-top-of-a-raspberry-pi-in-a-case.png",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/must-have-samsung-galaxy-apps/",
       "title": "My Samsung phone runs better with these 5 apps, and Good Lock is just the start",
@@ -13989,20 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/gemini-4-argon-vs-gpt-6-showdown/",
-      "title": "Gemini 4 Argon vs. GPT-6 wasn't the showdown I expected",
-      "published": "2026-10-27T15:01:17+00:00",
-      "author": "Shimul Sood",
-      "description": "My favorite AI met its match.",
-      "link": "https://www.makeuseof.com/gemini-4-argon-vs-gpt-6-showdown/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/gemini-4-argon-web-page-opened-on-macbook.png",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }

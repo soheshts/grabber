@@ -1,9 +1,37 @@
 {
   "category": "travel",
-  "updated": "2026-11-10T19:03:05.395694+00:00",
-  "count": 150,
+  "updated": "2026-11-10T19:32:51.476067+00:00",
+  "count": 151,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/11/10/travel/homicide-investigation-cruise-ship-texas.html",
+      "title": "Passenger Arrested in Connection to Possible Homicide on Cruise Ship",
+      "published": "2026-11-10T19:19:01+00:00",
+      "author": "Ceylan Yeğinsu",
+      "description": "The F.B.I. is investigating the death of a female passenger on the Caribbean-bound MSC Seascape, which departed from Galveston on Monday.",
+      "link": "https://www.nytimes.com/2026/11/10/travel/homicide-investigation-cruise-ship-texas.html",
+      "image": "https://static01.nyt.com/images/2026/11/10/realestate/trav-msc-homicide/trav-msc-homicide-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Travel",
+      "feed_title": "NYT > Travel",
+      "category": "travel",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.atlasobscura.com/places/general-israel-putnam-tombstone",
+      "title": "General Israel Putnam Tombstone in Brooklyn, Connecticut",
+      "published": "2026-11-10T19:00:00+00:00",
+      "author": null,
+      "description": "Israel Putnam, affectionately known as “Old Put,” was a prominent figure in American history. He served as a colonial American military officer and a Patriot hero during the American Revolutionary War. Putnam also played a significant role in the French and Indian War. In 1775, Congress appointed Putnam as one of the first four major generals of the Continental Army. He commanded the New England militia forces at the Battle of Bunker Hill in June of that year. He helped organize the “Sons of Li…",
+      "link": "https://www.atlasobscura.com/places/general-israel-putnam-tombstone",
+      "image": "https://img.atlasobscura.com/bJbS5uXWi2O1krvrqLfISRGfga9lbyXBog6qOuIyqaw/rs:fill:300:200:1/g:ce/c:5145:3430:nowe:855:543/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9kNTZh/MjNkMy0xODlmLTRk/ZDItYjliYi04NGYw/YTk4NGM3MjY4NDQ5/NzE3MDUwZmUxMzEy/NzBfSU1HXzI4NzUu/anBlZw.jpg",
+      "feed_name": "Atlas Obscura - Latest Articles and Places",
+      "feed_title": "Atlas Obscura - Latest Articles and Places",
+      "category": "travel",
+      "feed_url": "https://www.atlasobscura.com/feeds/latest",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.atlasobscura.com&sz=64"
+    },
     {
       "id": "https://www.nytimes.com/2026/11/05/travel/new-york-city-cheap-hotels.html",
       "title": "NYC’s Secret Budget Hotel Hack: Religious Guesthouses",
@@ -31,20 +59,6 @@
       "category": "travel",
       "feed_url": "https://www.atlasobscura.com/feeds/latest",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.atlasobscura.com&sz=64"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/10/travel/homicide-investigation-cruise-ship-texas.html",
-      "title": "Passenger Arrested in Connection to Possible Homicide on Cruise Ship Off Texas Coast",
-      "published": "2026-11-10T16:00:34+00:00",
-      "author": "Ceylan Yeğinsu",
-      "description": "The F.B.I. is investigating the death of a passenger on the Caribbean-bound MSC Seascape, which departed from Galveston on Monday.",
-      "link": "https://www.nytimes.com/2026/11/10/travel/homicide-investigation-cruise-ship-texas.html",
-      "image": "https://static01.nyt.com/images/2026/11/10/realestate/trav-msc-homicide/trav-msc-homicide-mediumSquareAt3X.jpg",
-      "feed_name": "NYT > Travel",
-      "feed_title": "NYT > Travel",
-      "category": "travel",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://www.nytimes.com/2026/11/10/t-magazine/walking-across-england-coast-to-coast.html",
