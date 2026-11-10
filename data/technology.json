@@ -1,9 +1,51 @@
 {
   "category": "technology",
-  "updated": "2026-11-10T15:04:03.354142+00:00",
+  "updated": "2026-11-10T15:33:44.342605+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "TheNextWeb=c945eb465a6df6c5382148af42b585fc",
+      "title": "Adobe’s Firefly agent now plans the work and picks the AI model for you",
+      "published": "2026-11-10T15:15:38+00:00",
+      "author": "Ana Maria Constantin",
+      "description": "Adobe’s Creative Agent in Firefly can now show creators its plan before it starts. It can also pick the AI model for each job. Creators can edit and approve that plan, or let the agent run on its own. They can also choose the model themselves. Adobe announced the update on Tuesday at its MAX […] This story continues at The Next Web",
+      "link": "https://thenextweb.com/news/adobe-firefly-creative-agent-plan-mode-model-selector",
+      "image": "https://media.thenextweb.com/2026/11/hand-tote-bag-ai-task-list-approve-run.avif",
+      "feed_name": "The Next Web",
+      "feed_title": "The Next Web",
+      "category": "technology",
+      "feed_url": "https://thenextweb.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
+    {
+      "id": "TheNextWeb=973c2ad606ffb8aa37e662e3ff41052c",
+      "title": "Ancep raises $8.5M for AI agents that help brokers place smaller risks",
+      "published": "2026-11-10T15:11:56+00:00",
+      "author": "Ana-Maria Stanciuc",
+      "description": "London-based Ancep has raised $8.5M to build AI agents for commercial insurance brokers, targeting the smaller deals that brokers often turn away because they take too much time to handle relative to the commission they bring in. The funding round was led by Creandum, with participation from Kleiner Perkins and Vicus Ventures. Angel investors include […] This story continues at The Next Web",
+      "link": "https://thenextweb.com/news/ancep-8-5m-ai-agents-insurance-brokers",
+      "image": "https://media.thenextweb.com/2026/11/two-men-dark-sweaters-rooftop-terrace-london-skyline.avif",
+      "feed_name": "The Next Web",
+      "feed_title": "The Next Web",
+      "category": "technology",
+      "feed_url": "https://thenextweb.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
+    {
+      "id": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
+      "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+      "published": "2026-11-10T15:00:39+00:00",
+      "author": "Ryan Whitwam",
+      "description": "The new model is up to twice as successful at some tasks.",
+      "link": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Credit_-Apptronik_-Mercedes-Benz-Apollo-2-using-Gemini-Robotics-2.5-to-autonomously-perform-automotive-kitting-at-a-Mercedes-Benz-factory-500x500-1794257853.jpg",
+      "feed_name": "Ars Technica",
+      "feed_title": "Ars Technica - All content",
+      "category": "technology",
+      "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
+      "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
+    },
     {
       "id": "https://www.theverge.com/?p=1030211",
       "title": "Reddit wants to guide your next purchase",
@@ -33,6 +75,20 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
     },
     {
+      "id": "https://arstechnica.com/gadgets/2026/11/nvidia-has-a-jensen-huang-problem-and-no-obvious-successor/",
+      "title": "Nvidia has a Jensen Huang problem—and no obvious successor",
+      "published": "2026-11-10T14:53:05+00:00",
+      "author": "Michael Acton, Financial Times",
+      "description": "Huang faces a board probe as investors fret over Nvidia’s lack of a clear successor.",
+      "link": "https://arstechnica.com/gadgets/2026/11/nvidia-has-a-jensen-huang-problem-and-no-obvious-successor/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/11/jensen_huang-500x500.jpg",
+      "feed_name": "Ars Technica",
+      "feed_title": "Ars Technica - All content",
+      "category": "technology",
+      "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
+      "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
+    },
+    {
       "id": "https://www.engadget.com/2307769/116-underwater-drone-swarm-world-record-china/",
       "title": "A Chinese team made a big splash with a drone swarm world record",
       "published": "2026-11-10T14:45:00+00:00",
@@ -45,6 +101,20 @@
       "category": "technology",
       "feed_url": "https://www.engadget.com/rss.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
+    {
+      "id": "https://arstechnica.com/health/2026/11/glp-1-drugs-may-increase-risk-of-vision-loss-from-rare-condition-fda-warns/",
+      "title": "FDA warns GLP-1 drugs may pose risk of rare condition that causes vision loss",
+      "published": "2026-11-10T14:43:49+00:00",
+      "author": "Beth Mole",
+      "description": "The risk appears small and data is mixed, but FDA wants patients to be aware.",
+      "link": "https://arstechnica.com/health/2026/11/glp-1-drugs-may-increase-risk-of-vision-loss-from-rare-condition-fda-warns/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-1716643505-500x500.jpg",
+      "feed_name": "Ars Technica",
+      "feed_title": "Ars Technica - All content",
+      "category": "technology",
+      "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
+      "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
     },
     {
       "id": "https://www.theverge.com/?p=1030714",
@@ -87,6 +157,20 @@
       "category": "technology",
       "feed_url": "https://thenextweb.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
+    {
+      "id": "https://arstechnica.com/cars/2026/11/polestar-has-a-new-look-with-its-formula-2030-concept/",
+      "title": "Polestar has a new look with its Formula 2030 concept",
+      "published": "2026-11-10T14:22:02+00:00",
+      "author": "Jonathan M. Gitlin",
+      "description": "The shape looks like a Saab Aero-X, but the nose previews the next Polestar 2.",
+      "link": "https://arstechnica.com/cars/2026/11/polestar-has-a-new-look-with-its-formula-2030-concept/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Polestar-260929-HBL_B0001178_v003-500x500.jpg",
+      "feed_name": "Ars Technica",
+      "feed_title": "Ars Technica - All content",
+      "category": "technology",
+      "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
+      "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
     },
     {
       "id": "https://www.engadget.com/2307766/hdmi-port-settings-should-change-best-picture-quality/",
@@ -174,11 +258,11 @@
     },
     {
       "id": "5188613",
-      "title": "Spotify DJ Adds (Potentially Annoying) Voices or You Can Now Turn Them Off Completely",
+      "title": "Spotify DJ Adds Nine New Voices and a Mute Option",
       "published": "2026-11-10T14:00:00+00:00",
       "author": "Ty Pendlebury",
       "description": "The DJ’s voice feature can now be disabled but what’s the fun in that?",
-      "link": "https://www.cnet.com/tech/spotify-dj-adds-potentially-annoying-voices-or-you-can-now-turn-them-off-completely/",
+      "link": "https://www.cnet.com/tech/oasis-1794320372-spotify-dj-adds-potentially-annoying-voices-or-you-can-now-turn-them-off-completely/",
       "image": "https://www.cnet.com/wp-content/uploads/sites/2/DJ-Header-2.png",
       "feed_name": "CNET News",
       "feed_title": "News – CNET",
@@ -13919,90 +14003,6 @@
       "category": "technology",
       "feed_url": "http://feeds.mashable.com/Mashable",
       "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
-    },
-    {
-      "id": "https://arstechnica.com/gadgets/2026/11/people-say-they-want-small-smartphones-the-enough-phone-will-put-that-to-the-test/",
-      "title": "People say they want small smartphones—the Enough Phone will put that to the test",
-      "published": "2026-11-04T18:00:40+00:00",
-      "author": "Ryan Whitwam",
-      "description": "It won't win the specs race, but it will actually fit in your hand.",
-      "link": "https://arstechnica.com/gadgets/2026/11/people-say-they-want-small-smartphones-the-enough-phone-will-put-that-to-the-test/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Enough-Phone-in-Hand-500x500.jpg",
-      "feed_name": "Ars Technica",
-      "feed_title": "Ars Technica - All content",
-      "category": "technology",
-      "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
-      "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
-    },
-    {
-      "id": "https://www.theverge.com/?p=1026464",
-      "title": "My therapist thinks I should chuck the Amazon Bee Frontier out a window",
-      "published": "2026-11-04T18:00:00+00:00",
-      "author": "Victoria Song",
-      "description": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. \"How does that make you feel?\" I get asked this a lot in therapy. Plenty of life events, big and […]",
-      "link": "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268817_Bee_Frontier_AKrales_0098.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "feed_name": "The Verge -  All Posts",
-      "feed_title": "The Verge",
-      "category": "technology",
-      "feed_url": "https://www.theverge.com/rss/index.xml",
-      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
-    },
-    {
-      "id": "https://www.theverge.com/?p=1026474",
-      "title": "ChatGPT will now make you animated GIFs",
-      "published": "2026-11-04T18:00:00+00:00",
-      "author": "Emma Roth",
-      "description": "ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot. The update, which is rolling out alongside OpenAI's new Images 2.6 model, allows you to adjust the GIF's animation speed, edit individual frames, and share it with others. Before this change, ChatGPT couldn't natively generate GIFs in a single […]",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "feed_name": "The Verge -  All Posts",
-      "feed_title": "The Verge",
-      "category": "technology",
-      "feed_url": "https://www.theverge.com/rss/index.xml",
-      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
-    },
-    {
-      "id": "https://blog.google/products-and-platforms/devices/googlebook/henry-cavill-mustache-protocol-video-game/",
-      "title": "Watch Henry Cavill build a video game on his Googlebook",
-      "published": "2026-11-04T18:00:00+00:00",
-      "author": "Menaka Shroff (MK)",
-      "description": "The video shows the making of Henry Cavill's game, “Mustache Protocol.\"",
-      "link": "https://blog.google/products-and-platforms/devices/googlebook/henry-cavill-mustache-protocol-video-game/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MP_EP1_HORIZONTAL.max-600x600.format-webp.webp",
-      "feed_name": "The Keyword",
-      "feed_title": "News from Google",
-      "category": "technology",
-      "feed_url": "https://www.blog.google/rss/",
-      "feed_icon": "https://blog.google/static/blogv2/images/google.png"
-    },
-    {
-      "id": "01M6H8ZDEM5NEW1SJDVY90V8M2",
-      "title": "10 Shows Like 'Phony' You Should Watch Next",
-      "published": "2026-11-04T18:00:00+00:00",
-      "author": "Ross Johnson",
-      "description": "More twisty mysteries and stories of false identities to stream now.",
-      "link": "https://lifehacker.com/entertainment/best-shows-like-phony?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M6H8ZDEM5NEW1SJDVY90V8M2/hero-image.jpg",
-      "feed_name": "Lifehacker",
-      "feed_title": "Lifehacker",
-      "category": "technology",
-      "feed_url": "https://lifehacker.com/rss",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=lifehacker.com&sz=64"
-    },
-    {
-      "id": "https://www.engadget.com/2306802/god-of-war-laufey-is-delayed-until-may-20/",
-      "title": "God of War Laufey is delayed until May 20",
-      "published": "2026-11-04T17:50:47+00:00",
-      "author": "Kris Holt",
-      "description": "Santa Monica Studio will use the extra time to push the game \"to its fullest potential.\"",
-      "link": "https://www.engadget.com/2306802/god-of-war-laufey-is-delayed-until-may-20/",
-      "image": "https://www.engadget.com/img/gallery/god-of-war-laufey-is-delayed-until-may-20/l-intro-1793814603.jpg",
-      "feed_name": "Engadget",
-      "feed_title": "Engadget - Technology News & Expert Reviews",
-      "category": "technology",
-      "feed_url": "https://www.engadget.com/rss.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
     }
   ]
 }

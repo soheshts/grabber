@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-10T15:04:03.354142+00:00",
-  "count": 443,
+  "updated": "2026-11-10T15:33:44.342605+00:00",
+  "count": 444,
   "summary": null,
   "items": [
     {
@@ -129,6 +129,20 @@
       "category": "personal blogs",
       "feed_url": "https://www.tempertemper.net/feeds/main.xml",
       "feed_icon": "https://www.tempertemper.net/assets/img/icons/favicon.png"
+    },
+    {
+      "id": "https://meiert.com/blog/edit-awagam-blocklists/",
+      "title": "How to Create, Edit, and Validate AWAGAM Blocklists",
+      "published": "2026-11-09T23:00:00+00:00",
+      "author": null,
+      "description": "Extending the tooling for the AWAGAM request blocker, a new editor is available to set up and test blocklists and blocklist bundles.",
+      "link": "https://meiert.com/blog/edit-awagam-blocklists/",
+      "image": "https://d3rdtowr0c5lpf.cloudfront.net/media/social.png",
+      "feed_name": "Blog (Web Development, Mostly) · Jens Oliver Meiert",
+      "feed_title": "Jens Oliver Meiert · Code Optimization, Digital Defense, World Models",
+      "category": "personal blogs",
+      "feed_url": "https://meiert.com/en/feed/",
+      "feed_icon": "https://meiert.com/media/social.png"
     },
     {
       "id": "https://www.aaron-gustafson.com/notebook/system-colors-need-to-work-together/",
