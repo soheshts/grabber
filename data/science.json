@@ -1,6 +1,6 @@
 {
   "category": "science",
-  "updated": "2026-11-10T10:32:22.260966+00:00",
+  "updated": "2026-11-10T11:03:41.078513+00:00",
   "count": 1000,
   "summary": null,
   "items": [
@@ -87,6 +87,20 @@
       "category": "science",
       "feed_url": "https://www.wired.com/feed/category/science/latest/rss",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.wired.com&sz=64"
+    },
+    {
+      "id": "7be9f008-d489-11f1-8487-5bd05a291bc9",
+      "title": "From Farm Myths to Modern Agriculture [Sponsored]",
+      "published": "2026-11-10T10:00:00+00:00",
+      "author": "Scientific American",
+      "description": "Social media is full of claims about how farmers raise and grow food, but how much of it holds up? Michelle Miller, a former Iowa corn and soybean farmer known online as Farm Babe, talks about common agriculture myths, regenerative practices and the data, genetics and autonomous tools shaping farms today. This podcast was produced for Bayer by Scientific American Custom Media, a division separate from the magazine’s board of editors. Learn more about your ad choices. Visit megaphone.fm/adchoice…",
+      "link": null,
+      "image": null,
+      "feed_name": "60-Second Science",
+      "feed_title": "60-Second Science",
+      "category": "science",
+      "feed_url": "http://rss.sciam.com/sciam/60secsciencepodcast",
+      "feed_icon": "https://megaphone.imgix.net/podcasts/9e578524-a403-11ee-a6cf-cbcdcc0e11fb/image/ec5ff1c72de2a19d67bc6425661674b1.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
     },
     {
       "id": "news713507465",
@@ -13989,20 +14003,6 @@
       "category": "science",
       "feed_url": "https://www.sciencedaily.com/rss/all.xml",
       "feed_icon": "https://www.sciencedaily.com/images/scidaily-logo-rss.png"
-    },
-    {
-      "id": "news712584267",
-      "title": "Figuring out where cosmic neutrinos come from is tricky—radio telescopes could help find 'ghost particles' origin",
-      "published": "2026-10-31T00:20:01+00:00",
-      "author": null,
-      "description": "Neutrinos are funny little particles that weigh almost nothing, making them one of the universe's most elusive building blocks. They can come from objects as mundane as bananas and as exotic as supernovas—the exploding death throes of massive stars. Most neutrinos stream through space and pass through the Earth without interacting with anything.",
-      "link": "https://phys.org/news/2026-10-figuring-cosmic-neutrinos-tricky-radio.html",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/an-illustration-of-a-s-2.jpg",
-      "feed_name": "Phys.org - latest science and technology news stories",
-      "feed_title": "Phys.org - latest science and technology news stories",
-      "category": "science",
-      "feed_url": "https://phys.org/rss-feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
     }
   ]
 }
