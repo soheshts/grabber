@@ -1,9 +1,51 @@
 {
   "category": "World News",
-  "updated": "2026-11-09T23:33:20.616641+00:00",
+  "updated": "2026-11-10T00:03:53.169738+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o#0",
+      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "published": "2026-11-09T23:59:50+00:00",
+      "author": null,
+      "description": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+      "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f773/live/9c28e680-dc95-11f1-a701-fddedf244c16.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "108546844",
+      "title": "Senate advances Trump-backed bipartisan bill to speed critical infrastructure projects",
+      "published": "2026-11-09T23:54:06+00:00",
+      "author": null,
+      "description": "The bill would force artificial intelligence companies and data center developers to pay their own way for power and grid enhancements.",
+      "link": "https://www.cnbc.com/2026/11/09/senate-infrastructure-bill-data-centers.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108109902-1741016219892-gettyimages-2193737956-tdp-l-electrical_grid_2931.jpeg?v=1741016281&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro#0",
+      "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+      "published": "2026-11-09T23:45:14+00:00",
+      "author": null,
+      "description": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process next year.",
+      "link": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0303/live/c8a877f0-dc7e-11f1-93e1-3b657b665bcf.png",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
     {
       "id": "108546758",
       "title": "PepsiCo to cut about 1,000 jobs as North American business struggles",
@@ -33,6 +75,48 @@
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
+      "id": "https://www.theguardian.com/australia-news/2026/nov/10/todd-russell-dies-beaconsfield-mine-collapse-survivor-death-illness-aged-54",
+      "title": "Todd Russell, Beaconsfield mine collapse survivor, dies aged 54 due to illness",
+      "published": "2026-11-09T23:25:31+00:00",
+      "author": "Nick Visser and Australian Associated Press",
+      "description": "Tasmanian premier leads tributes for Russell, who earlier this month returned home to ‘see out his days’ Get our breaking news email , free app or daily news podcast Beaconsfield mine collapse survivor Todd Russell has died aged 54 after recently announcing deteriorating health. The Tasmanian premier, Jeremy Rockliff, led the tributes on Tuesday morning, saying his thoughts were with Russell’s loved ones. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/10/todd-russell-dies-beaconsfield-mine-collapse-survivor-death-illness-aged-54",
+      "image": "https://i.guim.co.uk/img/media/9b143c92c9a4ed57fdb4fed5bd631a8251922862/0_0_2257_1806/master/2257.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ec76426a16a517a9d37a30851861c863",
+      "feed_name": "The Guardian",
+      "feed_title": "World news | The Guardian",
+      "category": "World News",
+      "feed_url": "https://www.theguardian.com/world/rss",
+      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/us/in-2008-a-massachusetts-couple-bought-oceanfront-land-to-build-a-house-but-neighbours-repeatedly-disrupted-the-construction-18-years-later-an-appeals-court-upheld-a-3-7-million-verdict-against-them/articleshow/135635934.cms",
+      "title": "Massachusetts neighbours ordered to pay $3.7 million after 18-year dispute over oceanfront home construction",
+      "published": "2026-11-09T23:25:00+00:00",
+      "author": "TOI World Desk",
+      "description": "Margaret Reichenbach and her husband encountered relentless challenges from their neighbors throughout their home construction project in Massachusetts. After a prolonged legal struggle, they secured a $3.7 million verdict for damages. The Massachusetts Appeals Court affirmed the ruling, citing ample evidence of harassment and intrusion. The Reichenbachs' victory also includes a permanent injunction against further neighbor harassment, finally allowing them peace in their home.",
+      "link": "https://timesofindia.indiatimes.com/world/us/in-2008-a-massachusetts-couple-bought-oceanfront-land-to-build-a-house-but-neighbours-repeatedly-disrupted-the-construction-18-years-later-an-appeals-court-upheld-a-3-7-million-verdict-against-them/articleshow/135635934.cms",
+      "image": "https://static.toiimg.com/photo/msid-135636087,imgsize-55758.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/real-estate/news/rufus-wainwright-lists-his-2-3-million-laurel-canyon-home-a-1926-spanish-style-storybook-cottage-with-stained-glass-windows-wood-beamed-ceilings-and-colourful-interiors/articleshow/135681697.cms",
+      "title": "Rufus Wainwright lists his $2.3 million Spanish-style Laurel Canyon cottage",
+      "published": "2026-11-09T23:25:00+00:00",
+      "author": "TOI Lifestyle Desk",
+      "description": "",
+      "link": "https://timesofindia.indiatimes.com/real-estate/news/rufus-wainwright-lists-his-2-3-million-laurel-canyon-home-a-1926-spanish-style-storybook-cottage-with-stained-glass-windows-wood-beamed-ceilings-and-colourful-interiors/articleshow/135681697.cms",
+      "image": "https://static.toiimg.com/photo/msid-135682417,imgsize-106142.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
       "id": "https://timesofindia.indiatimes.com/world/uk/princess-diana-found-peace-at-her-brothers-south-african-estate-after-her-divorce-nelson-mandela-linked-6-75-million-property-goes-on-sale-with-her-cottage-preserved/articleshow/135673804.cms",
       "title": "Princess Diana's private cottage preserved as her former retreat goes on sale",
       "published": "2026-11-09T23:22:00+00:00",
@@ -45,20 +129,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o#0",
-      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-      "published": "2026-11-09T23:20:29+00:00",
-      "author": null,
-      "description": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
-      "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9ed/live/459f3140-dc93-11f1-b244-e54544344237.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "108546774",
@@ -131,6 +201,20 @@
       "feed_icon": "https://www.redditstatic.com/icon.png/"
     },
     {
+      "id": "108546439",
+      "title": "Jensen Huang affair puts Nvidia's future at risk, with no clear successor to the renowned CEO",
+      "published": "2026-11-09T22:56:39+00:00",
+      "author": null,
+      "description": "Jensen Huang is practically synonymous with Nvidia, the chipmaker he co-founded in 1993 and turned into one of the most valuable companies on the planet.",
+      "link": "https://www.cnbc.com/2026/11/09/jensen-huang-affair-nvidia-succession.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108353994-1787675884337-gettyimages-2266718050-NVIDIA_GTC.jpeg?v=1787832040&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/videos/cwm2328pyy1jo#2",
       "title": "Dana White declines Trump’s offer to be White House press secretary",
       "published": "2026-11-09T22:46:27+00:00",
@@ -185,20 +269,6 @@
       "category": "World News",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "https://www.theguardian.com/australia-news/2026/nov/10/todd-russell-dies-beaconsfield-mine-collapse-survivor-death-illness-aged-54",
-      "title": "Todd Russell, Beaconsfield mine collapse survivor, dies aged 54 due to illness",
-      "published": "2026-11-09T22:26:31+00:00",
-      "author": "Australian Associated Press",
-      "description": "Tasmanian premier leads tributes for Russell, who earlier this month returned home to ‘see out his days’ Get our breaking news email , free app or daily news podcast Beaconsfield mine collapse survivor Todd Russell has died aged 54 after recently announcing deteriorating health. The Tasmanian premier, Jeremy Rockliff, led the tributes on Tuesday morning, saying his thoughts were with Russell’s loved ones. Continue reading...",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/10/todd-russell-dies-beaconsfield-mine-collapse-survivor-death-illness-aged-54",
-      "image": "https://i.guim.co.uk/img/media/9b143c92c9a4ed57fdb4fed5bd631a8251922862/0_0_2257_1806/master/2257.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ec76426a16a517a9d37a30851861c863",
-      "feed_name": "The Guardian",
-      "feed_title": "World news | The Guardian",
-      "category": "World News",
-      "feed_url": "https://www.theguardian.com/world/rss",
-      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/rest-of-world/paul-mccartney-bought-a-remote-183-acre-scottish-farm-in-1966-to-escape-beatlemania-he-later-expanded-the-land-and-found-inspiration-for-mull-of-kintyre/articleshow/135681329.cms",
@@ -299,18 +369,18 @@
       "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro#0",
-      "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-      "published": "2026-11-09T21:37:02+00:00",
-      "author": null,
-      "description": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process.",
-      "link": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0303/live/c8a877f0-dc7e-11f1-93e1-3b657b665bcf.png",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
+      "id": "t3_1xs4gox",
+      "title": "China Calls for Binding Ukraine Peace Deal Ahead of Abu Dhabi Talks",
+      "published": "2026-11-09T21:33:28+00:00",
+      "author": "/u/ArgentineBeauty",
+      "description": "submitted by /u/ArgentineBeauty [link] [comments]",
+      "link": "https://www.reddit.com/r/worldnews/comments/1xs4gox/china_calls_for_binding_ukraine_peace_deal_ahead/",
+      "image": "https://external-preview.redd.it/p2RZoSypIj-2Ce_aHjTIweVUxUKBrZBkW6sCpsVKWzw.jpeg?width=640&crop=smart&auto=webp&s=43f12bde953d5c04a8ec7b72afd148068de779ba",
+      "feed_name": "World News",
+      "feed_title": "World News",
       "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
+      "feed_icon": "https://www.redditstatic.com/icon.png/"
     },
     {
       "id": "t3_1xs4f02",
@@ -474,20 +544,6 @@
       "description": "Nvidia CEO Jensen Huang's extramarital affair with an alleged Chinese spy comes as the company is already about to face heightened scrutiny.",
       "link": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-affair-congress-scrutiny.html",
       "image": "https://image.cnbcfm.com/api/v1/image/108416313-1792099132044-gettyimages-2299644955-AFP_D3B329K.jpeg?v=1793222589&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "108546439",
-      "title": "Jensen Huang affair puts Nvidia's future at risk, with no clear successor to the renowned CEO",
-      "published": "2026-11-09T20:25:13+00:00",
-      "author": null,
-      "description": "Jensen Huang is practically synonymous with Nvidia, the chipmaker he co-founded in 1993 and turned into one of the most valuable companies on the planet.",
-      "link": "https://www.cnbc.com/2026/11/09/jensen-huang-affair-nvidia-succession.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108353994-1787675884337-gettyimages-2266718050-NVIDIA_GTC.jpeg?v=1787832040&w=1920&h=1080",
       "feed_name": "CNBC",
       "feed_title": "International: Top News And Analysis",
       "category": "World News",
@@ -13947,62 +14003,6 @@
       "category": "World News",
       "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/russia-ukraine-war-donald-trump-meets-putin-envoy-predicts-big-deal-with-russia-on-ukraine-12290251#publisher=newsstand",
-      "title": "Trump Meets Putin Envoy, Predicts \"Very Big\" Deal With Russia On Ukraine",
-      "published": "2026-11-05T22:10:54+00:00",
-      "author": null,
-      "description": "Trump revealed that he had an unscheduled meeting with Kirill Dmitriev at the White House.",
-      "link": "https://www.ndtv.com/world-news/russia-ukraine-war-donald-trump-meets-putin-envoy-predicts-big-deal-with-russia-on-ukraine-12290251#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-11/5smk9714_donald-trump_625x300_06_November_26.jpeg",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/donald-trump-signs-order-to-prevent-future-changes-to-oval-office-12290226#publisher=newsstand",
-      "title": "Trump Signs Order To Prevent Future Changes To Oval Office",
-      "published": "2026-11-05T21:53:49+00:00",
-      "author": null,
-      "description": "Trump said he signed a proclamation that will prevent future changes to the Oval Office.",
-      "link": "https://www.ndtv.com/world-news/donald-trump-signs-order-to-prevent-future-changes-to-oval-office-12290226#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-11/l85h7ids_donald-trump_625x300_06_November_26.jpeg",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
-      "id": "t3_1xovc7c",
-      "title": "A bad omen? Syria bans women from university courses",
-      "published": "2026-11-05T21:47:54+00:00",
-      "author": "/u/ButterscotchBoth5204",
-      "description": "submitted by /u/ButterscotchBoth5204 [link] [comments]",
-      "link": "https://www.reddit.com/r/worldnews/comments/1xovc7c/a_bad_omen_syria_bans_women_from_university/",
-      "image": "https://external-preview.redd.it/kkukrBIEsOz951pSgKXRUYbZWMksV3SKYnMgTKFJ49U.jpeg?width=640&crop=smart&auto=webp&s=ae43db87efd996dfca7ae3d020f83174f2d0e8cb",
-      "feed_name": "World News",
-      "feed_title": "World News",
-      "category": "World News",
-      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
-      "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/05/world/europe/finland-fitburg-russia-ship-baltic-cables-sabotage.html",
-      "title": "Finland Sends 2 Men to Prison for Damaging Undersea Cable in Baltic Sea",
-      "published": "2026-11-05T21:34:35+00:00",
-      "author": "Amelia Nierenberg and Johanna Lemola",
-      "description": "A Finnish court convicted the captain and boatswain of a cargo ship of aggravated criminal damage in relation to an incident last year in the Gulf of Finland.",
-      "link": "https://www.nytimes.com/2026/11/05/world/europe/finland-fitburg-russia-ship-baltic-cables-sabotage.html",
-      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-finland-ship-jvkl/05int-finland-ship-jvkl-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     }
   ]
 }
