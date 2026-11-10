@@ -1,9 +1,51 @@
 {
   "category": "DIY",
-  "updated": "2026-11-10T13:32:29.033656+00:00",
+  "updated": "2026-11-10T14:03:46.236622+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/windows-reduce-ram-usage-tips/",
+      "title": "Windows was using way too much RAM — these fixes solved it",
+      "published": "2026-11-10T14:00:16+00:00",
+      "author": "Pankil Shah",
+      "description": "Your PC does not need more RAM, it just needs a proper cleanup.",
+      "link": "https://www.makeuseof.com/windows-reduce-ram-usage-tips/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/windows-11-task-manager-showing-high-memory-usage.png",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.makeuseof.com/adobe-taking-vibe-coding-beyond-apps-with-major-announcements-at-max-2026/",
+      "title": "Adobe is taking vibe coding beyond apps with these major announcements at MAX 2026",
+      "published": "2026-11-10T14:00:16+00:00",
+      "author": "Mahnoor Faisal",
+      "description": "Adobe is MAX-imizing the AI hype",
+      "link": "https://www.makeuseof.com/adobe-taking-vibe-coding-beyond-apps-with-major-announcements-at-max-2026/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/img_1074.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/old-android-phone-jellyfin-media-server/",
+      "title": "I turned an old Android phone into a Jellyfin media server that beats any Raspberry Pi",
+      "published": "2026-11-10T14:00:15+00:00",
+      "author": "Adam Davidson",
+      "description": "Why stream to a phone when you can stream from a phone?",
+      "link": "https://www.howtogeek.com/old-android-phone-jellyfin-media-server/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/a-movie-playing-on-an-iphone-15-pro-which-is-lying-on-top-of-a-samsung-galaxy-s8-running-jellyfin-in-termux.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/i-turned-my-old-surface-pro-into-a-wireless-drawing-tablet-for-free/",
       "title": "I turned my old Surface Pro into a wireless drawing tablet for free",
@@ -13961,48 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://hackaday.com/blog/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/windows-modding-is-back-and-the-open-source-tools-are-better-than-microsofts-own/",
-      "title": "Windows modding is back, and the open-source tools are better than Microsoft's own",
-      "published": "2026-10-27T00:00:15+00:00",
-      "author": "Goran Damnjanovic",
-      "description": "If you want to mod Windows, open source is the best route.",
-      "link": "https://www.howtogeek.com/windows-modding-is-back-and-the-open-source-tools-are-better-than-microsofts-own/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/pxl_20261023_081545535-raw-02-original-1.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://hackaday.com/?p=1393748",
-      "title": "Enable Resizable BAR on Unsupported Motherboards",
-      "published": "2026-10-26T23:00:42+00:00",
-      "author": "Maya Posch",
-      "description": "Recently [Rod Burlamaqui] released the arc-rebar project on GitHub, enabling Intel GPUs to work significantly more efficiently if the system’s mainboard does not support resizable BAR. It does require a …read more",
-      "link": "https://hackaday.com/2026/10/26/enable-resizable-bar-on-unsupported-motherboards/",
-      "image": "https://hackaday.com/wp-content/uploads/2026/10/arc-rebar_fix_rod_burlamaqui_github.png",
-      "feed_name": "Blog – Hackaday",
-      "feed_title": "Blog – Hackaday",
-      "category": "DIY",
-      "feed_url": "https://hackaday.com/blog/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/jailbroken-kindle-updates-goodreads-automatically/",
-      "title": "I made my jailbroken Kindle update Goodreads automatically and now my reading stats are always up to date",
-      "published": "2026-10-26T22:30:15+00:00",
-      "author": "Adam Davidson",
-      "description": "Now I can fall behind my reading goals automatically.",
-      "link": "https://www.howtogeek.com/jailbroken-kindle-updates-goodreads-automatically/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/the-book-mrs-dalloway-on-a-kindle-4-with-goodreads-open-on-an-iphone-showing-the-reading-progress-for-mrs-dalloway.png",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
     }
   ]
 }
