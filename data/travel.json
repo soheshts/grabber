@@ -1,9 +1,37 @@
 {
   "category": "travel",
-  "updated": "2026-11-10T15:33:44.342605+00:00",
-  "count": 148,
+  "updated": "2026-11-10T16:03:57.948981+00:00",
+  "count": 149,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/11/10/travel/homicide-investigation-cruise-ship-texas.html",
+      "title": "Passenger Arrested in Connection to Possible Homicide on Cruise Ship Off Texas Coast",
+      "published": "2026-11-10T16:00:34+00:00",
+      "author": "Ceylan Yeğinsu",
+      "description": "The F.B.I. is investigating the death of a passenger on the Caribbean-bound MSC Seascape, which departed from Galveston on Monday.",
+      "link": "https://www.nytimes.com/2026/11/10/travel/homicide-investigation-cruise-ship-texas.html",
+      "image": "https://static01.nyt.com/images/2026/11/10/realestate/trav-msc-homicide/trav-msc-homicide-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Travel",
+      "feed_title": "NYT > Travel",
+      "category": "travel",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/10/t-magazine/walking-across-england-coast-to-coast.html",
+      "title": "To Understand My Place in England, I Decided to Walk Across It",
+      "published": "2026-11-10T15:56:57+00:00",
+      "author": "Aatish Taseer and John Riddy",
+      "description": "A lone traveler finds fellowship among the ramblers as he hikes 192 miles, moving from coast to coast.",
+      "link": "https://www.nytimes.com/2026/11/10/t-magazine/walking-across-england-coast-to-coast.html",
+      "image": null,
+      "feed_name": "NYT > Travel",
+      "feed_title": "NYT > Travel",
+      "category": "travel",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "https://www.atlasobscura.com/places/grissom-air-museum",
       "title": "Grissom Air Museum in Peru, Indiana",
@@ -17,20 +45,6 @@
       "category": "travel",
       "feed_url": "https://www.atlasobscura.com/feeds/latest",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.atlasobscura.com&sz=64"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/10/t-magazine/walking-across-england-coast-to-coast.html",
-      "title": "To Understand My Place in England, I Decided to Walk Across It",
-      "published": "2026-11-10T14:27:49+00:00",
-      "author": "Aatish Taseer and John Riddy",
-      "description": "A lone traveler finds fellowship among the ramblers as he hikes 192 miles, moving from coast to coast.",
-      "link": "https://www.nytimes.com/2026/11/10/t-magazine/walking-across-england-coast-to-coast.html",
-      "image": null,
-      "feed_name": "NYT > Travel",
-      "feed_title": "NYT > Travel",
-      "category": "travel",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://www.nytimes.com/2026/11/10/travel/vietnam-coast-beaches-resorts.html",
