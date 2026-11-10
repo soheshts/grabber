@@ -1,9 +1,23 @@
 {
   "category": "travel",
-  "updated": "2026-11-10T18:33:15.238080+00:00",
+  "updated": "2026-11-10T19:03:05.395694+00:00",
   "count": 150,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/11/05/travel/new-york-city-cheap-hotels.html",
+      "title": "NYC’s Secret Budget Hotel Hack: Religious Guesthouses",
+      "published": "2026-11-10T18:51:55+00:00",
+      "author": "Jolene Latimer and Hiroko Masuike",
+      "description": "Staying near prime tourist attractions in Manhattan can cost hundreds, even thousands, of dollars a night. These five properties welcome budget travelers of any faith.",
+      "link": "https://www.nytimes.com/2026/11/05/travel/new-york-city-cheap-hotels.html",
+      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04trav-ny-guesthouses-PROMO-jfhc/04trav-ny-guesthouses-PROMO-jfhc-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Travel",
+      "feed_title": "NYT > Travel",
+      "category": "travel",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "https://www.atlasobscura.com/places/bundesbudchen",
       "title": "Bundesbüdchen in Bonn, Germany",
@@ -493,20 +507,6 @@
       "category": "travel",
       "feed_url": "https://www.atlasobscura.com/feeds/latest",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.atlasobscura.com&sz=64"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/05/travel/new-york-city-cheap-hotels.html",
-      "title": "NYC’s Secret Budget Hotel Hack: Religious Guesthouses",
-      "published": "2026-11-05T10:00:35+00:00",
-      "author": "Jolene Latimer and Hiroko Masuike",
-      "description": "Staying near prime tourist attractions in Manhattan can cost hundreds, even thousands, of dollars a night. These five properties welcome budget travelers of any faith.",
-      "link": "https://www.nytimes.com/2026/11/05/travel/new-york-city-cheap-hotels.html",
-      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04trav-ny-guesthouses-PROMO-jfhc/04trav-ny-guesthouses-PROMO-jfhc-mediumSquareAt3X.jpg",
-      "feed_name": "NYT > Travel",
-      "feed_title": "NYT > Travel",
-      "category": "travel",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://www.theguardian.com/travel/2026/nov/05/locals-guide-belgrade-best-sights-restaurants-nightlife",
