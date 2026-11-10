@@ -1,6 +1,6 @@
 {
   "category": "science",
-  "updated": "2026-11-10T13:03:33.957590+00:00",
+  "updated": "2026-11-10T13:32:29.033656+00:00",
   "count": 1000,
   "summary": null,
   "items": [
@@ -739,6 +739,20 @@
       "author": "Elliot Yates",
       "description": "Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03578-y Public confidence in scientists’ use of generative artificial intelligence remains high, but that trust comes with conditions.",
       "link": "https://www.nature.com/articles/d41586-026-03578-y",
+      "image": null,
+      "feed_name": "Nature",
+      "feed_title": "Nature",
+      "category": "science",
+      "feed_url": "https://www.nature.com/nature.rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=feeds.nature.com&sz=64"
+    },
+    {
+      "id": "https://www.nature.com/articles/d41586-026-03589-9",
+      "title": "Mongolia’s iconic grasslands are in crisis — invisible fungi could help save them",
+      "published": "2026-11-10T00:00:00+00:00",
+      "author": "April Reese",
+      "description": "Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03589-9 Clues from Mongolia suggest that underground fungal networks might be key for reviving degraded land and preserving plant biodiversity.",
+      "link": "https://www.nature.com/articles/d41586-026-03589-9",
       "image": null,
       "feed_name": "Nature",
       "feed_title": "Nature",
@@ -13989,20 +14003,6 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "https://www.scientificamerican.com/article/how-to-fall-back-this-weekend-without-losing-your-mind/",
-      "title": "How to ‘fall back’ this weekend without losing your mind",
-      "published": "2026-10-31T10:30:00+00:00",
-      "author": null,
-      "description": "Time changes are more disruptive to our health than you might think. Here are some tips for a smooth transition",
-      "link": "https://www.scientificamerican.com/article/how-to-fall-back-this-weekend-without-losing-your-mind/",
-      "image": "https://static.scientificamerican.com/dam/asset/6a2c543e-1e9a-4513-924a-1a1feac18f23/DST.jpg?m=1793392957.605&w=1200",
-      "feed_name": "Scientific American Content: Global",
-      "feed_title": "Scientific American Content: Global",
-      "category": "science",
-      "feed_url": "http://rss.sciam.com/ScientificAmerican-Global",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.scientificamerican.com&sz=64"
     }
   ]
 }
