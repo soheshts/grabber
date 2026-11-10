@@ -1,9 +1,23 @@
 {
   "category": "travel",
-  "updated": "2026-11-10T10:03:52.956580+00:00",
-  "count": 145,
+  "updated": "2026-11-10T10:32:22.260966+00:00",
+  "count": 146,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/11/10/t-magazine/walking-across-england-coast-to-coast.html",
+      "title": "To Understand My Place in England, I Decided to Walk Across It",
+      "published": "2026-11-10T10:02:07+00:00",
+      "author": "Aatish Taseer and John Riddy",
+      "description": "A lone traveler finds fellowship among the ramblers as he hikes 192 miles, moving from coast to coast.",
+      "link": "https://www.nytimes.com/2026/11/10/t-magazine/walking-across-england-coast-to-coast.html",
+      "image": null,
+      "feed_name": "NYT > Travel",
+      "feed_title": "NYT > Travel",
+      "category": "travel",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "https://www.nytimes.com/2026/11/10/travel/vietnam-coast-beaches-resorts.html",
       "title": "A Guide to the Best Beaches in Vietnam",
