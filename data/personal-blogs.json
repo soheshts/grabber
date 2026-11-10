@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-10T14:33:16.420872+00:00",
-  "count": 442,
+  "updated": "2026-11-10T15:04:03.354142+00:00",
+  "count": 443,
   "summary": null,
   "items": [
     {
@@ -31,6 +31,20 @@
       "category": "personal blogs",
       "feed_url": "https://www.michaelcattell.com/feed.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=localhost:4000&sz=64"
+    },
+    {
+      "id": "https://ronaldsvilcins.com/2026/11/10/what-css-appearance-actually-does/",
+      "title": "What CSS appearance Actually Does",
+      "published": "2026-11-10T06:00:00+00:00",
+      "author": "Ronalds Vilciņš",
+      "description": "CSS appearance changes a native control's presentation while keeping its functionality. Restyle a select, retain its cues, and know when to leave it alone.",
+      "link": "https://ronaldsvilcins.com/2026/11/10/what-css-appearance-actually-does/",
+      "image": "https://ronaldsvilcins.com/og/1cc1ce9ed62ecd73c448886049b80468ebb6ae9f5dfbde1a2705afeec80634ca.jpg",
+      "feed_name": "Ronalds Vilciņš",
+      "feed_title": "Ronalds Vilciņš",
+      "category": "personal blogs",
+      "feed_url": "https://ronaldsvilcins.com/atom.xml",
+      "feed_icon": "https://ronaldsvilcins.com/favicon.png"
     },
     {
       "id": "https://www.bennadel.com/blog/4925-adding-multipart-form-data-support-to-my-parameter-grouping-polyfill-in-adobe-coldfusion.htm",
