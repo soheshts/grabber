@@ -1,6 +1,6 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-10T11:33:40.689918+00:00",
+  "updated": "2026-11-10T12:03:43.697240+00:00",
   "count": 442,
   "summary": null,
   "items": [
@@ -87,6 +87,20 @@
       "category": "personal blogs",
       "feed_url": "https://www.ryangittings.co.uk/feed.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.ryangittings.co.uk&sz=64"
+    },
+    {
+      "id": "https://www.tempertemper.net/blog/how-to-dismiss-a-popover-or-dialog",
+      "title": "How to dismiss a popover or dialog",
+      "published": "2026-11-10T00:00:00+00:00",
+      "author": "Martin Underhill",
+      "description": "There are a bunch of ways to dismiss popovers and dialogs. Here’s what they are, how they work, and where you might use them.",
+      "link": "https://www.tempertemper.net/blog/how-to-dismiss-a-popover-or-dialog",
+      "image": "https://www.tempertemper.net/assets/img/summary.png",
+      "feed_name": "tempertemper",
+      "feed_title": "tempertemper",
+      "category": "personal blogs",
+      "feed_url": "https://www.tempertemper.net/feeds/main.xml",
+      "feed_icon": "https://www.tempertemper.net/assets/img/icons/favicon.png"
     },
     {
       "id": "https://www.aaron-gustafson.com/notebook/system-colors-need-to-work-together/",
@@ -5463,20 +5477,6 @@
       "category": "personal blogs",
       "feed_url": "https://chriscoyier.net/feed/",
       "feed_icon": "https://i0.wp.com/chriscoyier.net/wp-content/uploads/2021/07/IsUISvAq_400x400.jpg?fit=32%2C32&quality=89&ssl=1"
-    },
-    {
-      "id": "https://shkspr.mobi/blog/?p=76333",
-      "title": "I paid people to try and follow my README",
-      "published": "2026-10-11T11:34:39+00:00",
-      "author": "Terence Eden",
-      "description": "Developers suck at writing documentation. We like to say RTFM but often there ain't no FM to R. At best we have a half-arsed collection of notes, some obsolete tips, and a link to a desolate forum full of people asking the same questions again and again. That's no way to treat our users. I naïvely believe there's a better way. As I've written before, you should sit down and actually test your …",
-      "link": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
-      "image": "https://shkspr.mobi/blog/wp-content/themes/edent-wordpress-theme/info/okgo.php?ID=76333&HTTP_REFERER=Atom",
-      "feed_name": "Terence Eden’s Blog",
-      "feed_title": "Terence Eden’s Blog",
-      "category": "personal blogs",
-      "feed_url": "https://shkspr.mobi/blog/feed/atom/",
-      "feed_icon": "https://shkspr.mobi/blog/wp-content/uploads/2023/07/cropped-avatar-32x32.jpeg"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
