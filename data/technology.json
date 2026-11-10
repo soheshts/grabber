@@ -1,9 +1,23 @@
 {
   "category": "technology",
-  "updated": "2026-11-10T11:03:41.078513+00:00",
+  "updated": "2026-11-10T11:33:40.689918+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.theverge.com/?p=1029665",
+      "title": "Seagate’s FireCuda Forge moves your data between a hard drive and SSD for better performance",
+      "published": "2026-11-10T11:01:00+00:00",
+      "author": "Andrew Liszewski",
+      "description": "Seagate announced a new external storage solution, called the FireCuda Forge, that combines the speed benefits of an SSD with the affordability of a higher-capacity hard drive. The Forge is the first drive that's powered by the company's new Alkemi intelligent storage platform, which learns how your data is used and relocates the files you're […]",
+      "link": "https://www.theverge.com/tech/1029665/seagate-firecuda-forge-hybrid-ssd-hard-drive-storage-alkemi-technology",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/seagate1.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "feed_name": "The Verge -  All Posts",
+      "feed_title": "The Verge",
+      "category": "technology",
+      "feed_url": "https://www.theverge.com/rss/index.xml",
+      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
+    },
     {
       "id": "https://tech.slashdot.org/story/26/11/09/2239245/uber-is-launching-its-own-parking-reservation-service?utm_source=rss1.0mainlinkanon&utm_medium=feed",
       "title": "Uber Is Launching Its Own Parking Reservation Service",
@@ -31,6 +45,34 @@
       "category": "technology",
       "feed_url": "http://stratechery.com/feed/",
       "feed_icon": "https://i0.wp.com/stratechery.com/wp-content/uploads/2018/03/cropped-android-chrome-512x512-1.png?fit=32%2C32&ssl=1"
+    },
+    {
+      "id": "https://www.theverge.com/?p=1029837",
+      "title": "Real Motors’ Project Ares is a cyberpunk fantasy made real",
+      "published": "2026-11-10T11:00:00+00:00",
+      "author": "Tim Stevens",
+      "description": "Electrification has done wonderful things for motorcycle design. By getting rid of the engine and the fuel tank that supports it, designers have the freedom to do whatever they want, and the results have been occasionally brilliant. I'm a big fan of the vaguely retrofuturistic stylings of the Maeving RM2 and the quirky minimalism of […]",
+      "link": "https://www.theverge.com/transportation/1029837/real-motors-project-ares-electric-motorcycle-first-ride",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/2026-Real-Motors-Project-Ares-009.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "feed_name": "The Verge -  All Posts",
+      "feed_title": "The Verge",
+      "category": "technology",
+      "feed_url": "https://www.theverge.com/rss/index.xml",
+      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
+    },
+    {
+      "id": "TheNextWeb=8c42b3c1908d560cd922a92a128f71d7",
+      "title": "Siemens to buy chip debugging specialist Lauterbach to grow its EDA unit",
+      "published": "2026-11-10T10:56:51+00:00",
+      "author": "Ana-Maria Stanciuc",
+      "description": "Siemens has agreed to buy Lauterbach, a German company that makes tools for finding and fixing bugs in chips and the software that runs on them, but the price was not disclosed. Founded in 1979 by brothers Lothar and Stephan Lauterbach, the company is based in Höhenkirchen, near Munich. It employs about 170 people and […] This story continues at The Next Web",
+      "link": "https://thenextweb.com/news/siemens-acquires-lauterbach-trace32-eda",
+      "image": "https://media.thenextweb.com/2026/11/three-white-trace32-debug-probes-ribbon-cables.avif",
+      "feed_name": "The Next Web",
+      "feed_title": "The Next Web",
+      "category": "technology",
+      "feed_url": "https://thenextweb.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
     },
     {
       "id": "TheNextWeb=d91b288f49dcb6e1b99159c63bbdbdae",
@@ -13961,48 +14003,6 @@
       "category": "technology",
       "feed_url": "https://thenextweb.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
-    },
-    {
-      "id": "TheNextWeb=a07f6506a576153185312d8ced49712d",
-      "title": "Cyberattack pushed French blood bank freezers to extreme temperatures",
-      "published": "2026-11-04T14:57:07+00:00",
-      "author": "Ana-Maria Stanciuc",
-      "description": "Hackers took control of cold rooms holding blood plasma at three sites of France’s national blood service. They pushed the temperature settings to extreme levels. Yet, alarms caught the change before any plasma or samples were damaged, the Établissement français du sang (EFS) said on Tuesday. The EFS itself was not the target, it said. […] This story continues at The Next Web",
-      "link": "https://thenextweb.com/news/efs-french-blood-service-cyberattack",
-      "image": "https://media.thenextweb.com/2026/11/efs-blood-donation-cabin-sens-red-drop.avif",
-      "feed_name": "The Next Web",
-      "feed_title": "The Next Web",
-      "category": "technology",
-      "feed_url": "https://thenextweb.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
-    },
-    {
-      "id": "TheNextWeb=31a21db103dfc59d3ab2045a9b6b1e20",
-      "title": "ElevenLabs could start preparing for an IPO in 2028, its CEO says",
-      "published": "2026-11-04T14:48:43+00:00",
-      "author": "Cristian Dina",
-      "description": "ElevenLabs could start preparing for an initial public offering (IPO) in 2028, chief executive Mati Staniszewski said on Tuesday. He spoke to Bloomberg’s Tom Mackenzie at the Bloomberg Tech event in London, as Yazhou Sun reported for Bloomberg. “We’d love to IPO, build a public company, build that step in a longer journey. IPO of […] This story continues at The Next Web",
-      "link": "https://thenextweb.com/news/elevenlabs-ipo-2028-mati-staniszewski-bloomberg-tech",
-      "image": "https://media.thenextweb.com/2026/10/mati-staniszewski-elevenlabs-ceo-speaking-all-in-raise-summit-paris.avif",
-      "feed_name": "The Next Web",
-      "feed_title": "The Next Web",
-      "category": "technology",
-      "feed_url": "https://thenextweb.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
-    },
-    {
-      "id": "024r1MpwZc9j20pW1ElcwyG",
-      "title": "Juiced Bikes has launched an early Black Friday sale: Score $345 in free gear",
-      "published": "2026-11-04T14:47:46+00:00",
-      "author": null,
-      "description": "Juiced Bikes launched its Black Friday and holiday promotions, offering up to $415 in savings, cash discounts, and free gear bundles on Scrambler e-bikes.",
-      "link": "https://mashable.com/tech/juiced-bikes-black-friday-sale-deals",
-      "image": "https://helios-i.mashable.com/imagery/articles/024r1MpwZc9j20pW1ElcwyG/hero-image.jpg",
-      "feed_name": "Mashable",
-      "feed_title": "Mashable",
-      "category": "technology",
-      "feed_url": "http://feeds.mashable.com/Mashable",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
     }
   ]
 }

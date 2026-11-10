@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-10T11:03:41.078513+00:00",
+  "updated": "2026-11-10T11:33:40.689918+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/gmail-setting-turned-off-default-saves-me-time-repetitive-emails/",
+      "title": "This Gmail setting is off by default, and it saves me time on repetitive emails",
+      "published": "2026-11-10T11:30:17+00:00",
+      "author": "Shimul Sood",
+      "description": "Gmail, you could've told me sooner.",
+      "link": "https://www.makeuseof.com/gmail-setting-turned-off-default-saves-me-time-repetitive-emails/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/03/gmail-on-mobile.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/hidden-carrier-features-on-android-are-privacy-tool-never-thought-audit/",
+      "title": "Hidden carrier features on Android are the privacy tool I never thought to audit",
+      "published": "2026-11-10T11:30:16+00:00",
+      "author": "Jorge A. Aguilar",
+      "description": "Your Galaxy's preloaded T-Mobile software can be disabled with one ADB command.",
+      "link": "https://www.howtogeek.com/hidden-carrier-features-on-android-are-privacy-tool-never-thought-audit/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/auto-shazam-tile-quick-settings-android.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/you-might-play-ps5-games-on-your-pc-before-you-ever-play-gta-6-on-it/",
       "title": "You might play PS5 games on your PC before you ever play GTA 6 on it",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://hackaday.com/blog/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/laptop-makers-finally-have-an-excuse-to-stop-soldering-down-ram/",
-      "title": "Laptop makers finally have an excuse to stop soldering down RAM",
-      "published": "2026-10-26T19:31:16+00:00",
-      "author": "Gavin Phillips",
-      "description": "Soldered RAM has many benefits, but it could be time to switch.",
-      "link": "https://www.makeuseof.com/laptop-makers-finally-have-an-excuse-to-stop-soldering-down-ram/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2026/10/lpcamm2-module-in-laptop-with-rear-tray-removed-1.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/quick-3d-prints-fixed-the-little-annoyances-id-ignored-around-my-house-for-years/",
-      "title": "3 quick 3D prints fixed the little annoyances I’d ignored around my house for years",
-      "published": "2026-10-26T19:30:15+00:00",
-      "author": "Patrick Campanale",
-      "description": "You don’t need a big project to get real use out of a 3D printer.",
-      "link": "https://www.howtogeek.com/quick-3d-prints-fixed-the-little-annoyances-id-ignored-around-my-house-for-years/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/bambu-lab-p2s-printer.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
     }
   ]
 }
