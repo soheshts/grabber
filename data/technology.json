@@ -1,9 +1,37 @@
 {
   "category": "technology",
-  "updated": "2026-11-10T21:03:09.569539+00:00",
+  "updated": "2026-11-10T21:33:20.451611+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "5191101",
+      "title": "Dot-eat? Google Introduces 3 More Top-Level Domain Names",
+      "published": "2026-11-10T21:15:12+00:00",
+      "author": "Tyler Graham",
+      "description": "Prospective website owners can now register domains ending in .eat, .fly and .here.",
+      "link": "https://www.cnet.com/tech/dot-eat-dot-fly-dot-here-new-domains/",
+      "image": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2165157859.jpg",
+      "feed_name": "CNET News",
+      "feed_title": "News – CNET",
+      "category": "technology",
+      "feed_url": "https://www.cnet.com/rss/news/",
+      "feed_icon": "https://www.cnet.com/wp-content/uploads/sites/2/cropped-favicon-480.png?w=32"
+    },
+    {
+      "id": "https://www.theverge.com/?p=1031242",
+      "title": "Sony cancels live-service shooter Fairgames",
+      "published": "2026-11-10T21:06:12+00:00",
+      "author": "Jay Peters",
+      "description": "Sony has canceled Fairgames, a heist game announced in 2023, according to Bloomberg. Fairgames had once been part of Sony's big planned push for PlayStation live service games, but the company ended up canceling some planned live service titles, including in the God of War and The Last of Us franchises, and it shut down […]",
+      "link": "https://www.theverge.com/games/1031242/sony-playstation-fairgames-canceled",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK097_01.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "feed_name": "The Verge -  All Posts",
+      "feed_title": "The Verge",
+      "category": "technology",
+      "feed_url": "https://www.theverge.com/rss/index.xml",
+      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
+    },
     {
       "id": "https://www.engadget.com/2307790/what-is-dead-internet-theory/",
       "title": "What is the 'Dead Internet Theory' and should humanity be worried?",
@@ -17,6 +45,20 @@
       "category": "technology",
       "feed_url": "https://www.engadget.com/rss.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
+    {
+      "id": "https://tech.slashdot.org/story/26/11/10/2023200/anthropic-launches-new-workplace-features-to-take-on-microsoft-and-google?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "title": "Anthropic Launches New Workplace Features To Take On Microsoft and Google",
+      "published": "2026-11-10T21:00:00+00:00",
+      "author": "BeauHD",
+      "description": "An anonymous reader quotes a report from TechCrunch: Anthropic announced new workplace features on Tuesday, including Claude Meetings, which brings Claude into video calls to begin working on tasks while participants are still talking. The company also unveiled Claude Whiteboards and Claude Sheets. The launch of Anthropic's new productivity-focused features comes just a few weeks after OpenAI unveiled a series of workplace tools that allow users to collaborate with ChatGPT to do things like vis…",
+      "link": "https://tech.slashdot.org/story/26/11/10/2023200/anthropic-launches-new-workplace-features-to-take-on-microsoft-and-google?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+      "feed_name": "Slashdot",
+      "feed_title": "Slashdot",
+      "category": "technology",
+      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
     },
     {
       "id": "yt:video:Bnbw0JOU6RA",
@@ -13961,48 +14003,6 @@
       "category": "technology",
       "feed_url": "http://feeds.mashable.com/Mashable",
       "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
-    },
-    {
-      "id": "https://www.theverge.com/?p=1027358",
-      "title": "Playstation and Spider-Man performance see Sony profits surge",
-      "published": "2026-11-05T11:00:15+00:00",
-      "author": "Jess Weatherbed",
-      "description": "Sony is enjoying a sharp profit spike in its latest quarterly financials, largely driven by its PlayStation business and the blockbuster success of Spider-Man: Brand New Day. According to the company's September earnings, Sony's net profits climbed to 449.60 billion yen (about $2.84 billion) for the three months ended September - a 44 percent increase […]",
-      "link": "https://www.theverge.com/tech/1027358/sony-q2-2026-earnings-spider-man-playstation",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/spider-man-brand-new-day.png?quality=90&strip=all&crop=0,0,100,100",
-      "feed_name": "The Verge -  All Posts",
-      "feed_title": "The Verge",
-      "category": "technology",
-      "feed_url": "https://www.theverge.com/rss/index.xml",
-      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
-    },
-    {
-      "id": "https://www.theverge.com/?p=1026716",
-      "title": "Amazon is getting back into restaurant delivery with Uber Eats team-up",
-      "published": "2026-11-05T11:00:00+00:00",
-      "author": "Andrew J. Hawkins",
-      "description": "Amazon and Uber are teaming up to make Uber Eats the official restaurant delivery partner for Prime subscribers in the US. The news comes as Uber faces a drastically reshaped competitive landscape with the merging of rivals DoorDash and Instacart. Under the new partnership, Amazon Prime subscribers will get $0 delivery fees on restaurant orders […]",
-      "link": "https://www.theverge.com/tech/1026716/amazon-uber-eats-prime-restaurant-delivery-partnership",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/19218417/acastro_190920_1777_amazon_0001.0.png?quality=90&strip=all&crop=0,0,100,100",
-      "feed_name": "The Verge -  All Posts",
-      "feed_title": "The Verge",
-      "category": "technology",
-      "feed_url": "https://www.theverge.com/rss/index.xml",
-      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
-    },
-    {
-      "id": "https://stratechery.com/?p=21029",
-      "title": "An Interview With Intuit CEO Sasan Goodarzi About Accounting and AI",
-      "published": "2026-11-05T11:00:00+00:00",
-      "author": "Ben Thompson",
-      "description": "An interview with Intuit CEO Sasan Goodarzi about the working for one of tech's oldest software companies, and how Intuit is leaning into the AI paradigm shift.",
-      "link": "https://stratechery.com/2026/an-interview-with-intuit-ceo-sasan-goodarzi-about-accounting-and-ai/",
-      "image": "https://i0.wp.com/stratechery.com/wp-content/uploads/2026/10/Stripe-wordmark-Blurple-Small.png?resize=330%2C138&ssl=1",
-      "feed_name": "Stratechery by Ben Thompson",
-      "feed_title": "Stratechery by Ben Thompson",
-      "category": "technology",
-      "feed_url": "http://stratechery.com/feed/",
-      "feed_icon": "https://i0.wp.com/stratechery.com/wp-content/uploads/2018/03/cropped-android-chrome-512x512-1.png?fit=32%2C32&ssl=1"
     }
   ]
 }
