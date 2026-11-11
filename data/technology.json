@@ -1,9 +1,23 @@
 {
   "category": "technology",
-  "updated": "2026-11-11T10:33:48.997911+00:00",
+  "updated": "2026-11-11T11:03:06.932985+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://stratechery.com/?p=21146",
+      "title": "Intel Earnings, AMD Earnings, Intel and AMD’s Divergence",
+      "published": "2026-11-11T11:00:00+00:00",
+      "author": "Ben Thompson",
+      "description": "Intel and AMD's diverging earnings point to fundamental historical differences, and make me wonder if Intel needs to find a new (old) path.",
+      "link": "https://stratechery.com/2026/intel-earnings-amd-earnings-intel-and-amds-divergence/",
+      "image": null,
+      "feed_name": "Stratechery by Ben Thompson",
+      "feed_title": "Stratechery by Ben Thompson",
+      "category": "technology",
+      "feed_url": "http://stratechery.com/feed/",
+      "feed_icon": "https://i0.wp.com/stratechery.com/wp-content/uploads/2018/03/cropped-android-chrome-512x512-1.png?fit=32%2C32&ssl=1"
+    },
     {
       "id": "https://www.engadget.com/2313113/lucid-q3-2026-losing-cars/",
       "title": "Lucid CEO says the company didn't know where its own cars were",
@@ -13989,20 +14003,6 @@
       "category": "technology",
       "feed_url": "https://thenextweb.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
-    },
-    {
-      "id": "https://www.engadget.com/2307946/lyfts-new-subscription-bundles-in-doordashs-dashpass-for-dollar10-per-month/",
-      "title": "Lyft's new subscription bundles in DoorDash's DashPass for $10 per month",
-      "published": "2026-11-05T16:29:38+00:00",
-      "author": "Kris Holt",
-      "description": "DashPass members can get Lyft Go at no extra cost.",
-      "link": "https://www.engadget.com/2307946/lyfts-new-subscription-bundles-in-doordashs-dashpass-for-dollar10-per-month/",
-      "image": "https://www.engadget.com/img/gallery/lyfts-new-subscription-bundles-in-doordashs-dashpass-for-10-per-month/l-intro-1793896135.jpg",
-      "feed_name": "Engadget",
-      "feed_title": "Engadget - Technology News & Expert Reviews",
-      "category": "technology",
-      "feed_url": "https://www.engadget.com/rss.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
     }
   ]
 }
