@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-11T19:32:50.288347+00:00",
-  "count": 450,
+  "updated": "2026-11-11T20:02:35.233603+00:00",
+  "count": 449,
   "summary": null,
   "items": [
     {
@@ -5575,20 +5575,6 @@
       "category": "personal blogs",
       "feed_url": "http://www.bennadel.com/index.cfm?dax=blog.rss&lst_tag_id=14,16,3,5,9,6,7,13,18,20,10,15",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.bennadel.com&sz=64"
-    },
-    {
-      "id": "https://www.aaron-gustafson.com/notebook/sortable-tables-with-progressive-enhancement/",
-      "title": "Sortable Tables with Progressive Enhancement",
-      "published": "2026-10-12T19:50:32+00:00",
-      "author": "Aaron Gustafson",
-      "description": "Many years ago, I made a little jQuery plugin called Easy Sortable Tables . It works exactly as promised: point it at a table and it upgrades the UI so a reader can sort the rows by clicking a column heading. The functionality is still useful, but I can’t even remember the last time I added jQuery to a site. The web platform’s changed quite a bit since I wrote that plugin, so I decided to modernize it as a web component: <table-sortable> .",
-      "link": "https://www.aaron-gustafson.com/notebook/sortable-tables-with-progressive-enhancement/",
-      "image": "https://www.aaron-gustafson.com/i/share-cards/sortable-tables-with-progressive-enhancement.jpg",
-      "feed_name": "Aaron Gustafson",
-      "feed_title": "Aaron Gustafson: Latest Posts",
-      "category": "personal blogs",
-      "feed_url": "https://www.aaron-gustafson.com/feeds/latest-posts.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.aaron-gustafson.com&sz=64"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
