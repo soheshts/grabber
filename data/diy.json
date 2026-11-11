@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-11T22:34:33.872329+00:00",
+  "updated": "2026-11-11T23:02:34.198508+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.howtogeek.com/netflix-classic-movies-guaranteed-to-leave-you-in-tears/",
+      "title": "4 classic movies on Netflix guaranteed to leave you in tears",
+      "published": "2026-11-11T23:00:15+00:00",
+      "author": "Tyler Dupont",
+      "description": "Have the tissue box close by and ready to go.",
+      "link": "https://www.howtogeek.com/netflix-classic-movies-guaranteed-to-leave-you-in-tears/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/09/netflix-logo-over-a-mountain-sunset-1.png",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/i-tried-this-ultra-cheap-ssd-so-you-dont-have-to/",
       "title": "I tried this ultra-cheap SSD so you don't have to",
@@ -13989,20 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.makeuseof.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/heres-how-i-replicated-3-of-the-googlebooks-best-features-on-a-60-dollar-linux-laptop/",
-      "title": "Here's how I replicated 3 of the Googlebook's best features on a $60 Linux laptop",
-      "published": "2026-10-28T20:00:15+00:00",
-      "author": "Andrew Heinzman",
-      "description": "Turns out, I didn't have to work hard to get a semi-Googlebook experience in Linux",
-      "link": "https://www.howtogeek.com/heres-how-i-replicated-3-of-the-googlebooks-best-features-on-a-60-dollar-linux-laptop/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/mirroring-an-android-phone-screen-on-a-surface-go-running-cachyos-with-a-googlebook-in-the-background.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
     }
   ]
 }

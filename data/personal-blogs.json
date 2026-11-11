@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-11T22:34:33.872329+00:00",
-  "count": 448,
+  "updated": "2026-11-11T23:02:34.198508+00:00",
+  "count": 446,
   "summary": null,
   "items": [
     {
@@ -5533,34 +5533,6 @@
       "category": "personal blogs",
       "feed_url": "http://www.bennadel.com/index.cfm?dax=blog.rss&lst_tag_id=14,16,3,5,9,6,7,13,18,20,10,15",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.bennadel.com&sz=64"
-    },
-    {
-      "id": "https://meiert.com/blog/css-optimization-with-udjo/",
-      "title": "CSS Optimization: Is Using Declarations Just Once (UDJO) Still Effective Today?",
-      "published": "2026-10-12T23:00:00+00:00",
-      "author": null,
-      "description": "On the merit of (and tooling and metrics for) an old CSS maintainability and performance optimization technique.",
-      "link": "https://meiert.com/blog/css-optimization-with-udjo/",
-      "image": null,
-      "feed_name": "Blog (Web Development, Mostly) · Jens Oliver Meiert",
-      "feed_title": "Jens Oliver Meiert · Code Optimization, Digital Defense, World Models",
-      "category": "personal blogs",
-      "feed_url": "https://meiert.com/en/feed/",
-      "feed_icon": "https://meiert.com/media/social.png"
-    },
-    {
-      "id": "https://chriscoyier.net/?p=29827",
-      "title": "Atomic Wall Clocks",
-      "published": "2026-10-12T22:37:41+00:00",
-      "author": "Chris Coyier",
-      "description": "Look at this clock. It’s a clock. I bought it once because I needed… a clock. It’s $29, which is totally reasonable for… a clock. Then it was Daylight Saving Time one day, and I went to update it, but… it was already updated. That’s because: The Atomic Time Feature conveniently allows the clock to […]",
-      "link": "https://chriscoyier.net/2026/10/12/atomic-wall-clocks/",
-      "image": "https://i0.wp.com/chriscoyier.net/wp-content/uploads/2026/10/lacross-atomic-wall-clock.jpg?resize=1024%2C1023&quality=89&ssl=1",
-      "feed_name": "Chris Coyier",
-      "feed_title": "Chris Coyier",
-      "category": "personal blogs",
-      "feed_url": "https://chriscoyier.net/feed/",
-      "feed_icon": "https://i0.wp.com/chriscoyier.net/wp-content/uploads/2021/07/IsUISvAq_400x400.jpg?fit=32%2C32&quality=89&ssl=1"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
