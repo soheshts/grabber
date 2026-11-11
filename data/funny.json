@@ -1,7 +1,7 @@
 {
   "category": "funny",
-  "updated": "2026-11-11T11:33:20.136424+00:00",
-  "count": 531,
+  "updated": "2026-11-11T12:03:58.678244+00:00",
+  "count": 532,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,20 @@
       "category": "funny",
       "feed_url": "https://www.penny-arcade.com/feed",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.penny-arcade.com&sz=64"
+    },
+    {
+      "id": "https://thedailywtf.com/articles/in-the-hole",
+      "title": "In the Hole",
+      "published": "2026-11-11T06:30:00+00:00",
+      "author": "Remy Porter",
+      "description": "Look, I don't want to keep talking about security issues. Blame AI. Just another thing it ruined. At this point, you've probably heard about *sshole . If you haven't, the quick summary: on some Linux systems, SSH will log you in to an account with no password if you supply a password greater than 256 characters long. Frequently, you might make accounts like root nominally inaccessible by giving it no password, so this is a big deal . Worse, it impacts varieties of Linux that use the musl implem…",
+      "link": "https://thedailywtf.com/articles/in-the-hole",
+      "image": "https://thedailywtf.com/images/inedo/buildmaster-icon.png",
+      "feed_name": "The Daily WTF",
+      "feed_title": "The Daily WTF",
+      "category": "funny",
+      "feed_url": "http://syndication.thedailywtf.com/TheDailyWtf",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thedailywtf.com&sz=64"
     },
     {
       "id": "https://thebloggess.com/?p=45476",
