@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-11T13:33:39.939743+00:00",
-  "count": 451,
+  "updated": "2026-11-11T14:03:13.661809+00:00",
+  "count": 452,
   "summary": null,
   "items": [
     {
@@ -87,6 +87,20 @@
       "category": "personal blogs",
       "feed_url": "http://rachsmith.com/rss.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=rachsmith.com&sz=64"
+    },
+    {
+      "id": "https://ronaldsvilcins.com/2026/11/11/fix-flexbox-overflow-with-min-width-0/",
+      "title": "Fix Flexbox Overflow With min-width: 0",
+      "published": "2026-11-11T06:00:00+00:00",
+      "author": "Ronalds Vilciņš",
+      "description": "Use min-width: 0 to let flex items shrink below their automatic minimum. Handle long text, ellipsis, and code blocks without hiding useful content.",
+      "link": "https://ronaldsvilcins.com/2026/11/11/fix-flexbox-overflow-with-min-width-0/",
+      "image": "https://ronaldsvilcins.com/og/58488b6bd5b986bc2865947d24738298bfa74711d39698a1d415dd93280d9cc6.jpg",
+      "feed_name": "Ronalds Vilciņš",
+      "feed_title": "Ronalds Vilciņš",
+      "category": "personal blogs",
+      "feed_url": "https://ronaldsvilcins.com/atom.xml",
+      "feed_icon": "https://ronaldsvilcins.com/favicon.png"
     },
     {
       "id": "https://hamatti.org/posts/theres-a-blog-post-for-everything/",
