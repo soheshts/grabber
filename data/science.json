@@ -1,9 +1,23 @@
 {
   "category": "science",
-  "updated": "2026-11-11T06:32:51.758037+00:00",
+  "updated": "2026-11-11T07:03:51.465256+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmn8w8n5ynq2o#1",
+      "title": "Bid to restore rare Atlantic rainforest secures £6m lottery grant",
+      "published": "2026-11-11T06:37:12+00:00",
+      "author": null,
+      "description": "Hubs offering training in conservation work are to be set up in Torridon, Morvern and mid-Argyll.",
+      "link": "https://www.bbc.co.uk/news/articles/cmn8w8n5ynq2o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69b5/live/154dac30-dd9a-11f1-841d-6fd98310705b.jpg",
+      "feed_name": "BBC News - Science & Environment",
+      "feed_title": "BBC News",
+      "category": "science",
+      "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cm3wvvp5d1qzo#1",
       "title": "Artist creates world's biggest soil painting",
@@ -13989,20 +14003,6 @@
       "category": "science",
       "feed_url": "https://feeds.npr.org/510308/podcast.xml",
       "feed_icon": "https://image.simplecastcdn.com/images/5982e1b7-239c-4b89-81f9-49df1f33fdae/dd71b17c-82bb-441d-a979-e16975aebc1c/3000x3000/hbtilewshankarfinal_rgbsimplecast.jpg?aid=rss_feed"
-    },
-    {
-      "id": "news712832581",
-      "title": "Pearls and bird feathers inspire simpler method for producing structural colors",
-      "published": "2026-11-02T14:40:12+00:00",
-      "author": null,
-      "description": "Colors in nature are not always produced by pigments. Pearls, bird feathers, butterfly wings and opals display brilliant colors through the interaction of light with microscopic structures, a phenomenon known as structural color.",
-      "link": "https://phys.org/news/2026-11-pearls-bird-feathers-simpler-method.html",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/multi-biomimetic-struc.jpg",
-      "feed_name": "Phys.org - latest science and technology news stories",
-      "feed_title": "Phys.org - latest science and technology news stories",
-      "category": "science",
-      "feed_url": "https://phys.org/rss-feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
     }
   ]
 }
