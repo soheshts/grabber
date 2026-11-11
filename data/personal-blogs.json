@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-11T15:33:37.021207+00:00",
-  "count": 451,
+  "updated": "2026-11-11T16:03:56.246719+00:00",
+  "count": 452,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,20 @@
       "category": "personal blogs",
       "feed_url": "http://www.bennadel.com/index.cfm?dax=blog.rss&lst_tag_id=14,16,3,5,9,6,7,13,18,20,10,15",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.bennadel.com&sz=64"
+    },
+    {
+      "id": "https://gomakethings.com/articles/for-and-against/",
+      "title": "For and against",
+      "published": "2026-11-11T14:30:00+00:00",
+      "author": null,
+      "description": "Yesterday, good internet friend Baldur Bjarnason shared a series of shorts he made on why he doesn’t use generative AI, and it got me thinking about how much of my career has spent being against things. Early in my career, I was for web performance and accessibility and building cool things. But as JavaScript frameworks became increasingly ubiquitous, we saw the things I was for start to degrade rapidly. Sites got slower and harder to use.",
+      "link": "https://gomakethings.com/articles/for-and-against/",
+      "image": "https://gomakethings.com/img/og.png",
+      "feed_name": "Go Make Things",
+      "feed_title": "Go Make Things",
+      "category": "personal blogs",
+      "feed_url": "https://gomakethings.com/feed/index.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=gomakethings.com&sz=64"
     },
     {
       "id": "https://www.lukew.com/ff/entry.asp?2171",

@@ -1,9 +1,23 @@
 {
   "category": "travel",
-  "updated": "2026-11-11T15:33:37.021207+00:00",
+  "updated": "2026-11-11T16:03:56.246719+00:00",
   "count": 154,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/11/10/travel/homicide-investigation-cruise-ship-texas.html",
+      "title": "Passenger Arrested in Connection to Possible Homicide on Cruise Ship",
+      "published": "2026-11-11T15:39:55+00:00",
+      "author": "Ceylan Yeğinsu",
+      "description": "The F.B.I. is investigating the death of a female passenger on the Caribbean-bound MSC Seascape, which departed from Galveston on Monday.",
+      "link": "https://www.nytimes.com/2026/11/10/travel/homicide-investigation-cruise-ship-texas.html",
+      "image": "https://static01.nyt.com/images/2026/11/10/realestate/trav-msc-homicide/trav-msc-homicide-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Travel",
+      "feed_title": "NYT > Travel",
+      "category": "travel",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "https://www.atlasobscura.com/places/cossit-house",
       "title": "Cossit House in Sydney, Nova Scotia",
@@ -45,20 +59,6 @@
       "category": "travel",
       "feed_url": "https://www.theguardian.com/uk/travel/rss",
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/10/travel/homicide-investigation-cruise-ship-texas.html",
-      "title": "Passenger Arrested in Connection to Possible Homicide on Cruise Ship",
-      "published": "2026-11-10T19:19:01+00:00",
-      "author": "Ceylan Yeğinsu",
-      "description": "The F.B.I. is investigating the death of a female passenger on the Caribbean-bound MSC Seascape, which departed from Galveston on Monday.",
-      "link": "https://www.nytimes.com/2026/11/10/travel/homicide-investigation-cruise-ship-texas.html",
-      "image": "https://static01.nyt.com/images/2026/11/10/realestate/trav-msc-homicide/trav-msc-homicide-mediumSquareAt3X.jpg",
-      "feed_name": "NYT > Travel",
-      "feed_title": "NYT > Travel",
-      "category": "travel",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://www.atlasobscura.com/places/general-israel-putnam-tombstone",
