@@ -1,9 +1,79 @@
 {
   "category": "technology",
-  "updated": "2026-11-11T20:02:35.233603+00:00",
+  "updated": "2026-11-11T21:02:29.793067+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://tech.slashdot.org/story/26/11/11/2048256/new-york-forces-t-mobile-to-end-data-caps-on-low-income-plans?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "title": "New York Forces T-Mobile to End Data Caps On Low-Income Plans",
+      "published": "2026-11-11T21:00:00+00:00",
+      "author": "BeauHD",
+      "description": "New York has forced T-Mobile to remove a 50GB monthly data cap from its $15 low-income broadband plan after regulators found customers who exceeded the limit had their speeds cut by more than 97%, to just 650 Kbps. \"Additionally, the [Office of the Attorney General (OAG)] found T-Mobile restricted [New York's Affordable Broadband Act (ABA)] plans to areas with 5G coverage, despite offering standard-rate 25 Mbps plans in 4G areas, and intentionally coded its website to hide affordable plans from…",
+      "link": "https://tech.slashdot.org/story/26/11/11/2048256/new-york-forces-t-mobile-to-end-data-caps-on-low-income-plans?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+      "feed_name": "Slashdot",
+      "feed_title": "Slashdot",
+      "category": "technology",
+      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
+    },
+    {
+      "id": "https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says/",
+      "title": "T-Mobile illegally imposed 50 GB cap on low-income home Internet plan, NY says",
+      "published": "2026-11-11T20:32:21+00:00",
+      "author": "Jon Brodkin",
+      "description": "Law requires 25Mbps home Internet. T-Mobile lowers speed to 600Kbps after 50GB cap.",
+      "link": "https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/t-mobile-5g-500x500-1752177364.jpg",
+      "feed_name": "Ars Technica",
+      "feed_title": "Ars Technica",
+      "category": "technology",
+      "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
+      "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
+    },
+    {
+      "id": "01M762T3906HEP67KPVNDHATN1",
+      "title": "The Apple Watch's New 'Siri Recap' Feature Is Even Creepier Than I Expected",
+      "published": "2026-11-11T20:30:00+00:00",
+      "author": "Beth Skwarecki",
+      "description": "Apple Watch's new Audio Intelligence feature is kind of useful—but also, extremely unsettling.",
+      "link": "https://lifehacker.com/tech/apple-watch-new-siri-recap-feature?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M762T3906HEP67KPVNDHATN1/hero-image.jpg",
+      "feed_name": "Lifehacker",
+      "feed_title": "Lifehacker",
+      "category": "technology",
+      "feed_url": "https://lifehacker.com/rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=lifehacker.com&sz=64"
+    },
+    {
+      "id": "https://arstechnica.com/space/2026/11/anduril-demos-night-vision-sensor-for-tracking-satellites-in-darkness/",
+      "title": "Anduril says its first satellite can see adversaries maneuver in orbital night",
+      "published": "2026-11-11T20:22:03+00:00",
+      "author": "Stephen Clark",
+      "description": "\"What's unique is it's got a huge dynamic range. We can see things in full dark.\"",
+      "link": "https://arstechnica.com/space/2026/11/anduril-demos-night-vision-sensor-for-tracking-satellites-in-darkness/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/longwaveirsensor-500x500.jpg",
+      "feed_name": "Ars Technica",
+      "feed_title": "Ars Technica",
+      "category": "technology",
+      "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
+      "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
+    },
+    {
+      "id": "https://www.engadget.com/2314121/united-is-restricting-ai-agents-from-booking-flights/",
+      "title": "United is restricting AI agents from booking flights",
+      "published": "2026-11-11T20:09:44+00:00",
+      "author": "Ian Carlos Campbell",
+      "description": "The airline believes AI poses security risks and may violate DOT and FAA rules.",
+      "link": "https://www.engadget.com/2314121/united-is-restricting-ai-agents-from-booking-flights/",
+      "image": "https://www.engadget.com/img/gallery/united-is-restricting-ai-agents-from-booking-flights/l-intro-1794427706.jpg",
+      "feed_name": "Engadget",
+      "feed_title": "Engadget - Technology News & Expert Reviews",
+      "category": "technology",
+      "feed_url": "https://www.engadget.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
     {
       "id": "https://hardware.slashdot.org/story/26/11/11/1950231/ukraine-strikes-cause-permanent-data-loss-at-russias-yandex-cloud?utm_source=rss1.0mainlinkanon&utm_medium=feed",
       "title": "Ukraine Strikes Cause Permanent Data Loss at Russia's Yandex Cloud",
@@ -17,6 +87,20 @@
       "category": "technology",
       "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
       "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
+    },
+    {
+      "id": "https://www.engadget.com/2314093/google-brings-the-gemini-app-to-apple-carplay/",
+      "title": "Google brings the Gemini app to Apple CarPlay",
+      "published": "2026-11-11T19:54:55+00:00",
+      "author": "Kris Holt",
+      "description": "The chatbot was already available through the Google Maps app.",
+      "link": "https://www.engadget.com/2314093/google-brings-the-gemini-app-to-apple-carplay/",
+      "image": "https://www.engadget.com/img/gallery/google-brings-the-gemini-app-to-apple-carplay/l-intro-1794426857.jpg",
+      "feed_name": "Engadget",
+      "feed_title": "Engadget - Technology News & Expert Reviews",
+      "category": "technology",
+      "feed_url": "https://www.engadget.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
     },
     {
       "id": "https://www.engadget.com/2314064/bytedance-is-reportedly-working-on-its-own-ai-agent/",
@@ -89,6 +173,20 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
     },
     {
+      "id": "07E98Frc7IBRchTVKQK7mom",
+      "title": "Teenage girl gift ideas that are actually unique",
+      "published": "2026-11-11T19:15:43+00:00",
+      "author": null,
+      "description": "If you're buying for a teenager this year, don't just guess. We did serious research to find cool gift ideas that teen girls actually want in 2026.",
+      "link": "https://mashable.com/gifts/best-gifts-for-teenage-girls",
+      "image": "https://helios-i.mashable.com/imagery/roundups/07E98Frc7IBRchTVKQK7mom/hero-image.png",
+      "feed_name": "Mashable",
+      "feed_title": "Mashable",
+      "category": "technology",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
+    },
+    {
       "id": "https://arstechnica.com/space/2026/11/nasa-takes-an-all-hands-on-deck-approach-in-its-return-to-the-moon/",
       "title": "NASA's secret weapon in the lunar space race may be ... procurement reform?",
       "published": "2026-11-11T19:00:26+00:00",
@@ -97,7 +195,7 @@
       "link": "https://arstechnica.com/space/2026/11/nasa-takes-an-all-hands-on-deck-approach-in-its-return-to-the-moon/",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/moon-base-artists-concept-500x500.webp",
       "feed_name": "Ars Technica",
-      "feed_title": "Ars Technica - All content",
+      "feed_title": "Ars Technica",
       "category": "technology",
       "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
       "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
@@ -223,7 +321,7 @@
       "link": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/TSMC-Fab-18-500x500.jpg",
       "feed_name": "Ars Technica",
-      "feed_title": "Ars Technica - All content",
+      "feed_title": "Ars Technica",
       "category": "technology",
       "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
       "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
@@ -279,7 +377,7 @@
       "link": "https://arstechnica.com/tech-policy/2026/11/trump-admin-loses-fight-to-spy-on-random-journalists-linkedin-dms/",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2292869198-500x500.jpg",
       "feed_name": "Ars Technica",
-      "feed_title": "Ars Technica - All content",
+      "feed_title": "Ars Technica",
       "category": "technology",
       "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
       "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
@@ -391,7 +489,7 @@
       "link": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/bigwalkdebate-500x500.png",
       "feed_name": "Ars Technica",
-      "feed_title": "Ars Technica - All content",
+      "feed_title": "Ars Technica",
       "category": "technology",
       "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
       "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
@@ -545,7 +643,7 @@
       "link": "https://arstechnica.com/gadgets/2026/11/apple-is-shuttering-its-28-year-old-online-community-forum/",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1560398364-500x500.jpg",
       "feed_name": "Ars Technica",
-      "feed_title": "Ars Technica - All content",
+      "feed_title": "Ars Technica",
       "category": "technology",
       "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
       "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
@@ -671,7 +769,7 @@
       "link": "https://arstechnica.com/science/2026/11/ibm-to-offer-access-to-a-dual-processor-quantum-system-in-2027/",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/IBM-Quantum-Nighthawk-r2-and-r3-processors-comparison-500x500-1794412960.jpg",
       "feed_name": "Ars Technica",
-      "feed_title": "Ars Technica - All content",
+      "feed_title": "Ars Technica",
       "category": "technology",
       "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
       "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
@@ -895,7 +993,7 @@
       "link": "https://arstechnica.com/cars/2026/11/toyota-resurrects-scion-with-right-hand-drive-kei-trucks/",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Scion_Kei_Truck_2027-06-500x500.jpg",
       "feed_name": "Ars Technica",
-      "feed_title": "Ars Technica - All content",
+      "feed_title": "Ars Technica",
       "category": "technology",
       "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
       "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
@@ -1161,7 +1259,7 @@
       "link": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/signal_icon-500x500.jpg",
       "feed_name": "Ars Technica",
-      "feed_title": "Ars Technica - All content",
+      "feed_title": "Ars Technica",
       "category": "technology",
       "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
       "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
@@ -2575,7 +2673,7 @@
       "link": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2015/09/harddrive3-500x500.jpg",
       "feed_name": "Ars Technica",
-      "feed_title": "Ars Technica - All content",
+      "feed_title": "Ars Technica",
       "category": "technology",
       "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
       "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
@@ -2617,7 +2715,7 @@
       "link": "https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/1793382176191-500x500.jpg",
       "feed_name": "Ars Technica",
-      "feed_title": "Ars Technica - All content",
+      "feed_title": "Ars Technica",
       "category": "technology",
       "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
       "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
@@ -2701,7 +2799,7 @@
       "link": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ring-Drone-500x500.jpeg",
       "feed_name": "Ars Technica",
-      "feed_title": "Ars Technica - All content",
+      "feed_title": "Ars Technica",
       "category": "technology",
       "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
       "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
@@ -2925,7 +3023,7 @@
       "link": "https://arstechnica.com/tech-policy/2026/11/democrats-oppose-plan-to-stack-fcc-with-republicans-plan-probes-of-chairman-carr/",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/danielle-thumann-severs-fcc-500x500-1794344594.jpg",
       "feed_name": "Ars Technica",
-      "feed_title": "Ars Technica - All content",
+      "feed_title": "Ars Technica",
       "category": "technology",
       "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
       "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
@@ -2981,7 +3079,7 @@
       "link": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-plugin-marketplace-500x500.webp",
       "feed_name": "Ars Technica",
-      "feed_title": "Ars Technica - All content",
+      "feed_title": "Ars Technica",
       "category": "technology",
       "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
       "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
@@ -3051,7 +3149,7 @@
       "link": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Mathematics-formula-500x500.jpg",
       "feed_name": "Ars Technica",
-      "feed_title": "Ars Technica - All content",
+      "feed_title": "Ars Technica",
       "category": "technology",
       "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
       "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
@@ -3289,7 +3387,7 @@
       "link": "https://arstechnica.com/google/2026/11/google-fi-adds-support-for-a-second-5g-network-wont-say-which-one/",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Google-Fi-500x500.jpg",
       "feed_name": "Ars Technica",
-      "feed_title": "Ars Technica - All content",
+      "feed_title": "Ars Technica",
       "category": "technology",
       "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
       "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
@@ -3415,7 +3513,7 @@
       "link": "https://arstechnica.com/gadgets/2026/11/november-pixel-drop-brings-gemini-intelligence-to-pixel-10-family/",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Pixel-11-series-6-500x500.jpg",
       "feed_name": "Ars Technica",
-      "feed_title": "Ars Technica - All content",
+      "feed_title": "Ars Technica",
       "category": "technology",
       "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
       "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
@@ -3583,7 +3681,7 @@
       "link": "https://arstechnica.com/gadgets/2026/11/free-video-streaming-service-tubi-lets-users-share-curated-watchlists-now/",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Device-OTT-Purple-BG-500x500.png",
       "feed_name": "Ars Technica",
-      "feed_title": "Ars Technica - All content",
+      "feed_title": "Ars Technica",
       "category": "technology",
       "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
       "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
@@ -3905,7 +4003,7 @@
       "link": "https://arstechnica.com/gaming/2026/11/steam-deck-performance-gets-a-reality-check-with-valves-new-fps-data/",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/IMG_8144-scaled-500x500-1794329056.jpg",
       "feed_name": "Ars Technica",
-      "feed_title": "Ars Technica - All content",
+      "feed_title": "Ars Technica",
       "category": "technology",
       "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
       "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
@@ -13905,104 +14003,6 @@
       "category": "technology",
       "feed_url": "https://thenextweb.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
-    },
-    {
-      "id": "03jd8NkWV7ynqevuuIy1od2",
-      "title": "Gopuff launches 6 weeks of Pokémon card drops with rare deals delivered in 15 minutes: How to claim",
-      "published": "2026-11-06T10:58:08+00:00",
-      "author": null,
-      "description": "Gopuff launched weekly Pokémon Trading Card Game drops starting Nov. 6, featuring limited sets delivered in as fast as 15 minutes. Here is the schedule.",
-      "link": "https://mashable.com/life/gopuff-pokemon-card-drops-how-to-claim",
-      "image": "https://helios-i.mashable.com/imagery/articles/03jd8NkWV7ynqevuuIy1od2/hero-image.jpg",
-      "feed_name": "Mashable",
-      "feed_title": "Mashable",
-      "category": "technology",
-      "feed_url": "http://feeds.mashable.com/Mashable",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
-    },
-    {
-      "id": "5181490",
-      "title": "A Wall-Mounted Smart Garden Is Peak Winter Decor (and a Great Gift)",
-      "published": "2026-11-06T10:56:00+00:00",
-      "author": "John Carlsen",
-      "description": "I tested Modern Sprout’s handsome Growframe for a pop of green during fall and winter.",
-      "link": "https://www.cnet.com/tech/modern-sprout-wall-mounted-garden-frame/",
-      "image": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot-2026-11-05-at-2.04.12-PM.png",
-      "feed_name": "CNET News",
-      "feed_title": "News – CNET",
-      "category": "technology",
-      "feed_url": "https://www.cnet.com/rss/news/",
-      "feed_icon": "https://www.cnet.com/wp-content/uploads/sites/2/cropped-favicon-480.png?w=32"
-    },
-    {
-      "id": "06iwfmGxe0C1NUMWXZGxU73",
-      "title": "NYT Connections Sports Edition today: Hints and answers for November 6, 2026",
-      "published": "2026-11-06T10:51:14+00:00",
-      "author": null,
-      "description": "Connections: Sports Edition is a New York Times word game about finding common sports threads between words. How to solve the day's puzzle.",
-      "link": "https://mashable.com/entertainment/nyt-connections-sports-edition-hint-answer-today-november-6-2026",
-      "image": "https://helios-i.mashable.com/imagery/articles/06iwfmGxe0C1NUMWXZGxU73/hero-image.jpg",
-      "feed_name": "Mashable",
-      "feed_title": "Mashable",
-      "category": "technology",
-      "feed_url": "http://feeds.mashable.com/Mashable",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
-    },
-    {
-      "id": "02EOS1swZFg57PBThp4WXL4",
-      "title": "The Pokémon TCG Mega Evolution Pitch Black Booster Bundle is $20 off right now at Amazon",
-      "published": "2026-11-06T10:47:42+00:00",
-      "author": null,
-      "description": "Save 29% on Pokémon TCG: Mega Evolution Pitch Black Booster Bundle.",
-      "link": "https://mashable.com/life/nov-6-pokemon-tcg-mega-evolution-pitch-black-booster-bundle-deal",
-      "image": "https://helios-i.mashable.com/imagery/articles/02EOS1swZFg57PBThp4WXL4/hero-image.png",
-      "feed_name": "Mashable",
-      "feed_title": "Mashable",
-      "category": "technology",
-      "feed_url": "http://feeds.mashable.com/Mashable",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
-    },
-    {
-      "id": "https://www.theverge.com/?p=1028542",
-      "title": "Tesla is ‘winding down’ production of the Cybertruck next year",
-      "published": "2026-11-06T10:42:52+00:00",
-      "author": "Jess Weatherbed",
-      "description": "Tesla is getting the Cybertruck ready for retirement in an effort to ramp up its robotaxi output. In an X post on Friday, Tesla CEO Elon Musk said that the company will be \"winding down\" Cybertruck production at its Texas Gigafactory sometime around the middle of next year, \"to make room for increased Cybercab production.\" […]",
-      "link": "https://www.theverge.com/transportation/1028542/tesla-cybertruck-winding-down-production-2027",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25830320/STKS493_CYBERTRUCK_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "feed_name": "The Verge -  All Posts",
-      "feed_title": "The Verge",
-      "category": "technology",
-      "feed_url": "https://www.theverge.com/rss/index.xml",
-      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
-    },
-    {
-      "id": "07cT03ErfKenb61NPzZCNqZ",
-      "title": "Jimmy Kimmel rounds up 10 promises Trump made that hes failed to keep",
-      "published": "2026-11-06T10:37:03+00:00",
-      "author": null,
-      "description": "Jimmy Kimmel has rounded up some of the promises Trump has made and not followed through on since becoming president.",
-      "link": "https://mashable.com/entertainment/jimmy-kimmel-trump-promises",
-      "image": "https://helios-i.mashable.com/imagery/videos/07cT03ErfKenb61NPzZCNqZ/hero-image.png",
-      "feed_name": "Mashable",
-      "feed_title": "Mashable",
-      "category": "technology",
-      "feed_url": "http://feeds.mashable.com/Mashable",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
-    },
-    {
-      "id": "02IHeBcfLE2XjymWOubnexM",
-      "title": "Amazon drops early Black Friday deals on Pokémon DVDs: Shop classic seasons starting under $15.99",
-      "published": "2026-11-06T10:30:21+00:00",
-      "author": null,
-      "description": "Score up to 65% off classic Pokémon DVD seasons and Blu-ray sets at Amazon, including Johto Journeys and Indigo League.",
-      "link": "https://mashable.com/life/pokemon-series-dvd-bluray-early-black-friday-deals",
-      "image": "https://helios-i.mashable.com/imagery/articles/02IHeBcfLE2XjymWOubnexM/hero-image.png",
-      "feed_name": "Mashable",
-      "feed_title": "Mashable",
-      "category": "technology",
-      "feed_url": "http://feeds.mashable.com/Mashable",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
     }
   ]
 }

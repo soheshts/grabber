@@ -1,9 +1,23 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-11T20:02:35.233603+00:00",
-  "count": 449,
+  "updated": "2026-11-11T21:02:29.793067+00:00",
+  "count": 450,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.the-haystack.com/public04/",
+      "title": "Designing in public, iteration 4",
+      "published": "2026-11-12T00:00:00+00:00",
+      "author": "Stephen Hay",
+      "description": "My previous favicon was a poorly drawn letter H, in orange, with weird antialiasing. We can't have that. So a new icon it is. I still wanted an H. So I tried a bunch of things. An H, an A, and a Y, stacked. Stacked vertically, stacked oddly against each other, stacked like jumbled puzzle pieces. All black and white. Then some color from the website (which is still only Prot 's ef-dream palette ). Then I looked at a lowercase H. I wanted it chunky. So I opted for Matthew Butterick 's Concourse ,…",
+      "link": "https://www.the-haystack.com/public04/",
+      "image": "https://www.the-haystack.com/assets/images/hay.png",
+      "feed_name": "The Haystack",
+      "feed_title": "The Haystack",
+      "category": "personal blogs",
+      "feed_url": "https://www.the-haystack.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.the-haystack.com&sz=64"
+    },
     {
       "id": "https://www.bennadel.com/blog/4926-breaking-change-in-empty-line-regex-matching-in-adobe-coldfusion-2025-update-14.htm",
       "title": "Breaking Change In Empty-Line RegEx Matching In Adobe ColdFusion 2025 Update 14",
