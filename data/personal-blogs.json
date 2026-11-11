@@ -1,6 +1,6 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-11T05:32:44.637577+00:00",
+  "updated": "2026-11-11T06:03:11.198283+00:00",
   "count": 446,
   "summary": null,
   "items": [
@@ -45,6 +45,20 @@
       "category": "personal blogs",
       "feed_url": "http://adrianroselli.com/feed",
       "feed_icon": "https://www.google.com/s2/favicons?domain=adrianroselli.com&sz=64"
+    },
+    {
+      "id": "https://blog.jim-nielsen.com/2026/making-websites-in-2026/",
+      "title": "Making a Website in 2026",
+      "published": "2026-11-10T19:00:00+00:00",
+      "author": null,
+      "description": "Pete Millspaugh has a great post over on the Val Town blog where he documents his attempt at making generating the same website across a variety of AI tools. I love the post. Here are a couple of thoughts that come to mind. The Space Is Ripe for Referral Fees Pete decided to make a website for his conference talk, and he added a comments section to make it a less static / more dynamic demo. This is interesting because LLMs are really good at generating one-off HTML pages you open at file:// , b…",
+      "link": "https://blog.jim-nielsen.com/2026/making-websites-in-2026/",
+      "image": null,
+      "feed_name": "Jim Nielsen’s Blog",
+      "feed_title": "Jim Nielsen’s Blog",
+      "category": "personal blogs",
+      "feed_url": "https://blog.jim-nielsen.com/feed.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=blog.jim-nielsen.com&sz=64"
     },
     {
       "id": "https://www.raymondcamden.com/2026/11/10/migrating-my-notes-app-to-supabase",
@@ -5519,20 +5533,6 @@
       "category": "personal blogs",
       "feed_url": "http://jeffbridgforth.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=jeffbridgforth.com&sz=64"
-    },
-    {
-      "id": "https://mattgemmell.scot/books/once-upon-a-time/stories/symptoms/",
-      "title": "Mini-story: Symptoms",
-      "published": "2026-10-12T06:00:00+00:00",
-      "author": null,
-      "description": "My symptoms had been getting steadily worse for almost a year by the time I was brought in for questioning. I’d been in denial for at least eighteen months at that point. It was easy to hide from other people because my profession is an extremely solitary one. The very few people that I do meet invariably don’t have the chance to even see my face — and if they do, and I do my job right, it’s the last thing they ever see. My reputation precedes me, you might say. My clients all come via word of…",
-      "link": "https://mattgemmell.scot/books/once-upon-a-time/stories/symptoms/",
-      "image": null,
-      "feed_name": "Matt Gemmell",
-      "feed_title": "Matt Gemmell",
-      "category": "personal blogs",
-      "feed_url": "http://mattgemmell.com/atom.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=mattgemmell.scot&sz=64"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
