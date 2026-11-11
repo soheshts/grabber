@@ -1,13 +1,97 @@
 {
   "category": "World News",
-  "updated": "2026-11-11T17:33:48.900931+00:00",
+  "updated": "2026-11-11T18:03:51.908987+00:00",
   "count": 1000,
   "summary": null,
   "items": [
     {
+      "id": "108548816",
+      "title": "General strikes to paralyze Spain as protestors clash with police ahead of election campaign",
+      "published": "2026-11-11T18:02:32+00:00",
+      "author": null,
+      "description": "Spanish workers are expected to turn out in their millions on Wednesday for the country's first general strike in 14 years.",
+      "link": "https://www.cnbc.com/2026/11/11/spain-protests-general-strikes-election.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108548794-1794386879878-gettyimages-2304549240-20261111_general_strike_housing_madrid_pb00040_quzy6q0k.jpeg?v=1794386887&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/11/world/africa/kenya-ebola-countdown.html",
+      "title": "Kenya Starts Countdown to End of Ebola Outbreak",
+      "published": "2026-11-11T17:50:39+00:00",
+      "author": "Matthew Mpoke Bigg",
+      "description": "The milestone is further evidence that African countries have mostly succeeded in preventing community transmission and isolating the small number of cases that have come in from Congo.",
+      "link": "https://www.nytimes.com/2026/11/11/world/africa/kenya-ebola-countdown.html",
+      "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-kenya-ebola-tkpc/11int-kenya-ebola-tkpc-mediumSquareAt3X-v2.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "t3_1xtodyq",
+      "title": "Russia's largest oil refinery hit by drones 2,500 km from Ukraine",
+      "published": "2026-11-11T17:45:59+00:00",
+      "author": "/u/pravda_eng_official",
+      "description": "submitted by /u/pravda_eng_official [link] [comments]",
+      "link": "https://www.reddit.com/r/worldnews/comments/1xtodyq/russias_largest_oil_refinery_hit_by_drones_2500/",
+      "image": "https://external-preview.redd.it/VClQ_cVJTm49D42mE3BxM3tfD83n4ULBvOP0WchNFBg.jpeg?width=640&crop=smart&auto=webp&s=0abb66a315589892e2822a73527977423e1fea8d",
+      "feed_name": "World News",
+      "feed_title": "World News",
+      "category": "World News",
+      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
+      "feed_icon": "https://www.redditstatic.com/icon.png/"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo#0",
+      "title": "Spain sees widespread disruption in first general strike for 14 years",
+      "published": "2026-11-11T17:44:32+00:00",
+      "author": null,
+      "description": "Protests are also expected in the biggest cities less than three weeks before Spaniards vote in parliamentary elections.",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49d4/live/b795f200-ddc1-11f1-a50f-85eebf9e50e5.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/11/world/europe/russia-ukraine-talks-abu-dhabi.html",
+      "title": "Seeking to Broaden Ukraine Talks, U.S. Urges Russia to Include Europe",
+      "published": "2026-11-11T17:40:41+00:00",
+      "author": "Paul Sonne",
+      "description": "As a round of negotiations ended in Abu Dhabi, President Trump’s envoys said they would go to Moscow as the Kremlin demands discussions on European security structures.",
+      "link": "https://www.nytimes.com/2026/11/11/world/europe/russia-ukraine-talks-abu-dhabi.html",
+      "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-russia-ukraine-talks-wctl/11int-russia-ukraine-talks-wctl-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "108548802",
+      "title": "Nvidia shares rebound as Jensen Huang faces scrutiny ahead of earnings",
+      "published": "2026-11-11T17:39:26+00:00",
+      "author": null,
+      "description": "Investors are assessing whether CEO Jensen Huang's affair will have spillover effects on Nvidia's business.",
+      "link": "https://www.cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108358140-1788386447242-gettyimages-2292673696-G20_INNOVATION_MINISTERIAL.jpeg?v=1788386523&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
       "id": "https://www.nytimes.com/2026/11/11/world/middleeast/us-blockade-iran-taskforce-iron-gate.html",
       "title": "U.S. Efforts to Tighten Blockade of Iran Rely on Reluctant Neighbors",
-      "published": "2026-11-11T17:24:28+00:00",
+      "published": "2026-11-11T17:37:31+00:00",
       "author": "Erika Solomon, Eric Schmitt and Tyler Pager",
       "description": "Washington wants to intensify its economic pressure campaign on Iran by closing its land borders. Neighboring states, fearing economic fallout, are pushing back.",
       "link": "https://www.nytimes.com/2026/11/11/world/middleeast/us-blockade-iran-taskforce-iron-gate.html",
@@ -17,6 +101,20 @@
       "category": "World News",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/us/the-ss-united-states-broke-the-transatlantic-speed-record-in-1952-and-spent-29-years-docked-in-philadelphia-the-990-foot-liner-is-set-to-be-sunk-off-florida-on-november-11-to-become-the-worlds-largest-artificial-reef/articleshow/135744197.cms",
+      "title": "SS United States to become world's largest artificial reef off Florida",
+      "published": "2026-11-11T17:25:00+00:00",
+      "author": "TOI World Desk",
+      "description": "",
+      "link": "https://timesofindia.indiatimes.com/world/us/the-ss-united-states-broke-the-transatlantic-speed-record-in-1952-and-spent-29-years-docked-in-philadelphia-the-990-foot-liner-is-set-to-be-sunk-off-florida-on-november-11-to-become-the-worlds-largest-artificial-reef/articleshow/135744197.cms",
+      "image": "https://static.toiimg.com/photo/msid-135744359,imgsize-515455.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
       "id": "108548880",
@@ -45,6 +143,34 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/life-style/parenting/moments/amanda-seyfried-says-her-nine-year-old-daughter-watched-mean-girls-for-the-first-time-last-year-and-loved-it-the-actress-has-revealed-how-she-decides-which-of-her-own-movies-her-children-are-ready-to-see/articleshow/135733897.cms",
+      "title": "Amanda Seyfried says her nine-year-old daughter watched 'Mean Girls' for the first time last year and loved it",
+      "published": "2026-11-11T17:20:00+00:00",
+      "author": "TOI Lifestyle Desk",
+      "description": "Amanda Seyfried opened up about her daughter's honest reactions to her films, particularly 'Mean Girls'. While Nina appreciated Seyfried's acting, she found the film lacking in humor. Having also seen 'Mamma Mia!', she recognized her mother's musical talent. Seyfried plans to share her upcoming film 'Steps', which explores complex relationships, showcasing the unique viewpoints children have of their celebrity parents and how those views evolve over time.",
+      "link": "https://timesofindia.indiatimes.com/life-style/parenting/moments/amanda-seyfried-says-her-nine-year-old-daughter-watched-mean-girls-for-the-first-time-last-year-and-loved-it-the-actress-has-revealed-how-she-decides-which-of-her-own-movies-her-children-are-ready-to-see/articleshow/135733897.cms",
+      "image": "https://static.toiimg.com/photo/msid-135735390,imgsize-163836.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
+      "id": "t3_1xtngp2",
+      "title": "Sweden amends constitution to allow revoking citizenship of dual nationals",
+      "published": "2026-11-11T17:12:59+00:00",
+      "author": "/u/Personal-Proposal-79",
+      "description": "submitted by /u/Personal-Proposal-79 [link] [comments]",
+      "link": "https://www.reddit.com/r/worldnews/comments/1xtngp2/sweden_amends_constitution_to_allow_revoking/",
+      "image": "https://external-preview.redd.it/KLYvIzF44AJN6VFLeklnv4Q6zt5v9dZRm8I17bnnFJM.jpeg?width=640&crop=smart&auto=webp&s=3e1b65b91b1ef277a98ca4d8e8807742462a2e14",
+      "feed_name": "World News",
+      "feed_title": "World News",
+      "category": "World News",
+      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
+      "feed_icon": "https://www.redditstatic.com/icon.png/"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/rest-of-world/north-korea-revises-constitution-calls-south-korea-separate-state-drops-reunification-goal/articleshow/135744366.cms",
@@ -157,20 +283,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/11/world/europe/russia-ukraine-talks-abu-dhabi.html",
-      "title": "Seeking to Broaden Ukraine Talks, U.S. Urges Russia to Include Europe",
-      "published": "2026-11-11T16:47:14+00:00",
-      "author": "Paul Sonne",
-      "description": "As a round of negotiations ended in Abu Dhabi, President Trump’s envoys said they would go to Moscow as the Kremlin demands discussions on European security structures.",
-      "link": "https://www.nytimes.com/2026/11/11/world/europe/russia-ukraine-talks-abu-dhabi.html",
-      "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-russia-ukraine-talks-wctl/11int-russia-ukraine-talks-wctl-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o#0",
@@ -315,7 +427,7 @@
     {
       "id": "https://www.nytimes.com/2026/11/11/world/europe/spain-general-strike.html",
       "title": "Workers in Spain Stage a General Strike for the First Time in 14 Years",
-      "published": "2026-11-11T15:54:21+00:00",
+      "published": "2026-11-11T15:54:22+00:00",
       "author": "Carlos Barragán",
       "description": "Workers in a wide range of industries walked off the job to protest rising rents and stagnant wages, which have become central issues in the campaign.",
       "link": "https://www.nytimes.com/2026/11/11/world/europe/spain-general-strike.html",
@@ -607,20 +719,6 @@
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
-      "id": "108548802",
-      "title": "Nvidia shares rebound as Jensen Huang faces scrutiny ahead of earnings",
-      "published": "2026-11-11T14:35:23+00:00",
-      "author": null,
-      "description": "Investors are assessing whether CEO Jensen Huang's affair will have spillover effects on Nvidia's business.",
-      "link": "https://www.cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108358140-1788386447242-gettyimages-2292673696-G20_INNOVATION_MINISTERIAL.jpeg?v=1788386523&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
       "id": "https://timesofindia.indiatimes.com/world/uk/uk-pm-burnham-vows-to-unveil-10-year-plan-for-britain-before-christmas-amid-badenochs-vision-jibe/articleshow/135740429.cms",
       "title": "UK PM Burnham vows to unveil 10-year plan for Britain before Christmas amid Badenoch's vision jibe",
       "published": "2026-11-11T14:31:43+00:00",
@@ -689,20 +787,6 @@
       "category": "World News",
       "feed_url": "https://www.reddit.com/r/worldnews/.rss",
       "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo#0",
-      "title": "Spain sees widespread disruption in first general strike for 14 years",
-      "published": "2026-11-11T14:06:27+00:00",
-      "author": null,
-      "description": "Protests are also expected in the biggest cities less than three weeks before Spaniards vote in parliamentary elections.",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49d4/live/b795f200-ddc1-11f1-a50f-85eebf9e50e5.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "t3_1xtikvq",
@@ -1025,20 +1109,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "108548816",
-      "title": "General strikes to paralyze Spain as protestors clash with police ahead of election campaign",
-      "published": "2026-11-11T12:39:20+00:00",
-      "author": null,
-      "description": "Spanish workers are expected to turn out in their millions on Wednesday for the country's first general strike in 14 years.",
-      "link": "https://www.cnbc.com/2026/11/11/spain-protests-general-strikes-election.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108548794-1794386879878-gettyimages-2304549240-20261111_general_strike_housing_madrid_pb00040_quzy6q0k.jpeg?v=1794386887&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
       "id": "108548450",
@@ -13933,76 +14003,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/poland-shooting-news-3-bodies-found-at-gunmans-house-who-killed-6-in-polands-krakow-12298795#publisher=newsstand",
-      "title": "3 Bodies Found At Gunman's House Who Killed 6 In Poland's Krakow",
-      "published": "2026-11-08T02:35:12+00:00",
-      "author": null,
-      "description": "Police vehicles block a street at the site of a shooting near main square of Krakow",
-      "link": "https://www.ndtv.com/world-news/poland-shooting-news-3-bodies-found-at-gunmans-house-who-killed-6-in-polands-krakow-12298795#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-11/i76enaks_poalnd_625x300_08_November_26.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/middle-east/at-least-33-killed-in-saudi-airstrikes-on-yemen-village-most-casualties-women-children/articleshow/135649654.cms",
-      "title": "Dozens Killed In Yemen Strikes: Saudi raids reportedly hit homes; UN truce collapse feared",
-      "published": "2026-11-08T02:18:42+00:00",
-      "author": "Mahima Sharma",
-      "description": "On Saturday, a series of Saudi airstrikes struck a village near Sanaa, resulting in a tragic loss of life and numerous injuries. This marks one of the worst incidents since the resumption of hostilities between the Saudi coalition and the Houthis. Among the casualties were many women and children, with some victims still trapped under rubble. This new wave of violence has effectively shattered a prior ceasefire in the area.",
-      "link": "https://timesofindia.indiatimes.com/world/middle-east/at-least-33-killed-in-saudi-airstrikes-on-yemen-village-most-casualties-women-children/articleshow/135649654.cms",
-      "image": "https://static.toiimg.com/photo/msid-135649673,imgsize-120547.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/christa-pike-thinks-she-knows-better-than-her-medical-providers-state-says-12298884#publisher=newsstand",
-      "title": "Christa Pike 'Thinks She Knows Better' Than Her Medical Providers, State Says",
-      "published": "2026-11-08T02:13:27+00:00",
-      "author": null,
-      "description": "She has continued leaning on her Buddhist spiritual advisor for comfort and guidance to cope with the immense stress.",
-      "link": "https://www.ndtv.com/world-news/christa-pike-thinks-she-knows-better-than-her-medical-providers-state-says-12298884#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-10/425o1qtk_christa-pike-_625x300_07_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/middle-east/saudi-arabia-issues-danger-alerts-for-dammam-dhahran-and-abqaiq-amid-houthi-threats/articleshow/135649607.cms",
-      "title": "Fresh Houthi threat? Saudi Arabia issues potential danger alerts in 3 cities",
-      "published": "2026-11-08T02:11:03+00:00",
-      "author": "Abhishek Mishra",
-      "description": "",
-      "link": "https://timesofindia.indiatimes.com/world/middle-east/saudi-arabia-issues-danger-alerts-for-dammam-dhahran-and-abqaiq-amid-houthi-threats/articleshow/135649607.cms",
-      "image": "https://static.toiimg.com/photo/msid-135649622,imgsize-675561.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/opposition-arab-parties-coalition-will-dismantle-israel-benjamin-netanyahu-eisenkot-12298824#publisher=newsstand",
-      "title": "\"It Will Dismantle Israel\": Netanyahu On Opposition-Arab Parties Coalition",
-      "published": "2026-11-08T02:04:23+00:00",
-      "author": null,
-      "description": "The president has also sent signals that he would like to explore a national unity government.",
-      "link": "https://www.ndtv.com/world-news/opposition-arab-parties-coalition-will-dismantle-israel-benjamin-netanyahu-eisenkot-12298824#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-11/u5p5cq2_netanyahu-reuters_625x300_08_November_26.jpeg",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     }
   ]
 }

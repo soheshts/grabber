@@ -1,6 +1,6 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-11T17:33:48.900931+00:00",
+  "updated": "2026-11-11T18:03:51.908987+00:00",
   "count": 451,
   "summary": null,
   "items": [
@@ -17,6 +17,20 @@
       "category": "personal blogs",
       "feed_url": "http://www.bennadel.com/index.cfm?dax=blog.rss&lst_tag_id=14,16,3,5,9,6,7,13,18,20,10,15",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.bennadel.com&sz=64"
+    },
+    {
+      "id": "https://www.aaron-gustafson.com/notebook/build-faster-without-leaving-accessibility-behind/",
+      "title": "Build faster without leaving accessibility behind",
+      "published": "2026-11-11T17:46:47+00:00",
+      "author": "Aaron Gustafson",
+      "description": "When accessibility questions come up, not every team has someone who can help answer them. Without that resource, teams can miss how their decisions affect people with disabilities—and leave barriers in place until someone encounters them. AI-assisted development makes that gap more pressing. If the tools helping us build software don’t account for how people with disabilities use technology, they can repeat those mistakes across more interfaces, faster. We need to bring that understanding into…",
+      "link": "https://www.aaron-gustafson.com/notebook/build-faster-without-leaving-accessibility-behind/",
+      "image": "https://www.aaron-gustafson.com/i/share-cards/build-faster-without-leaving-accessibility-behind.jpg",
+      "feed_name": "Aaron Gustafson",
+      "feed_title": "Aaron Gustafson: Latest Posts",
+      "category": "personal blogs",
+      "feed_url": "https://www.aaron-gustafson.com/feeds/latest-posts.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.aaron-gustafson.com&sz=64"
     },
     {
       "id": "https://gomakethings.com/articles/for-and-against/",
@@ -5589,20 +5603,6 @@
       "category": "personal blogs",
       "feed_url": "https://blog.jim-nielsen.com/feed.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=blog.jim-nielsen.com&sz=64"
-    },
-    {
-      "id": "https://www.raymondcamden.com/2026/10/12/adding-google-auth-to-tinyjs",
-      "title": "Adding Google Auth to TinyJS",
-      "published": "2026-10-12T18:00:00+00:00",
-      "author": "Raymond Camden",
-      "description": "A few days ago I posted about my experience playing around with TinyJS . This is a very light \"web to desktop app\" platform for - well - building desktop apps. Its simplicity and similarity to PhoneGap (at least for the desktop) has got me interested in seeing what I can build with the project. One of my ideas would be improved with a login system so I naturally looked into adding a \"Login with Google\" feature. While this was mostly straightforward, I ran into some oddities and figured I'd shar…",
-      "link": "https://www.raymondcamden.com/2026/10/12/adding-google-auth-to-tinyjs",
-      "image": null,
-      "feed_name": "Raymond Camden",
-      "feed_title": "Raymond Camden",
-      "category": "personal blogs",
-      "feed_url": "https://www.raymondcamden.com/feed.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.raymondcamden.com&sz=64"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
