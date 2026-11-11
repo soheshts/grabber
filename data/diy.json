@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-11T23:02:34.198508+00:00",
+  "updated": "2026-11-11T23:32:21.547704+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.howtogeek.com/usb-dongle-lets-you-listen-to-aircraft-weather-satellites-local-radio/",
+      "title": "This $25 USB dongle lets you listen to aircraft, weather satellites, and local radio traffic",
+      "published": "2026-11-11T23:30:15+00:00",
+      "author": "Adam Davidson",
+      "description": "One dongle to hear them all.",
+      "link": "https://www.howtogeek.com/usb-dongle-lets-you-listen-to-aircraft-weather-satellites-local-radio/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/11/a-software-defined-radio-usb-stick-next-to-the-connector-for-an-antenna.png",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/save-100-on-bambu-labs-p2s-ams-combo-3d-printer-and-print-with-ease/",
+      "title": "Save $100 on the Bambu Lab P2S AMS Combo 3D Printer and start printing with ease",
+      "published": "2026-11-11T23:21:16+00:00",
+      "author": "HTG Deals Desk",
+      "description": "This combo includes the multi-material AMS 2 Pro unit.",
+      "link": "https://www.howtogeek.com/save-100-on-bambu-labs-p2s-ams-combo-3d-printer-and-print-with-ease/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/03/bambu-lab-p2s-print-head-with-0-4mm-nozzle-on-display.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/netflix-classic-movies-guaranteed-to-leave-you-in-tears/",
       "title": "4 classic movies on Netflix guaranteed to leave you in tears",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://hackaday.com/?p=1396541",
-      "title": "Does Running an E-Paper Display at 30 FPS Destroy It?",
-      "published": "2026-10-28T20:00:33+00:00",
-      "author": "Maya Posch",
-      "description": "Although e-paper displays are famous for being low-power and lasting essentially forever if not damaged physically, the recent push to drive even cheaper e-paper displays at a framerate like 30 …read more",
-      "link": "https://hackaday.com/2026/10/28/does-running-an-e-paper-display-at-30-fps-destroy-it/",
-      "image": "https://hackaday.com/wp-content/uploads/2026/10/ink_boy_bo_made_it_youtube.jpg",
-      "feed_name": "Blog – Hackaday",
-      "feed_title": "Blog – Hackaday",
-      "category": "DIY",
-      "feed_url": "https://hackaday.com/blog/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/replace-7-zip-winrar-with-nanazip/",
-      "title": "I ditched both 7-Zip and WinRAR for this alternative for this one reason",
-      "published": "2026-10-28T20:00:16+00:00",
-      "author": "Pankil Shah",
-      "description": "My PC is now more secure, thanks to this change.",
-      "link": "https://www.makeuseof.com/replace-7-zip-winrar-with-nanazip/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/winrar-and-7-zip-on-windows-11-laptop.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }

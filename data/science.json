@@ -1,9 +1,23 @@
 {
   "category": "science",
-  "updated": "2026-11-11T23:02:34.198508+00:00",
+  "updated": "2026-11-11T23:32:21.547704+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "news713633341",
+      "title": "Fluorescent probes reveal fluid-like barriers inside nuclear pores of living human cells",
+      "published": "2026-11-11T23:20:01+00:00",
+      "author": null,
+      "description": "Our genetic material is hidden inside the nucleus of our cells, well protected by a double membrane. All molecules wishing to pass through must thread their way through one of several thousand nuclear pores. The scaffold structure of these pores is well known. However, exactly how transport takes place within them has been the subject of much debate. Researchers at Johannes Gutenberg University Mainz (JGU), the Max Planck Institute for Biophysics (MPI-BP) in Frankfurt am Main and Wuhan Universi…",
+      "link": "https://phys.org/news/2026-11-fluorescent-probes-reveal-fluid-barriers.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/disordered-proteins-as.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
     {
       "id": "news713633161",
       "title": "Superconducting vortices provide experimental evidence that clogging is a phase transition",
@@ -1999,6 +2013,20 @@
       "author": "Heidi Ledford",
       "description": "Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03640-9 A promising biotechnology company developed a new approach that might treat a rare disease — but its sole employee didn’t do all the work.",
       "link": "https://www.nature.com/articles/d41586-026-03640-9",
+      "image": null,
+      "feed_name": "Nature",
+      "feed_title": "Nature",
+      "category": "science",
+      "feed_url": "https://www.nature.com/nature.rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=feeds.nature.com&sz=64"
+    },
+    {
+      "id": "https://www.nature.com/articles/d41586-026-03637-4",
+      "title": "Microplastics change the colour of the sea near the Great Pacific Garbage Patch",
+      "published": "2026-11-11T00:00:00+00:00",
+      "author": null,
+      "description": "Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03637-4 The waters around the zone of floating debris appear greener and bluer on account of high levels of tiny bits of plastic.",
+      "link": "https://www.nature.com/articles/d41586-026-03637-4",
       "image": null,
       "feed_name": "Nature",
       "feed_title": "Nature",
@@ -13975,34 +14003,6 @@
       "category": "science",
       "feed_url": "http://rss.sciam.com/ScientificAmerican-Global",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.scientificamerican.com&sz=64"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6jrw5j7n4dlo#1",
-      "title": "Charity warns about damage of over-foraging fungi",
-      "published": "2026-11-03T11:43:10+00:00",
-      "author": null,
-      "description": "It says over-foraging, particularly in protected areas, damages habitats and wildlife.",
-      "link": "https://www.bbc.co.uk/news/articles/c6jrw5j7n4dlo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed2d/live/de7c8140-d790-11f1-801d-cf196dc7232c.jpg",
-      "feed_name": "BBC News - Science & Environment",
-      "feed_title": "BBC News",
-      "category": "science",
-      "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "news712840771",
-      "title": "Crow experiments suggest switching to vocal communication requires extra mental effort",
-      "published": "2026-11-03T11:40:01+00:00",
-      "author": null,
-      "description": "For animals that can produce vocalizations, choosing to emit a sound involves various neural processes. For instance, it entails controlling when to emit a sound and how loud and high-pitched the sound will be, while also adaptively switching between vocalizations and other behaviors in response to changing circumstances.",
-      "link": "https://phys.org/news/2026-11-crow-vocal-communication-requires-extra.html",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/crow.jpg",
-      "feed_name": "Phys.org - latest science and technology news stories",
-      "feed_title": "Phys.org - latest science and technology news stories",
-      "category": "science",
-      "feed_url": "https://phys.org/rss-feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
     }
   ]
 }

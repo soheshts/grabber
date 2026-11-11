@@ -1,9 +1,23 @@
 {
   "category": "travel",
-  "updated": "2026-11-11T23:02:34.198508+00:00",
-  "count": 158,
+  "updated": "2026-11-11T23:32:21.547704+00:00",
+  "count": 159,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/11/11/business/united-airlines-ai-agents-booking-flights.html",
+      "title": "United Airlines Blocks A.I. Agents From Booking Flights",
+      "published": "2026-11-11T23:15:31+00:00",
+      "author": "Ishani Desai",
+      "description": "The carrier said that to protect customers’ information and comply with regulations, it was barring the digital assistants from logging into accounts and managing reservations.",
+      "link": "https://www.nytimes.com/2026/11/11/business/united-airlines-ai-agents-booking-flights.html",
+      "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11xp-ai-united-mpzg/11xp-ai-united-mpzg-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Travel",
+      "feed_title": "NYT > Travel",
+      "category": "travel",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "https://www.atlasobscura.com/places/the-invisible-lamplighter-of-the-hague",
       "title": "The Invisible Lamplighter in The Hague, Netherlands",
