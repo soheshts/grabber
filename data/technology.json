@@ -1,9 +1,23 @@
 {
   "category": "technology",
-  "updated": "2026-11-11T12:32:17.700323+00:00",
+  "updated": "2026-11-11T13:03:51.071457+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.engadget.com/2313187/grok-build-leaked-sensitive-spacexsi-data/",
+      "title": "A Grok vibe-coding agent leaked sensitive SpaceXSI data",
+      "published": "2026-11-11T12:35:10+00:00",
+      "author": "Steve Dent",
+      "description": "A flaw in SpaceXSI's Grok Build vibe-coding agent allowed sensitive data to leak from thousands of users including... SpaceXSI.",
+      "link": "https://www.engadget.com/2313187/grok-build-leaked-sensitive-spacexsi-data/",
+      "image": "https://www.engadget.com/img/gallery/a-grok-vibe-coding-agent-leaked-sensitive-spacexsi-data/l-intro-1794400413.jpg",
+      "feed_name": "Engadget",
+      "feed_title": "Engadget - Technology News & Expert Reviews",
+      "category": "technology",
+      "feed_url": "https://www.engadget.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
     {
       "id": "https://www.theverge.com/?p=1030902",
       "title": "Serve Robotics wants to democratize sidewalk delivery robots",
@@ -1714,10 +1728,10 @@
     },
     {
       "id": "TheNextWeb=d7acc82329cbe98f62f5dd4d379975de",
-      "title": "Web Summit cancels Day 2 in Lisbon as Storm Charles hits Portugal",
+      "title": "Web Summit returns Thursday with rescheduled sessions after storm cancellation",
       "published": "2026-11-10T19:58:09+00:00",
       "author": "Cristian Dina",
-      "description": "Web Summit has called off Wednesday’s programme in Lisbon because of Storm Charles. Portugal’s government advised the organisers that Day 2 should not take place. Web Summit told attendees by email on Tuesday evening that it aims to hold Day 3, on Thursday 12 November, as planned. The government cited the risk of tidal flooding […] This story continues at The Next Web",
+      "description": "Web Summit will return on Thursday for its final day, after Storm Charles forced the cancellation of the entire Wednesday programme at Europe’s biggest tech conference in Lisbon. Organisers confirmed the restart in an email to attendees on Wednesday, promising “our busiest Thursday ever” with more speakers and meetups than any previous closing day. Many […] This story continues at The Next Web",
       "link": "https://thenextweb.com/news/web-summit-day-2-cancelled-storm-charles-lisbon",
       "image": "https://media.thenextweb.com/2026/10/web-summit-main-stage-logo-pink-blue-lights-audience.avif",
       "feed_name": "The Next Web",
@@ -13989,20 +14003,6 @@
       "category": "technology",
       "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
       "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
-    },
-    {
-      "id": "https://www.engadget.com/2307936/now-claude-can-help-with-your-finances-too/",
-      "title": "Now Claude can help with your finances too",
-      "published": "2026-11-05T18:00:00+00:00",
-      "author": "Igor Bonifacic",
-      "description": "But just like with ChatGPT, should you?",
-      "link": "https://www.engadget.com/2307936/now-claude-can-help-with-your-finances-too/",
-      "image": "https://www.engadget.com/img/gallery/now-claude-can-help-with-your-finances-too/l-intro-1793895674.jpg",
-      "feed_name": "Engadget",
-      "feed_title": "Engadget - Technology News & Expert Reviews",
-      "category": "technology",
-      "feed_url": "https://www.engadget.com/rss.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
     }
   ]
 }
