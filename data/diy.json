@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-11T22:03:55.561738+00:00",
+  "updated": "2026-11-11T22:34:33.872329+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.howtogeek.com/i-tried-this-ultra-cheap-ssd-so-you-dont-have-to/",
+      "title": "I tried this ultra-cheap SSD so you don't have to",
+      "published": "2026-11-11T22:30:15+00:00",
+      "author": "Goran Damnjanovic",
+      "description": "There are still cheap SSDs out there, as long as you don't need a large capacity.",
+      "link": "https://www.howtogeek.com/i-tried-this-ultra-cheap-ssd-so-you-dont-have-to/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/a-silicon-power-sata-ssd-in-a-desktop-pc-case-fi.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/hulu-new-ai-companion-horror-movie-gets-chatbots-uncomfortably-right/",
       "title": "Hulu's new horror movie about an AI companion gets chatbots uncomfortably right",
@@ -13989,20 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/i-built-a-lossless-music-library/",
-      "title": "I built a subscription-free lossless music library with this affordable USB accessory",
-      "published": "2026-10-28T19:30:16+00:00",
-      "author": "Brady Snyder",
-      "description": "Out with the new, in with the old.",
-      "link": "https://www.makeuseof.com/i-built-a-lossless-music-library/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/asus-optical-drive-2.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }
