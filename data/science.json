@@ -1,9 +1,23 @@
 {
   "category": "science",
-  "updated": "2026-11-11T01:03:59.174716+00:00",
+  "updated": "2026-11-11T01:32:17.043544+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "news713552581",
+      "title": "A new tool makes biodiversity conservation planning more efficient and reproducible",
+      "published": "2026-11-11T01:20:07+00:00",
+      "author": null,
+      "description": "ZonationR is a new tool that simplifies the use of Zonation to identify priority areas for biodiversity conservation. It brings all stages of the conservation planning analysis together in one automated and reproducible workflow and helps users systematically explore and compare alternative conservation scenarios.",
+      "link": "https://phys.org/news/2026-11-tool-biodiversity-efficient.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-tool-makes-biodive.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
     {
       "id": "news713549641",
       "title": "Genetic ancestry plays a key role in the migration of Cory's shearwaters",
@@ -13989,20 +14003,6 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2026/10/261031221151.htm",
-      "title": "New diabetes implant uses electricity to lower blood sugar and promote weight loss",
-      "published": "2026-11-02T12:47:18+00:00",
-      "author": null,
-      "description": "Researchers have developed a remarkable new electronic implant that could transform type 2 diabetes treatment by lowering blood sugar without insulin or traditional drugs. The device uses a special electrically powered catalyst to convert excess glucose into a substance that the body eliminates through urine, potentially preventing unwanted energy from being stored as fat. In diabetic mice, the implant precisely controlled blood sugar and promoted weight loss.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261031221151.htm",
-      "image": "https://www.sciencedaily.com/images/1920/blood-sugar-illustration.webp",
-      "feed_name": "Latest Science News -- ScienceDaily",
-      "feed_title": "Latest Science News -- ScienceDaily",
-      "category": "science",
-      "feed_url": "https://www.sciencedaily.com/rss/all.xml",
-      "feed_icon": "https://www.sciencedaily.com/images/scidaily-logo-rss.png"
     }
   ]
 }
