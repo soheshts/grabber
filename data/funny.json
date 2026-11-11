@@ -1,7 +1,7 @@
 {
   "category": "funny",
-  "updated": "2026-11-11T06:03:11.198283+00:00",
-  "count": 532,
+  "updated": "2026-11-11T06:32:51.758037+00:00",
+  "count": 531,
   "summary": null,
   "items": [
     {
@@ -7437,20 +7437,6 @@
       "category": "funny",
       "feed_url": "https://www.penny-arcade.com/feed",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.penny-arcade.com&sz=64"
-    },
-    {
-      "id": "https://thedailywtf.com/articles/a-type-of-type-safety",
-      "title": "CodeSOD: A Type of Type Safety",
-      "published": "2026-10-12T06:30:00+00:00",
-      "author": "Remy Porter",
-      "description": "For some godawful reason, people like to explain object oriented concepts via analogy to biological taxonomies. I suppose it's easy to understand an \"is-a\" relationship (a cat is a mammal), but the down side is you get a complex and increasingly leaky analogy that over-emphasizes the importance of inheritance. That's not to slight Alan 's choice of using it to anoymize today's code. It's just a broad frustration on my part. In any case, Alan has been working in a C++ codebase that's written by…",
-      "link": "https://thedailywtf.com/articles/a-type-of-type-safety",
-      "image": "https://thedailywtf.com/images/inedo/proget-icon.png",
-      "feed_name": "The Daily WTF",
-      "feed_title": "The Daily WTF",
-      "category": "funny",
-      "feed_url": "http://syndication.thedailywtf.com/TheDailyWtf",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=thedailywtf.com&sz=64"
     }
   ]
 }

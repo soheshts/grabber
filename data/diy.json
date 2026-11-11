@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-11T06:03:11.198283+00:00",
+  "updated": "2026-11-11T06:32:51.758037+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://hackaday.com/?p=1424452",
+      "title": "This Coffee Machine is DOOMed",
+      "published": "2026-11-11T06:00:18+00:00",
+      "author": "Tyler August",
+      "description": "Somehow, seeing DOOM on things that were never meant to run DOOM never gets old. It’s probably hard to get further into the “never meant to run DOOM” weeds than …read more",
+      "link": "https://hackaday.com/2026/11/10/this-coffee-machine-is-doomed/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/DOOMed-coffee-machine.jpg",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://hackaday.com/?p=1424434",
       "title": "Print & Place: Add Embedded Electronics While FDM Printing",
@@ -13989,20 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.makeuseof.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/5-legendary-console-games-unofficial-android-ports/",
-      "title": "These 5 legendary console games now have unofficial Android ports",
-      "published": "2026-10-27T20:30:15+00:00",
-      "author": "Tyler Dupont",
-      "description": "You don't have to become a pirate to play your favorite console games on your phone.",
-      "link": "https://www.howtogeek.com/5-legendary-console-games-unofficial-android-ports/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/20261026_162727.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
     }
   ]
 }
