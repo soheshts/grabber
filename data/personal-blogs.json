@@ -1,9 +1,23 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-11T13:03:51.071457+00:00",
+  "updated": "2026-11-11T13:33:39.939743+00:00",
   "count": 451,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.bennadel.com/blog/4926-breaking-change-in-empty-line-regex-matching-in-adobe-coldfusion-2025-update-14.htm",
+      "title": "Breaking Change In Empty-Line RegEx Matching In Adobe ColdFusion 2025 Update 14",
+      "published": "2026-11-11T18:16:54+00:00",
+      "author": null,
+      "description": "Ben Nadel explores workarounds for the breaking change to empty-line pattern matching in Adobe ColdFusion 2025 update 14....",
+      "link": "https://www.bennadel.com/blog/4926-breaking-change-in-empty-line-regex-matching-in-adobe-coldfusion-2025-update-14.htm",
+      "image": "https://bennadel-cdn.com/resources/uploads/2026/acf-2025-update-14-empty-new-breaking-change-a@2x.png",
+      "feed_name": "Ben Nadel",
+      "feed_title": "Ben Nadel's Web Development and User Experience Feed @ BenNadel.com",
+      "category": "personal blogs",
+      "feed_url": "http://www.bennadel.com/index.cfm?dax=blog.rss&lst_tag_id=14,16,3,5,9,6,7,13,18,20,10,15",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.bennadel.com&sz=64"
+    },
     {
       "id": "https://shkspr.mobi/blog/?p=76208",
       "title": "HowTo: Fix Eufy HomeBase 2 Storage Full Issues",
@@ -5589,20 +5603,6 @@
       "category": "personal blogs",
       "feed_url": "https://thomasrigby.com/feed.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=thomasrigby.com&sz=64"
-    },
-    {
-      "id": "https://jeffbridgforth.com/?p=12623",
-      "title": "Most influential books",
-      "published": "2026-10-12T13:23:03+00:00",
-      "author": "Jeff Bridgforth",
-      "description": "Earlier in the year, I started a list to try to trace the impact that different books have had on my personal and professional life. The post Most influential books appeared first on Jeff Bridgforth .",
-      "link": "https://jeffbridgforth.com/most-influential-books/",
-      "image": null,
-      "feed_name": "Jeff Bridgforth",
-      "feed_title": "Jeff Bridgforth",
-      "category": "personal blogs",
-      "feed_url": "http://jeffbridgforth.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=jeffbridgforth.com&sz=64"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",

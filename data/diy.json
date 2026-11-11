@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-11T13:03:51.071457+00:00",
+  "updated": "2026-11-11T13:33:39.939743+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/household-mysteries-multimeters-solve/",
+      "title": "5 household mysteries a $15 multimeter solves before you call anyone",
+      "published": "2026-11-11T13:30:17+00:00",
+      "author": "Jonathon Jachura",
+      "description": "This low-cost tool has saved me countless hours of troubleshooting household problems.",
+      "link": "https://www.makeuseof.com/household-mysteries-multimeters-solve/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/multimeter-reading-12-45-volts-closeup.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/how-i-finally-took-control-of-my-home-assistant-dashboard/",
+      "title": "I finally took control of my Home Assistant dashboard",
+      "published": "2026-11-11T13:30:16+00:00",
+      "author": "Adam Davidson",
+      "description": "A dashboard that can read the room.",
+      "link": "https://www.howtogeek.com/how-i-finally-took-control-of-my-home-assistant-dashboard/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/iphone-on-a-wooden-table-showing-the-home-assistant-now-tab-working-view-with-next-break-panasonic-media-player-and-study-light-cards.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/upgrading-laptop-ram-later-stopped-saving-money/",
       "title": "The “upgrade the RAM yourself later” plan has stopped saving money",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/google-forms-versus-microsoft-forms-with-excel/",
-      "title": "Excel is the reason Microsoft Forms deserves more attention",
-      "published": "2026-10-28T10:55:16+00:00",
-      "author": "Adaeze Uche",
-      "description": "I stuck with Google Forms for years, but Excel eventually pulled me toward Microsoft Forms.",
-      "link": "https://www.makeuseof.com/google-forms-versus-microsoft-forms-with-excel/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/the-insert-forms-menu-in-microsoft-excel.png",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/one-app-makes-it-easy-to-dictate-text-on-android/",
-      "title": "I’ve almost stopped typing on my Android with this one app",
-      "published": "2026-10-28T10:30:16+00:00",
-      "author": "Abhijith N Arjunan",
-      "description": "This free-to-use app offers many voice typing features that Google expects you to only get with a new $800 phone.",
-      "link": "https://www.makeuseof.com/one-app-makes-it-easy-to-dictate-text-on-android/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/04/samsung-messages-and-wisper-flow-bubble-on-a-samsung-galaxy-z-flip-6.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }
