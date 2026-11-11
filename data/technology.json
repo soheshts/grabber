@@ -1,9 +1,51 @@
 {
   "category": "technology",
-  "updated": "2026-11-11T08:33:38.942493+00:00",
+  "updated": "2026-11-11T09:03:59.584474+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
+      "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+      "published": "2026-11-11T09:00:00+00:00",
+      "author": "Dr Nontobeko Ntombela",
+      "description": "A portrait of Dr Nontobeko Ntombela, Senior Lecturer, Department of Curatorial, Public and Visual Cultures, Wits School of Arts, University of the Witwatersrand",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/esther_video_still.max-600x600.format-webp.webp",
+      "feed_name": "The Keyword",
+      "feed_title": "News from Google",
+      "category": "technology",
+      "feed_url": "https://www.blog.google/rss/",
+      "feed_icon": "https://blog.google/static/blogv2/images/google.png"
+    },
+    {
+      "id": "TheNextWeb=37ca38918226f30d87c75f909fc0885b",
+      "title": "Anthropic’s IPO seeks up to $64.4B at a $1.4 trillion valuation",
+      "published": "2026-11-11T08:45:40+00:00",
+      "author": "Cristian Dina",
+      "description": "Anthropic has set the terms for the most closely watched listing of the AI era. The Claude maker and some existing shareholders will sell 825 million shares at $70 to $78 each, raising up to $64.4B, with trading due to start on the Nasdaq on November 19 under the ticker ANT. At the top of […] This story continues at The Next Web",
+      "link": "https://thenextweb.com/news/anthropic-ipo-terms-1-4-trillion-valuation",
+      "image": "https://media.thenextweb.com/2026/10/Dario-Amodei-washington-street-press.avif",
+      "feed_name": "The Next Web",
+      "feed_title": "The Next Web",
+      "category": "technology",
+      "feed_url": "https://thenextweb.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
+    {
+      "id": "TheNextWeb=3667791d622e17db04fe6109913a7651",
+      "title": "Microsoft finds AI agents can be backdoored by editing under 10 neurons",
+      "published": "2026-11-11T08:30:50+00:00",
+      "author": "Ana-Maria Stanciuc",
+      "description": "Some neurons in large language models are rarely activated. Microsoft researchers have found a way to turn fewer than 10 of these dormant neurons into a hidden backdoor, making an otherwise normal AI model behave as expected until it encounters a specific trigger. Once activated, the model can execute malicious commands. The technique, called Lazarus, […] This story continues at The Next Web",
+      "link": "https://thenextweb.com/news/microsoft-lazarus-ai-agent-backdoor-neurons",
+      "image": "https://media.thenextweb.com/2026/10/microsoft-logo-office-building.avif",
+      "feed_name": "The Next Web",
+      "feed_title": "The Next Web",
+      "category": "technology",
+      "feed_url": "https://thenextweb.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
     {
       "id": "TheNextWeb=97415fe7375aaef2c6ebdc03ede689de",
       "title": "The design workflow is broken. Here is how Vitalii Khomenko thinks it should be fixed",
@@ -13961,48 +14003,6 @@
       "category": "technology",
       "feed_url": "http://feeds.mashable.com/Mashable",
       "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
-    },
-    {
-      "id": "TheNextWeb=91f25f281a3da69d8aa6918a0f4f6b15",
-      "title": "Daniel Dines: workflows will go from people-centric to AI-centric",
-      "published": "2026-11-05T15:14:23+00:00",
-      "author": "Cristian Dina",
-      "description": "UiPath founder and CEO Daniel Dines would rather give a task to an AI agent than to a person, as long as the agent does it as well as a human. He would choose the agent even when it costs more, he told TNW. Dines spoke to Cristian Dina at FUSION in Dubai for the […] This story continues at The Next Web",
-      "link": "https://thenextweb.com/news/daniel-dines-uipath-ai-agent-over-human-tnw-podcast",
-      "image": "https://media.thenextweb.com/2026/11/daniel-dines-cristian-dina-uipath-fusion-dubai-tnw-podcast.avif",
-      "feed_name": "The Next Web",
-      "feed_title": "The Next Web",
-      "category": "technology",
-      "feed_url": "https://thenextweb.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
-    },
-    {
-      "id": "00KBpQFTmA4DKzoghIMEGeK",
-      "title": "AI agents are banned on Tinder and Hinge, CEO says",
-      "published": "2026-11-05T15:14:20+00:00",
-      "author": null,
-      "description": "Match Group CEO Spencer Rascoff wrote in the 'New York Times' that bots are banned from chatting and matching for users.",
-      "link": "https://mashable.com/life/ai-agents-are-banned-on-tinder-and-hinge-spencer-rascoff-says",
-      "image": "https://helios-i.mashable.com/imagery/articles/00KBpQFTmA4DKzoghIMEGeK/hero-image.jpg",
-      "feed_name": "Mashable",
-      "feed_title": "Mashable",
-      "category": "technology",
-      "feed_url": "http://feeds.mashable.com/Mashable",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
-    },
-    {
-      "id": "TheNextWeb=27218b9d6ba8c0f129b3bdd34ba17c3f",
-      "title": "Amazon drops Grubhub and puts Uber Eats inside its own app",
-      "published": "2026-11-05T15:04:54+00:00",
-      "author": "Cristian Dina",
-      "description": "Uber Eats is now Amazon’s restaurant delivery partner for Prime members in the US, replacing Grubhub. The two companies announced the deal on Thursday. Prime members can now order Uber Eats on Amazon, on the website or in the Amazon Shopping app, without an Uber account. They pay no delivery fee on orders of $25 […] This story continues at The Next Web",
-      "link": "https://thenextweb.com/news/uber-eats-on-amazon-prime-grubhub-lyft-go-doordash",
-      "image": "https://media.thenextweb.com/2026/10/amazon-logo-smartphone-wooden-table-1.avif",
-      "feed_name": "The Next Web",
-      "feed_title": "The Next Web",
-      "category": "technology",
-      "feed_url": "https://thenextweb.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
     }
   ]
 }
