@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-11T21:33:46.055633+00:00",
-  "count": 450,
+  "updated": "2026-11-11T22:03:55.561738+00:00",
+  "count": 448,
   "summary": null,
   "items": [
     {
@@ -5561,34 +5561,6 @@
       "category": "personal blogs",
       "feed_url": "https://chriscoyier.net/feed/",
       "feed_icon": "https://i0.wp.com/chriscoyier.net/wp-content/uploads/2021/07/IsUISvAq_400x400.jpg?fit=32%2C32&quality=89&ssl=1"
-    },
-    {
-      "id": "https://www.stefanjudis.com/blog/web-weekly-201/",
-      "title": "Web Weekly #201 (#blogPost)",
-      "published": "2026-10-12T22:00:00+00:00",
-      "author": "Stefan Judis (stefanjudis@gmail.com)",
-      "description": "Guten Tag! Guten Tag! 👋 Do you know what happens when you import the same module multiple times? Do you think we need a new poster element? And have you ever used the vary header to improve caching? Turn on the Web Weekly tune and find some answers below. Enjoy! ::: song by=\"Dom\" title=\"Twenty One Pilots - Center Mass\" youtube=\"PAbv0MXFYgE\" I really like the shift from a hip-hop style to a full rock ending, and the lyrics are well written around the topic of vulnerability and loss. ::: Do you w…",
-      "link": "https://www.stefanjudis.com/blog/web-weekly-201/",
-      "image": "https://images.ctfassets.net/f20lfrunubsq/kdTBh8RZv9O7QYqtZASPs/cfdf8843a09168abf4adb9fc1db458fa/Screenshot_2026-10-13_at_21.26.26.png",
-      "feed_name": "Stefan Judis Web Development",
-      "feed_title": "Stefan Judis Web Development",
-      "category": "personal blogs",
-      "feed_url": "https://www.stefanjudis.com/rss.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.stefanjudis.com&sz=64"
-    },
-    {
-      "id": "https://www.bennadel.com/blog/4915-using-the-htmx-hx-redirect-header-for-loop-backs-in-coldfusion.htm",
-      "title": "Using The HTMX HX-Redirect Header For Loop-Backs In ColdFusion",
-      "published": "2026-10-12T21:47:45+00:00",
-      "author": null,
-      "description": "Ben Nadel looks at an issue that the HTMX \"HX-Redirect\" header has when you try to redirect users back to the same page in ColdFusion....",
-      "link": "https://www.bennadel.com/blog/4915-using-the-htmx-hx-redirect-header-for-loop-backs-in-coldfusion.htm",
-      "image": null,
-      "feed_name": "Ben Nadel",
-      "feed_title": "Ben Nadel's Web Development and User Experience Feed @ BenNadel.com",
-      "category": "personal blogs",
-      "feed_url": "http://www.bennadel.com/index.cfm?dax=blog.rss&lst_tag_id=14,16,3,5,9,6,7,13,18,20,10,15",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.bennadel.com&sz=64"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
