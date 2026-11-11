@@ -1,6 +1,6 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-11T14:33:57.982967+00:00",
+  "updated": "2026-11-11T15:03:53.310525+00:00",
   "count": 453,
   "summary": null,
   "items": [
@@ -31,6 +31,20 @@
       "category": "personal blogs",
       "feed_url": "http://feeds.feedburner.com/FunctioningForm",
       "feed_icon": "https://static.lukew.com/lukew_space.png"
+    },
+    {
+      "id": "https://htmlcssjavascript.com/?p=11525",
+      "title": "The Fork-and-Edit Sin: Why I Took on Deliberate Tech Debt (And Paid It Off with Tokens)",
+      "published": "2026-11-11T13:45:05+00:00",
+      "author": "Rob Larsen",
+      "description": "Every seasoned software engineer has an internal alarm that rings the second they duplicate code. We’ve had the rules beaten into us for decades: Don’t Repeat Yourself (DRY). Abstract early. Build configurable components. How about- never fork a whole repo just to swap out data 😂 Last week, I ignored every single one of those […]",
+      "link": "https://htmlcssjavascript.com/web/the-fork-and-edit-sin-why-i-took-on-deliberate-tech-debt-and-paid-it-off-with-tokens/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f602.png",
+      "feed_name": "HTML + CSS + JavaScript",
+      "feed_title": "HTML + CSS + JavaScript",
+      "category": "personal blogs",
+      "feed_url": "http://feeds.feedburner.com/HtmlCssJavascript",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=htmlcssjavascript.com&sz=64"
     },
     {
       "id": "https://shkspr.mobi/blog/?p=76208",
@@ -5617,20 +5631,6 @@
       "category": "personal blogs",
       "feed_url": "http://www.vanschneider.com/feed",
       "feed_icon": "https://vanschneider.com/blog/favicon.png"
-    },
-    {
-      "id": "https://thomasrigby.com/posts/suatmm-ia-vanishing-line-notebook/",
-      "title": "iA Vanishing Line Notebook",
-      "published": "2026-10-12T14:37:12+00:00",
-      "author": "Thomas Rigby (rss@thomasrigby.com)",
-      "description": "A genius moment of paper engineering",
-      "link": "https://thomasrigby.com/posts/suatmm-ia-vanishing-line-notebook/",
-      "image": "https://thomasrigby.com/images/_Lx1N51VxX-600.jpeg",
-      "feed_name": "Thomas Rigby",
-      "feed_title": "Thomas Rigby",
-      "category": "personal blogs",
-      "feed_url": "https://thomasrigby.com/feed.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=thomasrigby.com&sz=64"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
