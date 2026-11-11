@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-11T00:03:54.572517+00:00",
+  "updated": "2026-11-11T00:33:38.679050+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://hackaday.com/?p=1424431",
+      "title": "Watching the Watchers",
+      "published": "2026-11-11T00:00:28+00:00",
+      "author": "Bryan Cockfield",
+      "description": "Although it used to be a much more rare event, now almost any time at dawn or dusk, provided clear weather, a human observer can walk outside, look up, and …read more",
+      "link": "https://hackaday.com/2026/11/10/watching-the-watchers/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/satellite-tracker-main.png",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/motorolas-us-flagship-comeback-is-dead-on-arrival/",
       "title": "Motorola's US flagship comeback is dead on arrival",
@@ -13989,20 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/why-windows-exe-files-start-with-mz/",
-      "title": "Billions of Windows programs still begin with one man’s initials",
-      "published": "2026-10-27T19:31:16+00:00",
-      "author": "Oluwademilade Afolabi",
-      "description": "Windows has been carrying this little 1980s Easter egg for decades.",
-      "link": "https://www.makeuseof.com/why-windows-exe-files-start-with-mz/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/hxd-showing-the-mz-signature-dos-stub-text-and-pe-header-inside-a-windows-executable.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }
