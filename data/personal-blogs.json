@@ -1,9 +1,23 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-11T09:36:30.783751+00:00",
-  "count": 447,
+  "updated": "2026-11-11T10:02:41.030674+00:00",
+  "count": 448,
   "summary": null,
   "items": [
+    {
+      "id": "https://csswizardry.com/2026/11/web-perf-wednesday-017-prebid-stops-redownloading-its-manifest/",
+      "title": "Web-Perf Wednesday 017 – Prebid Stops Re-downloading Its Manifest",
+      "published": "2026-11-11T12:00:00+00:00",
+      "author": null,
+      "description": "Prebid 11.48 makes its jsDelivr manifest cacheable, removing 67 KB of repeat downloads for sites that use the web bundler.",
+      "link": "https://csswizardry.com/2026/11/web-perf-wednesday-017-prebid-stops-redownloading-its-manifest/",
+      "image": null,
+      "feed_name": "CSS Wizardry",
+      "feed_title": "CSS Wizardry",
+      "category": "personal blogs",
+      "feed_url": "http://feeds.feedburner.com/csswizardry",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=csswizardry.com&sz=64"
+    },
     {
       "id": "https://rachsmith.com/return-and-redesign/",
       "title": "A return and a redesign",
