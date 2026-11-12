@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-12T13:02:33.304834+00:00",
+  "updated": "2026-11-12T13:33:47.496652+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.howtogeek.com/3-home-assistant-projects-to-try-this-weekend-nov-1315/",
+      "title": "3 Home Assistant projects to build tiny dashboards this weekend (Nov 13–15)",
+      "published": "2026-11-12T13:30:16+00:00",
+      "author": "Adam Davidson",
+      "description": "Size isn't everything.",
+      "link": "https://www.howtogeek.com/3-home-assistant-projects-to-try-this-weekend-nov-1315/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/a-cheap-yellow-display-in-front-of-a-computer-showing-a-screen-with-the-time-and-smart-home-controls.png",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/my-dvd-collection-vs-streaming-subscriptions/",
       "title": "I marathoned my 20-year-old DVD collection, and now I want to cancel all my streaming subscriptions",
@@ -20,7 +34,7 @@
     },
     {
       "id": "https://www.howtogeek.com/microsoft-photos-search-organization/",
-      "title": "Organizing photos isn't as important as it used to be, and Microsoft knows it",
+      "title": "Windows 11's new photo search is making me stop organizing my photos",
       "published": "2026-11-12T13:00:16+00:00",
       "author": "Tony Phillips",
       "description": "The more my photo library grows, the less I care where anything is stored.",
@@ -13989,20 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/make-wi-fi-feel-fast-with-metered-connection-windows-11/",
-      "title": "I set my Wi-Fi as metered in Windows 11, and my internet finally felt fast",
-      "published": "2026-10-29T11:00:16+00:00",
-      "author": "Pankil Shah",
-      "description": "Before you upgrade your internet plan, try this.",
-      "link": "https://www.makeuseof.com/make-wi-fi-feel-fast-with-metered-connection-windows-11/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/03/windows-laptop-showing-internet-speed-test-result.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }
