@@ -1,9 +1,23 @@
 {
   "category": "technology",
-  "updated": "2026-11-12T07:04:15.110792+00:00",
+  "updated": "2026-11-12T07:32:26.863800+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://hardware.slashdot.org/story/26/11/11/2347221/power-grids-on-5-continents-pulse-every-60s-scientists-think-they-know-why?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "title": "Power Grids On 5 Continents Pulse Every 60s. Scientists Think They Know Why",
+      "published": "2026-11-12T07:00:00+00:00",
+      "author": "BeauHD",
+      "description": "\"ScienceAlert is reporting that researchers may have finally determined why, for many years, power grids around the world have been pulsing every 60 seconds,\" writes longtime Slashdot reader fahrbot-bot. The likely culprit? Uninterruptible power supplies running routine battery checks. From the report: Every minute, some uninterruptible power supplies perform routine battery checks, creating small but measurable surges in electricity demand. And it's like clockwork. \"Even benign control routine…",
+      "link": "https://hardware.slashdot.org/story/26/11/11/2347221/power-grids-on-5-continents-pulse-every-60s-scientists-think-they-know-why?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+      "feed_name": "Slashdot",
+      "feed_title": "Slashdot",
+      "category": "technology",
+      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
+    },
     {
       "id": "06S4Xe48HKPV2CcD7kkUCFL",
       "title": "How to watch Italy vs. France online for free",
@@ -13989,20 +14003,6 @@
       "category": "technology",
       "feed_url": "https://thenextweb.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
-    },
-    {
-      "id": "https://arstechnica.com/space/2026/11/rocket-report-new-glenn-wont-fly-this-year-china-launches-mini-falcon-heavy/",
-      "title": "Rocket Report: Artemis II literally tore through the atmosphere; New Glenn delay",
-      "published": "2026-11-06T13:33:20+00:00",
-      "author": "Stephen Clark",
-      "description": "Interstellar Technologies announces more government funding for the Japanese Zero rocket.",
-      "link": "https://arstechnica.com/space/2026/11/rocket-report-new-glenn-wont-fly-this-year-china-launches-mini-falcon-heavy/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/NHQ202604010115orig-500x500.jpg",
-      "feed_name": "Ars Technica",
-      "feed_title": "Ars Technica - All content",
-      "category": "technology",
-      "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
-      "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
     }
   ]
 }
