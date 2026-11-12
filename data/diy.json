@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-12T13:33:47.496652+00:00",
+  "updated": "2026-11-12T14:03:53.194296+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/vertical-second-monitor/",
+      "title": "Turning my second monitor vertical fixed a problem I didn’t know I had",
+      "published": "2026-11-12T14:00:17+00:00",
+      "author": "Shaun Cichacki",
+      "description": "A tall display does what two widescreens can’t.",
+      "link": "https://www.makeuseof.com/vertical-second-monitor/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/11/vertical-monitor-muo.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/you-can-get-unlimited-google-photos-storage-with-a-100-original-pixel/",
+      "title": "You can still get unlimited Google Photos storage with a $100 original Pixel",
+      "published": "2026-11-12T14:00:15+00:00",
+      "author": "Ismar Hrnjicevic",
+      "description": "Who knew you could replace an endless subscription with endless cloud storage?",
+      "link": "https://www.howtogeek.com/you-can-get-unlimited-google-photos-storage-with-a-100-original-pixel/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/pixel_photos.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/3-home-assistant-projects-to-try-this-weekend-nov-1315/",
       "title": "3 Home Assistant projects to build tiny dashboards this weekend (Nov 13–15)",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.apartmenttherapy.com/projects.rss",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.apartmenttherapy.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/iphone-still-cant-turn-off-2g/",
-      "title": "My iPhone still can’t turn off 2G, and it’s the Android feature I envy most",
-      "published": "2026-10-29T11:30:16+00:00",
-      "author": "Jonathon Jachura",
-      "description": "The 2G network is a potential security threat to all iOS devices.",
-      "link": "https://www.makeuseof.com/iphone-still-cant-turn-off-2g/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/09/iphone-16-pro-max-with-large-dark-icons.jpeg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/i-stopped-tossing-old-flash-drives-and-my-homelab-is-better-for-it/",
-      "title": "I stopped tossing old flash drives, and my homelab is better for it",
-      "published": "2026-10-29T11:30:15+00:00",
-      "author": "Patrick Campanale",
-      "description": "Single-purpose jobs are where cheap flash drives still shine.",
-      "link": "https://www.howtogeek.com/i-stopped-tossing-old-flash-drives-and-my-homelab-is-better-for-it/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/08/hand-holding-a-sandisk-usb-flash-thumb-drive.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
     }
   ]
 }
