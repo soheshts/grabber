@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-12T16:03:01.133995+00:00",
-  "count": 443,
+  "updated": "2026-11-12T16:33:34.988754+00:00",
+  "count": 442,
   "summary": null,
   "items": [
     {
@@ -5477,20 +5477,6 @@
       "category": "personal blogs",
       "feed_url": "http://feeds.feedburner.com/HtmlCssJavascript",
       "feed_icon": "https://www.google.com/s2/favicons?domain=htmlcssjavascript.com&sz=64"
-    },
-    {
-      "id": "https://www.bennadel.com/blog/4917-returning-a-struct-from-a-one-line-closure-in-coldfusion.htm",
-      "title": "Returning A Struct From A One-Line Closure In ColdFusion",
-      "published": "2026-10-13T16:04:40+00:00",
-      "author": null,
-      "description": "Ben Nadel demonstrates how to return a struct literal from a one-line closure in ColdFusion without confusing the CFML parser....",
-      "link": "https://www.bennadel.com/blog/4917-returning-a-struct-from-a-one-line-closure-in-coldfusion.htm",
-      "image": null,
-      "feed_name": "Ben Nadel",
-      "feed_title": "Ben Nadel's Web Development and User Experience Feed @ BenNadel.com",
-      "category": "personal blogs",
-      "feed_url": "http://www.bennadel.com/index.cfm?dax=blog.rss&lst_tag_id=14,16,3,5,9,6,7,13,18,20,10,15",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.bennadel.com&sz=64"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
