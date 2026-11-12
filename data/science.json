@@ -1,9 +1,37 @@
 {
   "category": "science",
-  "updated": "2026-11-12T08:03:08.238785+00:00",
+  "updated": "2026-11-12T08:33:34.463874+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "6ae9173b1c32373b69412ad2",
+      "title": "The Polar Vortex Is About to Make Weather Weird From the UK to the US",
+      "published": "2026-11-12T08:00:00+00:00",
+      "author": "Dennis Mersereau",
+      "description": "These Arctic currents have never broken down so early in the season. Combined with an unprecedented El Niño, the outcomes aren’t easy to predict.",
+      "link": "https://www.wired.com/story/the-polar-vortex-is-about-to-make-weather-weird-from-the-uk-to-the-us/",
+      "image": "https://media.wired.com/photos/6ae9f4b9174ddb15ddc58a96/master/pass/Science_PolarVortex_v1.jpg",
+      "feed_name": "Science Latest",
+      "feed_title": "Science Latest",
+      "category": "science",
+      "feed_url": "https://www.wired.com/feed/category/science/latest/rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.wired.com&sz=64"
+    },
+    {
+      "id": "urn:bbc:podcast:m003417t",
+      "title": "Guano: Liquid Gold - Zoe Lyons, Tim Birkhead and Kate Jones",
+      "published": "2026-11-12T07:00:00+00:00",
+      "author": "BBC Radio 4",
+      "description": "Bird and bat droppings might not sound precious, but guano was once so prized it shaped agriculture, trade and even warfare. Professor Adam Rutherford and Jessica Fostekew explore the surprising story of this pongy but remarkable substance, joined by ecologist Kate Jones, ornithologist Tim Birkhead and comedian Zoe Lyons. From vast seabird colonies off the coast of Peru to bat-filled caves in the tropics, they discover how guano became one of humanity's most valuable natural resources, powering…",
+      "link": "http://www.bbc.co.uk/programmes/m003417t",
+      "image": "https://ichef.bbci.co.uk/images/ic/1200x675/p0pfwlz7.jpg",
+      "feed_name": "The Infinite Monkey Cage",
+      "feed_title": "The Infinite Monkey Cage",
+      "category": "science",
+      "feed_url": "https://podcasts.files.bbci.co.uk/b00snr0w.rss",
+      "feed_icon": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0pfwmbx.jpg"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cmpw48zwnevlo#1",
       "title": "Campaigners want more land protected from housing",
@@ -53,7 +81,7 @@
       "author": null,
       "description": "Wales needs to grow more fruit and veg or it will be at the mercy of wars and climate change, one expert says.",
       "link": "https://www.bbc.co.uk/news/articles/cmkgev3ldl9ro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d987/live/52d3e450-de0f-11f1-ae98-5daa7957bf8b.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5e0/live/4c115b80-de72-11f1-b441-2b33b063138f.jpg",
       "feed_name": "BBC News - Science & Environment",
       "feed_title": "BBC News",
       "category": "science",
@@ -13975,34 +14003,6 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "news712908923",
-      "title": "Many local communities know how to communicate during disasters. Let's learn from them",
-      "published": "2026-11-03T15:00:04+00:00",
-      "author": null,
-      "description": "It was a frightening time.",
-      "link": "https://phys.org/news/2026-11-local-communities-communicate-disasters.html",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bushfire-1.jpg",
-      "feed_name": "Phys.org - latest science and technology news stories",
-      "feed_title": "Phys.org - latest science and technology news stories",
-      "category": "science",
-      "feed_url": "https://phys.org/rss-feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "https://www.scientificamerican.com/article/new-yorks-first-measles-death-in-30-years-is-an-omen-of-worse-to-come/",
-      "title": "New York’s first measles death in 30 years is an omen of worse to come",
-      "published": "2026-11-03T14:50:00+00:00",
-      "author": null,
-      "description": "A child died after contracting the disease amid the largest national measles outbreak in more than three decades",
-      "link": "https://www.scientificamerican.com/article/new-yorks-first-measles-death-in-30-years-is-an-omen-of-worse-to-come/",
-      "image": "https://static.scientificamerican.com/dam/m/737e74fcc2043ce3/original/Measles-virus.jpg?m=1793722156.98&w=1200",
-      "feed_name": "Scientific American Content: Global",
-      "feed_title": "Scientific American Content: Global",
-      "category": "science",
-      "feed_url": "http://rss.sciam.com/ScientificAmerican-Global",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.scientificamerican.com&sz=64"
     }
   ]
 }
