@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-12T04:02:29.338364+00:00",
-  "count": 446,
+  "updated": "2026-11-12T04:32:43.400163+00:00",
+  "count": 447,
   "summary": null,
   "items": [
     {
@@ -31,6 +31,20 @@
       "category": "personal blogs",
       "feed_url": "https://www.the-haystack.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.the-haystack.com&sz=64"
+    },
+    {
+      "id": "https://rachsmith.com/the-new-site/",
+      "title": "The new site",
+      "published": "2026-11-12T00:00:00+00:00",
+      "author": null,
+      "description": "In recent years rachsmith.com has been an Astro static site, hosted on Netlify. Astro is awesome, and I would recommend it to anyone for creating a personal site! I've been really enjoying using Go since we brought it in to the CodePen stack. I decided I wanted to run a site on my own Go web server where I had 100% control and could do anything I wanted. So that's what this site is now. A Go binary, with a SQLite db, sitting on a Digital Ocean droplet, with Bunny CDN and Cloudflare for asset de…",
+      "link": "https://rachsmith.com/the-new-site",
+      "image": "https://rachsmith.b-cdn.net/the-new-site/social.png",
+      "feed_name": "Rach Smith's digital garden",
+      "feed_title": "Rach Smith's notes & nuggets",
+      "category": "personal blogs",
+      "feed_url": "http://rachsmith.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=rachsmith.com&sz=64"
     },
     {
       "id": "https://www.bennadel.com/blog/4926-breaking-change-in-empty-line-regex-matching-in-adobe-coldfusion-2025-update-14.htm",
