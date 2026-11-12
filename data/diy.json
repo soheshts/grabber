@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-12T20:03:23.476103+00:00",
+  "updated": "2026-11-12T20:32:45.866363+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.howtogeek.com/smart-home-nfc-triggers-youve-never-thought-of/",
+      "title": "7 smart home NFC triggers you've never thought of",
+      "published": "2026-11-12T20:30:16+00:00",
+      "author": "Adam Davidson",
+      "description": "Yes we scan.",
+      "link": "https://www.howtogeek.com/smart-home-nfc-triggers-youve-never-thought-of/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/nfc-tags-arranged-in-the-shape-of-a-face-with-a-usb-cable-surrounding-them.png",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/apple-changes-its-trade-in-prices-once-more/",
+      "title": "Apple now takes Samsung foldables for trade-in, but some iPhone Pros are worth less",
+      "published": "2026-11-12T20:18:39+00:00",
+      "author": "Tyler Cross",
+      "description": "Apple has once again altered its trade-in prices for popular products.",
+      "link": "https://www.howtogeek.com/apple-changes-its-trade-in-prices-once-more/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2025/09/ios-26-settings-i-changed-after-upgrading-my-iphone.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/8-best-classic-literary-adaptations-netflix-east-of-eden-frankenstein/",
       "title": "8 best classic literary adaptations you can watch on Netflix right now",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://hackaday.com/blog/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/mistral-large-4-weights-released/",
-      "title": "Mistral is taking on U.S. and Chinese AI giants with its biggest model yet",
-      "published": "2026-10-29T19:36:10+00:00",
-      "author": "Jefferson Mangubat",
-      "description": "Meet ‘Le Chonk’",
-      "link": "https://www.howtogeek.com/mistral-large-4-weights-released/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/09/untitled-1.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/why-windows-has-two-program-files-folders/",
-      "title": "Why 64-bit Windows needs two Program Files folders",
-      "published": "2026-10-29T19:30:16+00:00",
-      "author": "Oluwademilade Afolabi",
-      "description": "That weird “(x86)” folder has a better excuse than you think.",
-      "link": "https://www.makeuseof.com/why-windows-has-two-program-files-folders/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/windows-program-files-x86-folders.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }
