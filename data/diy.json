@@ -1,9 +1,51 @@
 {
   "category": "DIY",
-  "updated": "2026-11-12T21:32:49.317344+00:00",
+  "updated": "2026-11-12T22:03:58.039374+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/amd-finally-addresses-radeon-driver-bug-causing-massive-ssd-writes/",
+      "title": "AMD finally addresses Radeon driver bug causing massive SSD writes",
+      "published": "2026-11-12T22:01:41+00:00",
+      "author": "Rob LeFebvre",
+      "description": "No more unnecessarily massive data writes plaguing your SSD",
+      "link": "https://www.makeuseof.com/amd-finally-addresses-radeon-driver-bug-causing-massive-ssd-writes/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2026/08/amd-radeon-rdna4.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/ways-modern-ssds-are-still-haunted-by-the-ghost-of-90s-hard-drives/",
+      "title": "3 ways modern SSDs are still haunted by the ghost of '90s hard drives",
+      "published": "2026-11-12T22:00:29+00:00",
+      "author": "Sydney Butler",
+      "description": "Phantom read/write heads, GPT fields for cylinders and sectors, and unused drive bays show SSDs still wear HDD ancestry.",
+      "link": "https://www.howtogeek.com/ways-modern-ssds-are-still-haunted-by-the-ghost-of-90s-hard-drives/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2025/07/52651182169_f06ff010f1_o.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.makeuseof.com/clutter-and-ad-free-smart-tv-exists-with-this-os/",
+      "title": "I thought a smart TV without clutter and ads didn't exist until I tried this OS",
+      "published": "2026-11-12T22:00:29+00:00",
+      "author": "Shimul Sood",
+      "description": "Boring is pretty beautiful.",
+      "link": "https://www.makeuseof.com/clutter-and-ad-free-smart-tv-exists-with-this-os/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/08/apple-tv-home-screen-showing-plex.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/turn-your-android-phone-into-a-pocket-sized-pc-with-dextop/",
       "title": "Turn your Android phone into a pocket-sized PC with Dextop",
@@ -13961,48 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.apartmenttherapy.com/projects.rss",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.apartmenttherapy.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/this-tiny-slider-is-tanking-your-gpu-performance/",
-      "title": "This tiny slider is tanking your GPU performance",
-      "published": "2026-10-29T21:30:16+00:00",
-      "author": "Monica J. White",
-      "description": "You should try and make the most of your overpriced GPU.",
-      "link": "https://www.howtogeek.com/this-tiny-slider-is-tanking-your-gpu-performance/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/09/feat-1.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/google-pixel-battery-fastest-speed-setting/",
-      "title": "Your Pixel battery won’t charge at its fastest speed unless you enable this setting",
-      "published": "2026-10-29T21:01:16+00:00",
-      "author": "Brady Snyder",
-      "description": "It's time to try Extreme Charging Mode.",
-      "link": "https://www.makeuseof.com/google-pixel-battery-fastest-speed-setting/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/08/google-pixel-11-pro-fold-4.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/gmail-stopped-being-nightmare-after-set-up-simple-automations/",
-      "title": "Gmail stopped being a nightmare after I set up these 5 simple automations",
-      "published": "2026-10-29T21:01:15+00:00",
-      "author": "Tony Phillips",
-      "description": "A few simple Gmail settings can simplify follow-ups, automate replies, redirect key messages, and organize your inbox.",
-      "link": "https://www.howtogeek.com/gmail-stopped-being-nightmare-after-set-up-simple-automations/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/08/laptop-screen-showing-gmail-in-a-web-browser-with-a-filter-being-applied.png",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
     }
   ]
 }

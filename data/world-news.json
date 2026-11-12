@@ -1,13 +1,27 @@
 {
   "category": "World News",
-  "updated": "2026-11-12T21:32:49.317344+00:00",
+  "updated": "2026-11-12T22:03:58.039374+00:00",
   "count": 1000,
   "summary": null,
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/11/12/world/europe/army-britain-arrest-spy-russia.html",
+      "title": "Army Officer Accused of Trying to Spy for Russia Is Afghan War Veteran",
+      "published": "2026-11-12T21:46:28+00:00",
+      "author": "Michael Schwirtz and Eric Schmitt",
+      "description": "The officer, who served at a NATO base in Britain, is expected to be charged in the coming days, two officials said.",
+      "link": "https://www.nytimes.com/2026/11/12/world/europe/army-britain-arrest-spy-russia.html",
+      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12int-soldier-russia-mfbj/12int-soldier-russia-mfbj-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
       "id": "108550488",
       "title": "Microsoft outage hits Outlook. AWS and Google users also report issues",
-      "published": "2026-11-12T21:28:54+00:00",
+      "published": "2026-11-12T21:43:11+00:00",
       "author": null,
       "description": "Amazon Web Services and Google users also reported outages on Thursday",
       "link": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
@@ -17,6 +31,20 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/us/an-indiana-man-joined-a-two-hour-pedal-pub-tour-drank-beer-and-fell-while-climbing-off-the-48-inch-high-seat-five-years-later-an-appeals-court-says-the-waiver-he-signed-prevents-his-negligence-claim/articleshow/135739532.cms",
+      "title": "Indiana man loses pedal-pub injury lawsuit after appeals court upholds signed waiver",
+      "published": "2026-11-12T21:30:00+00:00",
+      "author": "TOI World Desk",
+      "description": "",
+      "link": "https://timesofindia.indiatimes.com/world/us/an-indiana-man-joined-a-two-hour-pedal-pub-tour-drank-beer-and-fell-while-climbing-off-the-48-inch-high-seat-five-years-later-an-appeals-court-says-the-waiver-he-signed-prevents-his-negligence-claim/articleshow/135739532.cms",
+      "image": "https://static.toiimg.com/photo/msid-135739665,imgsize-618862.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo#1",
@@ -31,6 +59,34 @@
       "category": "World News",
       "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/science/nature/electricity-turns-old-wind-turbine-blades-into-valuable-graphene-for-stronger-future-turbines/articleshow/135716227.cms",
+      "title": "Researchers turn discarded wind turbine blades into graphene-rich material for newer ones",
+      "published": "2026-11-12T21:25:00+00:00",
+      "author": "TOI Science Desk",
+      "description": "Wind turbine blades are challenging to dispose of due to their long-lasting materials, which complicate recycling efforts. A research team from Tsinghua University has created a method for transforming discarded blades into silicon carbide and graphene. The process requires a rapid temperature increase using electrical pulses, which is effective in material recovery.",
+      "link": "https://timesofindia.indiatimes.com/science/nature/electricity-turns-old-wind-turbine-blades-into-valuable-graphene-for-stronger-future-turbines/articleshow/135716227.cms",
+      "image": "https://static.toiimg.com/photo/msid-135716440,imgsize-1268814.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/us/a-woman-booked-a-washington-airbnb-for-32-days-after-a-fire-displaced-her-but-stayed-for-months-the-homeowner-offered-2500-and-two-months-of-free-rent-before-a-judge-ruled-in-her-favour/articleshow/135758706.cms",
+      "title": "Woman's 32-day Airbnb stay turned into months-long legal battle in Washington",
+      "published": "2026-11-12T21:20:00+00:00",
+      "author": "TOI World Desk",
+      "description": "",
+      "link": "https://timesofindia.indiatimes.com/world/us/a-woman-booked-a-washington-airbnb-for-32-days-after-a-fire-displaced-her-but-stayed-for-months-the-homeowner-offered-2500-and-two-months-of-free-rent-before-a-judge-ruled-in-her-favour/articleshow/135758706.cms",
+      "image": "https://static.toiimg.com/photo/msid-135758925,imgsize-1636623.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
       "id": "108549799",
@@ -73,20 +129,6 @@
       "category": "World News",
       "feed_url": "https://www.reddit.com/r/worldnews/.rss",
       "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/12/world/europe/army-britain-arrest-spy-russia.html",
-      "title": "Army Officer Accused of Trying to Spy for Russia Is Afghan War Veteran",
-      "published": "2026-11-12T21:00:52+00:00",
-      "author": "Michael Schwirtz and Eric Schmitt",
-      "description": "The officer, who served at a NATO base in Britain, is expected to be charged in the coming days, two officials said.",
-      "link": "https://www.nytimes.com/2026/11/12/world/europe/army-britain-arrest-spy-russia.html",
-      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12int-soldier-russia-mfbj/12int-soldier-russia-mfbj-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo#0",
@@ -541,7 +583,7 @@
       "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
       "published": "2026-11-12T18:47:35+00:00",
       "author": null,
-      "description": "Specialist Thomas Iglesias was given a Joint Service Commendation Medal for the execution of his duties after Wednesday's incident.",
+      "description": "Specialist Thomas Iglesias had shouted at Hegseth's group to be quiet after they could be heard talking and laughing at the Tomb of the Unknown Soldier.",
       "link": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9916/live/a7c0bac0-dec7-11f1-a701-fddedf244c16.jpg",
       "feed_name": "BBC News - World",
@@ -1395,7 +1437,7 @@
       "title": "What’s behind Australia’s surge in teen extremism?",
       "published": "2026-11-12T14:00:45+00:00",
       "author": "Ariel Bogle",
-      "description": "Young people are being found with ‘hard drives full of what can only be described as gore’, one expert says In March, Guardian Australia revealed that most people who have been charged with the new federal crime of possession of violent extremist material are under 18. This week Australian federal police sounded the alarm about a surge in teen extremism: 32 of the 37 young people prosecuted in counter-terrorism cases since 2020 were charged in the past two years. Continue reading...",
+      "description": "Young people are being found with ‘hard drives full of what can only be described as gore’, one expert says Get our breaking news email , free app or daily news podcast In March, Guardian Australia revealed that most people who have been charged with the new federal crime of possession of violent extremist material are under 18. This week Australian federal police sounded the alarm about a surge in teen extremism: 32 of the 37 young people prosecuted in counter-terrorism cases since 2020 were c…",
       "link": "https://www.theguardian.com/australia-news/2026/nov/13/australia-surge-in-teen-extremism-ntwnfb",
       "image": "https://i.guim.co.uk/img/media/73d8f7306ac81a98efc7615dd99b04af35587a1e/554_0_5211_4171/master/5211.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=08028dcfe68f714f0adb53d22f5e6198",
       "feed_name": "The Guardian",
@@ -1409,7 +1451,7 @@
       "title": "Icac’s drama and dirt files show NSW’s ‘guns for hire’ problem. But neither major party is serious about reform",
       "published": "2026-11-12T14:00:44+00:00",
       "author": "Anne Davies",
-      "description": "Chris Minns’ move to address the threat of undeclared lobbying falls well short of what the commission recommended five years ago Get our daily political email , free app or daily news podcast A dirt file on a state minister peddled to journalists. A subterranean campaign to discredit the building commissioner. Convincing the Liberal party to unseat councillors in the Hills district who were blocking a developer. The New South Wales corruption watchdog’s recent inquiry, Rosny, revealed the ease…",
+      "description": "Chris Minns’s move to address the threat of undeclared lobbying falls well short of what the commission recommended five years ago Get our daily political email , free app or daily news podcast A dirt file on a state minister peddled to journalists. A subterranean campaign to discredit the building commissioner. Convincing the Liberal party to unseat councillors in the Hills district who were blocking a developer. The New South Wales corruption watchdog’s recent inquiry, Rosny, revealed the eas…",
       "link": "https://www.theguardian.com/australia-news/2026/nov/13/icac-chris-minns-nsw-undeclared-lobbying-bill-ntwnfb",
       "image": "https://i.guim.co.uk/img/media/cbb577c399c0993101f20d08d1df77d73e9c3275/2537_1001_2478_1983/master/2478.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5ba119f82d1b44b0f279041e80f16ac4",
       "feed_name": "The Guardian",
@@ -13961,48 +14003,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/cyprus-presidential-palace-will-host-its-first-ever-diwali-bash-12303771#publisher=newsstand",
-      "title": "This European Presidential Palace Will Host Its First Ever Diwali Bash",
-      "published": "2026-11-09T13:00:17+00:00",
-      "author": null,
-      "description": "Help2Live is a charity foundation active in Cyprus for 15 years.",
-      "link": "https://www.ndtv.com/world-news/cyprus-presidential-palace-will-host-its-first-ever-diwali-bash-12303771#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-11/95pna5to_diwali-par-kitne-deeye-jalane-chahiye_625x300_08_November_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/real-estate/news/in-2021-meg-ryan-bought-a-montecito-estate-for-9-5-million-and-expanded-it-with-a-major-renovation-she-sold-it-for-16-8-million-in-2025-and-its-next-owner-resold-the-property-for-18-million-in-october-2026/articleshow/135682198.cms",
-      "title": "Meg Ryan's renovated Montecito estate sells for $18 million after two resales in 2025 and 2026",
-      "published": "2026-11-09T13:00:00+00:00",
-      "author": "TOI Real Estate Desk",
-      "description": "Meg Ryan's former estate in Montecito has seen significant changes throughout its brief ownership history. After acquiring the property for $9.5 million in 2021, Ryan renovated and sold it for an impressive $16.8 million in 2025. The subsequent owner tried to list it at elevated prices but faced challenges, ultimately achieving a sale of $18 million after a price drop just four months later.",
-      "link": "https://timesofindia.indiatimes.com/real-estate/news/in-2021-meg-ryan-bought-a-montecito-estate-for-9-5-million-and-expanded-it-with-a-major-renovation-she-sold-it-for-16-8-million-in-2025-and-its-next-owner-resold-the-property-for-18-million-in-october-2026/articleshow/135682198.cms",
-      "image": "https://static.toiimg.com/photo/msid-135682561,imgsize-189559.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "t3_1xrqyoz",
-      "title": "Russia Tries to Turn France’s Violent Protests Into a Disinformation Weapon, EU Investigation Finds",
-      "published": "2026-11-09T12:56:28+00:00",
-      "author": "/u/Miserable_Phase_2519",
-      "description": "submitted by /u/Miserable_Phase_2519 [link] [comments]",
-      "link": "https://www.reddit.com/r/worldnews/comments/1xrqyoz/russia_tries_to_turn_frances_violent_protests/",
-      "image": "https://external-preview.redd.it/M0cT3HaLCvHPx69XPpiQsFLj6tohpMTRI30AbL2avuA.jpeg?width=640&crop=smart&auto=webp&s=b5e0578af8a662379ee2866e7bbaedf2025d9bbd",
-      "feed_name": "World News",
-      "feed_title": "World News",
-      "category": "World News",
-      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
-      "feed_icon": "https://www.redditstatic.com/icon.png/"
     }
   ]
 }
