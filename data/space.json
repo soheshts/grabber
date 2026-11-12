@@ -1,7 +1,7 @@
 {
   "category": "space",
-  "updated": "2026-11-12T05:33:41.962881+00:00",
-  "count": 359,
+  "updated": "2026-11-12T06:03:06.920739+00:00",
+  "count": 361,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,34 @@
       "category": "space",
       "feed_url": "https://www.space.com/feeds/all",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.space.com&sz=64"
+    },
+    {
+      "id": "https://science.nasa.gov/image-article/apod-2026-november-12-moon-venus-and-spica-meet/",
+      "title": "APOD: 2026 November 12 – Moon, Venus and Spica Meet",
+      "published": "2026-11-12T05:05:00+00:00",
+      "author": null,
+      "description": "APOD Science APOD APOD: 2026 November 12 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Moon, Venus and […]",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-12-moon-venus-and-spica-meet/",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/conjunction-bubak.jpg?w=1638&h=2048&fit=clip&crop=faces%2Cfocalpoint",
+      "feed_name": "NASA Breaking News",
+      "feed_title": "NASA",
+      "category": "space",
+      "feed_url": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.nasa.gov&sz=64"
+    },
+    {
+      "id": "https://science.nasa.gov/earth/earth-observatory/scotlands-flow-country/",
+      "title": "Scotland’s Flow Country",
+      "published": "2026-11-12T05:01:00+00:00",
+      "author": null,
+      "description": "Blanket bogs in the Scottish Highlands store vast amounts of carbon.",
+      "link": "https://science.nasa.gov/earth/earth-observatory/scotlands-flow-country/",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/scotland’s-flow-country-/scotland_flowcountry_oli2_20240304.jpg?w=720&h=600&fit=clip&crop=faces%2Cfocalpoint",
+      "feed_name": "NASA Breaking News",
+      "feed_title": "NASA",
+      "category": "space",
+      "feed_url": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.nasa.gov&sz=64"
     },
     {
       "id": "https://science.nasa.gov/blog/curiosity-blog-sols-5063-5069-rocks-and-chips/",
