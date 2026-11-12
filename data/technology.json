@@ -1,9 +1,37 @@
 {
   "category": "technology",
-  "updated": "2026-11-12T14:32:49.824306+00:00",
+  "updated": "2026-11-12T15:04:52.082097+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/",
+      "title": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
+      "published": "2026-11-12T14:50:17+00:00",
+      "author": "Ryan Whitwam",
+      "description": "The first Gemini smartglasses are a collab between Google, Samsung, Gentle Monster, and Warby Parker.",
+      "link": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/WP_ALDEN-Carousel_Lifestyle-copy-500x500.jpg",
+      "feed_name": "Ars Technica",
+      "feed_title": "Ars Technica",
+      "category": "technology",
+      "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
+      "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
+    },
+    {
+      "id": "5196241",
+      "title": "Nvidia CEO Jensen Huang Resigns",
+      "published": "2026-11-12T14:25:06+00:00",
+      "author": "Steven Musil",
+      "description": "The company’s founder stepped down after reports of multiple affairs.",
+      "link": "https://www.cnet.com/tech/services-and-software/nvidia-ceo-jensen-huang-resigns/",
+      "image": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2301620664.jpg",
+      "feed_name": "CNET News",
+      "feed_title": "News – CNET",
+      "category": "technology",
+      "feed_url": "https://www.cnet.com/rss/news/",
+      "feed_icon": "https://www.cnet.com/wp-content/uploads/sites/2/cropped-favicon-480.png?w=32"
+    },
     {
       "id": "https://www.theverge.com/?p=1031889",
       "title": "Lego’s BrickLink marketplace has been offline for a week following ‘unusual activity’",
@@ -81,7 +109,7 @@
       "author": "Karissa Bell",
       "description": "He has held the position since the company's founding.",
       "link": "https://www.engadget.com/2314584/jensen-huang-is-out-as-nvidia-ceo/",
-      "image": "https://www.engadget.com/img/gallery/jensen-huang-is-out-as-nvidia-ceo/l-intro-1794492205.jpg",
+      "image": "https://www.engadget.com/img/gallery/jensen-huang-is-out-as-nvidia-ceo/l-intro-1794493123.jpg",
       "feed_name": "Engadget",
       "feed_title": "Engadget - Technology News & Expert Reviews",
       "category": "technology",
@@ -13975,34 +14003,6 @@
       "category": "technology",
       "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
       "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
-    },
-    {
-      "id": "https://yro.slashdot.org/story/26/11/06/1742227/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "title": "Nvidia CEO Jensen Huang Summoned By Congress Over Chinese Espionage Concerns",
-      "published": "2026-11-06T19:00:00+00:00",
-      "author": "BeauHD",
-      "description": "An anonymous reader quotes a report from Ars Technica: Top Republican lawmakers have asked Jensen Huang to appear before Congress to answer questions after it was reported that US intelligence officials believe Nvidia's chief executive has been targeted by a Chinese spying operation. The chairs of the House committees on China, foreign affairs, and intelligence wrote to Huang this week asking him to appear before a joint closed-door briefing for their committees on November 18. \"Recent reports…",
-      "link": "https://yro.slashdot.org/story/26/11/06/1742227/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-      "feed_name": "Slashdot",
-      "feed_title": "Slashdot",
-      "category": "technology",
-      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
-    },
-    {
-      "id": "01M6RZC74TX8QCTFGCW57Y22JA",
-      "title": "Apple Won't Make a Small Phone so This Company Is Stepping In",
-      "published": "2026-11-06T19:00:00+00:00",
-      "author": "Jake Peterson",
-      "description": "\"Enough Phone\" is making a mini phone.",
-      "link": "https://lifehacker.com/tech/apple-wont-make-a-small-phone-so-this-company-is-stepping-in?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M6RZC74TX8QCTFGCW57Y22JA/hero-image.jpg",
-      "feed_name": "Lifehacker",
-      "feed_title": "Lifehacker",
-      "category": "technology",
-      "feed_url": "https://lifehacker.com/rss",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=lifehacker.com&sz=64"
     }
   ]
 }

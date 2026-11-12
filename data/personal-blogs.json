@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-12T14:32:49.824306+00:00",
-  "count": 442,
+  "updated": "2026-11-12T15:04:52.082097+00:00",
+  "count": 443,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,20 @@
       "category": "personal blogs",
       "feed_url": "https://shkspr.mobi/blog/feed/atom/",
       "feed_icon": "https://shkspr.mobi/blog/wp-content/uploads/2023/07/cropped-avatar-32x32.jpeg"
+    },
+    {
+      "id": "https://ronaldsvilcins.com/2026/11/12/1fr-vs-minmax0-1fr-in-css-grid/",
+      "title": "1fr vs minmax(0, 1fr) in CSS Grid",
+      "published": "2026-11-12T06:00:00+00:00",
+      "author": "Ronalds Vilciņš",
+      "description": "Compare 1fr with minmax(0, 1fr) in CSS Grid. Control track minimums, handle wide content, and keep sidebar layouts usable when the screen gets narrower.",
+      "link": "https://ronaldsvilcins.com/2026/11/12/1fr-vs-minmax0-1fr-in-css-grid/",
+      "image": "https://ronaldsvilcins.com/og/57a6ad069d0a580bb93ee1d0df943db380e53963b64bcc8fcfac6cdce84cf815.jpg",
+      "feed_name": "Ronalds Vilciņš",
+      "feed_title": "Ronalds Vilciņš",
+      "category": "personal blogs",
+      "feed_url": "https://ronaldsvilcins.com/atom.xml",
+      "feed_icon": "https://ronaldsvilcins.com/favicon.png"
     },
     {
       "id": "https://nerdy.dev/animation-evolution?utm_source=rss",
