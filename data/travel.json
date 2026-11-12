@@ -1,9 +1,23 @@
 {
   "category": "travel",
-  "updated": "2026-11-12T15:04:52.082097+00:00",
+  "updated": "2026-11-12T15:32:59.436988+00:00",
   "count": 160,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.atlasobscura.com/places/st-patrick-s-church",
+      "title": "St. Patrick’s Church in Sydney, Nova Scotia",
+      "published": "2026-11-12T15:00:00+00:00",
+      "author": null,
+      "description": "Standing in the historic North End of Sydney, Nova Scotia, St. Patrick's Church is the oldest surviving Catholic church on Cape Breton Island. Behind its stone walls lies an unusual history of forbidden religious practices, forgotten burials, and reported paranormal encounters. The story begins in 1785, when Captain John Butler Wilson arrived in Sydney as the first captain of the Sydney Garrison. Although Wilson was Anglican, his wife, Margaret Coverly, was an Irish Catholic. When their infant…",
+      "link": "https://www.atlasobscura.com/places/st-patrick-s-church",
+      "image": "https://img.atlasobscura.com/eEbFhDxSmUlGPKn49-vfthEPttULi8IgZPufBp4-65c/rs:fill:300:200:1/g:ce/c:800:533:nowe:0:0/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9mMGI3/OTk2MS0zOTBjLTRm/NDYtOWEyYi0yNjRj/ZDNlZDU0ZTQyNDk5/MGRhNjFhMTZlNjQw/NWNfU3QuX1BhdHJp/Y2snc19DaHVyY2hf/KDY1NzkyNzAxNzkp/LmpwZw.jpg",
+      "feed_name": "Atlas Obscura - Latest Articles and Places",
+      "feed_title": "Atlas Obscura - Latest Articles and Places",
+      "category": "travel",
+      "feed_url": "https://www.atlasobscura.com/feeds/latest",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.atlasobscura.com&sz=64"
+    },
     {
       "id": "https://www.nytimes.com/2026/11/12/travel/turkish-airlines-flight-delay-hotel-refund.html",
       "title": "Help! A Broken Toilet Grounded My Plane, and the Airline Won’t Cover a Hotel.",
@@ -2229,20 +2243,6 @@
       "category": "travel",
       "feed_url": "https://www.theguardian.com/uk/travel/rss",
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/10/12/travel/horror-movie-locations-visit-halloween.html",
-      "title": "5 Horror Movie Locations to Get You in the Halloween Spirit",
-      "published": "2026-10-13T15:09:46+00:00",
-      "author": "Erik Piepenburg",
-      "description": "Here’s one fan’s guide to visiting some of the genre’s fabled filming locations, from “The Shining” to “Friday the 13th.”",
-      "link": "https://www.nytimes.com/2026/10/12/travel/horror-movie-locations-visit-halloween.html",
-      "image": "https://static01.nyt.com/images/2026/10/02/multimedia/00trav-horror-visits-bfmp/00trav-horror-visits-bfmp-mediumSquareAt3X.jpg",
-      "feed_name": "NYT > Travel",
-      "feed_title": "NYT > Travel",
-      "category": "travel",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     }
   ]
 }
