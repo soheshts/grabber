@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-12T16:33:34.988754+00:00",
-  "count": 442,
+  "updated": "2026-11-12T17:03:54.313784+00:00",
+  "count": 441,
   "summary": null,
   "items": [
     {
@@ -5463,20 +5463,6 @@
       "category": "personal blogs",
       "feed_url": "http://jeffbridgforth.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=jeffbridgforth.com&sz=64"
-    },
-    {
-      "id": "https://htmlcssjavascript.com/?p=11518",
-      "title": "TypeScript Won. Now It’s Giving Up Its Superpowers.",
-      "published": "2026-10-13T16:49:43+00:00",
-      "author": "Rob Larsen",
-      "description": "When you spin up a greenfield project on a Tuesday afternoon, a build step feels like a completely reasonable trade-off. You install a bundler, configure a transpiler, sprinkle in a few TypeScript-specific conveniences, and marvel at the developer ergonomics. Having the compiler quietly invent runtime JavaScript out of thin air to support an enum, a […]",
-      "link": "https://htmlcssjavascript.com/web/typescript-won-now-its-giving-up-its-superpowers/",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f923.png",
-      "feed_name": "HTML + CSS + JavaScript",
-      "feed_title": "HTML + CSS + JavaScript",
-      "category": "personal blogs",
-      "feed_url": "http://feeds.feedburner.com/HtmlCssJavascript",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=htmlcssjavascript.com&sz=64"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
