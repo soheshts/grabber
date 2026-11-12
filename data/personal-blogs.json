@@ -1,6 +1,6 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-12T17:03:54.313784+00:00",
+  "updated": "2026-11-12T17:33:07.253589+00:00",
   "count": 441,
   "summary": null,
   "items": [
@@ -73,6 +73,20 @@
       "category": "personal blogs",
       "feed_url": "http://rachsmith.com/rss.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=rachsmith.com&sz=64"
+    },
+    {
+      "id": "https://meiert.com/blog/css-deduplication-and-compression/",
+      "title": "CSS Deduplication and File Size: What’s Left After Compression",
+      "published": "2026-11-11T23:00:00+00:00",
+      "author": null,
+      "description": "Analyzing 1,882 style sheets from 123 sites for the performance impact of automated declaration deduplication, after Gzip and Brotli compression.",
+      "link": "https://meiert.com/blog/css-deduplication-and-compression/",
+      "image": "https://d3rdtowr0c5lpf.cloudfront.net/media/social.png",
+      "feed_name": "Blog (Web Development, Mostly) · Jens Oliver Meiert",
+      "feed_title": "Jens Oliver Meiert · Code Optimization, Digital Defense, World Models",
+      "category": "personal blogs",
+      "feed_url": "https://meiert.com/en/feed/",
+      "feed_icon": "https://meiert.com/media/social.png"
     },
     {
       "id": "https://www.bennadel.com/blog/4926-breaking-change-in-empty-line-regex-matching-in-adobe-coldfusion-2025-update-14.htm",
@@ -5449,20 +5463,6 @@
       "category": "personal blogs",
       "feed_url": "https://svenluijten.com/feeds/all.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=svenluijten.com&sz=64"
-    },
-    {
-      "id": "https://jeffbridgforth.com/?p=12636",
-      "title": "My Interop feature ranking",
-      "published": "2026-10-13T17:11:47+00:00",
-      "author": "Jeff Bridgforth",
-      "description": "I decided to follow the trend of other developers and give my input into Interop 2027 rankings and then share my results. The post My Interop feature ranking appeared first on Jeff Bridgforth .",
-      "link": "https://jeffbridgforth.com/my-interop-feature-ranking-2027/",
-      "image": null,
-      "feed_name": "Jeff Bridgforth",
-      "feed_title": "Jeff Bridgforth",
-      "category": "personal blogs",
-      "feed_url": "http://jeffbridgforth.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=jeffbridgforth.com&sz=64"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
