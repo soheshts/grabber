@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-12T20:32:45.866363+00:00",
+  "updated": "2026-11-12T21:03:03.584715+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/amd-fsr-41-is-the-game-changer-that-dlss5-should-have-been/",
+      "title": "AMD's FSR 4.1 is the game-changer that DLSS 5 should have been",
+      "published": "2026-11-12T21:00:17+00:00",
+      "author": "Suman Biswas",
+      "description": "FSR 4.1 is the DLSS 5 we deserved, but never got.",
+      "link": "https://www.makeuseof.com/amd-fsr-41-is-the-game-changer-that-dlss5-should-have-been/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/gta-6-gameplay-screenshot.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/fedora-45-is-here-but-does-it-still-have-an-edge-over-ubuntu/",
+      "title": "Fedora 45 is here, but does it still have an edge over Ubuntu?",
+      "published": "2026-11-12T21:00:15+00:00",
+      "author": "Umair Khurshid",
+      "description": "The Fedora versus Ubuntu debate was already exhausting. Their latest releases somehow made it worse!",
+      "link": "https://www.howtogeek.com/fedora-45-is-here-but-does-it-still-have-an-edge-over-ubuntu/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/fedora-linux-45-gnome-settings-about-page-showing-gnome-51-1-linux-kernel-7-3-3-and-system-firmware-information.png",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/smart-home-nfc-triggers-youve-never-thought-of/",
       "title": "7 smart home NFC triggers you've never thought of",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.makeuseof.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/these-3-windows-utilities-can-tame-a-desktop-thats-messy-beyond-belief/",
-      "title": "These 3 free Microsoft apps will completely declutter your Windows PC",
-      "published": "2026-10-29T20:00:15+00:00",
-      "author": "Arol Wright",
-      "description": "No need to fight alone.",
-      "link": "https://www.howtogeek.com/these-3-windows-utilities-can-tame-a-desktop-thats-messy-beyond-belief/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/lenovo-yoga-9i-oled-display.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://hackaday.com/?p=1396824",
-      "title": "An Attempt at a Useful Desktop OS For Microcontrollers",
-      "published": "2026-10-29T20:00:12+00:00",
-      "author": "Jenny List",
-      "description": "We’re living at an interesting time here in 2026, when microcontrollers are becoming powerful enough to surpass the capabilities of “real” computers from a time when those real computers were …read more",
-      "link": "https://hackaday.com/2026/10/29/an-attempt-at-a-useful-desktop-os-for-microcontrollers/",
-      "image": "https://hackaday.com/wp-content/uploads/2026/10/sylphide-os-featured.jpg",
-      "feed_name": "Blog – Hackaday",
-      "feed_title": "Blog – Hackaday",
-      "category": "DIY",
-      "feed_url": "https://hackaday.com/blog/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
     }
   ]
 }
