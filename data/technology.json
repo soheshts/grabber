@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated": "2026-11-12T21:03:03.584715+00:00",
+  "updated": "2026-11-12T21:32:49.317344+00:00",
   "count": 1000,
   "summary": null,
   "items": [
@@ -19,6 +19,48 @@
       "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
     },
     {
+      "id": "https://news.slashdot.org/story/26/11/12/1948204/singapore-says-us-not-helpful-on-investigation-into-suspected-spys-company?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "title": "Singapore Says US Not Helpful On Investigation Into Suspected Spy's Company",
+      "published": "2026-11-12T21:00:00+00:00",
+      "author": "BeauHD",
+      "description": "Singapore says U.S. authorities provided limited assistance in its investigation of Megaspeed, the company run by Alice Huang, the Chinese businesswoman whom U.S. intelligence suspects is a Chinese spy and whose relationship with Nvidia CEO Jensen Huang has drawn scrutiny. According to Singapore, authorities held Alice Huang's passport from June 2025 until February while investigating \"potential false declarations,\" but ultimately released her with a \"stern warning\" and barred her from re-enter…",
+      "link": "https://news.slashdot.org/story/26/11/12/1948204/singapore-says-us-not-helpful-on-investigation-into-suspected-spys-company?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+      "feed_name": "Slashdot",
+      "feed_title": "Slashdot",
+      "category": "technology",
+      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
+    },
+    {
+      "id": "yt:video:e6MENpOuRC0",
+      "title": "I’m Selling My Stuff",
+      "published": "2026-11-12T20:54:32+00:00",
+      "author": "Linus Tech Tips",
+      "description": "Learn more about Zero Trust AI Control and book a demo to see it in action using our link:https://www.threatlocker.com/capabilities/zero-trust-ai-control Being a company that produces videos on just about everything tech related, we tend to buy a LOT of stuff. Weird chairs, projectors, too many lawnmower robots, an environmental chamber, and even a fire truck. It's all taking up space in our building- and we need that space back. And what better way to move inventory than to make a video on it…",
+      "link": "https://www.youtube.com/watch?v=e6MENpOuRC0",
+      "image": "https://i2.ytimg.com/vi/e6MENpOuRC0/hqdefault.jpg",
+      "feed_name": "Linus Tech Tips",
+      "feed_title": "Linus Tech Tips",
+      "category": "technology",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?user=LinusTechTips",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64"
+    },
+    {
+      "id": "00pzb7qXwAhoKpR2vTntsFs",
+      "title": "Is Outlook down? Possible Microsoft outage locks down email inboxes.",
+      "published": "2026-11-12T20:43:29+00:00",
+      "author": null,
+      "description": "On Thursday, Nov. 12, Outlook users reported a Microsoft outage that prevented them from checking their emails. Here's what we know.",
+      "link": "https://mashable.com/tech/microsoft-outlook-outage-nov-12-2026",
+      "image": "https://helios-i.mashable.com/imagery/articles/00pzb7qXwAhoKpR2vTntsFs/hero-image.png",
+      "feed_name": "Mashable",
+      "feed_title": "Mashable",
+      "category": "technology",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
+    },
+    {
       "id": "https://www.theverge.com/?p=1032226",
       "title": "Microsoft Outlook is down",
       "published": "2026-11-12T20:43:02+00:00",
@@ -31,6 +73,34 @@
       "category": "technology",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
+    },
+    {
+      "id": "05wyOAOk8ne2UP4HoX008W4",
+      "title": "Microsoft 365 outage: Outlook is down, and the internet is touching grass",
+      "published": "2026-11-12T20:38:39+00:00",
+      "author": null,
+      "description": "Microsoft platforms went down on Nov. 12, and workers on the internet joked about clocking out early and renaming the service “Microsoft 364.”",
+      "link": "https://mashable.com/tech/microsoft-outlook-outage-365-down-reactions-nov-12-2026",
+      "image": "https://helios-i.mashable.com/imagery/articles/05wyOAOk8ne2UP4HoX008W4/hero-image.jpg",
+      "feed_name": "Mashable",
+      "feed_title": "Mashable",
+      "category": "technology",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
+    },
+    {
+      "id": "00PbOxlXWjLjnMl1npPXQ1Z",
+      "title": "Microsoft outage: What the company has said so far",
+      "published": "2026-11-12T20:38:06+00:00",
+      "author": null,
+      "description": "As everyone deals with a big Microsoft 365 outage, let's review what the company has said so far.",
+      "link": "https://mashable.com/tech/microsoft-outage-what-company-has-said",
+      "image": "https://helios-i.mashable.com/imagery/articles/00PbOxlXWjLjnMl1npPXQ1Z/hero-image.jpg",
+      "feed_name": "Mashable",
+      "feed_title": "Mashable",
+      "category": "technology",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
     },
     {
       "id": "01M78P4V49B289VT4HX72EYC0S",
@@ -75,6 +145,20 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
     },
     {
+      "id": "05qkwiF8yfP8medcx8It85V",
+      "title": "Microsoft outage: Microsoft 365, Teams, Outlook, Copilot all impacted",
+      "published": "2026-11-12T20:12:26+00:00",
+      "author": null,
+      "description": "Microsoft users reported problems accessing Microsoft 365, Azure, Outlook, Teams, and more services on Thursday, Nov. 12.",
+      "link": "https://mashable.com/tech/microsoft-outage-affecting-365-teams-outlook-copilot-nov-12-2026",
+      "image": "https://helios-i.mashable.com/imagery/articles/05qkwiF8yfP8medcx8It85V/hero-image.jpg",
+      "feed_name": "Mashable",
+      "feed_title": "Mashable",
+      "category": "technology",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
+    },
+    {
       "id": "https://www.theverge.com/?p=1032243",
       "title": "Meet the people who want peptides to be made in America",
       "published": "2026-11-12T20:00:00+00:00",
@@ -101,6 +185,20 @@
       "category": "technology",
       "feed_url": "https://lifehacker.com/rss",
       "feed_icon": "https://www.google.com/s2/favicons?domain=lifehacker.com&sz=64"
+    },
+    {
+      "id": "https://tech.slashdot.org/story/26/11/12/1959220/microsoft-outlook-goes-down-nationwide-update?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "title": "Microsoft Outlook Goes Down Nationwide [UPDATE]",
+      "published": "2026-11-12T20:00:00+00:00",
+      "author": "BeauHD",
+      "description": "Microsoft is suffering a major Microsoft 365 outage that's disrupting Outlook, Teams, Copilot and SharePoint for users across the Americas, with more than 129,000 problem reports logged on Downdetector shortly after the disruption began. Microsoft blames the connectivity problems on an unexpectedly large number of unavailable servers that overloaded the remaining infrastructure. The company says it's redistributing traffic and restarting affected systems. From a report: Microsoft was not provid…",
+      "link": "https://tech.slashdot.org/story/26/11/12/1959220/microsoft-outlook-goes-down-nationwide-update?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+      "feed_name": "Slashdot",
+      "feed_title": "Slashdot",
+      "category": "technology",
+      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
     },
     {
       "id": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
@@ -159,20 +257,6 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
     },
     {
-      "id": "05qkwiF8yfP8medcx8It85V",
-      "title": "Microsoft outage: Microsoft 365, Teams, Outlook, Copilot all impacted",
-      "published": "2026-11-12T19:43:15+00:00",
-      "author": null,
-      "description": "Microsoft users reported problems accessing Microsoft 365, Azure, Outlook, Teams, and more services on Thursday, Nov. 12.",
-      "link": "https://mashable.com/tech/microsoft-outage-affecting-365-teams-outlook-copilot-nov-12-2026",
-      "image": "https://helios-i.mashable.com/imagery/articles/05qkwiF8yfP8medcx8It85V/hero-image.jpg",
-      "feed_name": "Mashable",
-      "feed_title": "Mashable",
-      "category": "technology",
-      "feed_url": "http://feeds.mashable.com/Mashable",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
-    },
-    {
       "id": "https://www.theverge.com/?p=1032125",
       "title": "No, AI agents did not discover a previously unknown Maya site",
       "published": "2026-11-12T19:42:40+00:00",
@@ -227,20 +311,6 @@
       "category": "technology",
       "feed_url": "https://www.engadget.com/rss.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
-    },
-    {
-      "id": "00pzb7qXwAhoKpR2vTntsFs",
-      "title": "Is Outlook down? Possible Microsoft outage locks down email inboxes.",
-      "published": "2026-11-12T19:26:20+00:00",
-      "author": null,
-      "description": "On Thursday, Nov. 12, Outlook users reported a Microsoft outage that prevented them from checking their emails. Here's what we know.",
-      "link": "https://mashable.com/tech/microsoft-outlook-outage-nov-12-2026",
-      "image": "https://helios-i.mashable.com/imagery/articles/00pzb7qXwAhoKpR2vTntsFs/hero-image.png",
-      "feed_name": "Mashable",
-      "feed_title": "Mashable",
-      "category": "technology",
-      "feed_url": "http://feeds.mashable.com/Mashable",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
     },
     {
       "id": "TheNextWeb=e18f2157e946d2e640161f31f30364f3",
@@ -13928,76 +13998,6 @@
       "description": "Getting a top-of-the-line router won't necessarily increase your internet speeds. Here's what you need to know before you buy.",
       "link": "https://www.engadget.com/2305411/why-you-dont-need-expensive-high-end-router/",
       "image": "https://www.engadget.com/img/gallery/why-you-dont-really-need-an-expensive-high-end-router/l-intro-1793041101.jpg",
-      "feed_name": "Engadget",
-      "feed_title": "Engadget - Technology News & Expert Reviews",
-      "category": "technology",
-      "feed_url": "https://www.engadget.com/rss.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
-    },
-    {
-      "id": "https://www.engadget.com/2305351/windows-powertoys-automate-pc-tasks/",
-      "title": "Windows PowerToys can automate some of your more tedious PC tasks",
-      "published": "2026-11-07T14:45:00+00:00",
-      "author": "Luke James",
-      "description": "PowerToys is a secret weapon for Windows users, with tons of handy utilities to help you save time on your PC every day.",
-      "link": "https://www.engadget.com/2305351/windows-powertoys-automate-pc-tasks/",
-      "image": "https://www.engadget.com/img/gallery/windows-powertoys-can-automate-some-of-your-more-tedious-pc-tasks/l-intro-1793722923.jpg",
-      "feed_name": "Engadget",
-      "feed_title": "Engadget - Technology News & Expert Reviews",
-      "category": "technology",
-      "feed_url": "https://www.engadget.com/rss.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
-    },
-    {
-      "id": "https://www.theverge.com/?p=1029460",
-      "title": "Good riddance, Cybertruck!",
-      "published": "2026-11-07T14:40:06+00:00",
-      "author": "Andrew J. Hawkins",
-      "description": "I'm calling it: time of death, November 6th, 1:30 AM, by tweet. Elon Musk's declaration Friday that Tesla would be \"winding down\" production of the Cybertruck next year to make room for the Cybercab was fascinating for a number of reasons. First, it was a humiliating way to kill a vehicle that was once hailed […]",
-      "link": "https://www.theverge.com/transportation/1029460/elon-musk-cybertruck-death-election-backlash",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/yI0AMBlStYQ-HD.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "feed_name": "The Verge -  All Posts",
-      "feed_title": "The Verge",
-      "category": "technology",
-      "feed_url": "https://www.theverge.com/rss/index.xml",
-      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
-    },
-    {
-      "id": "03eDDP6REXyQJMNoSh7taQl",
-      "title": "The Pokémon TCG 30th Celebration Elite Trainer Box is live at Amazon: Shop now for way under market price",
-      "published": "2026-11-07T14:39:15+00:00",
-      "author": null,
-      "description": "Get the best Pokémon TCG deal. The Pokémon TCG 30th Celebration Elite Trainer Box is $59.99 at Amazon (under market price).",
-      "link": "https://mashable.com/life/nov-6-pokemon-tcg-30th-celebration-elite-trainer-box-deal",
-      "image": "https://helios-i.mashable.com/imagery/articles/03eDDP6REXyQJMNoSh7taQl/hero-image.jpg",
-      "feed_name": "Mashable",
-      "feed_title": "Mashable",
-      "category": "technology",
-      "feed_url": "http://feeds.mashable.com/Mashable",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
-    },
-    {
-      "id": "0702tMxFYDx5gZbDOuQPtV8",
-      "title": "Im watching the Brazilian GP for free this weekend — how to live stream F1 for free",
-      "published": "2026-11-07T14:38:08+00:00",
-      "author": null,
-      "description": "How to watch F1 for free. Live stream the Brazil GP in the 2026 F1 season for free from anywhere in the world.",
-      "link": "https://mashable.com/entertainment/brazil-gp-f1-live-stream-for-free",
-      "image": "https://helios-i.mashable.com/imagery/articles/0702tMxFYDx5gZbDOuQPtV8/hero-image.jpg",
-      "feed_name": "Mashable",
-      "feed_title": "Mashable",
-      "category": "technology",
-      "feed_url": "http://feeds.mashable.com/Mashable",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
-    },
-    {
-      "id": "https://www.engadget.com/2304963/samsung-galaxy-s26-users-accessory-take-advantage-of/",
-      "title": "The accessory Samsung Galaxy S26 users should be taking advantage of",
-      "published": "2026-11-07T14:30:00+00:00",
-      "author": "Max Miller",
-      "description": "There's a lot to like about Samsung's Galaxy S26 phones, especially the S26 Ultra, but some users may not be taking full advantage of what they have to offer.",
-      "link": "https://www.engadget.com/2304963/samsung-galaxy-s26-users-accessory-take-advantage-of/",
-      "image": "https://www.engadget.com/img/gallery/the-accessory-samsung-galaxy-s26-users-should-be-taking-advantage-of/l-intro-1793687035.jpg",
       "feed_name": "Engadget",
       "feed_title": "Engadget - Technology News & Expert Reviews",
       "category": "technology",
