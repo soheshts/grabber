@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-12T09:02:38.921763+00:00",
+  "updated": "2026-11-12T09:33:10.911444+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://hackaday.com/?p=1424902",
+      "title": "Espresso, Meet Custom-Machined Stainless Steel Boiler",
+      "published": "2026-11-12T09:00:33+00:00",
+      "author": "Donald Papp",
+      "description": "While pondering some repairs for his Gaggia Classic Pro espresso machine, [Hans Gaensbauer] ended up machining an entirely new boiler from stainless steel. It was a nontrivial undertaking, since the …read more",
+      "link": "https://hackaday.com/2026/11/12/espresso-meet-custom-machined-stainless-steel-boiler/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/brewing-banner.png",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://hackaday.com/?p=1424838",
       "title": "A LEGO 3D Printer",
@@ -13989,20 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://hackaday.com/blog/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/heres-how-i-added-the-pixel-11s-most-exclusive-feature-to-my-pixel-8a/",
-      "title": "Here's how I added the Pixel 11's most exclusive feature to my Pixel 8a",
-      "published": "2026-10-28T23:00:15+00:00",
-      "author": "Andrew Heinzman",
-      "description": "I'm a Rambler.",
-      "link": "https://www.howtogeek.com/heres-how-i-added-the-pixel-11s-most-exclusive-feature-to-my-pixel-8a/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/using-rambler-voice-typing-with-gboard-on-a-pixel-8a.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
     }
   ]
 }
