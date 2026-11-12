@@ -1,9 +1,51 @@
 {
   "category": "technology",
-  "updated": "2026-11-12T12:32:36.811618+00:00",
+  "updated": "2026-11-12T13:02:33.304834+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://blog.google/products/ads-commerce/invalid-traffic-overview-google-ads/",
+      "title": "We’re introducing a new transparency tool for invalid traffic in Google Ads.",
+      "published": "2026-11-12T13:00:00+00:00",
+      "author": "Keerat Sharma",
+      "description": "Google Ads introduces the Invalid Traffic Overview Card for campaign transparency. See your savings and credits from November 2026. Get the details.",
+      "link": "https://blog.google/products/ads-commerce/invalid-traffic-overview-google-ads/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/resized_05_Laptop_Overview_Unbl.max-600x600.format-webp.webp",
+      "feed_name": "The Keyword",
+      "feed_title": "News from Google",
+      "category": "technology",
+      "feed_url": "https://www.blog.google/rss/",
+      "feed_icon": "https://blog.google/static/blogv2/images/google.png"
+    },
+    {
+      "id": "TheNextWeb=51ced213bb0e8dd8d8989812a9282f7c",
+      "title": "Terra Security brings continuous, agentic offensive security to every layer",
+      "published": "2026-11-12T12:54:36+00:00",
+      "author": "John Joseph Javier",
+      "description": "Cybersecurity teams have spent years trying to close the gap between discovering vulnerabilities and addressing them. Traditional penetration testing remains an important part of security programs. But its periodic nature creates an inherent limitation. The results represent a snapshot of an environment that may already have changed by the time testing is complete. That challenge […] This story continues at The Next Web",
+      "link": "https://thenextweb.com/news/terra-security-agentic-pentesting-continuous-offensive-security",
+      "image": "https://media.thenextweb.com/2026/11/terra-security-team-orange-t-shirts-rooftop-group-photo.avif",
+      "feed_name": "The Next Web",
+      "feed_title": "The Next Web",
+      "category": "technology",
+      "feed_url": "https://thenextweb.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
+    {
+      "id": "5190813",
+      "title": "Why This Anker Universal Charger Is the Only Power Accessory I Pack for Travel",
+      "published": "2026-11-12T12:30:00+00:00",
+      "author": "Kerry Wan",
+      "description": "The slew of port and plug options is great, and the built-in display is just as useful.",
+      "link": "https://www.cnet.com/tech/mobile/anker-universal-charger-review-for-travel/",
+      "image": "https://www.cnet.com/wp-content/uploads/sites/2/DSC01002.jpeg",
+      "feed_name": "CNET News",
+      "feed_title": "News – CNET",
+      "category": "technology",
+      "feed_url": "https://www.cnet.com/rss/news/",
+      "feed_icon": "https://www.cnet.com/wp-content/uploads/sites/2/cropped-favicon-480.png?w=32"
+    },
     {
       "id": "TheNextWeb=63de23a374e88ad2af9a4986d3148867",
       "title": "Prince Harry urges EU to make tech firms prove apps are safe for children",
@@ -17,6 +59,20 @@
       "category": "technology",
       "feed_url": "https://thenextweb.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
+    {
+      "id": "5194237",
+      "title": "Hasbro Is Using AI to Bring Characters to Life — With Limits",
+      "published": "2026-11-12T12:20:00+00:00",
+      "author": "Rachel Kane",
+      "description": "For the next time you need Cobra Commander to crash a Teams meeting.",
+      "link": "https://www.cnet.com/tech/services-and-software/hasbro-sixth-wall-studio-ai-characters/",
+      "image": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-1496748930.jpg",
+      "feed_name": "CNET News",
+      "feed_title": "News – CNET",
+      "category": "technology",
+      "feed_url": "https://www.cnet.com/rss/news/",
+      "feed_icon": "https://www.cnet.com/wp-content/uploads/sites/2/cropped-favicon-480.png?w=32"
     },
     {
       "id": "TheNextWeb=7672c5e94976e73a8ceaced625d484bf",
@@ -13947,62 +14003,6 @@
       "category": "technology",
       "feed_url": "https://thenextweb.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
-    },
-    {
-      "id": "https://arstechnica.com/apple/2026/11/its-a-weird-time-to-buy-a-laptop-but-the-new-macbook-pro-doesnt-skimp-on-quality/",
-      "title": "It's a weird time to buy a laptop, but the new MacBook Pro doesn't skimp on quality",
-      "published": "2026-11-06T15:28:07+00:00",
-      "author": "Samuel Axon",
-      "description": "It has the best laptop screen we've used, but there may be reasons to wait.",
-      "link": "https://arstechnica.com/apple/2026/11/its-a-weird-time-to-buy-a-laptop-but-the-new-macbook-pro-doesnt-skimp-on-quality/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/MacBook-Pro-closed-lid-500x500-1793924693.jpg",
-      "feed_name": "Ars Technica",
-      "feed_title": "Ars Technica - All content",
-      "category": "technology",
-      "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
-      "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
-    },
-    {
-      "id": "TheNextWeb=69bec8021bbf64f5378df99e7797efb0",
-      "title": "Paris start-up Physicl raises $10M to make training data for physical AI",
-      "published": "2026-11-06T15:21:35+00:00",
-      "author": "Ana-Maria Stanciuc",
-      "description": "Physicl, a Paris-based start-up that creates training data for AI systems that work in the physical world, has raised $10M in seed funding. Inovia Capital led the round, announced on Friday, with U.S. Venture Partners also taking part. The company focuses on what researchers call edge cases. These are the unusual situations, such as odd lighting or […] This story continues at The Next Web",
-      "link": "https://thenextweb.com/news/physicl-10m-seed-physical-ai-training-data",
-      "image": "https://media.thenextweb.com/2026/11/man-navy-sweater-seated-table-modern-office.avif",
-      "feed_name": "The Next Web",
-      "feed_title": "The Next Web",
-      "category": "technology",
-      "feed_url": "https://thenextweb.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
-    },
-    {
-      "id": "009ksU3T5Fkya9G3Xo7ttob",
-      "title": "Netflix announces Stranger Things prequel, set to debut in 2028",
-      "published": "2026-11-06T15:12:36+00:00",
-      "author": null,
-      "description": "To celebrate \"Stranger Things\" Day, Netflix announced prequel series \"Other Worlds: A Stranger Things Adventure.\"",
-      "link": "https://mashable.com/entertainment/stranger-things-other-worlds-netflix-announcement",
-      "image": "https://helios-i.mashable.com/imagery/videos/009ksU3T5Fkya9G3Xo7ttob/hero-image.jpg",
-      "feed_name": "Mashable",
-      "feed_title": "Mashable",
-      "category": "technology",
-      "feed_url": "http://feeds.mashable.com/Mashable",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
-    },
-    {
-      "id": "https://www.theverge.com/?p=1028663",
-      "title": "Apple has a secret list of banned autocomplete phrases including ‘dictator Trump’ and ‘covid is a hoax’",
-      "published": "2026-11-06T15:10:28+00:00",
-      "author": "Stevie Bonifield",
-      "description": "A researcher found over 100,000 words and phrases in \"every major language\" that are blocked from autocomplete and swipe-type in iOS, Reuters reports. The researcher, Derik Kauffman, says you can still type the words on the blocklist one letter at a time. But they won't pop up as predictive text suggestions and iOS's keyboard may […]",
-      "link": "https://www.theverge.com/tech/1028663/apple-ios-keyboard-blocked-words-autocomplete",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/DSC_2327.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "feed_name": "The Verge -  All Posts",
-      "feed_title": "The Verge",
-      "category": "technology",
-      "feed_url": "https://www.theverge.com/rss/index.xml",
-      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
     }
   ]
 }

@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-12T12:32:36.811618+00:00",
+  "updated": "2026-11-12T13:02:33.304834+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/my-dvd-collection-vs-streaming-subscriptions/",
+      "title": "I marathoned my 20-year-old DVD collection, and now I want to cancel all my streaming subscriptions",
+      "published": "2026-11-12T13:01:16+00:00",
+      "author": "Michael Bizzaco",
+      "description": "It was the best Halloween season.",
+      "link": "https://www.makeuseof.com/my-dvd-collection-vs-streaming-subscriptions/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2026/11/horror-movie-collection-1.jpeg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/microsoft-photos-search-organization/",
+      "title": "Organizing photos isn't as important as it used to be, and Microsoft knows it",
+      "published": "2026-11-12T13:00:16+00:00",
+      "author": "Tony Phillips",
+      "description": "The more my photo library grows, the less I care where anything is stored.",
+      "link": "https://www.howtogeek.com/microsoft-photos-search-organization/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/laptop-photo-searching-dog-photos.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/previously-connected-wifi-network-list-gives-away-more-data-than-you-realize/",
       "title": "Your previously connected Wi-Fi network list gives away so much more data than you realize",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.makeuseof.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/i-spent-a-week-replacing-my-everyday-windows-apps-with-open-source-alternatives-and-barely-missed-the-originals/",
-      "title": "I spent a week replacing my everyday Windows apps with open-source alternatives, and barely missed the originals",
-      "published": "2026-10-29T11:00:15+00:00",
-      "author": "Ismar Hrnjicevic",
-      "description": "I expected a week of compromises, but instead, I just had to get used to some new icons.",
-      "link": "https://www.howtogeek.com/i-spent-a-week-replacing-my-everyday-windows-apps-with-open-source-alternatives-and-barely-missed-the-originals/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/foss-apps.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://hackaday.com/?p=1396670",
-      "title": "An AI Chatbot for the Apocalypse",
-      "published": "2026-10-29T11:00:01+00:00",
-      "author": "Al Williams",
-      "description": "You don’t have to be a full-on “prepper” to at least occasionally wonder what would happen if civilization collapsed. One thing you probably couldn’t do is go on the Internet …read more",
-      "link": "https://hackaday.com/2026/10/29/an-ai-chatbot-for-the-apocalypse/",
-      "image": "https://hackaday.com/wp-content/uploads/2026/10/shtfai.png",
-      "feed_name": "Blog – Hackaday",
-      "feed_title": "Blog – Hackaday",
-      "category": "DIY",
-      "feed_url": "https://hackaday.com/blog/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
     }
   ]
 }

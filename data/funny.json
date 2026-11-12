@@ -1,9 +1,23 @@
 {
   "category": "funny",
-  "updated": "2026-11-12T12:32:36.811618+00:00",
-  "count": 556,
+  "updated": "2026-11-12T13:02:33.304834+00:00",
+  "count": 557,
   "summary": null,
   "items": [
+    {
+      "id": "https://thedailywtf.com/articles/next-month",
+      "title": "CodeSOD: Next Month",
+      "published": "2026-11-12T06:30:00+00:00",
+      "author": "Remy Porter",
+      "description": "One of Sean 's colleagues left Initech on good terms. It caused no small amount of surprise that the very next day their billing system started failing. The billing system which the colleauge had worked on. No one truly suspected foul play, it was just a weird coincidence. Still, billing blowing up was a 5 alarm fire, so everyone was throwing every idea out about what could be the cause. Late in the evening, after staring at the code for many hours, Sean found this: if item.next_bill_date.month…",
+      "link": "https://thedailywtf.com/articles/next-month",
+      "image": "https://s3.amazonaws.com/remy.jetpackshark.com/remy-thumb.jpg",
+      "feed_name": "The Daily WTF",
+      "feed_title": "The Daily WTF",
+      "category": "funny",
+      "feed_url": "http://syndication.thedailywtf.com/TheDailyWtf",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thedailywtf.com&sz=64"
+    },
     {
       "id": "https://cheezburger.com/47353093/company-lays-off-employee-wants-to-throw-a-farewell-party-for-them-genuinely-dont-know-how-to-feel",
       "title": "Company lays off employee, wants to throw a farewell party for them: 'Genuinely don’t know how to feel or react to this'",
