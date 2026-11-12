@@ -1,9 +1,23 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-12T03:03:28.556267+00:00",
-  "count": 445,
+  "updated": "2026-11-12T03:33:38.865782+00:00",
+  "count": 446,
   "summary": null,
   "items": [
+    {
+      "id": "https://nerdy.dev/animation-evolution?utm_source=rss",
+      "title": "Animation Evolution",
+      "published": "2026-11-12T03:12:01+00:00",
+      "author": "atom@argyleink",
+      "description": "animation? where how why now",
+      "link": "https://nerdy.dev/animation-evolution?utm_source=rss",
+      "image": "https://nerdy.dev/media/skull-card.png",
+      "feed_name": "Adam Argyle",
+      "feed_title": "Adam Argyle",
+      "category": "personal blogs",
+      "feed_url": "https://nerdy.dev/rss.xml",
+      "feed_icon": "https://nerdy.dev/rss-icon.png"
+    },
     {
       "id": "https://www.the-haystack.com/public04/",
       "title": "Designing in public, iteration 4",
