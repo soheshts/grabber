@@ -1,9 +1,51 @@
 {
   "category": "DIY",
-  "updated": "2026-11-12T11:33:43.802293+00:00",
+  "updated": "2026-11-12T12:02:41.807841+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/bring-your-android-apps-notifications-and-files-to-windows-with-this-free-open-source-hub/",
+      "title": "Bring your Android apps, notifications, and files to Windows with this free open-source hub",
+      "published": "2026-11-12T12:00:16+00:00",
+      "author": "Sagar Naresh",
+      "description": "No juggling between apps",
+      "link": "https://www.makeuseof.com/bring-your-android-apps-notifications-and-files-to-windows-with-this-free-open-source-hub/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/nectarlink-hero.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/adobe-isnt-the-only-target-a-vibe-coder-wants-to-replace-microsoft-office/",
+      "title": "Adobe isn't the only target: a vibe coder wants to replace Microsoft Office, too",
+      "published": "2026-11-12T12:00:15+00:00",
+      "author": "Nimrah Chaudhry",
+      "description": "First Adobe, now Office. This vibe coder clearly doesn’t believe in easy targets.",
+      "link": "https://www.howtogeek.com/adobe-isnt-the-only-target-a-vibe-coder-wants-to-replace-microsoft-office/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/f_4080x2720.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.makeuseof.com/someone-used-claude-code-to-build-a-linux-phone-os-and-you-can-try-it-in-your-browser/",
+      "title": "Someone used Claude Code to build a Linux phone OS, and you can try it in your browser",
+      "published": "2026-11-12T11:56:16+00:00",
+      "author": "Hamed Paydarfar",
+      "description": "Dusty PinePhone reborn as a speedy feature device with 66 fps display rendering, modular apps on microSD and a WebAssembly demo.",
+      "link": "https://www.makeuseof.com/someone-used-claude-code-to-build-a-linux-phone-os-and-you-can-try-it-in-your-browser/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2026/11/pinephone-in-the-spring.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/start-using-these-3-windows-11-features/",
       "title": "You're missing out if you aren't using these 3 Windows 11 features",
@@ -13961,48 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/finally-found-out-what-all-those-ryobi-circular-saw-blades-are-actually-for/",
-      "title": "I finally found out what all those Ryobi circular saw blades are actually for",
-      "published": "2026-10-29T10:01:18+00:00",
-      "author": "Allison Kirschbaum",
-      "description": "I thought all Ryobi circular saw blades were the same. It turns out each one has a different job.",
-      "link": "https://www.makeuseof.com/finally-found-out-what-all-those-ryobi-circular-saw-blades-are-actually-for/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/02/ryobi-circular-saw-in-hand.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/versatile-makita-tools-under-150-worth-adding-to-your-collection/",
-      "title": "5 budget-friendly Makita tools under $150 that are actually worth buying",
-      "published": "2026-10-29T10:01:17+00:00",
-      "author": "Cory Gunther",
-      "description": "Versatile and affordable.",
-      "link": "https://www.howtogeek.com/versatile-makita-tools-under-150-worth-adding-to-your-collection/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/07/makita-tool-logo.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://hackaday.com/?p=1396625",
-      "title": "Magnetic Lock Opens By Magic",
-      "published": "2026-10-29T08:00:39+00:00",
-      "author": "Al Williams",
-      "description": "Over on IEEE Spectrum, [Stephen Cass] has a project that would probably have seemed like a magic a few centuries ago. Imagine a box that uses a magnetic device to …read more",
-      "link": "https://hackaday.com/2026/10/29/magnetic-lock-opens-by-magic/",
-      "image": "https://hackaday.com/wp-content/uploads/2026/10/hall.png",
-      "feed_name": "Blog – Hackaday",
-      "feed_title": "Blog – Hackaday",
-      "category": "DIY",
-      "feed_url": "https://hackaday.com/blog/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
     }
   ]
 }
