@@ -1,9 +1,37 @@
 {
   "category": "technology",
-  "updated": "2026-11-12T01:03:50.949411+00:00",
+  "updated": "2026-11-12T01:32:16.621361+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "5194174",
+      "title": "Apple Support Community Is Shutting Down, as DIY Advice Bites the Dust",
+      "published": "2026-11-12T01:26:55+00:00",
+      "author": "Tyler Lacoma",
+      "description": "Even if the site was no longer very useful, it’s still sad to lose free peer support.",
+      "link": "https://www.cnet.com/tech/services-and-software/apple-support-community-shutting-down-diy-advice-dead/",
+      "image": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-1445253912.jpg",
+      "feed_name": "CNET News",
+      "feed_title": "News – CNET",
+      "category": "technology",
+      "feed_url": "https://www.cnet.com/rss/news/",
+      "feed_icon": "https://www.cnet.com/wp-content/uploads/sites/2/cropped-favicon-480.png?w=32"
+    },
+    {
+      "id": "5194238",
+      "title": "What to Do if a Bug in Your AMD GPU Is Wearing Down Your SSD",
+      "published": "2026-11-12T00:54:34+00:00",
+      "author": "Omar Gallaga",
+      "description": "AMD says it’s working on a software fix for a bug causing excessive writing to drives.",
+      "link": "https://www.cnet.com/tech/computing/amd-gpu-ssd-bug-fix/",
+      "image": "https://www.cnet.com/wp-content/uploads/sites/2/b732ed68-95c3-4cc6-a321-108896fe0b60.jpg",
+      "feed_name": "CNET News",
+      "feed_title": "News – CNET",
+      "category": "technology",
+      "feed_url": "https://www.cnet.com/rss/news/",
+      "feed_icon": "https://www.cnet.com/wp-content/uploads/sites/2/cropped-favicon-480.png?w=32"
+    },
     {
       "id": "https://slashdot.org/story/26/11/11/2229248/united-airlines-bans-ai-agents-from-booking-flights-on-behalf-of-travelers?utm_source=rss1.0mainlinkanon&utm_medium=feed",
       "title": "United Airlines Bans AI Agents From Booking Flights On Behalf of Travelers",
@@ -108,7 +136,7 @@
       "published": "2026-11-11T22:44:45+00:00",
       "author": "Joe Hindy",
       "description": "At least three other organizations are also giving employees time off to play the new game.",
-      "link": "https://www.cnet.com/tech/gaming/logitech-gives-time-off-for-gta-vi/",
+      "link": "https://www.cnet.com/tech/gaming/logitech-gives-time-off-for-gta6/",
       "image": "https://www.cnet.com/wp-content/uploads/sites/2/Grand-Theft-Auto-VI-box-art.jpg",
       "feed_name": "CNET News",
       "feed_title": "News – CNET",
@@ -13975,34 +14003,6 @@
       "category": "technology",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
-    },
-    {
-      "id": "https://www.engadget.com/2306413/samsung-galaxy-watch-ultra-2-review-2026/",
-      "title": "Samsung Galaxy Watch Ultra 2 review: The new standard for smartwatch battery life",
-      "published": "2026-11-06T13:00:00+00:00",
-      "author": "Mat Smith",
-      "description": "With its bright display and battery life, the Galaxy Watch Ultra 2 hits the sweet spot for smartwatch hardware.",
-      "link": "https://www.engadget.com/2306413/samsung-galaxy-watch-ultra-2-review-2026/",
-      "image": "https://www.engadget.com/img/gallery/samsung-galaxy-watch-ultra-2-review-the-new-standard-for-smartwatch-battery-life/l-intro-1793802591.jpg",
-      "feed_name": "Engadget",
-      "feed_title": "Engadget - Technology News & Expert Reviews",
-      "category": "technology",
-      "feed_url": "https://www.engadget.com/rss.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
-    },
-    {
-      "id": "03q6qHQrAI9vHuj02HXu64b",
-      "title": "Welcome to Apple’s whimsy era. Everything new dropping now!",
-      "published": "2026-11-06T13:00:00+00:00",
-      "author": null,
-      "description": "Explore new Apple products launching this month, from redesigned laptops to creative workflow updates across macOS and iOS.",
-      "link": "https://mashable.com/tech/apples-experimental-era-new-products-dropping-this-month",
-      "image": "https://cdn.ex.co/video-uploads/production/0010J00001l1J64QAE/26bf0486-f478-5c30-b074-52c01214906d-thumbnail.jpeg?cb=1793978730693",
-      "feed_name": "Mashable",
-      "feed_title": "Mashable",
-      "category": "technology",
-      "feed_url": "http://feeds.mashable.com/Mashable",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
     }
   ]
 }
