@@ -1,9 +1,37 @@
 {
   "category": "fashion",
-  "updated": "2026-11-12T10:03:33.819561+00:00",
-  "count": 979,
+  "updated": "2026-11-12T10:32:51.001181+00:00",
+  "count": 981,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/11/12/style/pony-hair-purses-shoes-trend.html",
+      "title": "Pony Hair Is Everywhere",
+      "published": "2026-11-12T10:02:29+00:00",
+      "author": "Yola Mzizi",
+      "description": "Craving texture and looking to spruce up basics, shoppers are drawn to bristled belts, bags and (especially) shoes.",
+      "link": "https://www.nytimes.com/2026/11/12/style/pony-hair-purses-shoes-trend.html",
+      "image": "https://static01.nyt.com/images/2026/11/12/fashion/12ST-PONY-HAIR-top/12ST-PONY-HAIR-top-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Style",
+      "feed_title": "NYT > Style",
+      "category": "fashion",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/12/style/new-york-asfour-collective-cool.html",
+      "title": "three ASFOUR: Cool Before Influencers Were a Thing",
+      "published": "2026-11-12T10:02:01+00:00",
+      "author": "Guy Trebay",
+      "description": "A new film asks if the brand of downtown cool that threeASFOUR once epitomized is gone for good.",
+      "link": "https://www.nytimes.com/2026/11/12/style/new-york-asfour-collective-cool.html",
+      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12ST-THREEASFOUR-01-qhkl/12ST-THREEASFOUR-01-qhkl-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Style",
+      "feed_title": "NYT > Style",
+      "category": "fashion",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "https://www.nytimes.com/2026/11/12/style/peanuts-snoopy-charlie-brown-brand-partnerships-advertising.html",
       "title": "Snoopy Lives!",
