@@ -1,17 +1,59 @@
 {
   "category": "World News",
-  "updated": "2026-11-13T08:03:50.553838+00:00",
+  "updated": "2026-11-13T08:33:52.290951+00:00",
   "count": 1000,
   "summary": null,
   "items": [
     {
       "id": "108550737",
-      "title": "Nvidia’s turmoil is prompting a rotation across chip stocks",
-      "published": "2026-11-13T08:01:46+00:00",
+      "title": "Nvidia’s turmoil is prompting a rotation across chip stocks. Here's what we know",
+      "published": "2026-11-13T08:27:07+00:00",
       "author": null,
       "description": "That shift comes as Nvidia grapples with the fallout from Huang's resignation, following revelations about his multiple affairs.",
       "link": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-affairs-amd-broadcom-tsmc.html",
       "image": "https://image.cnbcfm.com/api/v1/image/108211784-17604498902025-10-14t121921z_1221478754_rc2lega250jk_rtrmadp_0_amd-oracle-ai.jpeg?v=1760449905&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+      "title": "Microsoft ‘seeing positive results’ from attempts to fix global outage affecting Teams and Outlook",
+      "published": "2026-11-13T08:16:11+00:00",
+      "author": "Josh Taylor , Emma Elsworthy and Mark Sweney",
+      "description": "Microsoft 365 also hit but tech company says no indication problem was caused by cyber-attack Microsoft outage – live updates Microsoft has said it is “seeing positive results” from its efforts to fix an outage of some of its systems that has caused huge disruption to users, organisations and businesses across the globe. The tech company said it is attempting to improve capacity to enable more users to get back on its systems, after a global outage affected thousands of users for more than 12 h…",
+      "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+      "image": "https://i.guim.co.uk/img/media/f39d9eba31016399e4c01fd145c5dd223dd145d6/334_0_3332_2666/master/3332.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b91f0696e82c3ebefb1469dc0fc5a959",
+      "feed_name": "The Guardian",
+      "feed_title": "World news | The Guardian",
+      "category": "World News",
+      "feed_url": "https://www.theguardian.com/world/rss",
+      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/pakistan/74-militants-killed-in-pakistan-security-operations-along-afghan-border-in-10-days/articleshow/135794665.cms",
+      "title": "74 militants killed in Pakistan security operations along Afghan border in 10 days",
+      "published": "2026-11-13T08:08:00+00:00",
+      "author": "Abhishek Mishra",
+      "description": "",
+      "link": "https://timesofindia.indiatimes.com/world/pakistan/74-militants-killed-in-pakistan-security-operations-along-afghan-border-in-10-days/articleshow/135794665.cms",
+      "image": "https://static.toiimg.com/photo/msid-135795074,imgsize-1360082.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
+      "id": "108550488",
+      "title": "Widespread Microsoft outage takes down Outlook and other 365 services",
+      "published": "2026-11-13T08:05:49+00:00",
+      "author": null,
+      "description": "A Microsoft outage on Thursday affected users of services like Outlook, Teams and 365.",
+      "link": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108465628-17930473022026-10-26t203948z_25222247_rc28boaxmoul_rtrmadp_0_microsoft-buyouts.jpeg?v=1793047365&w=1920&h=1080",
       "feed_name": "CNBC",
       "feed_title": "International: Top News And Analysis",
       "category": "World News",
@@ -87,20 +129,6 @@
       "category": "World News",
       "feed_url": "https://www.reddit.com/r/worldnews/.rss",
       "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "108550488",
-      "title": "Widespread Microsoft outage takes down Outlook and other 365 services",
-      "published": "2026-11-13T07:39:58+00:00",
-      "author": null,
-      "description": "A Microsoft outage on Thursday affected users of services like Outlook, Teams and 365.",
-      "link": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108465628-17930473022026-10-26t203948z_25222247_rc28boaxmoul_rtrmadp_0_microsoft-buyouts.jpeg?v=1793047365&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/us/an-ohio-woman-signed-a-deal-to-sell-her-62-acre-farm-to-a-land-conservancy-for-350000-and-died-the-day-after-it-took-effect-an-appeals-court-has-ruled-the-money-goes-to-the-heirs-in-her-will-not-those-on-her-deed/articleshow/135577836.cms",
@@ -199,6 +227,20 @@
       "category": "World News",
       "feed_url": "https://www.theguardian.com/world/rss",
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
+    {
+      "id": "t3_1xv12v1",
+      "title": "Trump teases toppling Cuba authorities before leaving office",
+      "published": "2026-11-13T06:59:17+00:00",
+      "author": "/u/jdomski",
+      "description": "submitted by /u/jdomski [link] [comments]",
+      "link": "https://www.reddit.com/r/worldnews/comments/1xv12v1/trump_teases_toppling_cuba_authorities_before/",
+      "image": "https://external-preview.redd.it/spvI8ZAafnyyk-w_r_hAXEOmZ5sblQnCXGlHo7uFdGs.jpeg?width=640&crop=smart&auto=webp&s=abf9bda3e16906cc7064cc93ea6b4f871e31003d",
+      "feed_name": "World News",
+      "feed_title": "World News",
+      "category": "World News",
+      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
+      "feed_icon": "https://www.redditstatic.com/icon.png/"
     },
     {
       "id": "https://www.ndtv.com/world-news/turning-china-into-enemy-not-the-best-answer-jensen-huangs-old-interview-resurfaces-after-nvidia-exit-12321069#publisher=newsstand",
@@ -439,6 +481,20 @@
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
+      "id": "https://www.nytimes.com/2026/11/12/world/russia-novaya-gazeta-nvidia-gaza.html",
+      "title": "The End of Russia’s Bravest Newspaper",
+      "published": "2026-11-13T05:36:59+00:00",
+      "author": "Katrin Bennhold",
+      "description": "For more than 30 years, the paper covered an increasingly repressive state under Vladimir Putin.",
+      "link": "https://www.nytimes.com/2026/11/12/world/russia-novaya-gazeta-nvidia-gaza.html",
+      "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13int-theworld-russia-newspaper-promo/13int-theworld-russia-newspaper-promo-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
       "id": "https://www.ndtv.com/world-news/tim-cook-to-lisa-su-11-names-who-could-succeed-jensen-huang-as-nvidia-ceo-12320649#publisher=newsstand",
       "title": "3 Indian-Origin Faces Among 11 Names In Jensen Huang Succession Search At Nvidia",
       "published": "2026-11-13T05:35:26+00:00",
@@ -567,7 +623,7 @@
     {
       "id": "https://www.nytimes.com/2026/11/13/world/europe/france-riner-judo-lagarde-election.html",
       "title": "In French Election, Centrists Eye a Judo Star and a Central Banker",
-      "published": "2026-11-13T05:01:06+00:00",
+      "published": "2026-11-13T05:01:07+00:00",
       "author": "Mark Landler",
       "description": "Centrists want alternatives to a matchup between the far right and far left in the 2027 presidential election. Teddy Riner, the judo champion, is in, while Christine Lagarde is less likely.",
       "link": "https://www.nytimes.com/2026/11/13/world/europe/france-riner-judo-lagarde-election.html",
@@ -647,20 +703,6 @@
       "category": "World News",
       "feed_url": "https://www.reddit.com/r/worldnews/.rss",
       "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
-      "title": "Microsoft struggles to fix huge outage affecting Outlook and Teams",
-      "published": "2026-11-13T04:24:26+00:00",
-      "author": "Josh Taylor and Emma Elsworthy",
-      "description": "Company has ruled out a cyber attack but says fixes to help thousands of affected users have not been successful Microsoft outage – live updates Microsoft 365, Outlook, Teams and other apps were disrupted for thousands of users for more than nine hours on Thursday and Friday, with Microsoft scrambling to find a solution after initial fixes failed to bring services back online. A Microsoft spokesperson said the company “had no indication of a cyber-attack”. Continue reading...",
-      "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
-      "image": "https://i.guim.co.uk/img/media/f39d9eba31016399e4c01fd145c5dd223dd145d6/334_0_3332_2666/master/3332.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b91f0696e82c3ebefb1469dc0fc5a959",
-      "feed_name": "The Guardian",
-      "feed_title": "World news | The Guardian",
-      "category": "World News",
-      "feed_url": "https://www.theguardian.com/world/rss",
-      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
     },
     {
       "id": "https://timesofindia.indiatimes.com/science/nature/researchers-studying-28-peruvian-cacao-farms-found-that-trees-attracting-birds-and-bats-nearly-doubled-harvests-through-pest-control-adding-an-estimated-1640-per-hectare-in-yearly-production-value-/articleshow/135757943.cms",
@@ -1697,20 +1739,6 @@
       "category": "World News",
       "feed_url": "https://www.reddit.com/r/worldnews/.rss",
       "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/12/world/russia-novaya-gazeta-nvidia-gaza.html",
-      "title": "The End of Russia’s Bravest Newspaper",
-      "published": "2026-11-12T20:51:26+00:00",
-      "author": "Katrin Bennhold",
-      "description": "For more than 30 years, the paper covered an increasingly repressive state under Vladimir Putin.",
-      "link": "https://www.nytimes.com/2026/11/12/world/russia-novaya-gazeta-nvidia-gaza.html",
-      "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13int-theworld-russia-newspaper-promo/13int-theworld-russia-newspaper-promo-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "108549976",
@@ -13975,34 +14003,6 @@
       "category": "World News",
       "feed_url": "https://www.reddit.com/r/worldnews/.rss",
       "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "t3_1xs2t3i",
-      "title": "Top U.S. hedge fund executive named CEO of Canada's new sovereign wealth fund",
-      "published": "2026-11-09T20:29:48+00:00",
-      "author": "/u/PapaNixon",
-      "description": "submitted by /u/PapaNixon [link] [comments]",
-      "link": "https://www.reddit.com/r/worldnews/comments/1xs2t3i/top_us_hedge_fund_executive_named_ceo_of_canadas/",
-      "image": "https://external-preview.redd.it/I4lgv6LO5vqTQExXYVs1wcgZiuESAhkZF6JB8xaIhVQ.jpeg?width=320&crop=smart&auto=webp&s=8d1dbf1a2c6e7737a6fbc9c054da103d2b976978",
-      "feed_name": "World News",
-      "feed_title": "World News",
-      "category": "World News",
-      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
-      "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "108545283",
-      "title": "Nvidia's CEO turmoil gives newly empowered Democrats fresh ammunition in pursuit of oversight",
-      "published": "2026-11-09T20:29:36+00:00",
-      "author": null,
-      "description": "Nvidia CEO Jensen Huang's extramarital affair with an alleged Chinese spy comes as the company is already about to face heightened scrutiny.",
-      "link": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-affair-congress-scrutiny.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108416313-1792099132044-gettyimages-2299644955-AFP_D3B329K.jpeg?v=1793222589&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     }
   ]
 }
