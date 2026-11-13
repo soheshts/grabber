@@ -1,9 +1,23 @@
 {
   "category": "science",
-  "updated": "2026-11-13T03:33:37.854257+00:00",
+  "updated": "2026-11-13T04:03:48.123898+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "news713708768",
+      "title": "Research advances quantum computing that harnesses speed of light",
+      "published": "2026-11-13T03:40:01+00:00",
+      "author": null,
+      "description": "Quantum computers have the potential to perform calculations more quickly than supercomputers, but they could be even faster and more energy-efficient if they were built with photons as their basic units, called qubits.",
+      "link": "https://phys.org/news/2026-11-advances-quantum-harnesses.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/purdue-professor-vladi.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
     {
       "id": "news713678254",
       "title": "Automated assembly in space is the future and NOM4D is showing the way",
@@ -13989,20 +14003,6 @@
       "category": "science",
       "feed_url": "https://www.sciencedaily.com/rss/all.xml",
       "feed_icon": "https://www.sciencedaily.com/images/scidaily-logo-rss.png"
-    },
-    {
-      "id": "news712996762",
-      "title": "Why AI influencers work better with a human friend",
-      "published": "2026-11-04T13:20:03+00:00",
-      "author": null,
-      "description": "Scroll through Instagram long enough and you'll meet an influencer who isn't real. AI influencers—computer-generated personalities like Lil Miquela, who has millions of followers and has posted for Prada, Samsung and Dior—look and act like human creators, but they're entirely synthetic. Brands like them because they never go off-script, never age and never cause a scandal. Yet they share one stubborn weakness: people tend not to trust them.",
-      "link": "https://phys.org/news/2026-11-ai-human-friend.html",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-influencers.jpg",
-      "feed_name": "Phys.org - latest science and technology news stories",
-      "feed_title": "Phys.org - latest science and technology news stories",
-      "category": "science",
-      "feed_url": "https://phys.org/rss-feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
     }
   ]
 }
