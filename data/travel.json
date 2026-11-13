@@ -1,9 +1,23 @@
 {
   "category": "travel",
-  "updated": "2026-11-13T20:03:03.861129+00:00",
-  "count": 169,
+  "updated": "2026-11-13T20:32:47.145197+00:00",
+  "count": 170,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/11/13/us/new-orleans-cruise-ship-crash.html",
+      "title": "Ship Crashes Into Docked Riverboat in New Orleans Port",
+      "published": "2026-11-13T20:22:47+00:00",
+      "author": "Rebecca Chao and Ishani Desai",
+      "description": "The river boat appeared to have capsized and taken on water after being struck by a ship. The river boat was set to begin an eight-day excursion starting on Friday.",
+      "link": "https://www.nytimes.com/2026/11/13/us/new-orleans-cruise-ship-crash.html",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "feed_name": "NYT > Travel",
+      "feed_title": "NYT > Travel",
+      "category": "travel",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "https://www.atlasobscura.com/places/pensao-amor",
       "title": "Pensão Amor in Lisbon, Portugal",

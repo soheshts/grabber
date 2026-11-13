@@ -1,9 +1,23 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-13T20:03:03.861129+00:00",
-  "count": 441,
+  "updated": "2026-11-13T20:32:47.145197+00:00",
+  "count": 442,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.raymondcamden.com/2026/11/13/porting-my-bots-to-netlify",
+      "title": "Porting My Bots to Netlify",
+      "published": "2026-11-13T18:00:00+00:00",
+      "author": "Raymond Camden",
+      "description": "I've got a number of bots I've built for both fun and learning (well mostly fun), most of which were running on Pipedream . Sadly, Pipedream is shutting down. I'd naturally consider Val Town instead... but it's shutting down too. Yeah, wonderful times in tech these days, eh? I was a bit unsure of what to do with them. Cloudflare has excellent serverless support and I knew I could move them there, but instead I decided to wrap them into my site here itself. I was hesitant to do so at first - the…",
+      "link": "https://www.raymondcamden.com/2026/11/13/porting-my-bots-to-netlify",
+      "image": "https://static.raymondcamden.com/images/2026/11/ntl.jpg",
+      "feed_name": "Raymond Camden",
+      "feed_title": "Raymond Camden",
+      "category": "personal blogs",
+      "feed_url": "https://www.raymondcamden.com/feed.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.raymondcamden.com&sz=64"
+    },
     {
       "id": "https://www.bennadel.com/blog/4927-normalizing-line-endings-and-other-opinionated-pre-processing-in-coldfusion.htm",
       "title": "Normalizing Line-Endings, And Other Opinionated Pre-Processing, In ColdFusion",
