@@ -1,9 +1,23 @@
 {
   "category": "World News",
-  "updated": "2026-11-13T11:03:16.107384+00:00",
+  "updated": "2026-11-13T11:32:17.098682+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "108550488",
+      "title": "Widespread Microsoft outage continues, taking down Outlook and other 365 services",
+      "published": "2026-11-13T11:23:26+00:00",
+      "author": null,
+      "description": "A Microsoft outage on Thursday affected users of services like Outlook, Teams and 365.",
+      "link": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108465628-17930473022026-10-26t203948z_25222247_rc28boaxmoul_rtrmadp_0_microsoft-buyouts.jpeg?v=1793047365&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
     {
       "id": "https://timesofindia.indiatimes.com/world/middle-east/no-nuclear-monitoring-while-threat-of-attacks-persists-iran-tells-un-agency/articleshow/135800064.cms",
       "title": "No nuclear monitoring while threat of attacks persists: Iran tells UN agency",
@@ -19,13 +33,13 @@
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
-      "id": "108550488",
-      "title": "Widespread Microsoft outage continues, taking down Outlook and other 365 services",
-      "published": "2026-11-13T10:55:10+00:00",
+      "id": "108550864",
+      "title": "Nvidia scandal draws in Commerce Secretary Lutnick, who reportedly agrees to testify about China chip sales",
+      "published": "2026-11-13T10:54:40+00:00",
       "author": null,
-      "description": "A Microsoft outage on Thursday affected users of services like Outlook, Teams and 365.",
-      "link": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108465628-17930473022026-10-26t203948z_25222247_rc28boaxmoul_rtrmadp_0_microsoft-buyouts.jpeg?v=1793047365&w=1920&h=1080",
+      "description": "Commerce Secretary Lutnick will testify before the Senate Banking Committee following revelations about Jensen Huang's affair with an alleged Chinese spy.",
+      "link": "https://www.cnbc.com/2026/11/13/nvidia-scandal-lutnick-chip-sales.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108550869-1794563986420-gettyimages-2301238404-1r5_0547_cjwarw7l.jpeg?v=1794564005&w=1920&h=1080",
       "feed_name": "CNBC",
       "feed_title": "International: Top News And Analysis",
       "category": "World News",
@@ -2719,6 +2733,20 @@
       "category": "World News",
       "feed_url": "https://www.reddit.com/r/worldnews/.rss",
       "feed_icon": "https://www.redditstatic.com/icon.png/"
+    },
+    {
+      "id": "108549561",
+      "title": "Who is Colette Kress? Nvidia's finance chief steps in as interim CEO after Huang exit",
+      "published": "2026-11-12T18:36:30+00:00",
+      "author": null,
+      "description": "Colette Kress joined Nvidia in 2013 after nearly 25 years in finance roles at Cisco, Microsoft and other tech companies.",
+      "link": "https://www.cnbc.com/2026/11/12/colette-kress-nvidia-cfo-interim-ceo-candidate.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108277310-1773331016498-108277310-1773330505901-Colette_Kress.jpg?v=1779316552&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
       "id": "108549753",
@@ -13975,34 +14003,6 @@
       "category": "World News",
       "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://www.theguardian.com/business/2026/nov/10/qantas-850-job-cuts-outsource-work-to-india-ai-overhaul",
-      "title": "Qantas to cut 850 Australian jobs and outsource work to India under AI-driven overhaul",
-      "published": "2026-11-10T01:34:47+00:00",
-      "author": "Jonathan Barrett Business editor",
-      "description": "Australian carrier announces agreement with Accenture amid ‘unprecedented’ technological disruption, CEO Vanessa Hudson says Get our breaking news email , free app or daily news podcast Qantas is preparing to cut 850 local jobs and outsource work offshore under an AI-driven overhaul, marking a growing wave of disruption to the Australian workforce. The changes represent the third major corporate layoff plan announced in Australia in three weeks, after restructuring moves flagged by the design c…",
-      "link": "https://www.theguardian.com/business/2026/nov/10/qantas-850-job-cuts-outsource-work-to-india-ai-overhaul",
-      "image": "https://i.guim.co.uk/img/media/495089a2ea3363d20bc4baf998d27df79ec59b7c/688_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3df961fbc162b688c55e7a7bf266e380",
-      "feed_name": "The Guardian",
-      "feed_title": "World news | The Guardian",
-      "category": "World News",
-      "feed_url": "https://www.theguardian.com/world/rss",
-      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
-    },
-    {
-      "id": "108545608",
-      "title": "What is Megaspeed? The Nvidia chip buyer in the spotlight after Jensen Huang’s affair",
-      "published": "2026-11-10T01:33:36+00:00",
-      "author": null,
-      "description": "The Singapore-based company has previously been probed for allegedly supplying China with Nvidia chips.",
-      "link": "https://www.cnbc.com/2026/11/09/megaspeed-nvidia-jensen-huang-alice-huang.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108363600-1789563173894-gettyimages-2294939592-DREAMFORCE_2026.jpeg?v=1789678347&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     }
   ]
 }
