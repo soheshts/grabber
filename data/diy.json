@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-13T13:03:38.193504+00:00",
+  "updated": "2026-11-13T13:34:07.688572+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/install-linux-over-network-without-usb/",
+      "title": "My favorite Linux installer isn't an ISO, and I wish I'd found it sooner",
+      "published": "2026-11-13T13:30:16+00:00",
+      "author": "Tashreef Shareef",
+      "description": "Boot and install any Linux distro over your network, no USB needed.",
+      "link": "https://www.makeuseof.com/install-linux-over-network-without-usb/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/netboot-xyz-boot-menu-next-server-installation-options.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/fantastic-paramount-plus-documentaries-to-watch-this-weekend-november-13/",
+      "title": "4 fantastic Paramount+ documentaries to watch this weekend (November 13-15)",
+      "published": "2026-11-13T13:30:15+00:00",
+      "author": "Tyler Dupont",
+      "description": "This week's picks will have true crime fans occupied all weekend.",
+      "link": "https://www.howtogeek.com/fantastic-paramount-plus-documentaries-to-watch-this-weekend-november-13/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/paramount-documentaries-logo-with-a-clapperboard-and-film-strips-on-a-textured-blue-background.avif",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/usb4-can-deliver-20gbps-or-80gbps-and-there-is-no-easy-way-to-tell-what-youll-get/",
       "title": "USB4 can deliver 20Gbps or 80Gbps, and there is no easy way to tell what you’ll get",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://hackaday.com/blog/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/your-android-auto-screen-may-be-running-at-the-wrong-resolution/",
-      "title": "Your Android Auto screen may be running at the wrong resolution",
-      "published": "2026-10-30T14:00:17+00:00",
-      "author": "Sagar Naresh",
-      "description": "Android Auto doesn't need to look blurry",
-      "link": "https://www.makeuseof.com/your-android-auto-screen-may-be-running-at-the-wrong-resolution/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/05/android-auto-redesign-5.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/home-assistant-projects-to-try-this-weekend-oct-30-nov-1/",
-      "title": "3 spooky Home Assistant projects to try this weekend (Oct 30-Nov 1)",
-      "published": "2026-10-30T14:00:16+00:00",
-      "author": "Adam Davidson",
-      "description": "Smart home, haunted house.",
-      "link": "https://www.howtogeek.com/home-assistant-projects-to-try-this-weekend-oct-30-nov-1/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2025/10/a-happy-halloween-sign-next-to-a-reolink-video-doorbell-wi-fi-on-a-front-door.png",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
     }
   ]
 }

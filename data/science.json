@@ -1,9 +1,23 @@
 {
   "category": "science",
-  "updated": "2026-11-13T13:03:38.193504+00:00",
+  "updated": "2026-11-13T13:34:07.688572+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "news713773340",
+      "title": "Concrete and steel—or mangroves and forests? When it comes to climate adaptation, nature is much cheaper",
+      "published": "2026-11-13T13:20:02+00:00",
+      "author": null,
+      "description": "What's the best way to protect ourselves against climate change? The default is to reach for concrete and steel to build seawalls, dikes, dams and drainage systems. These can work. But they are expensive and inflexible. There's another, much cheaper option which gets vastly less attention. Mangroves, forests and urban trees can help protect humans and their homes, farms and cities from floods, droughts, rising seas and heat.",
+      "link": "https://phys.org/news/2026-11-concrete-steel-mangroves-forests-climate.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/urban-tree.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
     {
       "id": "news713609932",
       "title": "Wider daily temperature ranges linked to stronger fevers in amphibians and reptiles",
@@ -739,6 +753,20 @@
       "author": "Xiaoying You",
       "description": "Nature, Published online: 13 November 2026; doi:10.1038/d41586-026-03456-7 Malaysia, Hong Kong and Macau are the new hot destinations for students.",
       "link": "https://www.nature.com/articles/d41586-026-03456-7",
+      "image": null,
+      "feed_name": "Nature",
+      "feed_title": "Nature",
+      "category": "science",
+      "feed_url": "https://www.nature.com/nature.rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=feeds.nature.com&sz=64"
+    },
+    {
+      "id": "https://www.nature.com/articles/d41586-026-03716-6",
+      "title": "Is the climate totally cooked? What the data say",
+      "published": "2026-11-13T00:00:00+00:00",
+      "author": "Nick Petrić Howe",
+      "description": "Nature, Published online: 13 November 2026; doi:10.1038/d41586-026-03716-6 In the first of our new podcast series, a Nature reporter looks for reasons for hope in the face of overwhelming climate anxiety.",
+      "link": "https://www.nature.com/articles/d41586-026-03716-6",
       "image": null,
       "feed_name": "Nature",
       "feed_title": "Nature",
@@ -13975,34 +14003,6 @@
       "category": "science",
       "feed_url": "http://rss.sciam.com/ScientificAmerican-Global",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.scientificamerican.com&sz=64"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/03/climate/floods-arizona-colorado-river-water.html",
-      "title": "The Southwest Is Parched. Can the Recent Floodwaters Quench It?",
-      "published": "2026-11-04T17:01:11+00:00",
-      "author": "Scott Dance",
-      "description": "A series of storms has added to reservoirs in the Colorado River basin, but the long-term water outlook remains bleak.",
-      "link": "https://www.nytimes.com/2026/11/03/climate/floods-arizona-colorado-river-water.html",
-      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03cli-floods-01-flkh/03cli-floods-01-flkh-mediumSquareAt3X-v2.jpg",
-      "feed_name": "NYT > Science",
-      "feed_title": "NYT > Science",
-      "category": "science",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "news713007313",
-      "title": "Speaking in a second language may shift your moral compass—but it can't overpower it",
-      "published": "2026-11-04T17:00:17+00:00",
-      "author": null,
-      "description": "In today's interconnected world, millions of people move between two or more languages every day. They may negotiate at work in one language, speak with family in another and follow news, entertainment and social media across several others.",
-      "link": "https://phys.org/news/2026-11-language-shift-moral-compass-overpower.html",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/conversation-1.jpg",
-      "feed_name": "Phys.org - latest science and technology news stories",
-      "feed_title": "Phys.org - latest science and technology news stories",
-      "category": "science",
-      "feed_url": "https://phys.org/rss-feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
     }
   ]
 }

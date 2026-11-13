@@ -1,9 +1,51 @@
 {
   "category": "World News",
-  "updated": "2026-11-13T13:03:38.193504+00:00",
+  "updated": "2026-11-13T13:34:07.688572+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "108550855",
+      "title": "Nvidia stock inches higher as investors continue to weigh Jensen Huang’s departure",
+      "published": "2026-11-13T13:13:51+00:00",
+      "author": null,
+      "description": "Jensen Huang resigned as CEO of Nvidia on Thursday after coming under scrutiny for two extramarital affairs.",
+      "link": "https://www.cnbc.com/2026/11/13/nvidia-nvda-stock-jensen-huang-transition.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108550021-1794492334597-gettyimages-2224669758-AFP_66W349F.jpeg?v=1794492360&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "108550488",
+      "title": "Outlook outage continues as Microsoft flags 'encouraging recovery signals'",
+      "published": "2026-11-13T13:11:35+00:00",
+      "author": null,
+      "description": "A Microsoft outage on Thursday and Friday affected users of services like Outlook, Teams and 365.",
+      "link": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108465628-17930473022026-10-26t203948z_25222247_rc28boaxmoul_rtrmadp_0_microsoft-buyouts.jpeg?v=1793047365&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "108550887",
+      "title": "Trump says he wants to ‘get Cuba done’ before leaving office, would consider military force",
+      "published": "2026-11-13T13:04:00+00:00",
+      "author": null,
+      "description": "It comes as the U.S. continues to enforce a comprehensive economic embargo against Cuba.",
+      "link": "https://www.cnbc.com/2026/11/13/trump-cuba-us-military-force-iran.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108292269-1776320588454-gettyimages-2268604649-AFP_A69B2UP.jpeg?v=1776340641&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
     {
       "id": "https://timesofindia.indiatimes.com/world/uk/how-prince-william-is-breaking-a-royal-rule-by-flying-with-son-george/articleshow/135803644.cms",
       "title": "How Prince William is breaking a royal rule by flying with son George",
@@ -159,20 +201,6 @@
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
     },
     {
-      "id": "108550887",
-      "title": "Trump says he wants to ‘get Cuba done’ before leaving office, would consider military force",
-      "published": "2026-11-13T12:28:55+00:00",
-      "author": null,
-      "description": "It comes as the U.S. continues to enforce a comprehensive economic embargo against Cuba.",
-      "link": "https://www.cnbc.com/2026/11/13/trump-cuba-us-military-force-iran.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108292269-1776320588454-gettyimages-2268604649-AFP_A69B2UP.jpeg?v=1776340641&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
       "id": "https://timesofindia.indiatimes.com/world/us/stephen-millers-new-rule-on-white-house-staffers-meeting-lobbyists-work-for-the-people-of-the-nation-like-donald-trump-not-for-lobbyists/articleshow/135803346.cms",
       "title": "Stephen Miller's new rule on White House staffers meeting lobbyists: Work for the people of the nation like Donald Trump, not for lobbyists",
       "published": "2026-11-13T12:28:43+00:00",
@@ -227,20 +255,6 @@
       "category": "World News",
       "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "108550488",
-      "title": "Outlook outage continues as Microsoft flags 'encouraging recovery progress'",
-      "published": "2026-11-13T12:21:41+00:00",
-      "author": null,
-      "description": "A Microsoft outage on Thursday and Friday affected users of services like Outlook, Teams and 365.",
-      "link": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108465628-17930473022026-10-26t203948z_25222247_rc28boaxmoul_rtrmadp_0_microsoft-buyouts.jpeg?v=1793047365&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/us/two-new-york-children-spent-a-school-year-with-grandparents-in-north-carolina-while-their-mother-sought-addiction-treatment-a-november-12-appeals-court-upheld-primary-custody-for-their-father-after-a-family-dispute/articleshow/135802179.cms",
@@ -481,6 +495,20 @@
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
+      "id": "t3_1xv5d8e",
+      "title": "Now is the time to \"continue to ramp up pressure on Russia to agree a full and immediate ceasefire\", says Prime Minister Andy Burnham, as the U.K becomes the first country in the world to have sanctioned all of Russia’s top ten oil producers",
+      "published": "2026-11-13T11:24:22+00:00",
+      "author": "/u/Raj_Valiant3011",
+      "description": "submitted by /u/Raj_Valiant3011 [link] [comments]",
+      "link": "https://www.reddit.com/r/worldnews/comments/1xv5d8e/now_is_the_time_to_continue_to_ramp_up_pressure/",
+      "image": "https://external-preview.redd.it/yBgMtGH3we4gZrT7UuSXthiAhOGzcAuaV_7mqPrGBc0.jpeg?width=640&crop=smart&auto=webp&s=9e6450921fda9c65a703a55b96ce829389666af6",
+      "feed_name": "World News",
+      "feed_title": "World News",
+      "category": "World News",
+      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
+      "feed_icon": "https://www.redditstatic.com/icon.png/"
+    },
+    {
       "id": "https://timesofindia.indiatimes.com/world/uk/london-homeowner-ordered-to-pay-10000-in-damages-after-removing-new-neighbours-entrance-on-their-moving-in-day-with-court-ruling-they-had-the-right-to-drive-across-his-land-and-install-gates/articleshow/135798013.cms",
       "title": "London homeowner fined £10,000 for removing neighbours' entrance on moving-in day",
       "published": "2026-11-13T11:10:00+00:00",
@@ -493,6 +521,20 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
+      "id": "t3_1xv4xgj",
+      "title": "Brazil's Bolsonaro shrugs off fugitive label, eyes future Brazil presidential bid",
+      "published": "2026-11-13T11:00:01+00:00",
+      "author": "/u/yahoonews",
+      "description": "submitted by /u/yahoonews [link] [comments]",
+      "link": "https://www.reddit.com/r/worldnews/comments/1xv4xgj/brazils_bolsonaro_shrugs_off_fugitive_label_eyes/",
+      "image": "https://external-preview.redd.it/T1jmFaejhjSPDojlv-qOSgOF_ygP3HbVVcMyQOaAr5Q.jpeg?width=640&crop=smart&auto=webp&s=0ccf95e3af3f04b38c9d55aeea859576ebd19cc8",
+      "feed_name": "World News",
+      "feed_title": "World News",
+      "category": "World News",
+      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
+      "feed_icon": "https://www.redditstatic.com/icon.png/"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/middle-east/no-nuclear-monitoring-while-threat-of-attacks-persists-iran-tells-un-agency/articleshow/135800064.cms",
@@ -647,20 +689,6 @@
       "category": "World News",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "108550855",
-      "title": "Nvidia stock inches higher as investors continue to weigh Jensen Huang’s departure",
-      "published": "2026-11-13T10:00:37+00:00",
-      "author": null,
-      "description": "Jensen Huang resigned as CEO of Nvidia on Thursday after coming under scrutiny for two extramarital affairs.",
-      "link": "https://www.cnbc.com/2026/11/13/nvidia-nvda-stock-jensen-huang-transition.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108550021-1794492334597-gettyimages-2224669758-AFP_66W349F.jpeg?v=1794492360&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
       "id": "https://www.nytimes.com/2026/11/13/world/americas/stephen-miller-mexico-immigration.html",
@@ -13975,34 +14003,6 @@
       "category": "World News",
       "feed_url": "https://www.reddit.com/r/worldnews/.rss",
       "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/us-mediated-talks-between-russia-ukraine-begin-today-in-abu-dhabi-12306322#publisher=newsstand",
-      "title": "US-Mediated Talks Between Russia, Ukraine Begin Today In Abu Dhabi",
-      "published": "2026-11-10T04:53:51+00:00",
-      "author": null,
-      "description": "Europe and Ukraine fear US will force a deal on Kyiv that would amount to a de-facto capitulation",
-      "link": "https://www.ndtv.com/world-news/us-mediated-talks-between-russia-ukraine-begin-today-in-abu-dhabi-12306322#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2025-11/6gkojq0g_trump-putin-zelensky-afp_625x300_26_November_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
-      "id": "https://www.theguardian.com/australia-news/2026/nov/10/redeemer-baptist-school-sexual-abuse-inquiry-ntwnfb",
-      "title": "Sydney private school accused of mishandling sexual abuse allegations should be banned from enrolling new students, inquiry says",
-      "published": "2026-11-10T04:51:39+00:00",
-      "author": "Australian Associated Press",
-      "description": "Inquiry recommends police investigate allegations of sexual assault and other abuse at Redeemer Baptist school Get our breaking news email , free app or daily news podcast An investigation into a private religious school accused of mishandling allegations of sexual, physical, psychological, spiritual and financial abuse has recommended it be barred from enrolling new students. Former students and teachers of western Sydney’s Redeemer Baptist school told a New South Wales parliamentary inquiry a…",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/10/redeemer-baptist-school-sexual-abuse-inquiry-ntwnfb",
-      "image": "https://i.guim.co.uk/img/media/e89a7b9a4c068bf8595b3c8453b3dcb07202dc80/688_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e03a5ed5e02f030cdb30b93c5922809e",
-      "feed_name": "The Guardian",
-      "feed_title": "World news | The Guardian",
-      "category": "World News",
-      "feed_url": "https://www.theguardian.com/world/rss",
-      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
     }
   ]
 }
