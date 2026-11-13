@@ -1,7 +1,7 @@
 {
   "category": "funny",
-  "updated": "2026-11-13T06:03:49.676610+00:00",
-  "count": 581,
+  "updated": "2026-11-13T06:33:46.266932+00:00",
+  "count": 580,
   "summary": null,
   "items": [
     {
@@ -8123,20 +8123,6 @@
       "category": "funny",
       "feed_url": "https://www.penny-arcade.com/feed",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.penny-arcade.com&sz=64"
-    },
-    {
-      "id": "https://thedailywtf.com/articles/a-diamond-in-the-rough",
-      "title": "Representative Line: A Diamond in the Rough",
-      "published": "2026-10-14T06:30:00+00:00",
-      "author": "Remy Porter",
-      "description": "Mandy 's co-worker recently learned about virtual inheritance in C++. It's become their new favorite button to push, and they only use virtual inheritance. Virtual inheritance is one workaround for the \" diamond problem \", where you have an inheritance tree that \"recombines\" via multiple inheritance: when a child class has a Hapsburg-esque parentage, it's hard to decide which inherited methods are being invoked or overridden. In C++, imagine you have class A, which gets derived into classes B a…",
-      "link": "https://thedailywtf.com/articles/a-diamond-in-the-rough",
-      "image": "https://thedailywtf.com/images/inedo/buildmaster-icon.png",
-      "feed_name": "The Daily WTF",
-      "feed_title": "The Daily WTF",
-      "category": "funny",
-      "feed_url": "http://syndication.thedailywtf.com/TheDailyWtf",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=thedailywtf.com&sz=64"
     }
   ]
 }
