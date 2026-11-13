@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-13T03:03:01.021460+00:00",
+  "updated": "2026-11-13T03:33:37.854257+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://hackaday.com/?p=1425067",
+      "title": "Hacking Meta’s Smart Glasses",
+      "published": "2026-11-13T03:00:45+00:00",
+      "author": "Jenny List",
+      "description": "Meta’s Ray-Ban smart glasses have attracted plenty of controversy in the relatively short time they have been available, given their potential for covert and unvanted surveillance. But given the chance …read more",
+      "link": "https://hackaday.com/2026/11/12/hacking-metas-smart-glasses/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/meta-glases-featured.jpg",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/i-put-a-magnetic-plate-on-my-boox-picco-to-make-it-magsafe/",
       "title": "I put a magnetic plate on my Boox Picco to make it MagSafe",
@@ -13989,20 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/how-to-install-steam-games-on-android-and-play-them-without-streaming/",
-      "title": "How to install Steam games on Android and play them without streaming",
-      "published": "2026-10-30T10:00:16+00:00",
-      "author": "Dipan Saha",
-      "description": "Play games locally on your smartphone.",
-      "link": "https://www.makeuseof.com/how-to-install-steam-games-on-android-and-play-them-without-streaming/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/droiddeck-tablet.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }
