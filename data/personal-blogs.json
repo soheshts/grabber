@@ -1,6 +1,6 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-13T17:05:10.671438+00:00",
+  "updated": "2026-11-13T17:33:28.532405+00:00",
   "count": 441,
   "summary": null,
   "items": [
@@ -19,11 +19,25 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.bennadel.com&sz=64"
     },
     {
+      "id": "https://jeffbridgforth.com/?p=12732",
+      "title": "The last design or development book I bought",
+      "published": "2026-11-13T17:20:59+00:00",
+      "author": "Jeff Bridgforth",
+      "description": "Andy Clarke recently asked, “what the most recent design/dev book you bought?” I had to think about it for a minute and it made me ponder how important these types of books were to my growth as a developer. The post The last design or development book I bought appeared first on Jeff Bridgforth .",
+      "link": "https://jeffbridgforth.com/the-last-design-or-development-book-i-bought/",
+      "image": "https://jeffbridgforth.com/wp-content/uploads/andy-clarke.webp",
+      "feed_name": "Jeff Bridgforth",
+      "feed_title": "Jeff Bridgforth",
+      "category": "personal blogs",
+      "feed_url": "http://jeffbridgforth.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=jeffbridgforth.com&sz=64"
+    },
+    {
       "id": "https://daverupert.com/2026/11/conventional-commit-rules-everything-around-me/",
       "title": "Conventional Commit rules everything around me",
       "published": "2026-11-13T16:55:00+00:00",
       "author": null,
-      "description": "There’s a community standard out there for called Conventional Commit structured git-commit messages. If you don’t know about it already, it’s a strict type(scope?): description format for describing a code change in a repo. A normal git commit history might look like this: > git log --oneline 9d30ff6 fix typo 3062496 oops d0b38ad shit b5f8df7 redesign site That’s all well and good, but lacks a bit of structure and detail for a big project with lots of contributors. That’s where Conventional Co…",
+      "description": "There’s a community standard out there called Conventional Commit for structured git-commit messages. If you don’t know about it already, it recommends a strict type(scope?): description format for describing a code change in a repo. A normal git commit history might look like this: > git log --oneline 9d30ff6 fix typo 3062496 oops d0b38ad shit b5f8df7 redesign site That’s all well and good, but lacks a bit of structure and detail for a big project with lots of contributors. That’s where Conven…",
       "link": "https://daverupert.com/2026/11/conventional-commit-rules-everything-around-me/",
       "image": "https://cdn.daverupert.com/posts/2026/github-chats.webp",
       "feed_name": "Dave Rupert",
@@ -5449,20 +5463,6 @@
       "category": "personal blogs",
       "feed_url": "https://ohhelloana.blog/feed.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=ohhelloana.blog&sz=64"
-    },
-    {
-      "id": "https://www.bram.us/?p=36933",
-      "title": "Scroll-Triggered Animations Debugger (DevTools Extension)",
-      "published": "2026-10-14T17:27:10+00:00",
-      "author": "Bramus!",
-      "description": "I’m extremely pleased to announce the release of Scroll-Triggered Animations Debugger , a DevTools extension to visualize and debug CSS Scroll-Triggered Animations .",
-      "link": "https://www.bram.us/2026/10/14/scroll-triggered-animations-debugger-devtools-extension/",
-      "image": "https://www.bram.us/wordpress/wp-content/uploads/2026/10/scroll-triggered-animations-debugger-extension-560x364.png",
-      "feed_name": "Bram.us",
-      "feed_title": "Bram.us",
-      "category": "personal blogs",
-      "feed_url": "https://www.bram.us/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.bram.us&sz=64"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
