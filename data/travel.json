@@ -1,9 +1,23 @@
 {
   "category": "travel",
-  "updated": "2026-11-13T22:32:44.524704+00:00",
+  "updated": "2026-11-13T23:03:35.828557+00:00",
   "count": 171,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/11/13/us/new-orleans-cruise-ship-crash.html",
+      "title": "All Accounted for After Tanker Crashes Into Docked New Orleans Riverboat",
+      "published": "2026-11-13T22:42:44+00:00",
+      "author": "Rebecca Chao, Ishani Desai and Neil Vigdor",
+      "description": "Search and rescue operations were continuing after the riverboat, which had 129 people aboard, was struck by a tanker ship on Friday afternoon, the authorities said.",
+      "link": "https://www.nytimes.com/2026/11/13/us/new-orleans-cruise-ship-crash.html",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "feed_name": "NYT > Travel",
+      "feed_title": "NYT > Travel",
+      "category": "travel",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "https://www.nytimes.com/2026/11/05/travel/new-york-city-cheap-hotels.html",
       "title": "NYC’s Secret Budget Hotel Hack: Religious Guesthouses",
@@ -12,20 +26,6 @@
       "description": "Staying near prime tourist attractions in Manhattan can cost hundreds, even thousands, of dollars a night. These five properties welcome budget travelers of any faith.",
       "link": "https://www.nytimes.com/2026/11/05/travel/new-york-city-cheap-hotels.html",
       "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04trav-ny-guesthouses-PROMO-jfhc/04trav-ny-guesthouses-PROMO-jfhc-mediumSquareAt3X.jpg",
-      "feed_name": "NYT > Travel",
-      "feed_title": "NYT > Travel",
-      "category": "travel",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/13/us/new-orleans-cruise-ship-crash.html",
-      "title": "Search and Rescue Underway in New Orleans After Cargo Ship Crashes Into Riverboat",
-      "published": "2026-11-13T21:48:48+00:00",
-      "author": "Rebecca Chao and Ishani Desai",
-      "description": "Search and rescue operations were continuing after the riverboat, which was docked and had 129 people aboard, was struck by a cargo ship on Friday afternoon, the authorities said.",
-      "link": "https://www.nytimes.com/2026/11/13/us/new-orleans-cruise-ship-crash.html",
-      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
       "feed_name": "NYT > Travel",
       "feed_title": "NYT > Travel",
       "category": "travel",

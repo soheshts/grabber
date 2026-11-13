@@ -1,9 +1,51 @@
 {
   "category": "science",
-  "updated": "2026-11-13T22:32:44.524704+00:00",
+  "updated": "2026-11-13T23:03:35.828557+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "news713800021",
+      "title": "Same farms, different answers: When nitrogen pollution estimates don't add up",
+      "published": "2026-11-13T23:00:07+00:00",
+      "author": null,
+      "description": "To reduce nitrogen pollution stemming from synthetic fertilizer and livestock waste, California's Central Valley relies on five data sets to estimate surplus nitrogen. However, most parts of the United States use just one or two data sets—the U.S. Department of Agriculture's agricultural survey and census—to estimate nitrogen surplus.",
+      "link": "https://phys.org/news/2026-11-farms-nitrogen-pollution-dont.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/yellow-harvester-movin-1.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "news713799001",
+      "title": "Hidden 'master switch' allows bacteria to breach the body's defenses",
+      "published": "2026-11-13T22:40:01+00:00",
+      "author": null,
+      "description": "Researchers at Penn Dental Medicine have uncovered a previously unknown molecular mechanism by which bacteria rapidly compromise the body's protective barriers, a finding that could reshape how scientists approach a wide range of serious diseases.",
+      "link": "https://phys.org/news/2026-11-hidden-master-bacteria-breach-body.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hidden-master-switch-a.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/13/science/spacex-launch-starship-rocket-catch.html",
+      "title": "SpaceX Aims for Starship Launch on Friday. Here’s What to Know.",
+      "published": "2026-11-13T22:35:41+00:00",
+      "author": "Kenneth Chang",
+      "description": "The audacious maneuver planned for Friday is a key step toward the company’s goal of making rockets fully reusable.",
+      "link": "https://www.nytimes.com/2026/11/13/science/spacex-launch-starship-rocket-catch.html",
+      "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13SCI-STARSHIP-CATCH-01-vkmg/13SCI-STARSHIP-CATCH-01-vkmg-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Science",
+      "feed_title": "NYT > Science",
+      "category": "science",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "news713797202",
       "title": "'Planimal' cells retain nearly entire algal genome after experimental cell fusion",
@@ -157,6 +199,20 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "https://www.scientificamerican.com/article/the-euclid-space-telescope-captures-nearly-a-billion-celestial-objects-in-stunning-detail/",
+      "title": "The Euclid space telescope captures nearly a billion celestial objects in stunning detail",
+      "published": "2026-11-13T19:30:00+00:00",
+      "author": null,
+      "description": "The enormous trove of galaxies and quasars will help astronomers piece together the most in-depth 3D map of the universe yet made",
+      "link": "https://www.scientificamerican.com/article/the-euclid-space-telescope-captures-nearly-a-billion-celestial-objects-in-stunning-detail/",
+      "image": "https://static.scientificamerican.com/dam/asset/3fcef9b9-42db-49ba-bc0b-d232b2a1c9c7/Euclid.jpg?m=1794605497.28&w=1200",
+      "feed_name": "Scientific American Content: Global",
+      "feed_title": "Scientific American Content: Global",
+      "category": "science",
+      "feed_url": "http://rss.sciam.com/ScientificAmerican-Global",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.scientificamerican.com&sz=64"
     },
     {
       "id": "news713790721",
@@ -675,20 +731,6 @@
       "category": "science",
       "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/13/science/spacex-launch-starship-rocket-catch.html",
-      "title": "SpaceX Aims for Starship Launch on Friday. Here’s What to Know.",
-      "published": "2026-11-13T14:30:31+00:00",
-      "author": "Kenneth Chang",
-      "description": "The audacious maneuver planned for Friday is a key step toward the company’s goal of making rockets fully reusable.",
-      "link": "https://www.nytimes.com/2026/11/13/science/spacex-launch-starship-rocket-catch.html",
-      "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13SCI-STARSHIP-CATCH-01-vkmg/13SCI-STARSHIP-CATCH-01-vkmg-mediumSquareAt3X.jpg",
-      "feed_name": "NYT > Science",
-      "feed_title": "NYT > Science",
-      "category": "science",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "news713782862",
@@ -13961,48 +14003,6 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "https://www.nature.com/articles/d41586-026-03568-0",
-      "title": "The surprising reason women in academia do more parenting than men",
-      "published": "2026-11-05T00:00:00+00:00",
-      "author": "Rachel Fieldhouse",
-      "description": "Nature, Published online: 05 November 2026; doi:10.1038/d41586-026-03568-0 Policies designed to keep women in the workforce could be entrenching gendered parenting roles.",
-      "link": "https://www.nature.com/articles/d41586-026-03568-0",
-      "image": null,
-      "feed_name": "Nature",
-      "feed_title": "Nature",
-      "category": "science",
-      "feed_url": "https://www.nature.com/nature.rss",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=feeds.nature.com&sz=64"
-    },
-    {
-      "id": "https://www.nature.com/articles/s41586-026-11336-3",
-      "title": "Opportunistically Detecting Signs of Hypertension on a Consumer Smartwatch",
-      "published": "2026-11-05T00:00:00+00:00",
-      "author": "Paolo Di Achille, Lawrence Cai, Jiang Wu, Mingwu Gao, Bhavna Daryani, Jonathan Wang, Utkarsh Khanna, Ho Ko, Anupam Pathak, Mark Malhotra, Shwetak Patel, Jacqueline B. Shreibati, Stephen P. Juraschek, Pramod Rudrapatna, Matthew Thompson, Ming-Zher Poh",
-      "description": "Nature, Published online: 05 November 2026; doi:10.1038/s41586-026-11336-3 Opportunistically Detecting Signs of Hypertension on a Consumer Smartwatch",
-      "link": "https://www.nature.com/articles/s41586-026-11336-3",
-      "image": null,
-      "feed_name": "Nature",
-      "feed_title": "Nature",
-      "category": "science",
-      "feed_url": "https://www.nature.com/nature.rss",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=feeds.nature.com&sz=64"
-    },
-    {
-      "id": "https://www.nature.com/articles/s41586-026-11351-4",
-      "title": "Hydrogen Derivatives Enable Cost-Effective Carbon Neutrality in China",
-      "published": "2026-11-05T00:00:00+00:00",
-      "author": "Xinyu Chen, Xinyang Guo, Xi Yang, Jiashuo Li, Michael McElroy",
-      "description": "Nature, Published online: 05 November 2026; doi:10.1038/s41586-026-11351-4 Hydrogen Derivatives Enable Cost-Effective Carbon Neutrality in China",
-      "link": "https://www.nature.com/articles/s41586-026-11351-4",
-      "image": null,
-      "feed_name": "Nature",
-      "feed_title": "Nature",
-      "category": "science",
-      "feed_url": "https://www.nature.com/nature.rss",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=feeds.nature.com&sz=64"
     }
   ]
 }
