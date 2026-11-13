@@ -1,9 +1,23 @@
 {
   "category": "technology",
-  "updated": "2026-11-13T12:32:55.405425+00:00",
+  "updated": "2026-11-13T13:03:38.193504+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.theverge.com/?p=1032862",
+      "title": "Microsoft’s massive Outlook outage continues",
+      "published": "2026-11-13T12:48:03+00:00",
+      "author": "Jess Weatherbed",
+      "description": "Service is gradually starting to recover for Microsoft Outlook and 365 after an almost two-day outage impacting millions of users around the world. While some apps and features are still running in a degradated state, some people (including Verge staffers) are reporting that access to their emails has been restored, though the flow of Outlook […]",
+      "link": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_A.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "feed_name": "The Verge -  All Posts",
+      "feed_title": "The Verge",
+      "category": "technology",
+      "feed_url": "https://www.theverge.com/rss/index.xml",
+      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
+    },
     {
       "id": "https://arstechnica.com/space/2026/11/rocket-report-starship-set-for-historic-test-flight-a-century-of-electron/",
       "title": "Rocket Report: Starship set for historic test flight; a century of Electron",
@@ -13984,20 +13998,6 @@
       "description": "A factory reset shouldn't be your first instinct when your Vizio TV has issues, but it can sometimes be the only way to fix them. Thankfully, it's quite simple.",
       "link": "https://www.engadget.com/2307501/how-to-reset-vizio-tv-factory-settings/",
       "image": "https://www.engadget.com/img/gallery/how-to-reset-your-vizio-tv-back-to-factory-settings/l-intro-1793860895.jpg",
-      "feed_name": "Engadget",
-      "feed_title": "Engadget - Technology News & Expert Reviews",
-      "category": "technology",
-      "feed_url": "https://www.engadget.com/rss.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
-    },
-    {
-      "id": "https://www.engadget.com/2306218/can-hackers-do-anything-with-ip-address/",
-      "title": "Can a hacker really do anything with your IP address?",
-      "published": "2026-11-08T13:45:00+00:00",
-      "author": "Husain Parvez",
-      "description": "Your IP address won't give a hacker your passwords, yet it can point attackers to your home network. Here's what IPv6 changes and how to stay protected.",
-      "link": "https://www.engadget.com/2306218/can-hackers-do-anything-with-ip-address/",
-      "image": "https://www.engadget.com/img/gallery/can-a-hacker-really-do-anything-with-your-ip-address/l-intro-1793723874.jpg",
       "feed_name": "Engadget",
       "feed_title": "Engadget - Technology News & Expert Reviews",
       "category": "technology",

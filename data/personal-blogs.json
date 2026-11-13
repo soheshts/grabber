@@ -1,9 +1,51 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-13T12:32:55.405425+00:00",
-  "count": 435,
+  "updated": "2026-11-13T13:03:38.193504+00:00",
+  "count": 438,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.bennadel.com/blog/4927-normalizing-line-endings-and-other-opinionated-pre-processing-in-coldfusion.htm",
+      "title": "Normalizing Line-Endings, And Other Opinionated Pre-Processing, In ColdFusion",
+      "published": "2026-11-13T17:44:13+00:00",
+      "author": null,
+      "description": "Ben Nadel looks how he's normalizing line-endings and other ASCII character in his ColdFusion request processing pipeline....",
+      "link": "https://www.bennadel.com/blog/4927-normalizing-line-endings-and-other-opinionated-pre-processing-in-coldfusion.htm",
+      "image": "https://bennadel-cdn.com/images/blog/fallback-unfurling.jpg",
+      "feed_name": "Ben Nadel",
+      "feed_title": "Ben Nadel's Web Development and User Experience Feed @ BenNadel.com",
+      "category": "personal blogs",
+      "feed_url": "http://www.bennadel.com/index.cfm?dax=blog.rss&lst_tag_id=14,16,3,5,9,6,7,13,18,20,10,15",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.bennadel.com&sz=64"
+    },
+    {
+      "id": "https://www.gsarigiannidis.gr/?p=2611",
+      "title": "Who’s afraid of merge conflicts? Patching Meld into my favorite merge tool",
+      "published": "2026-11-13T12:51:02+00:00",
+      "author": "Giorgos Sarigiannidis",
+      "description": "I recently decided to cancel my PhpStorm subscription. I don’t spend as much time in it as I used to (most of my day happens in the terminal nowadays), it was heavy to load, and VS Code is a more than good and much faster alternative, available for free. The one thing I missed, though, […] The post Who’s afraid of merge conflicts? Patching Meld into my favorite merge tool appeared first on Giorgos Sarigiannidis .",
+      "link": "https://www.gsarigiannidis.gr/whos-afraid-of-merge-conflicts-patching-meld-into-my-favorite-merge-tool/",
+      "image": "https://www.gsarigiannidis.gr/wp-content/uploads/2026/11/meldown-window.png",
+      "feed_name": "Giorgos Sarigiannidis",
+      "feed_title": "Giorgos Sarigiannidis",
+      "category": "personal blogs",
+      "feed_url": "https://www.gsarigiannidis.gr/feed/",
+      "feed_icon": "https://www.gsarigiannidis.gr/wp-content/uploads/2020/05/cropped-favicon-32x32.png"
+    },
+    {
+      "id": "https://shkspr.mobi/blog/?p=77148",
+      "title": "Gadget Review: Thermal Master P3 Lite - and Linux Instructions ★★★★⯪",
+      "published": "2026-11-13T12:34:48+00:00",
+      "author": "Terence Eden",
+      "description": "The good folks at Thermal Master have sent me (yet another) thermal camera. The P3 Lite has a detachable macro lens. As well as being good for scanning your house for leaks and looking for wildlife, it can focus down on tiny electronic components. I've previously reviewed their P3 with adjustable macro focus, the chunky T2 Max, and the wildlife spotting DV2 - how does this compare? Like…",
+      "link": "https://shkspr.mobi/blog/2026/11/gadget-review-thermal-master-p3-lite-p2-max-and-linux-instructions/",
+      "image": "https://shkspr.mobi/blog/wp-content/uploads/2026/11/What-you-get.avif",
+      "feed_name": "Terence Eden’s Blog",
+      "feed_title": "Terence Eden’s Blog",
+      "category": "personal blogs",
+      "feed_url": "https://shkspr.mobi/blog/feed/atom/",
+      "feed_icon": "https://shkspr.mobi/blog/wp-content/uploads/2023/07/cropped-avatar-32x32.jpeg"
+    },
     {
       "id": "https://hey.georgie.nu/taiwan-north-east/",
       "title": "Group tour to Taiwan’s north-east coast: Yehliu, Jiufen, and Pingxi",
