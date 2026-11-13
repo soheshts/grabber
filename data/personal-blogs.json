@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-13T07:33:38.523636+00:00",
-  "count": 433,
+  "updated": "2026-11-13T08:03:50.553838+00:00",
+  "count": 434,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,20 @@
       "category": "personal blogs",
       "feed_url": "http://rachsmith.com/rss.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=rachsmith.com&sz=64"
+    },
+    {
+      "id": "https://hamatti.org/posts/designing-a-simple-audit-log/",
+      "title": "Designing a simple audit log",
+      "published": "2026-11-13T00:00:00+00:00",
+      "author": "Juha-Matti Santala (juhis@hamatti.org)",
+      "description": "This blog post is an update of my journey in Djangonaut Space , an 8-week mentoring program for future open source developers in the Django ecosystem. Series: 3… 2… 1… becoming a Djangonaut Djangonaut Log 1: Lift-off and first week in Djangonaut Space Debugging a flaky test — how I methodologically tamed an annoying bug Assumptions are sneaky Djangonaut Log 2: Leaving the atmosphere and first merged contributions Djangonaut Log 3: Into the orbit! Djangonaut Log 4: Avoiding asteroids Designing a…",
+      "link": "https://hamatti.org/posts/designing-a-simple-audit-log/",
+      "image": "https://hamatti.org/assets/img/posts/designing-a-simple-audit-log/1.png.webp",
+      "feed_name": "Juha-Matti Santala - Community Builder. Dreamer. Adventurer.",
+      "feed_title": "Juha-Matti Santala - Community Builder. Dreamer. Adventurer.",
+      "category": "personal blogs",
+      "feed_url": "https://hamatti.org/feed/feed.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hamatti.org&sz=64"
     },
     {
       "id": "https://shkspr.mobi/blog/?p=77340",
