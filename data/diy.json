@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-13T23:03:35.828557+00:00",
+  "updated": "2026-11-13T23:32:46.823252+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.howtogeek.com/16gb-pi-5-costs-almost-400-mini-pc-should-buy-instead/",
+      "title": "The 16GB Pi 5 costs almost $400, here's the mini PC you should buy instead",
+      "published": "2026-11-13T23:30:15+00:00",
+      "author": "Patrick Campanale",
+      "description": "The 16GB Pi 5 went from $120 to $385, so buy this mini PC instead",
+      "link": "https://www.howtogeek.com/16gb-pi-5-costs-almost-400-mini-pc-should-buy-instead/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/raspberry-pi-4-on-bosgame-mini-pc-in-hand.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/cpu-clock-speeds-overrated-this-is-what-actually-matters/",
       "title": "CPU clock speeds are overrated — this is what actually matters",
@@ -31,6 +45,20 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.apartmenttherapy.com/blue-white-renter-dining-room-makeover-ba-37699503",
+      "title": "The Most Dramatic Blue Paint Transformed This “Dated” Dining Room",
+      "published": "2026-11-13T23:00:00+00:00",
+      "author": "Sarah Everett",
+      "description": "A (mostly) renter-friendly, colorful, euphoric riot? Yes please. READ MORE...",
+      "link": "https://www.apartmenttherapy.com/blue-white-renter-dining-room-makeover-ba-37699503?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+projects",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2025/may/charlotte-h/before/charlotte-h-dining-room-before-lead",
+      "feed_name": "Apartment Therapy| Saving the world, one room at a time",
+      "feed_title": "Apartment Therapy| Saving the world, one room at a time",
+      "category": "DIY",
+      "feed_url": "https://www.apartmenttherapy.com/projects.rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.apartmenttherapy.com&sz=64"
     },
     {
       "id": "https://www.howtogeek.com/everyones-buying-the-ryzen-5-5500-but-its-not-the-bargain-it-appears-to-be/",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/turn-on-excels-focus-cell-to-avoid-making-this-mistake/",
-      "title": "I turned on Excel's Focus Cell and immediately stopped making this mistake",
-      "published": "2026-10-31T10:30:16+00:00",
-      "author": "Adaeze Uche",
-      "description": "Give your eyes a fighting chance!",
-      "link": "https://www.makeuseof.com/turn-on-excels-focus-cell-to-avoid-making-this-mistake/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/01/excel-sheet-with-a-cell-in-focus.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/galaxy-phone-usb-charging-port-uses/",
-      "title": "My Galaxy’s USB-C port does 3 useful jobs that have nothing to do with charging",
-      "published": "2026-10-31T10:01:18+00:00",
-      "author": "Pankil Shah",
-      "description": "No, I’m not talking about connecting headphones.",
-      "link": "https://www.makeuseof.com/galaxy-phone-usb-charging-port-uses/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/galaxy-s26-ultra-charging-port.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }
