@@ -1,6 +1,6 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-13T11:32:17.098682+00:00",
+  "updated": "2026-11-13T12:03:13.897983+00:00",
   "count": 435,
   "summary": null,
   "items": [
@@ -17,6 +17,20 @@
       "category": "personal blogs",
       "feed_url": "https://hey.georgie.nu/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=hey.georgie.nu&sz=64"
+    },
+    {
+      "id": "https://dariuszwinkler.com/photo/0198/",
+      "title": "#0198",
+      "published": "2026-11-13T11:09:58+00:00",
+      "author": "Dariusz Winkler",
+      "description": "An ICM photo that looks like a painting. Golden leaves under a pergola are lighted by the sun.",
+      "link": "https://dariuszwinkler.com/photo/0198/",
+      "image": "https://dariuszwinkler.com/photo/0198/0198-small.webp",
+      "feed_name": "Darek Kay",
+      "feed_title": "Dariusz Winkler",
+      "category": "personal blogs",
+      "feed_url": "https://darekkay.com/atom.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=dariuszwinkler.com&sz=64"
     },
     {
       "id": "https://zeldman.com/?p=21439",
@@ -59,6 +73,20 @@
       "category": "personal blogs",
       "feed_url": "https://hamatti.org/feed/feed.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=hamatti.org&sz=64"
+    },
+    {
+      "id": "https://www.amitmerchant.com/giving-ai-agents-a-better-way-to-debug-css",
+      "title": "Giving AI Agents a Better Way to Debug CSS",
+      "published": "2026-11-13T00:00:00+00:00",
+      "author": "Amit Merchant",
+      "description": "Have you ever written a CSS rule, only to find out that it doesn’t seem to have any effect on the element you’re trying to style? You inspect the stylesheet, find the declaration, and everything looks perfectly fine. But the browser has other plans.",
+      "link": "https://www.amitmerchant.com/giving-ai-agents-a-better-way-to-debug-css/",
+      "image": "https://www.amitmerchant.com/cdn/giving-ai-agents-a-better-way-to-debug-css.png",
+      "feed_name": "Amit Merchant",
+      "feed_title": "Amit Merchant",
+      "category": "personal blogs",
+      "feed_url": "https://www.amitmerchant.com/feed.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.amitmerchant.com&sz=64"
     },
     {
       "id": "https://thomasrigby.com/posts/review-wicked-john-m-chu-2024/",
@@ -5351,34 +5379,6 @@
       "category": "personal blogs",
       "feed_url": "https://www.joedolson.com/feed/",
       "feed_icon": "https://www.joedolson.com/wp-content/uploads/awd-logo-disc-150x150.png"
-    },
-    {
-      "id": "https://rknight.me/blog/now-october-2026/",
-      "title": "Now (October 2026)",
-      "published": "2026-10-14T11:36:06+00:00",
-      "author": "Robb Knight",
-      "description": "What I'm doing now. October 2026 edition",
-      "link": "https://rknight.me/blog/now-october-2026/",
-      "image": "https://cdn.rknight.me/site/2026/st-jude-jimothy-framed.jpg",
-      "feed_name": "Robb Knight • Posts • Atom Feed",
-      "feed_title": "Robb Knight • Posts • Atom Feed",
-      "category": "personal blogs",
-      "feed_url": "https://rknight.me/feed.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=rknight.me&sz=64"
-    },
-    {
-      "id": "https://shkspr.mobi/blog/?p=75776",
-      "title": "The Internet of Very Cheap Things",
-      "published": "2026-10-14T11:34:08+00:00",
-      "author": "Terence Eden",
-      "description": "Twelve years ago, I was complaining that IoT devices were too expensive. Last week I bought a colour changing Zigbee lighbulb for £4. Not a typo - less than a fiver. While the aipocalypse is devouring RAM with its insatiable appetite, Moore's Law appears to be keeping up its end of the bargain when it comes to domestic gadgetry. This blog posts compares today's prices with those from a little …",
-      "link": "https://shkspr.mobi/blog/2026/10/the-internet-of-very-cheap-things/",
-      "image": "https://shkspr.mobi/blog/wp-content/themes/edent-wordpress-theme/info/okgo.php?ID=75776&HTTP_REFERER=Atom",
-      "feed_name": "Terence Eden’s Blog",
-      "feed_title": "Terence Eden’s Blog",
-      "category": "personal blogs",
-      "feed_url": "https://shkspr.mobi/blog/feed/atom/",
-      "feed_icon": "https://shkspr.mobi/blog/wp-content/uploads/2023/07/cropped-avatar-32x32.jpeg"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
