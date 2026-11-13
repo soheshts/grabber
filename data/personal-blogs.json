@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-13T01:02:59.398259+00:00",
-  "count": 436,
+  "updated": "2026-11-13T01:32:27.326530+00:00",
+  "count": 435,
   "summary": null,
   "items": [
     {
@@ -5379,20 +5379,6 @@
       "category": "personal blogs",
       "feed_url": "http://feeds.feedburner.com/robweychert",
       "feed_icon": "https://www.google.com/s2/favicons?domain=v7.robweychert.com&sz=64"
-    },
-    {
-      "id": "https://www.bennadel.com/blog/4918-spread-operator-bug-with-method-calls-in-adobe-coldfusion-2025.htm",
-      "title": "Spread Operator Bug With Method Calls In Adobe ColdFusion 2025",
-      "published": "2026-10-14T01:09:33+00:00",
-      "author": null,
-      "description": "Ben Nadel demonstrates a buggy spread operator in Adobe ColdFusion 2025, update 13. This only happens when spreading the result of a scoped method call....",
-      "link": "https://www.bennadel.com/blog/4918-spread-operator-bug-with-method-calls-in-adobe-coldfusion-2025.htm",
-      "image": null,
-      "feed_name": "Ben Nadel",
-      "feed_title": "Ben Nadel's Web Development and User Experience Feed @ BenNadel.com",
-      "category": "personal blogs",
-      "feed_url": "http://www.bennadel.com/index.cfm?dax=blog.rss&lst_tag_id=14,16,3,5,9,6,7,13,18,20,10,15",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.bennadel.com&sz=64"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
