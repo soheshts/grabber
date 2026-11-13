@@ -1,9 +1,23 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-13T21:32:48.224486+00:00",
-  "count": 442,
+  "updated": "2026-11-13T22:03:56.720123+00:00",
+  "count": 443,
   "summary": null,
   "items": [
+    {
+      "id": "https://rachsmith.com/how-long-until-agent-output-turns-to-shit/",
+      "title": "How long have we got before the agent output is enshittified?",
+      "published": "2026-11-13T21:44:17+00:00",
+      "author": null,
+      "description": "Jim Nielsen blogged in response to a post from Pete Millspaugh about the state of AI-generated websites in 2026. Frankly, this all feels like a space absolutely ripe for those kinds of business referral transactions you find in other industries. I've been thinking about this lately. Right now, the output from Fable, Astra et al. is ostensibly an amalgamation of all source code it's slurped up - predicted text as the most likely solution for an objective. There's no ability for anyone to increas…",
+      "link": "https://rachsmith.com/how-long-until-agent-output-turns-to-shit",
+      "image": "https://rachsmith.b-cdn.net/how-long-until-agent-output-turns-to-shit/social.png",
+      "feed_name": "Rach Smith's digital garden",
+      "feed_title": "Rach Smith's notes & nuggets",
+      "category": "personal blogs",
+      "feed_url": "http://rachsmith.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=rachsmith.com&sz=64"
+    },
     {
       "id": "https://www.raymondcamden.com/2026/11/13/porting-my-bots-to-netlify",
       "title": "Porting My Bots to Netlify",

@@ -1,9 +1,23 @@
 {
   "category": "travel",
-  "updated": "2026-11-13T21:32:48.224486+00:00",
+  "updated": "2026-11-13T22:03:56.720123+00:00",
   "count": 171,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/11/13/us/new-orleans-cruise-ship-crash.html",
+      "title": "Search and Rescue Underway in New Orleans After Cargo Ship Crashes Into Riverboat",
+      "published": "2026-11-13T21:48:48+00:00",
+      "author": "Rebecca Chao and Ishani Desai",
+      "description": "Search and rescue operations were continuing after the riverboat, which was docked and had 129 people aboard, was struck by a cargo ship on Friday afternoon, the authorities said.",
+      "link": "https://www.nytimes.com/2026/11/13/us/new-orleans-cruise-ship-crash.html",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "feed_name": "NYT > Travel",
+      "feed_title": "NYT > Travel",
+      "category": "travel",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "https://www.atlasobscura.com/places/the-areni-1-cave-shoe",
       "title": "The Areni-1 Cave Shoe in Yerevan, Armenia",
@@ -17,20 +31,6 @@
       "category": "travel",
       "feed_url": "https://www.atlasobscura.com/feeds/latest",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.atlasobscura.com&sz=64"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/13/us/new-orleans-cruise-ship-crash.html",
-      "title": "Cargo Ship Crashes Into Docked Riverboat in New Orleans",
-      "published": "2026-11-13T20:41:41+00:00",
-      "author": "Rebecca Chao and Ishani Desai",
-      "description": "Search and rescue operations were continuing after the riverboat, which was docked and had 129 people aboard, was struck by a cargo ship on Friday afternoon, the authorities said.",
-      "link": "https://www.nytimes.com/2026/11/13/us/new-orleans-cruise-ship-crash.html",
-      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
-      "feed_name": "NYT > Travel",
-      "feed_title": "NYT > Travel",
-      "category": "travel",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://www.atlasobscura.com/places/pensao-amor",
