@@ -1,9 +1,37 @@
 {
   "category": "technology",
-  "updated": "2026-11-13T13:34:07.688572+00:00",
+  "updated": "2026-11-13T14:04:34.865552+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.theverge.com/?p=1032518",
+      "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+      "published": "2026-11-13T14:00:00+00:00",
+      "author": "Allison Johnson",
+      "description": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code. It's been an interesting couple […]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC04398_processed.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "feed_name": "The Verge -  All Posts",
+      "feed_title": "The Verge",
+      "category": "technology",
+      "feed_url": "https://www.theverge.com/rss/index.xml",
+      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
+    },
+    {
+      "id": "TheNextWeb=73782daa42a6af4b67153fa070cd9086",
+      "title": "Ireland fines Tinder’s owner €11M over its ‘Download My Data’ tool",
+      "published": "2026-11-13T13:41:11+00:00",
+      "author": "Alina Maria Stan",
+      "description": "Ireland’s privacy watchdog has fined Match Group €11mn after finding that Tinder’s “Download My Data” tool failed to give users a full copy of the personal data the company holds on them, Politico reports. In a decision announced on Friday, the Data Protection Commission said the tool omitted certain categories of information entirely and reduced […] This story continues at The Next Web",
+      "link": "https://thenextweb.com/news/tinder-match-group-11m-gdpr-fine-ireland",
+      "image": "https://media.thenextweb.com/2026/11/tinder-splash-pink-iphone-wooden-table.avif",
+      "feed_name": "The Next Web",
+      "feed_title": "The Next Web",
+      "category": "technology",
+      "feed_url": "https://thenextweb.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
     {
       "id": "TheNextWeb=6b493c34994dc6ba778a17d1603774aa",
       "title": "Nvidia will keep investigating Jensen Huang, The Information reports",
@@ -13975,34 +14003,6 @@
       "category": "technology",
       "feed_url": "http://feeds.mashable.com/Mashable",
       "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
-    },
-    {
-      "id": "TheNextWeb=797383b56899f19ccd5de49a071a48e1",
-      "title": "Unfold CEO Ran Cherniavsky on breaking down enterprise data barriers to AI adoption",
-      "published": "2026-11-08T15:08:30+00:00",
-      "author": "John Joseph Javier",
-      "description": "As enterprises accelerate AI adoption, a major obstacle remains: much of the data AI needs is still trapped inside legacy systems, proprietary software, and applications that lack modern interfaces. Traditional integration tools have helped connect enterprise systems, but they often cannot access the full scope of information or capture the business context needed to make […] This story continues at The Next Web",
-      "link": "https://thenextweb.com/news/unfold-ran-cherniavsky-enterprise-data-ai-adoption",
-      "image": "https://media.thenextweb.com/2026/11/unfold-founders-humanx-banner.avif",
-      "feed_name": "The Next Web",
-      "feed_title": "The Next Web",
-      "category": "technology",
-      "feed_url": "https://thenextweb.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
-    },
-    {
-      "id": "https://www.theverge.com/?p=1029526",
-      "title": "Chatbots might be coming to Apple’s HomeView",
-      "published": "2026-11-08T15:00:30+00:00",
-      "author": "Terrence O’Brien",
-      "description": "Code in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart home hub. There's a flag listed for a \"Conversational Apps\" category. While there are no details about what apps would fall under that heading, it seems reasonable that AI chatbots like ChatGPT and Claude could be added to […]",
-      "link": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_0250-1.jpeg?quality=90&strip=all&crop=0,0,100,100",
-      "feed_name": "The Verge -  All Posts",
-      "feed_title": "The Verge",
-      "category": "technology",
-      "feed_url": "https://www.theverge.com/rss/index.xml",
-      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
     }
   ]
 }
