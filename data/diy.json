@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-13T12:03:13.897983+00:00",
+  "updated": "2026-11-13T12:32:55.405425+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/change-these-gboard-settings-android/",
+      "title": "Gboard gets so much better once you change a few settings Google leaves off",
+      "published": "2026-11-13T12:30:17+00:00",
+      "author": "Pankil Shah",
+      "description": "Your thumbs will thank you.",
+      "link": "https://www.makeuseof.com/change-these-gboard-settings-android/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/07/gboard-expanded-toolbar-flat-table.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/i-turned-a-sub-500-mini-pc-into-a-router-that-spots-attacks-without-slowing-down/",
+      "title": "I turned a sub-$500 mini PC into a router that spots attacks without slowing down",
+      "published": "2026-11-13T12:30:15+00:00",
+      "author": "Patrick Campanale",
+      "description": "A two-port mini PC and a free OS gave me more control than my gateway.",
+      "link": "https://www.howtogeek.com/i-turned-a-sub-500-mini-pc-into-a-router-that-spots-attacks-without-slowing-down/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/bosgame-e6-eco-top-ethernet.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/3-things-you-can-do-with-ipv6-that-are-difficult-with-ipv4/",
       "title": "3 things you can do with IPv6 that are difficult with IPv4",
@@ -17,6 +45,20 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://hackaday.com/?p=1425240",
+      "title": "Fixing a Dead Socket LGA 1851 Mainboard with a Resistor",
+      "published": "2026-11-13T12:00:12+00:00",
+      "author": "Maya Posch",
+      "description": "Doing board level diagnosis on a PCB is hardly black magic, but some PCBs are definitely more daunting than others. The Socket LGA 1851 mainboard that [Fix the Pixel] got …read more",
+      "link": "https://hackaday.com/2026/11/13/fixing-a-dead-socket-lga-1851-mainboard-with-a-resistor/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/missing_resistor_mainboard_fix_the_pixel_youtube.jpg",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
     },
     {
       "id": "https://www.makeuseof.com/excel-default-settings-worth-changing/",
@@ -13961,48 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/useful-google-apps-not-default-on-android/",
-      "title": "9 surprisingly useful Google apps you won’t find pre-installed on Android phones",
-      "published": "2026-10-30T13:00:16+00:00",
-      "author": "Pankil Shah",
-      "description": "Android’s preinstalled Google apps are just the tip of the iceberg.",
-      "link": "https://www.makeuseof.com/useful-google-apps-not-default-on-android/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/07/person-holding-the-google-pixel-8a-showing-the-apps-menu.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/what-are-the-green-and-blue-dots-samsungs-status-bar/",
-      "title": "Here's what the green and blue dots in your Samsung's status bar are trying to tell you",
-      "published": "2026-10-30T13:00:15+00:00",
-      "author": "Tyler Dupont",
-      "description": "Your Samsung isn't letting sneaky apps get quietly get away with violating your privacy.",
-      "link": "https://www.howtogeek.com/what-are-the-green-and-blue-dots-samsungs-status-bar/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/feature-image-1.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/i-carried-my-whole-linux-desktop-on-a-usb-stick-for-a-week-and-the-laptop-i-plugged-into-never-knew/",
-      "title": "I carried my whole Linux desktop on a USB stick for a week, and the laptop I plugged into never knew",
-      "published": "2026-10-30T12:30:16+00:00",
-      "author": "Dipan Saha",
-      "description": "Boot directly from the USB drive.",
-      "link": "https://www.makeuseof.com/i-carried-my-whole-linux-desktop-on-a-usb-stick-for-a-week-and-the-laptop-i-plugged-into-never-knew/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/05/white-usb-drive-in-hand.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }
