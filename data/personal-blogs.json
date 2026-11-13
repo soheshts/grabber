@@ -1,6 +1,6 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-13T10:32:39.331406+00:00",
+  "updated": "2026-11-13T11:03:16.107384+00:00",
   "count": 436,
   "summary": null,
   "items": [
@@ -17,6 +17,20 @@
       "category": "personal blogs",
       "feed_url": "https://hey.georgie.nu/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=hey.georgie.nu&sz=64"
+    },
+    {
+      "id": "https://zeldman.com/?p=21439",
+      "title": "Diggs This",
+      "published": "2026-11-13T10:51:45+00:00",
+      "author": "L. Jeffrey Zeldman",
+      "description": "RZA of Wu-Tang Clan has invested in AYO Music Group, the music copyright company co-founded by Tracklib’s Pär Almqvist and clearance veteran Deborah Mannis-Gardner. AYO helps rightsholders get more out of their catalogues. Bobby Digital is in the building. The post Diggs This appeared first on Jeffrey Zeldman Presents .",
+      "link": "https://zeldman.com/2026/11/13/diggs-this/",
+      "image": null,
+      "feed_name": "Zeldman on Web and Interaction Design",
+      "feed_title": "Jeffrey Zeldman Presents",
+      "category": "personal blogs",
+      "feed_url": "http://www.zeldman.com/feed/",
+      "feed_icon": "https://i0.wp.com/zeldman.com/wp-content/uploads/2014/12/cropped-default-54a3966bv1_site_icon.png?fit=32%2C32&ssl=1"
     },
     {
       "id": "https://rachsmith.com/2026-11-13-10-02/",
@@ -5379,20 +5393,6 @@
       "category": "personal blogs",
       "feed_url": "https://medienbaecker.com/articles.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=medienbaecker.com&sz=64"
-    },
-    {
-      "id": "https://csswizardry.com/2026/10/web-perf-wednesday-013-crux-adds-soft-navigation-core-web-vitals/",
-      "title": "Web-Perf Wednesday 013 – CrUX Adds Soft-Navigation Core Web Vitals",
-      "published": "2026-10-14T11:00:00+00:00",
-      "author": null,
-      "description": "CrUX adds experimental Core Web Vitals for SPA soft navigations, while Firefox and Safari improve cache evidence, image delivery, and rendering.",
-      "link": "https://csswizardry.com/2026/10/web-perf-wednesday-013-crux-adds-soft-navigation-core-web-vitals/",
-      "image": null,
-      "feed_name": "CSS Wizardry",
-      "feed_title": "CSS Wizardry",
-      "category": "personal blogs",
-      "feed_url": "http://feeds.feedburner.com/csswizardry",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=csswizardry.com&sz=64"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",

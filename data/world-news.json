@@ -1,9 +1,65 @@
 {
   "category": "World News",
-  "updated": "2026-11-13T10:32:39.331406+00:00",
+  "updated": "2026-11-13T11:03:16.107384+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://timesofindia.indiatimes.com/world/middle-east/no-nuclear-monitoring-while-threat-of-attacks-persists-iran-tells-un-agency/articleshow/135800064.cms",
+      "title": "No nuclear monitoring while threat of attacks persists: Iran tells UN agency",
+      "published": "2026-11-13T10:58:09+00:00",
+      "author": "Aastha Jha",
+      "description": "",
+      "link": "https://timesofindia.indiatimes.com/world/middle-east/no-nuclear-monitoring-while-threat-of-attacks-persists-iran-tells-un-agency/articleshow/135800064.cms",
+      "image": "https://static.toiimg.com/photo/msid-135800208,imgsize-154992.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
+      "id": "108550488",
+      "title": "Widespread Microsoft outage continues, taking down Outlook and other 365 services",
+      "published": "2026-11-13T10:55:10+00:00",
+      "author": null,
+      "description": "A Microsoft outage on Thursday affected users of services like Outlook, Teams and 365.",
+      "link": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108465628-17930473022026-10-26t203948z_25222247_rc28boaxmoul_rtrmadp_0_microsoft-buyouts.jpeg?v=1793047365&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o#0",
+      "title": "What we know about the global Microsoft outage",
+      "published": "2026-11-13T10:53:40+00:00",
+      "author": null,
+      "description": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://www.theguardian.com/australia-news/2026/nov/13/former-nsw-liberal-mp-rory-amon-found-guilty-of-raping-13-year-old-boy",
+      "title": "Former NSW Liberal MP Rory Amon found guilty of raping 13-year-old boy",
+      "published": "2026-11-13T10:45:48+00:00",
+      "author": "Australian Associated Press",
+      "description": "The 37-year-old was convicted in the state’s supreme court months after a different jury failed to reach a verdict on the same charges Get our breaking news email , free app or daily news podcast A former NSW Liberal politician is facing the possibility of a significant jail term after a jury found him guilty of raping a 13-year-old boy. The former MP Rory Amon was found guilty by a jury, after about four hours of deliberation on Friday, of one count of sexual intercourse with a person aged bet…",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/13/former-nsw-liberal-mp-rory-amon-found-guilty-of-raping-13-year-old-boy",
+      "image": "https://i.guim.co.uk/img/media/d4c40932b33c6886f4f157bb1f96a159b2933a0e/396_0_7857_6286/master/7857.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=145352038b18285fc3715919246abe6e",
+      "feed_name": "The Guardian",
+      "feed_title": "World news | The Guardian",
+      "category": "World News",
+      "feed_url": "https://www.theguardian.com/world/rss",
+      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
     {
       "id": "https://timesofindia.indiatimes.com/world/rest-of-world/flvio-bolsonaro-says-he-will-run-again-denies-fleeing-brazil-after-defeat/articleshow/135799066.cms",
       "title": "Flávio Bolsonaro says he will run again, denies fleeing Brazil after defeat",
@@ -50,7 +106,7 @@
       "id": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
       "title": "Microsoft scrambles to fix global outage affecting Teams and Outlook",
       "published": "2026-11-13T10:15:13+00:00",
-      "author": "Mark Sweney, Josh Taylorand Emma Elsworthy",
+      "author": "Mark Sweney, Josh Taylor and Emma Elsworthy",
       "description": "Tech company ‘seeing positive results’ with efforts and says no indication problem was caused by cyber-attack Microsoft outage hits UK hospitals, GPs, schools and police Microsoft outage – live updates Tell us: have you been affected by the outage? Microsoft is scrambling to fix an outage of some of its systems that has caused huge disruption to users, organisations and businesses across the globe. In its latest update, the tech company said it was seeing “early signs of stabilisation” in its e…",
       "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
       "image": "https://i.guim.co.uk/img/media/f39d9eba31016399e4c01fd145c5dd223dd145d6/334_0_3332_2666/master/3332.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b91f0696e82c3ebefb1469dc0fc5a959",
@@ -59,20 +115,6 @@
       "category": "World News",
       "feed_url": "https://www.theguardian.com/world/rss",
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
-    },
-    {
-      "id": "108550488",
-      "title": "Widespread Microsoft outage takes down Outlook and other 365 services",
-      "published": "2026-11-13T10:10:11+00:00",
-      "author": null,
-      "description": "A Microsoft outage on Thursday affected users of services like Outlook, Teams and 365.",
-      "link": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108465628-17930473022026-10-26t203948z_25222247_rc28boaxmoul_rtrmadp_0_microsoft-buyouts.jpeg?v=1793047365&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
       "id": "https://www.nytimes.com/video/world/africa/100000011257751/why-aid-isnt-reaching-ebolas-epicenter.html",
@@ -157,20 +199,6 @@
       "category": "World News",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o#0",
-      "title": "What we know about the global Microsoft outage",
-      "published": "2026-11-13T09:59:20+00:00",
-      "author": null,
-      "description": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "https://www.nytimes.com/2026/11/13/world/middleeast/the-us-israel-relationship-is-broken-heres-how-eisenkot-could-fix-it.html",
@@ -415,7 +443,7 @@
       "title": "Storm Charles causes floods and flight cancellations across southern Europe",
       "published": "2026-11-13T08:49:19+00:00",
       "author": "Ed Walton and Alice Nightingale-Smith for MetDesk",
-      "description": "Heavy rain and strong winds have also caused disruption across British Columbia, Canada, over the last week Storm Charles has brought destructive weather to the Iberian peninusla this week, particularly in Portugal and the far south of Spain. Heavy rain and strong south-westerly winds arrived first in the Portuguese island of Madeira, before the system headed towards the mainland on 11 November. A wind gust of 84.5mph (136 km/h) was recorded at Funchal airport, alongside rainfall totals reachin…",
+      "description": "Heavy rain and strong winds have also caused disruption across British Columbia, Canada, over the last week Storm Charles has brought destructive weather to the Iberian peninsula this week, particularly in Portugal and the far south of Spain. Heavy rain and strong south-westerly winds arrived first in the Portuguese island of Madeira, before the system headed towards the mainland on 11 November. A wind gust of 84.5mph (136 km/h) was recorded at Funchal airport, alongside rainfall totals reachin…",
       "link": "https://www.theguardian.com/environment/2026/nov/13/storm-charles-floods-flight-cancellations-southern-europe-weather",
       "image": "https://i.guim.co.uk/img/media/dd799d5cd22d85bdbac03ed558d6c0d812d92a01/327_0_3561_2849/master/3561.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e2029e1a8105022678cca8e0aaffb22a",
       "feed_name": "The Guardian",
@@ -13975,34 +14003,6 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "t3_1xsa0h4",
-      "title": "Report: Netanyahu trying to convince Trump to launch campaign against Iran, 'calls every day'",
-      "published": "2026-11-10T01:28:52+00:00",
-      "author": "/u/Force_Hammer",
-      "description": "submitted by /u/Force_Hammer [link] [comments]",
-      "link": "https://www.reddit.com/r/worldnews/comments/1xsa0h4/report_netanyahu_trying_to_convince_trump_to/",
-      "image": "https://external-preview.redd.it/WZutH_Xc460FKmovEY-lXc3Q9Lp1-tEEPM5fOw5j3kw.png?width=320&crop=smart&auto=webp&s=40634dd1c44330d7ecd5bcdc1cc7be3efbbeef96",
-      "feed_name": "World News",
-      "feed_title": "World News",
-      "category": "World News",
-      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
-      "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/cop31-kicks-start-under-climate-finance-pressure-12305793#publisher=newsstand",
-      "title": "Climate Conference COP31 Kicks Off Amid Climate, Finance Pressures",
-      "published": "2026-11-10T01:26:17+00:00",
-      "author": null,
-      "description": "In a statement, the UN secretary-general urged leaders to \"get serious by cutting emissions faster.",
-      "link": "https://www.ndtv.com/world-news/cop31-kicks-start-under-climate-finance-pressure-12305793#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-11/2pvt5ens_cop31-turkey_625x300_10_November_26.jpeg",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     }
   ]
 }
