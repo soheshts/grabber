@@ -1,6 +1,6 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-13T14:34:47.392153+00:00",
+  "updated": "2026-11-13T15:03:04.230633+00:00",
   "count": 439,
   "summary": null,
   "items": [
@@ -17,6 +17,20 @@
       "category": "personal blogs",
       "feed_url": "http://www.bennadel.com/index.cfm?dax=blog.rss&lst_tag_id=14,16,3,5,9,6,7,13,18,20,10,15",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.bennadel.com&sz=64"
+    },
+    {
+      "id": "6af3948adddabae29b4f6f47",
+      "title": "How crypto and AI lost the midterms, and why they say they didn’t",
+      "published": "2026-11-13T14:51:39+00:00",
+      "author": "Molly White",
+      "description": "Crypto and AI super PACs went undefeated in races they were always going to win. In competitive ones, most of their money backed losers.",
+      "link": "https://www.citationneeded.news/crypto-ai-lost-the-midterms/",
+      "image": "https://www.citationneeded.news/content/images/2026/11/election-issue.jpg",
+      "feed_name": "Citation Needed",
+      "feed_title": "Citation Needed",
+      "category": "personal blogs",
+      "feed_url": "https://www.citationneeded.news/rss/",
+      "feed_icon": "https://www.citationneeded.news/favicon.png"
     },
     {
       "id": "https://www.gsarigiannidis.gr/?p=2611",
@@ -5421,20 +5435,6 @@
       "category": "personal blogs",
       "feed_url": "https://www.bram.us/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.bram.us&sz=64"
-    },
-    {
-      "id": "https://www.joedolson.com/?p=52326",
-      "title": "My Calendar 3.8.8: Critical Security Release",
-      "published": "2026-10-14T15:02:12+00:00",
-      "author": "Joe Dolson",
-      "description": "My Calendar 3.8.8 fixes a critical security issue that allowed an unauthenticated attacker to gain full administrative privileges on a site running My Calendar. Due to the severity of this issue, courtesy security releases have been pushed by the WordPress Plugin Team for version 3.4, 3.5, 3.6, and 3.7. The primary vectors for the vulnerability do not exist in versions prior to 3.4. The fixed versions are: It should be noted that the backported updates only fix this security issue, […]",
-      "link": "https://www.joedolson.com/2026/10/my-calendar-3-8-8-critical-security-release/",
-      "image": null,
-      "feed_name": "Joe Dolson Web Accessibility",
-      "feed_title": "Joe Dolson Web Accessibility",
-      "category": "personal blogs",
-      "feed_url": "https://www.joedolson.com/feed/",
-      "feed_icon": "https://www.joedolson.com/wp-content/uploads/awd-logo-disc-150x150.png"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
