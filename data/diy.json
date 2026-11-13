@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-13T20:32:47.145197+00:00",
+  "updated": "2026-11-13T21:02:34.527977+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/i-tested-googlebook-os-phone-link-windows-11/",
+      "title": "I put Googlebook OS up against Phone Link in Windows 11, and this one's better for Android",
+      "published": "2026-11-13T21:00:17+00:00",
+      "author": "Brady Snyder",
+      "description": "Windows 11 users don't need to switch to a Googlebook.",
+      "link": "https://www.makeuseof.com/i-tested-googlebook-os-phone-link-windows-11/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/phone-link-vs-googlebook-1.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/annoying-google-maps-features-you-can-turn-off/",
+      "title": "4 annoying Google Maps features you can turn off",
+      "published": "2026-11-13T21:00:16+00:00",
+      "author": "Bertel King",
+      "description": "Google gets in the way of Maps being great.",
+      "link": "https://www.howtogeek.com/annoying-google-maps-features-you-can-turn-off/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/256762.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/save-100-on-shokz-openfit-2-open-ear-earbuds-and-hear-whats-around-you/",
       "title": "Amazon's early Black Friday sale brings the SHOKZ OpenFit 2+ Open-Ear Earbuds down to their lowest price yet",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.apartmenttherapy.com/red-yellow-kitchen-makeover-ba-37697186",
-      "title": "A Colorful Cottage Redo Brought Warmth to This Kitchen's Original Cabinets",
-      "published": "2026-10-30T22:00:00+00:00",
-      "author": "Sarah Everett",
-      "description": "If you’re a first-time homeowner, it’s more than likely that the home you own doesn’t have everything on your dream list, and it’s also more than likely that you’ll have to tackle projects over time to make things exactly the way you want them (or close to that). READ MORE...",
-      "link": "https://www.apartmenttherapy.com/red-yellow-kitchen-makeover-ba-37697186?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+projects",
-      "image": "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2025/2025-07/michelle-s-kitchen/michelle-s-kitchen-before-tag",
-      "feed_name": "Apartment Therapy| Saving the world, one room at a time",
-      "feed_title": "Apartment Therapy| Saving the world, one room at a time",
-      "category": "DIY",
-      "feed_url": "https://www.apartmenttherapy.com/projects.rss",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.apartmenttherapy.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/automate-windows-backups-with-backrest/",
-      "title": "I finally automated my Windows backups without learning another page of terminal commands",
-      "published": "2026-10-30T21:31:16+00:00",
-      "author": "Oluwademilade Afolabi",
-      "description": "Backups are much easier to remember when I don’t have to remember them.",
-      "link": "https://www.makeuseof.com/automate-windows-backups-with-backrest/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/backrest-windows-automated-backup-plan-1.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }
