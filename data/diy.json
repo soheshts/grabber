@@ -1,6 +1,6 @@
 {
   "category": "DIY",
-  "updated": "2026-11-13T00:03:12.589804+00:00",
+  "updated": "2026-11-13T00:32:48.291890+00:00",
   "count": 1000,
   "summary": null,
   "items": [
@@ -17,6 +17,20 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://hackaday.com/?p=1425113",
+      "title": "Watch That Sound: Your Own Chladni Plate",
+      "published": "2026-11-13T00:00:30+00:00",
+      "author": "Al Williams",
+      "description": "What if you could see sound? A Chladni plate uses a speaker and small particles, like sand, to give you a visual representation of sound, and [CrazyScience] shows you how …read more",
+      "link": "https://hackaday.com/2026/11/12/watch-that-sound-your-own-chladni-plate/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/sound.png",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
     },
     {
       "id": "https://www.makeuseof.com/gemini-4-hydrogen-rolls-out/",
@@ -13989,20 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://hackaday.com/blog/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/i-tried-running-docker-on-a-raspberry-pi-heres-what-i-run-on-it/",
-      "title": "I expected Docker to choke on my old Raspberry Pi, but Kiwix proved me wrong",
-      "published": "2026-10-30T00:00:15+00:00",
-      "author": "David J. Buck",
-      "description": "I wasn’t sure Docker would work on my old Raspberry Pi — it did, and now I have big plans.",
-      "link": "https://www.howtogeek.com/i-tried-running-docker-on-a-raspberry-pi-heres-what-i-run-on-it/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/docker-pi-feature.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
     }
   ]
 }
