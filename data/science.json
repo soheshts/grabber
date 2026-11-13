@@ -1,9 +1,23 @@
 {
   "category": "science",
-  "updated": "2026-11-13T19:04:05.272179+00:00",
+  "updated": "2026-11-13T19:33:41.925538+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "news713790721",
+      "title": "New genetic atlas reveals traces of 10,000 years of sheep breeding",
+      "published": "2026-11-13T19:20:06+00:00",
+      "author": null,
+      "description": "For around 10,000 years, humans have selectively bred sheep for desirable traits. Generation after generation, we have chosen animals for their wool, size and reproductive characteristics and gradually left our mark on their DNA.",
+      "link": "https://phys.org/news/2026-11-genetic-atlas-reveals-years-sheep.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/sheep-2.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
     {
       "id": "news713800681",
       "title": "Ancient rocks reveal a dramatic journey from deep inside Earth",
@@ -73,6 +87,20 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "https://www.scientificamerican.com/article/can-spacex-catch-its-starship/",
+      "title": "Can SpaceX catch its Starship?",
+      "published": "2026-11-13T18:45:00+00:00",
+      "author": null,
+      "description": "The 15th spaceflight of SpaceX’s giant launch vehicle aims for something unprecedented: snatching both rocket stages from midair after a journey to orbit",
+      "link": "https://www.scientificamerican.com/article/can-spacex-catch-its-starship/",
+      "image": "https://static.scientificamerican.com/dam/asset/c8fbd570-e2c6-4ea3-9e8c-491549e09de7/HW92tsGW4AA1FRd-b.jpg?m=1794597680.012&w=1200",
+      "feed_name": "Scientific American Content: Global",
+      "feed_title": "Scientific American Content: Global",
+      "category": "science",
+      "feed_url": "http://rss.sciam.com/ScientificAmerican-Global",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.scientificamerican.com&sz=64"
     },
     {
       "id": "news713790663",
@@ -13975,34 +14003,6 @@
       "category": "science",
       "feed_url": "http://rss.sciam.com/ScientificAmerican-Global",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.scientificamerican.com&sz=64"
-    },
-    {
-      "id": "news713032742",
-      "title": "Carbon dots fluoresce their way through the rainbow as liquids change",
-      "published": "2026-11-04T22:40:10+00:00",
-      "author": null,
-      "description": "Fluorescent materials usually emit a single consistent color. They are typically made from dyes or metallic components. In contrast, researchers reporting in ACS Central Science have created carbon dots that can fluoresce in a range of colors under UV light, depending on the concentration and the liquid they're in. The team incorporated the new carbon dots into plastic decorations and used them to create a data encryption system.",
-      "link": "https://phys.org/news/2026-11-carbon-dots-fluoresce-rainbow-liquids.html",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/carbon-dots-that-fluor.jpg",
-      "feed_name": "Phys.org - latest science and technology news stories",
-      "feed_title": "Phys.org - latest science and technology news stories",
-      "category": "science",
-      "feed_url": "https://phys.org/rss-feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "news713015403",
-      "title": "A new superinductor created within a silicon integrated circuit",
-      "published": "2026-11-04T22:40:08+00:00",
-      "author": null,
-      "description": "A recent study published in Nature Electronics and carried out by researchers from nanoGUNE's Quantum Hardware research group, Quantum Motion, London Center for Nanotechnology, Imperial College London and the University of Cambridge introduces a new superinductor created within a silicon integrated circuit fabricated in a commercial complementary metal–oxide–semiconductor (CMOS) process.",
-      "link": "https://phys.org/news/2026-11-superinductor-silicon-circuit.html",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-superinductor-cr.jpg",
-      "feed_name": "Phys.org - latest science and technology news stories",
-      "feed_title": "Phys.org - latest science and technology news stories",
-      "category": "science",
-      "feed_url": "https://phys.org/rss-feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
     }
   ]
 }
