@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-13T09:03:18.757590+00:00",
+  "updated": "2026-11-13T09:33:05.719858+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://hackaday.com/?p=1425214",
+      "title": "Hacked Nixie Clock Waits for the Bus",
+      "published": "2026-11-13T09:00:23+00:00",
+      "author": "Tom Nardi",
+      "description": "Nixie clocks have become popular enough that these days there’s no shortage of turn-key options that let you experience that warm glow with a minimum of fuss. Many still come …read more",
+      "link": "https://hackaday.com/2026/11/13/hacked-nixie-clock-waits-for-the-bus/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/nixiebus_feat.jpg",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://hackaday.com/?p=1425158",
       "title": "A Desktop OS for the ESP32-P4",
@@ -13989,20 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/hp-put-ai-in-a-printer-and-somehow-this-feature-actually-makes-sense/",
-      "title": "HP put AI in a printer, and somehow this feature actually makes sense",
-      "published": "2026-10-30T10:30:16+00:00",
-      "author": "Christine Persaud",
-      "description": "I never thought I'd want AI in my printer until I tried this HP feature.",
-      "link": "https://www.makeuseof.com/hp-put-ai-in-a-printer-and-somehow-this-feature-actually-makes-sense/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/hp-laptop-and-printer-feature.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }
