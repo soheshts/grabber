@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-13T14:04:34.865552+00:00",
-  "count": 438,
+  "updated": "2026-11-13T14:34:47.392153+00:00",
+  "count": 439,
   "summary": null,
   "items": [
     {
@@ -101,6 +101,20 @@
       "category": "personal blogs",
       "feed_url": "http://rachsmith.com/rss.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=rachsmith.com&sz=64"
+    },
+    {
+      "id": "https://ronaldsvilcins.com/2026/11/13/defensive-css-for-long-words-urls-and-unexpected-content/",
+      "title": "Defensive CSS for Long Words, URLs, and Unexpected Content",
+      "published": "2026-11-13T06:00:00+00:00",
+      "author": "Ronalds Vilciņš",
+      "description": "Defensive CSS keeps layouts usable with long text, missing images, and larger labels. Choose wrapping, cropping, and sizing rules that match real content.",
+      "link": "https://ronaldsvilcins.com/2026/11/13/defensive-css-for-long-words-urls-and-unexpected-content/",
+      "image": "https://ronaldsvilcins.com/og/35797568b05bdf8d9eb0a830b31ad8de2a65c83ae152091ca5729bb92b358fbe.jpg",
+      "feed_name": "Ronalds Vilciņš",
+      "feed_title": "Ronalds Vilciņš",
+      "category": "personal blogs",
+      "feed_url": "https://ronaldsvilcins.com/atom.xml",
+      "feed_icon": "https://ronaldsvilcins.com/favicon.png"
     },
     {
       "id": "https://hamatti.org/posts/designing-a-simple-audit-log/",
