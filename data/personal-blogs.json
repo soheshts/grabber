@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-13T16:33:21.580519+00:00",
-  "count": 440,
+  "updated": "2026-11-13T17:05:10.671438+00:00",
+  "count": 441,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,20 @@
       "category": "personal blogs",
       "feed_url": "http://www.bennadel.com/index.cfm?dax=blog.rss&lst_tag_id=14,16,3,5,9,6,7,13,18,20,10,15",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.bennadel.com&sz=64"
+    },
+    {
+      "id": "https://daverupert.com/2026/11/conventional-commit-rules-everything-around-me/",
+      "title": "Conventional Commit rules everything around me",
+      "published": "2026-11-13T16:55:00+00:00",
+      "author": null,
+      "description": "There’s a community standard out there for called Conventional Commit structured git-commit messages. If you don’t know about it already, it’s a strict type(scope?): description format for describing a code change in a repo. A normal git commit history might look like this: > git log --oneline 9d30ff6 fix typo 3062496 oops d0b38ad shit b5f8df7 redesign site That’s all well and good, but lacks a bit of structure and detail for a big project with lots of contributors. That’s where Conventional Co…",
+      "link": "https://daverupert.com/2026/11/conventional-commit-rules-everything-around-me/",
+      "image": "https://cdn.daverupert.com/posts/2026/github-chats.webp",
+      "feed_name": "Dave Rupert",
+      "feed_title": "daverupert.com",
+      "category": "personal blogs",
+      "feed_url": "https://daverupert.com/atom.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=daverupert.com&sz=64"
     },
     {
       "id": "6af3948adddabae29b4f6f47",
