@@ -1,9 +1,23 @@
 {
   "category": "travel",
-  "updated": "2026-11-13T15:33:45.474348+00:00",
-  "count": 166,
+  "updated": "2026-11-13T16:04:24.437430+00:00",
+  "count": 167,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/11/13/t-magazine/canada-yukon-hiking-women.html",
+      "title": "In the Wilds of the Yukon, a Novelist Faces Herself",
+      "published": "2026-11-13T15:31:32+00:00",
+      "author": "Maggie Shipstead and Victoria Sambunaris",
+      "description": "Trekking through the territory on her birthday, Maggie Shipstead reconsiders her relationship to aging and risk.",
+      "link": "https://www.nytimes.com/2026/11/13/t-magazine/canada-yukon-hiking-women.html",
+      "image": "https://static01.nyt.com/images/2026/11/11/t-magazine/11tmag-canada-slide-5TDM-copy/11tmag-canada-slide-5TDM-copy-facebookJumbo.jpg",
+      "feed_name": "NYT > Travel",
+      "feed_title": "NYT > Travel",
+      "category": "travel",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "https://www.nytimes.com/2026/11/06/t-magazine/budapest-hungary-night-walking.html",
       "title": "Wandering Budapest’s Haunted Streets",
@@ -45,20 +59,6 @@
       "category": "travel",
       "feed_url": "https://www.atlasobscura.com/feeds/latest",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.atlasobscura.com&sz=64"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/13/t-magazine/canada-yukon-hiking-women.html",
-      "title": "In the Wilds of the Yukon, a Novelist Faces Herself",
-      "published": "2026-11-13T12:05:15+00:00",
-      "author": "Maggie Shipstead and Victoria Sambunaris",
-      "description": "Trekking through the territory on her birthday, Maggie Shipstead reconsiders her relationship to aging and risk.",
-      "link": "https://www.nytimes.com/2026/11/13/t-magazine/canada-yukon-hiking-women.html",
-      "image": "https://static01.nyt.com/images/2026/11/11/t-magazine/11tmag-canada-slide-5TDM-copy/11tmag-canada-slide-5TDM-copy-facebookJumbo.jpg",
-      "feed_name": "NYT > Travel",
-      "feed_title": "NYT > Travel",
-      "category": "travel",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://www.nytimes.com/2026/11/13/t-magazine/walking-travel.html",
@@ -171,6 +171,20 @@
       "category": "travel",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.atlasobscura.com/articles/podcast-exploring-the-unexpected-in-alberta-will-ferguson",
+      "title": "Podcast: Exploring the Unexpected in Alberta",
+      "published": "2026-11-12T14:15:00+00:00",
+      "author": "The Podcast Team",
+      "description": "Listen and subscribe on Apple Podcasts , Spotify , and all major podcast apps. Will Ferguson: If you drive east from Calgary, instead of going towards Banff and the mountains, if you go the other way, the landscape will suddenly fall away and you’ll find yourself in the Badlands. But before you hit that valley, before you make that descent, if you turn off the main road, you will come to a small hidden valley full of wild roses. In that little valley, you will find a small and improbable town—a…",
+      "link": "https://www.atlasobscura.com/articles/podcast-exploring-the-unexpected-in-alberta-will-ferguson",
+      "image": "https://img.atlasobscura.com/iCqW-k8ZH8Q2rwhymEKWQHjZuPQ7AvDmYpDcP81q7AQ/rs:fill:12000:12000/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9iNTlmYmViMi1m/YjY0LTQyYjUtYjA4/OC0zYjkyNjE5OTBh/MzNkNmRhNmM0MTBj/ZjJiMWI4NWFfUG93/ZXJQb2ludF9XZWJf/SGlnaFJlcy1hMjEt/MDI3NDQxLmpwZw.jpg",
+      "feed_name": "Atlas Obscura - Latest Articles and Places",
+      "feed_title": "Atlas Obscura - Latest Articles and Places",
+      "category": "travel",
+      "feed_url": "https://www.atlasobscura.com/feeds/latest",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.atlasobscura.com&sz=64"
     },
     {
       "id": "https://www.theguardian.com/travel/2026/nov/12/canals-city-break-haarlem-netherlands",
