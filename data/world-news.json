@@ -1,9 +1,65 @@
 {
   "category": "World News",
-  "updated": "2026-11-14T18:32:44.688907+00:00",
+  "updated": "2026-11-14T19:02:36.397293+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo#3",
+      "title": "What we know about the ground stop and what to do if you're affected",
+      "published": "2026-11-14T19:00:16+00:00",
+      "author": null,
+      "description": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14ef/live/f4aae840-dfd7-11f1-b441-2b33b063138f.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/14/world/europe/student-protests-pensions-generations.html",
+      "title": "A ‘Generational Clash’ Is Fueling Europe’s Protests",
+      "published": "2026-11-14T18:39:59+00:00",
+      "author": "Jason Horowitz",
+      "description": "As retirees live longer, governments need to spend more on pensions. That makes it harder to fund other services, spurring protests like those in France.",
+      "link": "https://www.nytimes.com/2026/11/14/world/europe/student-protests-pensions-generations.html",
+      "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14int-europe-generations-vjbt/14int-europe-generations-vjbt-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "108551562",
+      "title": "Nationwide ground stop followed contractor upgrade to L3Harris telecommunication system: DOT’s Duffy",
+      "published": "2026-11-14T18:32:47+00:00",
+      "author": null,
+      "description": "The FAA ground stop came after updates to an older communication system managed by L3Harris Technologies, Transportation Secretary Sean Duffy said Saturday.",
+      "link": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108551467-1794607964689-IMG_0076.jpg?v=1794609835&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/rest-of-world/a-canadian-company-donated-1800-hectares-of-forest-wetlands-and-shoreline-the-land-could-reconnect-wildlife-habitats-around-gander-lake/articleshow/135749037.cms",
+      "title": "Canadian company donates 1,800 hectares to protect Gander Lake habitats",
+      "published": "2026-11-14T18:30:00+00:00",
+      "author": "TOI World Desk",
+      "description": "",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/a-canadian-company-donated-1800-hectares-of-forest-wetlands-and-shoreline-the-land-could-reconnect-wildlife-habitats-around-gander-lake/articleshow/135749037.cms",
+      "image": "https://static.toiimg.com/photo/msid-135749071,imgsize-191330.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o#0",
       "title": "Italy fines Meta €805m over accessing users' photos",
@@ -17,6 +73,20 @@
       "category": "World News",
       "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/us/a-connecticut-teacher-suspended-for-refusing-to-remove-a-classroom-crucifix-displayed-for-10-years-sues-school-district-over-first-amendment-rights-appeals-court-weighs-religious-expression-vs-school-speech/articleshow/135836398.cms",
+      "title": "Connecticut teacher sues school district over First Amendment rights after crucifix suspension",
+      "published": "2026-11-14T18:26:00+00:00",
+      "author": "TOI World Desk",
+      "description": "A Connecticut teacher was suspended after refusing to remove a crucifix she had displayed in her classroom for 10 years. She has sued the school district, alleging a violation of her First Amendment rights. An appeals court is now examining whether the crucifix constituted the teacher's private religious expression or school-related speech.",
+      "link": "https://timesofindia.indiatimes.com/world/us/a-connecticut-teacher-suspended-for-refusing-to-remove-a-classroom-crucifix-displayed-for-10-years-sues-school-district-over-first-amendment-rights-appeals-court-weighs-religious-expression-vs-school-speech/articleshow/135836398.cms",
+      "image": "https://static.toiimg.com/photo/msid-135836490,imgsize-94469.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
       "id": "https://timesofindia.indiatimes.com/science/nature/scientists-surveyed-two-remote-pacific-atolls-and-found-15-seabird-species-confirmed-or-likely-to-be-breeding-132-turtle-nest-pits-and-two-fish-observations-requiring-further-study-the-atolls-provide-a-benchmark-for-a-48000-square-kilometre-sanctuary/articleshow/135760535.cms",
@@ -59,20 +129,6 @@
       "category": "World News",
       "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "108551562",
-      "title": "Nationwide ground stop followed contractor upgrade to L3Harris telecommunication system: DOT’s Duffy",
-      "published": "2026-11-14T18:17:18+00:00",
-      "author": null,
-      "description": "The FAA ground stop came after updates to an older communication system managed by L3Harris Technologies, Transportation Secretary Sean Duffy said Saturday.",
-      "link": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108551467-1794607964689-IMG_0076.jpg?v=1794609835&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo#0",
@@ -143,20 +199,6 @@
       "category": "World News",
       "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
       "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/14/world/europe/student-protests-pensions-generations.html",
-      "title": "A ‘Generational Clash’ Is Fueling Europe’s Protests",
-      "published": "2026-11-14T17:26:50+00:00",
-      "author": "Jason Horowitz",
-      "description": "As retirees live longer, governments need to spend more on pensions. That makes it harder to fund other services, spurring protests like those in France.",
-      "link": "https://www.nytimes.com/2026/11/14/world/europe/student-protests-pensions-generations.html",
-      "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-europe-generations-01-lkbm/11int-europe-generations-01-lkbm-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://timesofindia.indiatimes.com/science/discovery/a-yellow-brick-road-was-discovered-1029-metres-beneath-the-pacific-ocean-scientists-explain-how-volcanic-rock-and-iron-rich-deposits-created-the-striking-formation/articleshow/135706462.cms",
@@ -2316,6 +2358,20 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo#3",
+      "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
+      "published": "2026-11-14T00:03:52+00:00",
+      "author": null,
+      "description": "The 52-year-old general’s provocative posts and military threats have fuelled rumours of a dynastic succession.",
+      "link": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9975/live/51088590-df40-11f1-a48c-75dd2efdacb5.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo#1",
       "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
       "published": "2026-11-14T00:03:52+00:00",
       "author": null,
@@ -13947,62 +14003,6 @@
       "category": "World News",
       "feed_url": "https://www.theguardian.com/world/rss",
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro#0",
-      "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
-      "published": "2026-11-11T02:41:16+00:00",
-      "author": null,
-      "description": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
-      "link": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b0e/live/040fc640-dd79-11f1-93e1-3b657b665bcf.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro#1",
-      "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
-      "published": "2026-11-11T02:41:16+00:00",
-      "author": null,
-      "description": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
-      "link": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b0e/live/040fc640-dd79-11f1-93e1-3b657b665bcf.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/europe/coded-calls-from-brooklyn-jail-how-iran-backed-operative-coordinated-terror-plots-in-europe-us/articleshow/135723031.cms",
-      "title": "Coded calls from Brooklyn jail: How Iran operative directed terror plots in Europe, US",
-      "published": "2026-11-11T02:34:46+00:00",
-      "author": "Abhishek Mishra",
-      "description": "A US indictment alleges that an Iran-backed operative jailed in New York used coded calls with family members to coordinate a plot against RAF Fairford, a British air base housing US troops. The accused and two associates are also alleged to have planned nearly 20 attacks targeting Jewish communities across Europe and the US.",
-      "link": "https://timesofindia.indiatimes.com/world/europe/coded-calls-from-brooklyn-jail-how-iran-backed-operative-coordinated-terror-plots-in-europe-us/articleshow/135723031.cms",
-      "image": "https://static.toiimg.com/photo/msid-135723225,imgsize-858243.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/us-judge-rejects-bbc-bid-to-dismiss-trumps-5-billion-defamation-suit-capitol-riots-documentary-12310585#publisher=newsstand",
-      "title": "US Judge Rejects BBC's Bid To Dismiss Trump's $5 Billion Defamation Suit",
-      "published": "2026-11-11T02:33:00+00:00",
-      "author": null,
-      "description": "Trump, in a Truth Social post, hailed the ruling as \"A Huge Victory.\"",
-      "link": "https://www.ndtv.com/world-news/us-judge-rejects-bbc-bid-to-dismiss-trumps-5-billion-defamation-suit-capitol-riots-documentary-12310585#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-11/bn7cj248_trump-reuters_625x300_11_November_26.jpeg",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     }
   ]
 }
