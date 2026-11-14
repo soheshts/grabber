@@ -1,9 +1,37 @@
 {
   "category": "World News",
-  "updated": "2026-11-14T16:03:46.869025+00:00",
+  "updated": "2026-11-14T16:32:55.341075+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/live/2026/11/14/world/asia-eurovision/heres-the-latest",
+      "title": "Here’s the latest.",
+      "published": "2026-11-14T16:20:20+00:00",
+      "author": "Francesca Regalado",
+      "description": "",
+      "link": "https://www.nytimes.com/live/2026/11/14/world/asia-eurovision/heres-the-latest",
+      "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14asia-eurovision-promo-at-launch-wb/14asia-eurovision-no-shows-01-cfgk-facebookJumbo.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "108551562",
+      "title": "Ground stop followed updates to older L3Harris communication system: DOT’s Duffy",
+      "published": "2026-11-14T16:18:49+00:00",
+      "author": null,
+      "description": "The FAA ground stop came after updates to an older communication system managed by L3Harris Technologies, Transportation Secretary Sean Duffy said Saturday.",
+      "link": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108551467-1794607964689-IMG_0076.jpg?v=1794609835&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
     {
       "id": "https://timesofindia.indiatimes.com/world/rest-of-world/more-important-than-heart-australian-pm-caught-making-genital-joke-with-climate-minister-at-cop31-watch/articleshow/135836793.cms",
       "title": "Australian PM caught making genital joke with climate minister at COP31 - watch",
@@ -75,20 +103,6 @@
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
-      "id": "https://www.nytimes.com/live/2026/11/14/world/asia-eurovision/heres-the-latest",
-      "title": "Here’s the latest.",
-      "published": "2026-11-14T15:41:25+00:00",
-      "author": "Francesca Regalado",
-      "description": "",
-      "link": "https://www.nytimes.com/live/2026/11/14/world/asia-eurovision/heres-the-latest",
-      "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14asia-eurovision-promo-at-launch-wb/14asia-eurovision-no-shows-01-cfgk-facebookJumbo.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
       "id": "https://timesofindia.indiatimes.com/world/rest-of-world/a-toronto-performer-who-discovered-through-a-2022-dna-test-that-he-had-at-least-15-half-siblings-and-later-found-20-more-turned-his-family-secret-into-a-musical-seven-siblings-from-the-us-have-now-surprised-him-at-a-show-in-canada/articleshow/135797401.cms",
       "title": "DNA test reveals 35+ half-siblings for Toronto performer; seven surprise him at his show",
       "published": "2026-11-14T15:40:51+00:00",
@@ -138,20 +152,6 @@
       "description": "Nvidia CEO Jensen Huang resigned this week after reports of multiple affairs, including one with a suspected Chinese spy, Alice Huang.",
       "link": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
       "image": "https://image.cnbcfm.com/api/v1/image/108368185-1790352357255-gettyimages-2296459165-AFP_C9DQ94M.jpeg?v=1790352418&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "108551562",
-      "title": "Flight disruptions continue after FAA lifts ground stop, some college football games delayed",
-      "published": "2026-11-14T15:32:27+00:00",
-      "author": null,
-      "description": "U.S. flights are resuming after the FAA ground stop, but delays and cancellations are still piling up.",
-      "link": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108551467-1794607964689-IMG_0076.jpg?v=1794609835&w=1920&h=1080",
       "feed_name": "CNBC",
       "feed_title": "International: Top News And Analysis",
       "category": "World News",
@@ -1463,7 +1463,7 @@
     {
       "id": "https://www.nytimes.com/2026/11/14/world/europe/russell-brand-david-walliams-gag-order.html",
       "title": "Two Celebrity Cases Put a Spotlight on British Courts’ Gag Orders",
-      "published": "2026-11-14T05:01:06+00:00",
+      "published": "2026-11-14T05:01:07+00:00",
       "author": "Amanda Taub",
       "description": "Russell Brand and the TV personality David Walliams both persuaded courts to suppress misconduct allegations against them. Some say the libel laws need to change.",
       "link": "https://www.nytimes.com/2026/11/14/world/europe/russell-brand-david-walliams-gag-order.html",
