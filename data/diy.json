@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-14T21:33:18.331125+00:00",
+  "updated": "2026-11-14T22:02:34.004053+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/what-tiny-numbers-on-extension-cord-mean/",
+      "title": "The tiny numbers printed on your extension cord decide what's safe to plug in",
+      "published": "2026-11-14T22:00:16+00:00",
+      "author": "Jonathon Jachura",
+      "description": "You can't plug everything into an extension, here's how to know what you can and shouldn't.",
+      "link": "https://www.makeuseof.com/what-tiny-numbers-on-extension-cord-mean/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/coiled-black-extension-cord-with-tag.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/jellyfin-still-has-a-sharing-problem-plex-solved-years-ago/",
+      "title": "Jellyfin still has a sharing problem Plex solved years ago",
+      "published": "2026-11-14T22:00:15+00:00",
+      "author": "Jorge A. Aguilar",
+      "description": "Jellyfin makes sharing your server with family a lot harder than Plex.",
+      "link": "https://www.howtogeek.com/jellyfin-still-has-a-sharing-problem-plex-solved-years-ago/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/a-monitor-showing-a-jellyfin-book-library-that-shows-a-few-books-that-are-classics.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/sfc-scannow-doesnt-fix-what-most-people-think-it-does/",
       "title": "\"sfc /scannow\" doesn’t fix what most people think it does",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://hackaday.com/blog/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
-    },
-    {
-      "id": "https://hackaday.com/?p=1397122",
-      "title": "Huge PalmOS Development Archive Goes Online, Thanks to Personal Backups",
-      "published": "2026-11-01T05:00:00+00:00",
-      "author": "Donald Papp",
-      "description": "Palm OS, an operating system for a range mobile devices that predated mobile phones, is largely forgotten today. Or at least, that’s what [Aaron Ardiri] thought. That all changed when …read more",
-      "link": "https://hackaday.com/2026/10/31/huge-palmos-development-archive-goes-online-thanks-to-personal-backups/",
-      "image": "https://hackaday.com/wp-content/uploads/2026/10/palmos-logo.png",
-      "feed_name": "Blog – Hackaday",
-      "feed_title": "Blog – Hackaday",
-      "category": "DIY",
-      "feed_url": "https://hackaday.com/blog/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/202/display-my-computer-icon-on-the-desktop-in-windows-10/",
-      "title": "How to Get a \"My Computer\" Icon on the Desktop in Windows 10",
-      "published": "2026-11-01T02:41:48+00:00",
-      "author": "Lowell Heddings, Nick Lewis",
-      "description": "Why isn't it standard on every PC?",
-      "link": "https://www.howtogeek.com/202/display-my-computer-icon-on-the-desktop-in-windows-10/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/52679273174_c93a060c3c_o-1.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
     }
   ]
 }

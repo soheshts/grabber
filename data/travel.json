@@ -1,9 +1,23 @@
 {
   "category": "travel",
-  "updated": "2026-11-14T21:33:18.331125+00:00",
+  "updated": "2026-11-14T22:02:34.004053+00:00",
   "count": 171,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/11/13/us/new-orleans-cruise-ship-crash.html",
+      "title": "All Accounted for After Tanker Crashes Into Docked New Orleans Riverboat",
+      "published": "2026-11-14T21:50:50+00:00",
+      "author": "Rebecca Chao, Ishani Desai, Neil Vigdor and Shannon Sims",
+      "description": "Gov. Jeff Landry of Louisiana called it a “literal miracle on the Mississippi” that all of the nearly 200 people aboard the riverboat were rescued.",
+      "link": "https://www.nytimes.com/2026/11/13/us/new-orleans-cruise-ship-crash.html",
+      "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13xp-new-orleans-ship-lpfg/13xp-new-orleans-ship-lpfg-mediumSquareAt3X-v2.jpg",
+      "feed_name": "NYT > Travel",
+      "feed_title": "NYT > Travel",
+      "category": "travel",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "https://www.nytimes.com/2026/11/14/business/faa-ground-stop-exceptions-airlines.html",
       "title": "How Some Flights Were Exempt From the Ground Stop",
@@ -40,20 +54,6 @@
       "description": "Secrecy, debt and soaring fuel costs all contributed to the Odyssey’s downfall. Here’s an inside look at how the “endless cruise” unraveled.",
       "link": "https://www.nytimes.com/2026/11/06/travel/villa-vie-residences-odyssey-cruise.html",
       "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05trav-cruise-lkwz/05trav-cruise-lkwz-mediumSquareAt3X.jpg",
-      "feed_name": "NYT > Travel",
-      "feed_title": "NYT > Travel",
-      "category": "travel",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/13/us/new-orleans-cruise-ship-crash.html",
-      "title": "All Accounted for After Tanker Crashes Into Docked New Orleans Riverboat",
-      "published": "2026-11-14T14:00:53+00:00",
-      "author": "Rebecca Chao, Ishani Desai, Neil Vigdor and Shannon Sims",
-      "description": "Gov. Jeff Landry of Louisiana called it a “literal miracle on the Mississippi” that all of the nearly 200 people aboard the riverboat were rescued.",
-      "link": "https://www.nytimes.com/2026/11/13/us/new-orleans-cruise-ship-crash.html",
-      "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13xp-new-orleans-ship-lpfg/13xp-new-orleans-ship-lpfg-mediumSquareAt3X-v2.jpg",
       "feed_name": "NYT > Travel",
       "feed_title": "NYT > Travel",
       "category": "travel",
