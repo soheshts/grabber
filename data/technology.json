@@ -1,9 +1,51 @@
 {
   "category": "technology",
-  "updated": "2026-11-14T19:32:42.101042+00:00",
+  "updated": "2026-11-14T20:03:47.058594+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.theverge.com/?p=1033909",
+      "title": "Magic: The Gathering is getting a Netflix animated series. For real this time.",
+      "published": "2026-11-14T19:47:40+00:00",
+      "author": "Terrence O’Brien",
+      "description": "\"It's really happening. I promise. For real.\" Those are the first words from Roy Graham, Head of Story at Magic: The Gathering, in a video posted yesterday announcing Planeswalker, the animated series heading to Netflix in 2027. An animated Magic: The Gathering series was first teased back in 2019 with Joe and Anthony Russo at […]",
+      "link": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/IefaLy5uPLc-HD.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "feed_name": "The Verge -  All Posts",
+      "feed_title": "The Verge",
+      "category": "technology",
+      "feed_url": "https://www.theverge.com/rss/index.xml",
+      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
+    },
+    {
+      "id": "https://www.engadget.com/2311774/home-internet-2001-vs-2026-cost/",
+      "title": "How much did home internet cost in 2001 vs 2026?",
+      "published": "2026-11-14T19:45:00+00:00",
+      "author": "Antony Terence",
+      "description": "A lot of things have gotten more expensive since the turn of the millennium. Has home internet suffered the same fate? Let's take a trip down memory lane.",
+      "link": "https://www.engadget.com/2311774/home-internet-2001-vs-2026-cost/",
+      "image": "https://www.engadget.com/img/gallery/how-much-did-home-internet-cost-in-2001-vs-2026/l-intro-1794281981.jpg",
+      "feed_name": "Engadget",
+      "feed_title": "Engadget - Technology News & Expert Reviews",
+      "category": "technology",
+      "feed_url": "https://www.engadget.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
+    {
+      "id": "https://www.engadget.com/2309616/that-key-left-of-1-on-many-keyboards-is-actually-crucial-for-programmers/",
+      "title": "That key left of '1' on many keyboards is actually crucial for programmers",
+      "published": "2026-11-14T19:30:00+00:00",
+      "author": "Lawrence Bonk",
+      "description": "The humble tilde has many uses.",
+      "link": "https://www.engadget.com/2309616/that-key-left-of-1-on-many-keyboards-is-actually-crucial-for-programmers/",
+      "image": "https://www.engadget.com/img/gallery/that-key-left-of-1-on-many-keyboards-is-actually-crucial-for-programmers/l-intro-1793993642.jpg",
+      "feed_name": "Engadget",
+      "feed_title": "Engadget - Technology News & Expert Reviews",
+      "category": "technology",
+      "feed_url": "https://www.engadget.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
     {
       "id": "https://www.engadget.com/2312052/how-to-make-switch-2-battery-last-longer/",
       "title": "How to make your Nintendo Switch 2 battery last longer",
@@ -13961,48 +14003,6 @@
       "category": "technology",
       "feed_url": "https://www.youtube.com/feeds/videos.xml?user=TheVerge",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64"
-    },
-    {
-      "id": "https://tech.slashdot.org/story/26/11/09/1758238/commerce-dept-chip-inquiry-was-halted-after-nvidia-intervention?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "title": "Commerce Dept. Chip Inquiry Was Halted After Nvidia Intervention",
-      "published": "2026-11-09T19:00:00+00:00",
-      "author": "BeauHD",
-      "description": "An anonymous reader quotes a report from The New York Times: Investigators at the Commerce Department were deep into a monthslong investigation of a Singaporean company that they suspected of smuggling Nvidia's artificial intelligence chips into China when their work came to a sudden halt late last year. The investigation centered on Megaspeed, a data center company led by an executive who U.S. officials now believe to be a Chinese spy who had a relationship with Nvidia's chief executive, Jense…",
-      "link": "https://tech.slashdot.org/story/26/11/09/1758238/commerce-dept-chip-inquiry-was-halted-after-nvidia-intervention?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-      "feed_name": "Slashdot",
-      "feed_title": "Slashdot",
-      "category": "technology",
-      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
-    },
-    {
-      "id": "https://www.theverge.com/?p=1030005",
-      "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
-      "published": "2026-11-09T19:00:00+00:00",
-      "author": "Jay Peters",
-      "description": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show improvements in coding, reasoning, and vision, and can generate outputs faster than the 5.1 versions of the Fable and Mythos models. Claude Fable […]",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_B.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "feed_name": "The Verge -  All Posts",
-      "feed_title": "The Verge",
-      "category": "technology",
-      "feed_url": "https://www.theverge.com/rss/index.xml",
-      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
-    },
-    {
-      "id": "https://www.engadget.com/2307742/gmail-unsend-feature/",
-      "title": "Gmail users should know about this little-noticed feature",
-      "published": "2026-11-09T19:00:00+00:00",
-      "author": "Mariella Moon",
-      "description": "Gmail's unsend feature will delay it from dispatching your message. Here's how to extend the amount of time you have to use it.",
-      "link": "https://www.engadget.com/2307742/gmail-unsend-feature/",
-      "image": "https://www.engadget.com/img/gallery/gmail-users-should-know-about-this-little-noticed-feature/l-intro-1793819117.jpg",
-      "feed_name": "Engadget",
-      "feed_title": "Engadget - Technology News & Expert Reviews",
-      "category": "technology",
-      "feed_url": "https://www.engadget.com/rss.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
     }
   ]
 }
