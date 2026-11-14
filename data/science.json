@@ -1,9 +1,23 @@
 {
   "category": "science",
-  "updated": "2026-11-14T03:03:54.491280+00:00",
+  "updated": "2026-11-14T03:32:54.627700+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/11/13/science/spacex-launch-starship-rocket-catch.html",
+      "title": "SpaceX’s Latest Starship Launch Skips Attempt to Catch the Booster",
+      "published": "2026-11-14T03:06:59+00:00",
+      "author": "Kenneth Chang",
+      "description": "SpaceX could still try to catch the rocket’s upper stage tomorrow. Progress toward a fully reusable rocket remains mixed.",
+      "link": "https://www.nytimes.com/2026/11/13/science/spacex-launch-starship-rocket-catch.html",
+      "image": "https://static01.nyt.com/images/2026/11/13/multimedia/spacex-launch-update-pwvq/spacex-launch-update-pwvq-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Science",
+      "feed_title": "NYT > Science",
+      "category": "science",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "news713772018",
       "title": "The role of social relationships in scaling agricultural innovations: A dimension that remains underreported in research",
@@ -101,20 +115,6 @@
       "category": "science",
       "feed_url": "http://rss.sciam.com/ScientificAmerican-Global",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.scientificamerican.com&sz=64"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/13/science/spacex-launch-starship-rocket-catch.html",
-      "title": "SpaceX’s Latest Starship Launch Skips Attempt to Catch the Booster",
-      "published": "2026-11-13T23:47:31+00:00",
-      "author": "Kenneth Chang",
-      "description": "SpaceX could still try to catch the rocket’s upper stage tomorrow. Progress toward a fully reusable rocket remains mixed.",
-      "link": "https://www.nytimes.com/2026/11/13/science/spacex-launch-starship-rocket-catch.html",
-      "image": "https://static01.nyt.com/images/2026/11/13/multimedia/spacex-launch-update-pwvq/spacex-launch-update-pwvq-mediumSquareAt3X.jpg",
-      "feed_name": "NYT > Science",
-      "feed_title": "NYT > Science",
-      "category": "science",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "news713800564",
