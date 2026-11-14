@@ -1,9 +1,23 @@
 {
   "category": "science",
-  "updated": "2026-11-14T22:32:46.962659+00:00",
+  "updated": "2026-11-14T23:02:56.840021+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/live/2026/11/14/science/spacex-starship-launch",
+      "title": "SpaceX Makes History With Successful Rocket Landing in Texas",
+      "published": "2026-11-14T22:35:23+00:00",
+      "author": "The New York Times",
+      "description": "The Starship spacecraft safely landed back at the Starbase launch facility, a major step in SpaceX’s quest to build fully reusable rockets.",
+      "link": "https://www.nytimes.com/live/2026/11/14/science/spacex-starship-launch",
+      "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14starship-launch-header-cfqw/14starship-launch-header-cfqw-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Science",
+      "feed_title": "NYT > Science",
+      "category": "science",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo#0",
       "title": "SpaceX successfully catches top of huge Starship rocket for first time",
@@ -45,20 +59,6 @@
       "category": "science",
       "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://www.nytimes.com/live/2026/11/14/science/spacex-starship-launch",
-      "title": "Starship Live Updates: SpaceX Makes History With Successful Rocket Landing in Texas",
-      "published": "2026-11-14T22:08:48+00:00",
-      "author": "The New York Times",
-      "description": "The Starship spacecraft safely landed back at the Starbase launch facility, a major step in SpaceX’s quest to build fully reusable rockets.",
-      "link": "https://www.nytimes.com/live/2026/11/14/science/spacex-starship-launch",
-      "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14starship-launch-header-cfqw/14starship-launch-header-cfqw-mediumSquareAt3X.jpg",
-      "feed_name": "NYT > Science",
-      "feed_title": "NYT > Science",
-      "category": "science",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://www.nytimes.com/live/2026/11/14/science/spacex-starship-launch/heres-the-latest",
@@ -1031,7 +1031,7 @@
       "title": "Can SpaceX catch its Starship?",
       "published": "2026-11-13T18:45:00+00:00",
       "author": null,
-      "description": "The 15th spaceflight of SpaceX’s giant launch vehicle aimed for something unprecedented: snatching both rocket stages from midair after a journey to orbit. So far, it’s proved only partially successful.",
+      "description": "The 15th spaceflight of SpaceX’s giant launch vehicle aimed for something unprecedented: snatching both rocket stages from midair after a journey to orbit. The test proved partially successful, but ended in a historic first.",
       "link": "https://www.scientificamerican.com/article/can-spacex-catch-its-starship/",
       "image": "https://static.scientificamerican.com/dam/asset/c8fbd570-e2c6-4ea3-9e8c-491549e09de7/HW92tsGW4AA1FRd-b.jpg?m=1794597680.012&w=1200",
       "feed_name": "Scientific American Content: Global",
