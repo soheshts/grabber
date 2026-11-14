@@ -1,6 +1,6 @@
 {
   "category": "science",
-  "updated": "2026-11-14T14:33:36.552084+00:00",
+  "updated": "2026-11-14T15:02:55.050492+00:00",
   "count": 1000,
   "summary": null,
   "items": [
@@ -45,6 +45,20 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "https://www.scientificamerican.com/article/see-new-images-from-the-euclid-space-telescope-spanning-one-billion-cosmic-objects/",
+      "title": "See new images from the Euclid space telescope, spanning one billion cosmic objects",
+      "published": "2026-11-14T14:00:00+00:00",
+      "author": null,
+      "description": "The images are part of Euclid’s first major data release",
+      "link": "https://www.scientificamerican.com/article/see-new-images-from-the-euclid-space-telescope-spanning-one-billion-cosmic-objects/",
+      "image": "https://static.scientificamerican.com/dam/asset/8a790fc9-a63d-4b98-98df-ce9912f3d35f/abell.jpg?m=1794611309.989&w=1200",
+      "feed_name": "Scientific American Content: Global",
+      "feed_title": "Scientific American Content: Global",
+      "category": "science",
+      "feed_url": "http://rss.sciam.com/ScientificAmerican-Global",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.scientificamerican.com&sz=64"
     },
     {
       "id": "news713457656",
@@ -454,7 +468,7 @@
     },
     {
       "id": "https://www.scientificamerican.com/article/faa-grounds-all-u-s-flights-days-after-expanding-its-ai-air-traffic-system/",
-      "title": "FAA grounds all U.S. flights days after expanding its AI air traffic system",
+      "title": "FAA grounds all U.S. flights after air traffic control system becomes 'overwhelmed'",
       "published": "2026-11-14T00:00:00+00:00",
       "author": null,
       "description": "National ground stops of this kind are exceedingly rare",
@@ -13984,20 +13998,6 @@
       "description": "A new experiment reveals that Earth's microbes can grow in harsh conditions similar to what may exist just below the surface of Mars, suggesting new directions in the search for potential cellular life on the red planet.",
       "link": "https://phys.org/news/2026-11-microbial-growth-simulated-mars-conditions.html",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/microbes-can-grow-in-m.jpg",
-      "feed_name": "Phys.org - latest science and technology news stories",
-      "feed_title": "Phys.org - latest science and technology news stories",
-      "category": "science",
-      "feed_url": "https://phys.org/rss-feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "news713079561",
-      "title": "Researchers highlight ferroptosis's dual roles in plant immunity",
-      "published": "2026-11-05T13:40:01+00:00",
-      "author": null,
-      "description": "When plants encounter pathogens, they can defend themselves by rapidly killing infected cells to restrict pathogen spread. This immune response, known as the hypersensitive response (HR), was first described in 1915. However, the molecular mechanism underlying HR cell death remained poorly understood for more than a century.",
-      "link": "https://phys.org/news/2026-11-highlight-ferroptosis-dual-roles-immunity.html",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-highlight.jpg",
       "feed_name": "Phys.org - latest science and technology news stories",
       "feed_title": "Phys.org - latest science and technology news stories",
       "category": "science",
