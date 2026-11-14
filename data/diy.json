@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-14T01:02:47.274019+00:00",
+  "updated": "2026-11-14T01:33:43.566476+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.howtogeek.com/your-x86-windows-apps-may-now-run-on-arm64-thanks-to-wines-avx-support/",
+      "title": "Your x86 Windows apps may now run on ARM64 thanks to Wine's AVX support",
+      "published": "2026-11-14T01:17:35+00:00",
+      "author": "Tyler Cross",
+      "description": "The new Wine update also fixes dozens of bugs and introduces new security features.",
+      "link": "https://www.howtogeek.com/your-x86-windows-apps-may-now-run-on-arm64-thanks-to-wines-avx-support/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/08/a-dual-pane-terminal-display-on-a-laptop-demontsrating-linux-namespaces-in-action.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/save-33-on-fanttiks-f2-pro-cordless-rotary-tool-kit-and-start-your-first-diy-projects/",
       "title": "The Fanttik F2 Pro Rotary Tool Kit is a great addition to your tool arsenal for only $60",
@@ -13989,20 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.makeuseof.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/forgotten-networking-standards-that-kept-computers-connected-before-wi-fi-and-ethernet/",
-      "title": "Before Wi-Fi and Ethernet, these 3 forgotten standards kept computers connected",
-      "published": "2026-10-31T11:30:15+00:00",
-      "author": "Andrew Heinzman",
-      "description": "Most of these still survive today in some form.",
-      "link": "https://www.howtogeek.com/forgotten-networking-standards-that-kept-computers-connected-before-wi-fi-and-ethernet/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/08/hand-holding-a-flat-ethernet-cable.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
     }
   ]
 }
