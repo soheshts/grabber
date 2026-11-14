@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-14T15:33:30.125804+00:00",
+  "updated": "2026-11-14T16:03:46.869025+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/customize-google-pixel-with-essentials-app/",
+      "title": "This free app removed my Pixel’s search bar, remapped its buttons, and finally let me stack widgets",
+      "published": "2026-11-14T16:00:16+00:00",
+      "author": "Pankil Shah",
+      "description": "I refuse to use a Pixel without this app now.",
+      "link": "https://www.makeuseof.com/customize-google-pixel-with-essentials-app/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/pixel-phone-showing-essentials-app.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/netflix-shows-perfect-for-killing-time-school-pickup/",
+      "title": "4 Netflix shows that are perfect for killing time in the school pickup line",
+      "published": "2026-11-14T16:00:15+00:00",
+      "author": "Tyler Dupont",
+      "description": "Skip the doom-scrolling and watch these low-effort Netflix shows instead.",
+      "link": "https://www.howtogeek.com/netflix-shows-perfect-for-killing-time-school-pickup/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/10/screenshot-43.png",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/google-account-had-34-devices-logged-in/",
       "title": "I found 34 devices still logged into my Google account",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.makeuseof.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/your-current-software-subscriptions-could-be-your-last/",
-      "title": "Your current software subscriptions could be your last",
-      "published": "2026-10-31T17:30:15+00:00",
-      "author": "Adam Davidson",
-      "description": "Subscriptions may soon be suboptimal.",
-      "link": "https://www.howtogeek.com/your-current-software-subscriptions-could-be-your-last/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/the-wordcraft-app-from-artcraft-running-on-an-imac.png",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://hackaday.com/?p=1397061",
-      "title": "DIY WiFi Analyzer Sniffs Out Congestion and Coverage Issues, Suggests Fixes",
-      "published": "2026-10-31T17:00:53+00:00",
-      "author": "Donald Papp",
-      "description": "[Roni Bandini]’s JEV WiFi Analyzer is an interesting experiment that glues together a single-board Linux computer, a USB WiFi adapter, and a specialized AI model to create a new kind …read more",
-      "link": "https://hackaday.com/2026/10/31/diy-wifi-analyzer-sniffs-out-congestion-and-coverage-issues-suggests-fixes/",
-      "image": "https://hackaday.com/wp-content/uploads/2026/10/JEV-WiFi-Analyzer-2-banner.png",
-      "feed_name": "Blog – Hackaday",
-      "feed_title": "Blog – Hackaday",
-      "category": "DIY",
-      "feed_url": "https://hackaday.com/blog/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
     }
   ]
 }
