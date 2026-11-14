@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-14T23:02:56.840021+00:00",
+  "updated": "2026-11-14T23:33:17.475879+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.howtogeek.com/i-made-two-3d-models-with-meshy-71-and-each-went-from-idea-to-printer-in-under-20-minutes/",
+      "title": "I made two 3D models with Meshy 7.1, and each went from idea to printer in under 20 minutes",
+      "published": "2026-11-14T23:30:15+00:00",
+      "author": "Patrick Campanale",
+      "description": "A pre-painted 3MF meant I mostly just had to remap colors.",
+      "link": "https://www.howtogeek.com/i-made-two-3d-models-with-meshy-71-and-each-went-from-idea-to-printer-in-under-20-minutes/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/ai-astronaut-fox-build-plate.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/gaming-on-linux-is-better-than-ever-but-these-5-tweaks-make-it-even-better/",
       "title": "Gaming on Linux is better than ever, but these 5 tweaks make it even better",
@@ -13989,20 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://hackaday.com/blog/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/how-to-play-xbox-360-games-on-your-android-phone-in-buttery-smooth-60fps/",
-      "title": "How to play Xbox 360 games on your Android phone in buttery smooth 60fps",
-      "published": "2026-11-01T11:30:16+00:00",
-      "author": "Shaheer Khan",
-      "description": "XenDroid turns your Android phone into an Xbox 360, and the setup takes less time than you'd think.",
-      "link": "https://www.makeuseof.com/how-to-play-xbox-360-games-on-your-android-phone-in-buttery-smooth-60fps/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/img_5803_cropped.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }

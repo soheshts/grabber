@@ -1,9 +1,23 @@
 {
   "category": "technology",
-  "updated": "2026-11-14T23:02:56.840021+00:00",
+  "updated": "2026-11-14T23:33:17.475879+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.engadget.com/2313042/sd-card-4-gb-file-transfer-limit-fat32-explained/",
+      "title": "Why your SD card won't let you transfer files bigger than 4GB, and how to fix it",
+      "published": "2026-11-14T23:00:00+00:00",
+      "author": "Filipe Espósito",
+      "description": "Some SD cards just won't accept files larger than 4GB, no matter the total capacity or how much free storage there is. But don't worry, it's not hard to fix.",
+      "link": "https://www.engadget.com/2313042/sd-card-4-gb-file-transfer-limit-fat32-explained/",
+      "image": "https://www.engadget.com/img/gallery/why-your-sd-card-wont-let-you-transfer-files-bigger-than-4gb-and-how-to-fix-it/l-intro-1794020287.jpg",
+      "feed_name": "Engadget",
+      "feed_title": "Engadget - Technology News & Expert Reviews",
+      "category": "technology",
+      "feed_url": "https://www.engadget.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
     {
       "id": "https://linux.slashdot.org/story/26/11/14/2236207/manjaro-linux-moves-toward-independent-community-governance?utm_source=rss1.0mainlinkanon&utm_medium=feed",
       "title": "Manjaro Linux Moves Toward Independent Community Governance",
@@ -17,6 +31,20 @@
       "category": "technology",
       "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
       "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
+    },
+    {
+      "id": "https://www.engadget.com/2312924/underrated-google-health-app-food-tracker/",
+      "title": "This underrated Google Health app feature can make food tracking less annoying",
+      "published": "2026-11-14T22:30:00+00:00",
+      "author": "Christine Persaud",
+      "description": "There's a suite of features with Google's Health app, but you've likely overlooked the intuitive food tracking function that helps keep your diet in check.",
+      "link": "https://www.engadget.com/2312924/underrated-google-health-app-food-tracker/",
+      "image": "https://www.engadget.com/img/gallery/this-underrated-google-health-app-feature-can-make-food-tracking-less-annoying/l-intro-1794352256.jpg",
+      "feed_name": "Engadget",
+      "feed_title": "Engadget - Technology News & Expert Reviews",
+      "category": "technology",
+      "feed_url": "https://www.engadget.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
     },
     {
       "id": "https://www.engadget.com/2312834/how-to-get-better-results-google-gemini/",
@@ -13975,34 +14003,6 @@
       "category": "technology",
       "feed_url": "https://www.engadget.com/rss.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
-    },
-    {
-      "id": "TheNextWeb=4dd96d05fb53b9afd7433d688981c5bd",
-      "title": "Cisco adds Anthropic’s Claude Mythos to AI Defense for red teaming",
-      "published": "2026-11-09T20:56:14+00:00",
-      "author": "Ana Maria Constantin",
-      "description": "Cisco will add Anthropic’s Claude Mythos to AI Defense to plan attacks on customers’ own AI apps and agents, a practice called red teaming. Customers get no open prompt access, every test is logged to a named person, and it comes first to select enterprises. Cisco will add Anthropic’s Claude Mythos to AI Defense, the […] This story continues at The Next Web",
-      "link": "https://thenextweb.com/news/cisco-ai-defense-claude-mythos-red-teaming",
-      "image": "https://media.thenextweb.com/2026/11/cisco-anthropic-logos-claude-mythos-ai-defense.avif",
-      "feed_name": "The Next Web",
-      "feed_title": "The Next Web",
-      "category": "technology",
-      "feed_url": "https://thenextweb.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
-    },
-    {
-      "id": "https://arstechnica.com/gadgets/2026/11/a-sam-altman-parody-offers-an-amusing-lesson-in-memory-management/",
-      "title": "A Sam Altman parody offers an amusing lesson in memory management",
-      "published": "2026-11-09T20:49:09+00:00",
-      "author": "Nick Indge",
-      "description": "We verified the RAM numbers are real without sending any emails to OpenAI.",
-      "link": "https://arstechnica.com/gadgets/2026/11/a-sam-altman-parody-offers-an-amusing-lesson-in-memory-management/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1723107474-500x500.jpg",
-      "feed_name": "Ars Technica",
-      "feed_title": "Ars Technica - All content",
-      "category": "technology",
-      "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
-      "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
     }
   ]
 }
