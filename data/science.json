@@ -1,9 +1,23 @@
 {
   "category": "science",
-  "updated": "2026-11-14T10:03:48.269339+00:00",
+  "updated": "2026-11-14T10:33:00.571597+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "6af205c40bb5b05adabf4ddb",
+      "title": "These ‘Ghostly’ Galaxies Have Lost Their Dark Matter",
+      "published": "2026-11-14T10:00:00+00:00",
+      "author": "Robin George Andrews",
+      "description": "The galaxies’ dark matter was ejected during a collision, but ironically, its absence is some of the best evidence of the elusive substance yet.",
+      "link": "https://www.wired.com/story/these-ghostly-galaxies-have-lost-their-dark-matter/",
+      "image": "https://media.wired.com/photos/6af47d34e9ef28e062a72826/master/pass/Dark-Matter-Galaxies-cr.several-Lede.jpg",
+      "feed_name": "Science Latest",
+      "feed_title": "Science Latest",
+      "category": "science",
+      "feed_url": "https://www.wired.com/feed/category/science/latest/rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.wired.com&sz=64"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/c6qj5r2qzqpwo#1",
       "title": "Extreme weather leaves gardeners hedging their bets",
@@ -13989,20 +14003,6 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "65555d50-c8bd-11f1-bbcb-cb9c9266f358",
-      "title": "Could ultrasound interrupt the brain’s addiction loop? [Sponsored]",
-      "published": "2026-11-05T10:00:00+00:00",
-      "author": "Scientific American",
-      "description": "Addiction hijacks the brain’s reward circuitry, and current treatments often struggle to break its grip. In this episode, neuroscientist and neurosurgeon Ali Rezai of the WVU Rockefeller Neuroscience Institute explains how an experimental, noninvasive focused-ultrasound treatment aimed at the nucleus accumbens could quiet cravings so that therapy and medication work better. He also describes how wearables and AI might flag people at risk of relapse before it happens. This podcast was produced f…",
-      "link": null,
-      "image": null,
-      "feed_name": "60-Second Science",
-      "feed_title": "60-Second Science",
-      "category": "science",
-      "feed_url": "http://rss.sciam.com/sciam/60secsciencepodcast",
-      "feed_icon": "https://megaphone.imgix.net/podcasts/9e578524-a403-11ee-a6cf-cbcdcc0e11fb/image/ec5ff1c72de2a19d67bc6425661674b1.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
     }
   ]
 }
