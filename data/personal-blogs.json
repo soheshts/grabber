@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-14T13:32:18.343329+00:00",
-  "count": 443,
+  "updated": "2026-11-14T14:02:54.592961+00:00",
+  "count": 444,
   "summary": null,
   "items": [
     {
@@ -59,6 +59,20 @@
       "category": "personal blogs",
       "feed_url": "https://ronaldsvilcins.com/atom.xml",
       "feed_icon": "https://ronaldsvilcins.com/favicon.png"
+    },
+    {
+      "id": "https://www.the-haystack.com/anthropomorphic/",
+      "title": "How we speak about AI affects our perception of it",
+      "published": "2026-11-14T00:00:00+00:00",
+      "author": "Stephen Hay",
+      "description": "If it looks like a duck and quacks like a duck, it might just be a robot that looks and quacks like a duck. I'm not a fan of how we talk about AI. Specifically, I think using anthropomorphic language to describe and discuss AI is harmful . We use non-it pronouns for it. We speak of agents , emphasizing the \"agency\" placed upon the software by humans. We say things like, \"we'll need to become adept at collaborating with our agents\". AI is software There. I said it. The collection of tooling and…",
+      "link": "https://www.the-haystack.com/anthropomorphic/",
+      "image": "https://www.the-haystack.com/og-image.png",
+      "feed_name": "The Haystack",
+      "feed_title": "The Haystack",
+      "category": "personal blogs",
+      "feed_url": "https://www.the-haystack.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.the-haystack.com&sz=64"
     },
     {
       "id": "https://rachsmith.com/how-long-until-agent-output-turns-to-shit/",
