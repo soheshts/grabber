@@ -1,12 +1,40 @@
 {
   "category": "technology",
-  "updated": "2026-11-14T00:32:39.602669+00:00",
+  "updated": "2026-11-14T01:02:47.274019+00:00",
   "count": 1000,
   "summary": null,
   "items": [
     {
+      "id": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
+      "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
+      "published": "2026-11-14T00:49:13+00:00",
+      "author": "Eric Berger",
+      "description": "One way or another, the company will get some more data on Saturday.",
+      "link": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305018954-500x500.jpg",
+      "feed_name": "Ars Technica",
+      "feed_title": "Ars Technica",
+      "category": "technology",
+      "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
+      "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
+    },
+    {
+      "id": "072YmkXajE7ooxfNBrYuKOA",
+      "title": "FAA ground stop updates: What we know so far",
+      "published": "2026-11-14T00:04:00+00:00",
+      "author": null,
+      "description": "Here's what we know about the unexpected nationwide ground stoppage ordered by the FAA on Friday.",
+      "link": "https://mashable.com/tech/faa-ground-stop-updates-what-we-know",
+      "image": "https://helios-i.mashable.com/imagery/articles/072YmkXajE7ooxfNBrYuKOA/hero-image.jpg",
+      "feed_name": "Mashable",
+      "feed_title": "Mashable",
+      "category": "technology",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
+    },
+    {
       "id": "5200658",
-      "title": "Razer’s Wild $1,000 Gaming Chair Has Six Motors, Built-in Speakers, RGB Lighting",
+      "title": "Razer’s Wild $1,000 Gaming Chair Has 6 Motors, Built-in Speakers, RGB Lighting",
       "published": "2026-11-13T23:59:49+00:00",
       "author": "Ajay Kumar",
       "description": "The Soma Pro and Some Sense HD Haptics are part of an updated vibrating gaming chair lineup promising better immersion and improved comfort.",
@@ -17,6 +45,20 @@
       "category": "technology",
       "feed_url": "https://www.cnet.com/rss/news/",
       "feed_icon": "https://www.cnet.com/wp-content/uploads/sites/2/cropped-favicon-480.png?w=32"
+    },
+    {
+      "id": "07wVWOtpcqRU7a8zPAdVel8",
+      "title": "Is the nationwide ground stop related to the FAAs new air traffic AI?",
+      "published": "2026-11-13T23:53:11+00:00",
+      "author": null,
+      "description": "Shortly after the FAA ordered a nationwide ground stop, some on social media suggested it could have been caused by the administration's new AI system.",
+      "link": "https://mashable.com/tech/faa-smart-ai-tool-nationwide-groundstop",
+      "image": "https://helios-i.mashable.com/imagery/articles/07wVWOtpcqRU7a8zPAdVel8/hero-image.jpg",
+      "feed_name": "Mashable",
+      "feed_title": "Mashable",
+      "category": "technology",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
     },
     {
       "id": "https://www.theverge.com/?p=1033697",
@@ -157,34 +199,6 @@
       "category": "technology",
       "feed_url": "https://www.engadget.com/rss.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
-    },
-    {
-      "id": "07wVWOtpcqRU7a8zPAdVel8",
-      "title": "Is the ground stop related to the FAAs new air traffic AI?",
-      "published": "2026-11-13T22:46:47+00:00",
-      "author": null,
-      "description": "Shortly after the FAA ordered a nationwide ground stop, some on social media suggested it could have been caused by the administration's new AI system.",
-      "link": "https://mashable.com/tech/faa-smart-ai-tool-nationwide-groundstop",
-      "image": "https://helios-i.mashable.com/imagery/articles/07wVWOtpcqRU7a8zPAdVel8/hero-image.jpg",
-      "feed_name": "Mashable",
-      "feed_title": "Mashable",
-      "category": "technology",
-      "feed_url": "http://feeds.mashable.com/Mashable",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
-    },
-    {
-      "id": "072YmkXajE7ooxfNBrYuKOA",
-      "title": "FAA ground stop updates: What we know so far",
-      "published": "2026-11-13T22:41:01+00:00",
-      "author": null,
-      "description": "Here's what we know about the unexpected nationwide ground stoppage ordered by the FAA on Friday.",
-      "link": "https://mashable.com/tech/faa-ground-stop-updates-what-we-know",
-      "image": "https://helios-i.mashable.com/imagery/articles/072YmkXajE7ooxfNBrYuKOA/hero-image.jpg",
-      "feed_name": "Mashable",
-      "feed_title": "Mashable",
-      "category": "technology",
-      "feed_url": "http://feeds.mashable.com/Mashable",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
     },
     {
       "id": "01s8ZR9uCHXh6p0geEi6ArD",
@@ -13989,20 +14003,6 @@
       "category": "technology",
       "feed_url": "https://thenextweb.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
-    },
-    {
-      "id": "01GyA0gUarzNfovUuqGr906",
-      "title": "NYT Connections hints today: Clues, answers for November 9, 2026",
-      "published": "2026-11-09T12:02:55+00:00",
-      "author": null,
-      "description": "Connections is a New York Times word game that's all about finding the \"common threads between words.\" How to solve the puzzle.",
-      "link": "https://mashable.com/entertainment/nyt-connections-hint-answer-today-november-9-2026",
-      "image": "https://helios-i.mashable.com/imagery/articles/01GyA0gUarzNfovUuqGr906/hero-image.jpg",
-      "feed_name": "Mashable",
-      "feed_title": "Mashable",
-      "category": "technology",
-      "feed_url": "http://feeds.mashable.com/Mashable",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
     }
   ]
 }
