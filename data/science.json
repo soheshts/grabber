@@ -1,9 +1,37 @@
 {
   "category": "science",
-  "updated": "2026-11-14T11:03:51.693378+00:00",
+  "updated": "2026-11-14T11:33:08.634740+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "news713859489",
+      "title": "SpaceX's Starship set for return to Earth after booster catch aborted",
+      "published": "2026-11-14T11:18:54+00:00",
+      "author": null,
+      "description": "SpaceX's Starship spacecraft was \"healthy\" as it orbited the Earth and on track to return Saturday to its Texas launch site, where Elon Musk's company was planning to \"catch\" the vehicle for the first time.",
+      "link": "https://phys.org/news/2026-11-spacex-starship-earth-booster-aborted.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/spacexs-starship-proje.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "https://www.bbc.co.uk/weather/articles/cke8rr37lrryo#0",
+      "title": "How to spot November's planetary parade in the pre-dawn sky",
+      "published": "2026-11-14T11:07:51+00:00",
+      "author": null,
+      "description": "The planets of Mercury, Venus, Mars and Jupiter will align in pre-dawn sky throughout November.",
+      "link": "https://www.bbc.co.uk/weather/articles/cke8rr37lrryo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1a4/live/8fa21860-daa5-11f1-9da2-b11e4d68c08e.jpg",
+      "feed_name": "BBC News - Science & Environment",
+      "feed_title": "BBC News",
+      "category": "science",
+      "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
     {
       "id": "6af4abdf9181a13e281c83e7",
       "title": "Floods Force Gaza to Choose Between Clean Water and Pumping Out Sewage",
@@ -13975,34 +14003,6 @@
       "category": "science",
       "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "6aeb99b5079f98228327c10a",
-      "title": "Particle Physicists Are Getting a First Glimpse Into the ‘Zeptoverse’",
-      "published": "2026-11-05T10:30:00+00:00",
-      "author": "Jorge Garay",
-      "description": "An extremely rare matter-decay event opens up new possibilities for researching the physical world on scales 100 billion times smaller than an atom.",
-      "link": "https://www.wired.com/story/particle-physicists-are-getting-a-first-glimpse-into-the-zeptoverse/",
-      "image": "https://media.wired.com/photos/6aeb99b5fd4267963caa47b0/master/pass/2182148343",
-      "feed_name": "Science Latest",
-      "feed_title": "Science Latest",
-      "category": "science",
-      "feed_url": "https://www.wired.com/feed/category/science/latest/rss",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.wired.com&sz=64"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/05/science/chihuahuas-coyote-dna.html",
-      "title": "Tiny Chihuahuas Hold a Big Surprise: A Sliver of Coyote DNA",
-      "published": "2026-11-05T10:02:53+00:00",
-      "author": "Franz Lidz",
-      "description": "The breed is descended from indigenous canines, which may have been intentionally mixed with wild coyotes long before Europeans arrived in the Americas.",
-      "link": "https://www.nytimes.com/2026/11/05/science/chihuahuas-coyote-dna.html",
-      "image": "https://static01.nyt.com/images/2026/11/04/science/04SCI-CHIHUAHUA-DNA-01/04SCI-CHIHUAHUA-DNA-01-mediumSquareAt3X.jpg",
-      "feed_name": "NYT > Science",
-      "feed_title": "NYT > Science",
-      "category": "science",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     }
   ]
 }
