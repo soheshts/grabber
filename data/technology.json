@@ -1,9 +1,23 @@
 {
   "category": "technology",
-  "updated": "2026-11-14T07:03:23.923128+00:00",
+  "updated": "2026-11-14T07:33:10.193923+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://tech.slashdot.org/story/26/11/14/0226222/amazons-plan-to-index-the-worlds-online-shopping-data?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "title": "Amazon's Plan to Index the World's Online Shopping Data",
+      "published": "2026-11-14T07:00:00+00:00",
+      "author": "BeauHD",
+      "description": "Amazon is considering a \"World Product Graph\" that would index information about products sold across the internet in an effort to keep shoppers and AI agents from turning to Google, Reddit or other sources for product research. The proposed database could also improve Amazon's AI shopping assistant by addressing inaccurate or incomplete answers and allowing it to use cheaper models. \"Amazon cannot be the go-destination for every shopping mission if customers must leave to research product rela…",
+      "link": "https://tech.slashdot.org/story/26/11/14/0226222/amazons-plan-to-index-the-worlds-online-shopping-data?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+      "feed_name": "Slashdot",
+      "feed_title": "Slashdot",
+      "category": "technology",
+      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
+    },
     {
       "id": "https://www.engadget.com/2316792/faa-flights-resume-ground-stop-old-equipment/",
       "title": "FAA allows flights to resume after hours-long ground stop across the US",
@@ -13989,20 +14003,6 @@
       "category": "technology",
       "feed_url": "https://lifehacker.com/rss",
       "feed_icon": "https://www.google.com/s2/favicons?domain=lifehacker.com&sz=64"
-    },
-    {
-      "id": "072tUsjmFHFlh9tfCjV7zOg",
-      "title": "John Oliver reacts gleefully to the midterms, roasts Elon Musk",
-      "published": "2026-11-09T13:29:53+00:00",
-      "author": null,
-      "description": "John Oliver responded to the midterm election results during \"Last Week Tonight\" on Sunday, roasting Elon Musk for wasting $500 million.",
-      "link": "https://mashable.com/entertainment/john-oliver-midterm-results-elon-musk",
-      "image": "https://helios-i.mashable.com/imagery/articles/072tUsjmFHFlh9tfCjV7zOg/hero-image.png",
-      "feed_name": "Mashable",
-      "feed_title": "Mashable",
-      "category": "technology",
-      "feed_url": "http://feeds.mashable.com/Mashable",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
     }
   ]
 }

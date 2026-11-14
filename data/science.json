@@ -1,9 +1,37 @@
 {
   "category": "science",
-  "updated": "2026-11-14T07:03:23.923128+00:00",
+  "updated": "2026-11-14T07:33:10.193923+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6qj5r2qzqpwo#1",
+      "title": "Extreme weather leaves gardeners hedging their bets",
+      "published": "2026-11-14T07:12:14+00:00",
+      "author": null,
+      "description": "Gardeners across Sussex are changing their planting strategies after this year's unprecedented heat.",
+      "link": "https://www.bbc.co.uk/news/articles/c6qj5r2qzqpwo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c069/live/24132d40-df6a-11f1-a8af-15d7a25dc0d1.jpg",
+      "feed_name": "BBC News - Science & Environment",
+      "feed_title": "BBC News",
+      "category": "science",
+      "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "6af5f8aa43d8776fbbb21b36",
+      "title": "The digital detectives preserving the truth of war | Hadi Al Khatib",
+      "published": "2026-11-14T07:00:00+00:00",
+      "author": "TED",
+      "description": "A lot of today’s war footage is shot on phones and posted to platforms that were never meant to permanently store it. Digital archivist and TED Fellow Hadi Al Khatib founded Mnemonic to save these photos and videos before they vanish. Learn how his team is turning people’s social media posts into evidence of crimes that holds up in court — and building an archive that ensures the truth outlasts the war. (Note: this film contains disturbing footage of war.) Hosted on Acast. See acast.com/privacy…",
+      "link": "http://go.ted.com/hadialkhatib",
+      "image": null,
+      "feed_name": "TED Talks Daily (SD video)",
+      "feed_title": "TED Talks Daily",
+      "category": "science",
+      "feed_url": "https://pa.tedcdn.com/feeds/talks.rss",
+      "feed_icon": "https://assets.pippa.io/shows/67587e77c705e441797aff96/show-cover.png"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cmr4gxvrxd9yo#0",
       "title": "Bluetongue virus confirmed on County Down farm",
@@ -13975,34 +14003,6 @@
       "category": "science",
       "feed_url": "http://rss.sciam.com/sciam/60secsciencepodcast",
       "feed_icon": "https://megaphone.imgix.net/podcasts/9e578524-a403-11ee-a6cf-cbcdcc0e11fb/image/ec5ff1c72de2a19d67bc6425661674b1.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
-    },
-    {
-      "id": "news713074236",
-      "title": "Prehistoric 'giant rat' found in Thailand from fossil teeth",
-      "published": "2026-11-05T09:11:03+00:00",
-      "author": null,
-      "description": "A giant rodent weighing around 30 kilograms (66 pounds) roamed what is now southern Thailand 33 to 35 million years ago, scientists said, after identifying a previously unknown species from two fossilized teeth.",
-      "link": "https://phys.org/news/2026-11-prehistoric-giant-rat-thailand-fossil.html",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/prehistoric-giant-rat.jpg",
-      "feed_name": "Phys.org - latest science and technology news stories",
-      "feed_title": "Phys.org - latest science and technology news stories",
-      "category": "science",
-      "feed_url": "https://phys.org/rss-feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "news713073885",
-      "title": "Google turns off AI for schoolchildren by default",
-      "published": "2026-11-05T09:05:13+00:00",
-      "author": null,
-      "description": "Google has said it will switch off its AI tools for schoolchildren by default, after drawing criticism for pushing artificial intelligence features to students while schools are still debating how the technology should be used in classrooms.",
-      "link": "https://phys.org/news/2026-11-google-ai-schoolchildren-default.html",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/google-turns-off-ai-fo.jpg",
-      "feed_name": "Phys.org - latest science and technology news stories",
-      "feed_title": "Phys.org - latest science and technology news stories",
-      "category": "science",
-      "feed_url": "https://phys.org/rss-feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
     }
   ]
 }
