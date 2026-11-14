@@ -1,9 +1,23 @@
 {
   "category": "travel",
-  "updated": "2026-11-14T20:03:47.058594+00:00",
-  "count": 170,
+  "updated": "2026-11-14T20:32:15.591679+00:00",
+  "count": 171,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/11/14/business/faa-ground-stop-exceptions-airlines.html",
+      "title": "How Some Flights Were Exempt From the Ground Stop",
+      "published": "2026-11-14T20:21:13+00:00",
+      "author": "Emmett Lindner",
+      "description": "Dozens of international flights departed from the United States during Friday’s nationwide ground stop. Some planes also left for Hawaii from the West Coast.",
+      "link": "https://www.nytimes.com/2026/11/14/business/faa-ground-stop-exceptions-airlines.html",
+      "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14xp-airlines-explainer-topart-kmpz/14xp-airlines-explainer-topart-kmpz-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Travel",
+      "feed_title": "NYT > Travel",
+      "category": "travel",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "https://www.nytimes.com/2026/11/14/t-magazine/hotels-restaurants-foraging-food.html",
       "title": "Why Foraging for Food Is the Latest Trend in Luxury Hotels and Fine-Dining Restaurants",
