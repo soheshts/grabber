@@ -1,6 +1,6 @@
 {
   "category": "science",
-  "updated": "2026-11-14T13:02:54.614766+00:00",
+  "updated": "2026-11-14T13:32:18.343329+00:00",
   "count": 1000,
   "summary": null,
   "items": [
@@ -17,6 +17,20 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "https://www.scientificamerican.com/article/is-there-a-better-way-of-diagnosing-obesity-than-bmi/",
+      "title": "Is there a better way of diagnosing obesity than BMI?",
+      "published": "2026-11-14T13:00:00+00:00",
+      "author": null,
+      "description": "A landmark study proposes a new way to identify people whose excess body fat is affecting their health",
+      "link": "https://www.scientificamerican.com/article/is-there-a-better-way-of-diagnosing-obesity-than-bmi/",
+      "image": "https://static.scientificamerican.com/dam/asset/48fa4880-2328-4d0f-afdd-000ab317b513/BMI-alternative.jpg?m=1794510268.295&w=1200",
+      "feed_name": "Scientific American Content: Global",
+      "feed_title": "Scientific American Content: Global",
+      "category": "science",
+      "feed_url": "http://rss.sciam.com/ScientificAmerican-Global",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.scientificamerican.com&sz=64"
     },
     {
       "id": "https://www.sciencedaily.com/releases/2026/11/261113231624.htm",
@@ -87,6 +101,20 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "https://www.scientificamerican.com/article/we-beat-screwworm-once-heres-how-were-trying-to-do-it-again/",
+      "title": "We beat screwworm once. Here’s how we’re trying to do it again",
+      "published": "2026-11-14T12:00:00+00:00",
+      "author": null,
+      "description": "Screwworm, which can devastate livestock, was eliminated from the U.S. in 1966. Now they’re back and the same old technique won’t be enough to get rid of them",
+      "link": "https://www.scientificamerican.com/article/we-beat-screwworm-once-heres-how-were-trying-to-do-it-again/",
+      "image": "https://static.scientificamerican.com/dam/asset/72fee80f-e589-4622-8603-59bb4104d77c/Screwworm-Illustration_SciAm.jpg?m=1794604119.637&w=1200",
+      "feed_name": "Scientific American Content: Global",
+      "feed_title": "Scientific American Content: Global",
+      "category": "science",
+      "feed_url": "http://rss.sciam.com/ScientificAmerican-Global",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.scientificamerican.com&sz=64"
     },
     {
       "id": "https://www.sciencedaily.com/releases/2026/11/261112230447.htm",
@@ -13975,34 +14003,6 @@
       "category": "science",
       "feed_url": "https://www.sciencedaily.com/rss/all.xml",
       "feed_icon": "https://www.sciencedaily.com/images/scidaily-logo-rss.png"
-    },
-    {
-      "id": "https://www.scientificamerican.com/article/hundreds-of-stunning-ice-age-drawings-discovered-inside-spanish-cave/",
-      "title": "Hundreds of stunning ice age drawings discovered inside Spanish cave",
-      "published": "2026-11-05T13:30:00+00:00",
-      "author": null,
-      "description": "The find includes 280 engravings, including 55 depictions of animals",
-      "link": "https://www.scientificamerican.com/article/hundreds-of-stunning-ice-age-drawings-discovered-inside-spanish-cave/",
-      "image": "https://static.scientificamerican.com/dam/asset/0446bdc1-d2d6-4d62-a6c0-0eadd09cc899/horse.jpg?m=1793891434.85&w=1200",
-      "feed_name": "Scientific American Content: Global",
-      "feed_title": "Scientific American Content: Global",
-      "category": "science",
-      "feed_url": "http://rss.sciam.com/ScientificAmerican-Global",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.scientificamerican.com&sz=64"
-    },
-    {
-      "id": "news713077939",
-      "title": "A phenanthrene co-guest helps crystalline sponges reveal 3D structures of small, low-polarity molecules",
-      "published": "2026-11-05T13:20:01+00:00",
-      "author": null,
-      "description": "Adding phenanthrene as a co-guest let the second-generation crystalline sponge (2G-CS) method determine X-ray structures for 24 of 30 small, low-polarity C₁₅ molecules, mostly sesquiterpenoids. Under standard conditions, none of the 30 gave guest-containing crystals. Eleven of the 24 structures had not been reported before, including that of the liquid hydrocarbon longifolene. A chiral version of the cage gave the absolute configurations of five compounds.",
-      "link": "https://phys.org/news/2026-11-phenanthrene-guest-crystalline-sponges-reveal.html",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-phenanthrene-co-gues.jpg",
-      "feed_name": "Phys.org - latest science and technology news stories",
-      "feed_title": "Phys.org - latest science and technology news stories",
-      "category": "science",
-      "feed_url": "https://phys.org/rss-feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
     }
   ]
 }
