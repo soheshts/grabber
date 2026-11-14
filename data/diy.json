@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-14T17:03:21.416370+00:00",
+  "updated": "2026-11-14T17:32:49.125364+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.howtogeek.com/cachyos-made-my-mint-laptop-feel-slow-and-i-havent-looked-back/",
+      "title": "CachyOS made my Mint laptop feel slow, and I haven't looked back",
+      "published": "2026-11-14T17:30:15+00:00",
+      "author": "David J. Buck",
+      "description": "This Arch-based distro made me forget I was even using Linux.",
+      "link": "https://www.howtogeek.com/cachyos-made-my-mint-laptop-feel-slow-and-i-havent-looked-back/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/cachyos-feauture.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/free-open-source-pocket-alternative-readeck/",
       "title": "Pocket's replacement was hiding in the open-source world all along",
@@ -13989,20 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.makeuseof.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/five-different-versions-firefox-for-android-reason-to-use-each-one/",
-      "title": "There are five different versions of Firefox for Android (and a reason to use each one)",
-      "published": "2026-10-31T19:01:15+00:00",
-      "author": "Bertel King",
-      "description": "Which fox do you prefer?",
-      "link": "https://www.howtogeek.com/five-different-versions-firefox-for-android-reason-to-use-each-one/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/256162.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
     }
   ]
 }

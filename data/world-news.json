@@ -1,9 +1,51 @@
 {
   "category": "World News",
-  "updated": "2026-11-14T17:03:21.416370+00:00",
+  "updated": "2026-11-14T17:32:49.125364+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/11/14/world/europe/student-protests-pensions-generations.html",
+      "title": "A ‘Generational Clash’ Is Fueling Europe’s Protests",
+      "published": "2026-11-14T17:26:50+00:00",
+      "author": "Jason Horowitz",
+      "description": "As retirees live longer, governments need to spend more on pensions. That makes it harder to fund other services, spurring protests like those in France.",
+      "link": "https://www.nytimes.com/2026/11/14/world/europe/student-protests-pensions-generations.html",
+      "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-europe-generations-01-lkbm/11int-europe-generations-01-lkbm-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/iran-dials-up-cyber-attack-pressure-targets-supermarkets-water-systems-12327521#publisher=newsstand",
+      "title": "Water Systems, Oil Tankers, Supermarkets Hit As Iran Escalates Cyber War",
+      "published": "2026-11-14T16:54:17+00:00",
+      "author": null,
+      "description": "Tehran has rejected allegations that it is behind cyberattacks abroad",
+      "link": "https://www.ndtv.com/world-news/iran-dials-up-cyber-attack-pressure-targets-supermarkets-water-systems-12327521#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-06/usqap108_cyberattack_625x300_16_June_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/us/syria-rolls-back-new-entry-restrictions-on-us-british-citizens-after-americans-report-being-turned-away/articleshow/135837949.cms",
+      "title": "Syria rolls back new entry restrictions on US, British citizens after Americans report being turned away",
+      "published": "2026-11-14T16:53:03+00:00",
+      "author": "Poulomi Ghosh",
+      "description": "",
+      "link": "https://timesofindia.indiatimes.com/world/us/syria-rolls-back-new-entry-restrictions-on-us-british-citizens-after-americans-report-being-turned-away/articleshow/135837949.cms",
+      "image": "https://static.toiimg.com/photo/msid-135838132,imgsize-60164.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
     {
       "id": "https://www.nytimes.com/2026/11/14/world/africa/south-sudan-election.html",
       "title": "South Sudan’s National Election, Its First, Will Be Delayed",
@@ -79,7 +121,7 @@
       "title": "Italy fines Meta €805m over accessing users' photos",
       "published": "2026-11-14T16:29:48+00:00",
       "author": null,
-      "description": "The social media giant is accused of not informing about 20 million users it had access to their photos.",
+      "description": "The social media giant is accused of not informing 20 million users it had access to their photos.",
       "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6be/live/f51842e0-e041-11f1-88e1-eb4e155225b3.jpg",
       "feed_name": "BBC News - World",
@@ -129,20 +171,6 @@
       "category": "World News",
       "feed_url": "https://www.reddit.com/r/worldnews/.rss",
       "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/iran-dials-up-cyber-attack-pressure-targets-supermarkets-water-systems-12327521#publisher=newsstand",
-      "title": "Iran Dials Up Cyber Attack Pressure, Targets Supermarkets, Water Systems",
-      "published": "2026-11-14T15:56:58+00:00",
-      "author": null,
-      "description": "Tehran has rejected allegations that it is behind cyberattacks abroad",
-      "link": "https://www.ndtv.com/world-news/iran-dials-up-cyber-attack-pressure-targets-supermarkets-water-systems-12327521#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-06/usqap108_cyberattack_625x300_16_June_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/rest-of-world/more-important-than-heart-australian-pm-caught-making-genital-joke-with-climate-minister-at-cop31-watch/articleshow/135836793.cms",
@@ -1557,20 +1585,6 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/14/world/europe/student-protests-pensions-generations.html",
-      "title": "A ‘Generational Clash’ Is Fueling Europe’s Protests",
-      "published": "2026-11-14T05:01:07+00:00",
-      "author": "Jason Horowitz",
-      "description": "As retirees live longer, governments need to spend more on pensions. That makes it harder to fund other services, spurring protests like those planned this weekend in France.",
-      "link": "https://www.nytimes.com/2026/11/14/world/europe/student-protests-pensions-generations.html",
-      "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-europe-generations-01-lkbm/11int-europe-generations-01-lkbm-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://www.nytimes.com/2026/11/14/world/europe/russell-brand-david-walliams-gag-order.html",
@@ -13989,20 +14003,6 @@
       "category": "World News",
       "feed_url": "https://www.reddit.com/r/worldnews/.rss",
       "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o#0",
-      "title": "Vinícius Jr sends message to Sudan boy who received prosthetic legs after BBC report sparks appeal",
-      "published": "2026-11-11T00:19:42+00:00",
-      "author": null,
-      "description": "Double amputee Zaher told the BBC last year about his favourite footballer and a dream of being able to walk again.",
-      "link": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3eec/live/34923590-d870-11f1-a701-fddedf244c16.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     }
   ]
 }

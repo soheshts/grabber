@@ -1,6 +1,6 @@
 {
   "category": "science",
-  "updated": "2026-11-14T17:03:21.416370+00:00",
+  "updated": "2026-11-14T17:32:49.125364+00:00",
   "count": 1000,
   "summary": null,
   "items": [
@@ -17,6 +17,20 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/14/science/brain-implants-give-als-patients-the-voice-to-speak-and-sing.html",
+      "title": "Brain Implants Give A.L.S. Patients the Voice to Speak and Sing",
+      "published": "2026-11-14T17:00:09+00:00",
+      "author": "Carolyn Y. Johnson",
+      "description": "In one demonstration, a former singer sang a musical scale. Afterward she cried tears of joy.",
+      "link": "https://www.nytimes.com/2026/11/14/science/brain-implants-give-als-patients-the-voice-to-speak-and-sing.html",
+      "image": "https://static01.nyt.com/images/2024/08/14/multimedia/14SCI-BCI-SING-02/14als-promo-fwcb-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Science",
+      "feed_title": "NYT > Science",
+      "category": "science",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://www.scientificamerican.com/article/do-ice-baths-help-muscles-recover-after-a-workout-a-new-study-suggests-not/",
@@ -13989,20 +14003,6 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2026/11/261103003207.htm",
-      "title": "Scientists discover that a clogged filter could revolutionize oil refining",
-      "published": "2026-11-05T14:04:07+00:00",
-      "author": null,
-      "description": "Scientists have developed a remarkable new membrane that separates crude oil at room temperature, using the oil itself to create microscopic filtration channels. The breakthrough could cut refining energy consumption by nearly 32%, carbon emissions by almost 38%, and operating costs by 36%, potentially transforming one of the world's most energy-intensive industries.",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261103003207.htm",
-      "image": "https://www.sciencedaily.com/images/1920/membrane-technolog-separates-crude-oil-without-boiling.webp",
-      "feed_name": "Latest Science News -- ScienceDaily",
-      "feed_title": "Latest Science News -- ScienceDaily",
-      "category": "science",
-      "feed_url": "https://www.sciencedaily.com/rss/all.xml",
-      "feed_icon": "https://www.sciencedaily.com/images/scidaily-logo-rss.png"
     }
   ]
 }
