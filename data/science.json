@@ -1,9 +1,23 @@
 {
   "category": "science",
-  "updated": "2026-11-14T05:32:50.196075+00:00",
+  "updated": "2026-11-14T06:02:53.937139+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.scientificamerican.com/article/math-puzzle-slippery-slopes/",
+      "title": "Math Puzzle: Slippery slopes",
+      "published": "2026-11-14T05:00:00+00:00",
+      "author": null,
+      "description": "Slide down the slippery slopes of this math puzzle",
+      "link": "https://www.scientificamerican.com/article/math-puzzle-slippery-slopes/",
+      "image": "https://static.scientificamerican.com/dam/asset/65abe12d-8e4b-4501-a546-461406e839de/saw1226Adva34_leadImage.png?m=1794499854.33&w=1200",
+      "feed_name": "Scientific American Content: Global",
+      "feed_title": "Scientific American Content: Global",
+      "category": "science",
+      "feed_url": "http://rss.sciam.com/ScientificAmerican-Global",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.scientificamerican.com&sz=64"
+    },
     {
       "id": "https://www.sciencedaily.com/releases/2026/11/261112230452.htm",
       "title": "Yale scientists reveal what really slows aging and what doesn't",
@@ -13989,20 +14003,6 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "urn:bbc:podcast:m0033pdc",
-      "title": "Leaf it to Nature",
-      "published": "2026-11-05T07:00:00+00:00",
-      "author": "BBC Radio 4",
-      "description": "We walk on them, rake them up, often barely give them a thought, but the humble leaf is an extraordinary feat of biological engineering. Adam Rutherford and Jessica Fostekew are joined plant scientist Tracy Lawson, biologist Jonathan Silvertown, and comedian Alex Kealy to uncover the hidden ingenuity of leaves. They explore how leaves evolved, why plants face a constant battle between thirst and starvation, and whether understanding their clever adaptations could help us engineer crops for a ho…",
-      "link": "http://www.bbc.co.uk/programmes/m0033pdc",
-      "image": "https://ichef.bbci.co.uk/images/ic/1200x675/p0pfwlz7.jpg",
-      "feed_name": "The Infinite Monkey Cage",
-      "feed_title": "The Infinite Monkey Cage",
-      "category": "science",
-      "feed_url": "https://podcasts.files.bbci.co.uk/b00snr0w.rss",
-      "feed_icon": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0pfwmbx.jpg"
     }
   ]
 }
