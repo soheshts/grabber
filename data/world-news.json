@@ -1,9 +1,51 @@
 {
   "category": "World News",
-  "updated": "2026-11-14T06:02:53.937139+00:00",
+  "updated": "2026-11-14T06:33:20.588642+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/live/2026/11/13/us/ground-stop-nationwide-flights-faa/nationwide-ground-stop-flights-faa",
+      "title": "Here’s the latest.",
+      "published": "2026-11-14T06:23:24+00:00",
+      "author": "Karoun Demirjian",
+      "description": "Trump administration officials blamed a telecommunication outage but said they said did not know its cause.",
+      "link": "https://www.nytimes.com/live/2026/11/13/us/ground-stop-nationwide-flights-faa/nationwide-ground-stop-flights-faa",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "108551030",
+      "title": "Companies love a ‘rockstar’ CEO. Until they depend on one",
+      "published": "2026-11-14T06:22:10+00:00",
+      "author": null,
+      "description": "Jensen Huang’s exit tests Nvidia’s succession planning and governance, and offers lessons for companies that elevate their CEOs to rockstar status.",
+      "link": "https://www.cnbc.com/2026/11/14/nvidia-jensen-huang-ceo-succession-risk.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108279135-17737747902026-03-17t190331z_1569419364_rc2i6kamf29y_rtrmadp_0_nvidia-gtc.jpeg?v=1794580129&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "108545250",
+      "title": "Ecuador wants to monetize its biodiversity — while still drilling for oil",
+      "published": "2026-11-14T06:00:01+00:00",
+      "author": null,
+      "description": "Ecuador is planning to channel funds into its biodiversity, but faces a key challenge: its reliance on oil.",
+      "link": "https://www.cnbc.com/2026/11/14/ecuador-biodiversity-green-finance-oil.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108534376-1793994243435-gettyimages-2241473534-1020_24_9313-jgf-birds-hoatzin-ec.jpeg?v=1793994429&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do#0",
       "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
@@ -283,20 +325,6 @@
       "category": "World News",
       "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
       "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
-      "id": "https://www.nytimes.com/live/2026/11/13/us/ground-stop-nationwide-flights-faa/nationwide-ground-stop-flights-faa",
-      "title": "Here’s the latest.",
-      "published": "2026-11-14T04:00:27+00:00",
-      "author": "Karoun Demirjian",
-      "description": "Trump administration officials blamed a telecommunication outage and said they needed more funding from Congress to pay for system upgrades.",
-      "link": "https://www.nytimes.com/live/2026/11/13/us/ground-stop-nationwide-flights-faa/nationwide-ground-stop-flights-faa",
-      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/us/marilyn-monroes-never-before-seen-letters-and-personal-belongings-emerge-from-a-friends-estate-after-60-years-including-notes-on-arthur-miller-joe-dimaggio-and-her-private-struggles/articleshow/135763859.cms",
@@ -13975,34 +14003,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o#0",
-      "title": "Israel's new parliament sworn in as leaders compete to form government",
-      "published": "2026-11-10T17:03:16+00:00",
-      "author": null,
-      "description": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
-      "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36f9/live/603c9f80-dcf5-11f1-93e1-3b657b665bcf.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o#1",
-      "title": "Israel's new parliament sworn in as leaders compete to form government",
-      "published": "2026-11-10T17:03:16+00:00",
-      "author": null,
-      "description": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
-      "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36f9/live/603c9f80-dcf5-11f1-93e1-3b657b665bcf.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     }
   ]
 }

@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-14T06:02:53.937139+00:00",
+  "updated": "2026-11-14T06:33:20.588642+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://hackaday.com/?p=1425299",
+      "title": "ESP32 Flight Tracker on Apple CRT",
+      "published": "2026-11-14T06:00:58+00:00",
+      "author": "Tyler August",
+      "description": "Sometimes we’re most taken by what’s on the screen; sometimes the screen itself is the most interesting part of the project. In this case, it’s the latter. That’s no slight …read more",
+      "link": "https://hackaday.com/2026/11/13/esp32-flight-tracker-on-apple-crt/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/ESP32-CRT-flightracker1.jpeg",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/saw-adobes-wildest-experiments-at-max-and-you-can-try-two-of-them-right-now/",
       "title": "I saw Adobe's wildest experiments at MAX, and you can try 2 of them right now",
@@ -13989,20 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.makeuseof.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/ryobis-new-18v-storm-preparation-kit-comes-with-three-essential-tools-youll-love/",
-      "title": "Ryobi’s new '18V Storm Preparation Kit' comes with three essential tools you’ll love",
-      "published": "2026-10-31T12:30:15+00:00",
-      "author": "Cory Gunther",
-      "description": "Be ready for it all.",
-      "link": "https://www.howtogeek.com/ryobis-new-18v-storm-preparation-kit-comes-with-three-essential-tools-youll-love/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/10/ryobi-storm-kit.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
     }
   ]
 }
