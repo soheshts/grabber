@@ -1,9 +1,23 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-14T16:32:55.341075+00:00",
-  "count": 443,
+  "updated": "2026-11-14T17:03:21.416370+00:00",
+  "count": 444,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.raymondcamden.com/2026/11/14/a-quick-demo-of-geminis-decisions-api",
+      "title": "A Quick Demo of Gemini's Decisions API",
+      "published": "2026-11-14T18:00:00+00:00",
+      "author": "Raymond Camden",
+      "description": "Yesterday, Google formally released their new Decisions API , and it's a pretty important new addition to Gemini in general, so I thought I'd share a quick introduction and demo to give you an idea of how it can be used. Of course, the first thing I need to do is explain what it is and why you should care. Decisions API? Generative AI has been able to answer questions since the beginning. Where the difficulty lies is in turning those answers into machine readable output. What do I mean by that?…",
+      "link": "https://www.raymondcamden.com/2026/11/14/a-quick-demo-of-geminis-decisions-api",
+      "image": "https://static.raymondcamden.com/images/2026/11/cat1.jpg",
+      "feed_name": "Raymond Camden",
+      "feed_title": "Raymond Camden",
+      "category": "personal blogs",
+      "feed_url": "https://www.raymondcamden.com/feed.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.raymondcamden.com&sz=64"
+    },
     {
       "id": "https://www.bennadel.com/blog/4928-tls-1-2-connection-failure-using-commandbox-adobe-coldfusion-and-cfhttp.htm",
       "title": "TLS 1.2 Connection Failure Using CommandBox, Adobe ColdFusion, And CFHTTP",

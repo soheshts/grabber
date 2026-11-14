@@ -1,9 +1,51 @@
 {
   "category": "DIY",
-  "updated": "2026-11-14T16:32:55.341075+00:00",
+  "updated": "2026-11-14T17:03:21.416370+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/free-open-source-pocket-alternative-readeck/",
+      "title": "Pocket's replacement was hiding in the open-source world all along",
+      "published": "2026-11-14T17:00:17+00:00",
+      "author": "Oluwaseun Bamisile",
+      "description": "A read-it-later app you host yourself, for free.",
+      "link": "https://www.makeuseof.com/free-open-source-pocket-alternative-readeck/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/readeck-platform-on-a-monitor.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/websites-i-scrape-with-home-assistant/",
+      "title": "5 websites I scrape with Home Assistant (and what I do with the data)",
+      "published": "2026-11-14T17:00:16+00:00",
+      "author": "Adam Davidson",
+      "description": "Scrape it till you make it.",
+      "link": "https://www.howtogeek.com/websites-i-scrape-with-home-assistant/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/an-iphone-showing-a-home-assistant-dashboard-that-is-listing-screening-times-for-the-film-wildwood.png",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.makeuseof.com/the-cheapest-smart-home-device-could-become-your-biggest-security-liability/",
+      "title": "The cheapest smart-home device could become your biggest security liability",
+      "published": "2026-11-14T16:45:17+00:00",
+      "author": "Afam Onyimadu",
+      "description": "The date your gadget stops getting fixes is easy to miss.",
+      "link": "https://www.makeuseof.com/the-cheapest-smart-home-device-could-become-your-biggest-security-liability/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/10/abra-bluetooth-gateway-smart-plug-plugged-into-outlet.jpeg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/samsung-keyboard-vs-gboard/",
       "title": "I stopped using Samsung’s default keyboard and I’m shocked by the difference",
@@ -13961,48 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/netflix-crime-thrillers-that-get-to-the-point-in-under-2-hours/",
-      "title": "5 Netflix crime thrillers that get to the point in under 2 hours",
-      "published": "2026-10-31T18:31:15+00:00",
-      "author": "Charlene Badasie",
-      "description": "These movies waste little time getting into the action.",
-      "link": "https://www.makeuseof.com/netflix-crime-thrillers-that-get-to-the-point-in-under-2-hours/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2026/10/characters-from-don-t-move-the-rip-and-unabomber-with-the-netflix-logo.png",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/plugging-a-drive-into-my-router-gave-me-a-free-nas-it-also-ruined-my-network/",
-      "title": "Plugging a drive into my router gave me a free NAS. It also ruined my network",
-      "published": "2026-10-31T18:30:15+00:00",
-      "author": "Arol Wright",
-      "description": "Sometimes, the cheaper option is indeed worse.",
-      "link": "https://www.howtogeek.com/plugging-a-drive-into-my-router-gave-me-a-free-nas-it-also-ruined-my-network/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/08/53557474735_286ea9f146_o.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/android-auto-vs-carplay-wins-where-it-matters/",
-      "title": "Android Auto wins on customization, but CarPlay wins where it matters to me",
-      "published": "2026-10-31T18:00:16+00:00",
-      "author": "Shimul Sood",
-      "description": "More features don't always mean better.",
-      "link": "https://www.makeuseof.com/android-auto-vs-carplay-wins-where-it-matters/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/12/untitled-design-8.png",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }
