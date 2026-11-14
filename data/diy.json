@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-14T15:02:55.050492+00:00",
+  "updated": "2026-11-14T15:33:30.125804+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/google-account-had-34-devices-logged-in/",
+      "title": "I found 34 devices still logged into my Google account",
+      "published": "2026-11-14T15:30:16+00:00",
+      "author": "Brandon Miniman",
+      "description": "I was shocked by what I found in my Google account security check-up.",
+      "link": "https://www.makeuseof.com/google-account-had-34-devices-logged-in/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/feat7.jpeg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/duplicati-is-the-free-open-source-app-that-automatically-backs-up-my-most-important-windows-files/",
+      "title": "Duplicati is the free, open-source app that automatically backs up my most important Windows files",
+      "published": "2026-11-14T15:30:15+00:00",
+      "author": "Patrick Campanale",
+      "description": "Encrypted, versioned backups to my NAS and the cloud, with no subscription.",
+      "link": "https://www.howtogeek.com/duplicati-is-the-free-open-source-app-that-automatically-backs-up-my-most-important-windows-files/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/duplicati-photos-backup-to-nas.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/ubuntu-finally-makes-graphics-drivers-easier-to-find-and-install/",
       "title": "Ubuntu finally makes graphics drivers easier to find and install",
@@ -31,6 +59,20 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://hackaday.com/?p=1425407",
+      "title": "IRis Learning Remote Has Five Buttons, Supports Thousands of Devices",
+      "published": "2026-11-14T15:00:13+00:00",
+      "author": "Donald Papp",
+      "description": "Universal IR remotes able to learn codes from existing devices were once popular consumer items as well as DIY projects, but they could become quite complex themselves, sometimes with a …read more",
+      "link": "https://hackaday.com/2026/11/14/iris-learning-remote-has-five-buttons-supports-thousands-of-devices/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/IRis-remote-banner.png",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
     },
     {
       "id": "https://www.makeuseof.com/unbound-private-dns-without-trusting-another-provider/",
@@ -13961,48 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://hackaday.com/blog/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/your-windows-pc-doesnt-have-to-be-this-loud-and-this-free-app-proves-it/",
-      "title": "A free app stopped my Windows PC fans from roaring at every browser tab",
-      "published": "2026-10-31T17:00:16+00:00",
-      "author": "Shaheer Khan",
-      "description": "Your Windows PC runs louder than it should. Here's how to fix that.",
-      "link": "https://www.makeuseof.com/your-windows-pc-doesnt-have-to-be-this-loud-and-this-free-app-proves-it/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/03/liquid-cpu-cooler-4-1.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/buying-ryobi-tools-from-wrong-store-get-them-at-a-lower-price/",
-      "title": "You're buying Ryobi tools from the wrong store. Here's how to get them at a lower price",
-      "published": "2026-10-31T17:00:15+00:00",
-      "author": "Steve Larner",
-      "description": "Lower prices do not mean refurbished or returned tools here.",
-      "link": "https://www.howtogeek.com/buying-ryobi-tools-from-wrong-store-get-them-at-a-lower-price/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/08/holding-a-ryobi-impact-driver-1.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/the-nvidia-shield-tv-pro-doesnt-make-sense-when-a-mini-pc-can-do-more-at-half-the-price/",
-      "title": "The Nvidia Shield TV Pro doesn't make sense when a mini PC can do more at half the price",
-      "published": "2026-10-31T16:45:15+00:00",
-      "author": "Goran Damnjanovic",
-      "description": "The Shield TV Pro is not worth buying anymore.",
-      "link": "https://www.howtogeek.com/the-nvidia-shield-tv-pro-doesnt-make-sense-when-a-mini-pc-can-do-more-at-half-the-price/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/a-mini-pc-a-roku-remote-and-a-rii-wireless-keyboard-and-mouse-combu-sitting-on-a-shelf-beneath-a-large-tv-with-windows-search-on-the-tv-screen.avif",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
     }
   ]
 }
