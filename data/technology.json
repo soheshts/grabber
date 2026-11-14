@@ -1,9 +1,65 @@
 {
   "category": "technology",
-  "updated": "2026-11-14T22:02:34.004053+00:00",
+  "updated": "2026-11-14T22:32:46.962659+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.engadget.com/2312834/how-to-get-better-results-google-gemini/",
+      "title": "How to get better results from Google Gemini",
+      "published": "2026-11-14T22:15:00+00:00",
+      "author": "Charles Burgar",
+      "description": "These tips and tricks will help you prompt Gemini better.",
+      "link": "https://www.engadget.com/2312834/how-to-get-better-results-google-gemini/",
+      "image": "https://www.engadget.com/img/gallery/how-to-get-better-results-from-google-gemini/l-intro-1794346807.jpg",
+      "feed_name": "Engadget",
+      "feed_title": "Engadget - Technology News & Expert Reviews",
+      "category": "technology",
+      "feed_url": "https://www.engadget.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
+    {
+      "id": "https://www.engadget.com/2307825/honor-magic-8-pro-vs-9-pro-upgrade-comparison/",
+      "title": "Honor Magic8 Pro vs. Magic9 Pro Max: What's been upgraded?",
+      "published": "2026-11-14T22:00:00+00:00",
+      "author": "Husain Parvez",
+      "description": "This Pro upgrade is messier than the typical year-over-year refresh, but the new flagship does give us a pretty good idea of where Honor put its priorities.",
+      "link": "https://www.engadget.com/2307825/honor-magic-8-pro-vs-9-pro-upgrade-comparison/",
+      "image": "https://www.engadget.com/img/gallery/honor-magic8-pro-vs-magic9-pro-max-whats-been-upgraded/l-intro-1793827245.jpg",
+      "feed_name": "Engadget",
+      "feed_title": "Engadget - Technology News & Expert Reviews",
+      "category": "technology",
+      "feed_url": "https://www.engadget.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
+    {
+      "id": "05SeQINTN0Qwm0Bp8niM7rF",
+      "title": "Curiosity Stream’s documentary library is yours for life at $119.99",
+      "published": "2026-11-14T22:00:00+00:00",
+      "author": null,
+      "description": "Get a Curiosity Stream lifetime subscription for $119.99 (reg. $399.99) with code DEAL20 and stream thousands of documentaries with no monthly fee.",
+      "link": "https://mashable.com/entertainment/nov-14-curiosity-stream-standard-plan-lifetime-subscription",
+      "image": "https://helios-i.mashable.com/imagery/articles/05SeQINTN0Qwm0Bp8niM7rF/hero-image.jpg",
+      "feed_name": "Mashable",
+      "feed_title": "Mashable",
+      "category": "technology",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
+    },
+    {
+      "id": "yt:video:VEvzBhRyB94",
+      "title": "SpaceX Catches Starship for the First Time Ending Flight Test 15",
+      "published": "2026-11-14T21:59:35+00:00",
+      "author": "CNET",
+      "description": "SpaceX makes history by catching Starship 42 back on the launch pad in Starbase, Texas. This marks the first ever catch of Starship for SpaceX after a successful deployment of 26 Starlink satellites and 14 orbits around the Earth. Read more about SpaceX Starship on CNET.com SpaceX Attempts History Friday With the First-Ever Double Catch https://zdcs.link/91MYOq Timecode Chapters: 0:00 Intro and Watch Parties 1:24 Ship 42 Re-entry and Flight 15 Overview 2:52 Final Approach and Gulf Divert Gate 4…",
+      "link": "https://www.youtube.com/watch?v=VEvzBhRyB94",
+      "image": "https://i3.ytimg.com/vi/VEvzBhRyB94/hqdefault.jpg",
+      "feed_name": "CNET",
+      "feed_title": "CNET",
+      "category": "technology",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?user=CNETTV",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64"
+    },
     {
       "id": "https://www.engadget.com/2312688/when-dedicated-graphics-card-worth-it/",
       "title": "Here's when a dedicated graphics card is worth it",
@@ -1658,7 +1714,7 @@
     },
     {
       "id": "5200658",
-      "title": "Razer’s Wild $1,000 Gaming Chair Has 6 Motors, Built-in Speakers, RGB Lighting",
+      "title": "Razer’s Wild $1,000 Gaming Chair Has Six Motors, Built-In Speakers and RGB Lighting",
       "published": "2026-11-13T23:59:49+00:00",
       "author": "Ajay Kumar",
       "description": "The Soma Pro and Some Sense HD Haptics are part of an updated vibrating gaming chair lineup promising better immersion and improved comfort.",
@@ -13947,62 +14003,6 @@
       "category": "technology",
       "feed_url": "https://lifehacker.com/rss",
       "feed_icon": "https://www.google.com/s2/favicons?domain=lifehacker.com&sz=64"
-    },
-    {
-      "id": "TheNextWeb=67fd86666422db01c213080bd7f3f131",
-      "title": "IBM plans to bring Anthropic’s Claude Mythos to enterprise customers",
-      "published": "2026-11-09T20:34:10+00:00",
-      "author": "Ana Maria Constantin",
-      "description": "IBM plans to add Anthropic’s Claude Mythos to Concert Protect so customers can scan their own code for unknown flaws, test which are exploitable and get fixes for developers to approve. It is aiming for early 2027. Mythos itself remains limited to vetted organisations. IBM plans to build Anthropic’s Claude Mythos into its Concert Protect […] This story continues at The Next Web",
-      "link": "https://thenextweb.com/news/ibm-concert-protect-claude-mythos-vulnerability-scanning",
-      "image": "https://media.thenextweb.com/2026/11/ibm-office-dubai-internet-city.avif",
-      "feed_name": "The Next Web",
-      "feed_title": "The Next Web",
-      "category": "technology",
-      "feed_url": "https://thenextweb.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
-    },
-    {
-      "id": "5182002",
-      "title": "NASA’s Voyager 1 to Cross Historic One Light-Day Milestone on Nov. 18",
-      "published": "2026-11-09T20:33:48+00:00",
-      "author": "Joe Hindy",
-      "description": "Traveling one light-day took the space probe 49 years. it would take a human 612,015 years to walk that distance.",
-      "link": "https://www.cnet.com/science/space/voyager-1-passes-one-light-day/",
-      "image": "https://www.cnet.com/wp-content/uploads/sites/2/Voyager-1.jpg",
-      "feed_name": "CNET News",
-      "feed_title": "News – CNET",
-      "category": "technology",
-      "feed_url": "https://www.cnet.com/rss/news/",
-      "feed_icon": "https://www.cnet.com/wp-content/uploads/sites/2/cropped-favicon-480.png?w=32"
-    },
-    {
-      "id": "01KYJ20D5XZ2QCM7QY1ZQYFBAA",
-      "title": "The Nintendo Switch 2 Is Actually on Sale Ahead of Black Friday",
-      "published": "2026-11-09T20:30:00+00:00",
-      "author": "Daniel Oropeza",
-      "description": "Woot is selling the Nintendo Switch 2 Mario Kart World Bundle for $469.",
-      "link": "https://lifehacker.com/tech/nintendo-switch-2-sale-early-black-friday-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01KYJ20D5XZ2QCM7QY1ZQYFBAA/hero-image.jpg",
-      "feed_name": "Lifehacker",
-      "feed_title": "Lifehacker",
-      "category": "technology",
-      "feed_url": "https://lifehacker.com/rss",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=lifehacker.com&sz=64"
-    },
-    {
-      "id": "https://slashdot.org/story/26/11/09/2018231/anthropic-launches-new-claude-fable-and-mythos-52-models?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "title": "Anthropic Launches New Claude Fable and Mythos 5.2 Models",
-      "published": "2026-11-09T20:20:00+00:00",
-      "author": "BeauHD",
-      "description": "Anthropic has released Claude Mythos 5.2 and Fable 5.2 with \"improvements in areas like coding, reasoning, and vision,\" while cutting Fable's input price and claiming 30% faster responses. TechCrunch reports: It's Anthropic's first model release since the arrival of a third-party report from the assessment group METR, which suggested the lab might be approaching recursive self-improvement (RSI) -- or the ability for AI models to carry on model training independently. The METR report found inter…",
-      "link": "https://slashdot.org/story/26/11/09/2018231/anthropic-launches-new-claude-fable-and-mythos-52-models?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-      "feed_name": "Slashdot",
-      "feed_title": "Slashdot",
-      "category": "technology",
-      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
     }
   ]
 }
