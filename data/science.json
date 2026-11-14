@@ -1,6 +1,6 @@
 {
   "category": "science",
-  "updated": "2026-11-14T01:33:43.566476+00:00",
+  "updated": "2026-11-14T02:02:56.643809+00:00",
   "count": 1000,
   "summary": null,
   "items": [
@@ -73,6 +73,20 @@
       "category": "science",
       "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://www.scientificamerican.com/article/faa-grounds-all-u-s-flights-days-after-expanding-its-ai-air-traffic-system/",
+      "title": "FAA grounds all U.S. flights days after expanding its AI air traffic system",
+      "published": "2026-11-14T00:00:00+00:00",
+      "author": null,
+      "description": "National ground stops of this kind are exceedingly rare",
+      "link": "https://www.scientificamerican.com/article/faa-grounds-all-u-s-flights-days-after-expanding-its-ai-air-traffic-system/",
+      "image": "https://static.scientificamerican.com/dam/asset/abf2dcaa-174d-4a49-941e-1e2b4a7c3e47/air-traffic-ground-stop.jpg?m=1794614694.358&w=1200",
+      "feed_name": "Scientific American Content: Global",
+      "feed_title": "Scientific American Content: Global",
+      "category": "science",
+      "feed_url": "http://rss.sciam.com/ScientificAmerican-Global",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.scientificamerican.com&sz=64"
     },
     {
       "id": "https://www.nytimes.com/2026/11/13/science/spacex-launch-starship-rocket-catch.html",
@@ -13984,20 +13998,6 @@
       "description": "In the theoretical study of proton-nucleus collisions, the colliding projectiles can be described as streams of color charges moving along their respective trajectories. These color charges couple to gluons, which then produce the particles that are observed in the final state (gluons and quarks, which eventually produce hadrons).",
       "link": "https://phys.org/news/2026-11-route-gluon-production-protonnucleus-collisions.html",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/gluon-production-in-pr.jpg",
-      "feed_name": "Phys.org - latest science and technology news stories",
-      "feed_title": "Phys.org - latest science and technology news stories",
-      "category": "science",
-      "feed_url": "https://phys.org/rss-feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "news713035081",
-      "title": "Earth atmosphere emulators could enable faster and more accurate weather predictions",
-      "published": "2026-11-05T01:00:01+00:00",
-      "author": null,
-      "description": "If you partitioned the entire Earth, from just below the surface to the top of the atmosphere, into 1-kilometer-square chunks, there would be billions of them. Now run each of those cells through a series of complex physics equations, and you can see how the entire Earth system interacts and evolves in detail, one step at a time.",
-      "link": "https://phys.org/news/2026-11-earth-atmosphere-emulators-enable-faster.html",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/llnl-researchers-emula.jpg",
       "feed_name": "Phys.org - latest science and technology news stories",
       "feed_title": "Phys.org - latest science and technology news stories",
       "category": "science",
