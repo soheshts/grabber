@@ -1,9 +1,37 @@
 {
   "category": "World News",
-  "updated": "2026-11-14T09:03:06.804402+00:00",
+  "updated": "2026-11-14T09:33:37.015610+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "108551562",
+      "title": "U.S. flights resume after FAA ground stop, but travel chaos continues",
+      "published": "2026-11-14T09:26:23+00:00",
+      "author": null,
+      "description": "U.S. flights are resuming after the FAA ground stop, but delays and cancellations are still piling up.",
+      "link": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108551467-1794607964689-IMG_0076.jpg?v=1794609835&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "t3_1xvxyay",
+      "title": "Russia demands that NATO return to its 1997 borders and stop supporting Ukraine",
+      "published": "2026-11-14T09:07:12+00:00",
+      "author": "/u/Neptun_11",
+      "description": "submitted by /u/Neptun_11 [link] [comments]",
+      "link": "https://www.reddit.com/r/worldnews/comments/1xvxyay/russia_demands_that_nato_return_to_its_1997/",
+      "image": "https://external-preview.redd.it/CktwNHIS5bgVH6oAdSTRd_AoRNwk4rlwQLb97dLMPLQ.jpeg?width=640&crop=smart&auto=webp&s=d1299770574ef17a6db5cb504b1a4019da8b49df",
+      "feed_name": "World News",
+      "feed_title": "World News",
+      "category": "World News",
+      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
+      "feed_icon": "https://www.redditstatic.com/icon.png/"
+    },
     {
       "id": "https://www.ndtv.com/opinion/opinion-nvidias-jensen-huangs-rise-fall-and-americas-silicon-achilles-heel-12325875#publisher=newsstand",
       "title": "Opinion: Opinion: Jensen Huang's Rise, Fall And America's Silicon Achilles' Heel",
@@ -13975,34 +14003,6 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ck78p827y642o#1",
-      "title": "Arrests made after visit from former US President Biden",
-      "published": "2026-11-10T18:07:56+00:00",
-      "author": null,
-      "description": "Joe Biden was in Dublin to see his son Hunter awarded the Gold Medal for Outstanding Contribution for Public Discourse",
-      "link": "https://www.bbc.co.uk/news/articles/ck78p827y642o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce84/live/f1e32540-dd30-11f1-ab46-9fae224bbf6f.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o#0",
-      "title": "Anti-homosexuality laws in Trinidad and Tobago overturned",
-      "published": "2026-11-10T18:04:18+00:00",
-      "author": null,
-      "description": "The ruling brings to an end an 11-year legal battle by dual-citizen Jason Jones.",
-      "link": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d932/live/81424720-dd2c-11f1-ab46-9fae224bbf6f.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     }
   ]
 }
