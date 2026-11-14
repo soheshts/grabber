@@ -1,9 +1,51 @@
 {
   "category": "DIY",
-  "updated": "2026-11-14T12:03:05.678998+00:00",
+  "updated": "2026-11-14T12:33:38.049328+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/pixel-galaxy-phones-display-color-setting/",
+      "title": "The colors weren’t right on my Pixel and Galaxy phones until I tweaked this display setting",
+      "published": "2026-11-14T12:30:16+00:00",
+      "author": "Brady Snyder",
+      "description": "The displays don't appear how they should out of the box.",
+      "link": "https://www.makeuseof.com/pixel-galaxy-phones-display-color-setting/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/01/android-settings-change-3.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/get-25g-network-card-for-less-than-100-but-dont-expect-an-rj45-port/",
+      "title": "You can get a 25G network card for less than $100, but don’t expect an RJ45 port",
+      "published": "2026-11-14T12:30:15+00:00",
+      "author": "Goran Damnjanovic",
+      "description": "Ultra-fast Ethernet, but with a number of caveats.",
+      "link": "https://www.howtogeek.com/get-25g-network-card-for-less-than-100-but-dont-expect-an-rj45-port/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/11/a-dual-port-intel-x520-da2-network-card-with-a-white-heatsink-and-two-sfp-ports-held-in-front-of-a-server-chassis-1.png",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://hackaday.com/?p=1398616",
+      "title": "Reverse Engineering Score Perfect to Rescue its Files",
+      "published": "2026-11-14T12:00:47+00:00",
+      "author": "Aaron Beckendorf",
+      "description": "There are myriad challenges associated with data preservation – bit rot, loss of metadata, and hardware failures, among others – but one of the hardest is making sure that the …read more",
+      "link": "https://hackaday.com/2026/11/14/reverse-engineering-score-perfect-to-rescue-its-files/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/score_perfect.png",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/7-zip-has-some-serious-competition-and-its-not-winrar/",
       "title": "7-Zip has some serious competition, and it’s not WinRAR",
@@ -13961,48 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.makeuseof.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/microsoft-excel-sort-function/",
-      "title": "How to use the SORT function in Excel",
-      "published": "2026-10-31T14:31:15+00:00",
-      "author": "Tony Phillips",
-      "description": "SORT makes it easy to organize Excel data, combine dynamic array functions, and build flexible reports that update automatically.",
-      "link": "https://www.howtogeek.com/microsoft-excel-sort-function/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/excel-take-sort-formula-monitor-display.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/linux-distros-replace-windows/",
-      "title": "5 Linux distros that give you a reason to leave Windows",
-      "published": "2026-10-31T14:01:16+00:00",
-      "author": "Tashreef Shareef",
-      "description": "Distros that beat Windows at its own game.",
-      "link": "https://www.makeuseof.com/linux-distros-replace-windows/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/09/stood-up-surface-pro-6-with-ultramarine-linux.jpeg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/companies-embraced-3d-printing-releasing-models-free/",
-      "title": "7 companies that have embraced 3D printing by releasing models for free",
-      "published": "2026-10-31T14:01:15+00:00",
-      "author": "Tim Brookes",
-      "description": "References and printable accessories for 3D printer owners.",
-      "link": "https://www.howtogeek.com/companies-embraced-3d-printing-releasing-models-free/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/10/teenage-engineering-op-1.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
     }
   ]
 }
