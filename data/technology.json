@@ -1,9 +1,37 @@
 {
   "category": "technology",
-  "updated": "2026-11-14T12:33:38.049328+00:00",
+  "updated": "2026-11-14T13:02:54.614766+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.theverge.com/?p=1033761",
+      "title": "A gadget to make your dumb house smarter",
+      "published": "2026-11-14T13:00:00+00:00",
+      "author": "David Pierce",
+      "description": "Hi, friends! Welcome to Installer No. 152, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, thank you for taking time away from Zelda to be here, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about school apps […]",
+      "link": "https://www.theverge.com/tech/1033761/home-assistant-tk-tripod-tabletop-installer",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Installer-152.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "feed_name": "The Verge -  All Posts",
+      "feed_title": "The Verge",
+      "category": "technology",
+      "feed_url": "https://www.theverge.com/rss/index.xml",
+      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
+    },
+    {
+      "id": "TheNextWeb=8ef0dfc12f28cef92bdaf85f03ad21a2",
+      "title": "SpaceX aborts Starship booster catch, but the ship is still in orbit",
+      "published": "2026-11-14T12:34:17+00:00",
+      "author": "Darius Popa",
+      "description": "SpaceX launched Starship on its 15th test flight on Friday, but called off its first attempt to catch both stages of the rocket. The Super Heavy booster aborted its return to the launch tower and came down in the Gulf of Mexico instead. The upper stage, Ship 42, reached orbit and released 26 Starlink satellites, Spaceflight […] This story continues at The Next Web",
+      "link": "https://thenextweb.com/news/spacex-starship-flight-15-booster-catch-aborted",
+      "image": "https://media.thenextweb.com/2026/06/ftc-clears-musk-acquire-mesh-optical-spacex-data-centers.avif",
+      "feed_name": "The Next Web",
+      "feed_title": "The Next Web",
+      "category": "technology",
+      "feed_url": "https://thenextweb.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
     {
       "id": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/",
       "title": "James Webb telescope finds ice older than the star it orbits",
@@ -13975,34 +14003,6 @@
       "category": "technology",
       "feed_url": "http://feeds.mashable.com/Mashable",
       "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
-    },
-    {
-      "id": "https://www.theverge.com/?p=1029802",
-      "title": "Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
-      "published": "2026-11-09T15:50:38+00:00",
-      "author": "Stevie Bonifield",
-      "description": "Asked about AI executives' warnings about their models' safety on 60 Minutes, Trump said, \"I think that the risk is not nearly as real as it- as they talk, and I think the risk can be managed, and it's managed.\" He claimed the DOJ is managing that risk, saying, \"We had a situation where somebody […]",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2296464785.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "feed_name": "The Verge -  All Posts",
-      "feed_title": "The Verge",
-      "category": "technology",
-      "feed_url": "https://www.theverge.com/rss/index.xml",
-      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
-    },
-    {
-      "id": "TheNextWeb=02aa61dc36076ef11cec47f5024c471c",
-      "title": "Skyways starts building Skyreach, a cargo drone that flies 1,300 miles",
-      "published": "2026-11-09T15:49:14+00:00",
-      "author": "Darius Popa",
-      "description": "Skyways has started production of Skyreach, an autonomous cargo drone that takes off vertically, with customer flights from December. It can fly over 1,300 miles with 10 pounds of cargo. It builds on a $37M US Air Force contract. Austin-based Skyways has launched Skyreach, an autonomous cargo drone that takes off and lands vertically, and […] This story continues at The Next Web",
-      "link": "https://thenextweb.com/news/skyways-skyreach-autonomous-cargo-drone-production",
-      "image": "https://media.thenextweb.com/2026/11/skyways-skyreach-autonomous-cargo-drone-render.avif",
-      "feed_name": "The Next Web",
-      "feed_title": "The Next Web",
-      "category": "technology",
-      "feed_url": "https://thenextweb.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
     }
   ]
 }

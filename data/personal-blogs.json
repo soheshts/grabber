@@ -1,9 +1,37 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-14T12:33:38.049328+00:00",
-  "count": 440,
+  "updated": "2026-11-14T13:02:54.614766+00:00",
+  "count": 442,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.bennadel.com/blog/4928-tls-1-2-connection-failure-using-commandbox-adobe-coldfusion-and-cfhttp.htm",
+      "title": "TLS 1.2 Connection Failure Using CommandBox, Adobe ColdFusion, And CFHTTP",
+      "published": "2026-11-14T17:34:11+00:00",
+      "author": null,
+      "description": "Ben Nadel looks at enabling TLS 1.2 handshakes for the CFHttp tag running on CommandBox and Adobe ColdFusion....",
+      "link": "https://www.bennadel.com/blog/4928-tls-1-2-connection-failure-using-commandbox-adobe-coldfusion-and-cfhttp.htm",
+      "image": "https://bennadel-cdn.com/images/blog/fallback-unfurling.jpg",
+      "feed_name": "Ben Nadel",
+      "feed_title": "Ben Nadel's Web Development and User Experience Feed @ BenNadel.com",
+      "category": "personal blogs",
+      "feed_url": "http://www.bennadel.com/index.cfm?dax=blog.rss&lst_tag_id=14,16,3,5,9,6,7,13,18,20,10,15",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.bennadel.com&sz=64"
+    },
+    {
+      "id": "https://shkspr.mobi/blog/?p=77300",
+      "title": "Theatre Review: FrankenTacit ★★☆☆☆",
+      "published": "2026-11-14T12:34:35+00:00",
+      "author": "Terence Eden",
+      "description": "Is Frankenstein the first cautionary tale about AI? If so, what does it mean to re-imagine it through the lens of Korean algorave music? The Seoul-based Tacit Group have crafted a new version of an ancient tale. Against a projected backdrop of procedurally generated imagery, a single human performer is joined by two AIs - together they create an unusual sonic experience built live on stage. The …",
+      "link": "https://shkspr.mobi/blog/2026/11/theatre-review-frankentacit/",
+      "image": "https://shkspr.mobi/blog/wp-content/uploads/2026/11/franken.avif",
+      "feed_name": "Terence Eden’s Blog",
+      "feed_title": "Terence Eden’s Blog",
+      "category": "personal blogs",
+      "feed_url": "https://shkspr.mobi/blog/feed/atom/",
+      "feed_icon": "https://shkspr.mobi/blog/wp-content/uploads/2023/07/cropped-avatar-32x32.jpeg"
+    },
     {
       "id": "https://rknight.me/blog/weeknotes-2026/",
       "title": "Weeknotes #2026",
