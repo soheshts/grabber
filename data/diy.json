@@ -1,6 +1,6 @@
 {
   "category": "DIY",
-  "updated": "2026-11-14T00:02:57.269131+00:00",
+  "updated": "2026-11-14T00:32:39.602669+00:00",
   "count": 1000,
   "summary": null,
   "items": [
@@ -17,6 +17,20 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://hackaday.com/?p=1425345",
+      "title": "X Window System on the ESP32",
+      "published": "2026-11-14T00:00:18+00:00",
+      "author": "Tyler August",
+      "description": "There are a lot of things you can do with an Xserver, but run it on a microcontroller? Well, if that microcontroller is an ESP32-S3, [Sergey Zorin]– and Claude– have …read more",
+      "link": "https://hackaday.com/2026/11/13/x-window-system-on-the-esp32/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/WoodlandX11_d196a1.jpg",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
     },
     {
       "id": "https://www.howtogeek.com/save-33-on-the-ember-mug-3-and-stop-drinking-lukewarm-coffee/",
@@ -13989,20 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://hackaday.com/blog/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/usb-c-monitor-ended-up-upgrading-everything/",
-      "title": "This $124 USB-C monitor turned my phone, gaming handheld, and iPad into something new",
-      "published": "2026-10-31T11:00:17+00:00",
-      "author": "Brandon Miniman",
-      "description": "My cheap USB-C monitor does a lot.",
-      "link": "https://www.makeuseof.com/usb-c-monitor-ended-up-upgrading-everything/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/feat-8.jpeg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }

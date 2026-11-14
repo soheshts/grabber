@@ -1,9 +1,51 @@
 {
   "category": "World News",
-  "updated": "2026-11-14T00:02:57.269131+00:00",
+  "updated": "2026-11-14T00:32:39.602669+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/live/2026/11/13/us/ground-stop-nationwide-flights-faa/nationwide-ground-stop-flights-faa",
+      "title": "Here’s the latest.",
+      "published": "2026-11-14T00:20:11+00:00",
+      "author": "Karoun Demirjian",
+      "description": "Trump administration officials blamed a telecommunication outage but said they said did not know its cause.",
+      "link": "https://www.nytimes.com/live/2026/11/13/us/ground-stop-nationwide-flights-faa/nationwide-ground-stop-flights-faa",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/us-flight-shutdown-live-updates-flights-halted-at-airports-across-us-due-to-air-traffic-control-communications-problems-12324589#publisher=newsstand",
+      "title": "US Flight Shutdown Live Updates: Homeland Secretary Says No Indication Of Cyberattack",
+      "published": "2026-11-14T00:12:44+00:00",
+      "author": null,
+      "description": "US Department of Homeland Security dismissed a possible cyberattack.",
+      "link": "https://www.ndtv.com/world-news/us-flight-shutdown-live-updates-flights-halted-at-airports-across-us-due-to-air-traffic-control-communications-problems-12324589#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2025-11/ffhorqeg_us-flights-cancelled-_625x300_08_November_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/tanker-collides-with-cruise-ship-on-mississippi-river-in-us-rescue-ops-on-12324453#publisher=newsstand",
+      "title": "Tanker Collides With Cruise Ship On Mississippi River In US, All 180 Rescued",
+      "published": "2026-11-14T00:05:09+00:00",
+      "author": null,
+      "description": "The cruise ship is operated by American Cruise Lines.",
+      "link": "https://www.ndtv.com/world-news/tanker-collides-with-cruise-ship-on-mississippi-river-in-us-rescue-ops-on-12324453#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-11/tpcp0hg_tanker-collides-with-ship-_625x300_14_November_26.jpeg",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo#0",
       "title": "Setback for SpaceX Starship rocket's double-catch test",
@@ -47,6 +89,34 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
+      "id": "https://www.ndtv.com/world-news/donald-trump-xi-jinping-vladimir-putin-to-meet-next-week-at-apec-summit-in-china-12324669#publisher=newsstand",
+      "title": "Trump, Xi Jinping, Putin To Meet Next Week At APEC Summit In China",
+      "published": "2026-11-13T23:53:29+00:00",
+      "author": null,
+      "description": "US President Donald Trump, Vladimir Putin and Xi Jinping will hold a rare three-way meeting next week.",
+      "link": "https://www.ndtv.com/world-news/donald-trump-xi-jinping-vladimir-putin-to-meet-next-week-at-apec-summit-in-china-12324669#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-11/ts9rkno8_trump-putin-xi_625x300_14_November_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
+      "id": "t3_1xvnlhp",
+      "title": "Mexico's Sheinbaum says migrant caravan not moving toward US now as Trump threatens tariffs",
+      "published": "2026-11-13T23:48:41+00:00",
+      "author": "/u/colepercy120",
+      "description": "submitted by /u/colepercy120 [link] [comments]",
+      "link": "https://www.reddit.com/r/worldnews/comments/1xvnlhp/mexicos_sheinbaum_says_migrant_caravan_not_moving/",
+      "image": null,
+      "feed_name": "World News",
+      "feed_title": "World News",
+      "category": "World News",
+      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
+      "feed_icon": "https://www.redditstatic.com/icon.png/"
+    },
+    {
       "id": "108549585",
       "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker",
       "published": "2026-11-13T23:42:18+00:00",
@@ -61,6 +131,20 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo#0",
+      "title": "'Miracle on Mississippi' - All rescued after cruise ship hit by tanker in New Orleans",
+      "published": "2026-11-13T23:40:45+00:00",
+      "author": null,
+      "description": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+      "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a5e/live/65a2f270-dfad-11f1-be1f-9dae57fabf82.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
       "id": "https://timesofindia.indiatimes.com/world/us/two-brothers-in-texas-have-been-convicted-for-a-240-million-cattle-investment-scheme-that-defrauded-more-than-2200-people-prosecutors-say-that-investors-money-also-paid-for-a-1-5-million-luxury-home-in-kansas/articleshow/135771740.cms",
       "title": "Texas brothers convicted in $240 million cattle investment fraud targeting 2,200 investors",
       "published": "2026-11-13T23:30:00+00:00",
@@ -73,34 +157,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.nytimes.com/live/2026/11/13/us/ground-stop-nationwide-flights-faa/nationwide-ground-stop-flights-faa",
-      "title": "Here’s the latest.",
-      "published": "2026-11-13T23:29:12+00:00",
-      "author": "Karoun Demirjian",
-      "description": "Trump administration officials blamed a telecommunication outage but said they said did not know its cause.",
-      "link": "https://www.nytimes.com/live/2026/11/13/us/ground-stop-nationwide-flights-faa/nationwide-ground-stop-flights-faa",
-      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/us-flight-shutdown-live-updates-flights-halted-at-airports-across-us-due-to-air-traffic-control-communications-problems-12324589#publisher=newsstand",
-      "title": "US Flight Shutdown Live Updates: US Grounds All Departing Flights, 2nd Such Move Since 9/11",
-      "published": "2026-11-13T23:27:31+00:00",
-      "author": null,
-      "description": "US Department of Homeland Security dismissed a possible cyberattack.",
-      "link": "https://www.ndtv.com/world-news/us-flight-shutdown-live-updates-flights-halted-at-airports-across-us-due-to-air-traffic-control-communications-problems-12324589#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2025-11/ffhorqeg_us-flights-cancelled-_625x300_08_November_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
       "id": "https://www.nytimes.com/2026/11/13/world/americas/74-year-old-in-argentina-escapes-house-arrest.html",
@@ -507,20 +563,6 @@
       "category": "World News",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/tanker-collides-with-cruise-ship-on-mississippi-river-in-us-rescue-ops-on-12324453#publisher=newsstand",
-      "title": "Tanker Collides With Cruise Ship On Mississippi River In US, Rescue Ops On",
-      "published": "2026-11-13T20:52:18+00:00",
-      "author": null,
-      "description": "The cruise ship is operated by American Cruise Lines.",
-      "link": "https://www.ndtv.com/world-news/tanker-collides-with-cruise-ship-on-mississippi-river-in-us-rescue-ops-on-12324453#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-11/tpcp0hg_tanker-collides-with-ship-_625x300_14_November_26.jpeg",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
       "id": "t3_1xvjd2k",
@@ -13961,48 +14003,6 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "108547133",
-      "title": "Jensen Huang's affair with alleged Chinese spy further complicates Nvidia’s China problem",
-      "published": "2026-11-10T15:04:23+00:00",
-      "author": null,
-      "description": "The allegations against Jensen Huang have brought new attention to the Nvidia CEO's potential influence over U.S. policy on chip sales to China.",
-      "link": "https://www.cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108307554-1778848271041-gettyimages-2276128441-aw1a5603_jhud8umq.jpeg?v=1778848286&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "108547172",
-      "title": "CoreWeave earnings put debt-fueled AI build-out under scrutiny",
-      "published": "2026-11-10T15:01:21+00:00",
-      "author": null,
-      "description": "CoreWeave’s earnings after the bell could calm fears about its debt-fueled AI buildout — or stoke more fear.",
-      "link": "https://www.cnbc.com/2026/11/10/coreweave-earnings-preview-debt-capex.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108452736-1792781361470-gettyimages-2245498698-raa-coreweav251110_nptXv.jpeg?v=1792781400&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/us/when-her-husband-died-of-covid-an-omaha-mother-of-10-was-told-his-350000-life-insurance-would-not-pay-out-she-took-the-insurer-to-court-twice-and-a-jury-has-now-awarded-her-family-11-3-million/articleshow/135713208.cms",
-      "title": "Omaha mother wins $11.3M after insurer refuses late husband's $350K life insurance claim",
-      "published": "2026-11-10T15:00:58+00:00",
-      "author": "TOI World Desk",
-      "description": "In a landmark decision, a Nebraska jury has awarded Vaneza Ramos $11.3 million in damages after a lengthy legal struggle spanning six years. This case emerged when Farmers New World Life Insurance denied her claim following the tragic loss of her husband, Jose Gaitan, to COVID-19. With ten children to support, Ramos depended on the life insurance policy that the jury ruled Farmers Insurance improperly refused, illustrating their bad faith.",
-      "link": "https://timesofindia.indiatimes.com/world/us/when-her-husband-died-of-covid-an-omaha-mother-of-10-was-told-his-350000-life-insurance-would-not-pay-out-she-took-the-insurer-to-court-twice-and-a-jury-has-now-awarded-her-family-11-3-million/articleshow/135713208.cms",
-      "image": "https://static.toiimg.com/photo/msid-135714241,imgsize-581815.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     }
   ]
 }
