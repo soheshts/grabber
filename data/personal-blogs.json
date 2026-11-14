@@ -1,9 +1,23 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-14T18:03:19.660460+00:00",
-  "count": 443,
+  "updated": "2026-11-14T18:32:44.688907+00:00",
+  "count": 444,
   "summary": null,
   "items": [
+    {
+      "id": "https://robinrendle.com/notes/the-notebook/",
+      "title": "The Notebook",
+      "published": "2026-11-14T18:00:27+00:00",
+      "author": "Robin Rendle (robinjrendle@gmail.com.com)",
+      "description": "A box stacked to the brim with old journals arrived at my door a couple of weeks ago, having made its way across an ocean and dozens of state lines despite its contents being so radioactively embarrassing that it ought to be considered an international security risk. But embarrassing in a sort of cute way? Because every page of these journals from the early 2010s are adorned with scribbles of songs, movie quotes, and desperate love letter-shaped things. There’s essential notes in here though, l…",
+      "link": "https://robinrendle.com/notes/the-notebook/",
+      "image": null,
+      "feed_name": "Robin Rendle",
+      "feed_title": "Robin Rendle",
+      "category": "personal blogs",
+      "feed_url": "https://robinrendle.com/feed.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=robinrendle.com&sz=64"
+    },
     {
       "id": "https://www.raymondcamden.com/2026/11/14/a-quick-demo-of-geminis-decisions-api",
       "title": "A Quick Demo of Gemini's Decisions API",

@@ -1,9 +1,37 @@
 {
   "category": "technology",
-  "updated": "2026-11-14T18:03:19.660460+00:00",
+  "updated": "2026-11-14T18:32:44.688907+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.engadget.com/2311854/what-is-npu-why-many-laptops-have-them/",
+      "title": "What does an NPU do and why do so many laptops have them?",
+      "published": "2026-11-14T18:00:00+00:00",
+      "author": "Luke James",
+      "description": "Wondering what an NPU actually does and whether you even need it? We've got you covered.",
+      "link": "https://www.engadget.com/2311854/what-is-npu-why-many-laptops-have-them/",
+      "image": "https://www.engadget.com/img/gallery/what-does-an-npu-do-and-why-do-so-many-laptops-have-them/l-intro-1794310250.jpg",
+      "feed_name": "Engadget",
+      "feed_title": "Engadget - Technology News & Expert Reviews",
+      "category": "technology",
+      "feed_url": "https://www.engadget.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
+    {
+      "id": "https://yro.slashdot.org/story/26/11/14/125229/was-americas-nationwide-grounding-of-aircraft-caused-by-its-new-ai-system?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "title": "Was America's Nationwide Grounding of Aircraft Caused By Its New AI System?",
+      "published": "2026-11-14T18:00:00+00:00",
+      "author": "EditorDavid",
+      "description": "America's nationwide grounding of flights on Friday happened \"amid growing scrutiny... of a new AI-powered air traffic management system\" deployed by America's Federal Aviation Administration, reports Texas news station KXAN. Ironically, the system is called SMART — but the outage happened \"following warnings\" from members of the U.S. Congress about this new AI system's safety, reliability and oversight: In an Oct. 13 letter to the Government Accountability Office, more than 20 members of Congr…",
+      "link": "https://yro.slashdot.org/story/26/11/14/125229/was-americas-nationwide-grounding-of-aircraft-caused-by-its-new-ai-system?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+      "feed_name": "Slashdot",
+      "feed_title": "Slashdot",
+      "category": "technology",
+      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
+    },
     {
       "id": "https://www.engadget.com/2311851/how-to-check-apple-watch-battery-health/",
       "title": "Checking your Apple Watch's battery health is easier than you think",
@@ -13975,34 +14003,6 @@
       "category": "technology",
       "feed_url": "http://feeds.mashable.com/Mashable",
       "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
-    },
-    {
-      "id": "5123307",
-      "title": "Vitamix Goes Portable: Meet Ion, the Brand’s First Cordless Blender",
-      "published": "2026-11-09T18:27:10+00:00",
-      "author": "Anna Gragert",
-      "description": "The cordless Vitamix Ion can be used anywhere.",
-      "link": "https://www.cnet.com/home/kitchen-and-household/vitamix-portable-ion-first-cordless-blender/",
-      "image": "https://www.cnet.com/wp-content/uploads/sites/2/Vitamix-Ion-1.jpeg",
-      "feed_name": "CNET News",
-      "feed_title": "News – CNET",
-      "category": "technology",
-      "feed_url": "https://www.cnet.com/rss/news/",
-      "feed_icon": "https://www.cnet.com/wp-content/uploads/sites/2/cropped-favicon-480.png?w=32"
-    },
-    {
-      "id": "TheNextWeb=0e098a92252f6708b918be9f7214b8c0",
-      "title": "Nominal raises $240M at $3B, tripling its value since March",
-      "published": "2026-11-09T18:26:02+00:00",
-      "author": "Cristian Dina",
-      "description": "Nominal, whose software helps engineers test and analyse hardware such as aircraft, satellites and robots, has raised $240M in a Series C round at a $3B valuation. Lightspeed Venture Partners led the round and Insight Partners co-led it, Nominal announced on Monday. That is triple its valuation in March. Back then, Nominal raised $80M at […] This story continues at The Next Web",
-      "link": "https://thenextweb.com/news/nominal-series-c-240m-3b-valuation-hardware-ai",
-      "image": "https://media.thenextweb.com/2026/11/nominal-cofounders-hoch-mccord-strauss-ivy-wall.avif",
-      "feed_name": "The Next Web",
-      "feed_title": "The Next Web",
-      "category": "technology",
-      "feed_url": "https://thenextweb.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
     }
   ]
 }
