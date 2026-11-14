@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-14T10:33:00.571597+00:00",
+  "updated": "2026-11-14T11:03:51.693378+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.howtogeek.com/things-always-buy-never-3d-print/",
+      "title": "6 things you should always buy and never 3D print",
+      "published": "2026-11-14T11:00:15+00:00",
+      "author": "Tim Brookes",
+      "description": "Not every problem needs a 3D-printed solution.",
+      "link": "https://www.howtogeek.com/things-always-buy-never-3d-print/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/08/abus-modrop-mips-bike-helmet.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/fix-windows-11-budget-laptop-stuttering/",
       "title": "Three Windows 11 changes made my budget laptop stop stuttering",
@@ -13989,20 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/this-is-how-you-uninstall-apps-that-windows-settings-wont-let-you/",
-      "title": "This is how you uninstall apps that Windows Settings won't let you",
-      "published": "2026-10-31T13:16:17+00:00",
-      "author": "Shaheer Khan",
-      "description": "Stuck apps Windows Settings won't remove? Try these 3 workarounds",
-      "link": "https://www.makeuseof.com/this-is-how-you-uninstall-apps-that-windows-settings-wont-let-you/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/windows-11-settings-panel-uninstall-option-on-laptop-screen.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }

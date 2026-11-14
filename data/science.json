@@ -1,9 +1,23 @@
 {
   "category": "science",
-  "updated": "2026-11-14T10:33:00.571597+00:00",
+  "updated": "2026-11-14T11:03:51.693378+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "6af4abdf9181a13e281c83e7",
+      "title": "Floods Force Gaza to Choose Between Clean Water and Pumping Out Sewage",
+      "published": "2026-11-14T10:30:00+00:00",
+      "author": "Isra Namey",
+      "description": "As Israeli restrictions limit repairs in Gaza, fuel is being diverted from wells to drainage pumps.",
+      "link": "https://www.wired.com/story/gaza-floods-are-forcing-a-choice-between-pumping-out-sewage-and-pumping-in-water/",
+      "image": "https://media.wired.com/photos/6af4abdffbe5af43ea5def11/master/pass/GazaFlood_01.jpg",
+      "feed_name": "Science Latest",
+      "feed_title": "Science Latest",
+      "category": "science",
+      "feed_url": "https://www.wired.com/feed/category/science/latest/rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.wired.com&sz=64"
+    },
     {
       "id": "6af205c40bb5b05adabf4ddb",
       "title": "These ‘Ghostly’ Galaxies Have Lost Their Dark Matter",
@@ -13989,20 +14003,6 @@
       "category": "science",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "news713010907",
-      "title": "Fractal patterns reveal hidden limits to AI predictability",
-      "published": "2026-11-05T10:00:04+00:00",
-      "author": null,
-      "description": "Researchers at the University of Sydney have identified a fundamental mathematical reason why artificial intelligence systems can learn different behaviors even when trained under almost identical conditions, a discovery that could help improve the reliability and trustworthiness of AI technologies.",
-      "link": "https://phys.org/news/2026-11-fractal-patterns-reveal-hidden-limits.html",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/sydney-researchers-unc.jpg",
-      "feed_name": "Phys.org - latest science and technology news stories",
-      "feed_title": "Phys.org - latest science and technology news stories",
-      "category": "science",
-      "feed_url": "https://phys.org/rss-feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
     }
   ]
 }
