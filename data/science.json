@@ -1,9 +1,23 @@
 {
   "category": "science",
-  "updated": "2026-11-15T20:02:52.784152+00:00",
+  "updated": "2026-11-15T20:32:20.865673+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/live/2026/11/14/science/spacex-starship-launch",
+      "title": "Highlights From the Starship Landing",
+      "published": "2026-11-15T20:03:41+00:00",
+      "author": "The New York Times",
+      "description": "The Starship spacecraft safely landed back at the Starbase launch facility, a major step in SpaceX’s quest to build fully reusable rockets.",
+      "link": "https://www.nytimes.com/live/2026/11/14/science/spacex-starship-launch",
+      "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14starship-launch-header-cfqw/14starship-launch-header-cfqw-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Science",
+      "feed_title": "NYT > Science",
+      "category": "science",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "news713712392",
       "title": "Dark matter–hunting satellite Euclid reveals record number of cosmic 'magnifying glasses'",
@@ -17,20 +31,6 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "https://www.nytimes.com/live/2026/11/14/science/spacex-starship-launch",
-      "title": "Highlights From the Starship Landing",
-      "published": "2026-11-15T19:05:41+00:00",
-      "author": "The New York Times",
-      "description": "The Starship spacecraft safely landed back at the Starbase launch facility, a major step in SpaceX’s quest to build fully reusable rockets.",
-      "link": "https://www.nytimes.com/live/2026/11/14/science/spacex-starship-launch",
-      "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14starship-launch-header-cfqw/14starship-launch-header-cfqw-mediumSquareAt3X.jpg",
-      "feed_name": "NYT > Science",
-      "feed_title": "NYT > Science",
-      "category": "science",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "news713708016",
