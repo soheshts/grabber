@@ -1,9 +1,23 @@
 {
   "category": "World News",
-  "updated": "2026-11-15T21:32:40.789453+00:00",
+  "updated": "2026-11-15T22:03:53.266895+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/11/15/world/middleeast/jordan-church-attack-death-sentence.html",
+      "title": "Jordan Sentences 3 to Death Over Greek Orthodox Church Attack",
+      "published": "2026-11-15T21:33:59+00:00",
+      "author": "Ephrat Livni",
+      "description": "The Jordanian military said that the men, who were arrested after a shooting at a Greek Orthodox church last month, had been convicted of terrorism charges.",
+      "link": "https://www.nytimes.com/2026/11/15/world/middleeast/jordan-church-attack-death-sentence.html",
+      "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15int-jordan-execution-1-kwqf/15int-jordan-execution-1-kwqf-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "https://timesofindia.indiatimes.com/world/us/after-an-alabama-court-found-a-father-used-a-false-name-to-send-harassing-emails-to-his-ex-wife-she-won-sole-custody-of-their-three-children-appeals-judges-upheld-her-protection-order-but-reopened-visitation-limits/articleshow/135828799.cms",
       "title": "Alabama court upholds mother's sole custody after harassment, but orders new visitation schedule",
@@ -26,20 +40,6 @@
       "description": "It’s a setback for the Yemeni government and its ally Saudi Arabia, as analysts said the momentum in country’s civil war was tilting toward the Iran-backed Houthis.",
       "link": "https://www.nytimes.com/2026/11/15/world/middleeast/saudi-houthis-yemen-red-sea.html",
       "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15int-yemen-retreat-1-bhfc/15int-yemen-retreat-1-bhfc-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/15/world/middleeast/jordan-church-attack-death-sentence.html",
-      "title": "Jordan Sentences 3 to Death Over Greek Orthodox Church Attack",
-      "published": "2026-11-15T21:25:04+00:00",
-      "author": "Ephrat Livni",
-      "description": "The Jordanian military said that the men, who were arrested after a shooting at a Greek Orthodox church last month, had been convicted of terrorism charges.",
-      "link": "https://www.nytimes.com/2026/11/15/world/middleeast/jordan-church-attack-death-sentence.html",
-      "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15int-jordan-execution-1-kwqf/15int-jordan-execution-1-kwqf-mediumSquareAt3X.jpg",
       "feed_name": "NYT",
       "feed_title": "NYT > World News",
       "category": "World News",
@@ -115,6 +115,20 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
+      "id": "t3_1xx5r6u",
+      "title": "Ukrainian foreign minister reminds Putin of limits of negotiations",
+      "published": "2026-11-15T20:24:28+00:00",
+      "author": "/u/EnoughPrimary6700",
+      "description": "submitted by /u/EnoughPrimary6700 [link] [comments]",
+      "link": "https://www.reddit.com/r/worldnews/comments/1xx5r6u/ukrainian_foreign_minister_reminds_putin_of/",
+      "image": "https://external-preview.redd.it/0Wm-9ZRwUq3ud3GqfeJQRh8Ha3ZmOIAjdbT2HRmOPC0.jpeg?width=640&crop=smart&auto=webp&s=5fc54c31389f1b8861f7d2a3849f15e3976adfd2",
+      "feed_name": "World News",
+      "feed_title": "World News",
+      "category": "World News",
+      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
+      "feed_icon": "https://www.redditstatic.com/icon.png/"
     },
     {
       "id": "t3_1xx5oe5",
@@ -205,7 +219,7 @@
       "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
       "published": "2026-11-15T19:32:39+00:00",
       "author": null,
-      "description": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks.",
+      "description": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.",
       "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bb5/live/938b6e20-e114-11f1-a7db-d90284d21c62.jpg",
       "feed_name": "BBC News - World",
@@ -13989,20 +14003,6 @@
       "category": "World News",
       "feed_url": "https://www.theguardian.com/world/rss",
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
-    },
-    {
-      "id": "108549131",
-      "title": "Meta head of infrastructure will leave and be succeeded by former AWS cloud exec",
-      "published": "2026-11-12T00:46:08+00:00",
-      "author": null,
-      "description": "Meta's head of infrastructure and co-head of engineering Santosh Janardhan will leave in 2027, with former AWS senior vice president David Brown taking over.",
-      "link": "https://www.cnbc.com/2026/11/11/meta-infrastructure-departure-aws-cloud.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108549222-1794421836487-gettyimages-2267715551-ARM_EVERYWHERE.jpeg?v=1794421856&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     }
   ]
 }
