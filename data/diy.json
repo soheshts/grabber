@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-15T06:03:05.433575+00:00",
+  "updated": "2026-11-15T06:32:39.726569+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://hackaday.com/?p=1427980",
+      "title": "Bringing a Cloud Based Monitor Home",
+      "published": "2026-11-15T06:00:02+00:00",
+      "author": "Matt Varian",
+      "description": "When setting up to grow plants hydroponically, it’s important to keep an eye on the numbers, temperature, pH, and electrical conductivity, to name a few. To do this, [Joziti] bought …read more",
+      "link": "https://hackaday.com/2026/11/14/bringing-a-cloud-based-monitor-home/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/05-feather-installed-banner.png",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://hackaday.com/?p=1427988",
       "title": "RPN Loved Honk If (or, Write Your Own PostScript Interpreter)",
@@ -13989,20 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/amazon-has-a-hidden-about-you-page-that-knows-your-interests-how-to-find-yours/",
-      "title": "How to find the hidden Amazon page that reveals what it knows about you",
-      "published": "2026-11-01T12:31:16+00:00",
-      "author": "Jack Mitchell",
-      "description": "Amazon secretly builds a detailed shopper profile page that offers some surprisingly accurate — and some not so accurate — insights.",
-      "link": "https://www.makeuseof.com/amazon-has-a-hidden-about-you-page-that-knows-your-interests-how-to-find-yours/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/amazon-about-you-desktop.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }
