@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-15T15:02:57.681155+00:00",
-  "count": 439,
+  "updated": "2026-11-15T15:32:15.824170+00:00",
+  "count": 441,
   "summary": null,
   "items": [
     {
@@ -59,6 +59,34 @@
       "category": "personal blogs",
       "feed_url": "https://www.amitmerchant.com/feed.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.amitmerchant.com&sz=64"
+    },
+    {
+      "id": "https://hamatti.org/posts/djangonaut-log-5-traveling-amongst-the-stars/",
+      "title": "Djangonaut Log 5: Traveling amongst the stars!",
+      "published": "2026-11-15T00:00:00+00:00",
+      "author": "Juha-Matti Santala (juhis@hamatti.org)",
+      "description": "This blog post is a weekly update of my journey in Djangonaut Space , an 8-week mentoring program for future open source developers in the Django ecosystem. Series: 3… 2… 1… becoming a Djangonaut Djangonaut Log 1: Lift-off and first week in Djangonaut Space Debugging a flaky test — how I methodologically tamed an annoying bug Assumptions are sneaky Djangonaut Log 2: Leaving the atmosphere and first merged contributions Djangonaut Log 3: Into the orbit! Djangonaut Log 4: Avoiding asteroids Desig…",
+      "link": "https://hamatti.org/posts/djangonaut-log-5-traveling-amongst-the-stars/",
+      "image": "https://hamatti.org/assets/img/posts/djangonaut-log-5-traveling-amongst-the-stars/1.png.webp",
+      "feed_name": "Juha-Matti Santala - Community Builder. Dreamer. Adventurer.",
+      "feed_title": "Juha-Matti Santala - Community Builder. Dreamer. Adventurer.",
+      "category": "personal blogs",
+      "feed_url": "https://hamatti.org/feed/feed.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hamatti.org&sz=64"
+    },
+    {
+      "id": "https://meiert.com/blog/two-people/",
+      "title": "Two Underappreciated Observations About Our Exposure to Other Humans",
+      "published": "2026-11-14T23:00:00+00:00",
+      "author": null,
+      "description": "On hidden dynamics and quiet autonomy.",
+      "link": "https://meiert.com/blog/two-people/",
+      "image": "https://d3rdtowr0c5lpf.cloudfront.net/media/social.png",
+      "feed_name": "Blog (Web Development, Mostly) · Jens Oliver Meiert",
+      "feed_title": "Jens Oliver Meiert · Code Optimization, Digital Defense, World Models",
+      "category": "personal blogs",
+      "feed_url": "https://meiert.com/en/feed/",
+      "feed_icon": "https://meiert.com/media/social.png"
     },
     {
       "id": "https://robinrendle.com/notes/the-notebook/",
