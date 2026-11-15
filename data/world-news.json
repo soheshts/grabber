@@ -1,9 +1,51 @@
 {
   "category": "World News",
-  "updated": "2026-11-15T09:33:42.332271+00:00",
+  "updated": "2026-11-15T10:03:46.945199+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo#0",
+      "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+      "published": "2026-11-15T09:57:25+00:00",
+      "author": null,
+      "description": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the Pope served as bishop from 2015 to 2023.",
+      "link": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80df/live/ea970890-e09d-11f1-a298-b1f4784d44cc.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/15/world/europe/ron-arad-missing-israel-iran-asgari-hunt.html",
+      "title": "After Decades of Blood and Mistrust, Doubts Over Who’s to Blame for an Israeli Hostage",
+      "published": "2026-11-15T09:36:59+00:00",
+      "author": "Adam Goldman, Ronen Bergman, Farnaz Fassihi and Hwaida Saad",
+      "description": "Israeli spies kidnapped and killed Iranians. They were convinced that Tehran was to blame for a fallen airman. Alternative theories got little attention, until now.",
+      "link": "https://www.nytimes.com/2026/11/15/world/europe/ron-arad-missing-israel-iran-asgari-hunt.html",
+      "image": "https://static01.nyt.com/images/2026/10/06/multimedia/00int-israel-airman-jpml/00int-israel-airman-jpml-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/chinese-spy-alice-huang-left-company-in-2025-megaspeed-amid-nvidia-row-12329594#publisher=newsstand",
+      "title": "'Chinese Spy' Alice Huang Left Company In 2025: Megaspeed Amid Nvidia Row",
+      "published": "2026-11-15T09:35:55+00:00",
+      "author": null,
+      "description": "The company said it conducted \"legitimate and lawful business\".",
+      "link": "https://www.ndtv.com/world-news/chinese-spy-alice-huang-left-company-in-2025-megaspeed-amid-nvidia-row-12329594#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-11/70hpm3jc_nvidia-spy-reuters_625x300_15_November_26.jpeg",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o#0",
       "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
@@ -75,11 +117,39 @@
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
+      "id": "https://www.ndtv.com/world-news/us-iran-war-top-iran-negotiator-mohammad-bagher-ghalibaf-warns-trump-if-us-makes-another-mistake-12329505#publisher=newsstand",
+      "title": "\"If US Makes Another Mistake...\": Top Iran Negotiator Warns Trump",
+      "published": "2026-11-15T09:12:02+00:00",
+      "author": null,
+      "description": "Mohammad Bagher Ghalibaf warned the US against new strikes",
+      "link": "https://www.ndtv.com/world-news/us-iran-war-top-iran-negotiator-mohammad-bagher-ghalibaf-warns-trump-if-us-makes-another-mistake-12329505#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-11/valfhpls_mohammad-bagher-ghalibaf-donald-trump_625x300_04_November_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/chinas-22-000-pound-electric-aircraft-reaches-key-milestone-with-first-manned-flight-12329498#publisher=newsstand",
+      "title": "China's 22,000-Pound Electric Aircraft Reaches Key Milestone With First Manned Flight",
+      "published": "2026-11-15T09:00:24+00:00",
+      "author": null,
+      "description": "This milestone comes after months of uncrewed testing.",
+      "link": "https://www.ndtv.com/world-news/chinas-22-000-pound-electric-aircraft-reaches-key-milestone-with-first-manned-flight-12329498#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-11/10bkobgo_electric-aircraft_625x300_15_November_26.jpeg",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
       "id": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam",
-      "title": "AI cheating scandal rattles South Korea as annual college exam looms",
+      "title": "160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating",
       "published": "2026-11-15T08:56:11+00:00",
       "author": "Agencies",
-      "description": "Fears for national entrance exam next week, as top scorer on tax exam admits sending photos of questions to AI tool The marks attained by the top scorer ⁠on South Korea’s national exam for aspiring tax accountants this year seemed too good to be true. On Sunday, sceptics were ⁠proven right when he ⁠confessed to ​using generative AI to cheat. The scandal follows months of speculation after he scored near-perfect marks on hundreds of questions over two exams ⁠taken in April and July. It has also…",
+      "description": "Fears for national college entrance exam next week as test taker admits sending photos of questions to AI tool The marks attained by the top scorer ⁠on South Korea’s national exam for aspiring tax accountants this year seemed too good to be true. On Sunday, sceptics were ⁠proven right when he ⁠confessed to ​using generative AI to cheat. The scandal follows months of speculation after he scored near-perfect marks on hundreds of questions over two exams ⁠taken in April and July. It has also raise…",
       "link": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam",
       "image": "https://i.guim.co.uk/img/media/a5f3ffab9cd63da939e5c4cfbd21bff5a434ce93/747_0_4581_3664/master/4581.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0345763b40006ab93f3b552b4bf8de69",
       "feed_name": "The Guardian",
@@ -87,6 +157,20 @@
       "category": "World News",
       "feed_url": "https://www.theguardian.com/world/rss",
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/12-killed-16-injured-as-bus-with-gas-refinery-employees-overturns-in-iran-12329456#publisher=newsstand",
+      "title": "12 Killed, 16 Injured As Bus With Gas Refinery Employees Overturns In Iran",
+      "published": "2026-11-15T08:45:20+00:00",
+      "author": null,
+      "description": "Iran has a poor road safety record.",
+      "link": "https://www.ndtv.com/world-news/12-killed-16-injured-as-bus-with-gas-refinery-employees-overturns-in-iran-12329456#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-11/r62uq2ds_iran-accident_625x300_15_November_26.jpeg",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/us/after-their-father-died-without-a-will-in-2021-two-indiana-half-siblings-fought-over-property-in-indiana-and-california-a-november-13-appeals-court-upheld-177852-in-sanctions-against-the-brother-over-a-settlement/articleshow/135826470.cms",
@@ -173,6 +257,20 @@
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
+      "id": "https://www.ndtv.com/world-news/israel-netanyahu-calls-for-unity-government-eisenkot-says-hes-playing-tricks-12329262#publisher=newsstand",
+      "title": "Netanyahu Calls For \"Unity Government\", Eisenkot Says He's \"Playing Tricks\"",
+      "published": "2026-11-15T07:56:52+00:00",
+      "author": null,
+      "description": "Eisenkot was tapped on Sunday to form a new government within 28 days.",
+      "link": "https://www.ndtv.com/world-news/israel-netanyahu-calls-for-unity-government-eisenkot-says-hes-playing-tricks-12329262#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-11/st2jjhq4_israel-government-reuters_625x300_15_November_26.jpeg",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
       "id": "https://timesofindia.indiatimes.com/world/middle-east/12-killed-16-injured-as-bus-carrying-oil-and-gas-workers-overturns-in-iran/articleshow/135850125.cms",
       "title": "12 killed, 16 injured as bus carrying oil and gas workers overturns in Iran",
       "published": "2026-11-15T07:34:33+00:00",
@@ -185,20 +283,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/israel-netanyahu-calls-for-unity-government-eisenkot-says-hes-playing-tricks-12329262#publisher=newsstand",
-      "title": "Netanyahu Calls For \"Unity Government\", Eisenkot Says He's \"Playing Tricks\"",
-      "published": "2026-11-15T07:34:16+00:00",
-      "author": null,
-      "description": "Eisenkot was tapped on Sunday to form a new government within 28 days.",
-      "link": "https://www.ndtv.com/world-news/israel-netanyahu-calls-for-unity-government-eisenkot-says-hes-playing-tricks-12329262#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-11/st2jjhq4_israel-government-reuters_625x300_15_November_26.jpeg",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/us/a-man-searching-a-massachusetts-dumpster-rescued-1132-ancient-mexican-artefacts-more-than-40-connecticut-high-school-students-then-spent-almost-two-years-cataloguing-them-before-their-return-to-mexico/articleshow/135848610.cms",
@@ -815,20 +899,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo#0",
-      "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
-      "published": "2026-11-15T02:49:45+00:00",
-      "author": null,
-      "description": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the pope served as bishop from 2015 to 2023.",
-      "link": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80df/live/ea970890-e09d-11f1-a298-b1f4784d44cc.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "t3_1xwkgls",
@@ -13933,76 +14003,6 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/europe/france-fears-german-long-range-missiles-could-trigger-nuclear-escalation-with-russia/articleshow/135739089.cms",
-      "title": "France fears German long-range missiles could trigger nuclear escalation with Russia",
-      "published": "2026-11-11T13:31:05+00:00",
-      "author": "Prisha Patnaik",
-      "description": "",
-      "link": "https://timesofindia.indiatimes.com/world/europe/france-fears-german-long-range-missiles-could-trigger-nuclear-escalation-with-russia/articleshow/135739089.cms",
-      "image": "https://static.toiimg.com/photo/msid-135739423,imgsize-113900.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "t3_1xthsl0",
-      "title": "‘One Way or Another’: Russian Negotiator Vows to Reclaim ‘Every Inch’ of What Russia Calls Its Land",
-      "published": "2026-11-11T13:30:51+00:00",
-      "author": "/u/HydrolicKrane",
-      "description": "submitted by /u/HydrolicKrane [link] [comments]",
-      "link": "https://www.reddit.com/r/worldnews/comments/1xthsl0/one_way_or_another_russian_negotiator_vows_to/",
-      "image": "https://external-preview.redd.it/_YWZGCSmyxhctSL_RDey-o_4_Ss-7NtSGJJXDD2AX10.jpeg?width=640&crop=smart&auto=webp&s=114fd8cb603d649b31e0e9ee7482076523748792",
-      "feed_name": "World News",
-      "feed_title": "World News",
-      "category": "World News",
-      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
-      "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmkg5jr59835o#1",
-      "title": "Egyptian journalist's retrial adjourned as UN warns of 'assaults on press freedom'",
-      "published": "2026-11-11T13:25:47+00:00",
-      "author": null,
-      "description": "Mada Masr editor-in-chief Lina Attalah is being tried on the charge of \"publishing false news\" and potentially faces imprisonment.",
-      "link": "https://www.bbc.co.uk/news/articles/cmkg5jr59835o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae61/live/09e205f0-ddb6-11f1-90cd-85e940e3a009.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo#0",
-      "title": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
-      "published": "2026-11-11T13:24:29+00:00",
-      "author": null,
-      "description": "The sow and her three cubs were responsible for killing Jennifer Balcarras, 48, and her daughter Selah Reed, 20, earlier this month.",
-      "link": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ce6/live/65c341e0-ddcf-11f1-a701-fddedf244c16.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo#1",
-      "title": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
-      "published": "2026-11-11T13:24:29+00:00",
-      "author": null,
-      "description": "The sow and her three cubs were responsible for killing Jennifer Balcarras, 48, and her daughter Selah Reed, 20, earlier this month.",
-      "link": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ce6/live/65c341e0-ddcf-11f1-a701-fddedf244c16.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     }
   ]
 }
