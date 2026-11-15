@@ -1,6 +1,6 @@
 {
   "category": "science",
-  "updated": "2026-11-15T11:32:54.046858+00:00",
+  "updated": "2026-11-15T12:02:57.458200+00:00",
   "count": 1000,
   "summary": null,
   "items": [
@@ -39,6 +39,20 @@
       "author": "Taylor Mitchell Brown",
       "description": "In a recent experiment, crows could process and respond to visual cues at twice the speed as humans and monkeys.",
       "link": "https://www.nytimes.com/2026/11/15/science/birdbrain-is-a-misnomer-crows-make-decisions-faster-than-we-can.html",
+      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/00SCI-TB-CROWS-01-tlwk/00SCI-TB-CROWS-01-tlwk-facebookJumbo.jpg",
+      "feed_name": "NYT > Science",
+      "feed_title": "NYT > Science",
+      "category": "science",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
+      "title": "‘Birdbrain’ Is a Misnomer. Crows Make Decisions Faster Than We Can",
+      "published": "2026-11-15T10:00:36+00:00",
+      "author": "Taylor Mitchell Brown",
+      "description": "In a recent experiment, crows could process and respond to visual cues at twice the speed as humans and monkeys.",
+      "link": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
       "image": "https://static01.nyt.com/images/2026/11/05/multimedia/00SCI-TB-CROWS-01-tlwk/00SCI-TB-CROWS-01-tlwk-facebookJumbo.jpg",
       "feed_name": "NYT > Science",
       "feed_title": "NYT > Science",
@@ -13989,20 +14003,6 @@
       "category": "science",
       "feed_url": "http://rss.sciam.com/ScientificAmerican-Global",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.scientificamerican.com&sz=64"
-    },
-    {
-      "id": "news713103421",
-      "title": "After 40 years of searching, physicists find evidence for an ultrarare particle decay",
-      "published": "2026-11-05T17:30:02+00:00",
-      "author": null,
-      "description": "Physicists at CERN report that they've detected evidence of a rare meson particle decay (B⁰→ µ⁺µ⁻) that occurs when the meson's beauty quark annihilates with a down-type quark. The pair decays into a muon and antimuon, which are particles similar to electrons. Because evidence for this decay helps test theoretical predictions from the Standard Model, physicists have been waiting for it since 1984, when it was first theorized.",
-      "link": "https://phys.org/news/2026-11-years-physicists-evidence-ultrarare-particle.html",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/after-40-years-of-sear.jpg",
-      "feed_name": "Phys.org - latest science and technology news stories",
-      "feed_title": "Phys.org - latest science and technology news stories",
-      "category": "science",
-      "feed_url": "https://phys.org/rss-feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
     }
   ]
 }
