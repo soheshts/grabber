@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-15T23:03:26.087355+00:00",
-  "count": 441,
+  "updated": "2026-11-15T23:32:43.650055+00:00",
+  "count": 442,
   "summary": null,
   "items": [
     {
@@ -157,6 +157,20 @@
       "category": "personal blogs",
       "feed_url": "http://alicebartlett.co.uk/feed.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=alicebartlett.co.uk&sz=64"
+    },
+    {
+      "id": "https://reverentgeek.com/make-chord-charts-in-your-browser-with-charter/",
+      "title": "Make Chord Charts in Your Browser with Charter",
+      "published": "2026-11-15T00:00:00+00:00",
+      "author": "David Neal",
+      "description": "Charter has been around since 2016. It's a little CLI Node.js app I built that takes a ChordPro text file and turns it into a clean chord chart you can print or import into a chord chart app like Paperless Music . Back in 2020, I wrote about how it uses Puppeteer to render those charts to PDF . It works great! As long as you have Node.js installed, are comfortable in a terminal, and don't mind downloading a copy of Chromium. That might be a lot to ask of someone who isn't a developer and just w…",
+      "link": "https://reverentgeek.com/make-chord-charts-in-your-browser-with-charter/",
+      "image": "https://reverentgeek.com/img/r7-JgPJpmX-1200.png",
+      "feed_name": "ReverentGeek",
+      "feed_title": "ReverentGeek",
+      "category": "personal blogs",
+      "feed_url": "https://reverentgeek.com/feed.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=reverentgeek.com&sz=64"
     },
     {
       "id": "https://meiert.com/blog/two-people/",
