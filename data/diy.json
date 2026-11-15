@@ -1,9 +1,51 @@
 {
   "category": "DIY",
-  "updated": "2026-11-15T18:03:55.056963+00:00",
+  "updated": "2026-11-15T18:34:05.744488+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/ryobi-clamp-fan-versatile-tool/",
+      "title": "I bought this Ryobi fan for one job and keep finding other reasons to use it",
+      "published": "2026-11-15T18:30:16+00:00",
+      "author": "Chris Hachey",
+      "description": "It's a cool cooling item.",
+      "link": "https://www.makeuseof.com/ryobi-clamp-fan-versatile-tool/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/ryobi-clamp-2.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/ways-open-source-community-fighting-back-against-amazon-fire-tvs-changes/",
+      "title": "3 ways the open-source community is fighting back against Amazon Fire TV's most annoying changes",
+      "published": "2026-11-15T18:30:15+00:00",
+      "author": "Arol Wright",
+      "description": "It doesn't have to be awful.",
+      "link": "https://www.howtogeek.com/ways-open-source-community-fighting-back-against-amazon-fire-tvs-changes/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/04/tv-showing-audible-on-fire-stick.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://hackaday.com/?p=1428059",
+      "title": "An Orbital Sanders Crash Course and the Threat of HAVS",
+      "published": "2026-11-15T18:00:48+00:00",
+      "author": "Maya Posch",
+      "description": "Most people know about orbital sanders, as the cousin of sheet sanders, with many people using them every day to make wood and other surfaces smooth. Yet if you have …read more",
+      "link": "https://hackaday.com/2026/11/15/an-orbital-sanders-crash-course-and-the-threat-of-havs/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/orbital_sander_brake_and_damper_ring_five_duck_studio_youtube.jpg",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/refind-gui-grub-dual-boot-alternative/",
       "title": "GRUB was the worst part of dual-booting, so I replaced it with something better",
@@ -13961,48 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://hackaday.com/blog/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/oldest-com-domain-still-online-symbolics/",
-      "title": "The internet's oldest '.com' domain is still alive, and you can visit it right now",
-      "published": "2026-11-01T20:30:16+00:00",
-      "author": "Oluwademilade Afolabi",
-      "description": "This domain was old before Google was even an idea.",
-      "link": "https://www.makeuseof.com/oldest-com-domain-still-online-symbolics/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/symbolics-com-open-in-a-modern-web-browser-showing-its-1985-registration-date.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/hidden-esp32-project-costs/",
-      "title": "5 hidden ESP32 project costs I forgot when I bought the cheap board",
-      "published": "2026-11-01T20:30:15+00:00",
-      "author": "Adam Davidson",
-      "description": "The true cost of cheap.",
-      "link": "https://www.howtogeek.com/hidden-esp32-project-costs/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/08/esp32-dev-board-on-wood-desk.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/excel-can-predict-next-years-numbers-with-one-button/",
-      "title": "Excel can predict next year’s numbers with one button, and it shows how sure it is",
-      "published": "2026-11-01T20:00:15+00:00",
-      "author": "Yasir Mahmood",
-      "description": "It gives you a best case and a worst case.",
-      "link": "https://www.makeuseof.com/excel-can-predict-next-years-numbers-with-one-button/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/07/excel-on-ipad-pro.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }
