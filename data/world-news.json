@@ -1,9 +1,65 @@
 {
   "category": "World News",
-  "updated": "2026-11-15T22:03:53.266895+00:00",
+  "updated": "2026-11-15T22:33:06.136604+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqm2j0jvep4eo#0",
+      "title": "Police ban protests near 10 schools and five universities in Paris",
+      "published": "2026-11-15T22:28:54+00:00",
+      "author": null,
+      "description": "The order will be in place from 16 to 20 November, Paris police chief Patrice Faure says.",
+      "link": "https://www.bbc.co.uk/news/articles/cqm2j0jvep4eo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff1f/live/556dd490-e13a-11f1-9d9b-d15c0ae9fc2e.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo#0",
+      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "published": "2026-11-15T22:24:20+00:00",
+      "author": null,
+      "description": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+      "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa43/live/e2a9a870-e10d-11f1-93e1-3b657b665bcf.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/us/a-san-francisco-couple-bought-a-neglected-victorian-for-1-85-million-in-2022-rebuilt-its-interiors-and-added-a-separate-apartment-the-restored-painted-lady-is-now-asking-5-595-million/articleshow/135810607.cms",
+      "title": "San Francisco 'Painted Lady' bought for $1.85 million now listed for $5.595 million",
+      "published": "2026-11-15T22:20:00+00:00",
+      "author": "TOI World Desk",
+      "description": "Once a forgotten Victorian gem in Noe Valley, this home was purchased at $1.85 million and thoughtfully revived, blending its charming historic features with modern amenities. Now boasting a listing price of $5.595 million, it offers five spacious bedrooms alongside a private apartment. The extensive restoration preserved its Victorian allure while ensuring necessary structural and aesthetic updates, reflecting the growing trend of revitalizing historic homes in sought-after urban areas.",
+      "link": "https://timesofindia.indiatimes.com/world/us/a-san-francisco-couple-bought-a-neglected-victorian-for-1-85-million-in-2022-rebuilt-its-interiors-and-added-a-separate-apartment-the-restored-painted-lady-is-now-asking-5-595-million/articleshow/135810607.cms",
+      "image": "https://static.toiimg.com/photo/msid-135810831,imgsize-79597.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
+      "id": "https://www.theguardian.com/australia-news/2026/nov/16/australia-uk-canada-italy-urge-israel-critical-aid-gaza-winter-ntwnfb",
+      "title": "Australia, UK, Canada and Italy urge Israel to allow critical aid to Gaza ahead of winter",
+      "published": "2026-11-15T21:57:21+00:00",
+      "author": "Krishani Dhanji",
+      "description": "Four countries call situation ‘entirely reversible’ in joint statement as flooding exacerbates humanitarian crisis Get our daily political email , free app or daily news podcast In a joint statement the foreign ministers of Australia, Canada, the United Kingdom and Italy have urged Israel to allow critical humanitarian aid to enter Gaza, describing the situation on the ground as “dire”. The four released the statement on Monday morning, urging Israel to allow 150,000 tents and other vital suppl…",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/16/australia-uk-canada-italy-urge-israel-critical-aid-gaza-winter-ntwnfb",
+      "image": "https://i.guim.co.uk/img/media/682a0487f17cbff2735306182cdbb7ec07b2d56c/785_0_3912_3131/master/3912.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4cc0de160bea529b9c114b4421bb53a7",
+      "feed_name": "The Guardian",
+      "feed_title": "World news | The Guardian",
+      "category": "World News",
+      "feed_url": "https://www.theguardian.com/world/rss",
+      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
     {
       "id": "https://www.nytimes.com/2026/11/15/world/middleeast/jordan-church-attack-death-sentence.html",
       "title": "Jordan Sentences 3 to Death Over Greek Orthodox Church Attack",
@@ -831,20 +887,6 @@
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo#0",
-      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-      "published": "2026-11-15T14:56:21+00:00",
-      "author": null,
-      "description": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-      "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa43/live/e2a9a870-e10d-11f1-93e1-3b657b665bcf.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
       "id": "https://timesofindia.indiatimes.com/world/us/a-virginia-school-built-in-1884-to-educate-black-children-during-segregation-became-a-storage-building-for-about-60-years-after-a-6-2-million-restoration-its-doors-reopened-november-14-as-a-museum/articleshow/135857798.cms",
       "title": "Historic Virginia school for Black children reopens as museum after $6.2m restoration",
       "published": "2026-11-15T14:56:02+00:00",
@@ -1042,6 +1084,20 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo#0",
+      "title": "Iran targets US military base in Bahrain with drone attack",
+      "published": "2026-11-15T13:42:58+00:00",
+      "author": null,
+      "description": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
+      "link": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0351/live/2e8de2e0-e106-11f1-93e1-3b657b665bcf.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo#1",
       "title": "Iran targets US military base in Bahrain with drone attack",
       "published": "2026-11-15T13:42:58+00:00",
       "author": null,
@@ -13947,62 +14003,6 @@
       "category": "World News",
       "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
       "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
-      "id": "t3_1xtzrpv",
-      "title": "Russia bows out of attempt to replace US dollar with Chinese yuan after years of promoting currency alternatives among its BRICS friends",
-      "published": "2026-11-12T01:29:09+00:00",
-      "author": "/u/weregonnamakit",
-      "description": "submitted by /u/weregonnamakit [link] [comments]",
-      "link": "https://www.reddit.com/r/worldnews/comments/1xtzrpv/russia_bows_out_of_attempt_to_replace_us_dollar/",
-      "image": "https://external-preview.redd.it/oeIbhZOBxOdR519nLFRXIgIoUEqp4L1Qm7PYSl5VfLM.jpeg?width=640&crop=smart&auto=webp&s=7fd9e247f3493c327bdd8a18f68fe67aec133046",
-      "feed_name": "World News",
-      "feed_title": "World News",
-      "category": "World News",
-      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
-      "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "https://www.theguardian.com/australia-news/2026/nov/12/human-torso-found-sydneys-lower-north-shore-ntwnfb",
-      "title": "Human torso found in sofa in Sydney bushland prompts homicide investigation",
-      "published": "2026-11-12T01:27:01+00:00",
-      "author": "Achol Arok",
-      "description": "Police called to Lane Cove North on Wednesday after sofa found containing human torso believed to be that of adult man Get our breaking news email , free app or daily news podcast New South Wales police have entered their second day searching for human remains after a human torso was found in bushland on Sydney’s lower north shore. Police were called to Lane Cove North about 2.30pm on Wednesday after receiving “a number of reports from members of the public” regarding a strong odour in the area…",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/12/human-torso-found-sydneys-lower-north-shore-ntwnfb",
-      "image": "https://i.guim.co.uk/img/media/3ffdc3759066b25f34a057b255d9589730bea27e/282_0_2816_2253/master/2816.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=243993854d83761d9a12a5e48a658e22",
-      "feed_name": "The Guardian",
-      "feed_title": "World news | The Guardian",
-      "category": "World News",
-      "feed_url": "https://www.theguardian.com/world/rss",
-      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
-    },
-    {
-      "id": "108549562",
-      "title": "Cramer's stance on Nvidia's stock amid reports that CEO Jensen Huang may be ousted",
-      "published": "2026-11-12T01:14:21+00:00",
-      "author": null,
-      "description": "Jim Cramer said Wednesday night that he was saddened by a news report that indicated Nvidia's board of directors is preparing to fire Huang.",
-      "link": "https://www.cnbc.com/investingclub/2026/11/11/jim-cramer-jensen-huang-nvidia-stock-advice.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108546366-17942337332026-11-09t135831z_19412827_rc2h6oaxcoox_rtrmadp_0_nvidia-probe-ceo.jpeg?v=1794233751&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "https://www.theguardian.com/business/2026/nov/12/australian-states-could-sue-tobacco-companies-for-billions-smoking-healthcare-costs",
-      "title": "Australian states could sue tobacco companies for billions in healthcare costs under proposal",
-      "published": "2026-11-12T01:02:01+00:00",
-      "author": "Melissa Davey Medical editor",
-      "description": "Exclusive: Former barrister who helped legally establish that secondhand smoke causes lung cancer argues states could seek up to $50bn in compensation Get our breaking news email , free app or daily news podcast Australian state governments could sue tobacco companies for billions in public hospital and healthcare costs, under a proposal developed by a former barrister who helped legally establish that secondhand smoke causes lung cancer. The South Australian government is formally seeking advi…",
-      "link": "https://www.theguardian.com/business/2026/nov/12/australian-states-could-sue-tobacco-companies-for-billions-smoking-healthcare-costs",
-      "image": "https://i.guim.co.uk/img/media/71736ee50685598d060b0bfb06e2a1f6855276fc/792_0_1260_1008/master/1260.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=13dbcfa97073ae1ba884aead9429810c",
-      "feed_name": "The Guardian",
-      "feed_title": "World news | The Guardian",
-      "category": "World News",
-      "feed_url": "https://www.theguardian.com/world/rss",
-      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
     }
   ]
 }
