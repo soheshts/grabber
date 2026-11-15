@@ -1,9 +1,23 @@
 {
   "category": "science",
-  "updated": "2026-11-15T19:03:00.895937+00:00",
+  "updated": "2026-11-15T19:33:13.415147+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/live/2026/11/14/science/spacex-starship-launch",
+      "title": "Highlights From the Starship Landing",
+      "published": "2026-11-15T19:05:41+00:00",
+      "author": "The New York Times",
+      "description": "The Starship spacecraft safely landed back at the Starbase launch facility, a major step in SpaceX’s quest to build fully reusable rockets.",
+      "link": "https://www.nytimes.com/live/2026/11/14/science/spacex-starship-launch",
+      "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14starship-launch-header-cfqw/14starship-launch-header-cfqw-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Science",
+      "feed_title": "NYT > Science",
+      "category": "science",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "news713708016",
       "title": "The experiments improving our understanding of volcanic tsunamis",
@@ -17,6 +31,20 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "https://www.scientificamerican.com/article/why-your-brain-sometimes-craves-sour-tastes/",
+      "title": "Why your brain sometimes craves sour tastes",
+      "published": "2026-11-15T18:00:00+00:00",
+      "author": null,
+      "description": "Adding a dash of lemon juice or vinegar has long been known to cooks as a way to enhance a dish, but now scientists are understanding how sourness works in the brain",
+      "link": "https://www.scientificamerican.com/article/why-your-brain-sometimes-craves-sour-tastes/",
+      "image": "https://static.scientificamerican.com/dam/asset/5362a7b2-301b-4b87-882d-c43ebf7c5c6d/sourness.jpg?m=1794604638.639&w=1200",
+      "feed_name": "Scientific American Content: Global",
+      "feed_title": "Scientific American Content: Global",
+      "category": "science",
+      "feed_url": "http://rss.sciam.com/ScientificAmerican-Global",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.scientificamerican.com&sz=64"
     },
     {
       "id": "news713539401",
@@ -395,20 +423,6 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "https://www.nytimes.com/live/2026/11/14/science/spacex-starship-launch",
-      "title": "Highlights From the Starship Landing",
-      "published": "2026-11-15T01:17:38+00:00",
-      "author": "The New York Times",
-      "description": "The Starship spacecraft safely landed back at the Starbase launch facility, a major step in SpaceX’s quest to build fully reusable rockets.",
-      "link": "https://www.nytimes.com/live/2026/11/14/science/spacex-starship-launch",
-      "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14starship-launch-header-cfqw/14starship-launch-header-cfqw-mediumSquareAt3X.jpg",
-      "feed_name": "NYT > Science",
-      "feed_title": "NYT > Science",
-      "category": "science",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://www.sciencedaily.com/releases/2026/11/261112230456.htm",
@@ -13984,20 +13998,6 @@
       "description": "Research published in the journal Ecology analyzed 12 years of records from a population of degus in central Chile, revealing that these endemic rodents managed to withstand nearly a decade of megadrought but disappeared locally following the extreme drought of 2019.",
       "link": "https://phys.org/news/2026-11-chilean-rodent-population-collapse-reveals.html",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-warns-of-the-imp.jpg",
-      "feed_name": "Phys.org - latest science and technology news stories",
-      "feed_title": "Phys.org - latest science and technology news stories",
-      "category": "science",
-      "feed_url": "https://phys.org/rss-feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "news713108145",
-      "title": "Ancient Maya mercury use may have come at a severe environmental cost",
-      "published": "2026-11-05T19:20:08+00:00",
-      "author": null,
-      "description": "Ancient Maya communities made extensive use of liquid mercury and a red, mercury-containing pigment called cinnabar to decorate buildings, pottery and burial sites. Unsurprisingly, as previous research has shown, this led to mercury contamination of soils and reservoirs at some Maya sites. And that pollution may have spread even farther into their territory and caused the collapse of two lake ecosystems, according to a study published in the journal Science Advances.",
-      "link": "https://phys.org/news/2026-11-ancient-maya-mercury-severe-environmental.html",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ancient-maya-mercury-u.jpg",
       "feed_name": "Phys.org - latest science and technology news stories",
       "feed_title": "Phys.org - latest science and technology news stories",
       "category": "science",
