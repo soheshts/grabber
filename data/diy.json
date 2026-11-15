@@ -1,6 +1,6 @@
 {
   "category": "DIY",
-  "updated": "2026-11-15T00:03:22.896619+00:00",
+  "updated": "2026-11-15T00:33:45.598984+00:00",
   "count": 1000,
   "summary": null,
   "items": [
@@ -17,6 +17,20 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://hackaday.com/?p=1427931",
+      "title": "DIVINER: Occult Synth Firmware for the Cardputer",
+      "published": "2026-11-15T00:00:11+00:00",
+      "author": "Elliot Williams",
+      "description": "We see some strange software around these parts, but this is probably the strangest. DIVINER is a firmware for the M5 Cardputer, which is an interesting device in its own …read more",
+      "link": "https://hackaday.com/2026/11/14/diviner-occult-synth-firmware-for-the-cardputer/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/8459231792676999283.png",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
     },
     {
       "id": "https://www.howtogeek.com/i-made-two-3d-models-with-meshy-71-and-each-went-from-idea-to-printer-in-under-20-minutes/",
@@ -13989,20 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.makeuseof.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/this-free-windows-app-made-retro-gaming-on-pc-surprisingly-easy/",
-      "title": "This free Windows app made retro gaming on my PC surprisingly easy",
-      "published": "2026-11-01T12:01:15+00:00",
-      "author": "Rich Hein",
-      "description": "RetroBat made turning my Windows PC into a retro arcade surprisingly simple, with built-in homebrew games and Xbox controller support.",
-      "link": "https://www.howtogeek.com/this-free-windows-app-made-retro-gaming-on-pc-surprisingly-easy/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/retrobat-hero-2.png",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
     }
   ]
 }
