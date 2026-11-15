@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-15T13:33:39.593661+00:00",
-  "count": 439,
+  "updated": "2026-11-15T14:03:54.359361+00:00",
+  "count": 440,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,20 @@
       "category": "personal blogs",
       "feed_url": "https://shkspr.mobi/blog/feed/atom/",
       "feed_icon": "https://shkspr.mobi/blog/wp-content/uploads/2023/07/cropped-avatar-32x32.jpeg"
+    },
+    {
+      "id": "https://ronaldsvilcins.com/2026/11/15/web-components-make-more-sense-when-they-enhance-html/",
+      "title": "Web Components Make More Sense When They Enhance HTML",
+      "published": "2026-11-15T06:00:00+00:00",
+      "author": "Ronalds Vilciņš",
+      "description": "Use Web Components to enhance working HTML. Build an optional word counter, preserve native form behaviour, and handle setup when an element reconnects.",
+      "link": "https://ronaldsvilcins.com/2026/11/15/web-components-make-more-sense-when-they-enhance-html/",
+      "image": "https://ronaldsvilcins.com/og/d1ace3b8a1958fd988b9bed26d995d6966960d8365d8d3119992cd131a1baf44.jpg",
+      "feed_name": "Ronalds Vilciņš",
+      "feed_title": "Ronalds Vilciņš",
+      "category": "personal blogs",
+      "feed_url": "https://ronaldsvilcins.com/atom.xml",
+      "feed_icon": "https://ronaldsvilcins.com/favicon.png"
     },
     {
       "id": "https://www.amitmerchant.com/what-if-ui-components-were-built-like-modular-phones",
