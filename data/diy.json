@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-15T00:33:45.598984+00:00",
+  "updated": "2026-11-15T01:03:47.619376+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.howtogeek.com/used-ai-to-develop-the-perfect-smart-home-automation-routines-for-house/",
+      "title": "I used AI to develop the perfect smart home automation routines for my house",
+      "published": "2026-11-15T01:00:15+00:00",
+      "author": "Namerah Saud Fatmi",
+      "description": "Developing smart home routines can be tedious, so I asked an AI to make one for me instead.",
+      "link": "https://www.howtogeek.com/used-ai-to-develop-the-perfect-smart-home-automation-routines-for-house/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/gemini-smart-home-automation-prompt-2.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/i-tested-nvidia-dlss-on-my-steam-deck-and-its-a-clear-step-up-from-fsr/",
       "title": "I tested NVIDIA DLSS on my Steam Deck, and it’s a clear step up from FSR",
@@ -13989,20 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/fresh-windows-11-install-runs-in-the-background/",
-      "title": "I checked what a fresh Windows 11 install runs in the background, and 6 things had no reason to be there",
-      "published": "2026-11-01T12:01:16+00:00",
-      "author": "Shaheer Khan",
-      "description": "You probably don't need these Windows 11 services, and disabling them can free up considerable RAM.",
-      "link": "https://www.makeuseof.com/fresh-windows-11-install-runs-in-the-background/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/win-11-desktop-featured.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }

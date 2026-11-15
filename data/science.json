@@ -1,9 +1,23 @@
 {
   "category": "science",
-  "updated": "2026-11-15T00:33:45.598984+00:00",
+  "updated": "2026-11-15T01:03:47.619376+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/11/14/science/spacex-starship-first-catch.html",
+      "title": "SpaceX Makes History With Successful Rocket Catch in Texas",
+      "published": "2026-11-15T00:36:32+00:00",
+      "author": "Kenneth Chang",
+      "description": "The Starship spacecraft returned from orbit to the same spot where it lifted off, marking a key milestone in SpaceX’s vision of building fully reusable rockets.",
+      "link": "https://www.nytimes.com/2026/11/14/science/spacex-starship-first-catch.html",
+      "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14starship-header-01-vgzq/14starship-header-01-vgzq-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Science",
+      "feed_title": "NYT > Science",
+      "category": "science",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "https://www.nytimes.com/live/2026/11/14/science/spacex-starship-launch",
       "title": "Highlights From the Starship Landing",
@@ -13989,20 +14003,6 @@
       "category": "science",
       "feed_url": "https://pa.tedcdn.com/feeds/talks.rss",
       "feed_icon": "https://assets.pippa.io/shows/67587e77c705e441797aff96/show-cover.png"
-    },
-    {
-      "id": "news713093852",
-      "title": "Archaeologists uncover possible 19th-century castaway camp on island 'at the end of the world'",
-      "published": "2026-11-05T16:00:38+00:00",
-      "author": null,
-      "description": "On a desolate island at the end of the world, battered by freezing winds, archaeologists have uncovered the remains of a possible 19th-century castaway camp that may have belonged to a renowned Argentine sailor and his shipwrecked crew.",
-      "link": "https://phys.org/news/2026-11-archaeologists-uncover-19th-century-castaway.html",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/archaeologists-uncover-13.jpg",
-      "feed_name": "Phys.org - latest science and technology news stories",
-      "feed_title": "Phys.org - latest science and technology news stories",
-      "category": "science",
-      "feed_url": "https://phys.org/rss-feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
     }
   ]
 }
