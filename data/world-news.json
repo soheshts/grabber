@@ -1,9 +1,23 @@
 {
   "category": "World News",
-  "updated": "2026-11-15T22:33:06.136604+00:00",
+  "updated": "2026-11-15T23:03:26.087355+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/11/14/world/americas/trump-venezuela-oil.html",
+      "title": "Trump’s Oil Grab in Venezuela Is Testing the Country’s National Identity",
+      "published": "2026-11-15T22:43:58+00:00",
+      "author": "Simon Romero and Isayen Herrera",
+      "description": "Long-held beliefs in Venezuela about sovereign control over oil are fraying as the U.S. lays claim to the country’s oil reserves.",
+      "link": "https://www.nytimes.com/2026/11/14/world/americas/trump-venezuela-oil.html",
+      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/00int-venezuela-oil-pqfl/00int-venezuela-oil-pqfl-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cqm2j0jvep4eo#0",
       "title": "Police ban protests near 10 schools and five universities in Paris",
@@ -17,6 +31,34 @@
       "category": "World News",
       "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://www.theguardian.com/australia-news/2026/nov/16/australia-uk-canada-italy-urge-israel-critical-aid-gaza-winter-ntwnfb",
+      "title": "Australia, UK, Canada and Italy urge Israel to allow critical aid to Gaza ahead of winter",
+      "published": "2026-11-15T22:28:02+00:00",
+      "author": "Krishani Dhanji",
+      "description": "Four countries call situation ‘entirely reversible’ in joint statement as flooding exacerbates humanitarian crisis Australia, Canada, the United Kingdom and Italy have urged Israel to allow critical humanitarian aid to enter Gaza, describing the situation on the ground as “dire”. The four countries released a joint statement on Monday morning, urging Israel to allow 150,000 tents and other vital supplies being held at the border into Gaza ahead of winter. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/16/australia-uk-canada-italy-urge-israel-critical-aid-gaza-winter-ntwnfb",
+      "image": "https://i.guim.co.uk/img/media/682a0487f17cbff2735306182cdbb7ec07b2d56c/785_0_3912_3131/master/3912.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4cc0de160bea529b9c114b4421bb53a7",
+      "feed_name": "The Guardian",
+      "feed_title": "World news | The Guardian",
+      "category": "World News",
+      "feed_url": "https://www.theguardian.com/world/rss",
+      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/us/an-alabama-mother-lost-parental-rights-to-her-two-young-children-one-living-with-a-great-aunt-and-the-other-with-a-foster-family-on-november-13-appeals-judges-reversed-the-decision-for-her-older-child-only/articleshow/135829855.cms",
+      "title": "Alabama mother regains parental rights to older child; court upholds termination for younger child",
+      "published": "2026-11-15T22:25:00+00:00",
+      "author": "TOI World Desk",
+      "description": "A recent ruling by an Alabama appeals court has partially overturned a juvenile court's ruling regarding parental rights. The mother has maintained her rights to her older child but lost her rights to her younger daughter. The court underscored the necessity of evaluating the circumstances of each child individually in such matters. Meanwhile, the father's rights to both children remain revoked due to evidence of substance abuse and inadequate support.",
+      "link": "https://timesofindia.indiatimes.com/world/us/an-alabama-mother-lost-parental-rights-to-her-two-young-children-one-living-with-a-great-aunt-and-the-other-with-a-foster-family-on-november-13-appeals-judges-reversed-the-decision-for-her-older-child-only/articleshow/135829855.cms",
+      "image": "https://static.toiimg.com/photo/msid-135830004,imgsize-1704998.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo#0",
@@ -47,18 +89,18 @@
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
-      "id": "https://www.theguardian.com/australia-news/2026/nov/16/australia-uk-canada-italy-urge-israel-critical-aid-gaza-winter-ntwnfb",
-      "title": "Australia, UK, Canada and Italy urge Israel to allow critical aid to Gaza ahead of winter",
-      "published": "2026-11-15T21:57:21+00:00",
-      "author": "Krishani Dhanji",
-      "description": "Four countries call situation ‘entirely reversible’ in joint statement as flooding exacerbates humanitarian crisis Get our daily political email , free app or daily news podcast In a joint statement the foreign ministers of Australia, Canada, the United Kingdom and Italy have urged Israel to allow critical humanitarian aid to enter Gaza, describing the situation on the ground as “dire”. The four released the statement on Monday morning, urging Israel to allow 150,000 tents and other vital suppl…",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/16/australia-uk-canada-italy-urge-israel-critical-aid-gaza-winter-ntwnfb",
-      "image": "https://i.guim.co.uk/img/media/682a0487f17cbff2735306182cdbb7ec07b2d56c/785_0_3912_3131/master/3912.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4cc0de160bea529b9c114b4421bb53a7",
-      "feed_name": "The Guardian",
-      "feed_title": "World news | The Guardian",
+      "id": "t3_1xx8e8d",
+      "title": "Despite frigid weather and floods, Hamas stops UN from building weatherproof Gaza shelters - report",
+      "published": "2026-11-15T22:15:33+00:00",
+      "author": "/u/barsik_",
+      "description": "submitted by /u/barsik_ [link] [comments]",
+      "link": "https://www.reddit.com/r/worldnews/comments/1xx8e8d/despite_frigid_weather_and_floods_hamas_stops_un/",
+      "image": "https://external-preview.redd.it/Zzu0g6ZDNzObD_61dBy25loOFcAgtwsflmtBVLhxDAI.jpeg?width=640&crop=smart&auto=webp&s=4ad309f8c18df9f0b02b056a690ff720ea6e837d",
+      "feed_name": "World News",
+      "feed_title": "World News",
       "category": "World News",
-      "feed_url": "https://www.theguardian.com/world/rss",
-      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
+      "feed_icon": "https://www.redditstatic.com/icon.png/"
     },
     {
       "id": "https://www.nytimes.com/2026/11/15/world/middleeast/jordan-church-attack-death-sentence.html",
@@ -4735,20 +4777,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/14/world/americas/trump-venezuela-oil.html",
-      "title": "Trump’s Oil Grab in Venezuela Is Testing the Country’s National Identity",
-      "published": "2026-11-14T10:10:01+00:00",
-      "author": "Simon Romero and Isayen Herrera",
-      "description": "Long-held beliefs in Venezuela about sovereign control over oil are fraying as the U.S. lays claim to the country’s oil reserves.",
-      "link": "https://www.nytimes.com/2026/11/14/world/americas/trump-venezuela-oil.html",
-      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/00int-venezuela-oil-pqfl/00int-venezuela-oil-pqfl-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/rest-of-world/canada-us-make-progress-on-trade-deal-as-mark-carney-pursues-new-asian-markets/articleshow/135829086.cms",
@@ -13970,34 +13998,6 @@
       "description": "Axios reported that Howard Lutnick stalled Trump's crackdown on diversion of Nvidia chips to China.",
       "link": "https://www.ndtv.com/world-news/trump-official-lutnick-stalled-crackdown-on-nvidia-chip-diversions-to-china-report-12314682#publisher=newsstand",
       "image": "https://c.ndtvimg.com/2026-01/34tdp30c_howard-lutnick_625x300_09_January_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/jensen-huang-had-affair-with-nvidia-executive-who-reported-to-him-report-12314791#publisher=newsstand",
-      "title": "Jensen Huang Had Affair With Nvidia Executive Who Reported To Him: Report",
-      "published": "2026-11-12T01:36:36+00:00",
-      "author": null,
-      "description": "Jensen Huang allegedly had a relationship with Kimberly Powell, the report said.",
-      "link": "https://www.ndtv.com/world-news/jensen-huang-had-affair-with-nvidia-executive-who-reported-to-him-report-12314791#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-11/o8h2dsds_nvidia-ceo-jensen-huang_625x300_12_November_26.jpeg",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/nvidia-working-with-outside-firm-to-find-ceo-jensen-huangs-replacement-report-12314932#publisher=newsstand",
-      "title": "Nvidia Working With Outside Firm To Find CEO Jensen Huang's Replacement: Report",
-      "published": "2026-11-12T01:33:45+00:00",
-      "author": null,
-      "description": "The company's stock dropped 8percent in extended trading following the reports Wednesday.",
-      "link": "https://www.ndtv.com/world-news/nvidia-working-with-outside-firm-to-find-ceo-jensen-huangs-replacement-report-12314932#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-11/bj1o57d4_nvidia-reuters_625x300_12_November_26.jpeg",
       "feed_name": "NDTV News - World-news",
       "feed_title": "NDTV News Search Records Found 1000",
       "category": "World News",
