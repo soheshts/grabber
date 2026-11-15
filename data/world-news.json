@@ -1,9 +1,79 @@
 {
   "category": "World News",
-  "updated": "2026-11-15T16:32:47.013887+00:00",
+  "updated": "2026-11-15T17:03:58.493098+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "108551641",
+      "title": "Trump breaks silence about FAA nationwide ground stop, blames Biden administration",
+      "published": "2026-11-15T16:56:40+00:00",
+      "author": null,
+      "description": "Trump blamed the Biden administration for the FAA’s aging system after a nationwide ground stop disrupted air travel and urged Congress to approve more funding.",
+      "link": "https://www.cnbc.com/2026/11/15/trump-breaks-silence-on-faa-nationwide-ground-stop-blames-biden-.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108545248-1794226594022-108545248-1794152106604-gettyimages-2302269863-AFP_D4YU993.jpg?v=1794226610&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/15/world/europe/ron-arad-missing-israel-iran-asgari-hunt.html",
+      "title": "Israel Kidnapped Iranian Generals in Hunt for Ron Arad",
+      "published": "2026-11-15T16:52:29+00:00",
+      "author": "Adam Goldman, Ronen Bergman, Farnaz Fassihi and Hwaida Saad",
+      "description": "Israeli officials were convinced that Tehran was to blame for the airman’s disappearance. Alternative theories got little attention, until now.",
+      "link": "https://www.nytimes.com/2026/11/15/world/europe/ron-arad-missing-israel-iran-asgari-hunt.html",
+      "image": "https://static01.nyt.com/images/2026/10/06/multimedia/00int-israel-airman-jpml/00int-israel-airman-jpml-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "108551643",
+      "title": "Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO",
+      "published": "2026-11-15T16:49:11+00:00",
+      "author": null,
+      "description": "Bessent has criticized Howard Lutnick’s department over suspected chip diversion to China while defending President Donald Trump’s handling of the matter.",
+      "link": "https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108487950-1793387874122-gettyimages-2302201596-lnb02366.jpeg?v=1793387920&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o#0",
+      "title": "Czechs rally against plan to switch funding of public media",
+      "published": "2026-11-15T16:36:42+00:00",
+      "author": null,
+      "description": "Protesters say the move will stifle media freedom, while the coalition government insists broadcasters need to cut costs.",
+      "link": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d10d/live/fe22eed0-e10e-11f1-b441-2b33b063138f.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/us/a-utah-husband-and-wife-duo-turned-their-search-for-unusual-sweets-during-the-pandemic-into-a-freeze-dried-candy-business-now-selling-its-treats-in-more-than-500-us-stores/articleshow/135805863.cms",
+      "title": "Utah couple turns pandemic candy search into business stocked in more than 500 US stores",
+      "published": "2026-11-15T16:30:00+00:00",
+      "author": "TOI World Desk",
+      "description": "",
+      "link": "https://timesofindia.indiatimes.com/world/us/a-utah-husband-and-wife-duo-turned-their-search-for-unusual-sweets-during-the-pandemic-into-a-freeze-dried-candy-business-now-selling-its-treats-in-more-than-500-us-stores/articleshow/135805863.cms",
+      "image": "https://static.toiimg.com/photo/msid-135806732,imgsize-82588.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
     {
       "id": "t3_1xwzce7",
       "title": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1726, Part 1 (Thread #1873)",
@@ -31,6 +101,20 @@
       "category": "World News",
       "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "t3_1xwyyi4",
+      "title": "Royal Navy Arrests Israeli National for Entering Jordanian Waters Illegally",
+      "published": "2026-11-15T15:56:58+00:00",
+      "author": "/u/The-LegendKiller",
+      "description": "submitted by /u/The-LegendKiller [link] [comments]",
+      "link": "https://www.reddit.com/r/worldnews/comments/1xwyyi4/royal_navy_arrests_israeli_national_for_entering/",
+      "image": "https://external-preview.redd.it/lShhJwP3N_TQciwfFNT4mHLD6_JfPPgFyNbXgWPINV0.jpeg?width=640&crop=smart&auto=webp&s=2dd645758821046459ec5c5eb6c85241a58a870c",
+      "feed_name": "World News",
+      "feed_title": "World News",
+      "category": "World News",
+      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
+      "feed_icon": "https://www.redditstatic.com/icon.png/"
     },
     {
       "id": "https://www.nytimes.com/2026/11/15/world/middleeast/bahrain-iran-israel.html",
@@ -101,6 +185,20 @@
       "category": "World News",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/joe-biden-benjamin-netanyahu-netanyahu-made-promises-he-had-no-intention-to-keep-biden-in-memoir-12330556#publisher=newsstand",
+      "title": "'He Had No Intention Of Keeping His Word': Joe Biden's Take On Benjamin Netanyahu",
+      "published": "2026-11-15T15:35:54+00:00",
+      "author": null,
+      "description": "Joe Biden's memoir will be released on November 17.",
+      "link": "https://www.ndtv.com/world-news/joe-biden-benjamin-netanyahu-netanyahu-made-promises-he-had-no-intention-to-keep-biden-in-memoir-12330556#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2023-10/42v9reng_joe-biden-netanyahu-reuters_650x400_18_October_23.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/us/in-2016-nevada-rancher-david-park-began-protecting-desert-creek-ranch-its-1228-acres-are-now-permanently-conserved-for-agriculture-and-sage-grouse-habitat-and-a-2026-grant-will-treat-invasive-grass-on-350-acres/articleshow/135858924.cms",
@@ -257,6 +355,20 @@
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o#1",
+      "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
+      "published": "2026-11-15T14:33:59+00:00",
+      "author": null,
+      "description": "The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages.",
+      "link": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6592/live/907a90a0-e090-11f1-a701-fddedf244c16.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
       "id": "https://timesofindia.indiatimes.com/science/nature/beavers-return-to-england-transforms-ecosystems-astonishing-water-quality-improvements-and-increased-biodiversity-in-just-one-year/articleshow/135834981.cms",
       "title": "Beavers reintroduced to an English estate changed its stream within a year",
       "published": "2026-11-15T14:25:00+00:00",
@@ -285,6 +397,20 @@
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
+      "id": "https://www.ndtv.com/world-news/2-years-into-second-term-trump-blames-biden-for-us-flight-disruptions-12330415#publisher=newsstand",
+      "title": "2 Years Into Second Term, Trump Blames Biden For US Flight Disruptions",
+      "published": "2026-11-15T14:15:42+00:00",
+      "author": null,
+      "description": "Thousands of flights in the US have been cancelled over the weekend.",
+      "link": "https://www.ndtv.com/world-news/2-years-into-second-term-trump-blames-biden-for-us-flight-disruptions-12330415#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2024-03/svuvbrhc_trump-biden-split-reuters_625x300_06_March_24.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
       "id": "https://timesofindia.indiatimes.com/world/us/a-kentucky-man-hired-an-agent-to-sell-his-first-home-then-bought-the-agents-own-house-for-300000-and-says-he-was-pressed-to-pay-another-85000-a-november-13-appeals-ruling-revived-most-of-his-claims/articleshow/135857495.cms",
       "title": "Kentucky man says agent sold him his own home and pressured him for an extra $85,000",
       "published": "2026-11-15T14:09:08+00:00",
@@ -299,6 +425,20 @@
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
+      "id": "t3_1xww9gu",
+      "title": "Taiwan donates 100,000 euros to Italian city for post-storm reconstruction",
+      "published": "2026-11-15T14:03:07+00:00",
+      "author": "/u/Hob-999",
+      "description": "submitted by /u/Hob-999 [link] [comments]",
+      "link": "https://www.reddit.com/r/worldnews/comments/1xww9gu/taiwan_donates_100000_euros_to_italian_city_for/",
+      "image": "https://external-preview.redd.it/nZa13T5By_4GAJRUt22AhNnhTebjAmBAyI2clkRSdI0.jpeg?width=320&crop=smart&auto=webp&s=8332e290cd402af06aa84176d020426530d6a3e5",
+      "feed_name": "World News",
+      "feed_title": "World News",
+      "category": "World News",
+      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
+      "feed_icon": "https://www.redditstatic.com/icon.png/"
+    },
+    {
       "id": "https://www.theguardian.com/australia-news/2026/nov/16/gender-diverse-australian-sailors-barred-from-us-submarines-despite-aukus-deal-documents-reveal-ntwnfb",
       "title": "Gender-diverse Australian sailors barred from US submarines despite Aukus deal, documents reveal",
       "published": "2026-11-15T14:00:19+00:00",
@@ -311,6 +451,20 @@
       "category": "World News",
       "feed_url": "https://www.theguardian.com/world/rss",
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/woman-inks-83-mickey-mouse-tattoos-sets-guinness-world-record-12330290#publisher=newsstand",
+      "title": "Woman Inks 83 Mickey Mouse Tattoos On Her Body, Sets Guinness World Record",
+      "published": "2026-11-15T13:49:45+00:00",
+      "author": null,
+      "description": "She said she could relate to Mickey because of his cheerful personality.",
+      "link": "https://www.ndtv.com/world-news/woman-inks-83-mickey-mouse-tattoos-sets-guinness-world-record-12330290#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-11/6d5tieh4_world-record_625x300_15_November_26.jpeg",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/us/nypd-shoots-kidnapping-suspect-dead-after-van-chase-on-busy-highway-no-child-found/articleshow/135857354.cms",
@@ -885,20 +1039,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/15/world/europe/ron-arad-missing-israel-iran-asgari-hunt.html",
-      "title": "After Decades of Blood and Mistrust, Doubts Over Who’s to Blame for an Israeli Hostage",
-      "published": "2026-11-15T09:36:59+00:00",
-      "author": "Adam Goldman, Ronen Bergman, Farnaz Fassihi and Hwaida Saad",
-      "description": "Israeli spies kidnapped and killed Iranians. They were convinced that Tehran was to blame for a fallen airman. Alternative theories got little attention, until now.",
-      "link": "https://www.nytimes.com/2026/11/15/world/europe/ron-arad-missing-israel-iran-asgari-hunt.html",
-      "image": "https://static01.nyt.com/images/2026/10/06/multimedia/00int-israel-airman-jpml/00int-israel-airman-jpml-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://www.ndtv.com/world-news/chinese-spy-alice-huang-left-company-in-2025-megaspeed-amid-nvidia-row-12329594#publisher=newsstand",
@@ -2271,20 +2411,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o#1",
-      "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
-      "published": "2026-11-14T22:27:06+00:00",
-      "author": null,
-      "description": "The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages.",
-      "link": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6592/live/907a90a0-e090-11f1-a701-fddedf244c16.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/us/a-texas-woman-fought-the-court-ordered-sale-of-her-marital-home-after-a-receiver-received-a-685000-offer-despite-a-divorce-decree-awarding-her-60-of-net-proceeds-an-appeals-court-upheld-the-sale-and-related-orders/articleshow/135800314.cms",
@@ -13877,132 +14003,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/science/archaeology/after-examining-1633-ancient-skeletons-from-30-sites-in-perus-lambayeque-valley-researchers-found-signs-of-violence-in-only-25-people-despite-thousands-of-years-of-floods-and-episodes-of-ritual-sacrifice/articleshow/135702253.cms",
-      "title": "Study Links Climate And Violence: Peru skeletons show low conflict; ritual sacrifice stays distinct",
-      "published": "2026-11-11T19:20:00+00:00",
-      "author": "TOI Science Desk",
-      "description": "Throughout history, ancient communities in Peru's Lambayeque Valley confronted significant flooding and food scarcity. Interestingly, despite these hardships, instances of interpersonal violence were notably infrequent. Research indicates that only a tiny percentage of skeletal remains revealed signs of conflict. Instead, these resilient societies cleverly adapted, capitalizing on marine resources to weather environmental challenges.",
-      "link": "https://timesofindia.indiatimes.com/science/archaeology/after-examining-1633-ancient-skeletons-from-30-sites-in-perus-lambayeque-valley-researchers-found-signs-of-violence-in-only-25-people-despite-thousands-of-years-of-floods-and-episodes-of-ritual-sacrifice/articleshow/135702253.cms",
-      "image": "https://static.toiimg.com/photo/msid-135702297,imgsize-1022400.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/china/blacklisted-chinese-military-linked-university-bought-nvidia-h200-chips-report/articleshow/135745910.cms",
-      "title": "Blacklisted Chinese military-linked university bought Nvidia H200 chips - Report",
-      "published": "2026-11-11T19:08:17+00:00",
-      "author": "Prisha Patnaik",
-      "description": "",
-      "link": "https://timesofindia.indiatimes.com/world/china/blacklisted-chinese-military-linked-university-bought-nvidia-h200-chips-report/articleshow/135745910.cms",
-      "image": "https://static.toiimg.com/photo/msid-135747674,imgsize-34462.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "t3_1xtqfzk",
-      "title": "Russia Loses Three Helicopter Crews While Repelling Ukrainian Drone Attack",
-      "published": "2026-11-11T19:02:27+00:00",
-      "author": "/u/Reasonable-Brief306",
-      "description": "submitted by /u/Reasonable-Brief306 [link] [comments]",
-      "link": "https://www.reddit.com/r/worldnews/comments/1xtqfzk/russia_loses_three_helicopter_crews_while/",
-      "image": "https://external-preview.redd.it/gWywZBoNP2UNVCZ3yKhQETDJWj7AgpRU_ZVXWG_R3YY.jpeg?width=640&crop=smart&auto=webp&s=c7e38d43224ee6fbe56ccf9c69fb0edac15acad6",
-      "feed_name": "World News",
-      "feed_title": "World News",
-      "category": "World News",
-      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
-      "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/nov/11/red-brigades-leonardo-bertulazzi-escapes-house-arrest-argentina",
-      "title": "Ex-member of radical Marxist group scales balcony, escapes house arrest in Argentina",
-      "published": "2026-11-11T19:00:33+00:00",
-      "author": "Facundo Iglesia in Buenos Aires and agencies",
-      "description": "Leonardo Bertulazzi, 74, awaiting extradition to Italy, reportedly used harness to flee custody A 74-year-old former member of Italy ’s radical Marxist group the Red Brigades has escaped from house arrest in Argentina , the country’s security ministry confirmed on Wednesday, after he reportedly hid his ankle monitor inside a tube of pork and lowered himself from a fifth-floor balcony. Authorities placed Leonardo Bertulazzi under house arrest in Buenos Aires in 2024, prior to his extradition to…",
-      "link": "https://www.theguardian.com/world/2026/nov/11/red-brigades-leonardo-bertulazzi-escapes-house-arrest-argentina",
-      "image": "https://i.guim.co.uk/img/media/cd25034beb904557d3f8a78d430e0aa9575904a1/138_0_1375_1100/master/1375.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=385d33f37faddfc898eadd7f81ee70ff",
-      "feed_name": "The Guardian",
-      "feed_title": "World news | The Guardian",
-      "category": "World News",
-      "feed_url": "https://www.theguardian.com/world/rss",
-      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
-    },
-    {
-      "id": "108547576",
-      "title": "How Democrats could snarl Trump administration stakes in private sector companies",
-      "published": "2026-11-11T18:55:39+00:00",
-      "author": null,
-      "description": "The Trump administration had established some form of equity position in 41 companies as of November, according to the CATO Institute's tally.",
-      "link": "https://www.cnbc.com/2026/11/11/trump-company-equity-takes.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108546919-1794260827573-gettyimages-2304340042-_s013830_kqju5lnf.jpeg?v=1794343497&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "t3_1xtq0hu",
-      "title": "Iran threatens to bomb European bases",
-      "published": "2026-11-11T18:46:25+00:00",
-      "author": "/u/TheTelegraph",
-      "description": "submitted by /u/TheTelegraph [link] [comments]",
-      "link": "https://www.reddit.com/r/worldnews/comments/1xtq0hu/iran_threatens_to_bomb_european_bases/",
-      "image": "https://external-preview.redd.it/ov7kKD5IFsTOrdvGke4q5P_NYsfbcXc1TduKw2BZTPg.jpeg?width=640&crop=smart&auto=webp&s=ed7a244939d87d7e842e301f7475bdcb456fac86",
-      "feed_name": "World News",
-      "feed_title": "World News",
-      "category": "World News",
-      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
-      "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "t3_1xtpwmz",
-      "title": "Zelensky: Russia Seeks Freedom to Use Force, Not Genuine Security",
-      "published": "2026-11-11T18:42:26+00:00",
-      "author": "/u/ArgentineBeauty",
-      "description": "submitted by /u/ArgentineBeauty [link] [comments]",
-      "link": "https://www.reddit.com/r/worldnews/comments/1xtpwmz/zelensky_russia_seeks_freedom_to_use_force_not/",
-      "image": "https://external-preview.redd.it/x8AsT2Lbwqu0sdX9xDCUWS0dvrPAA7S2HTJKgI1zXwM.jpeg?width=640&crop=smart&auto=webp&s=c01d16ed9f2bbeeef6bad8b86bf360d0b063e1dd",
-      "feed_name": "World News",
-      "feed_title": "World News",
-      "category": "World News",
-      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
-      "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o#0",
-      "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
-      "published": "2026-11-11T18:38:45+00:00",
-      "author": null,
-      "description": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public.",
-      "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80c9/live/fc093bd0-ddc7-11f1-9053-236ccb99630c.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o#1",
-      "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
-      "published": "2026-11-11T18:38:45+00:00",
-      "author": null,
-      "description": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public.",
-      "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80c9/live/fc093bd0-ddc7-11f1-9053-236ccb99630c.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     }
   ]
 }
