@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-15T17:33:42.130082+00:00",
-  "count": 440,
+  "updated": "2026-11-15T18:03:55.056963+00:00",
+  "count": 439,
   "summary": null,
   "items": [
     {
@@ -9,7 +9,7 @@
       "title": "Friends with new sites",
       "published": "2026-11-15T17:15:00+00:00",
       "author": "Manuel Moreale",
-      "description": "Always makes me happy to blog about friends with new sites, and let more people know about their existence and drive extra traffic in their direction. Carl has pushed online his new digital publication Mouthprint and has written about other on his blog . Mattia has refreshed his site to better reflect his always-changing life. I’m sure he’s gonna tweak it 45 more times in the next 12 months, while he tries to figure out what to do with his life between taking photos, making apps, writing newsle…",
+      "description": "Always makes me happy to blog about friends with new sites, and let more people know about their existence and drive extra traffic in their direction. Carl has pushed online his new digital publication Mouthprint and has written about it on his blog . Mattia has refreshed his site to better reflect his always-changing life. I’m sure he’s gonna tweak it 45 more times in the next 12 months, while he tries to figure out what to do with his life between taking photos, making apps, writing newslette…",
       "link": "https://manuelmoreale.com/thoughts/friends-with-new-sites",
       "image": null,
       "feed_name": "Manuel Moreale RSS Feed",
@@ -5435,20 +5435,6 @@
       "category": "personal blogs",
       "feed_url": "http://jeffbridgforth.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=jeffbridgforth.com&sz=64"
-    },
-    {
-      "id": "https://adactio.com/journal/22805",
-      "title": "Ranking proposals for Interop 2027",
-      "published": "2026-10-16T17:58:53+00:00",
-      "author": "jeremy@adactio.com (Jeremy Keith)",
-      "description": "The Firefox team are asking us to weigh in on proposals for Interop 2027—what features should browsers be concentrating on implementing or improving. Here are my top five : Web app installation via <install> and navigator.install() . Prompts the user to install a progressive web app. Speculation Rules API . Hints to the browser to proactively download pages in the background so they appear instantly when the user navigates to them. CSS var() in size container queries . Such as @container (width…",
-      "link": "https://adactio.com/journal/22805",
-      "image": null,
-      "feed_name": "Adactio: Journal",
-      "feed_title": "Adactio: Journal",
-      "category": "personal blogs",
-      "feed_url": "http://adactio.com/journal/rss/",
-      "feed_icon": "https://adactio.com/images/rssbutton.gif"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
