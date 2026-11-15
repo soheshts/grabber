@@ -1,9 +1,37 @@
 {
   "category": "technology",
-  "updated": "2026-11-15T12:32:37.195623+00:00",
+  "updated": "2026-11-15T13:03:29.701814+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.theverge.com/?p=1033943",
+      "title": "An overview of Jensen Huang’s messy days",
+      "published": "2026-11-15T13:00:00+00:00",
+      "author": "Terrence O’Brien",
+      "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started On October […]",
+      "link": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2301620664.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "feed_name": "The Verge -  All Posts",
+      "feed_title": "The Verge",
+      "category": "technology",
+      "feed_url": "https://www.theverge.com/rss/index.xml",
+      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
+    },
+    {
+      "id": "https://news.slashdot.org/story/26/11/15/0615219/how-will-ai-affect-open-source-development?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "title": "How Will AI Affect Open Source Development?",
+      "published": "2026-11-15T12:34:00+00:00",
+      "author": "EditorDavid",
+      "description": "This week the Linux Foundation's Open Source Security Foundation (OpenSSF) announced it would broaden its AI security resources, including a new guide to finding and fixing vulnerabilities using AI, \"from preparing and sandboxing AI to validating, fixing, and preventing issues.\" The guide \"stresses that AI-generated patches should never be trusted without automated tests and human review. An online course (LFD126) is planned for the coming months.\" OpenSSF also released the State of AI Impact o…",
+      "link": "https://news.slashdot.org/story/26/11/15/0615219/how-will-ai-affect-open-source-development?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+      "feed_name": "Slashdot",
+      "feed_title": "Slashdot",
+      "category": "technology",
+      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
+    },
     {
       "id": "https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/",
       "title": "How the world’s fires changed while humanity hit pause",
@@ -13975,34 +14003,6 @@
       "category": "technology",
       "feed_url": "https://www.cnet.com/rss/news/",
       "feed_icon": "https://www.cnet.com/wp-content/uploads/sites/2/cropped-favicon-480.png?w=32"
-    },
-    {
-      "id": "00vMUjUBKpr9Eroo5TP21nj",
-      "title": "NYT Connections hints today: Meanings for each word for Nov. 10, 2026",
-      "published": "2026-11-10T03:00:00+00:00",
-      "author": null,
-      "description": "Why is NYT Connections trending today? Explaining the meanings behind the clues for NYT Connections #1248.",
-      "link": "https://mashable.com/entertainment/nyt-connections-hints-meanings-november-10-2026",
-      "image": "https://helios-i.mashable.com/imagery/articles/00vMUjUBKpr9Eroo5TP21nj/hero-image.jpg",
-      "feed_name": "Mashable",
-      "feed_title": "Mashable",
-      "category": "technology",
-      "feed_url": "http://feeds.mashable.com/Mashable",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
-    },
-    {
-      "id": "04Ilutcy62rAgUlyH77Z9vp",
-      "title": "NYT Connections hints today: Clues, answers for November 10, 2026",
-      "published": "2026-11-10T03:00:00+00:00",
-      "author": null,
-      "description": "Connections is a New York Times word game that's all about finding the \"common threads between words.\" How to solve the puzzle.",
-      "link": "https://mashable.com/entertainment/nyt-connections-hint-answer-today-november-10-2026",
-      "image": "https://helios-i.mashable.com/imagery/articles/04Ilutcy62rAgUlyH77Z9vp/hero-image.jpg",
-      "feed_name": "Mashable",
-      "feed_title": "Mashable",
-      "category": "technology",
-      "feed_url": "http://feeds.mashable.com/Mashable",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
     }
   ]
 }

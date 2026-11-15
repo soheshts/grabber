@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-15T12:32:37.195623+00:00",
+  "updated": "2026-11-15T13:03:29.701814+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/use-c-aa-battery-mouse-keyboard/",
+      "title": "I gave my battery-powered mouse and keyboard a USB-C port they never had",
+      "published": "2026-11-15T13:00:16+00:00",
+      "author": "Pankil Shah",
+      "description": "My old peripherals finally got an upgrade.",
+      "link": "https://www.makeuseof.com/use-c-aa-battery-mouse-keyboard/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/usb-c-aa-batteries-with-mouse-and-keyboard.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/kagi-abandoning-orion-browser-windows-linux-but-code-going-open-source/",
+      "title": "Kagi is abandoning its Orion browser on Windows and Linux, but the code is going open source",
+      "published": "2026-11-15T13:00:15+00:00",
+      "author": "David J. Buck",
+      "description": "Kagi's Orion browser for Linux was a promising development, but now it's in the hands of the open-source community.",
+      "link": "https://www.howtogeek.com/kagi-abandoning-orion-browser-windows-linux-but-code-going-open-source/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/kagi-orion-fi.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/why-nvidias-downfall-wont-help-you-buy-a-gpu-and-why-it-might-still-be-good-news/",
       "title": "Jensen Huang's exit won't make your next GPU cheaper, but it might change how Nvidia treats gamers",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://hackaday.com/?p=1397250",
-      "title": "FloppoScope is a Disk Image Analyzer",
-      "published": "2026-11-01T15:00:36+00:00",
-      "author": "Zoe Skyforest",
-      "description": "If you’re a big retro tech fan, you might still have a floppy drive on hand, or even some sort of high-end disk imaging solution. If you’re a little less …read more",
-      "link": "https://hackaday.com/2026/11/01/flopposcope-is-a-disk-image-analyzer/",
-      "image": "https://hackaday.com/wp-content/uploads/2026/10/disk_layout_zoom_in_4c6843-e1793511476720.png",
-      "feed_name": "Blog – Hackaday",
-      "feed_title": "Blog – Hackaday",
-      "category": "DIY",
-      "feed_url": "https://hackaday.com/blog/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/these-router-defaults-could-be-holding-back-your-wi-fi-without-you-realizing-it/",
-      "title": "These 4 router defaults could be holding back your Wi-Fi without you realizing it",
-      "published": "2026-11-01T15:00:16+00:00",
-      "author": "Oluwaseun Bamisile",
-      "description": "Your router’s default settings are built for convenience, not speed.",
-      "link": "https://www.makeuseof.com/these-router-defaults-could-be-holding-back-your-wi-fi-without-you-realizing-it/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/deco-x50-router.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }
