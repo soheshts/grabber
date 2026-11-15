@@ -1,9 +1,37 @@
 {
   "category": "science",
-  "updated": "2026-11-15T01:03:47.619376+00:00",
+  "updated": "2026-11-15T01:33:36.552711+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "news713625541",
+      "title": "Is this iconic black hole image accurate? New study delivers an independent result",
+      "published": "2026-11-15T01:30:01+00:00",
+      "author": null,
+      "description": "On April 10, 2019, the Event Horizon Telescope (EHT) Collaboration revealed the first picture of a black hole. The object is at the center of a galaxy known as M87, about 55 million light-years away.",
+      "link": "https://phys.org/news/2026-11-iconic-black-hole-image-accurate.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/is-this-iconic-black-h.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/live/2026/11/14/science/spacex-starship-launch",
+      "title": "Highlights From the Starship Landing",
+      "published": "2026-11-15T01:17:38+00:00",
+      "author": "The New York Times",
+      "description": "The Starship spacecraft safely landed back at the Starbase launch facility, a major step in SpaceX’s quest to build fully reusable rockets.",
+      "link": "https://www.nytimes.com/live/2026/11/14/science/spacex-starship-launch",
+      "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14starship-launch-header-cfqw/14starship-launch-header-cfqw-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Science",
+      "feed_title": "NYT > Science",
+      "category": "science",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "https://www.nytimes.com/2026/11/14/science/spacex-starship-first-catch.html",
       "title": "SpaceX Makes History With Successful Rocket Catch in Texas",
@@ -12,20 +40,6 @@
       "description": "The Starship spacecraft returned from orbit to the same spot where it lifted off, marking a key milestone in SpaceX’s vision of building fully reusable rockets.",
       "link": "https://www.nytimes.com/2026/11/14/science/spacex-starship-first-catch.html",
       "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14starship-header-01-vgzq/14starship-header-01-vgzq-mediumSquareAt3X.jpg",
-      "feed_name": "NYT > Science",
-      "feed_title": "NYT > Science",
-      "category": "science",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "https://www.nytimes.com/live/2026/11/14/science/spacex-starship-launch",
-      "title": "Highlights From the Starship Landing",
-      "published": "2026-11-15T00:15:27+00:00",
-      "author": "The New York Times",
-      "description": "The Starship spacecraft safely landed back at the Starbase launch facility, a major step in SpaceX’s quest to build fully reusable rockets.",
-      "link": "https://www.nytimes.com/live/2026/11/14/science/spacex-starship-launch",
-      "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14starship-launch-header-cfqw/14starship-launch-header-cfqw-mediumSquareAt3X.jpg",
       "feed_name": "NYT > Science",
       "feed_title": "NYT > Science",
       "category": "science",
@@ -13989,20 +14003,6 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "6aeb94a69f528791af8c1bc2",
-      "title": "Why great art requires risk | Alex Van Halen, David Lee Roth, Robert Vargas",
-      "published": "2026-11-05T16:13:59+00:00",
-      "author": "TED",
-      "description": "Alex Van Halen and David Lee Roth — two of the rock stars behind the legendary band Van Halen — sit down with visual artist Robert Vargas to reveal the two-step recipe for great art: do your homework, then break every rule. Along the way, they swap stories about heartbreak, good luck charms and why you should rehearse for what goes wrong. Hosted on Acast. See acast.com/privacy for more information.",
-      "link": "http://go.ted.com/alexdavidrobert",
-      "image": null,
-      "feed_name": "TED Talks Daily (SD video)",
-      "feed_title": "TED Talks Daily",
-      "category": "science",
-      "feed_url": "https://pa.tedcdn.com/feeds/talks.rss",
-      "feed_icon": "https://assets.pippa.io/shows/67587e77c705e441797aff96/show-cover.png"
     }
   ]
 }
