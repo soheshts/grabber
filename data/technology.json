@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated": "2026-11-15T07:33:37.859792+00:00",
+  "updated": "2026-11-15T08:02:59.197075+00:00",
   "count": 1000,
   "summary": null,
   "items": [
@@ -297,6 +297,20 @@
       "category": "technology",
       "feed_url": "https://www.engadget.com/rss.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
+    {
+      "id": "yt:video:DsvAYzKOfBU",
+      "title": "How to Download Apps on Linux",
+      "published": "2026-11-14T22:39:54+00:00",
+      "author": "Linus Tech Tips",
+      "description": "This tutorial dives into the different types of apps and where you can download them on your Linux system, because it can get a little complicated...",
+      "link": "https://www.youtube.com/shorts/DsvAYzKOfBU",
+      "image": "https://i1.ytimg.com/vi/DsvAYzKOfBU/hqdefault.jpg",
+      "feed_name": "Linus Tech Tips",
+      "feed_title": "Linus Tech Tips",
+      "category": "technology",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?user=LinusTechTips",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64"
     },
     {
       "id": "https://linux.slashdot.org/story/26/11/14/2236207/manjaro-linux-moves-toward-independent-community-governance?utm_source=rss1.0mainlinkanon&utm_medium=feed",
@@ -13989,20 +14003,6 @@
       "category": "technology",
       "feed_url": "https://lifehacker.com/rss",
       "feed_icon": "https://www.google.com/s2/favicons?domain=lifehacker.com&sz=64"
-    },
-    {
-      "id": "00uw5S3wFP5AgGIwWwfcpFx",
-      "title": "A transitioning Congress finds itself in a pickle on AI data centers",
-      "published": "2026-11-09T22:47:38+00:00",
-      "author": null,
-      "description": "Politicians are walking a tightrope when it comes to regulating AI.",
-      "link": "https://mashable.com/tech/congress-legislation-ai-data-centers",
-      "image": "https://helios-i.mashable.com/imagery/articles/00uw5S3wFP5AgGIwWwfcpFx/hero-image.jpg",
-      "feed_name": "Mashable",
-      "feed_title": "Mashable",
-      "category": "technology",
-      "feed_url": "http://feeds.mashable.com/Mashable",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
     }
   ]
 }
