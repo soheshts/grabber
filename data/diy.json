@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-15T20:32:20.865673+00:00",
+  "updated": "2026-11-15T21:03:50.156499+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/smart-home-gadgets-that-stop-working-in-cold-weather/",
+      "title": "4 smart home gadgets that quietly stop working once it drops below freezing",
+      "published": "2026-11-15T21:00:17+00:00",
+      "author": "Chris Hachey",
+      "description": "Be mindful or they'll freeze you out.",
+      "link": "https://www.makeuseof.com/smart-home-gadgets-that-stop-working-in-cold-weather/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/04/govee-5.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/clever-3d-prints-for-an-empty-altoids-tin/",
+      "title": "8 clever 3D prints that give an empty Altoids tin a second life",
+      "published": "2026-11-15T21:00:16+00:00",
+      "author": "Joe Fedewa",
+      "description": "Curiously useful.",
+      "link": "https://www.howtogeek.com/clever-3d-prints-for-an-empty-altoids-tin/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/connect-4-game-in-an-altoids-tin-7-1.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/bootable-usb-rescue-drive/",
       "title": "Every household should keep this USB drive for the day nothing else works",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://hackaday.com/blog/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/local-llm-control-thermostat-versus-nest-and-ecobee/",
-      "title": "I let a local LLM control my thermostat to see if it could beat Nest and Ecobee",
-      "published": "2026-11-01T23:30:14+00:00",
-      "author": "Adam Davidson",
-      "description": "The heat is on.",
-      "link": "https://www.howtogeek.com/local-llm-control-thermostat-versus-nest-and-ecobee/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/a-tado-smart-thermostat-on-a-shelf-display-a-temperature-of-18-degrees.png",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/google-messages-is-the-only-android-app-allowed-to-send-rcs-and-that-should-worry-you/",
-      "title": "Google Messages is the only Android app allowed to send RCS, and that should worry you",
-      "published": "2026-11-01T23:00:16+00:00",
-      "author": "Rob LeFebvre",
-      "description": "RCS is an open standard, as long as you open Google Messages to use it.",
-      "link": "https://www.makeuseof.com/google-messages-is-the-only-android-app-allowed-to-send-rcs-and-that-should-worry-you/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/rcs-chat-with-rob.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }
