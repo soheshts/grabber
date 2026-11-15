@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-15T11:03:58.125469+00:00",
+  "updated": "2026-11-15T11:32:54.046858+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/chrome-iphone-battery-drain/",
+      "title": "This one app is why your iPhone battery drains so fast",
+      "published": "2026-11-15T11:30:16+00:00",
+      "author": "Amir Bohlooli",
+      "description": "... and you probably have it installed.",
+      "link": "https://www.makeuseof.com/chrome-iphone-battery-drain/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/03/iphone-16-pro-set-vertically-on-a-table-running-safari-1.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/launcher-let-play-steam-games-on-android-phone-no-streaming-required/",
+      "title": "This launcher let me play Steam games on my Android phone, no streaming required",
+      "published": "2026-11-15T11:30:15+00:00",
+      "author": "Sydney Butler",
+      "description": "Older PC classics run at high frame rates on modern phones while newer titles demand steep settings cuts and space.",
+      "link": "https://www.howtogeek.com/launcher-let-play-steam-games-on-android-phone-no-streaming-required/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/16283.jpeg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/phone-identify-birds-by-sound/",
       "title": "Smartphones can identify faces and songs, but this trick is way cooler",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://abeautifulmess.com/feed",
       "feed_icon": "https://abeautifulmess.com/wp-content/uploads/2016/12/cropped-ABM-Favicon-60x60.jpg"
-    },
-    {
-      "id": "https://www.howtogeek.com/806217/search-engine-keeps-changing-to-yahoo-heres-what-to-do/",
-      "title": "Search Engine Keeps Changing to Yahoo? Here's What to Do",
-      "published": "2026-11-01T13:51:02+00:00",
-      "author": "Russ Ware",
-      "description": "Stop browser hijackers from changing your homepage.",
-      "link": "https://www.howtogeek.com/806217/search-engine-keeps-changing-to-yahoo-heres-what-to-do/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/yahoo-website-logo.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/will-philips-retire-second-gen-hue-bridge/",
-      "title": "Philips already retired one generation of Hue, and it tells you how the next one ends",
-      "published": "2026-11-01T13:30:16+00:00",
-      "author": "Jonathon Jachura",
-      "description": "Here's how Philips retired their v1 bridge and how they might retire the v2 one next.",
-      "link": "https://www.makeuseof.com/will-philips-retire-second-gen-hue-bridge/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/12/holding-philips-hue-bridge.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }
