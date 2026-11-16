@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-16T00:03:01.739828+00:00",
+  "updated": "2026-11-16T00:32:47.318618+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://hackaday.com/?p=1428100&preview=true&preview_id=1428100",
+      "title": "Hackaday Links: November 15, 2026",
+      "published": "2026-11-16T00:00:27+00:00",
+      "author": "Al Williams",
+      "description": "Another Hackaday Supercon is in the history books. The new venue was amazing. We had more attendees than ever and still had room to spare. You can find many of …read more",
+      "link": "https://hackaday.com/2026/11/15/hackaday-links-november-15-2026/",
+      "image": "https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/fire-tv-doesnt-make-sense-heres-whats-replacing-it/",
       "title": "Fire TV doesn't make sense anymore — here's what's replacing it",
@@ -59,6 +73,20 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.apartmenttherapy.com/bathroom-makeover-bird-wallpaper-ba-37699803",
+      "title": "She Gave Her New-Build Bathroom Into a “Private Boutique Hotel” Energy",
+      "published": "2026-11-15T23:00:00+00:00",
+      "author": "Sarah Everett",
+      "description": "The 43-square-foot bathroom is now “grand and moody.” READ MORE...",
+      "link": "https://www.apartmenttherapy.com/bathroom-makeover-bird-wallpaper-ba-37699803?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+projects",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2025/2025-04/michaela-h-bathroom/michaela-h-bathroom-before-tag",
+      "feed_name": "Apartment Therapy| Saving the world, one room at a time",
+      "feed_title": "Apartment Therapy| Saving the world, one room at a time",
+      "category": "DIY",
+      "feed_url": "https://www.apartmenttherapy.com/projects.rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.apartmenttherapy.com&sz=64"
     },
     {
       "id": "https://www.makeuseof.com/theres-a-free-tool-you-can-use-to-show-what-your-network-is-doing-and-it-takes-minutes-to-set-up/",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://hackaday.com/blog/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/i-stopped-relying-on-smart-health-scores-after-learning-what-they-actually-ignore/",
-      "title": "I stopped relying on SMART health scores after learning what they actually ignore",
-      "published": "2026-11-02T12:00:17+00:00",
-      "author": "Shaheer Khan",
-      "description": "SMART health scores miss the SSD failures that matter most",
-      "link": "https://www.makeuseof.com/i-stopped-relying-on-smart-health-scores-after-learning-what-they-actually-ignore/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/a-lexar-nvme-ssd-held-between-fingers-1.jpeg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/docker-compose-turned-my-fragile-pi-hole-setup-into-a-rock-solid-dns-fortress/",
-      "title": "Docker Compose turned my fragile Pi-hole setup into a rock-solid DNS fortress",
-      "published": "2026-11-02T12:00:15+00:00",
-      "author": "Umair Khurshid",
-      "description": "My Pi-hole setup needed to survive the occasional mistake, update, and reboot!",
-      "link": "https://www.howtogeek.com/docker-compose-turned-my-fragile-pi-hole-setup-into-a-rock-solid-dns-fortress/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/an-hp-zbook-displays-the-pi-hole-dashboard-with-315-596-total-queries-41-384-blocked-queries-and-13-741-adlist-domains-1.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
     }
   ]
 }
