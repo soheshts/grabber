@@ -1,15 +1,29 @@
 {
   "category": "World News",
-  "updated": "2026-11-16T02:33:07.168299+00:00",
+  "updated": "2026-11-16T03:03:07.393924+00:00",
   "count": 1000,
   "summary": null,
   "items": [
     {
+      "id": "108551660",
+      "title": "Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite",
+      "published": "2026-11-16T02:56:24+00:00",
+      "author": null,
+      "description": "Energy subsidies for households had reportedly expired in September, exposing the economy to the higher energy prices brought about by the Iran war.",
+      "link": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108551661-1794785886757-gettyimages-2288262163-Stanislav-Kogiku-1440900.jpeg?v=1794785920&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
       "id": "108551663",
       "title": "China’s slowdown deepens in October as industrial output, retail sales, investment miss estimates",
-      "published": "2026-11-16T02:14:03+00:00",
+      "published": "2026-11-16T02:52:48+00:00",
       "author": null,
-      "description": "The investment slump deepened and retail sales again lagged industrial output, with the property market downturn eroding household wealth for a fifth year.",
+      "description": "A deepening reliance on external demand leaves China more exposed to shocks abroad as domestic momentum fades, analysts say.",
       "link": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html",
       "image": "https://image.cnbcfm.com/api/v1/image/108551664-1794786973563-gettyimages-2299353111-img_6622.jpeg?v=1794787492&w=1920&h=1080",
       "feed_name": "CNBC",
@@ -17,6 +31,20 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.theguardian.com/australia-news/2026/nov/16/mp-helen-haines-out-of-hospital-after-attack-leg-amputation-ntwnfb",
+      "title": "MP Helen Haines leaves hospital four weeks after alleged attack and double leg amputation",
+      "published": "2026-11-16T02:26:24+00:00",
+      "author": "Krishani Dhanji",
+      "description": "Independent MP says she is ‘overwhelmed’ by thousands of warm wishes and thanked Australians for donations Independent Australian MP Helen Haines has been discharged from hospital, four weeks after she was allegedly attacked by a man outside her electorate office in regional Victoria resulting in the double amputation of her legs. In a statement, Haines said she has moved to the rehabilitation stage of her recovery, which would continue in Melbourne. Haines was being treated at the city’s Alfre…",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/16/mp-helen-haines-out-of-hospital-after-attack-leg-amputation-ntwnfb",
+      "image": "https://i.guim.co.uk/img/media/e095e9628412d9e77ce67e0af0ba05d71fc9eca9/698_0_5541_4435/master/5541.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=26e652f6212f08e009c2c2612ff2c129",
+      "feed_name": "The Guardian",
+      "feed_title": "World news | The Guardian",
+      "category": "World News",
+      "feed_url": "https://www.theguardian.com/world/rss",
+      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
     },
     {
       "id": "https://www.nytimes.com/2026/11/15/world/americas/felix-gallardo-mexico-dead.html",
@@ -145,20 +173,6 @@
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
-      "id": "https://www.theguardian.com/australia-news/2026/nov/16/mp-helen-haines-out-of-hospital-after-attack-leg-amputation-ntwnfb",
-      "title": "MP Helen Haines leaves hospital four weeks after alleged attack and double leg amputation",
-      "published": "2026-11-16T01:36:54+00:00",
-      "author": "Krishani Dhanji",
-      "description": "The Alfred hospital in Melbourne confirmed on Monday the independent MP had been discharged Independent Australian MP Helen Haines has been discharged from hospital, four weeks after she was allegedly attacked by a man outside her electorate office in regional Victoria and lost both of her legs. The Alfred hospital in Melbourne confirmed on Monday Haines had been discharged, but provided no further detail. Her office has been contacted. Continue reading...",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/16/mp-helen-haines-out-of-hospital-after-attack-leg-amputation-ntwnfb",
-      "image": "https://i.guim.co.uk/img/media/e095e9628412d9e77ce67e0af0ba05d71fc9eca9/698_0_5541_4435/master/5541.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=26e652f6212f08e009c2c2612ff2c129",
-      "feed_name": "The Guardian",
-      "feed_title": "World news | The Guardian",
-      "category": "World News",
-      "feed_url": "https://www.theguardian.com/world/rss",
-      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
-    },
-    {
       "id": "https://timesofindia.indiatimes.com/world/south-asia/fresh-labour-unrest-hits-bdesh-garment-sector/articleshow/135869416.cms",
       "title": "Fresh labour unrest hits Bangladesh garment sector",
       "published": "2026-11-16T01:36:02+00:00",
@@ -283,20 +297,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "108551660",
-      "title": "Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite",
-      "published": "2026-11-16T01:02:48+00:00",
-      "author": null,
-      "description": "Energy subsidies for households had reportedly expired in September, exposing the economy to the higher energy prices brought about by the Iran war.",
-      "link": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108551661-1794785886757-gettyimages-2288262163-Stanislav-Kogiku-1440900.jpeg?v=1794785920&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
       "id": "t3_1xxbrep",
