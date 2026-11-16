@@ -1,7 +1,7 @@
 {
   "category": "funny",
-  "updated": "2026-11-16T22:33:38.904517+00:00",
-  "count": 665,
+  "updated": "2026-11-16T23:03:50.134457+00:00",
+  "count": 666,
   "summary": null,
   "items": [
     {
@@ -311,6 +311,20 @@
       "category": "funny",
       "feed_url": "http://syndication.thedailywtf.com/TheDailyWtf",
       "feed_icon": "https://www.google.com/s2/favicons?domain=thedailywtf.com&sz=64"
+    },
+    {
+      "id": "https://xkcd.com/3325/",
+      "title": "Light-Day",
+      "published": "2026-11-16T05:00:00+00:00",
+      "author": null,
+      "description": "",
+      "link": "https://xkcd.com/3325/",
+      "image": "https://imgs.xkcd.com/comics/light_day.png",
+      "feed_name": "xkcd.com",
+      "feed_title": "xkcd.com",
+      "category": "funny",
+      "feed_url": "https://xkcd.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=xkcd.com&sz=64"
     },
     {
       "id": "https://cheezburger.com/47371269/5-nostalgic-names-doing-a-comback-cat-style",
