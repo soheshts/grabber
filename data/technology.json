@@ -1,9 +1,37 @@
 {
   "category": "technology",
-  "updated": "2026-11-16T10:33:40.664484+00:00",
+  "updated": "2026-11-16T11:03:54.385740+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.theverge.com/?p=1034047",
+      "title": "Senator slams Commerce Secretary for flow of Nvidia AI chips to China",
+      "published": "2026-11-16T11:00:00+00:00",
+      "author": "Jess Weatherbed",
+      "description": "Washington Senator Maria Cantwell, one of the top Democrats on the Senate commerce committee, has taken fire at the Department of Commerce (DOC) under Secretary Howard Lutnick for neglecting to enforce protections intended to keep Nvidia's AI chips away from China. In a letter to Lutnick on Sunday, Cantwell said the DOC has \"undermined America's […]",
+      "link": "https://www.theverge.com/policy/1034047/nvidia-us-commerce-department-cantwell-lutnick",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK414_AI_CVIRGINIA_I__0003_1.png?quality=90&strip=all&crop=0,0,100,100",
+      "feed_name": "The Verge -  All Posts",
+      "feed_title": "The Verge",
+      "category": "technology",
+      "feed_url": "https://www.theverge.com/rss/index.xml",
+      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
+    },
+    {
+      "id": "TheNextWeb=26b9b8ced1de776e879f903966ee4728",
+      "title": "The paradox of AI safety",
+      "published": "2026-11-16T10:39:16+00:00",
+      "author": "Veronika Furs",
+      "description": "As a child, I dreamed of understanding the universe. That dream eventually led me to physics, and later, somewhat unexpectedly, to artificial intelligence. I quickly found that AI offered the same intellectual thrill, along with an entirely new mystery to explore: intelligence itself. The challenge got me hooked. What got me to stay was the […] This story continues at The Next Web",
+      "link": "https://thenextweb.com/news/paradox-of-ai-safety-dyssonance-google-deepmind",
+      "image": "https://media.thenextweb.com/2026/11/dyssonance-belief-graph-reasoning-dashboard.avif",
+      "feed_name": "The Next Web",
+      "feed_title": "The Next Web",
+      "category": "technology",
+      "feed_url": "https://thenextweb.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
     {
       "id": "TheNextWeb=4dccf5e8d2bd4fa857abe7596a64ef4c",
       "title": "Nvidia’s new boss is expected to rein in its AI financing, WSJ reports",
@@ -13975,34 +14003,6 @@
       "category": "technology",
       "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
       "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
-    },
-    {
-      "id": "https://www.engadget.com/2307774/playstation-5-shutdown-vs-rest-mode-differences/",
-      "title": "What is the difference between rest mode and shutdown for your PlayStation 5?",
-      "published": "2026-11-10T16:15:00+00:00",
-      "author": "Kris Holt",
-      "description": "Rest mode is more convenient, but shutting the console off could give you more piece of mind.",
-      "link": "https://www.engadget.com/2307774/playstation-5-shutdown-vs-rest-mode-differences/",
-      "image": "https://www.engadget.com/img/gallery/what-is-the-difference-between-rest-mode-and-shutdown-for-your-playstation-5/l-intro-1793390186.jpg",
-      "feed_name": "Engadget",
-      "feed_title": "Engadget - Technology News & Expert Reviews",
-      "category": "technology",
-      "feed_url": "https://www.engadget.com/rss.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
-    },
-    {
-      "id": "https://www.engadget.com/2312120/gta-6-is-targeting-30-fps-and-has-ray-tracing-support-on-ps5-pro/",
-      "title": "GTA 6 is targeting 30 fps and has ray-tracing support on PS5 Pro",
-      "published": "2026-11-10T16:12:44+00:00",
-      "author": "Kris Holt",
-      "description": "Xbox Cloud Gaming support means you'll be able to stream GTA6 on Xbox One.",
-      "link": "https://www.engadget.com/2312120/gta-6-is-targeting-30-fps-and-has-ray-tracing-support-on-ps5-pro/",
-      "image": "https://www.engadget.com/img/gallery/gta-6-is-targeting-30-fps-and-has-ray-tracing-support-on-ps5-pro/l-intro-1794327030.jpg",
-      "feed_name": "Engadget",
-      "feed_title": "Engadget - Technology News & Expert Reviews",
-      "category": "technology",
-      "feed_url": "https://www.engadget.com/rss.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
     }
   ]
 }

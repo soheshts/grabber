@@ -1,9 +1,23 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-16T10:33:40.664484+00:00",
-  "count": 444,
+  "updated": "2026-11-16T11:03:54.385740+00:00",
+  "count": 445,
   "summary": null,
   "items": [
+    {
+      "id": "https://rachsmith.com/my-job-has-changed/",
+      "title": "The nature of my job has completely changed",
+      "published": "2026-11-16T10:49:09+00:00",
+      "author": null,
+      "description": "When I first tried out getting an agent to write code for me, the output was straight bad. Then, the models got better, but I didn't like how they heavy-handed they were, and did things I did not ask for. I learnt the trick to avoiding this is to be incredibly specific about your requirements, and get the agent to confirm with you before acting on any \"assumptions\" it has made. Now, with the new approach, and a mountain of markdown files, I can generate code that gets the job done, and has test…",
+      "link": "https://rachsmith.com/my-job-has-changed",
+      "image": "https://rachsmith.b-cdn.net/my-job-has-changed/social.png",
+      "feed_name": "Rach Smith's digital garden",
+      "feed_title": "Rach Smith's notes & nuggets",
+      "category": "personal blogs",
+      "feed_url": "http://rachsmith.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=rachsmith.com&sz=64"
+    },
     {
       "id": "https://dariuszwinkler.com/photo/0199/",
       "title": "#0199",
@@ -233,7 +247,7 @@
       "title": "What If UI Components Were Built Like Modular Phones?",
       "published": "2026-11-15T00:00:00+00:00",
       "author": "Amit Merchant",
-      "description": "Remember the idea of modular phones? Instead of buying a phone with everything fixed into it, you could assemble one using individual modules.",
+      "description": "Remember the idea of modular phones? Instead of buying a phone with everything fixed into it, you could assemble one using individual modules1. I later realised that modular phones never really took off, but the idea of modularity is still interesting and applicable in other contexts. ↩",
       "link": "https://www.amitmerchant.com/what-if-ui-components-were-built-like-modular-phones/",
       "image": "https://www.amitmerchant.com/cdn/what-if-ui-components-were-built-like-modular-phones.png",
       "feed_name": "Amit Merchant",
