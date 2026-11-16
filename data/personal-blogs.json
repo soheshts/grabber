@@ -1,6 +1,6 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-16T11:33:35.689378+00:00",
+  "updated": "2026-11-16T12:02:55.082817+00:00",
   "count": 445,
   "summary": null,
   "items": [
@@ -45,6 +45,20 @@
       "category": "personal blogs",
       "feed_url": "http://mattgemmell.com/atom.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=mattgemmell.scot&sz=64"
+    },
+    {
+      "id": "https://allthingssmitty.com/2026/11/16/sometimes-three-boring-statements-beat-one-clever-expression",
+      "title": "Sometimes three boring statements beats one clever expression",
+      "published": "2026-11-16T05:00:00+00:00",
+      "author": "Matt Smith",
+      "description": "I used to pack as much JavaScript as I could into one expression. Lately I'd rather write three boring statements.",
+      "link": "https://allthingssmitty.com/2026/11/16/sometimes-three-boring-statements-beat-one-clever-expression/",
+      "image": "https://allthingssmitty.com/img/posts/sunset-home-office-min.jpg",
+      "feed_name": "Matt Smith",
+      "feed_title": "Matt Smith",
+      "category": "personal blogs",
+      "feed_url": "https://allthingssmitty.com/atom.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=allthingssmitty.com&sz=64"
     },
     {
       "id": "https://www.joedolson.com/?p=52343",
@@ -5505,20 +5519,6 @@
       "category": "personal blogs",
       "feed_url": "http://feeds.feedburner.com/FunctioningForm",
       "feed_icon": "https://static.lukew.com/lukew_space.png"
-    },
-    {
-      "id": "https://shkspr.mobi/blog/?p=76754",
-      "title": "Book Review: Are You *Really* The Doctor? by Matthew Hutchinson ★★★⯪☆",
-      "published": "2026-10-17T11:34:57+00:00",
-      "author": "Terence Eden",
-      "description": "A few months ago, I went to see Dr Hutchinson record his stand-up comedy special for the BBC - it's about his experiences working in the NHS as a Black doctor. As the title of the book implies, some of the public can be a mite suspicious that anyone with even a hint of melanin can rise beyond being a porter or, at a push, a nurse. Much like Adam Kay's \"This Is Going To Hurt\", this is part…",
-      "link": "https://shkspr.mobi/blog/2026/10/book-review-are-you-really-the-doctor-by-matthew-hutchinson/",
-      "image": "https://shkspr.mobi/blog/wp-content/uploads/2026/10/are-you-really-the-doctor.avif",
-      "feed_name": "Terence Eden’s Blog",
-      "feed_title": "Terence Eden’s Blog",
-      "category": "personal blogs",
-      "feed_url": "https://shkspr.mobi/blog/feed/atom/",
-      "feed_icon": "https://shkspr.mobi/blog/wp-content/uploads/2023/07/cropped-avatar-32x32.jpeg"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",

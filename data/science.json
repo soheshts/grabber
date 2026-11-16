@@ -1,9 +1,23 @@
 {
   "category": "science",
-  "updated": "2026-11-16T11:33:35.689378+00:00",
+  "updated": "2026-11-16T12:02:55.082817+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "6af4fb5e14d6b214e4117bac",
+      "title": "The EPA’s Chemical-Detecting Plane Isn’t Doing Its Job Anymore",
+      "published": "2026-11-16T11:30:00+00:00",
+      "author": "Ames Alexander",
+      "description": "The Cessna is flying fewer missions and can no longer provide real-time data to disaster responders as toxic emergencies rise.",
+      "link": "https://www.wired.com/story/epa-chemical-detecting-plane-isnt-doing-job/",
+      "image": "https://media.wired.com/photos/6af5c0853b3d498b480a78ca/master/pass/111226-EPA%20ASPECT%20Plane.jpg",
+      "feed_name": "Science Latest",
+      "feed_title": "Science Latest",
+      "category": "science",
+      "feed_url": "https://www.wired.com/feed/category/science/latest/rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.wired.com&sz=64"
+    },
     {
       "id": "https://www.sciencedaily.com/releases/2026/11/261112230505.htm",
       "title": "A 19-year study reveals a troubling link between napping and death",
@@ -35,7 +49,7 @@
     {
       "id": "https://www.nytimes.com/2026/11/16/climate/permitting-bill-data-centers-electricity-rates.html",
       "title": "Permitting Bill Would Charge Data Centers Billions for Power",
-      "published": "2026-11-16T10:02:16+00:00",
+      "published": "2026-11-16T10:02:17+00:00",
       "author": "Brad Plumer",
       "description": "The permitting bill could make it easier to build data centers for A.I. but a novel provision would also force data centers to pay much more for power.",
       "link": "https://www.nytimes.com/2026/11/16/climate/permitting-bill-data-centers-electricity-rates.html",
@@ -189,7 +203,7 @@
     {
       "id": "https://www.nytimes.com/2026/11/16/science/leonids-meteor-shower-peak.html",
       "title": "How to Watch the 2026 Leonids Meteor Shower",
-      "published": "2026-11-16T05:01:04+00:00",
+      "published": "2026-11-16T05:01:05+00:00",
       "author": "Katrina Miller",
       "description": "Known for bright, fast meteors with long tails, the Leonids come around every November. But the number of streaks visible per hour can be low.",
       "link": "https://www.nytimes.com/2026/11/16/science/leonids-meteor-shower-peak.html",
@@ -333,6 +347,20 @@
       "author": "Elizabeth Blackmore, C. Brandon Ogbunugafor",
       "description": "Nature, Published online: 16 November 2026; doi:10.1038/d41586-026-03712-w A lack of crosstalk between research disciplines is hampering scholars’ ability to fully examine how people have altered Earth’s biodiversity.",
       "link": "https://www.nature.com/articles/d41586-026-03712-w",
+      "image": null,
+      "feed_name": "Nature",
+      "feed_title": "Nature",
+      "category": "science",
+      "feed_url": "https://www.nature.com/nature.rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=feeds.nature.com&sz=64"
+    },
+    {
+      "id": "https://www.nature.com/articles/d41586-026-03713-9",
+      "title": "The psychology of imaginary friends — and why they are good for kids",
+      "published": "2026-11-16T00:00:00+00:00",
+      "author": "Josie Glausiusz",
+      "description": "Nature, Published online: 16 November 2026; doi:10.1038/d41586-026-03713-9 Children often conjure up invisible pals to keep them company. A psychologist delves into the reasons why.",
+      "link": "https://www.nature.com/articles/d41586-026-03713-9",
       "image": null,
       "feed_name": "Nature",
       "feed_title": "Nature",
@@ -13975,34 +14003,6 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "news713116501",
-      "title": "Antibiotic pollution may be key factor in honeybee colony collapses",
-      "published": "2026-11-05T23:20:01+00:00",
-      "author": null,
-      "description": "High losses of honeybee colonies, which play a crucial role in global food production, have caused concern around the world. Many potential factors for the population declines have been cited, but a potentially significant threat to pollinator health—environmental antibiotic pollution from agricultural sources—has been largely overlooked, according to a new article published in the Journal of the American Veterinary Medical Association.",
-      "link": "https://phys.org/news/2026-11-antibiotic-pollution-key-factor-honeybee.html",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/honeybee-colony.jpg",
-      "feed_name": "Phys.org - latest science and technology news stories",
-      "feed_title": "Phys.org - latest science and technology news stories",
-      "category": "science",
-      "feed_url": "https://phys.org/rss-feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cm78p0n09q3xo#0",
-      "title": "Delhi's toxic winter air is back - is the Indian capital prepared for pollution?",
-      "published": "2026-11-05T23:16:53+00:00",
-      "author": null,
-      "description": "The Delhi government has announced a four-month winter action plan, but experts say that won't be enough.",
-      "link": "https://www.bbc.co.uk/news/articles/cm78p0n09q3xo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f26c/live/86fa1990-d94e-11f1-a701-fddedf244c16.jpg",
-      "feed_name": "BBC News - Science & Environment",
-      "feed_title": "BBC News",
-      "category": "science",
-      "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     }
   ]
 }
