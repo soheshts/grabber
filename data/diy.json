@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-16T00:32:47.318618+00:00",
+  "updated": "2026-11-16T01:02:51.822982+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.howtogeek.com/identify-usb-c-cable-specs-on-android-phone/",
+      "title": "Can't tell your USB-C cable's specs? This free Android app reads them in seconds",
+      "published": "2026-11-16T01:00:15+00:00",
+      "author": "Namerah Saud Fatmi",
+      "description": "Type-C cables are a hot mess and impossible to identify, but I found a way to figure out their specs on Android.",
+      "link": "https://www.howtogeek.com/identify-usb-c-cable-specs-on-android-phone/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/usb-c-tester-app-android.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://hackaday.com/?p=1428100&preview=true&preview_id=1428100",
       "title": "Hackaday Links: November 15, 2026",
@@ -13989,20 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://hackaday.com/?p=1397255",
-      "title": "Static Radio For The Chumby One",
-      "published": "2026-11-02T12:00:22+00:00",
-      "author": "Zoe Skyforest",
-      "description": "If you haven’t heard of Static Radio, it’s basically an online radio station made up of podcast content. [Brendan Fitzpatrick] decided to take an old 2009 Chumby One and turn …read more",
-      "link": "https://hackaday.com/2026/11/02/static-radio-for-the-chumby-one/",
-      "image": "https://hackaday.com/wp-content/uploads/2026/10/Static-radio-on-a-2009-Chumby-One_-the-knob-tunes-podcast-stations-0-19-screenshot-1.png",
-      "feed_name": "Blog – Hackaday",
-      "feed_title": "Blog – Hackaday",
-      "category": "DIY",
-      "feed_url": "https://hackaday.com/blog/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
     }
   ]
 }
