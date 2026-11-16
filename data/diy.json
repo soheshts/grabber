@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-16T11:03:54.385740+00:00",
+  "updated": "2026-11-16T11:33:35.689378+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/beware-of-virtual-ram/",
+      "title": "The “12GB + 8GB RAM” line on a phone’s spec sheet is the most misleading number on the box",
+      "published": "2026-11-16T11:30:16+00:00",
+      "author": "Brandon Miniman",
+      "description": "Beware of phones that claim to have lots of RAM.",
+      "link": "https://www.makeuseof.com/beware-of-virtual-ram/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/feat2-4.jpeg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/excel-has-a-better-way-to-rank-your-data/",
       "title": "Excel has a better way to rank your data without moving a single row",
@@ -13989,20 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/photon-raw-editor-guides-edits-as-they-happen-better-than-youtube-tutorials/",
-      "title": "This RAW editor for beginners explains its edits as you make them, and it beats my YouTube tutorials",
-      "published": "2026-11-02T13:30:16+00:00",
-      "author": "Abhijith N Arjunan",
-      "description": "This free RAW processor seems to teach me actionable photo-editing insights that hours of YouTube tutorials haven't.",
-      "link": "https://www.makeuseof.com/photon-raw-editor-guides-edits-as-they-happen-better-than-youtube-tutorials/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/photon-running-on-a-windows-laptop.png",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }
