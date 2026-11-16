@@ -1,13 +1,27 @@
 {
   "category": "World News",
-  "updated": "2026-11-16T15:03:13.046036+00:00",
+  "updated": "2026-11-16T15:32:53.766560+00:00",
   "count": 1000,
   "summary": null,
   "items": [
     {
+      "id": "https://www.bbc.co.uk/news/articles/cry49plv8v3go#0",
+      "title": "Trump says he wouldn't mind seeing Huang return to Nvidia",
+      "published": "2026-11-16T15:31:20+00:00",
+      "author": null,
+      "description": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
+      "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
       "id": "108551937",
-      "title": "Nvidia fallout: Commerce cracks down on third-country loophole that allowed China to use computing power",
-      "published": "2026-11-16T15:01:57+00:00",
+      "title": "Nvidia fallout: Commerce targets loophole for China's data center use",
+      "published": "2026-11-16T15:27:31+00:00",
       "author": null,
       "description": "The rule was written by the Treasury Department and the National Security Council after criticism of Commerce Secretary Howard Lutnick.",
       "link": "https://www.cnbc.com/2026/11/16/nvidia-commerce-china-lutnick.html",
@@ -17,6 +31,34 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/16/world/middleeast/bahrain-shiite-clerics-convicted.html",
+      "title": "Bahrain Convicts Dozens of Shiite Clerics in Sweeping Terrorism Trial",
+      "published": "2026-11-16T15:25:21+00:00",
+      "author": "Euan Ward and Vivian Nereim",
+      "description": "The defendants were accused of colluding with Iran. Rights groups said the case was marred by torture allegations and raised concerns about religious persecution.",
+      "link": "https://www.nytimes.com/2026/11/16/world/middleeast/bahrain-shiite-clerics-convicted.html",
+      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/00int-bahrain-top-kjqv/00int-bahrain-top-kjqv-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o#0",
+      "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
+      "published": "2026-11-16T14:58:12+00:00",
+      "author": null,
+      "description": "Russia said Ukraine had launched over 2,000 drones over the course of a day, while Kyiv came under a record 17 air raid alerts.",
+      "link": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f174/live/bc6fa8f0-e1c4-11f1-a094-5fdc692f3e33.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "https://www.nytimes.com/2026/11/16/world/asia/roosters-cockfighting-philippines.html",
@@ -117,25 +159,11 @@
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
-      "id": "https://www.nytimes.com/2026/11/16/world/middleeast/bahrain-shiite-clerics-convicted.html",
-      "title": "Bahrain Convicts Dozens of Shiite Clerics in Sweeping Terrorism Trial",
-      "published": "2026-11-16T14:31:14+00:00",
-      "author": "Euan Ward and Vivian Nereim",
-      "description": "The defendants were accused of colluding with Iran. Rights groups said the case was marred by torture allegations and raised concerns about religious persecution.",
-      "link": "https://www.nytimes.com/2026/11/16/world/middleeast/bahrain-shiite-clerics-convicted.html",
-      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/00int-bahrain-top-kjqv/00int-bahrain-top-kjqv-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
       "id": "https://www.theguardian.com/world/2026/nov/16/xi-jinping-donald-trump-vladimir-putin-world-peace-trilateral-says-china",
       "title": "Xi, Trump and Putin to discuss ‘world peace’ at trilateral, says China",
       "published": "2026-11-16T14:29:55+00:00",
       "author": "Rebecca Bailey in Shenzhen and agencies",
-      "description": "Beijing stops short of confirming specific agenda items, but many hope world’s three biggest nuclear powers will talk about denuclearisation The unprecedented meeting of Xi Jinping, Donald Trump and Vladimir Putin in Shenzhen this week will cover topics of “groundbreaking significance” including “safeguarding world peace”, the Chinese foreign ministry has said. The confirmation of Thursday’s trilateral talks, on the sidelines of the Asia-Pacific Economic Cooperation (Apec) summit , cements Xi’s…",
+      "description": "Beijing stops short of confirming specific agenda items, but many hope world’s three biggest nuclear powers will talk about denuclearisation The meeting of Xi Jinping, Donald Trump and Vladimir Putin in Shenzhen this week will cover topics of “groundbreaking significance” including “safeguarding world peace”, the Chinese foreign ministry has said. The confirmation of Thursday’s first-of-their-kind trilateral talks, on the sidelines of the Asia-Pacific Economic Cooperation (Apec) summit , cement…",
       "link": "https://www.theguardian.com/world/2026/nov/16/xi-jinping-donald-trump-vladimir-putin-world-peace-trilateral-says-china",
       "image": "https://i.guim.co.uk/img/media/1ed1c93d730d4466d6341a132b8d2b1761b7b08f/937_0_4862_3888/master/4862.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=704bd0f8fc6b6538ffe5164c02c9deb5",
       "feed_name": "The Guardian",
@@ -229,6 +257,20 @@
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
     },
     {
+      "id": "t3_1xxpsxb",
+      "title": "France Quietly Deployed Troops Inside Ukraine—And Its Own Lawmakers Were Kept in the Dark, According to AFP",
+      "published": "2026-11-16T13:49:16+00:00",
+      "author": "/u/Miserable_Phase_2519",
+      "description": "submitted by /u/Miserable_Phase_2519 [link] [comments]",
+      "link": "https://www.reddit.com/r/worldnews/comments/1xxpsxb/france_quietly_deployed_troops_inside_ukraineand/",
+      "image": "https://external-preview.redd.it/gkdTCUU8g00sZ-ENJviAXHxRQ_IkF-wLUMM7BXIVBbs.jpeg?width=640&crop=smart&auto=webp&s=0aa0a83d2e2e5fc64f08d251f6d5421e777e3ecd",
+      "feed_name": "World News",
+      "feed_title": "World News",
+      "category": "World News",
+      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
+      "feed_icon": "https://www.redditstatic.com/icon.png/"
+    },
+    {
       "id": "https://timesofindia.indiatimes.com/world/europe/irish-man-jailed-for-life-over-2023-attempted-murder-of-schoolchildren-that-sparked-dublin-riots/articleshow/135891450.cms",
       "title": "Irish man jailed for life over 2023 attempted murder of schoolchildren that sparked Dublin riots",
       "published": "2026-11-16T13:48:56+00:00",
@@ -244,6 +286,20 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cm20vexye1d0o#0",
+      "title": "Gérard Depardieu drops appeal against sexual assault conviction",
+      "published": "2026-11-16T13:40:56+00:00",
+      "author": null,
+      "description": "The French film star was due to start an appeal trial after being found guilty of sexually assaulting two women on a Paris set.",
+      "link": "https://www.bbc.co.uk/news/articles/cm20vexye1d0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e5e/live/d9ec2540-e1b8-11f1-99a1-253766e7ad8b.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cm20vexye1d0o#1",
       "title": "Gérard Depardieu drops appeal against sexual assault conviction",
       "published": "2026-11-16T13:40:56+00:00",
       "author": null,
@@ -299,11 +355,25 @@
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
+      "id": "https://timesofindia.indiatimes.com/world/us/a-new-york-woman-says-she-tended-a-strip-of-land-less-than-two-feet-wide-beside-her-home-for-29-years-but-her-neighbours-dispute-her-ownership-claim-a-judge-has-allowed-the-property-lawsuit-to-proceed/articleshow/135889580.cms",
+      "title": "New York woman fights neighbours over ownership of land strip she maintained for 29 years",
+      "published": "2026-11-16T13:17:38+00:00",
+      "author": "TOI World Desk",
+      "description": "Lauren Sullivan, a resident of New York, has initiated a legal battle over a slender strip of land she maintains between her home and her neighbors'. Having cared for this space for almost three decades, Sullivan's lawsuit proceeds after the court denied a dismissal request. Her neighbors, Lisa and John Walts, challenge her claim, stating her long-term maintenance isn't sufficient under the law.",
+      "link": "https://timesofindia.indiatimes.com/world/us/a-new-york-woman-says-she-tended-a-strip-of-land-less-than-two-feet-wide-beside-her-home-for-29-years-but-her-neighbours-dispute-her-ownership-claim-a-judge-has-allowed-the-property-lawsuit-to-proceed/articleshow/135889580.cms",
+      "image": "https://static.toiimg.com/photo/msid-135890556,imgsize-2177384.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
       "id": "https://www.theguardian.com/sport/2026/nov/16/us-basketball-player-arrested-with-75lb-of-marijuana-at-nigerian-airport-say-authorities",
       "title": "US basketball player arrested with 75lb of marijuana at Nigerian airport, say authorities",
       "published": "2026-11-16T13:16:36+00:00",
       "author": "Guardian sport",
-      "description": "Suspect named as Greene Da’monte Khiree Drug smuggling carries life sentence in Nigeria An American basketball player has been arrested in Nigeria for allegedly attempting to smuggle 33.95kg (75lb) of marijuana into the country. Nigeria’s National Drug Law Enforcement Agency (NDLEA) said a 28-year-old player it named as Greene Da’monte Khiree from the state of Georgia was arrested at Lagos’s main airport last Wednesday after he arrived on a flight from Thailand via the United Arab Emirates. Con…",
+      "description": "Suspect named as Greene Da’monte Khiree Drug smuggling carries life sentence in Nigeria An American basketball player has been arrested in Nigeria for allegedly attempting to smuggle 33.95kg (75lb) of marijuana into the country. Nigeria’s National Drug Law Enforcement Agency (NDLEA) said a 28-year-old player named as Greene Da’monte Khiree from the state of Georgia was arrested at Lagos’s main airport last Wednesday after he arrived on a flight from Thailand via the United Arab Emirates. Contin…",
       "link": "https://www.theguardian.com/sport/2026/nov/16/us-basketball-player-arrested-with-75lb-of-marijuana-at-nigerian-airport-say-authorities",
       "image": "https://i.guim.co.uk/img/media/f8ab1096511b7369e43e30e2c53a8576e6387f0a/388_0_1349_1080/master/1349.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a189136b716335c613b084263e7c9233",
       "feed_name": "The Guardian",
@@ -459,7 +529,7 @@
       "author": "Motoko Rich",
       "description": "When doctors operated on Pope Leo XIV’s lung in October, some wondered if he’d postpone a long-planned trip to South America. It’s gone well so far.",
       "link": "https://www.nytimes.com/2026/11/16/world/europe/pope-leo-peru-health.html",
-      "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16int-pope-1-cjbk/16int-pope-1-cjbk-mediumSquareAt3X.jpg",
+      "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16int-pope-1-cjbk/16int-pope-1-cjbk-mediumSquareAt3X-v2.jpg",
       "feed_name": "NYT",
       "feed_title": "NYT > World News",
       "category": "World News",
@@ -577,20 +647,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cry49plv8v3go#0",
-      "title": "Elon Musk joins 'Bring Jensen Back' campaign to reinstate the ex-Nvidia boss",
-      "published": "2026-11-16T12:20:49+00:00",
-      "author": null,
-      "description": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
-      "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4318/live/458f6840-e1c1-11f1-99b6-a35a62fa4264.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/china/china-asean-pledge-restraint-as-talks-on-south-china-sea-pact-face-key-hurdles/articleshow/135888093.cms",
@@ -13947,62 +14003,6 @@
       "category": "World News",
       "feed_url": "https://www.reddit.com/r/worldnews/.rss",
       "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo#3",
-      "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
-      "published": "2026-11-12T17:11:48+00:00",
-      "author": null,
-      "description": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
-      "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b83b/live/928866f0-deac-11f1-b441-2b33b063138f.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/us/did-rfk-jr-lie-to-congress-about-samoa-trip-trumps-health-secretary-faces-probe-over-emboldening-anti-vaccine-activists/articleshow/135776697.cms",
-      "title": "RFK Jr faces probe over 'anti-vaccine' activism during 2019 Samoa visit",
-      "published": "2026-11-12T17:01:39+00:00",
-      "author": "Karan Manral",
-      "description": "",
-      "link": "https://timesofindia.indiatimes.com/world/us/did-rfk-jr-lie-to-congress-about-samoa-trip-trumps-health-secretary-faces-probe-over-emboldening-anti-vaccine-activists/articleshow/135776697.cms",
-      "image": "https://static.toiimg.com/photo/msid-135778067,imgsize-81324.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo#1",
-      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-      "published": "2026-11-12T16:54:12+00:00",
-      "author": null,
-      "description": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
-      "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d247/live/940d6f30-de7e-11f1-b88b-3f1671ea859d.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/us/in-2001-mark-wahlberg-and-his-brother-founded-a-charity-for-disadvantaged-children-25-years-later-it-has-raised-and-distributed-nearly-20-million-building-community-spaces-and-sending-thousands-to-summer-camp/articleshow/135733362.cms",
-      "title": "Mark Wahlberg's charity marks 25 years, distributing nearly $20m to help disadvantaged children",
-      "published": "2026-11-12T16:45:40+00:00",
-      "author": "TOI World Desk",
-      "description": "In 2001, Mark Wahlberg and Jim Wahlberg established the Mark Wahlberg Youth Foundation with a mission to uplift disadvantaged youth. Since its inception, the foundation has raised nearly $20 million, funding essential initiatives like summer camps, educational resources, and community recreation spaces. By partnering with various organizations, they strive to enhance the quality of life for children, focusing on health awareness and providing crucial support for families in need.",
-      "link": "https://timesofindia.indiatimes.com/world/us/in-2001-mark-wahlberg-and-his-brother-founded-a-charity-for-disadvantaged-children-25-years-later-it-has-raised-and-distributed-nearly-20-million-building-community-spaces-and-sending-thousands-to-summer-camp/articleshow/135733362.cms",
-      "image": "https://static.toiimg.com/photo/msid-135733492,imgsize-1546871.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     }
   ]
 }

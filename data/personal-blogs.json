@@ -1,6 +1,6 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-16T15:03:13.046036+00:00",
+  "updated": "2026-11-16T15:32:53.766560+00:00",
   "count": 448,
   "summary": null,
   "items": [
@@ -87,6 +87,20 @@
       "category": "personal blogs",
       "feed_url": "http://mattgemmell.com/atom.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=mattgemmell.scot&sz=64"
+    },
+    {
+      "id": "https://ronaldsvilcins.com/2026/11/16/a-progressive-enhancement-pattern-with-custom-elements/",
+      "title": "A Progressive Enhancement Pattern With Custom Elements",
+      "published": "2026-11-16T06:00:00+00:00",
+      "author": "Ronalds Vilciņš",
+      "description": "A progressive enhancement pattern with custom elements: add a password visibility button after setup, keep the native field, and avoid duplicate controls.",
+      "link": "https://ronaldsvilcins.com/2026/11/16/a-progressive-enhancement-pattern-with-custom-elements/",
+      "image": "https://ronaldsvilcins.com/og/946de0812e6ae64880a1d4725ef7ce205e7e1f5184dc30e4f3a140d8be818add.jpg",
+      "feed_name": "Ronalds Vilciņš",
+      "feed_title": "Ronalds Vilciņš",
+      "category": "personal blogs",
+      "feed_url": "https://ronaldsvilcins.com/atom.xml",
+      "feed_icon": "https://ronaldsvilcins.com/favicon.png"
     },
     {
       "id": "https://allthingssmitty.com/2026/11/16/sometimes-three-boring-statements-beat-one-clever-expression",
@@ -5547,20 +5561,6 @@
       "category": "personal blogs",
       "feed_url": "https://manuelmoreale.com/feed/rss",
       "feed_icon": "https://manuelmoreale.com/media/site/768b30cae2-1794047983/avatar.jpg"
-    },
-    {
-      "id": "https://blakewatson.com/journal/the-terrifying-liminal-space-between-code-writer-and-bot-prompter/",
-      "title": "The terrifying liminal space between code-writer and bot-prompter",
-      "published": "2026-10-17T15:27:24+00:00",
-      "author": "Blake Watson (blake@blakewatson.com)",
-      "description": "Disclaimer: These are my own thoughts and opinions. They don’t reflect those of my employer. I’m discussing my own personal feelings about AI. I think it’s fair to say everyone is having to grapple with this tech, whether it’s how to use it or how to avoid it. The following represents a snapshot of my grappling, nothing more. LLM coding advancements both impress and terrify me and I don’t know what I think about it or how to cope with it. I feel like I will be able to build things I never have…",
-      "link": "https://blakewatson.com/journal/the-terrifying-liminal-space-between-code-writer-and-bot-prompter/",
-      "image": null,
-      "feed_name": "Personal Webpage of Blake Watson",
-      "feed_title": "Personal Webpage of Blake Watson",
-      "category": "personal blogs",
-      "feed_url": "https://blakewatson.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=blakewatson.com&sz=64"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
