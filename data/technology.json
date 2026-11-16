@@ -1,9 +1,37 @@
 {
   "category": "technology",
-  "updated": "2026-11-16T08:32:43.568241+00:00",
+  "updated": "2026-11-16T09:02:56.934748+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "TheNextWeb=02c67ecb7eea72cb722623b9d338b49c",
+      "title": "Alibaba launches Qwen4-Max flagship AI model without open weights",
+      "published": "2026-11-16T08:49:45+00:00",
+      "author": "Alina Maria Stan",
+      "description": "Alibaba has launched Qwen4-Max, the new flagship of its Qwen family of AI models, and is keeping its weights closed. The Qwen team announced the model on Monday, 16 November, in a launch blog post that pitches it as an AI teammate for work, creativity and discovery. Alibaba said the model scored near the top […] This story continues at The Next Web",
+      "link": "https://thenextweb.com/news/alibaba-launches-qwen4-max-flagship-ai-model-without-open-weights",
+      "image": "https://media.thenextweb.com/2026/10/qwen-logo-phone-alibaba-logo-orange-screen.avif",
+      "feed_name": "The Next Web",
+      "feed_title": "The Next Web",
+      "category": "technology",
+      "feed_url": "https://thenextweb.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
+    {
+      "id": "https://mobile.slashdot.org/story/26/11/16/0742226/purism-announces-librem-5-v2-linux-phone-with-risc-v-soc?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "title": "Purism Announces 'Librem 5 v2' Linux Phone with RISC-V SoC",
+      "published": "2026-11-16T08:34:00+00:00",
+      "author": "EditorDavid",
+      "description": "From the Linux-news blog OMG Ubuntu: Purism is crowdfunding a new version of its Librem 5 Linux smartphone, this one powered by RISC-V rather than Arm. Librem 5 v2 will use an octa-core SpacemiT K1 RISC-V SoC, replacing the quad-core Arm64 NXP CPU. This processor shift will provide better performance and longer battery life than the original Librem 5 and not run as hot in use. Memory is bumped to 8 GB RAM, up from 3 GB, and storage leaps to 128 GB from 32 GB. Librem 5 v2 will run PureOS, Purism…",
+      "link": "https://mobile.slashdot.org/story/26/11/16/0742226/purism-announces-librem-5-v2-linux-phone-with-risc-v-soc?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+      "feed_name": "Slashdot",
+      "feed_title": "Slashdot",
+      "category": "technology",
+      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
+    },
     {
       "id": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/what-teenagers-really-think-about-online-safety-and-ai/",
       "title": "What teenagers really think about online safety and AI",
@@ -13975,34 +14003,6 @@
       "category": "technology",
       "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
       "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
-    },
-    {
-      "id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/multimodal-knowledge-agent-benchmark/",
-      "title": "Introducing the Multimodal Knowledge Agent benchmark",
-      "published": "2026-11-10T16:00:00+00:00",
-      "author": "Rohan Doshi, Ben Caine",
-      "description": "Text \"Visual Knowledge Work\" next to the Gemini 4 logo and an illustration of documents",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/multimodal-knowledge-agent-benchmark/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/01_Hero_MKA_Benchmark_2784x1566.png",
-      "feed_name": "The Keyword",
-      "feed_title": "News from Google",
-      "category": "technology",
-      "feed_url": "https://www.blog.google/rss/",
-      "feed_icon": "https://blog.google/static/blogv2/images/google.png"
-    },
-    {
-      "id": "https://blog.google/products-and-platforms/products/registry/new-google-domains-eat-fly-here/",
-      "title": "Introducing 3 new domains: .eat, .fly, and .here",
-      "published": "2026-11-10T16:00:00+00:00",
-      "author": "Bruno Panara",
-      "description": "Illustration of a traveler with a laptop and suitcase under a flying airplane, a woman eating a chicken wing next to a plate of wings and chips, and a woman in a red apron tapping a location pin on a map.",
-      "link": "https://blog.google/products-and-platforms/products/registry/new-google-domains-eat-fly-here/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Thumbnail__hero_-_eat_fly_here_.max-600x600.format-webp.webp",
-      "feed_name": "The Keyword",
-      "feed_title": "News from Google",
-      "category": "technology",
-      "feed_url": "https://www.blog.google/rss/",
-      "feed_icon": "https://blog.google/static/blogv2/images/google.png"
     }
   ]
 }
