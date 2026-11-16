@@ -1,9 +1,37 @@
 {
   "category": "technology",
-  "updated": "2026-11-16T01:02:51.822982+00:00",
+  "updated": "2026-11-16T01:32:50.249153+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.engadget.com/2314079/how-to-clear-application-cache-mac/",
+      "title": "How to clear the application cache on your Mac",
+      "published": "2026-11-16T01:30:00+00:00",
+      "author": "Vincent Arogya",
+      "description": "Clearing app caches don't necessarily make your Mac run faster.",
+      "link": "https://www.engadget.com/2314079/how-to-clear-application-cache-mac/",
+      "image": "https://www.engadget.com/img/gallery/how-to-clear-the-application-cache-on-your-mac/l-intro-1794426299.jpg",
+      "feed_name": "Engadget",
+      "feed_title": "Engadget - Technology News & Expert Reviews",
+      "category": "technology",
+      "feed_url": "https://www.engadget.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
+    {
+      "id": "https://tech.slashdot.org/story/26/11/16/0059214/faa-router-in-middle-of-nowhere-arkansas-identified-as-cause-of-nationwide-flight-chaos?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "title": "FAA Router In Middle-of-nowhere Arkansas Identified as Cause of Nationwide Flight Chaos",
+      "published": "2026-11-16T01:02:00+00:00",
+      "author": "EditorDavid",
+      "description": "Though the nationwide flight-grounding ended Friday, \"Nearly 2,300 flights in the U.S. have been cancelled Sunday in the aftermath...\" reports ABC News. \"Additionally, some 18,689 flights were delayed, per FlightAware.\" But \"a single malfunctioning FAA router in rural Arkansas appears to have caused the air travel chaos,\" reports the New York Post: The problem originated at an FAA radio site in El Dorado, Arkansas, where a newly installed router flooded the network with excessive data traffic,…",
+      "link": "https://tech.slashdot.org/story/26/11/16/0059214/faa-router-in-middle-of-nowhere-arkansas-identified-as-cause-of-nationwide-flight-chaos?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+      "feed_name": "Slashdot",
+      "feed_title": "Slashdot",
+      "category": "technology",
+      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
+    },
     {
       "id": "https://www.engadget.com/2314057/home-network-oldest-device-could-be-biggest-security-risk/",
       "title": "The oldest gadget in your house could be your home network's biggest security hole",
@@ -13975,34 +14003,6 @@
       "category": "technology",
       "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
       "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
-    },
-    {
-      "id": "https://www.theverge.com/?p=1030211",
-      "title": "Reddit wants to guide your next purchase",
-      "published": "2026-11-10T15:00:00+00:00",
-      "author": "Mia Sato",
-      "description": "Millions of people turn to Reddit for firsthand recommendations and reviews of consumer goods. Now, the platform is leaning into its role as a destination for shoppers in a challenge to more traditional outlets that publish product reviews and roundups. The company is launching Reddit Reviews, a built-in product reviews hub for consumer goods that […]",
-      "link": "https://www.theverge.com/tech/1030211/reddit-reviews-product-recommendations-electronics-beauty-shopping",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23985506/acastro_STK024_02.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "feed_name": "The Verge -  All Posts",
-      "feed_title": "The Verge",
-      "category": "technology",
-      "feed_url": "https://www.theverge.com/rss/index.xml",
-      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
-    },
-    {
-      "id": "https://www.engadget.com/2310918/reddit-is-sort-of-getting-into-the-product-reviews-business/",
-      "title": "Reddit is (sort of) getting into the product reviews business",
-      "published": "2026-11-10T15:00:00+00:00",
-      "author": "Lawrence Bonk",
-      "description": "The platform's new toolset collects and organizes user data on thousands of items.",
-      "link": "https://www.engadget.com/2310918/reddit-is-sort-of-getting-into-the-product-reviews-business/",
-      "image": "https://www.engadget.com/img/gallery/reddit-is-sort-of-getting-into-the-product-reviews-business/l-intro-1794241903.jpg",
-      "feed_name": "Engadget",
-      "feed_title": "Engadget - Technology News & Expert Reviews",
-      "category": "technology",
-      "feed_url": "https://www.engadget.com/rss.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
     }
   ]
 }
