@@ -1,9 +1,23 @@
 {
   "category": "technology",
-  "updated": "2026-11-16T01:32:50.249153+00:00",
+  "updated": "2026-11-16T02:03:00.491672+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "5200879",
+      "title": "Apple Launches New App to Study How People Use AI for Health",
+      "published": "2026-11-16T01:37:15+00:00",
+      "author": "Anna Gragert",
+      "description": "This is everything you need to know about the research study’s eligibility, requirements and privacy.",
+      "link": "https://www.cnet.com/health/apple-launches-ai-health-app-study/",
+      "image": "https://www.cnet.com/wp-content/uploads/sites/2/apple-heathl-AI-study-app-logo.jpg",
+      "feed_name": "CNET News",
+      "feed_title": "News – CNET",
+      "category": "technology",
+      "feed_url": "https://www.cnet.com/rss/news/",
+      "feed_icon": "https://www.cnet.com/wp-content/uploads/sites/2/cropped-favicon-480.png?w=32"
+    },
     {
       "id": "https://www.engadget.com/2314079/how-to-clear-application-cache-mac/",
       "title": "How to clear the application cache on your Mac",
@@ -17,6 +31,20 @@
       "category": "technology",
       "feed_url": "https://www.engadget.com/rss.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
+    {
+      "id": "https://www.theverge.com/?p=1033355",
+      "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+      "published": "2026-11-16T01:26:56+00:00",
+      "author": "Andrew Liszewski",
+      "description": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence, a clinical AI platform used by healthcare professionals that generates answers based on medical […]",
+      "link": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/applestudy1b.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "feed_name": "The Verge -  All Posts",
+      "feed_title": "The Verge",
+      "category": "technology",
+      "feed_url": "https://www.theverge.com/rss/index.xml",
+      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
     },
     {
       "id": "https://tech.slashdot.org/story/26/11/16/0059214/faa-router-in-middle-of-nowhere-arkansas-identified-as-cause-of-nationwide-flight-chaos?utm_source=rss1.0mainlinkanon&utm_medium=feed",
@@ -13975,34 +14003,6 @@
       "category": "technology",
       "feed_url": "http://feeds.mashable.com/Mashable",
       "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
-    },
-    {
-      "id": "00YmJAXzME8d9ReIHDS6GdG",
-      "title": "Calling all Loons: Heated Rivalry is coming to 4DX",
-      "published": "2026-11-10T15:02:02+00:00",
-      "author": null,
-      "description": "We are going to the cottage!",
-      "link": "https://mashable.com/entertainment/heated-rivalry-4dx",
-      "image": "https://helios-i.mashable.com/imagery/articles/00YmJAXzME8d9ReIHDS6GdG/hero-image.webp",
-      "feed_name": "Mashable",
-      "feed_title": "Mashable",
-      "category": "technology",
-      "feed_url": "http://feeds.mashable.com/Mashable",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
-    },
-    {
-      "id": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
-      "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
-      "published": "2026-11-10T15:00:39+00:00",
-      "author": "Ryan Whitwam",
-      "description": "The new model is up to twice as successful at some tasks.",
-      "link": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Credit_-Apptronik_-Mercedes-Benz-Apollo-2-using-Gemini-Robotics-2.5-to-autonomously-perform-automotive-kitting-at-a-Mercedes-Benz-factory-500x500-1794257853.jpg",
-      "feed_name": "Ars Technica",
-      "feed_title": "Ars Technica - All content",
-      "category": "technology",
-      "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
-      "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
     }
   ]
 }
