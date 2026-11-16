@@ -1,9 +1,23 @@
 {
   "category": "technology",
-  "updated": "2026-11-16T06:32:42.071299+00:00",
+  "updated": "2026-11-16T07:04:04.086883+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://science.slashdot.org/story/26/11/16/0550239/ula-vulcan-rocket-failure-destroys-40-amazon-leo-satellites?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "title": "ULA Vulcan Rocket Failure Destroys 40 Amazon Leo Satellites",
+      "published": "2026-11-16T06:34:00+00:00",
+      "author": "EditorDavid",
+      "description": "United Launch Alliance's new heavy-lift Vulcan rocket \"malfunctioned while climbing into space yesterday,\" writes Engadget, \"destroying its payload of 40 Amazon Leo internet satellites...\" Launch failures are always a risk, but amazingly, United Launch Alliance had never experienced one previously. Since the company formed in 2006 as a partnership between Boeing and Lockheed Martin, its Atlas V rocket has been famously dependable. Now, the company's more powerful, more complex Vulcan will be un…",
+      "link": "https://science.slashdot.org/story/26/11/16/0550239/ula-vulcan-rocket-failure-destroys-40-amazon-leo-satellites?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+      "feed_name": "Slashdot",
+      "feed_title": "Slashdot",
+      "category": "technology",
+      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
+    },
     {
       "id": "https://www.engadget.com/2317303/apple-new-research-app-designed-to-make-ai-health-tools-user-friendly/",
       "title": "Apple's new research app is designed to make AI health tools more user-friendly",
@@ -13984,20 +13998,6 @@
       "description": "Starting today, developers can build with Gemini 4 Carbon, our strongest model with frontier performance in cybersecurity and long-horizon capabilities. Built for sustai…",
       "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-4-carbon-developers/",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CarbonLogo_Socialshare.max-600x600.format-webp.webp",
-      "feed_name": "The Keyword",
-      "feed_title": "News from Google",
-      "category": "technology",
-      "feed_url": "https://www.blog.google/rss/",
-      "feed_icon": "https://blog.google/static/blogv2/images/google.png"
-    },
-    {
-      "id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
-      "title": "Gemini 4 Carbon is now available",
-      "published": "2026-11-10T16:00:00+00:00",
-      "author": "Koray Kavukcuoglu",
-      "description": "an illustrated carbon with several number 4's around it",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_4_carbon_key_art_16-9_lo.max-600x600.format-webp.webp",
       "feed_name": "The Keyword",
       "feed_title": "News from Google",
       "category": "technology",
