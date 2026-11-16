@@ -1,13 +1,13 @@
 {
   "category": "World News",
-  "updated": "2026-11-16T18:03:06.484931+00:00",
+  "updated": "2026-11-16T18:33:46.173694+00:00",
   "count": 1000,
   "summary": null,
   "items": [
     {
       "id": "108552208",
       "title": "Nvidia board is not considering bringing Jensen Huang back as CEO, source tells CNBC",
-      "published": "2026-11-16T18:01:33+00:00",
+      "published": "2026-11-16T18:22:06+00:00",
       "author": null,
       "description": "Jensen Huang resigned from Nvidia last week after 33 years as CEO.",
       "link": "https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html",
@@ -17,6 +17,34 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "108552091",
+      "title": "OpenAI inks agreements with four independent evaluators to boost company's safety work",
+      "published": "2026-11-16T18:11:00+00:00",
+      "author": null,
+      "description": "Independent evaluators have taken on outsized importance following a series of high-profile AI safety and security incidents.",
+      "link": "https://www.cnbc.com/2026/11/16/openai-independent-ai-safety-evaluators.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108552230-1794852485543-gettyimages-2304956787-AFP_D7MR3ZN.jpeg?v=1794852549&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cry49plv8v3go#0",
+      "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
+      "published": "2026-11-16T18:06:26+00:00",
+      "author": null,
+      "description": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
+      "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "108552151",
@@ -45,6 +73,20 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
+      "id": "t3_1xxvviz",
+      "title": "French troops are now operating in Ukraine",
+      "published": "2026-11-16T17:44:24+00:00",
+      "author": "/u/FURRYL0L1Y401TR4PDSM",
+      "description": "submitted by /u/FURRYL0L1Y401TR4PDSM [link] [comments]",
+      "link": "https://www.reddit.com/r/worldnews/comments/1xxvviz/french_troops_are_now_operating_in_ukraine/",
+      "image": "https://external-preview.redd.it/ptbXTLsihizHC10R1PbnwkloqjUXQK2XZQunefwsAto.jpeg?width=640&crop=smart&auto=webp&s=c3e34eb1ac88f0c9a15f968e9d5c1ec7c9741390",
+      "feed_name": "World News",
+      "feed_title": "World News",
+      "category": "World News",
+      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
+      "feed_icon": "https://www.redditstatic.com/icon.png/"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/europe/no-money-left-french-far-right-leader-le-pen-vows-to-cut-off-ukraine-aid-if-elected-president/articleshow/135897919.cms",
@@ -173,6 +215,20 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
+      "id": "https://www.ndtv.com/world-news/us-iran-war-pentagon-ignored-iran-threats-in-kuwait-then-6-us-soldiers-died-12335555#publisher=newsstand",
+      "title": "Pentagon Ignored Iran Threats In Kuwait. Then, 6 US Soldiers Died",
+      "published": "2026-11-16T17:17:04+00:00",
+      "author": null,
+      "description": "Ramsbottom alleged in the interview that he had voiced his concerns to the officer",
+      "link": "https://www.ndtv.com/world-news/us-iran-war-pentagon-ignored-iran-threats-in-kuwait-then-6-us-soldiers-died-12335555#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-11/7iqoldgs_-port-shuaiba_625x300_16_November_26.jpeg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
       "id": "https://timesofindia.indiatimes.com/world/us/trump-met-hollywood-actor-jon-voight-at-white-house-as-us-flight-shutdown-stranded-thousands-report/articleshow/135896961.cms",
       "title": "Trump met Jon Voight at White House as US flight shutdown stranded thousands",
       "published": "2026-11-16T17:10:18+00:00",
@@ -187,18 +243,32 @@
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cry49plv8v3go#0",
-      "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
-      "published": "2026-11-16T17:07:55+00:00",
+      "id": "https://www.ndtv.com/world-news/not-a-bad-idea-donald-trump-on-jensen-huangs-return-to-nvidia-12334873#publisher=newsstand",
+      "title": "Trump's \"Beautiful Woman From China\" Remark As He Backs Huang's Nvidia Return",
+      "published": "2026-11-16T17:07:41+00:00",
       "author": null,
-      "description": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
-      "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
+      "description": "Jensen Huang resigned after reports of multiple affairs.",
+      "link": "https://www.ndtv.com/world-news/not-a-bad-idea-donald-trump-on-jensen-huangs-return-to-nvidia-12334873#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-11/i2u0q1ak_jensen-huang-and-trump_625x300_13_November_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
       "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
+      "id": "t3_1xxuu9v",
+      "title": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda",
+      "published": "2026-11-16T17:05:51+00:00",
+      "author": "/u/printial",
+      "description": "submitted by /u/printial [link] [comments]",
+      "link": "https://www.reddit.com/r/worldnews/comments/1xxuu9v/five_eu_states_announce_plans_for_immigration/",
+      "image": "https://external-preview.redd.it/aejjOl48UvlqjCp8LMEyLfZcX97Ja7QI0nLoEyWWYzU.jpeg?width=640&crop=smart&auto=webp&s=1f95ba05dc432e21ca68889425483725399a83a3",
+      "feed_name": "World News",
+      "feed_title": "World News",
+      "category": "World News",
+      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
+      "feed_icon": "https://www.redditstatic.com/icon.png/"
     },
     {
       "id": "https://www.nytimes.com/2026/11/15/world/nvidia-jensen-huang-ai-chips.html",
@@ -341,6 +411,20 @@
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
+      "id": "https://www.ndtv.com/world-news/trumps-stake-in-nvidia-rose-to-62-million-in-august-end-report-12335183#publisher=newsstand",
+      "title": "Trump's Stake In Nvidia Rose To $62 Million In August-End: Report",
+      "published": "2026-11-16T15:53:38+00:00",
+      "author": null,
+      "description": "The disclosure comes amid heightened scrutiny of Nvidia",
+      "link": "https://www.ndtv.com/world-news/trumps-stake-in-nvidia-rose-to-62-million-in-august-end-report-12335183#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-05/7epftkks_huang-trump-afp_625x300_13_May_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
       "id": "https://timesofindia.indiatimes.com/world/us/pregnant-us-citizen-pepper-sprayed-thrown-to-ground-on-stomach-by-ice-agents-in-california-video-shows-husband-warning-shes-pregnant/articleshow/135894811.cms",
       "title": "Pregnant US citizen pepper-sprayed, thrown to ground on stomach by ICE agents in California; video shows husband warning ‘she's pregnant’",
       "published": "2026-11-16T15:51:00+00:00",
@@ -381,6 +465,20 @@
       "category": "World News",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/nuclear-talks-with-russia-china-meet-with-kim-jong-un-trumps-asia-agenda-12335036#publisher=newsstand",
+      "title": "Nuclear Talks With Russia, China, Meet With Kim Jong Un: Trump's Asia Agenda",
+      "published": "2026-11-16T15:29:33+00:00",
+      "author": null,
+      "description": "US President Donald Trump was preparing to depart for Asia on Monday",
+      "link": "https://www.ndtv.com/world-news/nuclear-talks-with-russia-china-meet-with-kim-jong-un-trumps-asia-agenda-12335036#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2025-11/ur5cusps_us-president-donald-trump-_625x300_03_November_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
       "id": "https://www.nytimes.com/2026/11/16/world/middleeast/bahrain-shiite-clerics-convicted.html",
@@ -437,6 +535,20 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/ex-pakistan-prime-minister-imran-khans-warning-from-jail-says-may-not-return-alive-12334654#publisher=newsstand",
+      "title": "In Letter From Jail, Ex-Pakistan PM Imran Khan Says He May Die",
+      "published": "2026-11-16T15:12:13+00:00",
+      "author": null,
+      "description": "The loneliness, Khan claimed, has also resulted in high blood pressure.",
+      "link": "https://www.ndtv.com/world-news/ex-pakistan-prime-minister-imran-khans-warning-from-jail-says-may-not-return-alive-12334654#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-11/boa283bc_imran-khan_625x300_16_November_26.jpeg",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/rest-of-world/five-years-after-surviving-the-attack-that-killed-her-husband-haitis-former-first-lady-martine-moise-has-registered-for-the-countrys-first-presidential-election-in-a-decade-joining-32-other-hopefuls/articleshow/135893183.cms",
@@ -607,10 +719,24 @@
       "feed_icon": "https://www.redditstatic.com/icon.png/"
     },
     {
+      "id": "https://www.ndtv.com/world-news/us-airport-pauses-security-screening-after-finding-live-snakes-in-passengers-suitcase-12334360#publisher=newsstand",
+      "title": "US Airport Pauses Security Screening After Finding Live Snakes In Passenger's Suitcase",
+      "published": "2026-11-16T14:30:02+00:00",
+      "author": null,
+      "description": "TSA Officer Benjamin Andrade-Carillo discovered the green pillowcase during the luggage inspection.",
+      "link": "https://www.ndtv.com/world-news/us-airport-pauses-security-screening-after-finding-live-snakes-in-passengers-suitcase-12334360#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-11/chcv4ph4_airport-security-check-transportation-security-administration-_625x300_16_November_26.jpeg",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
       "id": "https://www.theguardian.com/world/2026/nov/16/xi-jinping-donald-trump-vladimir-putin-world-peace-trilateral-says-china",
       "title": "Xi, Trump and Putin to discuss ‘world peace’ at trilateral, says China",
       "published": "2026-11-16T14:29:55+00:00",
-      "author": "Rebecca Bailey in Shenzhen and agencies",
+      "author": "Rebecca Bailey in Shenzhen, Andrew Roth in Washington and agencies",
       "description": "Beijing stops short of confirming specific agenda items, but many hope world’s three biggest nuclear powers will talk about denuclearisation The meeting of Xi Jinping, Donald Trump and Vladimir Putin in Shenzhen this week will cover topics of “groundbreaking significance” including “safeguarding world peace”, the Chinese foreign ministry has said. The confirmation of Thursday’s first-of-their-kind trilateral talks, on the sidelines of the Asia-Pacific Economic Cooperation (Apec) summit , cement…",
       "link": "https://www.theguardian.com/world/2026/nov/16/xi-jinping-donald-trump-vladimir-putin-world-peace-trilateral-says-china",
       "image": "https://i.guim.co.uk/img/media/1ed1c93d730d4466d6341a132b8d2b1761b7b08f/937_0_4862_3888/master/4862.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=704bd0f8fc6b6538ffe5164c02c9deb5",
@@ -677,9 +803,23 @@
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
+      "id": "https://www.ndtv.com/world-news/pm-narendra-modi-meets-indian-community-attends-gala-dinner-in-manila-12334289#publisher=newsstand",
+      "title": "PM Modi Meets Indian Community, Attends Gala Dinner In Manila",
+      "published": "2026-11-16T14:21:39+00:00",
+      "author": null,
+      "description": "PM Modi received a warm welcome by the Indian community.",
+      "link": "https://www.ndtv.com/world-news/pm-narendra-modi-meets-indian-community-attends-gala-dinner-in-manila-12334289#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-11/i5dj5d78_pm-modi-in-manila-_625x300_16_November_26.jpeg",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
       "id": "https://www.nytimes.com/2026/11/16/us/international-student-college-enrollment-declines.html",
       "title": "International Students Are Turning Away From U.S. Universities",
-      "published": "2026-11-16T14:10:11+00:00",
+      "published": "2026-11-16T14:10:12+00:00",
       "author": "Stephanie Saul and Steven Rich",
       "description": "For a second year, Trump administration policies appear to be scaring away international students, disrupting the finances of the American colleges that depend on them.",
       "link": "https://www.nytimes.com/2026/11/16/us/international-student-college-enrollment-declines.html",
@@ -829,6 +969,20 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/us-sends-3rd-aircraft-carrier-to-middle-east-day-after-iran-attacks-bahrain-12334309#publisher=newsstand",
+      "title": "US Sends 3rd Aircraft Carrier To Middle East Day After Iran Attacks Bahrain",
+      "published": "2026-11-16T13:17:13+00:00",
+      "author": null,
+      "description": "Months of diplomacy have failed to resolve the war, which began with US-Israeli strikes on Iran",
+      "link": "https://www.ndtv.com/world-news/us-sends-3rd-aircraft-carrier-to-middle-east-day-after-iran-attacks-bahrain-12334309#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-11/97tahdjg_uss-theodore-roosevelt_625x300_16_November_26.jpeg",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
       "id": "https://www.theguardian.com/sport/2026/nov/16/us-basketball-player-arrested-with-75lb-of-marijuana-at-nigerian-airport-say-authorities",
@@ -13849,160 +14003,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/us/a-fake-fundraising-website-showed-16000-collected-for-a-13-year-old-atlanta-boys-funeral-his-family-said-it-never-received-the-money-and-a-funeral-director-stepped-in-to-cover-the-costs/articleshow/135767349.cms",
-      "title": "Fake funeral fundraiser showed $16,000, but Atlanta family got nothing",
-      "published": "2026-11-12T20:30:00+00:00",
-      "author": "TOI World Desk",
-      "description": "",
-      "link": "https://timesofindia.indiatimes.com/world/us/a-fake-fundraising-website-showed-16000-collected-for-a-13-year-old-atlanta-boys-funeral-his-family-said-it-never-received-the-money-and-a-funeral-director-stepped-in-to-cover-the-costs/articleshow/135767349.cms",
-      "image": "https://static.toiimg.com/photo/msid-135767689,imgsize-116780.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "t3_1xunrqe",
-      "title": "Ukraine says US intentionally restricted Starshield to pressure Kyiv, FT reports",
-      "published": "2026-11-12T20:28:30+00:00",
-      "author": "/u/pravda_eng_official",
-      "description": "submitted by /u/pravda_eng_official [link] [comments]",
-      "link": "https://www.reddit.com/r/worldnews/comments/1xunrqe/ukraine_says_us_intentionally_restricted/",
-      "image": "https://external-preview.redd.it/C4LuQFkQ2feOwRapx7sJSeW_a18FcK_C2M1KKvJIDpY.jpeg?width=640&crop=smart&auto=webp&s=58bcabd2fc8da68d8c48a0ab0cffe1098ab4cd10",
-      "feed_name": "World News",
-      "feed_title": "World News",
-      "category": "World News",
-      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
-      "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/us/a-texas-man-said-his-father-gifted-him-a-rental-house-during-marriage-and-argued-the-family-used-car-dealership-was-worth-150000-a-court-upheld-giving-his-wife-a-411000-house-and-175000-divorce-payment/articleshow/135731390.cms",
-      "title": "Texas man loses bid to keep gifted house as court awards wife $411,000 home and $175,000",
-      "published": "2026-11-12T20:25:00+00:00",
-      "author": "TOI World Desk",
-      "description": "A Texas divorce appeal has shed light on property disputes between Joshua Peacock and Stephanie Ann Samples. The court confirmed that a rental property and a family business must be classified as community property. While Peacock asserted that the rental house was a gift from his father, he did not provide adequate proof.",
-      "link": "https://timesofindia.indiatimes.com/world/us/a-texas-man-said-his-father-gifted-him-a-rental-house-during-marriage-and-argued-the-family-used-car-dealership-was-worth-150000-a-court-upheld-giving-his-wife-a-411000-house-and-175000-divorce-payment/articleshow/135731390.cms",
-      "image": "https://static.toiimg.com/photo/msid-135731445,imgsize-1811125.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/science/wildlife/newly-discovered-orange-spot-fish-in-brazils-amazon-faces-extinction-threat-from-mining-and-pollution/articleshow/135715977.cms",
-      "title": "Scientists discovered a new orange-spotted fish which may already be on the brink of extinction",
-      "published": "2026-11-12T20:20:00+00:00",
-      "author": "TOI Science Desk",
-      "description": "Researchers have unveiled Laimosemion laranja, a newly discovered species of killifish native to three isolated pools in Brazil. Facing grave threats from mining, deforestation, and urban pollution, this species is at risk of extinction. Through meticulous examinations and genetic analysis, scientists confirmed its uniqueness. To preserve this remarkable fish, they urge prompt protective measures to enhance its habitat and ensure its survival in the wild.",
-      "link": "https://timesofindia.indiatimes.com/science/wildlife/newly-discovered-orange-spot-fish-in-brazils-amazon-faces-extinction-threat-from-mining-and-pollution/articleshow/135715977.cms",
-      "image": "https://static.toiimg.com/photo/msid-135716082,imgsize-95366.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/12/climate/a-key-paris-agreement-goal-is-dead-what-now.html",
-      "title": "A Key Paris Agreement Goal Is Dead. What Now?",
-      "published": "2026-11-12T20:15:04+00:00",
-      "author": "David Gelles",
-      "description": "Leaders at COP31 are confronting a new reality as global warming enters the “unsafe zone.”",
-      "link": "https://www.nytimes.com/2026/11/12/climate/a-key-paris-agreement-goal-is-dead-what-now.html",
-      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12cli-newsletter-cop-03-gfpt/12cli-newsletter-cop-03-gfpt-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo#0",
-      "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
-      "published": "2026-11-12T20:09:16+00:00",
-      "author": null,
-      "description": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
-      "link": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4c4/live/1934a9b0-deb3-11f1-8fb5-a771a656a227.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo#1",
-      "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
-      "published": "2026-11-12T20:09:16+00:00",
-      "author": null,
-      "description": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
-      "link": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4c4/live/1934a9b0-deb3-11f1-8fb5-a771a656a227.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "t3_1xun2ry",
-      "title": "US returns over $12 billion in oil proceeds to Venezuela since Maduro's ouster",
-      "published": "2026-11-12T20:01:22+00:00",
-      "author": "/u/cololz1",
-      "description": "submitted by /u/cololz1 [link] [comments]",
-      "link": "https://www.reddit.com/r/worldnews/comments/1xun2ry/us_returns_over_12_billion_in_oil_proceeds_to/",
-      "image": "https://external-preview.redd.it/D2scxXVpSsKd-b5Osd2osjK56aerkOjpIoESL3mE_Qg.jpeg?width=640&crop=smart&auto=webp&s=db3b6f54b786a99edc21432ef944c9ad16a15247",
-      "feed_name": "World News",
-      "feed_title": "World News",
-      "category": "World News",
-      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
-      "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/us/who-was-matt-lambert-dc-gym-shooter-was-a-wealthy-doctor-who-was-fighting-with-the-management-of-his-1-1m-penthouse-over-black-mold/articleshow/135781823.cms",
-      "title": "Who was Matt Lambert? DC gym shooter was a wealthy doctor who was fighting with the management of his $1.1M penthouse over black mold",
-      "published": "2026-11-12T19:54:36+00:00",
-      "author": "Poulomi Ghosh",
-      "description": "",
-      "link": "https://timesofindia.indiatimes.com/world/us/who-was-matt-lambert-dc-gym-shooter-was-a-wealthy-doctor-who-was-fighting-with-the-management-of-his-1-1m-penthouse-over-black-mold/articleshow/135781823.cms",
-      "image": "https://static.toiimg.com/photo/msid-135781846,imgsize-23732.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "t3_1xumsas",
-      "title": "Microsoft confirms Outlook outage affecting users worldwide",
-      "published": "2026-11-12T19:50:46+00:00",
-      "author": "/u/Force_Hammer",
-      "description": "submitted by /u/Force_Hammer [link] [comments]",
-      "link": "https://www.reddit.com/r/worldnews/comments/1xumsas/microsoft_confirms_outlook_outage_affecting_users/",
-      "image": "https://external-preview.redd.it/SXefhuDj778Zxzq-7CEZar50cFWT3U_D3TFm4FNw3F8.jpeg?width=640&crop=smart&auto=webp&s=a372045dd4c568052d03e2111e670e9abf201558",
-      "feed_name": "World News",
-      "feed_title": "World News",
-      "category": "World News",
-      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
-      "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "108549801",
-      "title": "‘A dark day for Nvidia’: Here’s what analysts have been saying about Jensen Huang’s departure",
-      "published": "2026-11-12T19:47:57+00:00",
-      "author": null,
-      "description": "The company's board convened Wednesday evening after reports emerged of Huang engaging in an affair with an employee.",
-      "link": "https://www.cnbc.com/2026/11/12/jensen-huang-nvidia-affair-ceo.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108548919-1794436123875-108548919-1794403650801-gettyimages-2280478637-csj17492_lh46rpzq.jpeg?v=1794436166&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     }
   ]
 }
