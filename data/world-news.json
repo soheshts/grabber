@@ -1,9 +1,37 @@
 {
   "category": "World News",
-  "updated": "2026-11-16T16:32:46.783190+00:00",
+  "updated": "2026-11-16T17:03:15.223606+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/11/15/world/nvidia-jensen-huang-ai-chips.html",
+      "title": "Too Many Chips in One Basket?",
+      "published": "2026-11-16T16:56:44+00:00",
+      "author": "Katrin Bennhold",
+      "description": "The U.S. economy hitched its wagon to Nvidia and Jensen Huang. Now that he has stepped down, the company faces deep uncertainty.",
+      "link": "https://www.nytimes.com/2026/11/15/world/nvidia-jensen-huang-ai-chips.html",
+      "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16int-theworld-nvidia-01-qvlj-promo/16int-theworld-nvidia-01-qvlj-promo-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "108551937",
+      "title": "Nvidia fallout: Commerce targets loophole for China's data center use",
+      "published": "2026-11-16T16:51:07+00:00",
+      "author": null,
+      "description": "The rule was written by the Treasury Department and the National Security Council after criticism of Commerce Secretary Howard Lutnick.",
+      "link": "https://www.cnbc.com/2026/11/16/nvidia-commerce-china-lutnick.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108551938-1794836875736-gettyimages-2304269457-nokings-sf1017.jpeg?v=1794836900&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cw987343352go#0",
       "title": "Five EU countries announce migrant deportation centre in Rwanda",
@@ -19,18 +47,18 @@
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
-      "id": "108551937",
-      "title": "Nvidia fallout: Commerce targets loophole for China's data center use",
-      "published": "2026-11-16T16:19:27+00:00",
-      "author": null,
-      "description": "The rule was written by the Treasury Department and the National Security Council after criticism of Commerce Secretary Howard Lutnick.",
-      "link": "https://www.cnbc.com/2026/11/16/nvidia-commerce-china-lutnick.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108551938-1794836875736-gettyimages-2304269457-nokings-sf1017.jpeg?v=1794836900&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
+      "id": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda",
+      "title": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda",
+      "published": "2026-11-16T16:21:40+00:00",
+      "author": "Jennifer Rankin in Brussels",
+      "description": "Germany, Austria, Netherlands, Denmark and Greece likely to face challenges to policy criticised as ‘grave moral failing’ Five EU member states have announced plans to set up an offshore centre in Rwanda for people with no legal right to stay in Europe, in a pilot scheme that is expected to face legal challenges and has been denounced as “a grave moral failing”. The five countries – Germany, Austria, the Netherlands, Denmark and Greece – are the first to seek to use the EU’s newly agreed return…",
+      "link": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda",
+      "image": "https://i.guim.co.uk/img/media/d668e44ea9f6f3fb2d88cfee76bb772cccada10f/456_0_4053_3243/master/4053.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2c6e402db7971102686e38e4401eb7a4",
+      "feed_name": "The Guardian",
+      "feed_title": "World news | The Guardian",
       "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+      "feed_url": "https://www.theguardian.com/world/rss",
+      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
     },
     {
       "id": "https://www.nytimes.com/2026/11/16/world/europe/deport-rwanda-asylum-migration.html",
@@ -132,7 +160,7 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cry49plv8v3go#0",
-      "title": "Trump says he wouldn't mind seeing Huang return to Nvidia",
+      "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign",
       "published": "2026-11-16T15:31:20+00:00",
       "author": null,
       "description": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
@@ -2033,20 +2061,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/15/world/nvidia-jensen-huang-ai-chips.html",
-      "title": "Too Many Chips in One Basket?",
-      "published": "2026-11-16T05:29:19+00:00",
-      "author": "Katrin Bennhold",
-      "description": "The U.S. economy hitched its wagon to Nvidia and Jensen Huang. Now that he has stepped down, the company faces deep uncertainty.",
-      "link": "https://www.nytimes.com/2026/11/15/world/nvidia-jensen-huang-ai-chips.html",
-      "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16int-theworld-nvidia-01-qvlj-promo/16int-theworld-nvidia-01-qvlj-promo-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/uk/a-british-d-day-veteran-left-three-wartime-medals-on-his-uniform-when-he-returned-it-in-1945-more-than-80-years-later-a-young-historian-helped-the-103-year-old-obtain-replacements-for-remembrance-day/articleshow/135856074.cms",
@@ -13989,20 +14003,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno#1",
-      "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
-      "published": "2026-11-12T18:47:35+00:00",
-      "author": null,
-      "description": "Specialist Thomas Iglesias had shouted at Hegseth's group to be quiet after they could be heard talking and laughing at the Tomb of the Unknown Soldier.",
-      "link": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9916/live/a7c0bac0-dec7-11f1-a701-fddedf244c16.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     }
   ]
 }
