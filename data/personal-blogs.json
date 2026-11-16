@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-15T23:32:43.650055+00:00",
-  "count": 442,
+  "updated": "2026-11-16T00:03:01.739828+00:00",
+  "count": 438,
   "summary": null,
   "items": [
     {
@@ -5421,62 +5421,6 @@
       "category": "personal blogs",
       "feed_url": "https://ronaldsvilcins.com/atom.xml",
       "feed_icon": "https://ronaldsvilcins.com/favicon.png"
-    },
-    {
-      "id": "https://www.amitmerchant.com/an-online-first-version-control-system",
-      "title": "An online-first version control system in this agentic era",
-      "published": "2026-10-17T00:00:00+00:00",
-      "author": "Amit Merchant",
-      "description": "Anthropic recently shared an article explaining a version control system (VCS) that they have been using internally to surmount their own limitations around managing their humongous monorepo.",
-      "link": "https://www.amitmerchant.com/an-online-first-version-control-system/",
-      "image": "https://www.amitmerchant.com/cdn/an-online-first-version-control-system.png",
-      "feed_name": "Amit Merchant",
-      "feed_title": "Amit Merchant",
-      "category": "personal blogs",
-      "feed_url": "https://www.amitmerchant.com/feed.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.amitmerchant.com&sz=64"
-    },
-    {
-      "id": "https://www.jayfreestone.com/writing/the-generic-circular-dependency-problem/",
-      "title": "The 'generic' service circular dependency problem",
-      "published": "2026-10-17T00:00:00+00:00",
-      "author": "Jay Freestone",
-      "description": "How to tackle your overburdened 'notification' or 'comment' services when they start accumulating everyone else's cruft.",
-      "link": "https://www.jayfreestone.com/writing/the-generic-circular-dependency-problem/?utm_source=rss",
-      "image": null,
-      "feed_name": "Jay Freestone | Software Engineer",
-      "feed_title": "Jay Freestone",
-      "category": "personal blogs",
-      "feed_url": "https://www.jayfreestone.com/feed.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.jayfreestone.com&sz=64"
-    },
-    {
-      "id": "https://www.jayfreestone.com/notes/scratching-your-own-itch-with-ai/",
-      "title": "Scratching your own itch with AI",
-      "published": "2026-10-17T00:00:00+00:00",
-      "author": "Jay Freestone",
-      "description": "",
-      "link": "https://www.jayfreestone.com/notes/scratching-your-own-itch-with-ai/?utm_source=rss",
-      "image": null,
-      "feed_name": "Jay Freestone | Software Engineer",
-      "feed_title": "Jay Freestone",
-      "category": "personal blogs",
-      "feed_url": "https://www.jayfreestone.com/feed.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.jayfreestone.com&sz=64"
-    },
-    {
-      "id": "repo://posts.collection/_posts/2026-10-17-untangling-the-data-layer-of-hanami.md",
-      "title": "Untangling the data layer of Hanami",
-      "published": "2026-10-17T00:00:00+00:00",
-      "author": "Konnor",
-      "description": "Coming from Rails, Hanami can be a massive shock. Immediately when starting Hanami, you get introduced to Repositories, Relations, Changesets, and Structs, oh my! Rails is my biggest point of reference and will be used throughout to compare and contrast, and is also why Hanami presenting these structures is so foregin to me. What do you mean there is no ActiveRecord ? We won’t detail the “why” too much of why Hanami did not use the ActiveRecord pattern , other than that rather than having every…",
-      "link": "https://konnorrogers.com/posts/2026/untangling-the-data-layer-of-hanami/",
-      "image": null,
-      "feed_name": "Konnor’s Site",
-      "feed_title": "Konnor’s Site",
-      "category": "personal blogs",
-      "feed_url": "https://konnorrogers.com/feed.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=konnorrogers.com&sz=64"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
