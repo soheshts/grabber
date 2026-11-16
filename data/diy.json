@@ -1,9 +1,51 @@
 {
   "category": "DIY",
-  "updated": "2026-11-16T13:03:57.791823+00:00",
+  "updated": "2026-11-16T13:32:43.912639+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/i-turned-my-home-into-a-3d-model-for-free-and-now-i-cant-stop-redesigning-it/",
+      "title": "I turned my home into a 3D model for free, and now I can't stop redesigning it",
+      "published": "2026-11-16T13:30:16+00:00",
+      "author": "Rob LeFebvre",
+      "description": "Floorplanner gives you three free versions of every floor, which is two more than my back can handle moving furniture for real.",
+      "link": "https://www.makeuseof.com/i-turned-my-home-into-a-3d-model-for-free-and-now-i-cant-stop-redesigning-it/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/floor-planner-on-monitor.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/tv-stock-remote-as-universal-remote/",
+      "title": "I turned my TV's stock remote into a universal remote that knows what I'm watching",
+      "published": "2026-11-16T13:30:15+00:00",
+      "author": "Adam Davidson",
+      "description": "A remote possibility.",
+      "link": "https://www.howtogeek.com/tv-stock-remote-as-universal-remote/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/black-lg-tv-remote-with-netflix-and-prime-video-buttons-on-a-wooden-surface.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.makeuseof.com/your-ethernet-ports-light-color-is-a-speed-test-you-never-have-to-run/",
+      "title": "Your Ethernet port’s light color is a speed test you never have to run",
+      "published": "2026-11-16T13:21:38+00:00",
+      "author": "Gavin Phillips",
+      "description": "Those lights aren't just there to look pretty.",
+      "link": "https://www.makeuseof.com/your-ethernet-ports-light-color-is-a-speed-test-you-never-have-to-run/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/01/wifi-router-usb-port.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/microsoft-fixing-sticky-keys-pop-up-dialog/",
       "title": "Microsoft is finally fixing a Sticky Keys annoyance from the Windows 95 era",
@@ -13961,48 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/use-circle-to-search-on-windows-with-pc-manager/",
-      "title": "Microsoft has its own take on Circle to Search, and it works on any Windows PC",
-      "published": "2026-11-02T15:30:17+00:00",
-      "author": "Pankil Shah",
-      "description": "I thought it was a gimmick, but I was wrong.",
-      "link": "https://www.makeuseof.com/use-circle-to-search-on-windows-with-pc-manager/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/pc-manager-circle-to-act-on-windows-11-laptop.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/microsoft-excel-connected-to-tools-stopped-doing-busywork/",
-      "title": "Connecting Excel to these 4 tools saved me from doing the busywork myself",
-      "published": "2026-11-02T15:30:15+00:00",
-      "author": "Tony Phillips",
-      "description": "These four tools extend what you can do with Excel, from automated notifications to interactive reports.",
-      "link": "https://www.howtogeek.com/microsoft-excel-connected-to-tools-stopped-doing-busywork/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/laptop-multitasking-excel-airtable-powerbi-powerautomate-zapier.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://hackaday.com/?p=916697",
-      "title": "Looking For A Cellular Modem?",
-      "published": "2026-11-02T15:00:43+00:00",
-      "author": "Arya Voronova",
-      "description": "Cellular modems come and go, and they can be tricky beasts to tame – yet, in every portable computer project I’ve worked with, “LTE modem” has been a top-three request …read more",
-      "link": "https://hackaday.com/2026/11/02/looking-for-a-cellular-modem/",
-      "image": "https://hackaday.com/wp-content/uploads/2019/10/5GRobots.jpg",
-      "feed_name": "Blog – Hackaday",
-      "feed_title": "Blog – Hackaday",
-      "category": "DIY",
-      "feed_url": "https://hackaday.com/blog/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
     }
   ]
 }

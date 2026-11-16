@@ -1,9 +1,23 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-16T13:03:57.791823+00:00",
-  "count": 447,
+  "updated": "2026-11-16T13:32:43.912639+00:00",
+  "count": 450,
   "summary": null,
   "items": [
+    {
+      "id": "https://zeldman.com/?p=21516",
+      "title": "Standout Designs for the Web",
+      "published": "2026-11-16T13:29:26+00:00",
+      "author": "L. Jeffrey Zeldman",
+      "description": "Andy Clarke’s Standout Designs for the Web ships Wednesday and is now available for pre-order. I had the honor of writing the Foreword, reprinted here: Foreword I first met British art director, writer, and illustrator Andy Clarke at the SXSW Interactive festival in Austin, Texas. At the time, SXSW was the number one destination for […] The post Standout Designs for the Web appeared first on Jeffrey Zeldman Presents .",
+      "link": "https://zeldman.com/2026/11/16/standout-designs-for-the-web/",
+      "image": null,
+      "feed_name": "Zeldman on Web and Interaction Design",
+      "feed_title": "Jeffrey Zeldman Presents",
+      "category": "personal blogs",
+      "feed_url": "http://www.zeldman.com/feed/",
+      "feed_icon": "https://i0.wp.com/zeldman.com/wp-content/uploads/2014/12/cropped-default-54a3966bv1_site_icon.png?fit=32%2C32&ssl=1"
+    },
     {
       "id": "https://shkspr.mobi/blog/?p=77605",
       "title": "Gig Review: ABBA Voyage ★★★★☆",
@@ -45,6 +59,20 @@
       "category": "personal blogs",
       "feed_url": "https://darekkay.com/atom.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=dariuszwinkler.com&sz=64"
+    },
+    {
+      "id": "http://localhost:4000/weeknotes/2026/11/16/weeknotes-no101.html",
+      "title": "Weeknotes No.101",
+      "published": "2026-11-16T07:30:00+00:00",
+      "author": null,
+      "description": "What a weekend! I went to football to watch our first FA Cup game, and Guiseley did it. They only bloody won and got through to the next round! Here’s the match report . It was a strange day. It started with football training for our young H Kane, then we got a lift to the football stadium for the 3pm kick-off. The game itself wasn’t really THAT eventful, but whilst we stood there watching, a fellow supporter had a medical emergency, which led to him lying at my feet (with Jasper). It was scary…",
+      "link": "http://localhost:4000/weeknotes/2026/11/16/weeknotes-no101.html",
+      "image": null,
+      "feed_name": "Michael Cattell",
+      "feed_title": "Michael Cattell",
+      "category": "personal blogs",
+      "feed_url": "https://www.michaelcattell.com/feed.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=localhost:4000&sz=64"
     },
     {
       "id": "https://mattgemmell.scot/books/once-upon-a-time/stories/overalls/",
@@ -717,6 +745,20 @@
       "category": "personal blogs",
       "feed_url": "https://nerdy.dev/rss.xml",
       "feed_icon": "https://nerdy.dev/rss-icon.png"
+    },
+    {
+      "id": "http://localhost:4000/thoughts/2026/11/12/you-dont-need-another-workshop.html",
+      "title": "You don't need another workshop. You need a decision.",
+      "published": "2026-11-12T07:30:00+00:00",
+      "author": null,
+      "description": "I have a bit of a problem with designers who love the process more than the outcome. There, I’ve said it… anddddd relax. I’ve spent years running workshops, facilitating discussions and getting people into rooms to solve problems. I love a good workshop, especially when you get the right people together, challenge each other and actually move something forward. It’s fun, and it’s really interesting to chat with very smart people who bring snacks. BUT, with the good comes the bad. I’ve also sat…",
+      "link": "http://localhost:4000/thoughts/2026/11/12/you-dont-need-another-workshop.html",
+      "image": null,
+      "feed_name": "Michael Cattell",
+      "feed_title": "Michael Cattell",
+      "category": "personal blogs",
+      "feed_url": "https://www.michaelcattell.com/feed.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=localhost:4000&sz=64"
     },
     {
       "id": "https://ronaldsvilcins.com/2026/11/12/1fr-vs-minmax0-1fr-in-css-grid/",
