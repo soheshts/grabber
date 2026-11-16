@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-16T17:33:39.028343+00:00",
-  "count": 447,
+  "updated": "2026-11-16T18:03:06.484931+00:00",
+  "count": 446,
   "summary": null,
   "items": [
     {
@@ -5533,20 +5533,6 @@
       "category": "personal blogs",
       "feed_url": "https://meiert.com/en/feed/",
       "feed_icon": "https://meiert.com/media/social.png"
-    },
-    {
-      "id": "https://www.raymondcamden.com/2026/10/17/generating-pdfs-from-word-templates-with-officeparser",
-      "title": "Generating PDFs from Word Templates with officeParser",
-      "published": "2026-10-17T18:00:00+00:00",
-      "author": "Raymond Camden",
-      "description": "I've been singing the praises of the officeParser library for a while. It's an open source JavaScript library that can parse, extract, and convert between PDFs and Office documents, as well as OpenOffice, ePub and more. My demos have all focused on client-side examples but obviously the library would work great in a server side workflow as well. I haven't worked at Adobe for years now, but I still get strangely excited working with documents. I'll just add that to the long list of reasons I'm a…",
-      "link": "https://www.raymondcamden.com/2026/10/17/generating-pdfs-from-word-templates-with-officeparser",
-      "image": "https://static.raymondcamden.com/images/2026/10/form1.png",
-      "feed_name": "Raymond Camden",
-      "feed_title": "Raymond Camden",
-      "category": "personal blogs",
-      "feed_url": "https://www.raymondcamden.com/feed.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.raymondcamden.com&sz=64"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
