@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-16T20:32:48.661838+00:00",
+  "updated": "2026-11-16T21:03:36.769816+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.howtogeek.com/as-much-dislike-ubuntu-its-still-the-best-distro-for-absolute-beginners/",
+      "title": "As much as I dislike Ubuntu, it's still the best distro for absolute beginners",
+      "published": "2026-11-16T21:00:16+00:00",
+      "author": "Zunaid Ali",
+      "description": "You need to know what a new Linux user actually looks for in a distro.",
+      "link": "https://www.howtogeek.com/as-much-dislike-ubuntu-its-still-the-best-distro-for-absolute-beginners/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/ubuntu-fastfetch.png",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/asked-adobe-executives-why-should-pay-for-creative-cloud-when-claude-code-build-alternatives/",
       "title": "I asked 3 Adobe executives why I should pay for Creative Cloud when Claude Code can build alternatives",
@@ -13989,20 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.makeuseof.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/sharing-files-between-windows-and-linux-is-a-mess-here-is-what-actually-works/",
-      "title": "Sharing files between Windows and Linux is a mess — here’s what actually works",
-      "published": "2026-11-03T13:00:15+00:00",
-      "author": "Dibakar Ghosh",
-      "description": "Stop rebooting just to grab one file. Here’s how to get Windows and Linux reading each other’s drives properly.",
-      "link": "https://www.howtogeek.com/sharing-files-between-windows-and-linux-is-a-mess-here-is-what-actually-works/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/06/windows-11-pc-showing-file-explore-with-access-to-linux-partition-file-system.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
     }
   ]
 }
