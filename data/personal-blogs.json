@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-16T17:03:15.223606+00:00",
-  "count": 448,
+  "updated": "2026-11-16T17:33:39.028343+00:00",
+  "count": 447,
   "summary": null,
   "items": [
     {
@@ -5547,20 +5547,6 @@
       "category": "personal blogs",
       "feed_url": "https://www.raymondcamden.com/feed.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.raymondcamden.com&sz=64"
-    },
-    {
-      "id": "https://blog.tomayac.com/2026/10/17/getting-my-totp-data-out-of-twilios-authy-app-thanks-to-the-gdpr/",
-      "title": "Getting my TOTP data out of Twilio's Authy app thanks to the GDPR",
-      "published": "2026-10-17T17:21:12+00:00",
-      "author": "Thomas Steiner (steiner.thomas@gmail.com)",
-      "description": "As every responsible Internet user, I use two-factor authentication (2FA) for my important accounts. For a long time, I depended on Google's Authenticator app, but because early versions of the app weren't backed up to the cloud (not a problem anymore) and because as a Google Android dogfooder I switch devices frequently, I turned to Twilio's Authy , which at the time already supported cloud backup and cross device synchronization. Authy has both iOS and Android apps, and also offered a desktop…",
-      "link": "https://blog.tomayac.com/2026/10/17/getting-my-totp-data-out-of-twilios-authy-app-thanks-to-the-gdpr/",
-      "image": "https://blog.tomayac.com/images/gdpr-europe.jpg",
-      "feed_name": "Blogccasion",
-      "feed_title": "Blogccasion",
-      "category": "personal blogs",
-      "feed_url": "https://blog.tomayac.com/feed/feed.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=blog.tomayac.com&sz=64"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
