@@ -1,9 +1,23 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-17T11:03:01.691207+00:00",
-  "count": 436,
+  "updated": "2026-11-17T11:33:15.142149+00:00",
+  "count": 437,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.bennadel.com/blog/4929-ai-spam-detection-with-pangram-htmx-4-and-coldfusion.htm",
+      "title": "AI Spam Detection With Pangram, HTMX 4, And ColdFusion",
+      "published": "2026-11-17T16:15:54+00:00",
+      "author": null,
+      "description": "Ben Nadel explores using the Pangram API for AI text detection in his comment moderation workflow using the HTMX 4 framework with Adobe ColdFusion 2025 on the backend....",
+      "link": "https://www.bennadel.com/blog/4929-ai-spam-detection-with-pangram-htmx-4-and-coldfusion.htm",
+      "image": "https://bennadel-cdn.com/resources/uploads/2026/pangram-htmx-coldfusion-demo-a@2x.png",
+      "feed_name": "Ben Nadel",
+      "feed_title": "Ben Nadel's Web Development and User Experience Feed @ BenNadel.com",
+      "category": "personal blogs",
+      "feed_url": "http://www.bennadel.com/index.cfm?dax=blog.rss&lst_tag_id=14,16,3,5,9,6,7,13,18,20,10,15",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.bennadel.com&sz=64"
+    },
     {
       "id": "http://elizabethtai.com/?p=22039",
       "title": "I gave up writing fiction because I couldn’t afford it. AI changed that.",
@@ -419,7 +433,7 @@
       "link": "https://meiert.com/blog/two-people/",
       "image": "https://d3rdtowr0c5lpf.cloudfront.net/media/social.png",
       "feed_name": "Blog (Web Development, Mostly) · Jens Oliver Meiert",
-      "feed_title": "Jens Oliver Meiert · Code Optimization, Digital Defense, World Models",
+      "feed_title": "Jens Oliver Meiert · Code Optimization, Digital Defense, Models of Reality",
       "category": "personal blogs",
       "feed_url": "https://meiert.com/en/feed/",
       "feed_icon": "https://meiert.com/media/social.png"
@@ -867,7 +881,7 @@
       "link": "https://meiert.com/blog/css-deduplication-and-compression/",
       "image": "https://d3rdtowr0c5lpf.cloudfront.net/media/social.png",
       "feed_name": "Blog (Web Development, Mostly) · Jens Oliver Meiert",
-      "feed_title": "Jens Oliver Meiert · Code Optimization, Digital Defense, World Models",
+      "feed_title": "Jens Oliver Meiert · Code Optimization, Digital Defense, Models of Reality",
       "category": "personal blogs",
       "feed_url": "https://meiert.com/en/feed/",
       "feed_icon": "https://meiert.com/media/social.png"
@@ -1287,7 +1301,7 @@
       "link": "https://meiert.com/blog/edit-awagam-blocklists/",
       "image": "https://d3rdtowr0c5lpf.cloudfront.net/media/social.png",
       "feed_name": "Blog (Web Development, Mostly) · Jens Oliver Meiert",
-      "feed_title": "Jens Oliver Meiert · Code Optimization, Digital Defense, World Models",
+      "feed_title": "Jens Oliver Meiert · Code Optimization, Digital Defense, Models of Reality",
       "category": "personal blogs",
       "feed_url": "https://meiert.com/en/feed/",
       "feed_icon": "https://meiert.com/media/social.png"
@@ -2519,7 +2533,7 @@
       "link": "https://meiert.com/blog/html-minifier-next-to-html-minifier/",
       "image": "https://d3rdtowr0c5lpf.cloudfront.net/media/social.png",
       "feed_name": "Blog (Web Development, Mostly) · Jens Oliver Meiert",
-      "feed_title": "Jens Oliver Meiert · Code Optimization, Digital Defense, World Models",
+      "feed_title": "Jens Oliver Meiert · Code Optimization, Digital Defense, Models of Reality",
       "category": "personal blogs",
       "feed_url": "https://meiert.com/en/feed/",
       "feed_icon": "https://meiert.com/media/social.png"
@@ -2533,7 +2547,7 @@
       "link": "https://meiert.com/blog/html-minifier-4-5/",
       "image": "https://d3rdtowr0c5lpf.cloudfront.net/media/social.png",
       "feed_name": "Blog (Web Development, Mostly) · Jens Oliver Meiert",
-      "feed_title": "Jens Oliver Meiert · Code Optimization, Digital Defense, World Models",
+      "feed_title": "Jens Oliver Meiert · Code Optimization, Digital Defense, Models of Reality",
       "category": "personal blogs",
       "feed_url": "https://meiert.com/en/feed/",
       "feed_icon": "https://meiert.com/media/social.png"
@@ -3597,7 +3611,7 @@
       "link": "https://meiert.com/blog/catastrophic-ai/",
       "image": "https://d3rdtowr0c5lpf.cloudfront.net/media/social.png",
       "feed_name": "Blog (Web Development, Mostly) · Jens Oliver Meiert",
-      "feed_title": "Jens Oliver Meiert · Code Optimization, Digital Defense, World Models",
+      "feed_title": "Jens Oliver Meiert · Code Optimization, Digital Defense, Models of Reality",
       "category": "personal blogs",
       "feed_url": "https://meiert.com/en/feed/",
       "feed_icon": "https://meiert.com/media/social.png"
@@ -3919,7 +3933,7 @@
       "link": "https://meiert.com/blog/ntrnllnk-wordpress-linking/",
       "image": "https://d3rdtowr0c5lpf.cloudfront.net/media/social.png",
       "feed_name": "Blog (Web Development, Mostly) · Jens Oliver Meiert",
-      "feed_title": "Jens Oliver Meiert · Code Optimization, Digital Defense, World Models",
+      "feed_title": "Jens Oliver Meiert · Code Optimization, Digital Defense, Models of Reality",
       "category": "personal blogs",
       "feed_url": "https://meiert.com/en/feed/",
       "feed_icon": "https://meiert.com/media/social.png"
@@ -4983,7 +4997,7 @@
       "link": "https://meiert.com/blog/web-page-minification-with-jekyll/",
       "image": null,
       "feed_name": "Blog (Web Development, Mostly) · Jens Oliver Meiert",
-      "feed_title": "Jens Oliver Meiert · Code Optimization, Digital Defense, World Models",
+      "feed_title": "Jens Oliver Meiert · Code Optimization, Digital Defense, Models of Reality",
       "category": "personal blogs",
       "feed_url": "https://meiert.com/en/feed/",
       "feed_icon": "https://meiert.com/media/social.png"
@@ -5123,7 +5137,7 @@
       "link": "https://meiert.com/blog/web-page-minification-with-vitepress/",
       "image": null,
       "feed_name": "Blog (Web Development, Mostly) · Jens Oliver Meiert",
-      "feed_title": "Jens Oliver Meiert · Code Optimization, Digital Defense, World Models",
+      "feed_title": "Jens Oliver Meiert · Code Optimization, Digital Defense, Models of Reality",
       "category": "personal blogs",
       "feed_url": "https://meiert.com/en/feed/",
       "feed_icon": "https://meiert.com/media/social.png"
