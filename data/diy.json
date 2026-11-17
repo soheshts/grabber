@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-17T17:32:49.247063+00:00",
+  "updated": "2026-11-17T18:03:54.182162+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/smart-home-devices-better-buying-building-esp32/",
+      "title": "5 smart home devices you’re better off buying than building with an ESP32",
+      "published": "2026-11-17T18:00:17+00:00",
+      "author": "Yadullah Abidi",
+      "description": "Build the fun stuff. Buy anything that can burn, shock, or lock you out.",
+      "link": "https://www.makeuseof.com/smart-home-devices-better-buying-building-esp32/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/06/rgb-strip-in-green-color-with-esp32.JPG",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/iphone-significant-locations-routes-tracks-where-you-go-how-often-you-visit/",
+      "title": "This iPhone feature tracks where you go and how often you visit",
+      "published": "2026-11-17T18:00:16+00:00",
+      "author": "Tony Phillips",
+      "description": "My iPhone had 66 records I didn't know existed.",
+      "link": "https://www.howtogeek.com/iphone-significant-locations-routes-tracks-where-you-go-how-often-you-visit/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/iphone-significant-locations-hero.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/ipad-lock-screen-notifications-settings/",
       "title": "My iPad's Lock Screen was a notification avalanche until I changed three settings",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.apartmenttherapy.com/projects.rss",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.apartmenttherapy.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/how-to-see-which-devices-on-your-wi-fi-are-sending-data-out-starting-with-your-router/",
-      "title": "Your router can show you which devices are secretly uploading your data",
-      "published": "2026-11-03T22:30:15+00:00",
-      "author": "Monica J. White",
-      "description": "Your Wi-Fi devices are constantly sending data out. Here's how to see where it goes",
-      "link": "https://www.howtogeek.com/how-to-see-which-devices-on-your-wi-fi-are-sending-data-out-starting-with-your-router/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/img_5294.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/i-asked-claude-for-a-30-day-linux-command-line-workout-and-finished-it-in-days/",
-      "title": "I asked Claude for a 30-day Linux command-line workout and finished it in days",
-      "published": "2026-11-03T22:00:15+00:00",
-      "author": "David J. Buck",
-      "description": "Using Linux daily isn’t the same as being fluent, but a 30-day workout can close the gap",
-      "link": "https://www.howtogeek.com/i-asked-claude-for-a-30-day-linux-command-line-workout-and-finished-it-in-days/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/claude-workout-feature.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
     }
   ]
 }
