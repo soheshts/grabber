@@ -1,9 +1,23 @@
 {
   "category": "fashion",
-  "updated": "2026-11-17T22:02:55.715932+00:00",
+  "updated": "2026-11-17T22:32:45.540777+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/11/17/style/annette-green-dead.html",
+      "title": "Annette Green, ‘High Priestess’ of the Perfume World, Has Died at 102",
+      "published": "2026-11-17T22:08:42+00:00",
+      "author": "Penelope Green",
+      "description": "She turned the nonprofit Fragrance Foundation into a P.R. powerhouse, predicting the home-fragrance boom and overseeing the rise of designer perfumes.",
+      "link": "https://www.nytimes.com/2026/11/17/style/annette-green-dead.html",
+      "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16obit-Green-01-kmvl/16obit-Green-01-kmvl-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Style",
+      "feed_title": "NYT > Style",
+      "category": "fashion",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "https://www.nytimes.com/2026/11/17/style/gta-6-grand-theft-auto-south-park.html",
       "title": "How ‘South Park’ Uses G.T.A. 6 as a Political Metaphor",
@@ -13989,20 +14003,6 @@
       "category": "fashion",
       "feed_url": "https://www.whowhatwear.com/rss",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.whowhatwear.com&sz=64"
-    },
-    {
-      "id": "http://www.elle.com/fashion/shopping/a74244023/best-snakeskin-shoes-trend/",
-      "title": "Snakeskin Shoes Are the Statement-Making Neutral Taking Over This Season",
-      "published": "2026-10-27T19:00:00+00:00",
-      "author": null,
-      "description": "The print acts like a neutral—but adds instant edge to every outfit.",
-      "link": "https://www.elle.com/fashion/shopping/a74244023/best-snakeskin-shoes-trend/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/f59000ed-fdc6-4922-b2f8-7879a6565bee.jpg?crop=1xw:0.333xh;0xw,0.539xh&resize=1200:*",
-      "feed_name": "Fashion - ELLE",
-      "feed_title": "Fashion - ELLE",
-      "category": "fashion",
-      "feed_url": "https://www.elle.com/rss/fashion.xml/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.elle.com&sz=64"
     }
   ]
 }
