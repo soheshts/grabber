@@ -1,9 +1,23 @@
 {
   "category": "science",
-  "updated": "2026-11-17T04:32:22.437155+00:00",
+  "updated": "2026-11-17T05:03:53.020786+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "news714040501",
+      "title": "The sun, Earth, Jupiter and white dwarfs: Potential traps for dark matter",
+      "published": "2026-11-17T05:00:01+00:00",
+      "author": null,
+      "description": "Dark matter continues to evade direct detection. Its slower-moving particles might leave signals too faint for detectors to register, yet be more easily captured by planets and stars. As they accumulate inside these bodies, they could produce effects that existing instruments would allow us to search for.",
+      "link": "https://phys.org/news/2026-11-sun-earth-jupiter-white-dwarfs.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-sun-earth-jupiter.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
     {
       "id": "news714057951",
       "title": "What makes food 'organic?' For many consumers, the answer isn't always on the label",
@@ -13989,20 +14003,6 @@
       "category": "science",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "news713194861",
-      "title": "How a metabolite protects the enzyme that consumes it",
-      "published": "2026-11-06T21:40:01+00:00",
-      "author": null,
-      "description": "Metabolites are consumed by enzymes to produce other vital molecules as well as to control metabolite levels. But how do cells avoid consuming too much? Researchers from the MPI of Biochemistry, with the University of Nevada, Las Vegas, and the de Duve Institute in Brussels, have deciphered such molecular regulation in tryptophan metabolism. The essential amino acid tryptophan binds to a second site on the enzyme TDO2, distinct from where it is consumed. This sequesters a region needed by two e…",
-      "link": "https://phys.org/news/2026-11-metabolite-enzyme-consumes.html",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-metabolite-regulates.jpg",
-      "feed_name": "Phys.org - latest science and technology news stories",
-      "feed_title": "Phys.org - latest science and technology news stories",
-      "category": "science",
-      "feed_url": "https://phys.org/rss-feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
     }
   ]
 }
