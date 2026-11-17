@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-17T18:32:24.780015+00:00",
-  "count": 442,
+  "updated": "2026-11-17T19:03:02.905235+00:00",
+  "count": 441,
   "summary": null,
   "items": [
     {
@@ -1283,7 +1283,7 @@
       "title": "What CSS appearance Actually Does",
       "published": "2026-11-10T06:00:00+00:00",
       "author": "Ronalds Vilciņš",
-      "description": "CSS appearance changes a native control's presentation while keeping its functionality. Restyle a select, retain its cues, and know when to leave it alone.",
+      "description": "CSS appearance changes a form control’s styling. Restyle a select, add its arrow back, and keep labels, focus, and checked states easy to recognise.",
       "link": "https://ronaldsvilcins.com/2026/11/10/what-css-appearance-actually-does/",
       "image": "https://ronaldsvilcins.com/og/1cc1ce9ed62ecd73c448886049b80468ebb6ae9f5dfbde1a2705afeec80634ca.jpg",
       "feed_name": "Ronalds Vilciņš",
@@ -1924,7 +1924,7 @@
     },
     {
       "id": "https://ronaldsvilcins.com/2026/11/06/set-anchor-and-snap-insets-with-css-scroll-padding/",
-      "title": "Set Anchor and Snap Insets With CSS scroll-padding",
+      "title": "Keep scroll targets clear with CSS scroll-padding",
       "published": "2026-11-06T06:00:00+00:00",
       "author": "Ronalds Vilciņš",
       "description": "scroll-padding sets a viewing inset for anchor targets and snap positions. See page, gallery, and panel examples, plus how it differs from normal padding.",
@@ -3492,7 +3492,7 @@
     },
     {
       "id": "https://ronaldsvilcins.com/2026/10/30/css-border-shape-can-draw-boxes-clip-path-cannot/",
-      "title": "CSS border-shape Can Draw Boxes clip-path Cannot",
+      "title": "Draw shaped borders with CSS border-shape",
       "published": "2026-10-30T06:00:00+00:00",
       "author": "Ronalds Vilciņš",
       "description": "CSS border-shape lets borders and shadows follow a custom outline. Compare it with clip-path, try complete examples, and keep a usable rounded fallback.",
@@ -5463,20 +5463,6 @@
       "category": "personal blogs",
       "feed_url": "https://thomasrigby.com/feed.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=thomasrigby.com&sz=64"
-    },
-    {
-      "id": "01m581za6trhfr0n3pc82jng8z",
-      "title": "Photober 2026: week two",
-      "published": "2026-10-18T18:49:22+00:00",
-      "author": "Sven Luijten",
-      "description": "",
-      "link": "https://svenluijten.com/blog/photober-2026-week-two",
-      "image": null,
-      "feed_name": "Sven Luijten",
-      "feed_title": "Sven Luijten",
-      "category": "personal blogs",
-      "feed_url": "https://svenluijten.com/feeds/all.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=svenluijten.com&sz=64"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",

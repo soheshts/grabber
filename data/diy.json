@@ -1,9 +1,51 @@
 {
   "category": "DIY",
-  "updated": "2026-11-17T18:32:24.780015+00:00",
+  "updated": "2026-11-17T19:03:02.905235+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/pixel-best-music-app-not-google/",
+      "title": "My Pixel’s best-looking music app isn’t from Google, and it doesn’t need a subscription",
+      "published": "2026-11-17T19:00:23+00:00",
+      "author": "Brady Snyder",
+      "description": "This offline player has Material 3 Expressive flair.",
+      "link": "https://www.makeuseof.com/pixel-best-music-app-not-google/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/pixel-music-6.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/oled-tv-vs-projector-the-winner-is-obvious-when-you-see-a-blank-screen/",
+      "title": "OLED TV vs. Projector: The winner is obvious when you see a blank screen",
+      "published": "2026-11-17T19:00:22+00:00",
+      "author": "Sydney Butler",
+      "description": "Ambient light and reflected projector spill can raise a screen's black floor and undermine on-screen shadow detail.",
+      "link": "https://www.howtogeek.com/oled-tv-vs-projector-the-winner-is-obvious-when-you-see-a-blank-screen/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2025/11/09-2025-11-12-17-38-38.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/apple-services-are-down-outage/",
+      "title": "Apple Services are down with users unable to access iCloud, Apple Pay, and Apple Music",
+      "published": "2026-11-17T18:54:17+00:00",
+      "author": "Viraj Gawde",
+      "description": "Nobody has any idea why multiple outages are happening lately.",
+      "link": "https://www.howtogeek.com/apple-services-are-down-outage/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2025/06/icloud-logo-with-several-photos-around-it-and-backup-and-offline-icons.png",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/ramageddon-might-end-in-2027-because-of-a-company-youve-never-heard-of/",
       "title": "RAMageddon might end in 2027, and it’s all because of a company you’ve never heard of",
@@ -13961,48 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://hackaday.com/?p=1397754",
-      "title": "Reading Data from an Unwilling Blood Pressure Monitor",
-      "published": "2026-11-04T09:00:46+00:00",
-      "author": "Tom Nardi",
-      "description": "Given the modern trend of interconnecting anything and everything, we have no doubt that somebody sells a blood pressure monitor that will push its measurements out to all sorts of …read more",
-      "link": "https://hackaday.com/2026/11/04/reading-data-from-an-unwilling-blood-pressure-monitor/",
-      "image": "https://hackaday.com/wp-content/uploads/2026/11/smartbp_feat.jpg",
-      "feed_name": "Blog – Hackaday",
-      "feed_title": "Blog – Hackaday",
-      "category": "DIY",
-      "feed_url": "https://hackaday.com/blog/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
-    },
-    {
-      "id": "https://hackaday.com/?p=1397666",
-      "title": "As LLMs Devour the Storage Market, Fujifilm Bets on Tape",
-      "published": "2026-11-04T06:00:13+00:00",
-      "author": "Tyler August",
-      "description": "One of the interesting things about the slow-moving AI apocalypse we seem to be trapped in is watching the knock-on effects reverberate through communities and economies. We’ve seen how — …read more",
-      "link": "https://hackaday.com/2026/11/03/as-llms-devour-the-storage-market-fujifilm-bets-on-tape/",
-      "image": "https://hackaday.com/wp-content/uploads/2026/11/fujifilm-lto-10-e1793725695938.jpg",
-      "feed_name": "Blog – Hackaday",
-      "feed_title": "Blog – Hackaday",
-      "category": "DIY",
-      "feed_url": "https://hackaday.com/blog/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
-    },
-    {
-      "id": "https://hackaday.com/?p=1397655",
-      "title": "Cat Feeder Ensures Fed Cats",
-      "published": "2026-11-04T03:00:36+00:00",
-      "author": "Bryan Cockfield",
-      "description": "Automatic cat feeders are a dime a dozen, largely because this is an easy problem to solve. Dry cat food is easy for machines to manipulate, and the electronics needed …read more",
-      "link": "https://hackaday.com/2026/11/03/cat-feeder-ensures-fed-cats/",
-      "image": "https://hackaday.com/wp-content/uploads/2026/11/cat-feeder-main.png",
-      "feed_name": "Blog – Hackaday",
-      "feed_title": "Blog – Hackaday",
-      "category": "DIY",
-      "feed_url": "https://hackaday.com/blog/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
     }
   ]
 }
