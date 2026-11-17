@@ -1,6 +1,6 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-17T11:33:15.142149+00:00",
+  "updated": "2026-11-17T12:03:09.034830+00:00",
   "count": 437,
   "summary": null,
   "items": [
@@ -17,6 +17,20 @@
       "category": "personal blogs",
       "feed_url": "http://www.bennadel.com/index.cfm?dax=blog.rss&lst_tag_id=14,16,3,5,9,6,7,13,18,20,10,15",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.bennadel.com&sz=64"
+    },
+    {
+      "id": "https://dariuszwinkler.com/photo/0200/",
+      "title": "#0200",
+      "published": "2026-11-17T11:36:16+00:00",
+      "author": "Dariusz Winkler",
+      "description": "Red and purple firework next to a tower. Green and yellow smoke below the tower. The top of the tower is illuminated.",
+      "link": "https://dariuszwinkler.com/photo/0200/",
+      "image": "https://dariuszwinkler.com/photo/0200/0200-small.webp",
+      "feed_name": "Darek Kay",
+      "feed_title": "Dariusz Winkler",
+      "category": "personal blogs",
+      "feed_url": "https://darekkay.com/atom.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=dariuszwinkler.com&sz=64"
     },
     {
       "id": "http://elizabethtai.com/?p=22039",
@@ -5393,20 +5407,6 @@
       "category": "personal blogs",
       "feed_url": "https://svenluijten.com/feeds/all.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=svenluijten.com&sz=64"
-    },
-    {
-      "id": "https://shkspr.mobi/blog/?p=76104",
-      "title": "Una Watch TOTP - MFA on your wrist!",
-      "published": "2026-10-18T11:34:08+00:00",
-      "author": "Terence Eden",
-      "description": "Let's get this out of the way first - this is a terrible idea! I want my two-factor authentication codes to be easily accessible to me, so I've built a watch app which will display them. That's really convenient for me - but makes for a terrible security posture. Anyone who steals my watch will be able to see my one-time code. If they're clever, they can decompile the app and find the secret…",
-      "link": "https://shkspr.mobi/blog/2026/10/una-watch-totp-mfa-on-your-wrist/",
-      "image": "https://shkspr.mobi/blog/wp-content/uploads/2026/09/MFA.webp",
-      "feed_name": "Terence Eden’s Blog",
-      "feed_title": "Terence Eden’s Blog",
-      "category": "personal blogs",
-      "feed_url": "https://shkspr.mobi/blog/feed/atom/",
-      "feed_icon": "https://shkspr.mobi/blog/wp-content/uploads/2023/07/cropped-avatar-32x32.jpeg"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
