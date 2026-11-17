@@ -1,9 +1,51 @@
 {
   "category": "DIY",
-  "updated": "2026-11-17T20:33:42.112521+00:00",
+  "updated": "2026-11-17T21:02:33.251795+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://hackaday.com/?p=1428379",
+      "title": "Custom Firmware for Fortinet FortiGate 60 Firewall/Router",
+      "published": "2026-11-17T21:00:26+00:00",
+      "author": "Maya Posch",
+      "description": "When [Matt Williams] found an old enterprise firewall in the trash, he knew he had to do something with it. After cracking it open, he found that this 2000s-era Fortinet FortiGate …read more",
+      "link": "https://hackaday.com/2026/11/17/custom-firmware-for-fortinet-fortigate-60-firewall-router/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/Linux_fbdoom.jpg",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/windows-11-copilot-pc-troubleshooting-feature/",
+      "title": "Copilot is learning to troubleshoot Windows 11 problems for you",
+      "published": "2026-11-17T20:53:39+00:00",
+      "author": "Jefferson Mangubat",
+      "description": "Say goodbye to settings spelunking.",
+      "link": "https://www.howtogeek.com/windows-11-copilot-pc-troubleshooting-feature/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/03/copilot-key-on-a-laptop-keyboard.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/flipper-one-hits-the-market/",
+      "title": "The new Flipper One is a full Linux PC you can fit in your pocket, and it's sold at zero profit",
+      "published": "2026-11-17T20:42:49+00:00",
+      "author": "Tyler Cross",
+      "description": "Is the new handheld Linux device worth buying?",
+      "link": "https://www.howtogeek.com/flipper-one-hits-the-market/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/raspberry-pi-usb-3-hub-sits-beside-two-raspberry-pi-compute-boards-on-a-carbon-fiber-patterned-surface.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/ways-to-use-old-android-phone-in-smart-home/",
       "title": "Don't e-waste your old Android phone: 5 ways to use it in your smart home instead",
@@ -13961,48 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.makeuseof.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/every-power-tool-brand-owned-by-tti-from-ryobi-to-milwaukee/",
-      "title": "From Ryobi to Milwaukee: Every power tool brand owned by TTI",
-      "published": "2026-11-04T13:30:15+00:00",
-      "author": "Cory Gunther",
-      "description": "A rainbow of tools under one roof.",
-      "link": "https://www.howtogeek.com/every-power-tool-brand-owned-by-tti-from-ryobi-to-milwaukee/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/08/milwaukee-m12-and-ryobi-one-drill-driver-size-comparison.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/smart-home-display-promises-two-years-battery-life/",
-      "title": "This $40 smart home display promises up to two years of battery life",
-      "published": "2026-11-04T13:17:37+00:00",
-      "author": "Hamed Paydarfar",
-      "description": "Compact e-paper dashboard arrives assembled with enclosure, stand, battery, and preinstalled firmware for quick setup.",
-      "link": "https://www.makeuseof.com/smart-home-display-promises-two-years-battery-life/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2026/11/opendisplay-models-by-seeed-studio.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://ikeahackers.net/?p=106712",
-      "title": "This IKEA Printer Stand Hack Makes Room for a Robot Vacuum",
-      "published": "2026-11-04T13:05:02+00:00",
-      "author": "Stacy Randall",
-      "description": "IKEA hacks don’t have to be complicated, time-consuming, or involve tons of tools. Sometimes, you can get exactly what you want in just a matter of minutes, using nothing more than a saw and a quick switcheroo. Nicky M. used a GLADOM tray table and SKALA tray to create a modern-looking printer stand for her home office corner. She moved the tray that came with the table to the bottom and put the SKALA on top to create a two-tiered […] The post This IKEA Printer Stand Hack Makes Room for a Robot…",
-      "link": "https://ikeahackers.net/2026/11/2-in-1-hack-sleek-home-office.html",
-      "image": "https://ikeahackers.net/wp-content/uploads/2026/10/IKEA-home-tour-featured-image-4.jpg",
-      "feed_name": "IKEA Hackers",
-      "feed_title": "IKEA Hackers",
-      "category": "DIY",
-      "feed_url": "https://www.ikeahackers.net/feed",
-      "feed_icon": "https://ikeahackers.net/wp-content/uploads/2017/12/cropped-favicon-32x32.jpg"
     }
   ]
 }
