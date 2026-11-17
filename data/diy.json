@@ -1,9 +1,51 @@
 {
   "category": "DIY",
-  "updated": "2026-11-17T19:33:10.158217+00:00",
+  "updated": "2026-11-17T20:03:07.883534+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/wallos-dashboard-lets-track-subscriptions-without-paying/",
+      "title": "I refused to pay a subscription just to track my subscriptions, so I self-hosted this open-source dashboard",
+      "published": "2026-11-17T20:00:17+00:00",
+      "author": "Abhijith N Arjunan",
+      "description": "Turns out, I don't have to pay for a subscription to keep track of what I already pay for.",
+      "link": "https://www.makeuseof.com/wallos-dashboard-lets-track-subscriptions-without-paying/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/wallos-running-on-laptop.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/gemini-in-android-auto-is-finally-good-for-more-than-just-giving-directions/",
+      "title": "Gemini in Android Auto is finally good for more than just giving directions",
+      "published": "2026-11-17T20:00:16+00:00",
+      "author": "Sanya Shah",
+      "description": "Meet my new copilot.",
+      "link": "https://www.howtogeek.com/gemini-in-android-auto-is-finally-good-for-more-than-just-giving-directions/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/09/img_3955-1.avif",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.makeuseof.com/google-makes-premium-feature-free-but-you-might-have-already-paid-for-it/",
+      "title": "Google makes premium feature free, but you might have already paid for it",
+      "published": "2026-11-17T19:51:51+00:00",
+      "author": "Sara Heritage",
+      "description": "Scan a QR, choose a look and voice, then script your avatar to deliver polished explainers across scenes.",
+      "link": "https://www.makeuseof.com/google-makes-premium-feature-free-but-you-might-have-already-paid-for-it/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2026/11/google-ai-avatars.png",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/we-dont-talk-about-nvidias-biggest-failure-nearly-enough-and-your-gpu-is-probably-suffering-from-it/",
       "title": "We don't talk about Nvidia's biggest failure nearly enough, and your GPU may be suffering from it",
@@ -13961,48 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/i-stopped-tweaking-my-router-after-discovering-these-hidden-windows-wi-fi-settings/",
-      "title": "I stopped tweaking my router after discovering these hidden Windows Wi-Fi settings",
-      "published": "2026-11-04T12:30:16+00:00",
-      "author": "Afam Onyimadu",
-      "description": "Each setting targets one symptom, from dropped calls to slow uploads.",
-      "link": "https://www.makeuseof.com/i-stopped-tweaking-my-router-after-discovering-these-hidden-windows-wi-fi-settings/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/windows-wifi-settings.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/tailscale-turned-my-raspberry-pi-into-the-travel-router-i-actually-wanted/",
-      "title": "Tailscale turned my Raspberry Pi into the travel router I actually wanted",
-      "published": "2026-11-04T12:30:15+00:00",
-      "author": "Umair Khurshid",
-      "description": "This Raspberry Pi knows its way around my home network, even when I am hundreds of miles away!",
-      "link": "https://www.howtogeek.com/tailscale-turned-my-raspberry-pi-into-the-travel-router-i-actually-wanted/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/hp-zbook-displaying-the-headscale-v0-29-1-dashboard-with-a-raspberry-pi-5-connected-to-a-netgear-nighthawk-usb-wi-fi-adapter-on-a-black-carbon-fiber-desk-mat.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://hackaday.com/?p=1397771",
-      "title": "A Ridiculous Journey to Set the Clock in a 2014 Renault",
-      "published": "2026-11-04T12:00:48+00:00",
-      "author": "Tom Nardi",
-      "description": "As difficult as it may be to believe, it’s not possible to adjust the time on a 2014 Renault Latitude’s in-dash navigation system unless you have an original SD card …read more",
-      "link": "https://hackaday.com/2026/11/04/a-ridiculous-journey-to-set-the-clock-in-a-2014-renault/",
-      "image": "https://hackaday.com/wp-content/uploads/2026/11/renaultclock_feat.jpg",
-      "feed_name": "Blog – Hackaday",
-      "feed_title": "Blog – Hackaday",
-      "category": "DIY",
-      "feed_url": "https://hackaday.com/blog/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
     }
   ]
 }
