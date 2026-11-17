@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-17T13:03:03.286369+00:00",
-  "count": 437,
+  "updated": "2026-11-17T13:32:50.758281+00:00",
+  "count": 438,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,20 @@
       "category": "personal blogs",
       "feed_url": "http://www.bennadel.com/index.cfm?dax=blog.rss&lst_tag_id=14,16,3,5,9,6,7,13,18,20,10,15",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.bennadel.com&sz=64"
+    },
+    {
+      "id": "https://shkspr.mobi/blog/?p=75544",
+      "title": "HomeAssistant - shrink a HAOS qcow2 filesystem",
+      "published": "2026-11-17T12:34:37+00:00",
+      "author": "Terence Eden",
+      "description": "Mostly notes to myself, I hope they're helpful to you too! My HomeAssistant OS (HAOS) was originally thinly provisioned with a 30GB virtual disk stored in a qcow2 file. In theory, the file should only take up as much space as the virtual filesystem. In reality, it grows to accommodate the maximum size allowed. My HAOS was showing only 10GB used: But running ls -lh showed 32GB was allocated.…",
+      "link": "https://shkspr.mobi/blog/2026/11/homeassistant-shrink-a-haos-qcow2-filesystem/",
+      "image": "https://shkspr.mobi/blog/wp-content/uploads/2026/09/Disk-Metrics.webp",
+      "feed_name": "Terence Eden’s Blog",
+      "feed_title": "Terence Eden’s Blog",
+      "category": "personal blogs",
+      "feed_url": "https://shkspr.mobi/blog/feed/atom/",
+      "feed_icon": "https://shkspr.mobi/blog/wp-content/uploads/2023/07/cropped-avatar-32x32.jpeg"
     },
     {
       "id": "https://dariuszwinkler.com/photo/0200/",
