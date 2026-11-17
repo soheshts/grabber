@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-17T15:33:42.619629+00:00",
-  "count": 441,
+  "updated": "2026-11-17T16:03:02.815472+00:00",
+  "count": 442,
   "summary": null,
   "items": [
     {
@@ -87,6 +87,20 @@
       "category": "personal blogs",
       "feed_url": "https://elizabethtai.com/feed/",
       "feed_icon": "https://elizabethtai.com/wp-content/uploads/2023/02/cropped-site-flavicon.png?w=32"
+    },
+    {
+      "id": "https://ronaldsvilcins.com/2026/11/17/defer-async-and-typemodule-how-scripts-actually-load/",
+      "title": "defer, async, and type=\"module\": How Scripts Actually Load",
+      "published": "2026-11-17T06:00:00+00:00",
+      "author": "Ronalds Vilciņš",
+      "description": "Compare defer, async, and type=\"module\" script loading. Choose execution timing for DOM access and dependencies, including inline scripts and their limits.",
+      "link": "https://ronaldsvilcins.com/2026/11/17/defer-async-and-typemodule-how-scripts-actually-load/",
+      "image": "https://ronaldsvilcins.com/og/81950df1dbcdc2ae5023f3835da5f62dd067498b11cf2942e996c32fab4cb904.jpg",
+      "feed_name": "Ronalds Vilciņš",
+      "feed_title": "Ronalds Vilciņš",
+      "category": "personal blogs",
+      "feed_url": "https://ronaldsvilcins.com/atom.xml",
+      "feed_icon": "https://ronaldsvilcins.com/favicon.png"
     },
     {
       "id": "https://www.ryangittings.co.uk/blog/affordable-web-design-london/",
