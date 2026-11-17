@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-17T20:03:07.883534+00:00",
+  "updated": "2026-11-17T20:33:42.112521+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.howtogeek.com/ways-to-use-old-android-phone-in-smart-home/",
+      "title": "Don't e-waste your old Android phone: 5 ways to use it in your smart home instead",
+      "published": "2026-11-17T20:30:15+00:00",
+      "author": "Adam Davidson",
+      "description": "Old phone, who dis?",
+      "link": "https://www.howtogeek.com/ways-to-use-old-android-phone-in-smart-home/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/09/home-assistant-my-home-overview-dashboard-on-an-android-phone-showing-quick-tiles-for-lights-security-climate-and-energy.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/save-130-on-dewalts-20v-max-3-tool-brushless-power-tool-set-and-start-a-cordless-toolbox/",
+      "title": "Save $130 on the DEWALT 20V MAX 3-Tool Brushless Power Tool Set",
+      "published": "2026-11-17T20:17:15+00:00",
+      "author": "HTG Deals Desk",
+      "description": "Get a drill, impact driver, oscillating tool, and three batteries for just $269 on Amazon, matching its all-time low.",
+      "link": "https://www.howtogeek.com/save-130-on-dewalts-20v-max-3-tool-brushless-power-tool-set-and-start-a-cordless-toolbox/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/05/dewalt-20v-max-xr-oscillating-multi-tool-kit-edited.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/wallos-dashboard-lets-track-subscriptions-without-paying/",
       "title": "I refused to pay a subscription just to track my subscriptions, so I self-hosted this open-source dashboard",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.ikeahackers.net/feed",
       "feed_icon": "https://ikeahackers.net/wp-content/uploads/2017/12/cropped-favicon-32x32.jpg"
-    },
-    {
-      "id": "https://www.makeuseof.com/i-ran-one-free-browser-test-and-it-showed-me-why-my-video-calls-freeze-when-speed-tests-look-fine/",
-      "title": "I ran one free browser test and it showed me why my video calls freeze when speed tests look fine",
-      "published": "2026-11-04T13:00:16+00:00",
-      "author": "Kanika Gogia",
-      "description": "Your internet might be fast, but one hidden problem could be making video calls lag.",
-      "link": "https://www.makeuseof.com/i-ran-one-free-browser-test-and-it-showed-me-why-my-video-calls-freeze-when-speed-tests-look-fine/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/06/waveform-bufferbloat-test-on-a-laptop-1.png",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/microsoft-windows-11-26h2-20-percent-more-responsive/",
-      "title": "Microsoft says Windows 11 26H2 is up to 20% more responsive. I put that claim to the test",
-      "published": "2026-11-04T13:00:15+00:00",
-      "author": "Tony Phillips",
-      "description": "Lower CPU usage, a faster Settings app, and lighter resource usage made a stronger impression than I expected.",
-      "link": "https://www.howtogeek.com/microsoft-windows-11-26h2-20-percent-more-responsive/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/laptop-settings-task-manager-windows-11.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
     }
   ]
 }
