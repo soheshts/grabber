@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-17T15:04:03.106339+00:00",
+  "updated": "2026-11-17T15:33:42.619629+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/why-i-switched-from-bitwarden-to-proton-pass/",
+      "title": "I don't use Bitwarden anymore because I found something better",
+      "published": "2026-11-17T15:31:17+00:00",
+      "author": "Oluwademilade Afolabi",
+      "description": "I came for the passwords and stayed for the fake email addresses.",
+      "link": "https://www.makeuseof.com/why-i-switched-from-bitwarden-to-proton-pass/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/proton-pass-free-account-dashboard.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.makeuseof.com/open-source-frame-generation-app-beats-dlss-frame-rate/",
+      "title": "This open-source Frame Generation beats DLSS on frame rate, but it has one big problem",
+      "published": "2026-11-17T15:15:17+00:00",
+      "author": "Suman Biswas",
+      "description": "More frames but at what cost?",
+      "link": "https://www.makeuseof.com/open-source-frame-generation-app-beats-dlss-frame-rate/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/04/pc-benchmarking-3.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/webassembly-turning-chrome-closer-operating-system/",
       "title": "WebAssembly is turning Chrome into something closer to an operating system",
@@ -17,6 +45,20 @@
       "category": "DIY",
       "feed_url": "https://www.makeuseof.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://hackaday.com/?p=1428293",
+      "title": "The $50 Per Hour Search Engine",
+      "published": "2026-11-17T15:00:16+00:00",
+      "author": "Al Williams",
+      "description": "Imagine doing a Google search and getting a bill for $50 an hour — or even $300 an hour. Even worse, that’s $50 for every hour you were even connected. …read more",
+      "link": "https://hackaday.com/2026/11/17/the-50-per-hour-search-engine/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/04/SearchEngine.jpg",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
     },
     {
       "id": "https://www.howtogeek.com/the-best-edc-gear-i-ever-3d-printed-only-holds-two-tools-and-thats-why-it-works/",
@@ -13961,48 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.makeuseof.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/alexa-tablet-8-deal-early-black-friday-amazon/",
-      "title": "The Alexa Tablet 8 has already received its first discount at Amazon, weeks before Black Friday",
-      "published": "2026-11-03T18:42:02+00:00",
-      "author": "Patrick Farmer",
-      "description": "Well, that didn't take very long.",
-      "link": "https://www.makeuseof.com/alexa-tablet-8-deal-early-black-friday-amazon/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2026/11/amazon-alexa-tablet-8-lifestyle.jpeg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/enterprise-hard-drives-built-to-different-standard-cost-same-as-consumer/",
-      "title": "Enterprise hard drives might be tempting, but you probably shouldn’t buy one for your home",
-      "published": "2026-11-03T18:30:17+00:00",
-      "author": "Oliver Haslam",
-      "description": "Enterprise gets all the good stuff.",
-      "link": "https://www.makeuseof.com/enterprise-hard-drives-built-to-different-standard-cost-same-as-consumer/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/07/hand-holding-a-wd-red-hard-drive-with-its-cover-removed-showing-the-circuit-board.jpeg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/these-vibe-coded-operating-systems-could-be-another-windows-alternative-one-day/",
-      "title": "These 3 vibe-coded operating systems could be another Windows alternative one day",
-      "published": "2026-11-03T18:30:16+00:00",
-      "author": "Sydney Butler",
-      "description": "Hobbyist developers used AI to stitch kernels, graphics drivers, and TCP stacks into quirky unstable OSes.",
-      "link": "https://www.howtogeek.com/these-vibe-coded-operating-systems-could-be-another-windows-alternative-one-day/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/01/a-robot-hand-and-a-human-hand-typing-together-on-a-laptop-keyboard-with-coding-symbols-and-a-blurred-code-background.png",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
     }
   ]
 }
