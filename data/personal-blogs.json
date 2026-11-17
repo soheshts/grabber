@@ -1,9 +1,23 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-17T19:03:02.905235+00:00",
-  "count": 441,
+  "updated": "2026-11-17T19:33:10.158217+00:00",
+  "count": 442,
   "summary": null,
   "items": [
+    {
+      "id": "https://htmlcssjavascript.com/?p=11528",
+      "title": "The Three-User App vs. The World Cup: Small Scale is Scary!",
+      "published": "2026-11-17T18:06:21+00:00",
+      "author": "Rob Larsen",
+      "description": "Software engineering is obsessed with hyper-scale. We trade war stories about handling tens of millions of concurrent requests. We build distributed clusters, fine-tune CDN caching policies, obsess over latency, and sanitize every payload on the defensive assumption that an anonymous botnet somewhere on the other side of the world is trying to break our system. […]",
+      "link": "https://htmlcssjavascript.com/web/the-three-user-app-vs-the-world-cup-small-scale-is-scary/",
+      "image": null,
+      "feed_name": "HTML + CSS + JavaScript",
+      "feed_title": "HTML + CSS + JavaScript",
+      "category": "personal blogs",
+      "feed_url": "http://feeds.feedburner.com/HtmlCssJavascript",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=htmlcssjavascript.com&sz=64"
+    },
     {
       "id": "https://www.bennadel.com/blog/4929-ai-spam-detection-with-pangram-htmx-4-and-coldfusion.htm",
       "title": "AI Spam Detection With Pangram, HTMX 4, And ColdFusion",
