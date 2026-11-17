@@ -1,9 +1,23 @@
 {
   "category": "fashion",
-  "updated": "2026-11-17T22:32:45.540777+00:00",
+  "updated": "2026-11-17T23:03:37.957633+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/11/17/style/farrar-straus-giroux-80-anniversary-party.html",
+      "title": "FSG’s 80th Anniversary Party: Literary Stars, Bowls of Cigarettes and Jeffrey Eugenides",
+      "published": "2026-11-17T22:38:22+00:00",
+      "author": "Sophia June and Shuran Huang",
+      "description": "Farrar, Straus & Giroux celebrated its 80th anniversary with bowls of cigarettes and a Questlove D.J. set.",
+      "link": "https://www.nytimes.com/2026/11/17/style/farrar-straus-giroux-80-anniversary-party.html",
+      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18ST-FSG-PARTY-promo-qlbz/18ST-FSG-PARTY-promo-qlbz-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Style",
+      "feed_title": "NYT > Style",
+      "category": "fashion",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "https://www.nytimes.com/2026/11/17/style/annette-green-dead.html",
       "title": "Annette Green, ‘High Priestess’ of the Perfume World, Has Died at 102",
@@ -13989,20 +14003,6 @@
       "category": "fashion",
       "feed_url": "https://www.elle.com/rss/fashion.xml/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.elle.com&sz=64"
-    },
-    {
-      "id": "ZJA7a6DnAi9pKbeLhhxPDL",
-      "title": "72 Hours With Tommy Hilfiger at the US Grand Prix in Austin",
-      "published": "2026-10-27T19:25:33+00:00",
-      "author": "Natalie Gray Herder",
-      "description": "Everything I wore and saw at last weekend's F1 race.",
-      "link": "https://www.whowhatwear.com/fashion/tommy-hilfiger-austin-f1-grand-prix-recap-2026",
-      "image": "https://cdn.mos.cms.futurecdn.net/xdrFSJWSyqfUrwvMZTkzC4-1920-80.jpg",
-      "feed_name": "Who What Wear",
-      "feed_title": "Latest from Who What Wear",
-      "category": "fashion",
-      "feed_url": "https://www.whowhatwear.com/rss",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.whowhatwear.com&sz=64"
     }
   ]
 }

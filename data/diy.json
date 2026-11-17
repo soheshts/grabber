@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-17T22:32:45.540777+00:00",
+  "updated": "2026-11-17T23:03:37.957633+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/active-vs-passive-poe/",
+      "title": "Not all PoE is the same, and buying the wrong kind can cost you",
+      "published": "2026-11-17T23:00:16+00:00",
+      "author": "Jonathon Jachura",
+      "description": "Seven PoE drops in my house and nothing fried yet, though luck deserves more credit than I'd like.",
+      "link": "https://www.makeuseof.com/active-vs-passive-poe/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/11/ethernet-cables-in-cable-organizer-rack.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/netflix-miniseries-that-fit-neatly-into-hotel-room-stay/",
+      "title": "4 Netflix miniseries that fit neatly into a hotel room stay",
+      "published": "2026-11-17T23:00:15+00:00",
+      "author": "Tyler Dupont",
+      "description": "Bit-sized shows that are short enough to finish before checkout.",
+      "link": "https://www.howtogeek.com/netflix-miniseries-that-fit-neatly-into-hotel-room-stay/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/09/netflix-logo-beside-a-bucket-of-popcorn-and-a-remote.png",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/i-opened-windows-11s-diagnostic-data-viewer-and-heres-what-my-pc-was-actually-sending-microsoft/",
       "title": "I opened Windows 11’s Diagnostic Data Viewer, and here’s what my PC was actually sending Microsoft",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://hackaday.com/?p=1397638",
-      "title": "Yesterday Has Never Looked This Good: Feast Your Eyes On The 2026 Retrocomputing Challenge Winners!",
-      "published": "2026-11-04T15:00:00+00:00",
-      "author": "Jenny List",
-      "description": "If there’s one category among those we see here at Hackaday that has something for everyone, it’s retrocomputing. Spanning everything from relay-based machines that fill a wall through to modern …read more",
-      "link": "https://hackaday.com/2026/11/04/yesterday-has-never-looked-this-good-feast-your-eyes-on-the-2026-retrocomputing-challenge-winners/",
-      "image": "https://hackaday.com/wp-content/uploads/2026/08/RetroComputing_Big_notext.jpg",
-      "feed_name": "Blog – Hackaday",
-      "feed_title": "Blog – Hackaday",
-      "category": "DIY",
-      "feed_url": "https://hackaday.com/blog/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/my-old-fire-tv-stick-felt-too-slow-to-keep-until-i-changed-these-settings/",
-      "title": "My old Fire TV Stick felt too slow to keep until I changed these settings",
-      "published": "2026-11-04T14:30:16+00:00",
-      "author": "Brandon Miniman",
-      "description": "Make your Fire TV Stick noticeably faster in just a few minutes.",
-      "link": "https://www.makeuseof.com/my-old-fire-tv-stick-felt-too-slow-to-keep-until-i-changed-these-settings/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/amazon-fire-tv-stick-top-down.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }

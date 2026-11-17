@@ -1,9 +1,51 @@
 {
   "category": "World News",
-  "updated": "2026-11-17T22:32:45.540777+00:00",
+  "updated": "2026-11-17T23:03:37.957633+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo#1",
+      "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+      "published": "2026-11-17T22:46:30+00:00",
+      "author": null,
+      "description": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
+      "link": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26d1/live/31a610b0-e2b9-11f1-bee0-ef418afc697f.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "108552453",
+      "title": "Jensen Huang scandal fuels bipartisan push to block AI chip sales to China",
+      "published": "2026-11-17T22:33:01+00:00",
+      "author": null,
+      "description": "Congress members are pushing for a series of chip-related export control bills to be included in the annual National Defense Authorization Act.",
+      "link": "https://www.cnbc.com/2026/11/17/congress-ai-china-jensen-huang-chips.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108551698-1794796174224-gettyimages-2301014104-invest_in_germany-6_gqyfggvf.jpeg?v=1794939621&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/us/an-indiana-developer-proposed-32-homes-on-23-63-acres-near-crooked-lake-with-30-lots-sharing-a-single-access-point-a-november-16-appeals-ruling-upheld-the-countys-extra-approval-requirement-after-neighbours-objected/articleshow/135919850.cms",
+      "title": "Indiana court upholds extra approval for 32-home Crooked Lake project with shared access",
+      "published": "2026-11-17T22:30:00+00:00",
+      "author": "TOI World Desk",
+      "description": "A proposed residential project near Crooked Lake has faced significant legal hurdles over access rights to the waterfront for numerous homes. Local residents expressed concerns regarding potential overuse of a single dock for entry. The Steuben County Plan Commission mandated that a special exception be obtained, a ruling the developer challenged. However, the Indiana Court of Appeals upheld the commission's directive, reinforcing the need to adhere to zoning laws.",
+      "link": "https://timesofindia.indiatimes.com/world/us/an-indiana-developer-proposed-32-homes-on-23-63-acres-near-crooked-lake-with-30-lots-sharing-a-single-access-point-a-november-16-appeals-ruling-upheld-the-countys-extra-approval-requirement-after-neighbours-objected/articleshow/135919850.cms",
+      "image": "https://static.toiimg.com/photo/msid-135920059,imgsize-2229429.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
     {
       "id": "https://timesofindia.indiatimes.com/science/wildlife/bird-flu-wiped-out-the-sandwich-tern-colony-at-pagham-harbour-on-englands-south-coast-in-2022-leaving-none-three-years-later-after-patrols-by-rspb-rangers-and-volunteers-756-of-the-seabirds-have-returned/articleshow/135873528.cms",
       "title": "Bird flu wiped out the Sandwich tern colony in 2022, three years later, 756 of them have returned",
@@ -117,20 +159,6 @@
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
     },
     {
-      "id": "108552453",
-      "title": "Jensen Huang scandal fuels bipartisan push to block AI chip sales to China",
-      "published": "2026-11-17T21:31:21+00:00",
-      "author": null,
-      "description": "Congress members are pushing for a series of chip-related export control bills to be included in the annual National Defense Authorization Act.",
-      "link": "https://www.cnbc.com/2026/11/17/congress-ai-china-jensen-huang-chips.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108551698-1794796174224-gettyimages-2301014104-invest_in_germany-6_gqyfggvf.jpeg?v=1794939621&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
       "id": "https://timesofindia.indiatimes.com/world/us/an-alabama-man-won-a-126504-64-judgment-after-stormwater-from-a-neighbouring-subdivision-damaged-his-land-but-struggled-to-collect-it-in-november-2026-the-states-highest-court-dismissed-his-latest-appeal/articleshow/135913787.cms",
       "title": "Alabama man wins $126,504 judgment over stormwater damage, but faces setback in latest appeal",
       "published": "2026-11-17T21:30:00+00:00",
@@ -216,7 +244,7 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo#0",
-      "title": "Russian military plane crashes killing all 19 on board",
+      "title": "Russian military plane crashes, killing all 19 on board",
       "published": "2026-11-17T21:06:11+00:00",
       "author": null,
       "description": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
@@ -283,20 +311,6 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo#1",
-      "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
-      "published": "2026-11-17T20:44:54+00:00",
-      "author": null,
-      "description": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
-      "link": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26d1/live/31a610b0-e2b9-11f1-bee0-ef418afc697f.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "https://www.nytimes.com/2026/11/17/world/africa/congo-ebola-community-transmission.html",
@@ -13989,20 +14003,6 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/us-ground-stop-flight-shutdown-old-system-data-overload-what-led-to-us-grounding-over-8-000-flights-12325610#publisher=newsstand",
-      "title": "Old System, Data Overload: What Led To US Grounding Over 8,000 Flights",
-      "published": "2026-11-14T07:04:19+00:00",
-      "author": null,
-      "description": "For many passengers, their family plans and work journeys were disrupted.",
-      "link": "https://www.ndtv.com/world-news/us-ground-stop-flight-shutdown-old-system-data-overload-what-led-to-us-grounding-over-8-000-flights-12325610#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-11/rqlgghho_us-flights_625x300_14_November_26.jpeg",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     }
   ]
 }
