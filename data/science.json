@@ -1,9 +1,23 @@
 {
   "category": "science",
-  "updated": "2026-11-17T06:32:44.821677+00:00",
+  "updated": "2026-11-17T07:03:04.085764+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/weather/articles/ck5y1g0rnx02o#0",
+      "title": "Met Office yellow warning in place as snow could disrupt Tuesday morning travel",
+      "published": "2026-11-17T06:34:56+00:00",
+      "author": null,
+      "description": "Snow could bring some transport disruption to the hills of northern England and southern Scotland, as Chris Fawkes explains.",
+      "link": "https://www.bbc.co.uk/weather/articles/ck5y1g0rnx02o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1014/live/a44029a0-e1b3-11f1-9a3f-99aca912798e.jpg",
+      "feed_name": "BBC News - Science & Environment",
+      "feed_title": "BBC News",
+      "category": "science",
+      "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
     {
       "id": "news714040501",
       "title": "The sun, Earth, Jupiter and white dwarfs: Potential traps for dark matter",
@@ -241,20 +255,6 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "https://www.bbc.co.uk/weather/articles/ck5y1g0rnx02o#0",
-      "title": "Met Office yellow warning in place as snow could disrupt Tuesday morning travel",
-      "published": "2026-11-17T00:09:54+00:00",
-      "author": null,
-      "description": "Snow could bring some transport disruption to the hills of northern England and southern Scotland, as Chris Fawkes explains.",
-      "link": "https://www.bbc.co.uk/weather/articles/ck5y1g0rnx02o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1014/live/a44029a0-e1b3-11f1-9a3f-99aca912798e.jpg",
-      "feed_name": "BBC News - Science & Environment",
-      "feed_title": "BBC News",
-      "category": "science",
-      "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "news714068581",

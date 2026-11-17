@@ -1,9 +1,37 @@
 {
   "category": "technology",
-  "updated": "2026-11-17T06:32:44.821677+00:00",
+  "updated": "2026-11-17T07:03:04.085764+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://yro.slashdot.org/story/26/11/16/2353225/california-sues-openai-over-hugging-face-other-ai-model-loss-of-control?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "title": "California Sues OpenAI Over Hugging Face, Other AI Model Loss of Control",
+      "published": "2026-11-17T07:00:00+00:00",
+      "author": "BeauHD",
+      "description": "\"California's attorney general just sued OpenAI,\" writes longtime Slashdot reader destinyland. \"The action accuses OpenAI of putting public safety at risk, reports CNBC, specifically by its past failures to contain its AI models within their testing environments.\" From the report: [California Attorney General Rob Bonta] cited the \"infamous\" incident in July, where two OpenAI models broke out of a testing environment, gained unauthorized access to the open internet, and breached the internal sys…",
+      "link": "https://yro.slashdot.org/story/26/11/16/2353225/california-sues-openai-over-hugging-face-other-ai-model-loss-of-control?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+      "feed_name": "Slashdot",
+      "feed_title": "Slashdot",
+      "category": "technology",
+      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
+    },
+    {
+      "id": "https://www.engadget.com/2318790/apple-adds-new-disk-controls-to-prevent-ai-agents-from-running-amok/",
+      "title": "Apple adds new disk controls to prevent AI agents from running amok",
+      "published": "2026-11-17T06:22:11+00:00",
+      "author": "Steve Dent",
+      "description": "After sounding an alarm about the issue, Apple is taking steps to limit Mac disk access to AI agents.",
+      "link": "https://www.engadget.com/2318790/apple-adds-new-disk-controls-to-prevent-ai-agents-from-running-amok/",
+      "image": "https://www.engadget.com/img/gallery/apple-adds-new-disk-controls-to-prevent-ai-agents-from-running-amok/l-intro-1794896472.jpg",
+      "feed_name": "Engadget",
+      "feed_title": "Engadget - Technology News & Expert Reviews",
+      "category": "technology",
+      "feed_url": "https://www.engadget.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
     {
       "id": "07yRn0AVrbvqMCUThj2OGH4",
       "title": "Hurdle hints and answers for November 17, 2026",
@@ -13975,34 +14003,6 @@
       "category": "technology",
       "feed_url": "http://feeds.mashable.com/Mashable",
       "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
-    },
-    {
-      "id": "TheNextWeb=5d5af4811d3d790f1b6b2c4ba3e4ba77",
-      "title": "Torus raises $500m to run AI on spare grid power at existing sites",
-      "published": "2026-11-11T14:05:28+00:00",
-      "author": "Cristian Dina",
-      "description": "Torus, a Salt Lake City maker of energy storage systems, has raised $500m and launched Foundry, prefabricated units that bring AI computing to existing business and factory sites using grid power they already have. Magnetar led the round, the company said in a statement on Wednesday. ICONIQ, Origin Ventures, Ridgeline Partners, and Trinity Capital also […] This story continues at The Next Web",
-      "link": "https://thenextweb.com/news/torus-foundry-500m-magnetar-modular-ai-inference",
-      "image": "https://media.thenextweb.com/2026/11/torus-foundry-modular-ai-units-salt-lake-city.avif",
-      "feed_name": "The Next Web",
-      "feed_title": "The Next Web",
-      "category": "technology",
-      "feed_url": "https://thenextweb.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
-    },
-    {
-      "id": "https://www.theverge.com/?p=1031291",
-      "title": "Sony’s latest Pulse wireless headset packs planar magnetic drivers at a good price",
-      "published": "2026-11-11T14:00:00+00:00",
-      "author": "Cameron Faulkner",
-      "description": "It's tempting to seek out the do-everything wireless gaming headset with noise cancellation, phenomenal sound quality, multiplatform connectivity, swappable batteries - you name it. But if you just want the basics done well, Sony's new $99.99 PlayStation Pulse headset is worth considering. It has very good sound and just enough extras, even if you use […]",
-      "link": "https://www.theverge.com/games/1031291/sony-playstation-pulse-wireless-gaming-headset-hands-on",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/pulseheadset.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "feed_name": "The Verge -  All Posts",
-      "feed_title": "The Verge",
-      "category": "technology",
-      "feed_url": "https://www.theverge.com/rss/index.xml",
-      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
     }
   ]
 }
