@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-17T10:33:42.387057+00:00",
+  "updated": "2026-11-17T11:03:01.691207+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/overlooked-problems-that-make-fast-internet-feel-slow/",
+      "title": "These 4 overlooked connection problems can make fast internet feel slow",
+      "published": "2026-11-17T11:00:17+00:00",
+      "author": "Afam Onyimadu",
+      "description": "A great speed test score can hide a laggy call.",
+      "link": "https://www.makeuseof.com/overlooked-problems-that-make-fast-internet-feel-slow/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/02/connect-to-public-wifi.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/more-home-assistant-helpers-youre-not-using/",
+      "title": "5 more Home Assistant helpers you're not using (but should be)",
+      "published": "2026-11-17T11:00:15+00:00",
+      "author": "Adam Davidson",
+      "description": "You need help.",
+      "link": "https://www.howtogeek.com/more-home-assistant-helpers-youre-not-using/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/an-iphone-showing-the-create-helper-screen-in-home-assistant.png",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://hackaday.com/?p=1428346",
       "title": "A 3D Printed Pixel Clock, with a Twist",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/sony-discontinues-last-uhd-blu-ray-player/",
-      "title": "Physical media takes another blow as Sony's final UHD Blu-ray player goes out of stock globallywhy",
-      "published": "2026-11-03T16:14:09+00:00",
-      "author": "Ingrid Cruz",
-      "description": "If this is your current Blu-ray disc player, take good care of it.",
-      "link": "https://www.howtogeek.com/sony-discontinues-last-uhd-blu-ray-player/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2025/02/the-star-trek-full-journey-blu-ray-set-with-disc-book-removed-and-episode-guide.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/obsidian-major-upgrade-barely-touch-app/",
-      "title": "Obsidian just got a major upgrade, and you barely need to touch the app anymore",
-      "published": "2026-11-03T16:00:16+00:00",
-      "author": "Yadullah Abidi",
-      "description": "The same Obsidian vault, now scriptable.",
-      "link": "https://www.makeuseof.com/obsidian-major-upgrade-barely-touch-app/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/06/obsidian-vault-draft-article-on-laptop.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }
