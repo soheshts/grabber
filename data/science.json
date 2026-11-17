@@ -1,13 +1,27 @@
 {
   "category": "science",
-  "updated": "2026-11-17T08:20:47.939768+00:00",
+  "updated": "2026-11-17T08:33:17.173094+00:00",
   "count": 1000,
   "summary": null,
   "items": [
     {
+      "id": "https://www.bbc.co.uk/weather/articles/c6742xzg3eljo#0",
+      "title": "How and when to see the peak of the Leonid meteor shower",
+      "published": "2026-11-17T08:01:47+00:00",
+      "author": null,
+      "description": "The Leonid meteor shower, known for its bright and fast meteors, is set to peak on Tuesday night.",
+      "link": "https://www.bbc.co.uk/weather/articles/c6742xzg3eljo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52ad/live/8061a130-e1b8-11f1-9a3f-99aca912798e.jpg",
+      "feed_name": "BBC News - Science & Environment",
+      "feed_title": "BBC News",
+      "category": "science",
+      "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
       "id": "https://www.bbc.co.uk/weather/articles/ck5y1g0rnx02o#0",
       "title": "Met Office yellow warning in place as snow could disrupt Tuesday morning travel",
-      "published": "2026-11-17T07:29:44+00:00",
+      "published": "2026-11-17T08:01:38+00:00",
       "author": null,
       "description": "Snow could bring some transport disruption to the hills of northern England and southern Scotland, as Chris Fawkes explains.",
       "link": "https://www.bbc.co.uk/weather/articles/ck5y1g0rnx02o?at_medium=RSS&at_campaign=rss",
@@ -133,7 +147,7 @@
     {
       "id": "https://www.nytimes.com/2026/11/16/science/1998-ky26-asteroid-comet.html",
       "title": "Scientists Are Stumped by This Strange Object in Space",
-      "published": "2026-11-17T01:37:37+00:00",
+      "published": "2026-11-17T01:37:38+00:00",
       "author": "Alexander Nazaryan",
       "description": "The rocky body called 1998 KY26 is moving in ways that gravity alone cannot explain. So far, no one knows why.",
       "link": "https://www.nytimes.com/2026/11/16/science/1998-ky26-asteroid-comet.html",
@@ -13989,20 +14003,6 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/06/science/radical-numerics-tabula-phage.html",
-      "title": "Biotech Firm Claims Some Credit for Groundbreaking Virus Research",
-      "published": "2026-11-06T21:52:00+00:00",
-      "author": "Carl Zimmer",
-      "description": "Radical Numerics turned heads with its announcement about a novel treatment. Now a former partner, Tabula Bioscience, says it performed much of the research.",
-      "link": "https://www.nytimes.com/2026/11/06/science/radical-numerics-tabula-phage.html",
-      "image": "https://static01.nyt.com/images/2026/11/05/science/05SCI-PHAGE-01/05SCI-PHAGE-01-mediumSquareAt3X.jpg",
-      "feed_name": "NYT > Science",
-      "feed_title": "NYT > Science",
-      "category": "science",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     }
   ]
 }
