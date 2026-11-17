@@ -1,13 +1,27 @@
 {
   "category": "World News",
-  "updated": "2026-11-17T12:32:47.918006+00:00",
+  "updated": "2026-11-17T13:03:03.286369+00:00",
   "count": 1000,
   "summary": null,
   "items": [
     {
+      "id": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo#0",
+      "title": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+      "published": "2026-11-17T13:01:11+00:00",
+      "author": null,
+      "description": "Ukraine says the attack took weeks to plan, while the Kremlin vows to rebuild the strategic bridge.",
+      "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/222d/live/db8315b0-e278-11f1-99a1-253766e7ad8b.png",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
       "id": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit",
       "title": "Live Updates: Trump’s Whirlwind Asia Trip Begins in the Philippines",
-      "published": "2026-11-17T12:28:23+00:00",
+      "published": "2026-11-17T12:57:55+00:00",
       "author": "The New York Times",
       "description": "President Trump’s 48-hour trip will start with a meeting with Southeast Asian leaders in Manila. He will later meet Xi Jinping of China and Vladimir Putin of Russia in Shenzhen, a Chinese economic hub.",
       "link": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit",
@@ -17,6 +31,90 @@
       "category": "World News",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "108552761",
+      "title": "Treasury yields are broadly flat as investors await retail sales data",
+      "published": "2026-11-17T12:53:34+00:00",
+      "author": null,
+      "description": "U.S. Treasury yields were little changed on Tuesday morning as investors awaited economic data and comments from Federal Reserve officials later in the session.",
+      "link": "https://www.cnbc.com/2026/11/17/treasury-yields-bonds-inflation.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108521821-17938340272026-11-04t221036z_1245999806_rc28hoacdyel_rtrmadp_0_usa-stocks.jpeg?v=1793834118&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/17/world/europe/ukraine-kyiv-russia-kerch-bridge-crimea.html",
+      "title": "Ukraine Attacks Kerch Bridge Linking Russia to Occupied Crimea",
+      "published": "2026-11-17T12:53:27+00:00",
+      "author": "Marc Santora and James McManagan",
+      "description": "Destroying the structure, the only one connecting Russia to the occupied Crimean Peninsula, has long been a top objective for Kyiv.",
+      "link": "https://www.nytimes.com/2026/11/17/world/europe/ukraine-kyiv-russia-kerch-bridge-crimea.html",
+      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17int-russia-ukraine-bridges-jfql/17int-russia-ukraine-bridges-jfql-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "108552798",
+      "title": "Ukraine damages Putin’s prized Crimea bridge as Zelenskyy lauds ‘unprecedented operation’",
+      "published": "2026-11-17T12:48:14+00:00",
+      "author": null,
+      "description": "Ukraine attacked the Kerch Bridge linking Russia to occupied Crimea for a second consecutive day, delivering a symbolic blow to President Vladimir Putin.",
+      "link": "https://www.cnbc.com/2026/11/17/kerch-bridge-ukraine-russia-putin-kyiv.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108552829-1794909651924-gettyimages-1243932387-AFP_32LB9D7.jpeg?v=1794909731&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "108552869",
+      "title": "Trump has arrived in Asia. Here’s what he said about Iran and Deutsche Bank",
+      "published": "2026-11-17T12:35:58+00:00",
+      "author": null,
+      "description": "Trump threatens Iran and responds to a tax leak report as his Asia trip begins.",
+      "link": "https://www.cnbc.com/2026/11/17/trump-iran-asia-trip-china.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108552904-1794916698270-gettyimages-2305027799-ASEAN-SUMMITTRUMP.jpeg?v=1794916735&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/crq5vl1l6z2po#1",
+      "title": "Mozambique opposition leader faces trial over deadly 2024 election unrest",
+      "published": "2026-11-17T12:35:57+00:00",
+      "author": null,
+      "description": "Venâncio Mondlane faces several charges over 2024 post-election protests that left hundreds of people dead.",
+      "link": "https://www.bbc.co.uk/news/articles/crq5vl1l6z2po?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8344/live/da8191f0-e27d-11f1-bd1e-f9c53347c5a6.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/us/an-indiana-mother-sought-to-change-custody-of-her-three-children-and-access-their-fathers-mental-health-records-an-appeals-court-rejected-her-bid-upheld-18500-in-legal-fees-and-ordered-her-to-pay-more/articleshow/135924685.cms",
+      "title": "Indiana mother loses custody appeal, must pay $18,500 and additional legal fees",
+      "published": "2026-11-17T12:33:00+00:00",
+      "author": "TOI World Desk",
+      "description": "An Indiana mother, Sember Darland-Chappell, has lost her appeal to regain sole custody of her three children. The Indiana Court of Appeals upheld the lower court's decision denying her requests and ordered her to pay substantial legal fees. This ruling followed a lengthy custody battle with her ex-husband, Andrew Hahn, which began after their divorce in 2020. The court highlighted concerns regarding Darland-Chappell's behavior and its impact on their children.",
+      "link": "https://timesofindia.indiatimes.com/world/us/an-indiana-mother-sought-to-change-custody-of-her-three-children-and-access-their-fathers-mental-health-records-an-appeals-court-rejected-her-bid-upheld-18500-in-legal-fees-and-ordered-her-to-pay-more/articleshow/135924685.cms",
+      "image": "https://static.toiimg.com/photo/msid-135925633,imgsize-1178865.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
       "id": "https://www.ndtv.com/world-news/pm-modi-by-his-side-trump-repeats-tough-guy-praise-at-quad-summit-12338559#publisher=newsstand",
@@ -33,6 +131,20 @@
       "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
+      "id": "t3_1xyj6ba",
+      "title": "Russia's Kerch Bridge Road Vehicle Span Has Been Destroyed By Ukraine",
+      "published": "2026-11-17T12:27:44+00:00",
+      "author": "/u/dainomite",
+      "description": "submitted by /u/dainomite [link] [comments]",
+      "link": "https://www.reddit.com/r/worldnews/comments/1xyj6ba/russias_kerch_bridge_road_vehicle_span_has_been/",
+      "image": "https://external-preview.redd.it/kTDBYWER_L26S_dviANCyg56LEzMUDzEM5v5LN20cd8.jpeg?width=640&crop=smart&auto=webp&s=f05c5cbdd0038827c0252472a57543359b8ccc3e",
+      "feed_name": "World News",
+      "feed_title": "World News",
+      "category": "World News",
+      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
+      "feed_icon": "https://www.redditstatic.com/icon.png/"
+    },
+    {
       "id": "https://www.ndtv.com/world-news/cat-reunites-with-owner-four-days-after-brooklyn-building-collapse-12339111#publisher=newsstand",
       "title": "Cat Reunites With Owner Four Days After Brooklyn Building Collapse",
       "published": "2026-11-17T12:26:36+00:00",
@@ -45,34 +157,6 @@
       "category": "World News",
       "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
       "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/us/an-indiana-mother-sought-to-change-custody-of-her-three-children-and-access-their-fathers-mental-health-records-an-appeals-court-rejected-her-bid-upheld-18500-in-legal-fees-and-ordered-her-to-pay-more/articleshow/135924685.cms",
-      "title": "Indiana mother loses custody appeal, must pay $18,500 and additional legal fees",
-      "published": "2026-11-17T12:26:19+00:00",
-      "author": "TOI World Desk",
-      "description": "An Indiana mother, Sember Darland-Chappell, has lost her appeal to regain sole custody of her three children. The Indiana Court of Appeals upheld the lower court's decision denying her requests and ordered her to pay substantial legal fees. This ruling followed a lengthy custody battle with her ex-husband, Andrew Hahn, which began after their divorce in 2020. The court highlighted concerns regarding Darland-Chappell's behavior and its impact on their children.",
-      "link": "https://timesofindia.indiatimes.com/world/us/an-indiana-mother-sought-to-change-custody-of-her-three-children-and-access-their-fathers-mental-health-records-an-appeals-court-rejected-her-bid-upheld-18500-in-legal-fees-and-ordered-her-to-pay-more/articleshow/135924685.cms",
-      "image": "https://static.toiimg.com/photo/msid-135925633,imgsize-1178865.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "108552798",
-      "title": "Ukraine damages Putin’s prized Crimea bridge as Zelenskyy lauds ‘unprecedented operation’",
-      "published": "2026-11-17T12:23:08+00:00",
-      "author": null,
-      "description": "Ukraine attacked the Kerch Bridge linking Russia to occupied Crimea for a second consecutive day, delivering a symbolic blow to President Vladimir Putin.",
-      "link": "https://www.cnbc.com/2026/11/17/kerch-bridge-ukraine-russia-putin-kyiv.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108552829-1794909651924-gettyimages-1243932387-AFP_32LB9D7.jpeg?v=1794909731&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
       "id": "https://www.ndtv.com/world-news/oligarchs-epstein-systemic-failures-explosive-secrets-of-deutsche-bank-12339130#publisher=newsstand",
@@ -129,20 +213,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "108552869",
-      "title": "Trump has arrived in Asia. Here’s what he said about Iran and Deutsche Bank",
-      "published": "2026-11-17T12:07:04+00:00",
-      "author": null,
-      "description": "Trump threatens Iran and responds to a tax leak report as his Asia trip begins.",
-      "link": "https://www.cnbc.com/2026/11/17/trump-iran-asia-trip-china.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108552904-1794916698270-gettyimages-2305027799-ASEAN-SUMMITTRUMP.jpeg?v=1794916735&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c6ly7g5lx7gyo#0",
@@ -523,20 +593,6 @@
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo#0",
-      "title": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-      "published": "2026-11-17T10:45:55+00:00",
-      "author": null,
-      "description": "Ukraine says the attack took weeks to plan, while the Kremlin vows to rebuild the strategic bridge.",
-      "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/222d/live/db8315b0-e278-11f1-99a1-253766e7ad8b.png",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
       "id": "https://www.nytimes.com/2026/11/17/world/asia/apec-asean-quad.html",
       "title": "What to Know About APEC, ASEAN and the Quad",
       "published": "2026-11-17T10:33:54+00:00",
@@ -731,20 +787,6 @@
       "category": "World News",
       "feed_url": "https://www.reddit.com/r/worldnews/.rss",
       "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/17/world/europe/ukraine-kyiv-russia-kerch-bridge-crimea.html",
-      "title": "Ukraine Attacks Kerch Bridge Linking Russia to Occupied Crimea",
-      "published": "2026-11-17T09:55:26+00:00",
-      "author": "Marc Santora",
-      "description": "The attacks, far from the front lines, forced the only bridge between Russia and the occupied Crimean Peninsula to close. Traffic on two bridges in Kyiv was also stopped.",
-      "link": "https://www.nytimes.com/2026/11/17/world/europe/ukraine-kyiv-russia-kerch-bridge-crimea.html",
-      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17int-russia-ukraine-bridges-jfql/17int-russia-ukraine-bridges-jfql-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/us/married-men-as-clergy-is-complicated-pope-leo-on-catholic-priests-doesnt-rule-out-possibility/articleshow/135919726.cms",
@@ -999,20 +1041,6 @@
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/crq5vl1l6z2po#1",
-      "title": "Mozambique opposition leader faces trial over deadly 2024 election unrest",
-      "published": "2026-11-17T09:20:29+00:00",
-      "author": null,
-      "description": "Venâncio Mondlane faces several charges over 2024 post-election protests that left hundreds of people dead.",
-      "link": "https://www.bbc.co.uk/news/articles/crq5vl1l6z2po?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a7e/live/95f17ee0-e257-11f1-8199-439bbe0918ee.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
       "id": "https://www.ndtv.com/world-news/black-sky-event-why-uk-government-is-preparing-for-3-day-crisis-12337988#publisher=newsstand",
       "title": "Black Sky Event: Why UK Government Is Preparing For 3-Day Crisis",
       "published": "2026-11-17T09:14:54+00:00",
@@ -1179,20 +1207,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "108552761",
-      "title": "Treasury yields are broadly flat as investors await retail sales data",
-      "published": "2026-11-17T08:23:51+00:00",
-      "author": null,
-      "description": "U.S. Treasury yields were little changed on Tuesday morning as investors awaited economic data and comments from Federal Reserve officials later in the session.",
-      "link": "https://www.cnbc.com/2026/11/17/treasury-yields-bonds-inflation.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108521821-17938340272026-11-04t221036z_1245999806_rc28hoacdyel_rtrmadp_0_usa-stocks.jpeg?v=1793834118&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
       "id": "https://www.ndtv.com/world-news/israel-uploaded-3-5-million-photos-to-amazon-cloud-to-track-palestinians-report-12337352#publisher=newsstand",
@@ -13984,20 +13998,6 @@
       "description": "",
       "link": "https://timesofindia.indiatimes.com/world/us/a-92-year-old-florida-woman-was-still-working-at-a-clothing-store-because-she-could-not-afford-to-retire-a-strangers-fundraiser-raised-120000-and-neighbours-helped-repair-her-home/articleshow/135798915.cms",
       "image": "https://static.toiimg.com/photo/msid-135799091,imgsize-103849.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/science/space/nasa-has-opened-a-1-million-moon-base-student-challenge-for-us-high-school-and-college-teams-to-solve-problems-like-power-habitats-and-astronaut-safety-on-the-moon-and-registration-runs-until-25-january/articleshow/135757358.cms",
-      "title": "NASA has opened a $1 million Moon Base Student Challenge for US high school and college teams",
-      "published": "2026-11-13T17:09:23+00:00",
-      "author": "TOI Lifestyle Desk",
-      "description": "NASA has announced an exciting initiative called the $1 million Moon Base Student Challenge, aimed at inspiring students to innovate solutions for lunar habitation. Teams from high schools and colleges are invited to submit proposals in six key technical areas by January 25, 2027. This competition not only promotes collaboration but also opens doors to potential careers in the booming field of space exploration.",
-      "link": "https://timesofindia.indiatimes.com/science/space/nasa-has-opened-a-1-million-moon-base-student-challenge-for-us-high-school-and-college-teams-to-solve-problems-like-power-habitats-and-astronaut-safety-on-the-moon-and-registration-runs-until-25-january/articleshow/135757358.cms",
-      "image": "https://static.toiimg.com/photo/msid-135757448,imgsize-116112.cms",
       "feed_name": "Times of India",
       "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
       "category": "World News",
