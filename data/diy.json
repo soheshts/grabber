@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-17T14:32:51.321462+00:00",
+  "updated": "2026-11-17T15:04:03.106339+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/webassembly-turning-chrome-closer-operating-system/",
+      "title": "WebAssembly is turning Chrome into something closer to an operating system",
+      "published": "2026-11-17T15:01:17+00:00",
+      "author": "Yadullah Abidi",
+      "description": "Chrome isn’t your OS yet, but it’s clearly been reading the job description.",
+      "link": "https://www.makeuseof.com/webassembly-turning-chrome-closer-operating-system/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/google-chrome-gemini-7.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/the-best-edc-gear-i-ever-3d-printed-only-holds-two-tools-and-thats-why-it-works/",
+      "title": "The best EDC gear I ever 3D printed only holds two tools, and that’s why it works",
+      "published": "2026-11-17T15:00:15+00:00",
+      "author": "Joe Fedewa",
+      "description": "It took three prototypes to finally nail it.",
+      "link": "https://www.howtogeek.com/the-best-edc-gear-i-ever-3d-printed-only-holds-two-tools-and-thats-why-it-works/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/11/edc-screwdriver-knife-keychain-2.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/european-alternatives-to-google-microsoft-and-zoom/",
       "title": "Europe is replacing the big US apps in its offices, and you can use most of the replacements",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/get-50-off-the-citizen-promaster-eco-drive-watch/",
-      "title": "Start your adventure with 50% off the Citizen Promaster Dive Eco-Drive",
-      "published": "2026-11-03T18:29:01+00:00",
-      "author": "Saeed Wazir",
-      "description": "The perfect blend of style and function.",
-      "link": "https://www.howtogeek.com/get-50-off-the-citizen-promaster-eco-drive-watch/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/11/pro-master.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://hackaday.com/?p=1397581",
-      "title": "2026 Hackaday Supercon: Bruce Potter’s Keynote Explores the Hacker Mind",
-      "published": "2026-11-03T18:00:28+00:00",
-      "author": "Tom Nardi",
-      "description": "What is hacking? Many, especially in the mainstream, view it through the lens of computer security. Others consider it synonymous with making or creating. Even for those of us immersed …read more",
-      "link": "https://hackaday.com/2026/11/03/2026-hackaday-supercon-bruce-potters-keynote-explores-the-hacker-mind/",
-      "image": "https://hackaday.com/wp-content/uploads/2026/09/supercon-x-wide.png",
-      "feed_name": "Blog – Hackaday",
-      "feed_title": "Blog – Hackaday",
-      "category": "DIY",
-      "feed_url": "https://hackaday.com/blog/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
     }
   ]
 }

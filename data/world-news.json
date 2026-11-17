@@ -1,13 +1,13 @@
 {
   "category": "World News",
-  "updated": "2026-11-17T14:32:51.321462+00:00",
+  "updated": "2026-11-17T15:04:03.106339+00:00",
   "count": 1000,
   "summary": null,
   "items": [
     {
       "id": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit",
       "title": "Live Updates: Trump’s Whirlwind Asia Trip Begins in the Philippines",
-      "published": "2026-11-17T14:30:14+00:00",
+      "published": "2026-11-17T15:02:18+00:00",
       "author": "The New York Times",
       "description": "President Trump’s 48-hour trip will start with a meeting with Southeast Asian leaders in Manila. He will later meet Xi Jinping of China and Vladimir Putin of Russia in Shenzhen, a Chinese economic hub.",
       "link": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit",
@@ -19,11 +19,95 @@
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
+      "id": "https://www.nytimes.com/2026/11/17/world/asia/china-japan-propaganda-xi-takaichi.html",
+      "title": "Tracking China’s War of Words Against Japan",
+      "published": "2026-11-17T15:02:05+00:00",
+      "author": "Javier C. Hernández and Gal Koplewitz",
+      "description": "Beijing is running a concerted campaign to paint Japan as an aggressor and resurgent military threat, according to a Times analysis.",
+      "link": "https://www.nytimes.com/2026/11/17/world/asia/china-japan-propaganda-xi-takaichi.html",
+      "image": "https://static01.nyt.com/images/2026/11/16/multimedia/00int-china-japan-language-02-btpw/00int-china-japan-language-02-btpw-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/17/world/europe/ukraine-kyiv-russia-kerch-bridge-crimea.html",
+      "title": "Ukraine Attacks Kerch Bridge Linking Russia to Occupied Crimea",
+      "published": "2026-11-17T14:57:59+00:00",
+      "author": "Marc Santora and James McManagan",
+      "description": "Destroying the structure, the only one connecting Russia to the occupied Crimean Peninsula, has long been a top objective for Kyiv.",
+      "link": "https://www.nytimes.com/2026/11/17/world/europe/ukraine-kyiv-russia-kerch-bridge-crimea.html",
+      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17int-russia-ukraine-bridges-jfql/17int-russia-ukraine-bridges-jfql-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/17/world/asia/prince-william-climate-prize-india-rickshaw.html",
+      "title": "Prince William Brings Climate Prize to India, in an Electric Rickshaw",
+      "published": "2026-11-17T14:52:02+00:00",
+      "author": "Mujib Mashal",
+      "description": "The three-wheeler that the heir to the British throne used was made by one of 15 finalists honored for creative environmental projects.",
+      "link": "https://www.nytimes.com/2026/11/17/world/asia/prince-william-climate-prize-india-rickshaw.html",
+      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17int-india-royals-01-jgqw/17int-india-royals-01-jgqw-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "108552983",
+      "title": "Investor Steve Eisman says the AI neocloud stocks are in 'big trouble' from Nvidia fallout",
+      "published": "2026-11-17T14:50:50+00:00",
+      "author": null,
+      "description": "Steve Eisman is appearing on \"Squawk Box\" on Tuesday.",
+      "link": "https://www.cnbc.com/2026/11/17/big-short-investor-steve-eisman-to-discuss-nvidia-anthropic-and-ai-bull-on-cnbc.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/105221557-IMG_7670.JPG?v=1695322238&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "108552816",
+      "title": "Nvidia shares try to rebound ahead of earnings as company company reels from Huang resignation",
+      "published": "2026-11-17T14:40:03+00:00",
+      "author": null,
+      "description": "Investors have been weighing the fallout from former CEO Jensen Huang's resignation.",
+      "link": "https://www.cnbc.com/2026/11/17/nvidia-stock-earnings-jensen-huang-resignation.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108550467-17945141272026-11-12t184839z_510794723_rc2imoa622a8_rtrmadp_0_nvidia-ceo.jpeg?v=1794516256&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/17/world/asia/putin-kim-jong-un-north-korea-china-meeting.html",
+      "title": "Putin Is Open to Meeting With North Korea’s Leader in China, Kremlin Says",
+      "published": "2026-11-17T14:37:57+00:00",
+      "author": "Ivan Nechepurenko",
+      "description": "President Vladimir V. Putin of Russia could meet with Kim Jong-un if he travels to Shenzhen for the APEC summit this week. North Korea has not confirmed whether Mr. Kim will attend.",
+      "link": "https://www.nytimes.com/2026/11/17/world/asia/putin-kim-jong-un-north-korea-china-meeting.html",
+      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17trump-summits-putin-kim-cvtg/17trump-summits-putin-kim-cvtg-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
       "id": "108553081",
       "title": "Anthropic likely to price IPO above the current range of $70 to $78, sources tell CNBC",
-      "published": "2026-11-17T14:30:04+00:00",
+      "published": "2026-11-17T14:34:48+00:00",
       "author": null,
-      "description": "",
+      "description": "Anthropic is slated to list on the Nasdaq under the ticker symbol \"ANT\" and start trading on Nov. 19.",
       "link": "https://www.cnbc.com/2026/11/17/anthropic-ipo-price.html",
       "image": "https://image.cnbcfm.com/api/v1/image/108550656-1794523778517-gettyimages-2235057491-yeh_8174_nbtnm4ab_5b1ncswd_lup7q3ar.jpeg?v=1794523864&w=1920&h=1080",
       "feed_name": "CNBC",
@@ -39,7 +123,7 @@
       "author": "TOI World Desk",
       "description": "",
       "link": "https://timesofindia.indiatimes.com/world/uk/british-airways-dreamliner-gets-stuck-in-mud-at-heathrow-after-veering-off-taxiway-ahead-of-lagos-flight/articleshow/135929306.cms",
-      "image": "https://static.toiimg.com/photo/msid-47529300.cms",
+      "image": "https://static.toiimg.com/photo/msid-135929595,imgsize-93918.cms",
       "feed_name": "Times of India",
       "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
       "category": "World News",
@@ -115,6 +199,20 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/us-iran-war-they-are-crazy-trump-on-reported-iranian-dirty-bomb-plot-in-washington-12339810#publisher=newsstand",
+      "title": "\"They Are Crazy\": Trump On Reported Iranian 'Dirty Bomb' Plot In Washington",
+      "published": "2026-11-17T14:15:09+00:00",
+      "author": null,
+      "description": "A dirty bomb is a conventional explosive laced with chemical or radioactive materials.",
+      "link": "https://www.ndtv.com/world-news/us-iran-war-they-are-crazy-trump-on-reported-iranian-dirty-bomb-plot-in-washington-12339810#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-06/qaiu86c8_us-iran-war_625x300_15_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
       "id": "https://timesofindia.indiatimes.com/real-estate/news/in-2014-a-three-bedroom-beachfront-apartment-in-australias-noosa-heads-sold-for-a5-3-million-12-years-later-around-20-bids-pushed-its-auction-price-to-a-record-a21-5-million/articleshow/135928462.cms",
@@ -215,20 +313,6 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
-      "id": "108552983",
-      "title": "Investor Steve Eisman says the AI neocloud stocks are in 'big trouble' from Nvidia fallout",
-      "published": "2026-11-17T13:53:04+00:00",
-      "author": null,
-      "description": "Steve Eisman is appearing on \"Squawk Box\" on Tuesday.",
-      "link": "https://www.cnbc.com/2026/11/17/big-short-investor-steve-eisman-to-discuss-nvidia-anthropic-and-ai-bull-on-cnbc.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/105221557-IMG_7670.JPG?v=1695322238&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
       "id": "https://timesofindia.indiatimes.com/world/middle-east/iran-rejects-cnn-report-of-dirty-bomb-plot-in-washington-calls-claims-fabricated/articleshow/135928096.cms",
       "title": "Iran rejects CNN report of 'dirty bomb' plot in Washington, calls claims 'fabricated'",
       "published": "2026-11-17T13:47:19+00:00",
@@ -241,34 +325,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "108552816",
-      "title": "Nvidia shares slightly up after days of decline ahead of earnings",
-      "published": "2026-11-17T13:47:07+00:00",
-      "author": null,
-      "description": "Investors have been weighing the fallout from former CEO Jensen Huang's resignation.",
-      "link": "https://www.cnbc.com/2026/11/17/nvidia-stock-earnings-jensen-huang-resignation.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108550467-17945141272026-11-12t184839z_510794723_rc2imoa622a8_rtrmadp_0_nvidia-ceo.jpeg?v=1794516256&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/17/world/europe/ukraine-kyiv-russia-kerch-bridge-crimea.html",
-      "title": "Ukraine Attacks Kerch Bridge Linking Russia to Occupied Crimea",
-      "published": "2026-11-17T13:46:53+00:00",
-      "author": "Marc Santora and James McManagan",
-      "description": "Destroying the structure, the only one connecting Russia to the occupied Crimean Peninsula, has long been a top objective for Kyiv.",
-      "link": "https://www.nytimes.com/2026/11/17/world/europe/ukraine-kyiv-russia-kerch-bridge-crimea.html",
-      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17int-russia-ukraine-bridges-jfql/17int-russia-ukraine-bridges-jfql-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://www.nytimes.com/2026/11/17/world/christian-sanon-trial-haiti-president-assassination.html",
@@ -297,6 +353,20 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/iran-targets-us-radar-facility-in-bahrain-third-strike-on-country-in-5-days-12339610#publisher=newsstand",
+      "title": "Iran Targets US Radar Facility In Bahrain, Third Strike On Country In 5 Days",
+      "published": "2026-11-17T13:42:38+00:00",
+      "author": null,
+      "description": "The attacks followed US strikes on Iranian communications towers",
+      "link": "https://www.ndtv.com/world-news/iran-targets-us-radar-facility-in-bahrain-third-strike-on-country-in-5-days-12339610#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2025-12/8gr4dlj_us-iran-flag_625x300_24_December_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
       "id": "https://timesofindia.indiatimes.com/science/nature/priscilla-chan-and-mark-zuckerberg-helped-protect-a-17-acre-beach-preserve-in-hawaii-keeping-its-coastal-habitat-open-to-the-public-while-supporting-efforts-to-restore-fish-populations-and-coral-reefs/articleshow/135873434.cms",
@@ -425,6 +495,20 @@
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
+      "id": "https://www.ndtv.com/world-news/madison-huang-from-chef-to-ai-the-unusual-career-journey-of-jensen-huangs-daughter-12339333#publisher=newsstand",
+      "title": "From Chef To AI: The Unusual Career Journey Of Jensen Huang's Daughter",
+      "published": "2026-11-17T13:00:39+00:00",
+      "author": null,
+      "description": "Madison Huang joined Nvidia as a intern in 2020.",
+      "link": "https://www.ndtv.com/world-news/madison-huang-from-chef-to-ai-the-unusual-career-journey-of-jensen-huangs-daughter-12339333#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-11/la767958_madison-huang_625x300_17_November_26.jpeg",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
       "id": "108552798",
       "title": "Ukraine damages Putin’s prized Crimea bridge as Zelenskyy lauds ‘unprecedented operation’",
       "published": "2026-11-17T12:48:14+00:00",
@@ -439,6 +523,20 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
+      "id": "https://www.ndtv.com/world-news/quad-leaders-summit-live-updates-pm-modi-donald-trump-us-japan-australia-leaders-meet-asean-summit-quad-meeting-12338675#publisher=newsstand",
+      "title": "Quad Leaders Summit LIVE Updates: Quad trusted Partnership For India, Says PM Modi",
+      "published": "2026-11-17T12:47:47+00:00",
+      "author": null,
+      "description": "Quad Leaders Summit LIVE: PM Modi was at the Quad Summit in Manila on Tuesday.",
+      "link": "https://www.ndtv.com/world-news/quad-leaders-summit-live-updates-pm-modi-donald-trump-us-japan-australia-leaders-meet-asean-summit-quad-meeting-12338675#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-11/djt6vhu_trump_625x300_17_November_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
       "id": "t3_1xyjd69",
       "title": "EU chief diplomat calls Russian demands for peace absurd: We must start with a ceasefire",
       "published": "2026-11-17T12:37:11+00:00",
@@ -451,6 +549,20 @@
       "category": "World News",
       "feed_url": "https://www.reddit.com/r/worldnews/.rss",
       "feed_icon": "https://www.redditstatic.com/icon.png/"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/madison-huang-the-day-jensen-huangs-daughter-took-on-nvidia-veteran-jay-puri-12338800#publisher=newsstand",
+      "title": "\"Stop Yelling\": Indian-Origin Executive vs Jensen Huang's Daughter In February Call",
+      "published": "2026-11-17T12:36:52+00:00",
+      "author": null,
+      "description": "Jay Puri worked at Nvidia for more than two decades before exiting this year.",
+      "link": "https://www.ndtv.com/world-news/madison-huang-the-day-jensen-huangs-daughter-took-on-nvidia-veteran-jay-puri-12338800#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-11/10cg4v8s_jay-puri-madison-jensen-huang_625x300_17_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/crq5vl1l6z2po#1",
@@ -607,6 +719,34 @@
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
+      "id": "t3_1xyilth",
+      "title": "India set to order 1,000 more civilian aircraft amid acute fleet crunch",
+      "published": "2026-11-17T11:59:06+00:00",
+      "author": "/u/Yorker_length",
+      "description": "submitted by /u/Yorker_length [link] [comments]",
+      "link": "https://www.reddit.com/r/worldnews/comments/1xyilth/india_set_to_order_1000_more_civilian_aircraft/",
+      "image": "https://external-preview.redd.it/PT5-NCi3wyngilJpBxPnGnkBPjpmtO_60mFWkqLFjPY.jpeg?width=640&crop=smart&auto=webp&s=1c457a6684a3b5db694c73d5b0cce40d2a305c79",
+      "feed_name": "World News",
+      "feed_title": "World News",
+      "category": "World News",
+      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
+      "feed_icon": "https://www.redditstatic.com/icon.png/"
+    },
+    {
+      "id": "t3_1xyilcj",
+      "title": "France's Le Pen promises earlier retirement for many if she wins election",
+      "published": "2026-11-17T11:58:20+00:00",
+      "author": "/u/National-Dragonfly35",
+      "description": "submitted by /u/National-Dragonfly35 [link] [comments]",
+      "link": "https://www.reddit.com/r/worldnews/comments/1xyilcj/frances_le_pen_promises_earlier_retirement_for/",
+      "image": "https://external-preview.redd.it/QDAi_F7ZlorHFIQo0corT4kg2yym3wo23p8E7FnZSeI.jpeg?width=640&crop=smart&auto=webp&s=d81214f9348b70afe240b48409f6d23943d3c8c6",
+      "feed_name": "World News",
+      "feed_title": "World News",
+      "category": "World News",
+      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
+      "feed_icon": "https://www.redditstatic.com/icon.png/"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/c6ly7g5lx7gyo#0",
       "title": "Gunmen kill Costa Rican journalist who reported on drugs trade",
       "published": "2026-11-17T11:58:16+00:00",
@@ -633,20 +773,6 @@
       "category": "World News",
       "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/madison-huang-the-day-jensen-huangs-daughter-took-on-nvidia-veteran-jay-puri-12338800#publisher=newsstand",
-      "title": "The Day Jensen Huang's Daughter Took On Nvidia Veteran Jay Puri",
-      "published": "2026-11-17T11:55:32+00:00",
-      "author": null,
-      "description": "Jay Puri worked at Nvidia for more than two decades before exiting this year.",
-      "link": "https://www.ndtv.com/world-news/madison-huang-the-day-jensen-huangs-daughter-took-on-nvidia-veteran-jay-puri-12338800#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-11/10cg4v8s_jay-puri-madison-jensen-huang_625x300_17_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
       "id": "https://www.theguardian.com/australia-news/2026/nov/17/voldemort-gotham-city-greens-liberal-labor-one-nation-victorian-election-leaders-debate-ntwnfb",
@@ -775,20 +901,6 @@
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
-      "id": "https://www.ndtv.com/world-news/quad-leaders-summit-live-updates-pm-modi-donald-trump-us-japan-australia-leaders-meet-asean-summit-quad-meeting-12338675#publisher=newsstand",
-      "title": "Quad Leaders Summit LIVE Updates: Quad trusted Partnership For India, Says PM Modi",
-      "published": "2026-11-17T11:26:37+00:00",
-      "author": null,
-      "description": "Quad Leaders Summit LIVE: PM Modi was at the Quad Summit in Manila on Tuesday.",
-      "link": "https://www.ndtv.com/world-news/quad-leaders-summit-live-updates-pm-modi-donald-trump-us-japan-australia-leaders-meet-asean-summit-quad-meeting-12338675#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-11/djt6vhu_trump_625x300_17_November_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
       "id": "108552646",
       "title": "Iran escalates threats as third U.S. carrier arrives in Middle East, tanker struck in Hormuz",
       "published": "2026-11-17T11:22:54+00:00",
@@ -901,20 +1013,6 @@
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
     },
     {
-      "id": "https://www.nytimes.com/2026/11/17/world/asia/china-japan-propaganda-xi-takaichi.html",
-      "title": "Tracking China’s War of Words Against Japan",
-      "published": "2026-11-17T11:00:17+00:00",
-      "author": "Javier C. Hernández and Gal Koplewitz",
-      "description": "Beijing is running a concerted campaign to paint Japan as an aggressor and resurgent military threat, according to a Times analysis.",
-      "link": "https://www.nytimes.com/2026/11/17/world/asia/china-japan-propaganda-xi-takaichi.html",
-      "image": "https://static01.nyt.com/images/2026/11/16/multimedia/00int-china-japan-language-02-btpw/00int-china-japan-language-02-btpw-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
       "id": "https://timesofindia.indiatimes.com/world/rest-of-world/i-have-never-stolen-mongolias-president-announces-resignation-over-25-million-bribery-allegations/articleshow/135922171.cms",
       "title": "Mongolia's president announces resignation over $25 million bribery allegations",
       "published": "2026-11-17T10:57:47+00:00",
@@ -969,6 +1067,20 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "t3_1xyhb8a",
+      "title": "North Korea ramps up ballistic missile supplies to Russia: Zelenskyy appeals to allies",
+      "published": "2026-11-17T10:44:26+00:00",
+      "author": "/u/VivoFan88",
+      "description": "submitted by /u/VivoFan88 [link] [comments]",
+      "link": "https://www.reddit.com/r/worldnews/comments/1xyhb8a/north_korea_ramps_up_ballistic_missile_supplies/",
+      "image": "https://external-preview.redd.it/7oh5pq9WBEVPI5lNIm81fRIV3xxuS3AMJ4yRFT9SVz4.jpeg?width=640&crop=smart&auto=webp&s=eb044558d72015da6218540bde10acb187a8ff0c",
+      "feed_name": "World News",
+      "feed_title": "World News",
+      "category": "World News",
+      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
+      "feed_icon": "https://www.redditstatic.com/icon.png/"
     },
     {
       "id": "108552800",
@@ -13891,118 +14003,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/us/a-houston-great-grandfather-born-on-a-louisiana-plantation-in-1931-spent-decades-without-a-birth-certificate-at-95-he-finally-received-the-document-after-his-family-and-a-volunteer-lawyer-traced-the-records/articleshow/135814014.cms",
-      "title": "95-year-old Houston man finally gets birth certificate after decades-long search",
-      "published": "2026-11-13T19:04:54+00:00",
-      "author": "TOI World Desk",
-      "description": "James Dorsey, a 95-year-old resident of Houston, has finally secured his long-missing birth certificate, a significant milestone that eluded him for decades. Born on a Louisiana plantation, Dorsey discovered the absence of this key document while planning his marriage. With the assistance of attorney Raynique Keelen, necessary corrections were made to his birth record, affirming his status as a recognized American citizen.",
-      "link": "https://timesofindia.indiatimes.com/world/us/a-houston-great-grandfather-born-on-a-louisiana-plantation-in-1931-spent-decades-without-a-birth-certificate-at-95-he-finally-received-the-document-after-his-family-and-a-volunteer-lawyer-traced-the-records/articleshow/135814014.cms",
-      "image": "https://static.toiimg.com/photo/msid-135815093,imgsize-765990.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/us/connecticut-boarding-schools-beloved-principal-flees-campus-to-evade-tax-investigation-agents-was-found-overdosing-in-maine-through-his-wifes-tracker/articleshow/135814954.cms",
-      "title": "Connecticut boarding school's beloved principal flees campus to evade tax investigation agents; was found overdosing in Maine through his wife's tracker",
-      "published": "2026-11-13T19:03:12+00:00",
-      "author": "Poulomi Ghosh",
-      "description": "",
-      "link": "https://timesofindia.indiatimes.com/world/us/connecticut-boarding-schools-beloved-principal-flees-campus-to-evade-tax-investigation-agents-was-found-overdosing-in-maine-through-his-wifes-tracker/articleshow/135814954.cms",
-      "image": "https://static.toiimg.com/photo/msid-135815064,imgsize-81106.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmy4930jq749o#1",
-      "title": "Democratic Senate leader Schumer set to face leadership challenge",
-      "published": "2026-11-13T19:03:10+00:00",
-      "author": null,
-      "description": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes.",
-      "link": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8015/live/4a0196d0-df4d-11f1-b441-2b33b063138f.png",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "108550706",
-      "title": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users",
-      "published": "2026-11-13T18:56:26+00:00",
-      "author": null,
-      "description": "OpenAI's ChatGPT Wallet partners with American Express, Mastercard and Visa, and those cardholders keep their existing credit card rewards.",
-      "link": "https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108469835-1793120540409-Screenshot_2026-10-27_at_10008_PM.png?v=1793474850&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/spicejet-cancels-4-dubai-flights-after-unpaid-dues-halts-check-in-services-12324287#publisher=newsstand",
-      "title": "SpiceJet Cancels 4 Dubai Flights After Unpaid Dues Halts Check-In Services",
-      "published": "2026-11-13T18:49:33+00:00",
-      "author": null,
-      "description": "The suspension of SpiceJet check-in was limited to November 12.",
-      "link": "https://www.ndtv.com/world-news/spicejet-cancels-4-dubai-flights-after-unpaid-dues-halts-check-in-services-12324287#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-11/lt6lm0c_spicejet_625x300_13_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o#0",
-      "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-      "published": "2026-11-13T18:36:57+00:00",
-      "author": null,
-      "description": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo#0",
-      "title": "The Peruvian city that has embraced Pope Leo as one of its own",
-      "published": "2026-11-13T18:34:45+00:00",
-      "author": null,
-      "description": "Pope Leo XIV is in Peru as part of his Latin America tour, just weeks after having surgery for lung cancer.",
-      "link": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/566c/live/8649d9e0-df84-11f1-a8e2-5b59832bb2f1.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo#1",
-      "title": "The Peruvian city that has embraced Pope Leo as one of its own",
-      "published": "2026-11-13T18:34:45+00:00",
-      "author": null,
-      "description": "Pope Leo XIV is in Peru as part of his Latin America tour, just weeks after having surgery for lung cancer.",
-      "link": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/566c/live/8649d9e0-df84-11f1-a8e2-5b59832bb2f1.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     }
   ]
 }
