@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-17T14:03:03.776012+00:00",
+  "updated": "2026-11-17T14:32:51.321462+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/european-alternatives-to-google-microsoft-and-zoom/",
+      "title": "Europe is replacing the big US apps in its offices, and you can use most of the replacements",
+      "published": "2026-11-17T14:30:17+00:00",
+      "author": "Oluwademilade Afolabi",
+      "description": "Microsoft and Google might want to check their European passports.",
+      "link": "https://www.makeuseof.com/european-alternatives-to-google-microsoft-and-zoom/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/laptop-displaying-the-euro-office-website-with-its-free-windows-download-option.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/3-bash-scripting-techniques-every-linux-user-should-know/",
+      "title": "3 Bash scripting techniques every Linux user should know",
+      "published": "2026-11-17T14:30:15+00:00",
+      "author": "Graeme Peacock",
+      "description": "Unlock the power of Bash with these simple techniques.",
+      "link": "https://www.howtogeek.com/3-bash-scripting-techniques-every-linux-user-should-know/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/lenovo-googlebook-15-linux-terminal-01.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/android-auto-vs-carplay-which-offers-better-customization/",
       "title": "Android Auto vs. CarPlay: Which offers better customization?",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://hackaday.com/blog/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/samsung-smartthings-smart-home-map-view/",
-      "title": "Samsung has a completely different way to control your smart home",
-      "published": "2026-11-03T18:00:16+00:00",
-      "author": "Chris Hachey",
-      "description": "You get more out of your app than you realize.",
-      "link": "https://www.makeuseof.com/samsung-smartthings-smart-home-map-view/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/07/samsung-home-8.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/android-app-interactive-photo-map/",
-      "title": "This Android app turned my photos into an interactive map of everywhere I've been",
-      "published": "2026-11-03T18:00:15+00:00",
-      "author": "Namerah Saud Fatmi",
-      "description": "Trace your footsteps using photo location data and a handy app.",
-      "link": "https://www.howtogeek.com/android-app-interactive-photo-map/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/photo-maps-app-on-pixel-10-pro-0.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
     }
   ]
 }
