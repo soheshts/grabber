@@ -1,9 +1,23 @@
 {
   "category": "travel",
-  "updated": "2026-11-16T23:32:38.578975+00:00",
-  "count": 176,
+  "updated": "2026-11-17T00:03:04.489141+00:00",
+  "count": 177,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/11/16/business/faa-ground-stop-pilots-radio-controllers.html",
+      "title": "Pilots Kept Contact With Controllers During Nationwide Halt to Flights",
+      "published": "2026-11-16T23:39:24+00:00",
+      "author": "Niraj Chokshi",
+      "description": "Pilots were generally able to maintain contact with air traffic controllers and airline staff on the ground despite an outage that caused a nearly five-hour halt to departures.",
+      "link": "https://www.nytimes.com/2026/11/16/business/faa-ground-stop-pilots-radio-controllers.html",
+      "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16biz-faa-pilots-lqjw/16biz-faa-pilots-lqjw-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Travel",
+      "feed_title": "NYT > Travel",
+      "category": "travel",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "https://www.nytimes.com/2026/11/16/t-magazine/travel/favorite-walks.html",
       "title": "The Walks That Fire Their Imaginations",
