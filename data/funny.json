@@ -1,9 +1,23 @@
 {
   "category": "funny",
-  "updated": "2026-11-17T12:03:09.034830+00:00",
-  "count": 669,
+  "updated": "2026-11-17T12:32:47.918006+00:00",
+  "count": 670,
   "summary": null,
   "items": [
+    {
+      "id": "https://thedailywtf.com/articles/building-a-line",
+      "title": "CodeSOD: Building a Line",
+      "published": "2026-11-17T06:30:00+00:00",
+      "author": "Remy Porter",
+      "description": "There's an unofficial category of posts here that I call \"Somebody told us string builders were more efficient, so we always use string builders, regardless of whether or not that actually makes sense,\" or STUSBWMESWAUSBROWONTAMS, for short. Probably should workshop that name some. In any case, Adam sends us a new entry for that collection: Public Function ReadFromFile( ByVal filename As String) As String Dim sb As StringBuilder = New StringBuilder() Dim str As String = String. Empty Using sr A…",
+      "link": "https://thedailywtf.com/articles/building-a-line",
+      "image": "https://thedailywtf.com/images/inedo/proget-icon.png",
+      "feed_name": "The Daily WTF",
+      "feed_title": "The Daily WTF",
+      "category": "funny",
+      "feed_url": "http://syndication.thedailywtf.com/TheDailyWtf",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thedailywtf.com&sz=64"
+    },
     {
       "id": "https://cheezburger.com/47399685/dad-books-a-15000-christmas-cruise-for-his-wife-and-kids-wants-to-change-plans-after-finding-out-his",
       "title": "Dad books a $15,000 Christmas cruise for his wife and kids, wants to change plans after finding out his in-laws booked the same ship: ‘We're trapped on a boat together'",
