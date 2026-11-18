@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-18T00:03:35.358288+00:00",
+  "updated": "2026-11-18T00:33:38.792371+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://hackaday.com/?p=1428561",
+      "title": "A Pen Plotter to Draw You Up (on) the Wall",
+      "published": "2026-11-18T00:00:35+00:00",
+      "author": "Tyler August",
+      "description": "Back in our day you were told not to draw on the walls; nowadays we have robots for that– like Mural 2.0 by [Nik Ivanov]. If the name doesn’t give …read more",
+      "link": "https://hackaday.com/2026/11/17/a-pen-plotter-to-draw-you-up-on-the-wall/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/mural-penplotter2.jpg",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/gloriouss-hot-swappable-gmmk-2-65-keyboard-drops-to-just-4899-and-its-ready-for-tinkering/",
       "title": "Glorious's GMMK 2 65% Keyboard is less than $50 and ready for tinkering",
@@ -13989,20 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/how-to-turn-a-single-photo-into-a-3d-scene-with-apples-free-ai/",
-      "title": "How to turn a single photo into a 3D scene with Apple’s free AI",
-      "published": "2026-11-04T15:00:17+00:00",
-      "author": "Rob LeFebvre",
-      "description": "It's more a proof of concept than something you're gonna use right away, but it's still pretty cool.",
-      "link": "https://www.makeuseof.com/how-to-turn-a-single-photo-into-a-3d-scene-with-apples-free-ai/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/beard-3d-splat.png",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }

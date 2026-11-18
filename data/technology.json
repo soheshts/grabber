@@ -1,9 +1,37 @@
 {
   "category": "technology",
-  "updated": "2026-11-18T00:03:35.358288+00:00",
+  "updated": "2026-11-18T00:33:38.792371+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
+      "title": "Microsoft calls Copilot \"the new OS for work\" at Ignite keynote",
+      "published": "2026-11-18T00:27:29+00:00",
+      "author": "Nick Indge",
+      "description": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
+      "link": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/MS_Ignite_Perception-500x454.png",
+      "feed_name": "Ars Technica",
+      "feed_title": "Ars Technica",
+      "category": "technology",
+      "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
+      "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
+    },
+    {
+      "id": "https://www.engadget.com/2315475/google-gemini-memory-summary-see-what-remembers-about-you/",
+      "title": "You can now see and edit what Google Gemini remembers about you",
+      "published": "2026-11-18T00:00:00+00:00",
+      "author": "Ian Carlos Campbell",
+      "description": "Editing the AI's memory is one way you can shape its responses.",
+      "link": "https://www.engadget.com/2315475/google-gemini-memory-summary-see-what-remembers-about-you/",
+      "image": "https://www.engadget.com/img/gallery/you-can-now-see-and-edit-what-google-gemini-remembers-about-you/l-intro-1794427961.jpg",
+      "feed_name": "Engadget",
+      "feed_title": "Engadget - Technology News & Expert Reviews",
+      "category": "technology",
+      "feed_url": "https://www.engadget.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
     {
       "id": "https://www.engadget.com/2320041/oregon-is-the-latest-state-to-sue-openai-over-child-safety/",
       "title": "Oregon is the latest state to sue OpenAI over child safety",
@@ -13975,34 +14003,6 @@
       "category": "technology",
       "feed_url": "https://thenextweb.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
-    },
-    {
-      "id": "4baedd96-6e7b-11f1-94bf-77635a83394e",
-      "title": "Jensen Huang resigns, and our HomeView review",
-      "published": "2026-11-12T18:02:00+00:00",
-      "author": "The Verge",
-      "description": "Jensen Huang is out at Nvidia, so today's episode starts with an emergency podcast within a podcast, as David and Nilay try to make sense of the state of Nvidia and AI. Then, Jen Tuohy comes on the show to tell us all about her time with the Apple HomeView, Apple's new smart home controller and family computer. It's very good at one of those things, and not so much on the other. Further reading: Nvidia CEO Jensen Huang resigns amid spy, affair scandals Read Nvidia’s internal emails about the ‘e…",
-      "link": null,
-      "image": null,
-      "feed_name": "The Vergecast",
-      "feed_title": "The Vergecast",
-      "category": "technology",
-      "feed_url": "https://feeds.megaphone.fm/vergecast",
-      "feed_icon": "https://megaphone.imgix.net/podcasts/e4c412e6-e1f0-11e8-9bde-83f9d376f059/image/fa367fa8b1b6ca01fc4b8c34d83ba4d8.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
-    },
-    {
-      "id": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
-      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-      "published": "2026-11-12T18:00:00+00:00",
-      "author": "Robby Stein",
-      "description": "Rotating carousel of cards with text \"Gemini 4 Hydrogen\" \"Now in Google Search\" and examples from the Google Search UI",
-      "link": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HydrogenUI_socialshare.max-600x600.format-webp.webp",
-      "feed_name": "The Keyword",
-      "feed_title": "News from Google",
-      "category": "technology",
-      "feed_url": "https://www.blog.google/rss/",
-      "feed_icon": "https://blog.google/static/blogv2/images/google.png"
     }
   ]
 }

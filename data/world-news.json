@@ -1,15 +1,57 @@
 {
   "category": "World News",
-  "updated": "2026-11-18T00:03:35.358288+00:00",
+  "updated": "2026-11-18T00:33:38.792371+00:00",
   "count": 1000,
   "summary": null,
   "items": [
     {
+      "id": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo#0",
+      "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+      "published": "2026-11-18T00:28:01+00:00",
+      "author": null,
+      "description": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+      "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e48/live/58880030-e2d7-11f1-99a1-253766e7ad8b.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "108553341",
+      "title": "Cramer's lightning round: This sports stock is not for me",
+      "published": "2026-11-18T00:12:21+00:00",
+      "author": null,
+      "description": "\"Mad Money\" host Jim Cramer rings the lightning round bell, which means he's giving his answers to callers' stock questions at rapid speed.",
+      "link": "https://www.cnbc.com/2026/11/17/cramers-lightning-round-this-sports-stock-is-not-for-me-.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/107217913-1680196397032-gettyimages-1423728512-es_13507_078dbe90-af5c-41f8-af61-7a11fb3eb0e3.jpeg?v=1680199991&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/17/world/asia/xi-apec.html",
+      "title": "Will a Spy Scandal, Trade Friction and a Surprise Guest Ruin Xi’s Big Moment?",
+      "published": "2026-11-18T00:12:06+00:00",
+      "author": "David Pierson",
+      "description": "The leader wants the APEC summit to showcase China’s strengths, but he faces export worries and an unpredictable Trump, who has floated meeting Kim Jong-un.",
+      "link": "https://www.nytimes.com/2026/11/17/world/asia/xi-apec.html",
+      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-china-xi-apec-01-hbcz/18int-china-xi-apec-01-hbcz-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
       "id": "108552760",
       "title": "Japan exports in October surge 20.5%, beating estimates on robust chip shipments",
-      "published": "2026-11-17T23:55:41+00:00",
+      "published": "2026-11-18T00:06:25+00:00",
       "author": null,
-      "description": "",
+      "description": "Semiconductor shipments spiked almost 50% year on year.",
       "link": "https://www.cnbc.com/2026/11/18/japan-exports-october-imports-chips.html",
       "image": "https://image.cnbcfm.com/api/v1/image/108285632-1774986309800-cnbc_versant_share.png?v=1774986411&w=1920&h=1080",
       "feed_name": "CNBC",
@@ -17,6 +59,34 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.theguardian.com/australia-news/2026/nov/18/hugh-jackman-rebel-wilson-australian-artists-greenpeace-campaign-woodside-energy-scott-reef",
+      "title": "Hugh Jackman, Rebel Wilson and 150 Australian artists join call to block Woodside gas development near Scott Reef",
+      "published": "2026-11-18T00:00:25+00:00",
+      "author": "Donna Lu",
+      "description": "Actors, authors and musicians sign open letter urging Murray Watt to reject the fossil fuel company’s plan to drill for gas in Browse basin off Kimberley coast Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here More than 150 Australian artists, including Hugh Jackman, Rebel Wilson and Jessica Mauboy, have backed a Greenpeace-led campaign against Woodside Energy’s proposal to develop the Browse basin, about 300km off the Kimberley coast. Woodside, the country…",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/18/hugh-jackman-rebel-wilson-australian-artists-greenpeace-campaign-woodside-energy-scott-reef",
+      "image": "https://i.guim.co.uk/img/media/ad56fcfab9740583060ec012931312c05f9a1c11/295_0_2954_2363/master/2954.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c70531ef44d6361b427181c13ddae886",
+      "feed_name": "The Guardian",
+      "feed_title": "World news | The Guardian",
+      "category": "World News",
+      "feed_url": "https://www.theguardian.com/world/rss",
+      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/nvidia-chairman-says-board-does-not-intend-to-reinstate-jensen-huang-as-ceo-12341411#publisher=newsstand",
+      "title": "Jensen Huang 'Ready To Return', Nvidia Chairman Says Will Not Reinstate Him",
+      "published": "2026-11-17T23:55:37+00:00",
+      "author": null,
+      "description": "Earlier, Jensen Huang said that he would come back to lead the chipmaker if the board invited him.",
+      "link": "https://www.ndtv.com/world-news/nvidia-chairman-says-board-does-not-intend-to-reinstate-jensen-huang-as-ceo-12341411#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-11/m78c4fa8_jensen-huang_625x300_17_November_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
       "id": "https://www.theguardian.com/business/2026/nov/17/david-jones-creditors-meeting-debt-administrators",
@@ -103,20 +173,6 @@
       "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo#0",
-      "title": "Nvidia reports bumper results as firm says it's not reinstating Huang",
-      "published": "2026-11-17T23:03:39+00:00",
-      "author": null,
-      "description": "Nvidia reported strong quarterly earnings on Tuesday amid the dramatic exit of ex-CEO Jensen Huang.",
-      "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e48/live/58880030-e2d7-11f1-99a1-253766e7ad8b.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo#1",
       "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
       "published": "2026-11-17T22:46:30+00:00",
@@ -135,7 +191,7 @@
       "title": "Thomas Markle charged over child sex abuse material in Philippines",
       "published": "2026-11-17T22:44:15+00:00",
       "author": null,
-      "description": "Markle is being held in prison in the US on a separate charge and has previously denied all of the allegations.",
+      "description": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
       "link": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b0e/live/040fc640-dd79-11f1-93e1-3b657b665bcf.jpg",
       "feed_name": "BBC News - World",
@@ -143,20 +199,6 @@
       "category": "World News",
       "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/nvidia-chairman-says-board-does-not-intend-to-reinstate-jensen-huang-as-ceo-12341411#publisher=newsstand",
-      "title": "Jensen Huang 'Ready To Return', Nvidia Chairman Says Will Not Reinstate Him",
-      "published": "2026-11-17T22:41:28+00:00",
-      "author": null,
-      "description": "Earlier, Jensen Huang said that he would come back to lead the chipmaker if the board invited him.",
-      "link": "https://www.ndtv.com/world-news/nvidia-chairman-says-board-does-not-intend-to-reinstate-jensen-huang-as-ceo-12341411#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-11/m78c4fa8_jensen-huang_625x300_17_November_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
       "id": "108552453",
@@ -13961,48 +14003,6 @@
       "category": "World News",
       "feed_url": "https://www.reddit.com/r/worldnews/.rss",
       "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/us/after-losing-his-eldest-son-in-a-2008-accident-australian-mechanic-gavin-hynam-began-restoring-old-cars-for-young-people-in-need-he-had-donated-at-least-19-cars-by-2025-and-has-now-received-a-state-honour/articleshow/135823547.cms",
-      "title": "Australian mechanic honoured for gifting 19 cars to needy youth after son's death",
-      "published": "2026-11-14T08:29:00+00:00",
-      "author": "TOI World Desk",
-      "description": "After the devastating loss of his eldest son, Gavin Hynam launched the Cars 4 Youth initiative. This program supplies refurbished cars to disadvantaged young people in regional Victoria and includes mentorship for aspiring drivers. Through these efforts, Hynam has empowered many youths to chase educational and employment aspirations, leading to him being honored as Victoria's Local Hero for 2027.",
-      "link": "https://timesofindia.indiatimes.com/world/us/after-losing-his-eldest-son-in-a-2008-accident-australian-mechanic-gavin-hynam-began-restoring-old-cars-for-young-people-in-need-he-had-donated-at-least-19-cars-by-2025-and-has-now-received-a-state-honour/articleshow/135823547.cms",
-      "image": "https://static.toiimg.com/photo/msid-135823624,imgsize-810557.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/restaurant-where-nvidia-was-born-removes-commemorative-plaque-after-jensen-huangs-exit-12325866#publisher=newsstand",
-      "title": "Restaurant Where Nvidia Was Born Removes Commemorative Plaque After Jensen Huang's Exit",
-      "published": "2026-11-14T08:28:56+00:00",
-      "author": null,
-      "description": "The plaque was installed during a 2023 ceremony attended by Jensen Huang.",
-      "link": "https://www.ndtv.com/world-news/restaurant-where-nvidia-was-born-removes-commemorative-plaque-after-jensen-huangs-exit-12325866#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-11/8h5eotkk_as_625x300_14_November_26.jpeg",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/us/us-flight-chaos-in-photos-long-queues-crowded-terminals-and-thousands-of-passengers-in-limbo/photostory/135824081.cms",
-      "title": "US flight chaos in photos: Long queues, crowded terminals and thousands of passengers in limbo",
-      "published": "2026-11-14T08:15:38+00:00",
-      "author": "Mahima Sharma",
-      "description": "",
-      "link": "https://timesofindia.indiatimes.com/world/us/us-flight-chaos-in-photos-long-queues-crowded-terminals-and-thousands-of-passengers-in-limbo/photostory/135824081.cms",
-      "image": "https://static.toiimg.com/photo/msid-135824081,imgsize-70226.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     }
   ]
 }
