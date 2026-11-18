@@ -1,9 +1,51 @@
 {
   "category": "technology",
-  "updated": "2026-11-18T22:03:27.856786+00:00",
+  "updated": "2026-11-18T22:33:07.288597+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "01K6182WX6ZDMX6P1Y4STAJQJ2",
+      "title": "Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place",
+      "published": "2026-11-18T22:14:07+00:00",
+      "author": "Daniel Oropeza",
+      "description": "Keep up with all of the best deals that Lifehacker publishes, including laptops, speakers, TVs, security cameras, and more.",
+      "link": "https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg",
+      "feed_name": "Lifehacker",
+      "feed_title": "Lifehacker",
+      "category": "technology",
+      "feed_url": "https://lifehacker.com/rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=lifehacker.com&sz=64"
+    },
+    {
+      "id": "https://arstechnica.com/health/2026/11/trump-abandons-his-fda-nominee-and-senate-scraps-vote-on-his-nsf-pick/",
+      "title": "Trump abandons his FDA nominee, and Senate scraps vote on his NSF pick",
+      "published": "2026-11-18T22:08:57+00:00",
+      "author": "Beth Mole",
+      "description": "\"This time requires leadership and fortitude,\" Senator Bill Cassidy said.",
+      "link": "https://arstechnica.com/health/2026/11/trump-abandons-his-fda-nominee-and-senate-scraps-vote-on-his-nsf-pick/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296270903-500x500.jpg",
+      "feed_name": "Ars Technica",
+      "feed_title": "Ars Technica",
+      "category": "technology",
+      "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
+      "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
+    },
+    {
+      "id": "https://www.theverge.com/?p=1037134",
+      "title": "Democrats skip a vote on adding Brendan Carr’s adviser to the FCC",
+      "published": "2026-11-18T22:05:48+00:00",
+      "author": "Lauren Feiner",
+      "description": "Senate commerce committee Chair Ted Cruz (R-TX) began a meeting Wednesday meant to confirm President Donald Trump's nominee to the Federal Communications Commission with a lopsided dais. To his right sat all 14 Republican members of the panel, including Senate Majority Leader John Thune (R-SD). To his left were about a dozen empty chairs - […]",
+      "link": "https://www.theverge.com/policy/1037134/democrats-boycott-fcc-nomination-vote-danielle-thumann-severs",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25840497/STKP211_BRENDAN_CARR_B.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "feed_name": "The Verge -  All Posts",
+      "feed_title": "The Verge",
+      "category": "technology",
+      "feed_url": "https://www.theverge.com/rss/index.xml",
+      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
+    },
     {
       "id": "https://news.slashdot.org/story/26/11/18/2047229/best-buy-resumes-blu-ray-sales?utm_source=rss1.0mainlinkanon&utm_medium=feed",
       "title": "Best Buy Resumes Blu-ray Sales",
@@ -342,12 +384,12 @@
     },
     {
       "id": "https://www.theverge.com/?p=1035924",
-      "title": "What’s next for Nvidia? Whatever doesn’t rock the mind-bogglingly profitable boat",
+      "title": "Nvidia’s rise, visualized",
       "published": "2026-11-18T19:30:00+00:00",
       "author": "Sean Hollister",
       "description": "If someone handed you $8,300 every second, what would you do? That's how much pure profit Nvidia now makes. By the time you finish reading this paragraph, Nvidia will likely have cleared $45,000 and change. It's easy to look at Nvidia, a company that just lost its visionary founder CEO due to a series of […]",
       "link": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/acastro_STK083_01.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24002526/acastro_STK083_01.jpg?quality=90&strip=all&crop=0,0,100,100",
       "feed_name": "The Verge -  All Posts",
       "feed_title": "The Verge",
       "category": "technology",
@@ -3125,20 +3167,6 @@
       "category": "technology",
       "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
       "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
-    },
-    {
-      "id": "01K6182WX6ZDMX6P1Y4STAJQJ2",
-      "title": "Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place",
-      "published": "2026-11-18T00:18:11+00:00",
-      "author": "Daniel Oropeza",
-      "description": "Keep up with all of the best deals that Lifehacker publishes, including laptops, speakers, TVs, security cameras, and more.",
-      "link": "https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg",
-      "feed_name": "Lifehacker",
-      "feed_title": "Lifehacker",
-      "category": "technology",
-      "feed_url": "https://lifehacker.com/rss",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=lifehacker.com&sz=64"
     },
     {
       "id": "https://www.engadget.com/2315475/google-gemini-memory-summary-see-what-remembers-about-you/",
@@ -13975,34 +14003,6 @@
       "category": "technology",
       "feed_url": "https://lifehacker.com/rss",
       "feed_icon": "https://www.google.com/s2/favicons?domain=lifehacker.com&sz=64"
-    },
-    {
-      "id": "TheNextWeb=206df3590f2a66bcccfed3dd3d7d6b36",
-      "title": "Nvidia and Dyania bring AI chart review onto hospital servers",
-      "published": "2026-11-13T20:56:44+00:00",
-      "author": "Ana Maria Constantin",
-      "description": "Dyania Health’s Synapsis AI reviewed the records of more than 7,800 Cleveland Clinic heart-valve patients, running on the hospital’s own Nvidia servers. The data was used to build a model predicting when replacement valves fail. Doctors still make every decision. An AI system has read up to 16 years of records for more than 7,800 […] This story continues at The Next Web",
-      "link": "https://thenextweb.com/news/dyania-health-synapsis-ai-cleveland-clinic-nvidia-hospital",
-      "image": "https://media.thenextweb.com/2026/11/dyania-synapsis-ai-patient-record-timeline.avif",
-      "feed_name": "The Next Web",
-      "feed_title": "The Next Web",
-      "category": "technology",
-      "feed_url": "https://thenextweb.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
-    },
-    {
-      "id": "03Uf9zFHkmvr6yMgPhuFXhF",
-      "title": "Amazons early Black Friday deal on this Osprey travel backpack drops it to a new record-low price — save 35%",
-      "published": "2026-11-13T20:52:43+00:00",
-      "author": null,
-      "description": "The Osprey Daylite Expandable Travel Pack 26+6 is on sale for just $71.50. That's a 35% discount and its lowest price ever.",
-      "link": "https://mashable.com/travel/nov-13-osprey-daylite-expandable-travel-backpack-early-black-friday-deal",
-      "image": "https://helios-i.mashable.com/imagery/articles/03Uf9zFHkmvr6yMgPhuFXhF/hero-image.png",
-      "feed_name": "Mashable",
-      "feed_title": "Mashable",
-      "category": "technology",
-      "feed_url": "http://feeds.mashable.com/Mashable",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
     }
   ]
 }

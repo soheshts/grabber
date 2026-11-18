@@ -1,9 +1,23 @@
 {
   "category": "travel",
-  "updated": "2026-11-18T22:03:27.856786+00:00",
+  "updated": "2026-11-18T22:33:07.288597+00:00",
   "count": 190,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/11/16/t-magazine/travel/favorite-walks.html",
+      "title": "The Walks That Fire Their Imaginations",
+      "published": "2026-11-18T22:16:09+00:00",
+      "author": "Sara Clemence",
+      "description": "Phillip Lim, Kengo Kuma, Joy Harjo and others on their favorite places to amble, from Reykjavík to the Rio Grande.",
+      "link": "https://www.nytimes.com/2026/11/16/t-magazine/travel/favorite-walks.html",
+      "image": "https://static01.nyt.com/images/2026/11/10/t-magazine/entertainment/10tmag-9-walks-slide-BILC-copy/10tmag-9-walks-slide-BILC-facebookJumbo.jpg",
+      "feed_name": "NYT > Travel",
+      "feed_title": "NYT > Travel",
+      "category": "travel",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "https://www.atlasobscura.com/places/binh-lam-champa-tower",
       "title": "Binh Lam Champa Tower in Tuy Phước Đông, Vietnam",
@@ -222,20 +236,6 @@
       "description": "Pilots were generally able to maintain contact with air traffic controllers and airline staff on the ground despite an outage that caused a nearly five-hour halt to departures.",
       "link": "https://www.nytimes.com/2026/11/16/business/faa-ground-stop-pilots-radio-controllers.html",
       "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16biz-faa-pilots-lqjw/16biz-faa-pilots-lqjw-mediumSquareAt3X.jpg",
-      "feed_name": "NYT > Travel",
-      "feed_title": "NYT > Travel",
-      "category": "travel",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/16/t-magazine/travel/favorite-walks.html",
-      "title": "The Walks That Fire Their Imaginations",
-      "published": "2026-11-16T22:29:18+00:00",
-      "author": "Sara Clemence",
-      "description": "Philip Lim, Kengo Kuma, Joy Harjo and others on their favorite places to amble, from Reykjavík to the Rio Grande.",
-      "link": "https://www.nytimes.com/2026/11/16/t-magazine/travel/favorite-walks.html",
-      "image": "https://static01.nyt.com/images/2026/11/10/t-magazine/entertainment/10tmag-9-walks-slide-BILC-copy/10tmag-9-walks-slide-BILC-facebookJumbo.jpg",
       "feed_name": "NYT > Travel",
       "feed_title": "NYT > Travel",
       "category": "travel",
