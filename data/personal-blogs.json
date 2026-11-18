@@ -1,6 +1,6 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-18T16:33:09.461863+00:00",
+  "updated": "2026-11-18T17:04:05.838725+00:00",
   "count": 440,
   "summary": null,
   "items": [
@@ -171,6 +171,20 @@
       "category": "personal blogs",
       "feed_url": "http://feeds.feedburner.com/brad-frosts-blog",
       "feed_icon": "https://www.google.com/s2/favicons?domain=bradfrost.com&sz=64"
+    },
+    {
+      "id": "https://meiert.com/blog/i-dont-like-website-checklists/",
+      "title": "Why I Don’t Like (and Don’t Recommend) Website Checklists",
+      "published": "2026-11-17T23:00:00+00:00",
+      "author": null,
+      "description": "Checklists are built for bulk—but quality websites are bespoke.",
+      "link": "https://meiert.com/blog/i-dont-like-website-checklists/",
+      "image": null,
+      "feed_name": "Blog (Web Development, Mostly) · Jens Oliver Meiert",
+      "feed_title": "Jens Oliver Meiert · Code Optimization, Digital Defense, Models of Reality",
+      "category": "personal blogs",
+      "feed_url": "https://meiert.com/en/feed/",
+      "feed_icon": "https://meiert.com/media/social.png"
     },
     {
       "id": "https://htmlcssjavascript.com/?p=11528",
@@ -2795,7 +2809,7 @@
       "title": "How to Switch From HTML Minifier Next 9 to HTML Minifier 5",
       "published": "2026-11-02T23:00:00+00:00",
       "author": null,
-      "description": "A checklist to move from HTML Minifier Next to HTML Minifier—now maintained again—, which is mostly a matter of renaming.",
+      "description": "A checklist to move from HTML Minifier Next to HTML Minifier—now maintained again—which is mostly a matter of renaming.",
       "link": "https://meiert.com/blog/html-minifier-next-to-html-minifier/",
       "image": "https://d3rdtowr0c5lpf.cloudfront.net/media/social.png",
       "feed_name": "Blog (Web Development, Mostly) · Jens Oliver Meiert",
@@ -5435,20 +5449,6 @@
       "category": "personal blogs",
       "feed_url": "https://www.raymondcamden.com/feed.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.raymondcamden.com&sz=64"
-    },
-    {
-      "id": "https://www.aaron-gustafson.com/notebook/i-changed-my-mind-about-css-variables/",
-      "title": "I’ve Changed My Mind About CSS Variables",
-      "published": "2026-10-19T16:48:33+00:00",
-      "author": "Aaron Gustafson",
-      "description": "A while back, Eric Meyer emailed to ask about my old post arguing that CSS variables were a bad idea . Did I still feel that way? No. I’ve changed my mind.",
-      "link": "https://www.aaron-gustafson.com/notebook/i-changed-my-mind-about-css-variables/",
-      "image": "https://www.aaron-gustafson.com/i/share-cards/i-changed-my-mind-about-css-variables.jpg",
-      "feed_name": "Aaron Gustafson",
-      "feed_title": "Aaron Gustafson: Latest Posts",
-      "category": "personal blogs",
-      "feed_url": "https://www.aaron-gustafson.com/feeds/latest-posts.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.aaron-gustafson.com&sz=64"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
