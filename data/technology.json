@@ -1,12 +1,26 @@
 {
   "category": "technology",
-  "updated": "2026-11-18T00:33:38.792371+00:00",
+  "updated": "2026-11-18T01:02:56.819295+00:00",
   "count": 1000,
   "summary": null,
   "items": [
     {
+      "id": "https://www.engadget.com/2319928/how-to-set-up-ev-routing-carplay-android-auto/",
+      "title": "How to set up EV routing on CarPlay and Android Auto",
+      "published": "2026-11-18T00:30:00+00:00",
+      "author": "Jack Whitcombe",
+      "description": "Tired of hunting for chargers on road trips? See how EV routing works on CarPlay and Android Auto and what to check in your car before you go.",
+      "link": "https://www.engadget.com/2319928/how-to-set-up-ev-routing-carplay-android-auto/",
+      "image": "https://www.engadget.com/img/gallery/how-to-set-up-ev-routing-on-carplay-and-android-auto/l-intro-1794943803.jpg",
+      "feed_name": "Engadget",
+      "feed_title": "Engadget - Technology News & Expert Reviews",
+      "category": "technology",
+      "feed_url": "https://www.engadget.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
+    {
       "id": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
-      "title": "Microsoft calls Copilot \"the new OS for work\" at Ignite keynote",
+      "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
       "published": "2026-11-18T00:27:29+00:00",
       "author": "Nick Indge",
       "description": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
@@ -17,6 +31,20 @@
       "category": "technology",
       "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
       "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
+    },
+    {
+      "id": "01K6182WX6ZDMX6P1Y4STAJQJ2",
+      "title": "Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place",
+      "published": "2026-11-18T00:18:11+00:00",
+      "author": "Daniel Oropeza",
+      "description": "Keep up with all of the best deals that Lifehacker publishes, including laptops, speakers, TVs, security cameras, and more.",
+      "link": "https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg",
+      "feed_name": "Lifehacker",
+      "feed_title": "Lifehacker",
+      "category": "technology",
+      "feed_url": "https://lifehacker.com/rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=lifehacker.com&sz=64"
     },
     {
       "id": "https://www.engadget.com/2315475/google-gemini-memory-summary-see-what-remembers-about-you/",
@@ -143,6 +171,20 @@
       "category": "technology",
       "feed_url": "https://www.engadget.com/rss.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
+    {
+      "id": "065Q9DrRU3Jy5J5cUBTIoYI",
+      "title": "Waymo halts freeway rides after California DMV orders ban, cites safety incidents",
+      "published": "2026-11-17T22:55:13+00:00",
+      "author": null,
+      "description": "California bans Waymo vehicles from driving on freeways after several incidents of vehicles disobeying freeway closures and a brush with the California Highway Patrol.",
+      "link": "https://mashable.com/tech/waymo-freeway-rides-safety-california-dmv-ban",
+      "image": "https://helios-i.mashable.com/imagery/articles/065Q9DrRU3Jy5J5cUBTIoYI/hero-image.jpg",
+      "feed_name": "Mashable",
+      "feed_title": "Mashable",
+      "category": "technology",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
     },
     {
       "id": "5209239",
@@ -4049,20 +4091,6 @@
       "category": "technology",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
-    },
-    {
-      "id": "01K6182WX6ZDMX6P1Y4STAJQJ2",
-      "title": "Lifehacker Deals Live Blog: The Best Tech Sales, All in One Place",
-      "published": "2026-11-16T22:54:29+00:00",
-      "author": "Daniel Oropeza",
-      "description": "Keep up with all of the best deals that Lifehacker publishes, including laptops, speakers, TVs, security cameras, and more.",
-      "link": "https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg",
-      "feed_name": "Lifehacker",
-      "feed_title": "Lifehacker",
-      "category": "technology",
-      "feed_url": "https://lifehacker.com/rss",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=lifehacker.com&sz=64"
     },
     {
       "id": "https://www.engadget.com/2318613/united-airlines-is-experiencing-a-widespread-system-outage/",
@@ -13975,34 +14003,6 @@
       "category": "technology",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
-    },
-    {
-      "id": "01eyrBLQgj41sHhlwf7aBY4",
-      "title": "Kalshi says its hiring a GTA 6 researcher to study the games economy",
-      "published": "2026-11-12T18:06:36+00:00",
-      "author": null,
-      "description": "Kalshi wants to hire someone to obsessively play 'GTA 6' at launch and figure out the best way to make money in the game.",
-      "link": "https://mashable.com/tech/gta-grand-theft-auto-6-kalshi-researcher-job",
-      "image": "https://helios-i.mashable.com/imagery/articles/01eyrBLQgj41sHhlwf7aBY4/hero-image.jpg",
-      "feed_name": "Mashable",
-      "feed_title": "Mashable",
-      "category": "technology",
-      "feed_url": "http://feeds.mashable.com/Mashable",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
-    },
-    {
-      "id": "TheNextWeb=1e96de70a3ccf5216acecd11b549960a",
-      "title": "SpaceXSI’s Grok Build left 35,000 apps open, security firm Claroc says",
-      "published": "2026-11-12T18:03:30+00:00",
-      "author": "Ana Maria Constantin",
-      "description": "Anyone who found the address of a Grok Build app could open more than 35,000 of them, security firm Claroc found in research published on 10 November. Two dozen belonged to staff at SpaceXSI, the company that makes Grok. They held a confidential onboarding plan, a sales territory map and advertising proposals. SpaceXSI took its […] This story continues at The Next Web",
-      "link": "https://thenextweb.com/news/grok-build-apps-exposed-claroc-spacexsi",
-      "image": "https://media.thenextweb.com/2026/10/grok-logo-smartphone-laptop-keyboard.avif",
-      "feed_name": "The Next Web",
-      "feed_title": "The Next Web",
-      "category": "technology",
-      "feed_url": "https://thenextweb.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
     }
   ]
 }
