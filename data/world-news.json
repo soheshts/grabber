@@ -1,9 +1,51 @@
 {
   "category": "World News",
-  "updated": "2026-11-18T19:04:01.529566+00:00",
+  "updated": "2026-11-18T19:32:48.185375+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec",
+      "title": "Trump, Xi and Putin Shake Hands as Leaders Gather in China",
+      "published": "2026-11-18T19:20:23+00:00",
+      "author": "The New York Times",
+      "description": "China’s leader, Xi Jinping, earlier hugged President Trump on the tarmac as he arrived for a regional summit in Shenzhen. They are expected to hold a trilateral meeting on Thursday with President Vladimir V. Putin of Russia.",
+      "link": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec",
+      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18trump-summits-promo6am/18trump-summits-promo6am-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "108554125",
+      "title": "Vance scraps schedule to address tech outages as Trump admin insists incidents aren't linked",
+      "published": "2026-11-18T19:17:27+00:00",
+      "author": null,
+      "description": "Recent disruptions include a nationwide ground stop, Microsoft Outlook outage and a reported blackout of the National Security Agency's communications network.",
+      "link": "https://www.cnbc.com/2026/11/18/trump-tech-outages-nsa-faa-microsoft.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108553257-1795011104926-108553257-1794934447351-gettyimages-2271847749-boivin-notitle260421_npQYY.jpg?v=1795011114&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/rest-of-world/a-canadian-son-believed-family-company-shares-entitled-him-to-property-assets-but-his-fathers-estate-plans-favoured-his-sister-a-judge-rejected-his-claim-while-ordering-the-companies-to-release-financial-records/articleshow/135968608.cms",
+      "title": "Canadian judge rejects son's inheritance claim but orders family firms to disclose financial records",
+      "published": "2026-11-18T18:44:33+00:00",
+      "author": "TOI World Desk",
+      "description": "In a recent legal dispute, a son faced a setback in his claims over family companies and property ownership. He believed his shareholder status gave him rights to specific assets within those firms. However, the court clarified that his view of shareholder entitlements was flawed, emphasizing that his rights pertained only to his investment. While his oppression claim was dismissed, he was permitted access to the company's financial documentation.",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/a-canadian-son-believed-family-company-shares-entitled-him-to-property-assets-but-his-fathers-estate-plans-favoured-his-sister-a-judge-rejected-his-claim-while-ordering-the-companies-to-release-financial-records/articleshow/135968608.cms",
+      "image": "https://static.toiimg.com/photo/msid-135970107,imgsize-1641790.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
     {
       "id": "108552319",
       "title": "One of AI's most notorious 'doomers' stands to make billions in Anthropic's IPO",
@@ -129,20 +171,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec",
-      "title": "Trump, Xi and Putin Shake Hands as Leaders Gather in China",
-      "published": "2026-11-18T17:52:34+00:00",
-      "author": "The New York Times",
-      "description": "China’s leader, Xi Jinping, earlier hugged President Trump on the tarmac as he arrived for a regional summit in Shenzhen. They are expected to hold a trilateral meeting on Thursday with President Vladimir V. Putin of Russia.",
-      "link": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18trump-summits-promo6am/18trump-summits-promo6am-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://www.nytimes.com/2026/11/18/world/asia/trump-xi-putin-summit-yalta.html",
@@ -334,20 +362,6 @@
       "description": "Anthropic stock is set to begin trading on the Nasdaq under the ticker symbol ANT on Thursday.",
       "link": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
       "image": "https://image.cnbcfm.com/api/v1/image/108550657-1794523910753-108550657-1794523778580-gettyimages-2235057510-yeh_8158_95i9s3ni_kxuzy9en_yn8fiozr.jpeg?v=1794523924&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "108554125",
-      "title": "Vance scraps schedule to address tech outages as Trump admin insists incidents aren't linked",
-      "published": "2026-11-18T17:11:11+00:00",
-      "author": null,
-      "description": "Recent disruptions include a nationwide ground stop, Microsoft Outlook outage and a reported blackout of the National Security Agency's communications network.",
-      "link": "https://www.cnbc.com/2026/11/18/trump-tech-outages-nsa-faa-microsoft.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108553257-1795011104926-108553257-1794934447351-gettyimages-2271847749-boivin-notitle260421_npQYY.jpg?v=1795011114&w=1920&h=1080",
       "feed_name": "CNBC",
       "feed_title": "International: Top News And Analysis",
       "category": "World News",
@@ -13989,20 +14003,6 @@
       "category": "World News",
       "feed_url": "https://www.reddit.com/r/worldnews/.rss",
       "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/1-500-migrants-arrive-in-spains-canary-islands-in-a-day-highest-since-2020-12329732#publisher=newsstand",
-      "title": "1,500 Migrants Arrive In Spain's Canary Islands In A Day, Highest Since 2020",
-      "published": "2026-11-15T10:27:53+00:00",
-      "author": null,
-      "description": "One boat on Saturday was carrying 240 people, including 12 women and 36 children",
-      "link": "https://www.ndtv.com/world-news/1-500-migrants-arrive-in-spains-canary-islands-in-a-day-highest-since-2020-12329732#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-11/0h29m8hk_migrant-canary-island_625x300_15_November_26.jpeg",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     }
   ]
 }

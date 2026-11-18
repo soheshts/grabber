@@ -1,9 +1,23 @@
 {
   "category": "fashion",
-  "updated": "2026-11-18T19:04:01.529566+00:00",
+  "updated": "2026-11-18T19:32:48.185375+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/11/18/style/tiny-modern-love-stories-my-fathers-cigarette-mule.html",
+      "title": "Tiny Love Stories: ‘My Father’s Cigarette Mule’",
+      "published": "2026-11-18T19:07:30+00:00",
+      "author": null,
+      "description": "Modern Love in miniature, featuring reader-submitted stories of no more than 100 words.",
+      "link": "https://www.nytimes.com/2026/11/18/style/tiny-modern-love-stories-my-fathers-cigarette-mule.html",
+      "image": "https://static01.nyt.com/images/2021/02/23/style/00MARCH-TINYLOVEILLO3-copy/00MARCH-TINYLOVEILLO3-copy-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Style",
+      "feed_title": "NYT > Style",
+      "category": "fashion",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "http://www.elle.com/fashion/shopping/a74453799/best-gifts-under-50-ideas-2026/",
       "title": "The Best Gifts Under $50 That Look Like a Splurge",
@@ -13989,20 +14003,6 @@
       "category": "fashion",
       "feed_url": "https://www.whowhatwear.com/rss",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.whowhatwear.com&sz=64"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/10/28/style/tiny-modern-love-stories-turn-off-that-dirge.html",
-      "title": "Tiny Love Stories: ‘Turn Off That Dirge!’",
-      "published": "2026-10-28T19:15:03+00:00",
-      "author": null,
-      "description": "Modern Love in miniature, featuring reader-submitted stories of no more than 100 words.",
-      "link": "https://www.nytimes.com/2026/10/28/style/tiny-modern-love-stories-turn-off-that-dirge.html",
-      "image": "https://static01.nyt.com/images/2020/10/24/style/00OCT-TINYLOVE-ILLO3-copy/00OCT-TINYLOVE-ILLO3-copy-mediumSquareAt3X.jpg",
-      "feed_name": "NYT > Style",
-      "feed_title": "NYT > Style",
-      "category": "fashion",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     }
   ]
 }
