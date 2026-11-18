@@ -1,9 +1,51 @@
 {
   "category": "DIY",
-  "updated": "2026-11-18T20:32:18.370125+00:00",
+  "updated": "2026-11-18T21:02:58.694420+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/microsoft-is-phasing-out-ntlm/",
+      "title": "Windows is about to switch off a login system it has relied on for 30 years",
+      "published": "2026-11-18T21:01:17+00:00",
+      "author": "Afam Onyimadu",
+      "description": "A patch can’t repair a design that trusts whoever asks.",
+      "link": "https://www.makeuseof.com/microsoft-is-phasing-out-ntlm/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/windows-11-build-information.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/this-hidden-samsung-tool-reveals-what-your-galaxy-phone-is-doing-behind-your-back/",
+      "title": "This hidden Samsung tool reveals what your Galaxy phone is doing behind your back",
+      "published": "2026-11-18T21:01:15+00:00",
+      "author": "Tyler Dupont",
+      "description": "Get detailed logs of every background event on your Galaxy device.",
+      "link": "https://www.howtogeek.com/this-hidden-samsung-tool-reveals-what-your-galaxy-phone-is-doing-behind-your-back/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/20261117_114408-3.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.makeuseof.com/your-idle-pc-could-be-eating-your-ssd-alive-because-of-this-nvidia-driver-bug/",
+      "title": "Your idle PC could be eating your SSD alive because of this NVIDIA driver bug",
+      "published": "2026-11-18T20:47:42+00:00",
+      "author": "Sara Heritage",
+      "description": "Background logging bug in recent NVIDIA Game Ready drivers triggers relentless nvlog.nvlgstg overwrites while idle.",
+      "link": "https://www.makeuseof.com/your-idle-pc-could-be-eating-your-ssd-alive-because-of-this-nvidia-driver-bug/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/09/img_2905.JPG",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/things-you-can-automate-with-smart-home-gadgets/",
       "title": "5 things you can automate without owning a single smart home gadget",
@@ -13961,48 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.makeuseof.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/japandi-models-popular-3d-printing-world/",
-      "title": "“Japandi” models are so popular in the 3D printing world for one simple reason",
-      "published": "2026-11-05T15:00:15+00:00",
-      "author": "Tim Brookes",
-      "description": "There are lots of reason to love the style, but one rises above them all.",
-      "link": "https://www.howtogeek.com/japandi-models-popular-3d-printing-world/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/11/japandi-towel-hooks-by-yekta-on-makerworld.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/dune-rendezvous-with-rama-denis-villeneuve/",
-      "title": "The genius behind Dune is adapting another classic sci-fi book that’s even better",
-      "published": "2026-11-05T14:30:17+00:00",
-      "author": "Dan Selcke",
-      "description": "The Dune trilogy is coming to an end. What follows could be even more exciting.",
-      "link": "https://www.makeuseof.com/dune-rendezvous-with-rama-denis-villeneuve/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2026/11/denis-villeneuve-alongside-the-book-covers-of-dune-and-rendezvous-with-rama-against-a-blue-background.png",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/stop-trusting-hotel-wi-fi-build-this-raspberry-pi-travel-router-instead/",
-      "title": "Stop trusting hotel Wi-Fi: Build this Raspberry Pi travel router instead",
-      "published": "2026-11-05T14:30:16+00:00",
-      "author": "Nick Lewis",
-      "description": "A Raspberry Pi turns a travel router into a self-hosting Swiss army knife",
-      "link": "https://www.howtogeek.com/stop-trusting-hotel-wi-fi-build-this-raspberry-pi-travel-router-instead/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/07/usb-ethernet-adapter-on-raspberry-pi-4-openwrt-router.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
     }
   ]
 }
