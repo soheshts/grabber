@@ -1,9 +1,23 @@
 {
   "category": "gaming",
-  "updated": "2026-11-18T19:32:48.185375+00:00",
+  "updated": "2026-11-18T20:03:33.842613+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://kotaku.com/?p=2000758119",
+      "title": "Barbie Rewind Is Here To Remind Me Of The Pink Childhood I Forgot I Loved",
+      "published": "2026-11-18T20:00:44+00:00",
+      "author": "Rebekah Valentine",
+      "description": "It’s the color of the world",
+      "link": "https://kotaku.com/barbie-rewind-is-here-to-remind-me-of-the-pink-childhood-i-forgot-i-loved-2000758119",
+      "image": "https://kotaku.com/app/uploads/2026/11/barbie2-1280x720.jpg",
+      "feed_name": "Kotaku",
+      "feed_title": "Kotaku",
+      "category": "gaming",
+      "feed_url": "https://kotaku.com/rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=kotaku.com&sz=64"
+    },
     {
       "id": "https://www.polygon.com/gta-6-rockstar-lummox-county/",
       "title": "GTA 6's Completely Unrealistic Mountains Had to Be in the Game, Rockstar Says",
@@ -871,6 +885,20 @@
       "category": "gaming",
       "feed_url": "http://feeds.ign.com/ign/all",
       "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
+    },
+    {
+      "id": "urn:uuid:594e00eb-5f10-494e-93e8-66defc23876b",
+      "title": "Grand Theft Auto VI launches tomorrow, November 19",
+      "published": "2026-11-18T16:00:23+00:00",
+      "author": "R*Q",
+      "description": "Jason and Lucia have always known the deck is stacked against them. But when an easy score goes wrong, they find themselves on the darkest side of the sunniest place in America, in the middle of a criminal conspiracy stretching across the state of Leonida — forced to rely on each other more than ever […]",
+      "link": "https://blog.playstation.com/2026/11/18/grand-theft-auto-vi-launches-tomorrow-november-19/",
+      "image": "https://live.staticflickr.com/65535/55656550652_ae44cc16c0_k.jpg",
+      "feed_name": "PlayStation.Blog",
+      "feed_title": "PlayStation.Blog",
+      "category": "gaming",
+      "feed_url": "http://feeds.feedburner.com/psblog",
+      "feed_icon": "https://blog.playstation.com/tachyon/2019/03/cropped-pslogo.png?fit=32%2C32"
     },
     {
       "id": "1962200",
@@ -13975,34 +14003,6 @@
       "category": "gaming",
       "feed_url": "https://www.polygon.com/rss/index.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.polygon.com&sz=64"
-    },
-    {
-      "id": "https://kotaku.com/?p=2000756082",
-      "title": "Vibecoded Pokémon Fan Project Developer Is Outraged At AI Clampdowns On IP Infringement After Spending Thousands Per Month",
-      "published": "2026-11-12T11:00:24+00:00",
-      "author": "Alicia Haddick",
-      "description": "They insist the game will still release, but lament it’s harder to get Claude to make the game for them",
-      "link": "https://kotaku.com/pokemon-arena-2d-fan-project-vibe-coded-claude-ai-big-kid-nation-2000756082",
-      "image": "https://kotaku.com/app/uploads/2026/11/Pokemon-Officer-Jenny-1280x691.jpg",
-      "feed_name": "Kotaku",
-      "feed_title": "Kotaku",
-      "category": "gaming",
-      "feed_url": "https://kotaku.com/rss",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=kotaku.com&sz=64"
-    },
-    {
-      "id": "1957370",
-      "title": "Nvidia CEO Jensen Huang Resigns, Effective Immediately",
-      "published": "2026-11-12T10:43:30+00:00",
-      "author": "Darryn Bonthuys",
-      "description": "Nvidia has announced that Jensen Huang has resigned as president and CEO of the company, effective immediately. Nvidia's current Chief Financial Officer, Colette Kress, will serve as interim CEO while keeping her CFO duties until a permanent replacement for Huang can be found. Harvey C. Jones, a longtime tech executive and investor, has been appointed as Nvidia's first-ever Chair of the Board, and the company says that operations, product plans, and customer commitments will continue without in…",
-      "link": "https://www.gamespot.com/articles/nvidias-board-is-weighing-jensen-huangs-future-after-second-affair-revelation/",
-      "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Jensen-Huang-CTC-2026.jpg?w=300",
-      "feed_name": "GameSpot - All Content",
-      "feed_title": "GameSpot - All Content",
-      "category": "gaming",
-      "feed_url": "https://www.gamespot.com/feeds/mashup/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.gamespot.com&sz=64"
     }
   ]
 }

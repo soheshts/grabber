@@ -1,9 +1,23 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-18T19:32:48.185375+00:00",
-  "count": 438,
+  "updated": "2026-11-18T20:03:33.842613+00:00",
+  "count": 439,
   "summary": null,
   "items": [
+    {
+      "id": "https://katiekodes.com/sql-server-iac",
+      "title": "IAC for your SQL Server databases",
+      "published": "2026-11-18T15:00:00+00:00",
+      "author": "Katie",
+      "description": "ORM vs. IAC in your CI/CD",
+      "link": "https://katiekodes.com/sql-server-iac/",
+      "image": "https://res.cloudinary.com/kkcl/image/upload/t_kkogfbk/w_750,h_380,c_fit,co_white,g_north_west,x_80,y_190,l_text:Inter-bold.otf_80_bold:IAC%20for%20your%20SQL%20Server%20databases/t_wKK/kk-og-bg-roomier.jpg",
+      "feed_name": "Katie Kodes",
+      "feed_title": "Katie Kodes",
+      "category": "personal blogs",
+      "feed_url": "https://katiekodes.com/feed.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=katiekodes.com&sz=64"
+    },
     {
       "id": "https://www.baldurbjarnason.com/notes/photos/autumn-fields-and-horses-2026/",
       "title": "Autumn fields and horses",
