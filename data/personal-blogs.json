@@ -1,9 +1,23 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-18T20:03:33.842613+00:00",
-  "count": 439,
+  "updated": "2026-11-18T20:32:18.370125+00:00",
+  "count": 440,
   "summary": null,
   "items": [
+    {
+      "id": "https://katiekodes.com/pim-entra-app-role",
+      "title": "PIM for Entra App Registration custom app role assignments",
+      "published": "2026-11-18T16:00:00+00:00",
+      "author": "Katie",
+      "description": "Ermahgerd finally, zero standing privilege potential",
+      "link": "https://katiekodes.com/pim-entra-app-role/",
+      "image": "https://katiekodes.com/images/ermahgerd-pim-app-roles.jpg",
+      "feed_name": "Katie Kodes",
+      "feed_title": "Katie Kodes",
+      "category": "personal blogs",
+      "feed_url": "https://katiekodes.com/feed.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=katiekodes.com&sz=64"
+    },
     {
       "id": "https://katiekodes.com/sql-server-iac",
       "title": "IAC for your SQL Server databases",

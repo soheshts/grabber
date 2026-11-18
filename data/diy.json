@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-18T20:03:33.842613+00:00",
+  "updated": "2026-11-18T20:32:18.370125+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.howtogeek.com/things-you-can-automate-with-smart-home-gadgets/",
+      "title": "5 things you can automate without owning a single smart home gadget",
+      "published": "2026-11-18T20:31:16+00:00",
+      "author": "Adam Davidson",
+      "description": "Big Smart Bulb doesn't want you to know this.",
+      "link": "https://www.howtogeek.com/things-you-can-automate-with-smart-home-gadgets/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/08/an-iphone-showing-a-home-assistant-dashboard-for-using-screen-time-earned-by-completing-chores.png",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.makeuseof.com/type-a-new-prompt-mid-stroll-and-googles-ai-world-changes-around-you/",
+      "title": "Type a new prompt mid-stroll and Google's AI world changes around you",
+      "published": "2026-11-18T20:20:19+00:00",
+      "author": "Anvinraj Valiyathara",
+      "description": "Google's Genie 4 adds live prompts and sound to AI worlds, for Ultra 20x subscribers only",
+      "link": "https://www.makeuseof.com/type-a-new-prompt-mid-stroll-and-googles-ai-world-changes-around-you/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/project-genie-web-page.png",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/ive-found-a-private-open-source-keyboard-that-keeps-gboards-best-features/",
       "title": "I've found a private open-source keyboard that keeps Gboard's best features",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/firefoxs-big-redesign-pushed-me-to-a-browser-most-people-have-never-heard-of/",
-      "title": "Firefox's big redesign pushed me to a browser most people have never heard of",
-      "published": "2026-11-05T14:15:22+00:00",
-      "author": "Isaac Akinleye",
-      "description": "I went looking for the old Firefox. I found Floorp and more.",
-      "link": "https://www.makeuseof.com/firefoxs-big-redesign-pushed-me-to-a-browser-most-people-have-never-heard-of/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/floorp-browser.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/turned-usb-stick-into-my-personal-security-toolkit-it-cost-nothing/",
-      "title": "I turned a USB stick into my personal security toolkit, and it cost nothing",
-      "published": "2026-11-05T14:00:17+00:00",
-      "author": "Afam Onyimadu",
-      "description": "I turned a simple USB stick into a portable security toolkit for encryption, malware defense, and privacy.",
-      "link": "https://www.makeuseof.com/turned-usb-stick-into-my-personal-security-toolkit-it-cost-nothing/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/05/usb-drives-in-hand-2.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }
