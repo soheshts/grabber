@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-18T04:32:41.817394+00:00",
-  "count": 437,
+  "updated": "2026-11-18T05:03:05.286786+00:00",
+  "count": 436,
   "summary": null,
   "items": [
     {
@@ -5393,20 +5393,6 @@
       "category": "personal blogs",
       "feed_url": "http://mattgemmell.com/atom.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=mattgemmell.scot&sz=64"
-    },
-    {
-      "id": "https://ronaldsvilcins.com/2026/10/19/choosing-between-srcset-and-picture/",
-      "title": "Choosing Between srcset and picture",
-      "published": "2026-10-19T05:00:00+00:00",
-      "author": "Ronalds Vilciņš",
-      "description": "Choose srcset when the image stays the same and picture when the crop, composition, or format needs to change.",
-      "link": "https://ronaldsvilcins.com/2026/10/19/choosing-between-srcset-and-picture/",
-      "image": null,
-      "feed_name": "Ronalds Vilciņš",
-      "feed_title": "Ronalds Vilciņš",
-      "category": "personal blogs",
-      "feed_url": "https://ronaldsvilcins.com/atom.xml",
-      "feed_icon": "https://ronaldsvilcins.com/favicon.png"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
