@@ -1,9 +1,51 @@
 {
   "category": "DIY",
-  "updated": "2026-11-18T18:32:48.725249+00:00",
+  "updated": "2026-11-18T19:04:01.529566+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/android-vs-esp32-network-scanning/",
+      "title": "I tested my Android vs. my ESP32 for network scanning, and the winner wasn’t what I expected",
+      "published": "2026-11-18T19:00:16+00:00",
+      "author": "Yadullah Abidi",
+      "description": "On paper my Pixel wins. In practice, a chip cheaper than coffee did.",
+      "link": "https://www.makeuseof.com/android-vs-esp32-network-scanning/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/wifi-analyzer-on-pixel-9a-with-esp32-on-a-cutting-mat.JPG",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/i-made-my-tv-remember-what-i-was-watching/",
+      "title": "I made my TV remember what I was watching so I don’t have to",
+      "published": "2026-11-18T19:00:15+00:00",
+      "author": "Adam Davidson",
+      "description": "I can never remember that I was watching Total Recall.",
+      "link": "https://www.howtogeek.com/i-made-my-tv-remember-what-i-was-watching/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/an-lg-tv-showing-a-screen-saying-last-night-and-checking-your-last-evening.png",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.makeuseof.com/samsungs-privacy-display-auto-locks-gallery-albums-secret-browser-tabs-notes/",
+      "title": "Samsung's Privacy display now auto-locks your private Gallery albums, Secret Browser tabs, and notes",
+      "published": "2026-11-18T18:49:35+00:00",
+      "author": "Vineet Washington",
+      "description": "It keeps getting smarter.",
+      "link": "https://www.makeuseof.com/samsungs-privacy-display-auto-locks-gallery-albums-secret-browser-tabs-notes/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/03/galaxy-s26-ultra-privacy-display-on-right.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/microsoft-wants-you-to-use-a-pin-instead-of-a-password-for-a-reason/",
       "title": "Microsoft wants you to use a PIN instead of a password for a reason",
@@ -13961,48 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/jellyfins-watch-parties-were-missing-something-and-this-plugin-fixes-it/",
-      "title": "My Jellyfin watch parties felt incomplete until I added this chatroom plugin",
-      "published": "2026-11-05T13:00:17+00:00",
-      "author": "Shaheer Khan",
-      "description": "JellyChat sits on top of SyncPlay and requires no additional configuration.",
-      "link": "https://www.makeuseof.com/jellyfins-watch-parties-were-missing-something-and-this-plugin-fixes-it/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/jellyfin-chat-room.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.apartmenttherapy.com/pink-red-striped-hallway-budget-makeover-ba-37698347",
-      "title": "I Gave My Boring Hallway a Colorful Makeover for Only $100",
-      "published": "2026-11-05T13:00:00+00:00",
-      "author": "Anne-Marie Trabolsi",
-      "description": "I’ve been a renter my entire adult life. Being a renter who loves color and maximalist style has always been a bit of a challenge, so mostly, my style has come from the furniture and tchotchkes I shove into my space. But after moving to LA and finding the chillest landlord ever, I finally went all in with paint in my apartment, which I share with my fiancé, who also loves color and whimsy. Our hallway project started with a folding shelf I inherited from my grandparents. READ MORE...",
-      "link": "https://www.apartmenttherapy.com/pink-red-striped-hallway-budget-makeover-ba-37698347?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+projects",
-      "image": "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2025/june/anne-marie-t-hallway/anne-marie-t-hallway-before-tag",
-      "feed_name": "Apartment Therapy| Saving the world, one room at a time",
-      "feed_title": "Apartment Therapy| Saving the world, one room at a time",
-      "category": "DIY",
-      "feed_url": "https://www.apartmenttherapy.com/projects.rss",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.apartmenttherapy.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/software-habits-quietly-hammering-your-ssd-with-unnecessary-writes/",
-      "title": "4 software habits quietly hammering your SSD with unnecessary writes",
-      "published": "2026-11-05T12:30:17+00:00",
-      "author": "Oluwaseun Bamisile",
-      "description": "Every SSD has a finite number of writes.",
-      "link": "https://www.makeuseof.com/software-habits-quietly-hammering-your-ssd-with-unnecessary-writes/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/gigabyte-512gb-nvme-ssd.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }
