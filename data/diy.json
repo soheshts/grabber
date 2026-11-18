@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-18T11:04:05.452589+00:00",
+  "updated": "2026-11-18T11:33:40.165573+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/activitytrace-android-recall-app-without-cloud/",
+      "title": "This app gives my Android phone its own version of Windows Recall, and nothing leaves the device",
+      "published": "2026-11-18T11:30:16+00:00",
+      "author": "Oluwademilade Afolabi",
+      "description": "I finally have a search bar for my own terrible memory.",
+      "link": "https://www.makeuseof.com/activitytrace-android-recall-app-without-cloud/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/samsung-galaxy-s24-ultra-displaying-activitytrace-s-search-interface-and-activity-statistics.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/what-that-mysterious-triangle-icon-on-your-samsung-galaxy-status-bar-means/",
+      "title": "What that mysterious triangle icon on your Samsung Galaxy status bar means",
+      "published": "2026-11-18T11:30:15+00:00",
+      "author": "Cory Gunther",
+      "description": "That weird icon is trying to tell you something.",
+      "link": "https://www.howtogeek.com/what-that-mysterious-triangle-icon-on-your-samsung-galaxy-status-bar-means/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/samsung-galaxy-status-bar-of-icons-and-buttons.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/nextcloud-onlyoffice-license-dispute/",
       "title": "Nextcloud and OnlyOffice broke up over a license most self-hosters have never read",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/using-node-red-for-smart-home/",
-      "title": "Node-RED is used to create escape rooms—here's why I use it for my smart home",
-      "published": "2026-11-04T17:01:17+00:00",
-      "author": "Adam Davidson",
-      "description": "Go with the flow.",
-      "link": "https://www.howtogeek.com/using-node-red-for-smart-home/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/a-flow-in-node-red-showing-multiple-connected-nodes-for-a-remote-automation.png",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/samsung-galaxy-screen-dimming-sunlight-fix/",
-      "title": "My Galaxy screen kept dimming in sunlight until I turned off this hidden setting",
-      "published": "2026-11-04T17:00:18+00:00",
-      "author": "Digvijay Kumar",
-      "description": "Something was capping my screen brightness, and it wasn’t the sun.",
-      "link": "https://www.makeuseof.com/samsung-galaxy-screen-dimming-sunlight-fix/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/samsung-galaxy-phone-showing-thermal-guardian-temperature-graph.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }
