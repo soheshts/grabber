@@ -1,13 +1,55 @@
 {
   "category": "World News",
-  "updated": "2026-11-18T04:02:58.413231+00:00",
+  "updated": "2026-11-18T04:32:41.817394+00:00",
   "count": 1000,
   "summary": null,
   "items": [
     {
+      "id": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit",
+      "title": "Live Updates: Trump Meets Philippine Leader Before Flying to China",
+      "published": "2026-11-18T04:28:33+00:00",
+      "author": "The New York Times",
+      "description": "The next stop on President Trump’s whirlwind Asia trip is the city of Shenzhen, where he is expected to meet with Xi Jinping of China and President Vladimir V. Putin of Russia.",
+      "link": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit",
+      "image": "https://static01.nyt.com/images/2026/12/17/multimedia/17trump-summits-promo2315/17trump-summits-promo2315-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "108553729",
+      "title": "Putin says EU is losing industry, falling behind competition ahead of meeting with Trump, Xi",
+      "published": "2026-11-18T04:27:45+00:00",
+      "author": null,
+      "description": "Putin used the speech to emphasize Russia's economic resilience despite U.S. sanctions, and played up opportunities for APEC members in the country.",
+      "link": "https://www.cnbc.com/2026/11/18/putin-apec-eu-trump-xi-meeting.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108357338-17882956722026-09-01t202652z_1592493099_rc2kanafmyaj_rtrmadp_0_sco-summit-kyrgyzstan-putin-briefing.jpeg?v=1788295701&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
+      "title": "Apec summit live: Xi and Putin give opening speeches as world leaders gather in China",
+      "published": "2026-11-18T04:18:23+00:00",
+      "author": "Kate Lamb",
+      "description": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec? Explained in 30 seconds The Asia Group’s George Chen is at the CEO summit and sent the Guardian some thoughts on Xi’s speech, which he said was “largely expected”, featuring technology and innovation prominently. Xi positioned China as “a force for stability and predictability in an increasingly unce…",
+      "link": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
+      "image": "https://i.guim.co.uk/img/media/589fb27f8f79d948cff721aaf17763911725791b/187_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=74162f107435951be386f3f30a477377",
+      "feed_name": "The Guardian",
+      "feed_title": "World news | The Guardian",
+      "category": "World News",
+      "feed_url": "https://www.theguardian.com/world/rss",
+      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
+    {
       "id": "108553770",
       "title": "Democrat Mary Peltola wins Alaska Senate election",
-      "published": "2026-11-18T03:56:12+00:00",
+      "published": "2026-11-18T04:18:13+00:00",
       "author": null,
       "description": "Peltola's defeat of incumbent Republican Dan Sullivan gives Democrats a solid majority of 56 seats in the Senate as of January.",
       "link": "https://www.cnbc.com/2026/11/18/alaska-senate-mary-peltola-wins-election.html",
@@ -19,37 +61,9 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
-      "id": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit",
-      "title": "Live Updates: Trump Meets Philippine Leader Before Flying to China",
-      "published": "2026-11-18T03:55:30+00:00",
-      "author": "The New York Times",
-      "description": "The next stop on President Trump’s whirlwind Asia trip is the city of Shenzhen, where he is expected to meet with Xi Jinping of China and President Vladimir V. Putin of Russia.",
-      "link": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit",
-      "image": "https://static01.nyt.com/images/2026/12/17/multimedia/17trump-summits-promo-2210-fhzg/17trump-summits-promo-2210-fhzg-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
-      "title": "Apec summit live: Xi and Putin speak as world leaders gather in China",
-      "published": "2026-11-18T03:53:27+00:00",
-      "author": "Kate Lamb",
-      "description": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec? Explained in 30 seconds We’re back for day two of the Apec CEO Summit in China’s southern tech hub of Shenzhen . Today the summit will be addressed by APEC leaders, with President Xi Jinping set to give a keynote speech . Bilateral meetings will continue on the sidelines, although the most eye-catchi…",
-      "link": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
-      "image": "https://i.guim.co.uk/img/media/589fb27f8f79d948cff721aaf17763911725791b/187_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=74162f107435951be386f3f30a477377",
-      "feed_name": "The Guardian",
-      "feed_title": "World news | The Guardian",
-      "category": "World News",
-      "feed_url": "https://www.theguardian.com/world/rss",
-      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
-    },
-    {
       "id": "https://www.nytimes.com/2026/11/17/world/asia/tech-outages-cyberattack-hack-rubio.html",
-      "title": "Cause of Recent Tech Outages Isn’t Hackers, Rubio Says",
-      "published": "2026-11-18T03:51:05+00:00",
+      "title": "Rubio Says Rush to Secure Systems May Be Causing Failures",
+      "published": "2026-11-18T04:13:22+00:00",
       "author": "David E. Sanger and Edward Wong",
       "description": "Secretary of State Marco Rubio suggested the rush to patch systems, whose vulnerabilities are exposed by A.I., may explain recent failures with air traffic controls, banks and government agencies.",
       "link": "https://www.nytimes.com/2026/11/17/world/asia/tech-outages-cyberattack-hack-rubio.html",
@@ -61,13 +75,13 @@
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
-      "id": "108553729",
-      "title": "Putin says EU is losing industry, falling behind competition ahead of meeting with Trump, Xi",
-      "published": "2026-11-18T03:49:04+00:00",
+      "id": "108553655",
+      "title": "'Who and what comes next': Analysts expect Nvidia investor uncertainty despite earnings beat",
+      "published": "2026-11-18T04:04:26+00:00",
       "author": null,
-      "description": "Putin used the speech to emphasize Russia's economic resilience despite U.S. sanctions, and played up opportunities for APEC members in the country.",
-      "link": "https://www.cnbc.com/2026/11/18/putin-apec-eu-trump-xi-meeting.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108357338-17882956722026-09-01t202652z_1592493099_rc2kanafmyaj_rtrmadp_0_sco-summit-kyrgyzstan-putin-briefing.jpeg?v=1788295701&w=1920&h=1080",
+      "description": "Nvidia’s Q3 results should help ease short-term concerns, but uncertainty remains around long-term leadership.",
+      "link": "https://www.cnbc.com/2026/11/18/nvidia-earnings-market-analysis.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108553117-1794927200120-gettyimages-2305495779-vcg111682688775.jpeg?v=1794927260&w=1920&h=1080",
       "feed_name": "CNBC",
       "feed_title": "International: Top News And Analysis",
       "category": "World News",
@@ -399,7 +413,7 @@
     {
       "id": "https://www.nytimes.com/2026/11/17/world/asia/xi-apec.html",
       "title": "Will a Spy Scandal, Trade Friction and a Surprise Guest Ruin Xi’s Big Moment?",
-      "published": "2026-11-18T02:11:26+00:00",
+      "published": "2026-11-18T02:11:27+00:00",
       "author": "David Pierson",
       "description": "The leader wants the APEC summit to showcase China’s strengths, but he faces export worries and an unpredictable Trump, who has floated meeting Kim Jong-un.",
       "link": "https://www.nytimes.com/2026/11/17/world/asia/xi-apec.html",
@@ -13989,20 +14003,6 @@
       "category": "World News",
       "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/us/walmart-outage-today-after-microsoft-disruption-payroll-hr-services-affected-in-11500-businesses-as-workday-goes-down/articleshow/135834677.cms",
-      "title": "Walmart outage today: After Microsoft disruption, payroll, HR services affected in 11,500 businesses as Workday goes down",
-      "published": "2026-11-14T14:06:30+00:00",
-      "author": "Poulomi Ghosh",
-      "description": "",
-      "link": "https://timesofindia.indiatimes.com/world/us/walmart-outage-today-after-microsoft-disruption-payroll-hr-services-affected-in-11500-businesses-as-workday-goes-down/articleshow/135834677.cms",
-      "image": "https://static.toiimg.com/photo/msid-135834959,imgsize-233778.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     }
   ]
 }

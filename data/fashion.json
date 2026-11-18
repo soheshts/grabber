@@ -1,9 +1,23 @@
 {
   "category": "fashion",
-  "updated": "2026-11-18T04:02:58.413231+00:00",
+  "updated": "2026-11-18T04:32:41.817394+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/11/17/style/human-cambridge-word-year-2026.html",
+      "title": "‘Human’ Is the Cambridge Dictionary’s Word of 2026",
+      "published": "2026-11-18T04:04:23+00:00",
+      "author": "Ginia Bellafante",
+      "description": "Every November, editors of the Cambridge Dictionary anoint a word of the year that captures the moment. The latest selection says a lot.",
+      "link": "https://www.nytimes.com/2026/11/17/style/human-cambridge-word-year-2026.html",
+      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17HUMAN-kqvf/17HUMAN-kqvf-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Style",
+      "feed_title": "NYT > Style",
+      "category": "fashion",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "https://www.nytimes.com/2026/11/17/style/annette-green-dead.html",
       "title": "Annette Green, ‘High Priestess’ of the Perfume World, Has Died at 102",
@@ -31,20 +45,6 @@
       "category": "fashion",
       "feed_url": "https://www.whowhatwear.com/rss",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.whowhatwear.com&sz=64"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/17/style/human-cambridge-word-year-2026.html",
-      "title": "‘Human’ Is the Cambridge Dictionary’s Word of 2026",
-      "published": "2026-11-18T00:01:04+00:00",
-      "author": "Ginia Bellafante",
-      "description": "Every November, editors of the Cambridge Dictionary anoint a word of the year that captures the moment. The latest selection says a lot.",
-      "link": "https://www.nytimes.com/2026/11/17/style/human-cambridge-word-year-2026.html",
-      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17HUMAN-kqvf/17HUMAN-kqvf-mediumSquareAt3X.jpg",
-      "feed_name": "NYT > Style",
-      "feed_title": "NYT > Style",
-      "category": "fashion",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://www.nytimes.com/2026/11/17/style/farrar-straus-giroux-80-anniversary-party.html",
