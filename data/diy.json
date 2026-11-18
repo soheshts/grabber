@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-18T03:03:34.227088+00:00",
+  "updated": "2026-11-18T03:33:43.815816+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://hackaday.com/?p=1428594",
+      "title": "Coding on Windows? Redmond May Already Know.",
+      "published": "2026-11-18T03:00:42+00:00",
+      "author": "Tyler August",
+      "description": "File this one under “shocked, but not that shocked”– hacker [Xusheng Li] did some digging on a recent Windows 11 build and found that it seems to be phoning home …read more",
+      "link": "https://hackaday.com/2026/11/17/coding-on-windows-redmond-may-already-know/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/agent-names.jpeg",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/save-132-on-garmins-vivoactive-5-smartwatch-and-track-your-health-for-less/",
       "title": "Save $132 on Garmin's vivoactive 5 smartwatch and track your health for less",
@@ -87,6 +101,20 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.apartmenttherapy.com/forest-mural-bathroom-makeover-37695055",
+      "title": "An “Otherworldly” Renter-Friendly Mural Covers the Walls of This Once Plain Bathroom",
+      "published": "2026-11-17T23:00:00+00:00",
+      "author": "Cullen Ormond",
+      "description": "She plans to add Easter eggs into the mural. READ MORE...",
+      "link": "https://www.apartmenttherapy.com/forest-mural-bathroom-makeover-37695055?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+projects",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2026/2026-11/melissa-b-bathroom/melissa-b-bathroom-before-tag",
+      "feed_name": "Apartment Therapy| Saving the world, one room at a time",
+      "feed_title": "Apartment Therapy| Saving the world, one room at a time",
+      "category": "DIY",
+      "feed_url": "https://www.apartmenttherapy.com/projects.rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.apartmenttherapy.com&sz=64"
     },
     {
       "id": "https://www.makeuseof.com/i-opened-windows-11s-diagnostic-data-viewer-and-heres-what-my-pc-was-actually-sending-microsoft/",
@@ -13970,34 +13998,6 @@
       "description": "Boost your signal with your speaker.",
       "link": "https://www.makeuseof.com/my-amazon-echo-has-been-hiding-a-second-job-and-its-not-playing-music/",
       "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/01/echo-dot.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/home-assistant-speaks-infrared-now-and-this-10-esp32-is-all-it-needs/",
-      "title": "Home Assistant speaks infrared now, and this $10 ESP32 is all it needs",
-      "published": "2026-11-04T16:00:15+00:00",
-      "author": "Patrick Campanale",
-      "description": "No account, no app, no internet—just an IR LED and ESPHome.",
-      "link": "https://www.howtogeek.com/home-assistant-speaks-infrared-now-and-this-10-esp32-is-all-it-needs/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/esp32-ir-blaster-under-tcl-tv.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/android-is-getting-automatic-photo-backups-without-relying-on-the-cloud/",
-      "title": "Android is getting automatic photo backups without relying on the cloud",
-      "published": "2026-11-04T15:41:01+00:00",
-      "author": "Hamed Paydarfar",
-      "description": "Automatic local backups arrive as an option to keep photos on your own hard drive and skip recurring cloud storage fees.",
-      "link": "https://www.makeuseof.com/android-is-getting-automatic-photo-backups-without-relying-on-the-cloud/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/01/aves-gallery-app-home-photos-grid.png",
       "feed_name": "MUO - Feed",
       "feed_title": "MakeUseOf",
       "category": "DIY",
