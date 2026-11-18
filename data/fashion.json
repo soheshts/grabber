@@ -1,9 +1,23 @@
 {
   "category": "fashion",
-  "updated": "2026-11-17T23:32:44.509826+00:00",
+  "updated": "2026-11-18T00:03:35.358288+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/11/17/style/human-cambridge-word-year-2026.html",
+      "title": "‘Human’ Is the Cambridge Dictionary’s Word of 2026",
+      "published": "2026-11-18T00:01:04+00:00",
+      "author": "Ginia Bellafante",
+      "description": "Every November, editors of the Cambridge Dictionary anoint a word of the year that captures the moment. The latest selection says a lot.",
+      "link": "https://www.nytimes.com/2026/11/17/style/human-cambridge-word-year-2026.html",
+      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17HUMAN-kqvf/17HUMAN-kqvf-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Style",
+      "feed_title": "NYT > Style",
+      "category": "fashion",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "https://www.nytimes.com/2026/11/17/style/farrar-straus-giroux-80-anniversary-party.html",
       "title": "FSG’s 80th Anniversary Party: Literary Stars, Bowls of Cigarettes and Jeffrey Eugenides",
@@ -13989,20 +14003,6 @@
       "category": "fashion",
       "feed_url": "https://www.whowhatwear.com/rss",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.whowhatwear.com&sz=64"
-    },
-    {
-      "id": "http://www.elle.com/fashion/shopping/a74120985/ralph-lauren-christmas-decor-trend-2026/",
-      "title": "The Ralph Lauren-Inspired Christmas Décor Trend That Feels Timeless",
-      "published": "2026-10-27T19:56:29+00:00",
-      "author": null,
-      "description": "Think tartan, equestrian touches, and vintage charm.",
-      "link": "https://www.elle.com/fashion/shopping/a74120985/ralph-lauren-christmas-decor-trend-2026/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/69cee5e1-f3b8-4b0b-b116-bb653c447aa7.jpg?crop=1xw:0.4xh;0xw,0.215xh&resize=1200:*",
-      "feed_name": "Fashion - ELLE",
-      "feed_title": "Fashion - ELLE",
-      "category": "fashion",
-      "feed_url": "https://www.elle.com/rss/fashion.xml/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.elle.com&sz=64"
     }
   ]
 }

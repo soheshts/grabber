@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-17T23:32:44.509826+00:00",
-  "count": 439,
+  "updated": "2026-11-18T00:03:35.358288+00:00",
+  "count": 437,
   "summary": null,
   "items": [
     {
@@ -5407,34 +5407,6 @@
       "category": "personal blogs",
       "feed_url": "https://ronaldsvilcins.com/atom.xml",
       "feed_icon": "https://ronaldsvilcins.com/favicon.png"
-    },
-    {
-      "id": "https://www.mikestreety.co.uk/blog/an-unexpected-hostname-and-how-i-checked-before-i-panicked/",
-      "title": "An unexpected hostname and how I checked before I panicked",
-      "published": "2026-10-19T00:00:00+00:00",
-      "author": null,
-      "description": "The other day I opened my terminal and noticed I was mike@Clearpeak. Considering this was my work computer (and Liquid Light is nothing like Clearpeak) alarm bells started ringing. Before I engaged code-red protocol and suspected a hack, I thought I would check as to where it was coming from. FINDING THE SOURCE My first port-of-call was to ask Claude how I can check where it was coming from. It gave me 4 commands to verify the identity scutil --get HostName scutil --get LocalHostName scutil --g…",
-      "link": "https://www.mikestreety.co.uk/blog/an-unexpected-hostname-and-how-i-checked-before-i-panicked/",
-      "image": null,
-      "feed_name": "Mike Street's Blog",
-      "feed_title": "Mike Street's Blog",
-      "category": "personal blogs",
-      "feed_url": "https://www.mikestreety.co.uk/rss",
-      "feed_icon": "https://www.mikestreety.co.uk/assets/img/favicon-512.png"
-    },
-    {
-      "id": "https://blog.damato.design/posts/tiers-of-sorrow",
-      "title": "Tiers of Sorrow",
-      "published": "2026-10-19T00:00:00+00:00",
-      "author": "Donnie D'Amato",
-      "description": "Tiers can be confusing, so let's improve them",
-      "link": "https://blog.damato.design/posts/tiers-of-sorrow",
-      "image": null,
-      "feed_name": "blog.damato.design",
-      "feed_title": "blog.damato.design",
-      "category": "personal blogs",
-      "feed_url": "https://blog.damato.design/feed.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=blog.damato.design&sz=64"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
