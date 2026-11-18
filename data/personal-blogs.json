@@ -1,9 +1,51 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-18T12:33:41.890286+00:00",
-  "count": 437,
+  "updated": "2026-11-18T13:03:57.969670+00:00",
+  "count": 440,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.baldurbjarnason.com/2026/08-ai-might-be-the-end-of-our-careers/",
+      "title": "‘AI’ might be the end of our careers",
+      "published": "2026-11-18T12:38:00+00:00",
+      "author": "Baldur Bjarnason",
+      "description": "I never planned on becoming a software developer, and these days it feels like my exit from the industry might be similarly unplanned. The video version is on YouTube. ‘AI’ might be the end of our careers Download audio Shifts in power # My education and training is entirely in art, literature, and media. Like many of my generation I got into web development because it was, quite simply, one of the more interesting things happening in the late nineties that a young person could get into without…",
+      "link": "https://www.baldurbjarnason.com/2026/08-ai-might-be-the-end-of-our-careers/",
+      "image": "https://v1.screenshot.11ty.dev/https%3A%2F%2Fwww.baldurbjarnason.com%2F2026%2F08-ai-might-be-the-end-of-our-careers%2F/opengraph/",
+      "feed_name": "Baldur Bjarnason's Notes on the Web",
+      "feed_title": "Baldur Bjarnason's Notes on the Web",
+      "category": "personal blogs",
+      "feed_url": "https://feedpress.me/baldurbjarnason",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.baldurbjarnason.com&sz=64"
+    },
+    {
+      "id": "https://shkspr.mobi/blog/?p=75784",
+      "title": "Once More Unto The Breach - Another Year In Review",
+      "published": "2026-11-18T12:34:00+00:00",
+      "author": "Terence Eden",
+      "description": "Since 2010, I've written an annual \"year-in-review\" blog post. It has been nearly two years since I quit my job and went into the FIRE, so what has life been like and have I achieved everything I dreamt of? Life has been pretty chill! I've been reasonably relaxed, seen loads of shows and gigs, travelled around the world a bit, hung out with cool people, and had no major issues with… well, a…",
+      "link": "https://shkspr.mobi/blog/2026/11/once-more-unto-the-breach-another-year-in-review/",
+      "image": "https://shkspr.mobi/blog/wp-content/uploads/2026/11/Snazzy-Jacket.avif",
+      "feed_name": "Terence Eden’s Blog",
+      "feed_title": "Terence Eden’s Blog",
+      "category": "personal blogs",
+      "feed_url": "https://shkspr.mobi/blog/feed/atom/",
+      "feed_icon": "https://shkspr.mobi/blog/wp-content/uploads/2023/07/cropped-avatar-32x32.jpeg"
+    },
+    {
+      "id": "https://kilianvalkhof.com/?p=3537",
+      "title": "State of HTML results",
+      "published": "2026-11-18T12:15:07+00:00",
+      "author": "Kilian Valkhof",
+      "description": "The 2026 State of HTML survey results are out, and I’ve been reading through them with much interest. I do that every year, but this year especially because I got asked to write the conclusion! What makes the State of HTML interesting is that it’s more broadly the state of the “platform”. Much of browser […] The post State of HTML results first appeared on Kilian Valkhof .",
+      "link": "https://kilianvalkhof.com/2026/css-html/state-of-html-results/",
+      "image": "https://kilianvalkhof.com/wp-content/uploads/2026.stateofhtml.com_en-US-State-of-HTML-2026-2026-11-18-12.14.04.png",
+      "feed_name": "Kilian Valkhof",
+      "feed_title": "Kilian Valkhof",
+      "category": "personal blogs",
+      "feed_url": "http://feeds.feedburner.com/Kilianvalkhofcom",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=kilianvalkhof.com&sz=64"
+    },
     {
       "id": "https://csswizardry.com/2026/11/web-perf-wednesday-018-soft-navigations-lift-the-crux-pass-rate/",
       "title": "Web-Perf Wednesday 018 – Soft Navigations Lift the CrUX Pass Rate",
