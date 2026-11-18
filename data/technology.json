@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated": "2026-11-18T06:32:14.899940+00:00",
+  "updated": "2026-11-18T07:03:51.824976+00:00",
   "count": 1000,
   "summary": null,
   "items": [
@@ -129,20 +129,6 @@
       "category": "technology",
       "feed_url": "http://feeds.mashable.com/Mashable",
       "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
-    },
-    {
-      "id": "https://slashdot.org/story/26/11/18/0124249/nvidia-rejects-jensen-huangs-offer-to-return-as-ceo?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "title": "Nvidia Rejects Jensen Huang's Offer to Return as CEO",
-      "published": "2026-11-18T01:30:00+00:00",
-      "author": "BeauHD",
-      "description": "Nvidia's board has unanimously rejected former CEO Jensen Huang's offer to return, despite public support from President Trump and prominent Silicon Valley figures. The decision came as Nvidia reported blockbuster third-quarter revenue of $116 billion, double the year-earlier figure. The Associated Press reports: The embattled company's board of directors \"unanimously accepted his resignation and does not intend to reinstate Jensen as CEO,\" Nvidia Chairman Harvey Jones said at the start of Nvid…",
-      "link": "https://slashdot.org/story/26/11/18/0124249/nvidia-rejects-jensen-huangs-offer-to-return-as-ceo?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-      "feed_name": "Slashdot",
-      "feed_title": "Slashdot",
-      "category": "technology",
-      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
     },
     {
       "id": "5209297",
@@ -14003,6 +13989,20 @@
       "category": "technology",
       "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
       "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
+    },
+    {
+      "id": "4baedd96-6e7b-11f1-94bf-77635a83394e",
+      "title": "Jensen Huang resigns, and our HomeView review",
+      "published": "2026-11-12T18:02:00+00:00",
+      "author": "The Verge",
+      "description": "Jensen Huang is out at Nvidia, so today's episode starts with an emergency podcast within a podcast, as David and Nilay try to make sense of the state of Nvidia and AI. Then, Jen Tuohy comes on the show to tell us all about her time with the Apple HomeView, Apple's new smart home controller and family computer. It's very good at one of those things, and not so much on the other. Further reading: Nvidia CEO Jensen Huang resigns amid spy, affair scandals Read Nvidia’s internal emails about the ‘e…",
+      "link": null,
+      "image": null,
+      "feed_name": "The Vergecast",
+      "feed_title": "The Vergecast",
+      "category": "technology",
+      "feed_url": "https://feeds.megaphone.fm/vergecast",
+      "feed_icon": "https://megaphone.imgix.net/podcasts/e4c412e6-e1f0-11e8-9bde-83f9d376f059/image/fa367fa8b1b6ca01fc4b8c34d83ba4d8.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
     }
   ]
 }
