@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-18T10:32:56.889272+00:00",
+  "updated": "2026-11-18T11:04:05.452589+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/nextcloud-onlyoffice-license-dispute/",
+      "title": "Nextcloud and OnlyOffice broke up over a license most self-hosters have never read",
+      "published": "2026-11-18T11:00:16+00:00",
+      "author": "Afam Onyimadu",
+      "description": "Two sentences in a code header started a European software feud",
+      "link": "https://www.makeuseof.com/nextcloud-onlyoffice-license-dispute/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/using-nextcloud-on-windows.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/5-tiny-snap-on-tools-you-never-knew-you-wanted/",
+      "title": "5 tiny Snap-on tools actually worth buying on a budget",
+      "published": "2026-11-18T11:00:15+00:00",
+      "author": "Cory Gunther",
+      "description": "Versatile and affordable tools you'll love.",
+      "link": "https://www.howtogeek.com/5-tiny-snap-on-tools-you-never-knew-you-wanted/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/snap-on-flex-ratchet-head.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://hackaday.com/?p=1428571",
       "title": "Not-So-Large Language Model Fits On a Floppy Disk",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.makeuseof.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/home-server-essential-docker-containers/",
-      "title": "Every home server I build gets the same 4 containers first, and none of them are the fun ones",
-      "published": "2026-11-04T16:45:17+00:00",
-      "author": "Afam Onyimadu",
-      "description": "The unglamorous setup that lets you break your fun apps without consequences",
-      "link": "https://www.makeuseof.com/home-server-essential-docker-containers/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/uptime-kuma-dashboard-showing-adguard-immich-and-mealie-monitors.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://hackaday.com/?p=1397785",
-      "title": "Using a Cheap DC Motor to Make a Go-Kart Go",
-      "published": "2026-11-04T16:30:32+00:00",
-      "author": "Maya Posch",
-      "description": "Where Archimedes said that he could move the Earth given a large enough lever and a suitable fulcrum, [Current Concept] decided that he could give his own spin on this …read more",
-      "link": "https://hackaday.com/2026/11/04/using-a-cheap-dc-motor-to-make-a-go-kart-go/",
-      "image": "https://hackaday.com/wp-content/uploads/2026/11/14-motor_gearbox_go-kart_current_concept_youtube.jpg",
-      "feed_name": "Blog – Hackaday",
-      "feed_title": "Blog – Hackaday",
-      "category": "DIY",
-      "feed_url": "https://hackaday.com/blog/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
     }
   ]
 }
