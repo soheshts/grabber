@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-18T06:02:52.745079+00:00",
+  "updated": "2026-11-18T06:32:14.899940+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://hackaday.com/?p=1428698",
+      "title": "Linux in a Browser Tab",
+      "published": "2026-11-18T06:00:44+00:00",
+      "author": "Zoe Skyforest",
+      "description": "Linux was once distributed on CDs and DVDs stuck to the front of computer magazines. Now, technology has advanced to the point where you can simply run a Linux kernel …read more",
+      "link": "https://hackaday.com/2026/11/17/linux-in-a-browser-tab/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/Screenshot-2026-11-18-113538-1-e1794962722312.png",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://hackaday.com/?p=1428594",
       "title": "Coding on Windows? Redmond May Already Know.",
@@ -13989,20 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/my-amazon-echo-has-been-hiding-a-second-job-and-its-not-playing-music/",
-      "title": "My Amazon Echo has been hiding a second job, and it's not playing music",
-      "published": "2026-11-04T16:00:16+00:00",
-      "author": "Chris Hachey",
-      "description": "Boost your signal with your speaker.",
-      "link": "https://www.makeuseof.com/my-amazon-echo-has-been-hiding-a-second-job-and-its-not-playing-music/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/01/echo-dot.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }
