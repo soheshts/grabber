@@ -1,9 +1,37 @@
 {
   "category": "technology",
-  "updated": "2026-11-18T08:33:13.861419+00:00",
+  "updated": "2026-11-18T09:02:41.021106+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "TheNextWeb=3b0b7fcfdb035312711b74de3c8eec2d",
+      "title": "Cambridge Dictionary names ‘human’ its word of the year as AI spreads",
+      "published": "2026-11-18T08:56:38+00:00",
+      "author": "Ana-Maria Stanciuc",
+      "description": "Cambridge Dictionary has named human its word of the year for 2026. It said the rise of AI has given the word new weight, the Guardian reported. The dictionary defines human as “having the qualities, faults and feelings that people have, as opposed to gods, animals or machines.” “AI is changing how we talk about […] This story continues at The Next Web",
+      "link": "https://thenextweb.com/news/cambridge-dictionary-names-human-its-word-of-the-year-as-ai-spreads",
+      "image": "https://media.thenextweb.com/2026/11/silhouettes-watching-blue-light-installation.avif",
+      "feed_name": "The Next Web",
+      "feed_title": "The Next Web",
+      "category": "technology",
+      "feed_url": "https://thenextweb.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
+    {
+      "id": "TheNextWeb=5df213d92e41f44915abd549f17083e6",
+      "title": "Elton John urges Australia to protect artists from AI at the Aria awards",
+      "published": "2026-11-18T08:43:01+00:00",
+      "author": "Alina Maria Stan",
+      "description": "Elton John used a pre-recorded message at the Aria awards in Sydney on Wednesday to urge the Australian government to protect artists from AI firms, the Guardian reported. He backed Not AI’s To Take, a new campaign by the creative and media industries. “You have a duty to protect Australian artists and their work. Don’t […] This story continues at The Next Web",
+      "link": "https://thenextweb.com/news/elton-john-urges-australia-to-protect-artists-from-ai-at-the-aria-awards",
+      "image": "https://media.thenextweb.com/2026/11/elton-john-red-piano-stage.avif",
+      "feed_name": "The Next Web",
+      "feed_title": "The Next Web",
+      "category": "technology",
+      "feed_url": "https://thenextweb.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
     {
       "id": "TheNextWeb=c52dd22ac7531b5c4f2e4142701edff7",
       "title": "Nvidia rules out Jensen Huang’s return as revenue doubles to $115.8bn",
@@ -13975,34 +14003,6 @@
       "category": "technology",
       "feed_url": "https://www.engadget.com/rss.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
-    },
-    {
-      "id": "https://arstechnica.com/tech-policy/2026/11/ukraine-says-spacex-starshield-is-restricted-again-spacex-claims-it-isnt/",
-      "title": "Ukraine says it can’t stop Russian strikes because Starshield is limited again",
-      "published": "2026-11-12T19:09:57+00:00",
-      "author": "Jon Brodkin",
-      "description": "Report: Ukraine suspects speeds limits are intended to help Russia in peace talks.",
-      "link": "https://arstechnica.com/tech-policy/2026/11/ukraine-says-spacex-starshield-is-restricted-again-spacex-claims-it-isnt/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/zelenskyy-500x500-1794506416.jpg",
-      "feed_name": "Ars Technica",
-      "feed_title": "Ars Technica",
-      "category": "technology",
-      "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
-      "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
-    },
-    {
-      "id": "TheNextWeb=023040934abf55f62ac1e9bf7c34f4cf",
-      "title": "Anthropic lets companies run Claude’s agent service on their own servers",
-      "published": "2026-11-12T19:06:13+00:00",
-      "author": "Ana Maria Constantin",
-      "description": "Anthropic now lets companies run Claude Managed Agents in their own cloud or data centre. Agent histories and credentials stay on their systems, but each model call still goes to an outside provider such as Anthropic or AWS. Anthropic now lets companies run its Claude Managed Agents service on their own servers, Help Net Security […] This story continues at The Next Web",
-      "link": "https://thenextweb.com/news/anthropic-self-hosted-claude-managed-agents",
-      "image": "https://media.thenextweb.com/2026/10/anthropic-wordmark-3d-render-purple-glass.avif",
-      "feed_name": "The Next Web",
-      "feed_title": "The Next Web",
-      "category": "technology",
-      "feed_url": "https://thenextweb.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
     }
   ]
 }

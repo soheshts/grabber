@@ -1,9 +1,65 @@
 {
   "category": "World News",
-  "updated": "2026-11-18T08:33:13.861419+00:00",
+  "updated": "2026-11-18T09:02:41.021106+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "108553908",
+      "title": "Trump lands in China for historic meeting with Xi, Putin",
+      "published": "2026-11-18T09:01:47+00:00",
+      "author": null,
+      "description": "",
+      "link": "https://www.cnbc.com/2026/11/18/trump-xi-putin-china-apec.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108553743-1794968619948-gettyimages-2276633450-AA_20052026_2787960.jpeg?v=1794968648&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec/heres-the-latest",
+      "title": "Here’s the latest.",
+      "published": "2026-11-18T08:50:27+00:00",
+      "author": "Peter Baker, Lily Kuo, Paul Sonne and Keith Bradsher",
+      "description": "suggested the rush to patch systems, whose vulnerabilities are exposed by A.I.",
+      "link": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec/heres-the-latest",
+      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18trump-summit-promo-jcfk/18trump-summit-promo-jcfk-facebookJumbo.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
+      "title": "Apec summit live: Xi and Putin start talks as Trump arrives in China",
+      "published": "2026-11-18T08:48:31+00:00",
+      "author": "Taz Ali (now) and Kate Lamb (earlier)",
+      "description": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec? Explained in 30 seconds Yalta became a byword for betrayal. Will Trump, Xi and Putin enact another carve-up? That is the question the Guardian’s diplomatic correspondent Patrick Wintour seeks to address in his piece about the expected, Putin, Trump and Xi, meeting at Apec on Thursday. It is a truism…",
+      "link": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
+      "image": "https://i.guim.co.uk/img/media/589fb27f8f79d948cff721aaf17763911725791b/187_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=74162f107435951be386f3f30a477377",
+      "feed_name": "The Guardian",
+      "feed_title": "World news | The Guardian",
+      "category": "World News",
+      "feed_url": "https://www.theguardian.com/world/rss",
+      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/18/world/asia/trump-marcos-philippines-fried-chicken-jollibee.html",
+      "title": "Trump and Marcos Share a Moment Over Jollibee Fried Chicken",
+      "published": "2026-11-18T08:34:12+00:00",
+      "author": "Francesca Regalado",
+      "description": "President Trump’s host in Manila put in a late-night order from the Filipino fast-food chain Jollibee for the American leader.",
+      "link": "https://www.nytimes.com/2026/11/18/world/asia/trump-marcos-philippines-fried-chicken-jollibee.html",
+      "image": "https://static01.nyt.com/images/2026/12/17/multimedia/17trump-summits-fast-food-jgwq/17trump-summits-fast-food-jgwq-mediumSquareAt3X-v2.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "108553729",
       "title": "Putin says EU is losing industry, falling behind competition, ahead of meeting with Trump and Xi",
@@ -45,6 +101,20 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ck792dez8dp3o#1",
+      "title": "Ghana's new $60m presidential jet sparks public outrage",
+      "published": "2026-11-18T08:08:20+00:00",
+      "author": null,
+      "description": "The purchase has sparked outrage over its cost as many Ghanaians struggle with rising cost of living.",
+      "link": "https://www.bbc.co.uk/news/articles/ck792dez8dp3o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/377e/live/9eb7bde0-e31b-11f1-81d5-99b8785f3e51.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/us/california-bowler-warren-crawford-threw-243-strikes-in-an-hour-52-more-than-the-previous-mark-his-nov11-veterans-day-attempt-in-redding-also-raised-20000-for-a-veterans-nonprofit-with-guinness-verification-pending/articleshow/135948584.cms",
@@ -115,20 +185,6 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
-      "title": "Apec summit live: Xi and Putin start talks; Rubio says Trump serious about meeting Kim Jong-un",
-      "published": "2026-11-18T07:57:32+00:00",
-      "author": "Taz Ali (now) and Kate Lamb (earlier)",
-      "description": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec? Explained in 30 seconds Yalta became a byword for betrayal. Will Trump, Xi and Putin enact another carve-up? That is the question the Guardian’s diplomatic correspondent Patrick Wintour seeks to address in his piece about the expected, Putin, Trump and Xi, meeting at Apec on Thursday. It is a truism…",
-      "link": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
-      "image": "https://i.guim.co.uk/img/media/589fb27f8f79d948cff721aaf17763911725791b/187_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=74162f107435951be386f3f30a477377",
-      "feed_name": "The Guardian",
-      "feed_title": "World news | The Guardian",
-      "category": "World News",
-      "feed_url": "https://www.theguardian.com/world/rss",
-      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
     },
     {
       "id": "https://www.ndtv.com/world-news/indian-nvidia-employee-praises-jensen-huang-amid-affairs-scandal-helped-during-difficult-time-12342907#publisher=newsstand",
@@ -325,20 +381,6 @@
       "category": "World News",
       "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec/heres-the-latest",
-      "title": "Here’s the latest.",
-      "published": "2026-11-18T06:51:01+00:00",
-      "author": "Peter Baker, Lily Kuo, Paul Sonne and Keith Bradsher",
-      "description": "suggested the rush to patch systems, whose vulnerabilities are exposed by A.I.",
-      "link": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec/heres-the-latest",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18trump-summit-promo-jcfk/18trump-summit-promo-jcfk-facebookJumbo.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://www.ndtv.com/world-news/exclusive-ibm-ceo-arvind-krishna-on-why-jensen-huangs-exit-may-not-be-a-big-blow-to-nvidia-12342342#publisher=newsstand",
@@ -1543,6 +1585,20 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/videos/cq62p73jjl90o#2",
+      "title": "Millions of red crabs start annual migration on Christmas Island",
+      "published": "2026-11-17T23:05:39+00:00",
+      "author": null,
+      "description": "The crabs were seen migrating from forests to the sea to breed on the coast of the Australian territory.",
+      "link": "https://www.bbc.co.uk/news/videos/cq62p73jjl90o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa2f/live/6faad2d0-e2da-11f1-99a1-253766e7ad8b.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "https://www.ndtv.com/world-news/pakistani-man-jailed-for-27-years-in-us-for-trump-murder-plot-12341452#publisher=newsstand",
@@ -13947,62 +14003,6 @@
       "category": "World News",
       "feed_url": "https://www.theguardian.com/world/rss",
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/us/is-east-potomac-park-closing-today-for-15-months-hundreds-of-trees-were-felled-until-judge-ana-reyes-whom-trump-called-crazed-lunatic-stepped-in/articleshow/135841228.cms",
-      "title": "Is East Potomac Park closing on November 15 for 15 months? Hundreds of trees were felled until judge Ana Reyes whom Trump called 'crazed lunatic' stepped in",
-      "published": "2026-11-14T18:56:56+00:00",
-      "author": "Poulomi Ghosh",
-      "description": "",
-      "link": "https://timesofindia.indiatimes.com/world/us/is-east-potomac-park-closing-today-for-15-months-hundreds-of-trees-were-felled-until-judge-ana-reyes-whom-trump-called-crazed-lunatic-stepped-in/articleshow/135841228.cms",
-      "image": "https://static.toiimg.com/photo/msid-135841329,imgsize-249286.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "t3_1xwa1lp",
-      "title": "Hungarian authorities uncover millions hidden by former Orban officials in forests, warehouses",
-      "published": "2026-11-14T18:48:32+00:00",
-      "author": "/u/Not_Tom_Jones",
-      "description": "submitted by /u/Not_Tom_Jones [link] [comments]",
-      "link": "https://www.reddit.com/r/worldnews/comments/1xwa1lp/hungarian_authorities_uncover_millions_hidden_by/",
-      "image": "https://external-preview.redd.it/i-UGEfEpYMYo-BpQorbTzofczyukTtga0HB2KBdAnl4.jpeg?width=640&crop=smart&auto=webp&s=d0f5f0db25f744f9140164cd8a5088c69cbc809f",
-      "feed_name": "World News",
-      "feed_title": "World News",
-      "category": "World News",
-      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
-      "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/rest-of-world/as-a-teenager-dave-hunter-rigged-a-homemade-radar-to-find-buried-bulls-on-his-grandfathers-farm-now-he-uses-ground-penetrating-radar-to-find-lost-graves-and-has-helped-an-outback-council-uncover-more-than-600/articleshow/135629668.cms",
-      "title": "Teenager built homemade radar to find buried bulls on grandfather’s farm; now Australian ‘Grave Hunter’ has uncovered more than 600 lost graves",
-      "published": "2026-11-14T18:40:06+00:00",
-      "author": "TOI World Desk",
-      "description": "Known for his remarkable work, Dave Hunter—'Dave the Grave Hunter'—has made a significant discovery of 658 unmarked graves throughout Australia. His company, Hunter Geophysics, employed ground-penetrating radar to meticulously complete the project in 2026, all while maintaining the integrity of existing cemeteries. Local councils are keen to safeguard these findings and attach stories to each grave. Future endeavors may also reach out to nearby areas grappling with identical predicaments.",
-      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/as-a-teenager-dave-hunter-rigged-a-homemade-radar-to-find-buried-bulls-on-his-grandfathers-farm-now-he-uses-ground-penetrating-radar-to-find-lost-graves-and-has-helped-an-outback-council-uncover-more-than-600/articleshow/135629668.cms",
-      "image": "https://static.toiimg.com/photo/msid-135630052,imgsize-1756227.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/14/world/europe/student-protests-pensions-generations.html",
-      "title": "A ‘Generational Clash’ Is Fueling Europe’s Protests",
-      "published": "2026-11-14T18:40:00+00:00",
-      "author": "Jason Horowitz",
-      "description": "As retirees live longer, governments need to spend more on pensions. That makes it harder to fund other services, spurring protests like those in France.",
-      "link": "https://www.nytimes.com/2026/11/14/world/europe/student-protests-pensions-generations.html",
-      "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14int-europe-generations-vjbt/14int-europe-generations-vjbt-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     }
   ]
 }
