@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-18T23:02:56.003913+00:00",
+  "updated": "2026-11-18T23:33:49.316945+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.howtogeek.com/codex-built-crazy-home-assistant-dashboard/",
+      "title": "I gave Codex free rein to build a Home Assistant dashboard, and it came up with something I've never seen",
+      "published": "2026-11-18T23:30:15+00:00",
+      "author": "Adam Davidson",
+      "description": "All it took was five tries and a lot of tokens.",
+      "link": "https://www.howtogeek.com/codex-built-crazy-home-assistant-dashboard/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/a-phone-screen-showing-a-codex-generated-home-assistant-dashboard-where-you-drag-through-rooms-devices-and-actions-to-perform-a-command.png",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/save-90-on-aqaras-uwb-smart-lock-u400-kit-with-m100-hub-and-stop-fumbling-for-keys/",
+      "title": "Pick up the Aqara UWB Smart Lock U400 for 31% off and stop fumbling for your keys",
+      "published": "2026-11-18T23:16:43+00:00",
+      "author": "HTG Deals Desk",
+      "description": "This one even unlocks as you walk up with your iPhone.",
+      "link": "https://www.howtogeek.com/save-90-on-aqaras-uwb-smart-lock-u400-kit-with-m100-hub-and-stop-fumbling-for-keys/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/11/aqara-smart-lock-u400-kit-edited.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/i-bought-25-iems-on-a-whim-and-they-rival-my-much-pricier-over-ear-headphones/",
       "title": "I bought $25 IEMs on a whim, and they rival my much pricier over-ear headphones",
@@ -17,6 +45,20 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.apartmenttherapy.com/white-vintage-bathroom-makeover-floral-wallpaper-ba-2-37699835",
+      "title": "Floral Schumacher Wallpaper Turned This Small Bathroom Into a Retreat",
+      "published": "2026-11-18T23:00:00+00:00",
+      "author": "Abby Monteil",
+      "description": "The hand-built vanity is so cool. READ MORE...",
+      "link": "https://www.apartmenttherapy.com/white-vintage-bathroom-makeover-floral-wallpaper-ba-2-37699835?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+projects",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2025/2025-03/diana-d-bathroom/diana-d-bathroom-before-tagged-1",
+      "feed_name": "Apartment Therapy| Saving the world, one room at a time",
+      "feed_title": "Apartment Therapy| Saving the world, one room at a time",
+      "category": "DIY",
+      "feed_url": "https://www.apartmenttherapy.com/projects.rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.apartmenttherapy.com&sz=64"
     },
     {
       "id": "https://www.howtogeek.com/salvaged-components-from-old-tech-worth-keeping-in-your-spare-parts-bin/",
@@ -13961,48 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.makeuseof.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/ways-to-make-power-tools-harder-to-steal/",
-      "title": "4 ways to make power tools harder to steal aside from Milwaukee OneKey™ or Apple AirTags",
-      "published": "2026-11-05T17:00:16+00:00",
-      "author": "Steve Larner",
-      "description": "It takes more than just tracking technology to protect your tools.",
-      "link": "https://www.howtogeek.com/ways-to-make-power-tools-harder-to-steal/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/11/milwaukee-jobsite-fan-with-attached-one-key-tag.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/27b-llm-model-fits-4gb-vram/",
-      "title": "A 27B LLM model that fits in just 4GB of VRAM sounds impossible, but here we are",
-      "published": "2026-11-05T16:45:17+00:00",
-      "author": "Yadullah Abidi",
-      "description": "1-bit AI is impressive. Your 4GB GPU is still not enough.",
-      "link": "https://www.makeuseof.com/27b-llm-model-fits-4gb-vram/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/04/abliteraed-ai-models-in-lm-studio.JPG",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://hackaday.com/?p=1397832",
-      "title": "Pitting a Modern Chess Engine on a Pentium PC Against 1996’s Deep Blue",
-      "published": "2026-11-05T16:30:51+00:00",
-      "author": "Maya Posch",
-      "description": "Although premature optimization can be a really bad thing, late optimization is sometimes unavoidable because we simply didn’t know about certain algorithms yet to massively improve the solving of a …read more",
-      "link": "https://hackaday.com/2026/11/05/pitting-a-modern-chess-engine-on-a-pentium-pc-against-1996s-deep-blue/",
-      "image": "https://hackaday.com/wp-content/uploads/2026/11/chess-featured.jpg",
-      "feed_name": "Blog – Hackaday",
-      "feed_title": "Blog – Hackaday",
-      "category": "DIY",
-      "feed_url": "https://hackaday.com/blog/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
     }
   ]
 }
