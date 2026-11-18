@@ -1,9 +1,79 @@
 {
   "category": "World News",
-  "updated": "2026-11-18T08:03:56.753776+00:00",
+  "updated": "2026-11-18T08:33:13.861419+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "108553729",
+      "title": "Putin says EU is losing industry, falling behind competition, ahead of meeting with Trump and Xi",
+      "published": "2026-11-18T08:29:35+00:00",
+      "author": null,
+      "description": "Putin used the speech to emphasize Russia's economic resilience despite U.S. sanctions, and played up opportunities for APEC members in the country.",
+      "link": "https://www.cnbc.com/2026/11/18/putin-apec-eu-trump-xi-meeting.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108357338-17882956722026-09-01t202652z_1592493099_rc2kanafmyaj_rtrmadp_0_sco-summit-kyrgyzstan-putin-briefing.jpeg?v=1788295701&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/17/world/asia/china-japan-propaganda-xi-takaichi.html",
+      "title": "Tracking China’s Intensifying War of Words Against Japan",
+      "published": "2026-11-18T08:14:28+00:00",
+      "author": "Javier C. Hernández and Gal Koplewitz",
+      "description": "Beijing is running a concerted campaign to paint Japan as an aggressor and resurgent military threat, according to a Times analysis.",
+      "link": "https://www.nytimes.com/2026/11/17/world/asia/china-japan-propaganda-xi-takaichi.html",
+      "image": "https://static01.nyt.com/images/2026/11/16/multimedia/00int-china-japan-language-02-btpw/00int-china-japan-language-02-btpw-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "108553213",
+      "title": "Southeast Asia’s data center boom leaned on Chinese demand. New U.S. rules put that pipeline at risk",
+      "published": "2026-11-18T08:09:43+00:00",
+      "author": null,
+      "description": "The rules require data centers in Southeast Asia to seek U.S. approval to buy advanced AI chips, threatening to slow a build-out fueled heavily on Chinese demand.",
+      "link": "https://www.cnbc.com/2026/11/18/nvidia-us-ai-chip-export-controls-data-centers-.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108553838-1794981607110-gettyimages-2301831834-MALAYSIA_DATA_CENTERS.jpeg?v=1794981788&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/us/california-bowler-warren-crawford-threw-243-strikes-in-an-hour-52-more-than-the-previous-mark-his-nov11-veterans-day-attempt-in-redding-also-raised-20000-for-a-veterans-nonprofit-with-guinness-verification-pending/articleshow/135948584.cms",
+      "title": "Guinness Verification Pending: Warren Crawford bowls 243 strikes; fundraiser raises $20,000",
+      "published": "2026-11-18T08:05:42+00:00",
+      "author": "TOI World Desk",
+      "description": "Warren Crawford stunned everyone with his astounding bowling prowess, clocking in 243 strikes within a single hour at a charity event that benefitted veterans and first responders. The endeavor successfully garnered around $20,000 in donations. Utilizing a unique two-handed bowling style he honed since childhood, Crawford's incredible achievement now awaits verification from Guinness World Records, all amidst the electrifying support of the audience.",
+      "link": "https://timesofindia.indiatimes.com/world/us/california-bowler-warren-crawford-threw-243-strikes-in-an-hour-52-more-than-the-previous-mark-his-nov11-veterans-day-attempt-in-redding-also-raised-20000-for-a-veterans-nonprofit-with-guinness-verification-pending/articleshow/135948584.cms",
+      "image": "https://static.toiimg.com/photo/msid-135954738,imgsize-1024826.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
+      "id": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec/a-tropical-chinese-city-is-half-empty-and-ready-for-the-summit",
+      "title": "A tropical Chinese city is half-empty and ready for the summit.",
+      "published": "2026-11-18T08:04:02+00:00",
+      "author": "Keith Bradsher",
+      "description": "From lush landscaping to extensive surveillance, Shenzhen has made elaborate efforts to prepare for this week’s Asia-Pacific Economic Cooperation summit.",
+      "link": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec/a-tropical-chinese-city-is-half-empty-and-ready-for-the-summit",
+      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18trump-summits-apec-scene-wgzc/18trump-summits-apec-scene-wgzc-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "108553728",
       "title": "China’s Xi calls for removing trade and investment barriers ahead of his meeting with Trump and Putin",
@@ -17,6 +87,20 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.theguardian.com/australia-news/2026/nov/18/byron-bay-doula-left-newborn-to-inflate-jumping-castle-freebirth-inquest-ntwnfb",
+      "title": "‘I didn’t notice his body being purple’: Byron Bay doula left newborn to inflate a jumping castle, court hears",
+      "published": "2026-11-18T07:58:32+00:00",
+      "author": "Tory Shepherd",
+      "description": "Inquest into deaths of four babies born in free births or at home in northern NSW between 2022 and 2024 hears ‘something was seriously wrong’ Get our breaking news email , free app or daily news podcast Baby DH was born in an inflatable pool, in a candle-lit room in his parents’ home near Byron Bay, with no one medically trained present. There are two very different versions of what happened next. In the parents’ version, the doula reassured them Baby DH was OK, then left to inflate a jumping c…",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/18/byron-bay-doula-left-newborn-to-inflate-jumping-castle-freebirth-inquest-ntwnfb",
+      "image": "https://i.guim.co.uk/img/media/ddd2392156eb41b605c45534c999d54e72d3f3d4/343_0_3433_2748/master/3433.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=21873e26fad0c8052a65ab26af039149",
+      "feed_name": "The Guardian",
+      "feed_title": "World news | The Guardian",
+      "category": "World News",
+      "feed_url": "https://www.theguardian.com/world/rss",
+      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
     },
     {
       "id": "108553861",
@@ -35,7 +119,7 @@
     {
       "id": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
       "title": "Apec summit live: Xi and Putin start talks; Rubio says Trump serious about meeting Kim Jong-un",
-      "published": "2026-11-18T07:53:42+00:00",
+      "published": "2026-11-18T07:57:32+00:00",
       "author": "Taz Ali (now) and Kate Lamb (earlier)",
       "description": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec? Explained in 30 seconds Yalta became a byword for betrayal. Will Trump, Xi and Putin enact another carve-up? That is the question the Guardian’s diplomatic correspondent Patrick Wintour seeks to address in his piece about the expected, Putin, Trump and Xi, meeting at Apec on Thursday. It is a truism…",
       "link": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
@@ -45,6 +129,20 @@
       "category": "World News",
       "feed_url": "https://www.theguardian.com/world/rss",
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/indian-nvidia-employee-praises-jensen-huang-amid-affairs-scandal-helped-during-difficult-time-12342907#publisher=newsstand",
+      "title": "\"My Sister Had Cancer\": Indian Nvidia Techie Recalls Jensen Huang's Help",
+      "published": "2026-11-18T07:54:37+00:00",
+      "author": null,
+      "description": "Vartika Singh also shared a photograph with Jensen Huang",
+      "link": "https://www.ndtv.com/world-news/indian-nvidia-employee-praises-jensen-huang-amid-affairs-scandal-helped-during-difficult-time-12342907#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-11/kks65vlc_jensen-huang-vartika_625x300_18_November_26.jpeg",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo#0",
@@ -89,6 +187,20 @@
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
+      "id": "https://www.ndtv.com/world-news/uae-state-oil-firm-ship-hit-in-hormuz-11-injured-1-missing-12342832#publisher=newsstand",
+      "title": "UAE State Oil Firm Ship Hit In Hormuz, 11 Injured, 1 Missing",
+      "published": "2026-11-18T07:31:55+00:00",
+      "author": null,
+      "description": "UAE state oil firm says one missing after its ship hit in Hormuz. (File)",
+      "link": "https://www.ndtv.com/world-news/uae-state-oil-firm-ship-hit-in-hormuz-11-injured-1-missing-12342832#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-11/4460bse4_hormuz-reuters_625x300_17_November_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
       "id": "https://timesofindia.indiatimes.com/world/us/in-1994-david-mcardle-and-jodie-swapped-addresses-at-a-pool-table-while-on-holiday-in-kos-and-wrote-to-each-other-monthly-for-three-years-before-losing-touch-two-decades-later-a-birthday-text-reunited-them-and-they-married/articleshow/135953578.cms",
       "title": "Teens who met on holiday in 1994 reunite 20 years later and marry",
       "published": "2026-11-18T07:24:08+00:00",
@@ -110,20 +222,6 @@
       "description": "Acting Navy Secretary Hung Cao told senators the Navy recoded and used munitions he called expired as the Iran war strains weapons stocks and naval deployments.",
       "link": "https://www.cnbc.com/2026/11/18/us-iran-navy-hormuz-war-cao.html",
       "image": "https://image.cnbcfm.com/api/v1/image/108553866-1794985744938-gettyimages-2305556915-1r1_3243_kl9ngmaf.jpeg?v=1794985894&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "108553729",
-      "title": "Putin says EU is losing industry, falling behind competition ahead of meeting with Trump, Xi",
-      "published": "2026-11-18T07:17:11+00:00",
-      "author": null,
-      "description": "Putin used the speech to emphasize Russia's economic resilience despite U.S. sanctions, and played up opportunities for APEC members in the country.",
-      "link": "https://www.cnbc.com/2026/11/18/putin-apec-eu-trump-xi-meeting.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108357338-17882956722026-09-01t202652z_1592493099_rc2kanafmyaj_rtrmadp_0_sco-summit-kyrgyzstan-putin-briefing.jpeg?v=1788295701&w=1920&h=1080",
       "feed_name": "CNBC",
       "feed_title": "International: Top News And Analysis",
       "category": "World News",
@@ -157,6 +255,20 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
+      "id": "https://www.ndtv.com/science/nasa-sent-a-message-to-aliens-on-voyager-1-heres-what-it-says-12342837#publisher=newsstand",
+      "title": "NASA Sent A Message To Aliens On Voyager 1. Here's What It Says",
+      "published": "2026-11-18T07:11:17+00:00",
+      "author": null,
+      "description": "The golden cover is visible on Voyager 1, which is now one light-day away from Earth.",
+      "link": "https://www.ndtv.com/science/nasa-sent-a-message-to-aliens-on-voyager-1-heres-what-it-says-12342837#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-11/rmqnc63k_voyager-1-with-golden-record_625x300_18_November_26.jpeg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
       "id": "https://www.ndtv.com/world-news/jensen-huang-is-out-of-nvidia-but-still-holds-the-strings-of-its-boardroom-12342831#publisher=newsstand",
@@ -259,7 +371,7 @@
     {
       "id": "https://www.nytimes.com/2026/11/17/world/asia/tech-outages-cyberattack-hack-rubio.html",
       "title": "Rubio Says Rush to Secure Systems May Be Causing Failures",
-      "published": "2026-11-18T06:46:28+00:00",
+      "published": "2026-11-18T06:46:29+00:00",
       "author": "David E. Sanger and Edward Wong",
       "description": "Secretary of State Marco Rubio suggested the rush to patch systems, whose vulnerabilities are exposed by A.I., may explain recent failures with air traffic controls, banks and government agencies.",
       "link": "https://www.nytimes.com/2026/11/17/world/asia/tech-outages-cyberattack-hack-rubio.html",
@@ -395,20 +507,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec/a-tropical-chinese-city-is-half-empty-and-ready-for-the-summit",
-      "title": "A tropical Chinese city is half-empty and ready for the summit.",
-      "published": "2026-11-18T06:08:26+00:00",
-      "author": "Keith Bradsher",
-      "description": "From lush landscaping to extensive surveillance, Shenzhen has made elaborate efforts to prepare for this week’s Asia-Pacific Economic Cooperation summit.",
-      "link": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec/a-tropical-chinese-city-is-half-empty-and-ready-for-the-summit",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18trump-summits-apec-scene-wgzc/18trump-summits-apec-scene-wgzc-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/us/mackenzie-scott-gave-away-26-billion-without-asking-for-donations-to-be-named-after-her-letting-charities-decide-how-to-spend-the-money-while-four-wealthy-donors-put-189-million-into-democracy-institutes-bearing-their-names/articleshow/135951463.cms",
@@ -726,20 +824,6 @@
       "description": "Mary Peltola's win against Dan Sullivan in Alaska's senate race signals a bold stride for the Democrats, amplifying their impressive midterm achievements. This election results in the largest gain of senate seats for the party in nearly seventy years. Traditionally, the president's party faces challenges during midterms, although the senate is often spared.",
       "link": "https://timesofindia.indiatimes.com/world/us/democrats-flip-9-us-senate-seats-marking-biggest-midterm-gain-in-nearly-70-years/articleshow/135948901.cms",
       "image": "https://static.toiimg.com/photo/msid-135949012,imgsize-110545.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/us/california-bowler-warren-crawford-threw-243-strikes-in-an-hour-52-more-than-the-previous-mark-his-nov11-veterans-day-attempt-in-redding-also-raised-20000-for-a-veterans-nonprofit-with-guinness-verification-pending/articleshow/135948584.cms",
-      "title": "Guinness Verification Pending: Warren Crawford bowls 243 strikes; fundraiser raises $20,000",
-      "published": "2026-11-18T04:27:11+00:00",
-      "author": "TOI World Desk",
-      "description": "Warren Crawford stunned everyone with his astounding bowling prowess, clocking in 243 strikes within a single hour at a charity event that benefitted veterans and first responders. The endeavor successfully garnered around $20,000 in donations. Utilizing a unique two-handed bowling style he honed since childhood, Crawford's incredible achievement now awaits verification from Guinness World Records, all amidst the electrifying support of the audience.",
-      "link": "https://timesofindia.indiatimes.com/world/us/california-bowler-warren-crawford-threw-243-strikes-in-an-hour-52-more-than-the-previous-mark-his-nov11-veterans-day-attempt-in-redding-also-raised-20000-for-a-veterans-nonprofit-with-guinness-verification-pending/articleshow/135948584.cms",
-      "image": "https://static.toiimg.com/photo/msid-135954738,imgsize-1024826.cms",
       "feed_name": "Times of India",
       "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
       "category": "World News",
@@ -1305,20 +1389,6 @@
       "category": "World News",
       "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/17/world/asia/china-japan-propaganda-xi-takaichi.html",
-      "title": "Tracking China’s Intensifying War of Words Against Japan",
-      "published": "2026-11-18T01:02:39+00:00",
-      "author": "Javier C. Hernández and Gal Koplewitz",
-      "description": "Beijing is running a concerted campaign to paint Japan as an aggressor and resurgent military threat, according to a Times analysis.",
-      "link": "https://www.nytimes.com/2026/11/17/world/asia/china-japan-propaganda-xi-takaichi.html",
-      "image": "https://static01.nyt.com/images/2026/11/16/multimedia/00int-china-japan-language-02-btpw/00int-china-japan-language-02-btpw-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "108553691",
@@ -13933,76 +14003,6 @@
       "category": "World News",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/rest-of-world/a-canadian-company-donated-1800-hectares-of-forest-wetlands-and-shoreline-the-land-could-reconnect-wildlife-habitats-around-gander-lake/articleshow/135749037.cms",
-      "title": "Canadian company donates 1,800 hectares to protect Gander Lake habitats",
-      "published": "2026-11-14T18:30:00+00:00",
-      "author": "TOI World Desk",
-      "description": "",
-      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/a-canadian-company-donated-1800-hectares-of-forest-wetlands-and-shoreline-the-land-could-reconnect-wildlife-habitats-around-gander-lake/articleshow/135749037.cms",
-      "image": "https://static.toiimg.com/photo/msid-135749071,imgsize-191330.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o#0",
-      "title": "Italy fines Meta €805m over accessing users' photos",
-      "published": "2026-11-14T18:28:06+00:00",
-      "author": null,
-      "description": "The social media giant is accused of not informing 20 million users it had access to their photos.",
-      "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6be/live/f51842e0-e041-11f1-88e1-eb4e155225b3.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o#1",
-      "title": "Italy fines Meta €805m over accessing users' photos",
-      "published": "2026-11-14T18:28:06+00:00",
-      "author": null,
-      "description": "The social media giant is accused of not informing 20 million users it had access to their photos.",
-      "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6be/live/f51842e0-e041-11f1-88e1-eb4e155225b3.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/us/a-connecticut-teacher-suspended-for-refusing-to-remove-a-classroom-crucifix-displayed-for-10-years-sues-school-district-over-first-amendment-rights-appeals-court-weighs-religious-expression-vs-school-speech/articleshow/135836398.cms",
-      "title": "Connecticut teacher sues school district over First Amendment rights after crucifix suspension",
-      "published": "2026-11-14T18:26:00+00:00",
-      "author": "TOI World Desk",
-      "description": "A Connecticut teacher was suspended after refusing to remove a crucifix she had displayed in her classroom for 10 years. She has sued the school district, alleging a violation of her First Amendment rights. An appeals court is now examining whether the crucifix constituted the teacher's private religious expression or school-related speech.",
-      "link": "https://timesofindia.indiatimes.com/world/us/a-connecticut-teacher-suspended-for-refusing-to-remove-a-classroom-crucifix-displayed-for-10-years-sues-school-district-over-first-amendment-rights-appeals-court-weighs-religious-expression-vs-school-speech/articleshow/135836398.cms",
-      "image": "https://static.toiimg.com/photo/msid-135836490,imgsize-94469.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/science/nature/scientists-surveyed-two-remote-pacific-atolls-and-found-15-seabird-species-confirmed-or-likely-to-be-breeding-132-turtle-nest-pits-and-two-fish-observations-requiring-further-study-the-atolls-provide-a-benchmark-for-a-48000-square-kilometre-sanctuary/articleshow/135760535.cms",
-      "title": "Pacific survey finds 15 breeding seabird species, 132 turtle nests and two unusual fish observations",
-      "published": "2026-11-14T18:23:00+00:00",
-      "author": "TOI Science Desk",
-      "description": "Researchers have unveiled the rich marine biodiversity of the isolated atolls of Bikar and Bokak in the Marshall Islands. Their exploration discovered robust populations of seabirds and active green sea turtle nesting grounds. Additionally, they identified a wide range of fish species across reef and deep-sea environments, including possible new species.",
-      "link": "https://timesofindia.indiatimes.com/science/nature/scientists-surveyed-two-remote-pacific-atolls-and-found-15-seabird-species-confirmed-or-likely-to-be-breeding-132-turtle-nest-pits-and-two-fish-observations-requiring-further-study-the-atolls-provide-a-benchmark-for-a-48000-square-kilometre-sanctuary/articleshow/135760535.cms",
-      "image": "https://static.toiimg.com/photo/msid-135760745,imgsize-1410908.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     }
   ]
 }
