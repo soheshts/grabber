@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-18T15:03:27.204571+00:00",
-  "count": 442,
+  "updated": "2026-11-18T15:33:11.695007+00:00",
+  "count": 443,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,20 @@
       "category": "personal blogs",
       "feed_url": "https://feedpress.me/baldurbjarnason",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.baldurbjarnason.com&sz=64"
+    },
+    {
+      "id": "https://gomakethings.com/articles/life-after-coding/",
+      "title": "Life after coding",
+      "published": "2026-11-18T14:30:00+00:00",
+      "author": null,
+      "description": "Lately, I’ve been giving a lot of thought to what I would do if I wasn’t a web developer. It’s not the first time I’ve thought about this, but the way AI is negatively affecting every aspect of our industry has pushed it top-of-mind again for me. I’m not alone, either. I posted about this in a handful of online communities I’m in, and so many developers are struggling with these same feelings.",
+      "link": "https://gomakethings.com/articles/life-after-coding/",
+      "image": "https://gomakethings.com/img/og.png",
+      "feed_name": "Go Make Things",
+      "feed_title": "Go Make Things",
+      "category": "personal blogs",
+      "feed_url": "https://gomakethings.com/feed/index.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=gomakethings.com&sz=64"
     },
     {
       "id": "https://adactio.com/journal/22840",
@@ -129,6 +143,20 @@
       "category": "personal blogs",
       "feed_url": "https://manuelmoreale.com/feed/rss",
       "feed_icon": "https://manuelmoreale.com/media/site/768b30cae2-1794047983/avatar.jpg"
+    },
+    {
+      "id": "https://ronaldsvilcins.com/2026/11/18/javascript-module-scripts-are-deferred-by-default/",
+      "title": "JavaScript Module Scripts Are Deferred by Default",
+      "published": "2026-11-18T06:00:00+00:00",
+      "author": "Ronalds Vilciņš",
+      "description": "JavaScript module scripts are deferred by default. Use imports and head entry points, understand async exceptions, and distinguish parsing from readiness.",
+      "link": "https://ronaldsvilcins.com/2026/11/18/javascript-module-scripts-are-deferred-by-default/",
+      "image": "https://ronaldsvilcins.com/og/10121866f1f8cc1e977585a0edbc257faa466c99b2a66e1d866d3ef3fc0eef4b.jpg",
+      "feed_name": "Ronalds Vilciņš",
+      "feed_title": "Ronalds Vilciņš",
+      "category": "personal blogs",
+      "feed_url": "https://ronaldsvilcins.com/atom.xml",
+      "feed_icon": "https://ronaldsvilcins.com/favicon.png"
     },
     {
       "id": "https://bradfrost.com/blog/post/skills-to-pay-the-bills/",
@@ -5463,20 +5491,6 @@
       "category": "personal blogs",
       "feed_url": "http://feeds.feedburner.com/remysharp",
       "feed_icon": "https://remysharp.com/images/avatar-125.jpg"
-    },
-    {
-      "id": "https://thomasrigby.com/posts/book-review-the-virgin-suicides-jeffrey-eugenides/",
-      "title": "Book Review — The Virgin Suicides by Jeffrey Eugenides",
-      "published": "2026-10-19T15:23:08+00:00",
-      "author": "Thomas Rigby (rss@thomasrigby.com)",
-      "description": "One of my sporadic book reviews",
-      "link": "https://thomasrigby.com/posts/book-review-the-virgin-suicides-jeffrey-eugenides/",
-      "image": "https://thomasrigby.com/images/LFpRy9q_ez-600.jpeg",
-      "feed_name": "Thomas Rigby",
-      "feed_title": "Thomas Rigby",
-      "category": "personal blogs",
-      "feed_url": "https://thomasrigby.com/feed.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=thomasrigby.com&sz=64"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
