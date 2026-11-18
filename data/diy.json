@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-18T12:02:34.933865+00:00",
+  "updated": "2026-11-18T12:33:41.890286+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/turn-off-ethernet-power-saving-windows/",
+      "title": "Plugging in an Ethernet cable won’t save you from Windows’ power-saving habits",
+      "published": "2026-11-18T12:30:17+00:00",
+      "author": "Pankil Shah",
+      "description": "Your Ethernet cable deserves better than this.",
+      "link": "https://www.makeuseof.com/turn-off-ethernet-power-saving-windows/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/a-yellow-ethernet-cable-with-windows-laptop-in-background.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/the-bad-cpu-good-gpu-advice-is-officially-outdated-for-modern-pc-builds/",
+      "title": "The \"bad CPU + good GPU\" advice is officially outdated for modern PC builds",
+      "published": "2026-11-18T12:30:15+00:00",
+      "author": "Monica J. White",
+      "description": "Your PC is only as good as its weakest part",
+      "link": "https://www.howtogeek.com/the-bad-cpu-good-gpu-advice-is-officially-outdated-for-modern-pc-builds/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/a7308077.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/open-source-projects-that-were-forked-and-won/",
       "title": "6 open-source projects whose communities got fed up, forked them, and won",
@@ -31,6 +59,20 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://hackaday.com/?p=1428600",
+      "title": "Local Prusa Connect Cuts Out the Cloud",
+      "published": "2026-11-18T12:00:03+00:00",
+      "author": "Jenny List",
+      "description": "One of the ways 3D printing has changed over the last few years has come in the form of cloud services that exist alongside your printer. In some cases they …read more",
+      "link": "https://hackaday.com/2026/11/18/local-prusa-connect-cuts-out-the-cloud/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/prusa-connect-featured.jpg",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
     },
     {
       "id": "https://www.makeuseof.com/activitytrace-android-recall-app-without-cloud/",
@@ -13961,48 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://hackaday.com/blog/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/local-llms-problem-no-free-software-fix/",
-      "title": "Local LLMs have a problem that no amount of free software can fix",
-      "published": "2026-11-04T18:00:16+00:00",
-      "author": "Yadullah Abidi",
-      "description": "Local AI is free. The hardware to run it well is not.",
-      "link": "https://www.makeuseof.com/local-llms-problem-no-free-software-fix/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/03/lm-studio-running-on-windows-11-laptop-with-chat-open.JPG",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/i-was-tired-of-limited-pixel-watch-band-options-so-i-made-my-own/",
-      "title": "I was tired of limited Pixel Watch band options, so I made my own",
-      "published": "2026-11-04T18:00:15+00:00",
-      "author": "Namerah Saud Fatmi",
-      "description": "First-party Pixel Watch bands cost way too much, so I decided to make my own metal links band.",
-      "link": "https://www.howtogeek.com/i-was-tired-of-limited-pixel-watch-band-options-so-i-made-my-own/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/diy-pixel-watch-band-lifestyle-4.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/new-netflix-documentaries-to-watch-in-november-2026/",
-      "title": "4 new documentaries to watch on Netflix in November",
-      "published": "2026-11-04T17:46:15+00:00",
-      "author": "T.M. Amrita",
-      "description": "Stack your watch list with stories that will keep you hooked.",
-      "link": "https://www.howtogeek.com/new-netflix-documentaries-to-watch-in-november-2026/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/netflix-logo-over-a-calm-blue-ocean.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
     }
   ]
 }

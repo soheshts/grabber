@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-18T12:02:34.933865+00:00",
-  "count": 436,
+  "updated": "2026-11-18T12:33:41.890286+00:00",
+  "count": 437,
   "summary": null,
   "items": [
     {
@@ -45,6 +45,20 @@
       "category": "personal blogs",
       "feed_url": "https://manuelmoreale.com/feed/rss",
       "feed_icon": "https://manuelmoreale.com/media/site/768b30cae2-1794047983/avatar.jpg"
+    },
+    {
+      "id": "https://bradfrost.com/blog/post/skills-to-pay-the-bills/",
+      "title": "Skills to pay the bills...and address your design system's check engine light",
+      "published": "2026-11-18T00:00:00+00:00",
+      "author": "Brad Frost",
+      "description": "We like to make things and help people. That's why I've become fascinated by AI agent skills; I see them as exciting new ways to help people and make things better. So allow me (...and The Beastie Boys, our Eddie design system, and Opus 5.5) to introduce bradfrost/skills ! These skills will help you make better design systems, design & build better work with your design system, and establish healthy limits for AI use. Install them with npx skills add bradfrost/skills or paste the following into…",
+      "link": "https://bradfrost.com/blog/post/skills-to-pay-the-bills/",
+      "image": "https://assets.buttondown.email/images/0e16c623-1d61-41b5-b83d-fed469ea9a80.png?w=960&fit=max",
+      "feed_name": "Brad Frost",
+      "feed_title": "Brad Frost",
+      "category": "personal blogs",
+      "feed_url": "http://feeds.feedburner.com/brad-frosts-blog",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=bradfrost.com&sz=64"
     },
     {
       "id": "https://htmlcssjavascript.com/?p=11528",
