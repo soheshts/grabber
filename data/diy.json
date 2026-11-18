@@ -1,9 +1,51 @@
 {
   "category": "DIY",
-  "updated": "2026-11-18T18:03:58.949469+00:00",
+  "updated": "2026-11-18T18:32:48.725249+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/microsoft-wants-you-to-use-a-pin-instead-of-a-password-for-a-reason/",
+      "title": "Microsoft wants you to use a PIN instead of a password for a reason",
+      "published": "2026-11-18T18:30:17+00:00",
+      "author": "Oluwaseun Bamisile",
+      "description": "Your Windows password follows you everywhere. Your PIN doesn’t.",
+      "link": "https://www.makeuseof.com/microsoft-wants-you-to-use-a-pin-instead-of-a-password-for-a-reason/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/microsoft-windows-11-sign-in-option-pin-lock-screen.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/i-spent-months-putting-off-remote-access-to-my-home-server-but-tailscale-made-it-ridiculously-easy/",
+      "title": "I spent months putting off remote access to my home server, but Tailscale made it ridiculously easy",
+      "published": "2026-11-18T18:30:15+00:00",
+      "author": "Ismar Hrnjicevic",
+      "description": "I never realized how much I was missing out on by keeping my home server LAN-only.",
+      "link": "https://www.howtogeek.com/i-spent-months-putting-off-remote-access-to-my-home-server-but-tailscale-made-it-ridiculously-easy/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/tailscale_phone.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/alienware-15-productivity-and-gaming/",
+      "title": "You don't need two separate laptops for productivity and gaming with the Alienware 15",
+      "published": "2026-11-18T18:09:10+00:00",
+      "author": "Sponsored",
+      "description": "This article is sponsored by Dell",
+      "link": "https://www.howtogeek.com/alienware-15-productivity-and-gaming/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/11/dell-alienware-15-front-and-back-views-blue-background.png",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/dewalt-9-gallon-shop-vacuum-black-friday-deal-amazon/",
       "title": "DeWalt's 9-Gallon Shop Vac is now half off ahead of Black Friday",
@@ -45,6 +87,20 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://hackaday.com/?p=1428799",
+      "title": "Serial: The Port That Won’t Die",
+      "published": "2026-11-18T18:00:31+00:00",
+      "author": "Al Williams",
+      "description": "Computers have changed quite a bit over the last 60 years. Good luck plugging in an old MFM disk into your modern computer. Plugging in a parallel printer is difficult, …read more",
+      "link": "https://hackaday.com/2026/11/18/serial-the-port-that-wont-die/",
+      "image": "https://hackaday.com/wp-content/uploads/2024/10/Teletype.jpg",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
     },
     {
       "id": "https://www.makeuseof.com/copyparty-turn-old-windows-laptop-into-file-server/",
@@ -13947,62 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.makeuseof.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/unexpected-things-you-can-do-with-a-mini-pc/",
-      "title": "5 unexpected things you can do with a $100 mini PC",
-      "published": "2026-11-05T12:30:16+00:00",
-      "author": "Adam Davidson",
-      "description": "Think outside the (tiny) box.",
-      "link": "https://www.howtogeek.com/unexpected-things-you-can-do-with-a-mini-pc/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2025/07/a-mini-pc-with-a-steam-controller-and-a-gamecube-in-an-entertainment-center.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://hackaday.com/?p=1397930",
-      "title": "Finger Joint Cutter Uses a Jigsaw Blade, But Not As We Know It",
-      "published": "2026-11-05T12:00:32+00:00",
-      "author": "Donald Papp",
-      "description": "Around these parts, finger joints (or box joints) are usually the product of laser cutting. [bluesyann] shows us a method of using a stationary jigsaw, a custom blade, and 3D-printed …read more",
-      "link": "https://hackaday.com/2026/11/05/finger-joint-cutter-uses-a-jigsaw-blade-but-not-as-we-know-it/",
-      "image": "https://hackaday.com/wp-content/uploads/2026/11/Jigsaw-Box-Joint-Cutter-2-banner.png",
-      "feed_name": "Blog – Hackaday",
-      "feed_title": "Blog – Hackaday",
-      "category": "DIY",
-      "feed_url": "https://hackaday.com/blog/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/turn-off-this-windows-feature-for-better-internet-speed/",
-      "title": "The one Windows feature everyone should turn off immediately for better internet speed",
-      "published": "2026-11-05T12:00:18+00:00",
-      "author": "Pankil Shah",
-      "description": "Unlock the internet speeds you've been paying for.",
-      "link": "https://www.makeuseof.com/turn-off-this-windows-feature-for-better-internet-speed/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/laptop-showing-internet-speeds.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/why-i-stopped-opening-acrobat-for-everyday-pdf-edits-and-switched-to-firefox/",
-      "title": "5 free Firefox features that make Adobe Acrobat unnecessary",
-      "published": "2026-11-05T12:00:17+00:00",
-      "author": "Diana Todea",
-      "description": "Firefox’s PDF editor makes daily tasks free and frictionless",
-      "link": "https://www.howtogeek.com/why-i-stopped-opening-acrobat-for-everyday-pdf-edits-and-switched-to-firefox/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/firefox-pdf-editor.jpeg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
     }
   ]
 }
