@@ -1,9 +1,23 @@
 {
   "category": "science",
-  "updated": "2026-11-18T03:33:43.815816+00:00",
+  "updated": "2026-11-18T04:02:58.413231+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "news714149102",
+      "title": "Photon fluctuations offer new way to probe electron dynamics in crystals",
+      "published": "2026-11-18T03:40:08+00:00",
+      "author": null,
+      "description": "Intense laser light can make a crystal emit new colors at frequencies many times higher than that of the original beam. This process, known as high-harmonic generation, provides a powerful way to investigate the rapid motion of electrons in solids. Researchers usually study the brightness and spectrum of the emitted light. Yet those measurements capture only part of the available information. Fluctuations between individual laser pulses can also reveal how the emission is produced.",
+      "link": "https://phys.org/news/2026-11-photon-fluctuations-probe-electron-dynamics.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/reading-electron-dynam.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
     {
       "id": "https://www.nytimes.com/2026/11/17/us/overton-fda-nomination-withdrawn.html",
       "title": "White House Withdraws Nomination of Heidi Overton to Be F.D.A. Commissioner",
@@ -13989,20 +14003,6 @@
       "category": "science",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "news713459007",
-      "title": "Tiny beetle trapped in 53-million-year-old amber is named after Twenty One Pilots",
-      "published": "2026-11-09T20:04:16+00:00",
-      "author": null,
-      "description": "Preserved in amber for about 53 million years, a beetle has been described as a new species by researchers in Spain and France. Named Cnopus twentyonepilotorum, it is the first puppet beetle (family Aderidae) to be formally described from the Oise amber of northern France. The findings are published in the journal ZooKeys.",
-      "link": "https://phys.org/news/2026-11-tiny-beetle-million-year-amber.html",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tiny-beetle-trapped-in.jpg",
-      "feed_name": "Phys.org - latest science and technology news stories",
-      "feed_title": "Phys.org - latest science and technology news stories",
-      "category": "science",
-      "feed_url": "https://phys.org/rss-feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
     }
   ]
 }
