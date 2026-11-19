@@ -1,9 +1,23 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-19T14:03:54.979582+00:00",
+  "updated": "2026-11-19T14:33:31.941743+00:00",
   "count": 444,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.lukew.com/ff/entry.asp?2172",
+      "title": "Design by Playground",
+      "published": "2026-11-19T14:00:00+00:00",
+      "author": "Luke Wroblewski",
+      "description": "For all the years there's been software designers, there's been a dominant software design tool: Photoshop, Sketch, Figma. Increasingly though, designers are making their own highly specific (and disposable) design tools using AI coding agents. Let's call it \"design by playground.\" So what's a playground? If you've been a front end developer, a playground isn't a new concept. Effectively, you create a tool that allows you to manipulate variables and see their outcomes on an interface in real ti…",
+      "link": "https://www.lukew.com/ff/2172/design-by-playground",
+      "image": "http://static.lukew.com/trace_emial_playground.png",
+      "feed_name": "LukeW | Digital Product Design + Strategy",
+      "feed_title": "LukeW | Digital Product Design + Strategy",
+      "category": "personal blogs",
+      "feed_url": "http://feeds.feedburner.com/FunctioningForm",
+      "feed_icon": "https://static.lukew.com/lukew_space.png"
+    },
     {
       "id": "https://shkspr.mobi/blog/?p=77716",
       "title": "Theatre Review: FORT – a new opera ★★★☆☆",
@@ -5491,20 +5505,6 @@
       "category": "personal blogs",
       "feed_url": "http://feeds.feedburner.com/robweychert",
       "feed_icon": "https://www.google.com/s2/favicons?domain=v7.robweychert.com&sz=64"
-    },
-    {
-      "id": "https://gomakethings.com/articles/documentation-driven-development/",
-      "title": "Documentation-Driven Development",
-      "published": "2026-10-20T14:30:00+00:00",
-      "author": null,
-      "description": "Last week, I needed to make some pretty major updates to a web component in a design system I use for clients. I’m a big fan of TDD, but I wasn’t mentally in a place to write my tests first. I decided the easiest thing to do was document how the new component would work… before actually writing any code to implement the updates. It was an entirely ADHD-driven decision, but it unlocked something for me!",
-      "link": "https://gomakethings.com/articles/documentation-driven-development/",
-      "image": null,
-      "feed_name": "Go Make Things",
-      "feed_title": "Go Make Things",
-      "category": "personal blogs",
-      "feed_url": "https://gomakethings.com/feed/index.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=gomakethings.com&sz=64"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",

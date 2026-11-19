@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-19T14:03:54.979582+00:00",
+  "updated": "2026-11-19T14:33:31.941743+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/home-streaming-server-rookie-mistakes-avoid/",
+      "title": "I built a home streaming server and made 3 rookie mistakes you can avoid",
+      "published": "2026-11-19T14:30:16+00:00",
+      "author": "Dan Feininger",
+      "description": "Curating your own streaming library is straightforward, but with some pitfalls",
+      "link": "https://www.makeuseof.com/home-streaming-server-rookie-mistakes-avoid/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/jellyfin-configured.png",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/is-it-safe-to-share-your-living-space-with-a-3d-printer/",
+      "title": "Is it safe to share your living space with a 3D printer? Here's what the science says",
+      "published": "2026-11-19T14:30:15+00:00",
+      "author": "Tim Brookes",
+      "description": "Safety first, kids",
+      "link": "https://www.howtogeek.com/is-it-safe-to-share-your-living-space-with-a-3d-printer/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/07/large-format-3d-printer-and-sunlu-filament-dryer-beside-homelab-office-desk.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/we-need-to-talk-about-excel-lambda-function/",
       "title": "We need to talk about the LAMBDA function in Excel",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.makeuseof.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/your-carriers-preinstalled-bloatware-may-slowing-your-android-phone-down/",
-      "title": "Your carrier's preinstalled bloatware may be slowing your Android phone down",
-      "published": "2026-11-05T21:30:15+00:00",
-      "author": "Nate Pangaro",
-      "description": "Hidden bloatware and background processes from your carrier could be secretly slowing down your phone and causing it to overheat.",
-      "link": "https://www.howtogeek.com/your-carriers-preinstalled-bloatware-may-slowing-your-android-phone-down/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/a-phone-with-verizon-as-its-service-provider-avif.png",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/netflix-shows-watch-this-weekend-november-6/",
-      "title": "3 fresh Netflix shows to watch this weekend (November 6-8)",
-      "published": "2026-11-05T21:16:15+00:00",
-      "author": "Dan Girolamo",
-      "description": "The return of a fast-paced action show highlights our list of what to watch this weekend.",
-      "link": "https://www.howtogeek.com/netflix-shows-watch-this-weekend-november-6/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/netflix-n-logo-on-a-dark-background-with-colorful-neon-waves.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
     }
   ]
 }
