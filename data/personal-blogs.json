@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-19T03:33:34.992256+00:00",
-  "count": 439,
+  "updated": "2026-11-19T04:03:47.520673+00:00",
+  "count": 440,
   "summary": null,
   "items": [
     {
@@ -31,6 +31,20 @@
       "category": "personal blogs",
       "feed_url": "https://paulrobertlloyd.com/feed.xml",
       "feed_icon": "/assets/icons/icon-192-any.png"
+    },
+    {
+      "id": "https://katiekodes.com/lead-appsec",
+      "title": "AppSec in my performance review",
+      "published": "2026-11-18T17:00:00+00:00",
+      "author": "Katie",
+      "description": "I'm beaming",
+      "link": "https://katiekodes.com/lead-appsec/",
+      "image": "https://res.cloudinary.com/kkcl/image/upload/t_kkogfbk/w_750,h_380,c_fit,co_white,g_north_west,x_80,y_190,l_text:Inter-bold.otf_80_bold:AppSec%20in%20my%20performance%20review/t_wKK/kk-og-bg-roomier.jpg",
+      "feed_name": "Katie Kodes",
+      "feed_title": "Katie Kodes",
+      "category": "personal blogs",
+      "feed_url": "https://katiekodes.com/feed.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=katiekodes.com&sz=64"
     },
     {
       "id": "https://katiekodes.com/pim-entra-app-role",
