@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-19T05:03:50.885970+00:00",
-  "count": 439,
+  "updated": "2026-11-19T05:33:06.119519+00:00",
+  "count": 440,
   "summary": null,
   "items": [
     {
@@ -31,6 +31,20 @@
       "category": "personal blogs",
       "feed_url": "https://paulrobertlloyd.com/feed.xml",
       "feed_icon": "/assets/icons/icon-192-any.png"
+    },
+    {
+      "id": "https://blog.jim-nielsen.com/2026/email-dumpster-diving/",
+      "title": "Email Dumpster Diving",
+      "published": "2026-11-18T19:00:00+00:00",
+      "author": null,
+      "description": "Sometimes, for fun, I like to go rummage around in my email’s Spam folder. Why? Who knows (probably a question for a licensed medical professional). I think there’s some part of me that chases the dopamine hit of finding a “needle in the haystack”: an email flagged as spam that shouldn’t be (which almost never happens, so I guess this behavior falls under the label of addictive/impulsive seeking). I think there’s also a part of me that enjoys keeping a finger on the pulse of scam tactics, like…",
+      "link": "https://blog.jim-nielsen.com/2026/email-dumpster-diving/",
+      "image": "https://cdn.jim-nielsen.com/blog/2026/phishing-emails-spam.png",
+      "feed_name": "Jim Nielsen’s Blog",
+      "feed_title": "Jim Nielsen’s Blog",
+      "category": "personal blogs",
+      "feed_url": "https://blog.jim-nielsen.com/feed.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=blog.jim-nielsen.com&sz=64"
     },
     {
       "id": "https://katiekodes.com/lead-appsec",
