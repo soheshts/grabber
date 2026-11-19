@@ -1,9 +1,23 @@
 {
   "category": "World News",
-  "updated": "2026-11-19T07:03:58.249797+00:00",
+  "updated": "2026-11-19T07:33:12.128849+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo#0",
+      "title": "Crimean Bridge attacked again, Russia says",
+      "published": "2026-11-19T07:32:06+00:00",
+      "author": null,
+      "description": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory.",
+      "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e29a/live/4b7210d0-e3ad-11f1-b942-5da5bfac5a5a.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
     {
       "id": "https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin-kylin-villa.html",
       "title": "Villa Where Trump, Xi and Putin Will Meet Once Hosted Kim Jong-il",
@@ -185,6 +199,34 @@
       "category": "World News",
       "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
       "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/uk/british-airways-passenger-ed-butler-spent-more-than-2000-on-a-family-hotel-after-a-cancelled-flight-then-took-the-airline-to-court-over-12-in-unpaid-interest-and-won/articleshow/135979101.cms",
+      "title": "British Airways passenger wins £12 interest case after £2,000 hotel bill",
+      "published": "2026-11-19T05:50:41+00:00",
+      "author": "TOI World Desk",
+      "description": "",
+      "link": "https://timesofindia.indiatimes.com/world/uk/british-airways-passenger-ed-butler-spent-more-than-2000-on-a-family-hotel-after-a-cancelled-flight-then-took-the-airline-to-court-over-12-in-unpaid-interest-and-won/articleshow/135979101.cms",
+      "image": "https://static.toiimg.com/photo/msid-135979152,imgsize-982802.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/us/a-us-partnership-turned-2-5-million-pounds-of-unsold-food-and-drinks-into-renewable-energy-and-fertiliser-in-15-months-heres-how-the-waste-recovery-process-works/articleshow/135978956.cms",
+      "title": "A US partnership turned 2.5 million pounds of unsold food and drinks into renewable energy",
+      "published": "2026-11-19T05:45:27+00:00",
+      "author": "TOI World Desk",
+      "description": "",
+      "link": "https://timesofindia.indiatimes.com/world/us/a-us-partnership-turned-2-5-million-pounds-of-unsold-food-and-drinks-into-renewable-energy-and-fertiliser-in-15-months-heres-how-the-waste-recovery-process-works/articleshow/135978956.cms",
+      "image": "https://static.toiimg.com/photo/msid-135979080,imgsize-137459.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/uk/in-2016-elton-john-gave-a-piano-to-a-london-railway-station-for-anyone-to-play-10-years-later-the-instrument-is-going-to-auction-with-an-estimate-of-120000-to-250000-to-benefit-his-aids-foundation/articleshow/135976337.cms",
@@ -423,20 +465,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo#0",
-      "title": "Crimean Bridge attacked again, Russian official says",
-      "published": "2026-11-19T04:37:17+00:00",
-      "author": null,
-      "description": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory.",
-      "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e29a/live/4b7210d0-e3ad-11f1-b942-5da5bfac5a5a.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "https://timesofindia.indiatimes.com/science/archaeology/metal-detectorist-daniel-crowe-found-a-viking-hoard-on-the-isle-of-man-including-a-sword-3-bronze-brooches-and-trading-scales-from-around-ad-900-it-has-now-gone-on-display-at-manx-museum/articleshow/135964307.cms",
@@ -916,12 +944,12 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo#0",
-      "title": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
+      "title": "AI giant Anthropic valued at $1.5 trillion ahead of stock market debut",
       "published": "2026-11-19T02:20:15+00:00",
       "author": null,
-      "description": "The firm started just five years ago and is now one of the biggest names in artificial intelligence.",
+      "description": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
       "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a11/live/4dfcb420-e37d-11f1-b879-03485a55c082.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5445/live/2966d1e0-e3eb-11f1-a16c-7de3762c094b.jpg",
       "feed_name": "BBC News - World",
       "feed_title": "BBC News",
       "category": "World News",
@@ -13975,34 +14003,6 @@
       "category": "World News",
       "feed_url": "https://www.theguardian.com/world/rss",
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/nov/16/pope-leo-speech-peru-justice-for-amazon-activists-environment",
-      "title": "‘The blood of these brothers cries out’: Pope Leo demands justice for people killed protecting the Amazon",
-      "published": "2026-11-16T01:13:44+00:00",
-      "author": "Dan Collyns and Associated Press",
-      "description": "Pontiff delivers forceful speech in Peru as he travels from high in the Andes into the Amazon Pope Leo XIV has demanded justice for environmental defenders killed for protecting the Amazon and backed efforts by Indigenous peoples to stop their lands from being ravaged by logging and illegal mining. On the penultimate day of his South American tour, Leo on Sunday travelled into the Peruvian Amazon and channelled one of Pope Francis’s core teachings that links care for the most vulnerable with ca…",
-      "link": "https://www.theguardian.com/world/2026/nov/16/pope-leo-speech-peru-justice-for-amazon-activists-environment",
-      "image": "https://i.guim.co.uk/img/media/5656d136eaed416d7dd76ab2932c283b5ce64f39/373_0_3525_2820/master/3525.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9d9701e4cbe79a67cb3d91d45cdf9539",
-      "feed_name": "The Guardian",
-      "feed_title": "World news | The Guardian",
-      "category": "World News",
-      "feed_url": "https://www.theguardian.com/world/rss",
-      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o#1",
-      "title": "Clothing factories shut in Bangladesh as workers strike over pay",
-      "published": "2026-11-16T01:05:44+00:00",
-      "author": null,
-      "description": "Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month.",
-      "link": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6da5/live/b3273710-e0ff-11f1-bf0e-b9e6941e1cc7.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     }
   ]
 }
