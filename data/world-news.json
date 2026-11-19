@@ -1,9 +1,65 @@
 {
   "category": "World News",
-  "updated": "2026-11-19T22:03:02.761783+00:00",
+  "updated": "2026-11-19T22:33:33.018470+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.theguardian.com/australia-news/2026/nov/19/mark-speakman-resigns-and-says-liberals-face-existential-threat-as-nsw-exodus-continues",
+      "title": "Mark Speakman resigns and says Liberals face ‘existential threat’ as NSW exodus continues",
+      "published": "2026-11-19T22:17:09+00:00",
+      "author": "Penry Buckley",
+      "description": "Former NSW opposition leader warns party against becoming ‘Labor lite’ or ‘One Nation lite’ in late-night speech Get our breaking news email , free app or daily news podcast Former New South Wales opposition leader Mark Speakman will not contest his seat at the March state election, the latest in a mass exodus of MPs under the Liberal leader who replaced him, Kellie Sloane. In a late-night speech on Thursday, the final sitting day of NSW’s legislative assembly before the vote, Speakman said he…",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/19/mark-speakman-resigns-and-says-liberals-face-existential-threat-as-nsw-exodus-continues",
+      "image": "https://i.guim.co.uk/img/media/3efee6d1eaff0fd0c1f56834a875969ecd396eb3/2910_595_6221_4977/master/6221.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b18af9f5d72ad16bfbb91de7df7ab183",
+      "feed_name": "The Guardian",
+      "feed_title": "World news | The Guardian",
+      "category": "World News",
+      "feed_url": "https://www.theguardian.com/world/rss",
+      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko#0",
+      "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
+      "published": "2026-11-19T22:09:04+00:00",
+      "author": null,
+      "description": "Fiona, who became an internet star after her premature birth in 2017, \"fought until she couldn’t anymore\", the zoo says.",
+      "link": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff3b/live/b1a3a370-e464-11f1-99a1-253766e7ad8b.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec",
+      "title": "Trump, Xi and Putin Seek to Project Power at Their First Summit",
+      "published": "2026-11-19T22:04:42+00:00",
+      "author": "The New York Times",
+      "description": "The meeting in China appeared to be largely symbolic. After President Trump departed, President Vladimir V. Putin said that Russia would not negotiate with Ukraine on a cease-fire.",
+      "link": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-promo-7am-et/19trump-summits-nuclear-02-tpbq-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/limiting-nuclear-weapons-will-be-hard-says-donald-trump-after-meetings-with-xi-putin-12351824#publisher=newsstand",
+      "title": "Limiting Nuclear Weapons Will Be Hard, Says Trump After Meetings With Xi, Putin",
+      "published": "2026-11-19T21:47:30+00:00",
+      "author": null,
+      "description": "A top priority for Trump on the trip was to begin three-way talks about nuclear weapons.",
+      "link": "https://www.ndtv.com/world-news/limiting-nuclear-weapons-will-be-hard-says-donald-trump-after-meetings-with-xi-putin-12351824#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-11/sn8aqkho_trump-xi-putin-meeting_625x300_20_November_26.jpeg",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
     {
       "id": "108555826",
       "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
@@ -34,7 +90,7 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o#0",
-      "title": "Anthropic becomes most valuable AI firm as shares soar in stock market debut",
+      "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
       "published": "2026-11-19T21:38:42+00:00",
       "author": null,
       "description": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
@@ -90,20 +146,6 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko#1",
-      "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
-      "published": "2026-11-19T21:26:10+00:00",
-      "author": null,
-      "description": "\"She fought until she couldn’t anymore,\" the Cincinnati Zoo said in a statement. Fiona became ill a few days after the incident.",
-      "link": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0deb/live/75026a20-e45d-11f1-a599-65f550c2a35a.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko#0",
       "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
       "published": "2026-11-19T21:26:10+00:00",
       "author": null,
@@ -250,20 +292,6 @@
       "description": "Grand Theft Auto once caused a moral panic. Now, it’s a “signature cultural event.”",
       "link": "https://www.nytimes.com/2026/11/19/world/gta-anthropic-shenzhen-summit.html",
       "image": null,
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec",
-      "title": "Trump, Xi and Putin Seek to Project Power at Their First Summit",
-      "published": "2026-11-19T20:47:57+00:00",
-      "author": "The New York Times",
-      "description": "The meeting in China appeared to be largely symbolic. After President Trump departed, President Vladimir V. Putin said that Russia would not negotiate with Ukraine on a cease-fire.",
-      "link": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec",
-      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-promo-7am-et/19trump-summits-nuclear-02-tpbq-mediumSquareAt3X.jpg",
       "feed_name": "NYT",
       "feed_title": "NYT > World News",
       "category": "World News",
@@ -1809,20 +1837,6 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "https://www.theguardian.com/australia-news/2026/nov/19/mark-speakman-resigns-and-says-liberals-face-existential-threat-as-nsw-exodus-continues",
-      "title": "Mark Speakman resigns and says Liberals face ‘existential threat’ as NSW exodus continues",
-      "published": "2026-11-19T11:23:41+00:00",
-      "author": "Penry Buckley",
-      "description": "Former NSW opposition leader warns party against becoming ‘Labor lite’ or ‘One Nation lite’ in late-night speech Get our breaking news email , free app or daily news podcast Former New South Wales opposition leader Mark Speakman will not contest his seat at the March state election, the latest in a mass exodus of MPs under the Liberal leader who replaced him, Kellie Sloane. In a late-night speech on Thursday, the final sitting day of NSW’s legislative assembly before the vote, Speakman said he…",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/19/mark-speakman-resigns-and-says-liberals-face-existential-threat-as-nsw-exodus-continues",
-      "image": "https://i.guim.co.uk/img/media/3efee6d1eaff0fd0c1f56834a875969ecd396eb3/2910_595_6221_4977/master/6221.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b18af9f5d72ad16bfbb91de7df7ab183",
-      "feed_name": "The Guardian",
-      "feed_title": "World news | The Guardian",
-      "category": "World News",
-      "feed_url": "https://www.theguardian.com/world/rss",
-      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
     },
     {
       "id": "https://www.theguardian.com/environment/2026/nov/19/baobab-five-trees-south-africa-dug-up-export-blocked-georgia-aoe",
@@ -13989,20 +14003,6 @@
       "category": "World News",
       "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
       "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/nov/16/xi-jinping-donald-trump-vladimir-putin-world-peace-trilateral-says-china",
-      "title": "Xi, Trump and Putin to discuss ‘world peace’ at trilateral, says China",
-      "published": "2026-11-16T14:29:55+00:00",
-      "author": "Rebecca Bailey in Shenzhen, Andrew Roth in Washington and agencies",
-      "description": "Beijing stops short of confirming specific agenda items, but many hope world’s three biggest nuclear powers will talk about denuclearisation The meeting of Xi Jinping, Donald Trump and Vladimir Putin in Shenzhen this week will cover topics of “groundbreaking significance” including “safeguarding world peace”, the Chinese foreign ministry has said. The confirmation of Thursday’s first-of-their-kind trilateral talks, on the sidelines of the Asia-Pacific Economic Cooperation (Apec) summit , cement…",
-      "link": "https://www.theguardian.com/world/2026/nov/16/xi-jinping-donald-trump-vladimir-putin-world-peace-trilateral-says-china",
-      "image": "https://i.guim.co.uk/img/media/1ed1c93d730d4466d6341a132b8d2b1761b7b08f/937_0_4862_3888/master/4862.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=704bd0f8fc6b6538ffe5164c02c9deb5",
-      "feed_name": "The Guardian",
-      "feed_title": "World news | The Guardian",
-      "category": "World News",
-      "feed_url": "https://www.theguardian.com/world/rss",
-      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
     }
   ]
 }
