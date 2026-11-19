@@ -1,9 +1,51 @@
 {
   "category": "technology",
-  "updated": "2026-11-19T12:33:39.903900+00:00",
+  "updated": "2026-11-19T13:03:49.887660+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.theverge.com/?p=1037100",
+      "title": "I let Apple’s always-listening AI summarize my life for two weeks",
+      "published": "2026-11-19T13:00:00+00:00",
+      "author": "Victoria Song",
+      "description": "Was it worth it? I've been asking myself this quite a bit over the last month or so while testing both the Amazon Bee Frontier and Siri Recap on the Apple Watch Ultra 4. Both enable a wearable to ambiently listen to your conversations and, using AI, summarize them for you. Why? So you can […]",
+      "link": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268874_siri_recaps_AKrales_0070.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "feed_name": "The Verge -  All Posts",
+      "feed_title": "The Verge",
+      "category": "technology",
+      "feed_url": "https://www.theverge.com/rss/index.xml",
+      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
+    },
+    {
+      "id": "TheNextWeb=9be32929b9a13996a9569e8acdfa57a4",
+      "title": "US advertisers spent $70.7M on ChatGPT ads in October, AdClarity estimates",
+      "published": "2026-11-19T12:41:09+00:00",
+      "author": "Ana Maria Constantin",
+      "description": "US advertisers spent an estimated $70.7 million on ChatGPT ads in October, up 127% from $31.1 million in April. That is according to new data from AdClarity, the ad intelligence platform run by BIScience. Across the 24 countries in AdClarity’s October data, estimated spend reached $110.6 million. The US accounted for nearly 64% of it. […] This story continues at The Next Web",
+      "link": "https://thenextweb.com/news/chatgpt-ads-us-spend-70-million-october-adclarity",
+      "image": "https://media.thenextweb.com/2026/11/chatgpt-sponsored-grocery-listing-example-purple-background.avif",
+      "feed_name": "The Next Web",
+      "feed_title": "The Next Web",
+      "category": "technology",
+      "feed_url": "https://thenextweb.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
+    {
+      "id": "TheNextWeb=daaaffc8565c789fa62db83567bdcadb",
+      "title": "California bans Waymo robotaxis from its freeways over construction zones",
+      "published": "2026-11-19T12:38:38+00:00",
+      "author": "Darius Popa",
+      "description": "California’s Department of Motor Vehicles has barred Waymo from running driverless cars on any freeway in the state. The order took effect on 11 November. It became public on Tuesday, when the San Francisco Business Times first reported it. The DMV said in a statement that Waymo’s freeway operations pose an imminent hazard to public […] This story continues at The Next Web",
+      "link": "https://thenextweb.com/news/waymo-california-freeway-ban-dmv-construction-zones",
+      "image": "https://media.thenextweb.com/2026/11/waymo-driver-sensor-dome-jaguar-i-pace-roof-street.avif",
+      "feed_name": "The Next Web",
+      "feed_title": "The Next Web",
+      "category": "technology",
+      "feed_url": "https://thenextweb.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
     {
       "id": "https://www.theverge.com/?p=1037126",
       "title": "Canva adds an AI ‘off’ button",
@@ -31,6 +73,20 @@
       "category": "technology",
       "feed_url": "https://www.engadget.com/rss.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
+    {
+      "id": "5212129",
+      "title": "Canva Has a New Kill Switch for AI: ‘We Know AI Doesn’t Suit Every Task’",
+      "published": "2026-11-19T12:30:00+00:00",
+      "author": "Katelyn Chedraoui",
+      "description": "Many creators don’t want to use AI for legal and ethical reasons. Now Canva is giving them an easy way to opt out.",
+      "link": "https://www.cnet.com/tech/services-and-software/canva-design-ai-kill-switch-news-2026/",
+      "image": "https://www.cnet.com/wp-content/uploads/sites/2/AdobeStock_585917212.jpeg",
+      "feed_name": "CNET News",
+      "feed_title": "News – CNET",
+      "category": "technology",
+      "feed_url": "https://www.cnet.com/rss/news/",
+      "feed_icon": "https://www.cnet.com/wp-content/uploads/sites/2/cropped-favicon-480.png?w=32"
     },
     {
       "id": "TheNextWeb=9c6d03c1eef6227de60bba971320f54e",
@@ -283,6 +339,20 @@
       "category": "technology",
       "feed_url": "http://feeds.mashable.com/Mashable",
       "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
+    },
+    {
+      "id": "https://readwrite.com/?p=658994",
+      "title": "Michigan online casino revenue rises 16.7% in October as US iGaming growth slows",
+      "published": "2026-11-19T10:48:46+00:00",
+      "author": "ReadWrite Editor",
+      "description": "Michigan's online casinos generated $305.3 million in adjusted gross receipts in October, up 16.7% from a year earlier. The double-digit gain comes as national iGaming growth cools, though Michigan's own pace has slowed from a year ago. The post Michigan online casino revenue rises 16.7% in October as US iGaming growth slows appeared first on ReadWrite .",
+      "link": "https://readwrite.com/michigan-online-casino-revenue-rises-16-7-in-october-as-us-igaming-growth-slows/",
+      "image": "https://readwrite.com/wp-content/uploads/2026/11/match-658994-900x601.jpg",
+      "feed_name": "ReadWrite",
+      "feed_title": "ReadWrite",
+      "category": "technology",
+      "feed_url": "https://readwrite.com/feed/",
+      "feed_icon": "https://readwrite.com/wp-content/uploads/2024/10/cropped-readwrite-favicon-32x32.png"
     },
     {
       "id": "06UQw1ArICY35MzAuFZ2WTq",
@@ -13933,76 +14003,6 @@
       "category": "technology",
       "feed_url": "http://feeds.mashable.com/Mashable",
       "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
-    },
-    {
-      "id": "TheNextWeb=e67999823bde781f888c3aa3cfcbcc0d",
-      "title": "Jensen Huang struggled to reach Beijing’s chip policymakers, FT says",
-      "published": "2026-11-14T15:34:04+00:00",
-      "author": "Ana Maria Constantin",
-      "description": "Jensen Huang spent years courting China, but he struggled to reach the officials who decided Nvidia’s fate there, the Financial Times reported. The paper cited people familiar with the matter. Huang resigned as Nvidia’s chief executive on Thursday. He had admitted an affair with Alice Huang, a former Megaspeed executive whom US officials suspect of spying for […] This story continues at The Next Web",
-      "link": "https://thenextweb.com/news/jensen-huang-struggled-to-reach-beijings-chip-policymakers-ft-says",
-      "image": "https://media.thenextweb.com/2026/10/jensen-huang-nvidia-gtc-2026-keynote-3d-campus-model-sap-center.avif",
-      "feed_name": "The Next Web",
-      "feed_title": "The Next Web",
-      "category": "technology",
-      "feed_url": "https://thenextweb.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
-    },
-    {
-      "id": "https://news.slashdot.org/story/26/11/14/0417206/australian-stem-videogame-challenge-canceled-due-to-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "title": "Australian STEM Videogame Challenge Canceled Due To AI",
-      "published": "2026-11-14T15:34:00+00:00",
-      "author": "EditorDavid",
-      "description": "PC Gamer reports: The Australian STEM Videogame Challenge, a \"free national videogame development competition for students,\" has confirmed that the rise of generative AI means this year's event will be the last... Speculation as to the cause of the program's cancellation focused primarily on the presence of AI in entries: Another self-proclaimed judge said the problem wasn't merely the use of AI in itself but that \"some students just completely generate their games with AI....\" [T]he Australian…",
-      "link": "https://news.slashdot.org/story/26/11/14/0417206/australian-stem-videogame-challenge-canceled-due-to-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-      "feed_name": "Slashdot",
-      "feed_title": "Slashdot",
-      "category": "technology",
-      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
-    },
-    {
-      "id": "https://www.engadget.com/2311344/switch-to-samsung-galaxy-to-google-pixel/",
-      "title": "Should you make the switch to Samsung Galaxy from Google Pixel?",
-      "published": "2026-11-14T15:30:00+00:00",
-      "author": "Husain Parvez",
-      "description": "Thinking about trading your Google Pixel for a Samsung Galaxy? Some of the biggest differences might not be the ones you expect.",
-      "link": "https://www.engadget.com/2311344/switch-to-samsung-galaxy-to-google-pixel/",
-      "image": "https://www.engadget.com/img/gallery/should-you-make-the-switch-to-samsung-galaxy-from-google-pixel/l-intro-1794253187.jpg",
-      "feed_name": "Engadget",
-      "feed_title": "Engadget - Technology News & Expert Reviews",
-      "category": "technology",
-      "feed_url": "https://www.engadget.com/rss.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
-    },
-    {
-      "id": "TheNextWeb=fa411057327c240b832d6150c4c5434d",
-      "title": "Italy fines Meta €805m over Facebook’s access to Android photos",
-      "published": "2026-11-14T15:27:50+00:00",
-      "author": "Alina Maria Stan",
-      "description": "Italy’s data protection authority, the Garante, has fined Meta €805m, or about $887m. It says the Facebook app for Android accessed photos, videos and their metadata on Italian users’ phones without specific consent or proper notice. The decision, first reported in English by Reuters, targets a gallery suggestions feature available since 2023. While users scroll Facebook, […] This story continues at The Next Web",
-      "link": "https://thenextweb.com/news/italy-fines-meta-805m-facebook-android-photos",
-      "image": "https://media.thenextweb.com/2026/07/meta-stock-best-week-ai-cloud-compute.avif",
-      "feed_name": "The Next Web",
-      "feed_title": "The Next Web",
-      "category": "technology",
-      "feed_url": "https://thenextweb.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
-    },
-    {
-      "id": "https://www.engadget.com/2311266/smart-glasses-replace-monitor-why-not/",
-      "title": "Smart glasses could replace your monitor but they shouldn't — here's why",
-      "published": "2026-11-14T15:15:00+00:00",
-      "author": "Erin Carson",
-      "description": "Smart glasses could one day replace your desk setup with a screen that follows you anywhere. Before you make the switch, there are a few things to consider.",
-      "link": "https://www.engadget.com/2311266/smart-glasses-replace-monitor-why-not/",
-      "image": "https://www.engadget.com/img/gallery/smart-glasses-could-replace-your-monitor-but-they-shouldnt-heres-why/l-intro-1793991316.jpg",
-      "feed_name": "Engadget",
-      "feed_title": "Engadget - Technology News & Expert Reviews",
-      "category": "technology",
-      "feed_url": "https://www.engadget.com/rss.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
     }
   ]
 }

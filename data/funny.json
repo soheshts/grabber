@@ -1,7 +1,7 @@
 {
   "category": "funny",
-  "updated": "2026-11-19T12:33:39.903900+00:00",
-  "count": 722,
+  "updated": "2026-11-19T13:03:49.887660+00:00",
+  "count": 723,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,20 @@
       "category": "funny",
       "feed_url": "http://feeds.feedburner.com/icanhascheezburger",
       "feed_icon": "https://i.chzbgr.com/s/unversioned/images/logos/IcanHas_logo_ol.png"
+    },
+    {
+      "id": "https://thedailywtf.com/articles/a-living-fossil",
+      "title": "CodeSOD: A Living Fossil",
+      "published": "2026-11-19T06:30:00+00:00",
+      "author": "Remy Porter",
+      "description": "Today's anonymous submission is a blast from the past. This comes from an intranet HTML page that has been receiving continuous updates for some time. How long? Well, let's take a peek at how it does its layout. < b > Extension: </ b > x5555 < br /> < b > Email: </ b > : < a href = \"mailto:blahblah@example.com\" > </ a > < br /> < br /> </ td > < td width = 140 > </ td > </ tr > < tr > < td > &nbsp; </ td > </ tr > < tr > < td > &nbsp; </ td > </ tr > </ td > </ table > </ center > <!-- END DIRE…",
+      "link": "https://thedailywtf.com/articles/a-living-fossil",
+      "image": "https://thedailywtf.com/images/inedo/proget-icon.png",
+      "feed_name": "The Daily WTF",
+      "feed_title": "The Daily WTF",
+      "category": "funny",
+      "feed_url": "http://syndication.thedailywtf.com/TheDailyWtf",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thedailywtf.com&sz=64"
     },
     {
       "id": "https://cheezburger.com/47437573/she-wants-cozy-vibes-but-he-wants-to-wear-shorts-and-a-t-shirt-at-home-woman-says-a-disagreement",
