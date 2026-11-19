@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-19T10:32:47.008751+00:00",
+  "updated": "2026-11-19T11:02:49.103778+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/ryobi-battery-rebrand-explained/",
+      "title": "Ryobi changed its battery names, but there's good news for owners",
+      "published": "2026-11-19T11:00:16+00:00",
+      "author": "Jonathon Jachura",
+      "description": "My battery shelf went out of date overnight without a single pack moving, and that turned out to be a good thing.",
+      "link": "https://www.makeuseof.com/ryobi-battery-rebrand-explained/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/09/two-ryobi-batteries-on-desk-1.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/i-built-an-open-source-e-ink-wi-fi-sign-so-i-could-finally-give-my-guest-network-a-real-password/",
+      "title": "I built an open-source e-ink Wi-Fi sign so I could finally give my guest network a real password",
+      "published": "2026-11-19T11:00:15+00:00",
+      "author": "Patrick Campanale",
+      "description": "Guests scan once and they're online, no 32-character password required.",
+      "link": "https://www.howtogeek.com/i-built-an-open-source-e-ink-wi-fi-sign-so-i-could-finally-give-my-guest-network-a-real-password/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/wifi-sign-thanksgiving-front.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://hackaday.com/?p=1428885",
       "title": "Mesh2Cad Automates Re-Modelling",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/google-is-finally-letting-you-turn-off-the-awful-music-in-memories/",
-      "title": "Google is finally letting you turn off the awful music in Memories",
-      "published": "2026-11-05T19:26:42+00:00",
-      "author": "Hamed Paydarfar",
-      "description": "A long overdue toggle hands you control over photo montages, stopping canned soundtracks from hijacking memories.",
-      "link": "https://www.makeuseof.com/google-is-finally-letting-you-turn-off-the-awful-music-in-memories/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/07/google-photos-memory-settings.png",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/i-found-free-streaming-app-with-great-shows-none-of-netflix-ads/",
-      "title": "I found a free streaming app with great shows and none of Netflix's ads",
-      "published": "2026-11-05T19:00:16+00:00",
-      "author": "Sagar Naresh",
-      "description": "Good shows, no ads; basically, the dream.",
-      "link": "https://www.makeuseof.com/i-found-free-streaming-app-with-great-shows-none-of-netflix-ads/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/pbs-hero.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }
