@@ -1,9 +1,23 @@
 {
   "category": "science",
-  "updated": "2026-11-19T06:03:17.235378+00:00",
+  "updated": "2026-11-19T06:33:04.556376+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmeq4nx95qpdo#1",
+      "title": "Developer accused of 'environmental vandalism'",
+      "published": "2026-11-19T06:09:25+00:00",
+      "author": null,
+      "description": "Bellway says the work has been done with an ecologist on site and in compliance with planning consent.",
+      "link": "https://www.bbc.co.uk/news/articles/cmeq4nx95qpdo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a5d/live/f7ab8f50-e35f-11f1-a094-5fdc692f3e33.jpg",
+      "feed_name": "BBC News - Science & Environment",
+      "feed_title": "BBC News",
+      "category": "science",
+      "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
     {
       "id": "https://www.nytimes.com/2026/11/18/world/americas/brazil-amazon-indigenous-contact.html",
       "title": "Uncontacted Awá of Brazil Emerge From Rainforest Seeking Food",
@@ -13984,20 +13998,6 @@
       "description": "Swordfish spend much of their time hunting prey about 600 meters (1,970 feet) below the surface in the ocean twilight zone, but occasionally, they reach depths of more than 1,000 meters (3,280 feet). Now, scientists from the Woods Hole Oceanographic Institution (WHOI) are investigating what may be behind these extreme dives.",
       "link": "https://phys.org/news/2026-11-swordfish-deep-ocean.html",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/swordfish-may-be-using.jpg",
-      "feed_name": "Phys.org - latest science and technology news stories",
-      "feed_title": "Phys.org - latest science and technology news stories",
-      "category": "science",
-      "feed_url": "https://phys.org/rss-feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "news713546221",
-      "title": "AI-generated molecular fingerprints help identify existing compounds with therapeutic potential",
-      "published": "2026-11-10T22:30:01+00:00",
-      "author": null,
-      "description": "Health care researchers have long sought to harness the power of computing to design molecules that bind to specific receptors and can be used as targeted treatments for diseases. Even with the increasing sophistication of artificial intelligence, however, this technological promise has yet to be realized.",
-      "link": "https://phys.org/news/2026-11-ai-generated-molecular-fingerprints-compounds.html",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/using-ai-to-screen-exi.jpg",
       "feed_name": "Phys.org - latest science and technology news stories",
       "feed_title": "Phys.org - latest science and technology news stories",
       "category": "science",

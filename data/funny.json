@@ -1,7 +1,7 @@
 {
   "category": "funny",
-  "updated": "2026-11-19T06:03:17.235378+00:00",
-  "count": 722,
+  "updated": "2026-11-19T06:33:04.556376+00:00",
+  "count": 721,
   "summary": null,
   "items": [
     {
@@ -10097,20 +10097,6 @@
       "category": "funny",
       "feed_url": "https://www.smbc-comics.com/comic/rss",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.smbc-comics.com&sz=64"
-    },
-    {
-      "id": "https://thedailywtf.com/articles/the-outage",
-      "title": "The Outage",
-      "published": "2026-10-20T06:30:00+00:00",
-      "author": "Remy Porter",
-      "description": "At my employer, we use a service called Coveralls, which is a code coverage reporting tool that hooks into your CI pipeline. It takes your lcov reports and gives you some insights, and also makes it easy to cause the CI pipeline to fail if newly added code doesn't have reasonable coverage. I have no strong feelings about the tool, but on February 24th, our CI jobs started failing, and our CI step that talked to Coveralls was the culprit. Coveralls had gone down. That happened to us, and a lot o…",
-      "link": "https://thedailywtf.com/articles/the-outage",
-      "image": "https://thedailywtf.com/images/inedo/buildmaster-icon.png",
-      "feed_name": "The Daily WTF",
-      "feed_title": "The Daily WTF",
-      "category": "funny",
-      "feed_url": "http://syndication.thedailywtf.com/TheDailyWtf",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=thedailywtf.com&sz=64"
     }
   ]
 }
