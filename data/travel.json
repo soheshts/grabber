@@ -1,9 +1,23 @@
 {
   "category": "travel",
-  "updated": "2026-11-19T16:33:36.340150+00:00",
+  "updated": "2026-11-19T17:03:49.404267+00:00",
   "count": 191,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/11/19/world/europe/spain-trains-infrastructure.html",
+      "title": "After Deadly Train Crash, Spain Asks: Did It Grow Too Much, Too Quickly?",
+      "published": "2026-11-19T16:56:13+00:00",
+      "author": "Jason Horowitz and Carlos Barragán",
+      "description": "As an election nears, a railway disaster in Spain has set off debate over whether maintenance of its infrastructure kept pace with its booming population.",
+      "link": "https://www.nytimes.com/2026/11/19/world/europe/spain-trains-infrastructure.html",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-spain-trains-01-pvbh/19int-spain-trains-01-pvbh-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Travel",
+      "feed_title": "NYT > Travel",
+      "category": "travel",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "https://www.atlasobscura.com/places/abdulla-avloni-memorial-museum",
       "title": "Abdulla Avloni Memorial Museum in Tashkent, Uzbekistan",
@@ -31,20 +45,6 @@
       "category": "travel",
       "feed_url": "https://www.theguardian.com/uk/travel/rss",
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/19/world/europe/spain-trains-infrastructure.html",
-      "title": "After Train Crash, Spain Asks if High-Speed Rail Grew Too Fast",
-      "published": "2026-11-19T05:01:08+00:00",
-      "author": "Jason Horowitz and Carlos Barragán",
-      "description": "As an election nears, a railway disaster in Spain has set off debate over whether maintenance of its infrastructure kept pace with its booming population.",
-      "link": "https://www.nytimes.com/2026/11/19/world/europe/spain-trains-infrastructure.html",
-      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-spain-trains-01-pvbh/19int-spain-trains-01-pvbh-mediumSquareAt3X.jpg",
-      "feed_name": "NYT > Travel",
-      "feed_title": "NYT > Travel",
-      "category": "travel",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://www.nytimes.com/2026/11/16/t-magazine/travel/favorite-walks.html",
