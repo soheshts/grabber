@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-19T00:02:54.901423+00:00",
+  "updated": "2026-11-19T00:33:06.623734+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://hackaday.com/?p=1428649",
+      "title": "Tracking Down a Mystery Beep By Giving a Coding Agent a Few Ears",
+      "published": "2026-11-19T00:00:53+00:00",
+      "author": "Donald Papp",
+      "description": "[Simon Willison] recently used a coding agent in an unusual way. A software system temporarily used the microphones on devices scattered around the room to triangulate the source of a …read more",
+      "link": "https://hackaday.com/2026/11/18/tracking-down-a-mystery-beep-by-giving-a-coding-agent-a-few-ears/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/beep-locator-ui-banner.png",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/codex-built-crazy-home-assistant-dashboard/",
       "title": "I gave Codex free rein to build a Home Assistant dashboard, and it came up with something I've never seen",
@@ -13989,20 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/windows-laptop-shouldnt-losing-battery-overnight/",
-      "title": "Your Windows laptop shouldn't be losing this much battery overnight",
-      "published": "2026-11-05T17:01:18+00:00",
-      "author": "Yadullah Abidi",
-      "description": "If your laptop “sleeps” all night and wakes up with no battery, blame Modern Standby.",
-      "link": "https://www.makeuseof.com/windows-laptop-shouldnt-losing-battery-overnight/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/04/windows-11-laptop-desk-setup.JPG",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }
