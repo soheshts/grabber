@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-19T17:03:49.404267+00:00",
+  "updated": "2026-11-19T17:33:45.203636+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.howtogeek.com/ubuntu-is-rewriting-linux-foundations-in-rust-and-youll-feel-it/",
+      "title": "Ubuntu is rewriting Linux foundations in Rust, and you'll feel it",
+      "published": "2026-11-19T17:30:15+00:00",
+      "author": "Nimrah Chaudhry",
+      "description": "Ubuntu's Rustification has split the community. Some cheer its security benefits, while others are furious about licensing, bugs, and pace of change.",
+      "link": "https://www.howtogeek.com/ubuntu-is-rewriting-linux-foundations-in-rust-and-youll-feel-it/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/ubuntu-rust-implementation-feature-image_4080x2720.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/why-restarting-windows-can-fix-problems-that-shutting-down-wont/",
       "title": "Why restarting Windows can fix problems that shutting down won't",
@@ -13984,20 +13998,6 @@
       "description": "A sweeping firmware push brings webOS 26 and an AI image generator for Gallery, alongside a whole host of changes",
       "link": "https://www.makeuseof.com/older-lg-tvs-are-getting-a-major-free-upgrade/",
       "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/08/lg-tv-47ls5700-tb-old-outdated-interface.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/nvidia-hid-a-video-upgrade-in-my-gaming-gpu-and-id-been-ignoring-it/",
-      "title": "Nvidia hid a video upgrade in my gaming GPU, and I’d been ignoring it",
-      "published": "2026-11-06T11:00:16+00:00",
-      "author": "Shaheer Khan",
-      "description": "Your Nvidia GPU has a free upscaler that sharpens old videos and adds HDR",
-      "link": "https://www.makeuseof.com/nvidia-hid-a-video-upgrade-in-my-gaming-gpu-and-id-been-ignoring-it/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/07/close-up-of-the-asus-tuf-gaming-rtx-3090-graphics-card-heatsink-and-power-cables.jpeg",
       "feed_name": "MUO - Feed",
       "feed_title": "MakeUseOf",
       "category": "DIY",
