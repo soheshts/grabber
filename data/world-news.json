@@ -1,13 +1,13 @@
 {
   "category": "World News",
-  "updated": "2026-11-19T17:33:45.203636+00:00",
+  "updated": "2026-11-19T18:03:50.353932+00:00",
   "count": 1000,
   "summary": null,
   "items": [
     {
       "id": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec",
       "title": "Trump, Xi and Putin Seek to Project Power at Their First Summit",
-      "published": "2026-11-19T17:25:18+00:00",
+      "published": "2026-11-19T17:57:09+00:00",
       "author": "The New York Times",
       "description": "The meeting in China appeared to be largely symbolic. After President Trump departed, President Vladimir V. Putin said that Russia would not negotiate with Ukraine on a cease-fire.",
       "link": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec",
@@ -17,6 +17,48 @@
       "category": "World News",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide",
+      "title": "U.N. Court Rules Myanmar Committed Genocide Against Rohingya",
+      "published": "2026-11-19T17:57:09+00:00",
+      "author": "The New York Times",
+      "description": "Myanmar became the first state held accountable for violating the 1948 Genocide Convention. The ruling by the International Court of Justice could have broad implications.",
+      "link": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19myanmar-icj-hkzc/19myanmar-icj-hkzc-mediumSquareAt3X-v2.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/19/world/europe/myanmar-genocide-icj-decision-.html",
+      "title": "Myanmar Committed Genocide Against the Rohingya, Top Global Court Finds",
+      "published": "2026-11-19T17:55:22+00:00",
+      "author": "Jeanna Smialek and Hannah Beech",
+      "description": "In a decision with potentially broad implications, the International Court of Justice found a state culpable of genocide for the first time.",
+      "link": "https://www.nytimes.com/2026/11/19/world/europe/myanmar-genocide-icj-decision-.html",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-ICJ-Myanmar-01-fkth/19int-ICJ-Myanmar-01-fkth-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o#0",
+      "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+      "published": "2026-11-19T17:38:22+00:00",
+      "author": null,
+      "description": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion.",
+      "link": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1107/live/91612f50-e42e-11f1-99a1-253766e7ad8b.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "https://www.nytimes.com/2026/11/19/world/asia/russia-china-united-states-oil-joint-statement.html",
@@ -327,20 +369,6 @@
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
-      "id": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide",
-      "title": "U.N. Court Rules Myanmar Committed Genocide Against Rohingya",
-      "published": "2026-11-19T16:16:31+00:00",
-      "author": "The New York Times",
-      "description": "Myanmar became the first state held accountable for violating the 1948 Genocide Convention. The ruling by the International Court of Justice could have broad implications.",
-      "link": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide",
-      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19myanmar-icj-hkzc/19myanmar-icj-hkzc-mediumSquareAt3X-v2.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
       "id": "https://www.nytimes.com/2026/11/19/world/europe/greenland-time-zone-change-us.html",
       "title": "Greenland Pulls Closer to the U.S. — by an Hour",
       "published": "2026-11-19T16:14:05+00:00",
@@ -465,20 +493,6 @@
       "category": "World News",
       "feed_url": "https://www.theguardian.com/world/rss",
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o#0",
-      "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
-      "published": "2026-11-19T15:23:34+00:00",
-      "author": null,
-      "description": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion.",
-      "link": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1107/live/91612f50-e42e-11f1-99a1-253766e7ad8b.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "108555303",
@@ -13989,20 +14003,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.bbc.co.uk/sport/football/articles/cjr4gr2k41dxo#1",
-      "title": "Klopp says Infantino worse than Blatter",
-      "published": "2026-11-16T11:27:08+00:00",
-      "author": null,
-      "description": "Germany manager Jurgen Klopp says he \"didn't think things could get worse after Sepp Blatter, but someone has managed to do just that\" as he calls for Fifa president Gianni Infantino to be replaced.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cjr4gr2k41dxo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/217d/live/86082020-e1ac-11f1-8ee3-23d0d09d2796.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     }
   ]
 }
