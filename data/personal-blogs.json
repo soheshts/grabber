@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-19T23:03:49.434668+00:00",
-  "count": 453,
+  "updated": "2026-11-19T23:33:35.421216+00:00",
+  "count": 452,
   "summary": null,
   "items": [
     {
@@ -9,7 +9,7 @@
       "title": "Introducing CodePen Commander, a CLI tool (cdpn) to manage your CodePen 2.0 Pens",
       "published": "2026-11-19T22:51:03+00:00",
       "author": "Bramus!",
-      "description": "I scratched my own itch (again 😅) and built “CodePen Commander” — a CLI cdpn command to sync local folders with CodePen 2.0 Pens, deploy them, and manage privacy rules right from the terminal.",
+      "description": "I scratched my own itch (again 😅) and built CodePen Commander — a CLI cdpn command to sync local folders with CodePen 2.0 Pens, deploy them, and manage privacy rules right from the terminal.",
       "link": "https://www.bram.us/2026/11/19/codepen-commander-cli-tool-cdpn/",
       "image": "https://www.bram.us/wordpress/wp-content/uploads/2026/11/cdpn-cli-hero.png",
       "feed_name": "Bram.us",
@@ -5617,20 +5617,6 @@
       "category": "personal blogs",
       "feed_url": "https://andrewmiracle.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=andrewmiracle.com&sz=64"
-    },
-    {
-      "id": "https://paulrobertlloyd.com/2026/294/n1/",
-      "title": "",
-      "published": "2026-10-20T23:04:53+00:00",
-      "author": "Paul Robert Lloyd (reply@paulrobertlloyd.com)",
-      "description": "Tonight I watched The Odyssey at the BFI IMAX (and so completed a 3 month odyssey of my own).",
-      "link": "https://paulrobertlloyd.com/2026/294/n1/",
-      "image": null,
-      "feed_name": "Paul Robert Lloyd",
-      "feed_title": "Paul Robert Lloyd",
-      "category": "personal blogs",
-      "feed_url": "https://paulrobertlloyd.com/feed.xml",
-      "feed_icon": "/assets/icons/icon-192-any.png"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
