@@ -1,6 +1,6 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-19T13:03:49.887660+00:00",
+  "updated": "2026-11-19T13:33:42.379790+00:00",
   "count": 444,
   "summary": null,
   "items": [
@@ -829,6 +829,20 @@
       "category": "personal blogs",
       "feed_url": "https://reverentgeek.com/feed.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=reverentgeek.com&sz=64"
+    },
+    {
+      "id": "https://benjamin.parry.is/writing/2026/11/torn/",
+      "title": "Torn",
+      "published": "2026-11-15T00:00:00+00:00",
+      "author": "Benjamin Parry",
+      "description": "Navigating everyday decisions by your guiding principles is hard.",
+      "link": "https://benjamin.parry.is/writing/2026/11/torn/",
+      "image": "https://benjamin.parry.is/assets/images/writing/2026/11/hirayama-night-bombshells.jpg",
+      "feed_name": "Benjamin Parry",
+      "feed_title": "Benjamin Parry – Writing",
+      "category": "personal blogs",
+      "feed_url": "https://benjamin.parry.is//writing/feed.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=benjamin.parry.is&sz=64"
     },
     {
       "id": "https://meiert.com/blog/two-people/",
@@ -5491,20 +5505,6 @@
       "category": "personal blogs",
       "feed_url": "http://feeds.feedburner.com/FunctioningForm",
       "feed_icon": "https://static.lukew.com/lukew_space.png"
-    },
-    {
-      "id": "https://www.joshwcomeau.com/css/interop-2027/",
-      "title": "The Future of CSS ✨",
-      "published": "2026-10-20T13:15:00+00:00",
-      "author": "Josh W. Comeau",
-      "description": "Every year, browser vendors collaborate via the Interop project to synchronize their efforts on new HTML/CSS/JS features. This year, there’s a ton of super exciting features being considered! In this blog post, we’ll explore the CSS of the future, to get a glimpse of what we’ll soon be able to do.",
-      "link": "https://www.joshwcomeau.com/css/interop-2027/",
-      "image": null,
-      "feed_name": "Josh Comeau's blog",
-      "feed_title": "Josh Comeau's blog",
-      "category": "personal blogs",
-      "feed_url": "https://www.joshwcomeau.com/rss.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.joshwcomeau.com&sz=64"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
