@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-19T09:04:03.119451+00:00",
+  "updated": "2026-11-19T09:33:08.104482+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://hackaday.com/?p=1428885",
+      "title": "Mesh2Cad Automates Re-Modelling",
+      "published": "2026-11-19T09:00:52+00:00",
+      "author": "Tyler August",
+      "description": "It’s happened to all of us, we find an STL that would just about solve our problems, but the mesh isn’t quite right. Sometimes mesh-editing is good enough, other times …read more",
+      "link": "https://hackaday.com/2026/11/19/mesh2cad-automates-re-modelling/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/mesh2cad_before_after.png",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/cool-blu-ray-features-everyone-forgot/",
       "title": "4 cool Blu-ray features everyone forgot",
@@ -13989,20 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.makeuseof.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/i-bought-an-oled-tv-last-year-and-i-regret-it/",
-      "title": "I bought an OLED TV last year, and I regret it",
-      "published": "2026-11-05T19:00:15+00:00",
-      "author": "Ismar Hrnjicevic",
-      "description": "I didn't expect buyer's remorse to kick in quite this hard.",
-      "link": "https://www.howtogeek.com/i-bought-an-oled-tv-last-year-and-i-regret-it/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/mercedes_dark.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
     }
   ]
 }
