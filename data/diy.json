@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-19T14:33:31.941743+00:00",
+  "updated": "2026-11-19T15:03:48.156687+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/android-predictive-app-loading-and-phone-got-faster/",
+      "title": "I switched off Android's predictive app loading and my phone got noticeably faster",
+      "published": "2026-11-19T15:00:16+00:00",
+      "author": "Sagar Naresh",
+      "description": "A simple tweak for a faster phone.",
+      "link": "https://www.makeuseof.com/android-predictive-app-loading-and-phone-got-faster/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/10/android-phone-showing-recent-apps.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/board-game-deluxe-editions-are-expensive-so-i-3d-print-my-own-upgrades-instead/",
+      "title": "Board game deluxe editions are expensive, so I 3D print my own upgrades instead",
+      "published": "2026-11-19T15:00:15+00:00",
+      "author": "Patrick Campanale",
+      "description": "The board game community has already designed the upgrades. I just have to print them.",
+      "link": "https://www.howtogeek.com/board-game-deluxe-editions-are-expensive-so-i-3d-print-my-own-upgrades-instead/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/catan-robber-beside-piece-holder.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/home-streaming-server-rookie-mistakes-avoid/",
       "title": "I built a home streaming server and made 3 rookie mistakes you can avoid",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/414201/how-to-check-what-graphics-card-gpu-is-in-your-pc/",
-      "title": "How to check what graphics card (GPU) is in your PC",
-      "published": "2026-11-05T21:50:06+00:00",
-      "author": "Chris Hoffman, Nick Lewis",
-      "description": "Check which GPU is in your PC with just the tools built into Windows itself.",
-      "link": "https://www.howtogeek.com/414201/how-to-check-what-graphics-card-gpu-is-in-your-pc/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/nvidia-geforce-rtx-logo-on-a-4070-ti-gaming-gpu.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/stop-google-messages-compressing-photos-by-default/",
-      "title": "Google Messages was secretly turning my photos into blurry messes until I changed this setting",
-      "published": "2026-11-05T21:30:16+00:00",
-      "author": "Digvijay Kumar",
-      "description": "Stop Google Messages from downscaling your sent photos.",
-      "link": "https://www.makeuseof.com/stop-google-messages-compressing-photos-by-default/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/google-messages-media-quality-setting-on-phone.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }
