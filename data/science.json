@@ -1,9 +1,37 @@
 {
   "category": "science",
-  "updated": "2026-11-19T10:03:59.426788+00:00",
+  "updated": "2026-11-19T10:32:47.008751+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "news714286410",
+      "title": "Cincinnati Zoo trying to shake loose Fiona the hippo after she swallowed a hat",
+      "published": "2026-11-19T10:20:06+00:00",
+      "author": null,
+      "description": "Fiona, the Cincinnati Zoo's famed hippo, underwent a colonoscopy this week, and now veterinarians are trying a new way to help her pass a knit cap that she swallowed after it slipped into her enclosure.",
+      "link": "https://phys.org/news/2026-11-cincinnati-zoo-loose-fiona-hippo.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fiona-the-hippo.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/19/climate/cop31-turkey-event-scene.html",
+      "title": "Inside COP31: Part Trade Show, Part Climate Therapy Session",
+      "published": "2026-11-19T10:02:50+00:00",
+      "author": "Chico Harlan",
+      "description": "A record number of people are attending the U.N. climate talks in Turkey, which has become part trade show, part carnival, part climate therapy session.",
+      "link": "https://www.nytimes.com/2026/11/19/climate/cop31-turkey-event-scene.html",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19CLI-COP31-SCENE-top-qltf/19CLI-COP31-SCENE-top-qltf-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Science",
+      "feed_title": "NYT > Science",
+      "category": "science",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "news714219603",
       "title": "Potatoes grown in simulated lunar soil match Earth-grown performance",
@@ -777,7 +805,7 @@
     {
       "id": "https://www.nytimes.com/2026/11/18/science/ai-virtual-human-cells.html",
       "title": "How Virtual Cells Could Transform Medicine",
-      "published": "2026-11-18T20:06:50+00:00",
+      "published": "2026-11-18T20:06:51+00:00",
       "author": "Carl Zimmer",
       "description": "Biotechs are racing to create A.I. models of human cells, hoping to speed drug development and slow aging. Can computers match the complexity of life?",
       "link": "https://www.nytimes.com/2026/11/18/science/ai-virtual-human-cells.html",
@@ -13975,34 +14003,6 @@
       "category": "science",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "news713539426",
-      "title": "Harnessing laser nuisance achieves record resolution for atomic measurements",
-      "published": "2026-11-10T23:00:07+00:00",
-      "author": null,
-      "description": "A shoebox-sized color detection device could enable precise measurements at record resolution, according to new research led by Adelaide University. An international team exploited an integrating sphere—a highly reflective hollow cavity that causes light to bounce around inside many times before exiting—to demonstrate a device that can measure the color (wavelength) composition of light with extreme precision at a resolution of just 6 femtometers.",
-      "link": "https://phys.org/news/2026-11-harnessing-laser-nuisance-resolution-atomic.html",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/measuring-laser-nuisan-1.jpg",
-      "feed_name": "Phys.org - latest science and technology news stories",
-      "feed_title": "Phys.org - latest science and technology news stories",
-      "category": "science",
-      "feed_url": "https://phys.org/rss-feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "news713542109",
-      "title": "Prison data analysis finds choosing lowest reoffending risk scores preserves overall accuracy",
-      "published": "2026-11-10T23:00:04+00:00",
-      "author": null,
-      "description": "Whether an individual reoffends after their release from prison or is successfully rehabilitated depends on several factors. When assessing the risk of recidivism, all of these are taken into account—both by human experts and by machine learning models. If several equally reliable computational models produce different risk ratings, the lowest value should be used for the individual concerned, suggest Ashwin Singh (TU Wien) and Carlos Castillo (ICREA/Universitat Pompeu Fabra).",
-      "link": "https://phys.org/news/2026-11-prison-analysis-lowest-reoffending-scores.html",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hands-through-prison-b.jpg",
-      "feed_name": "Phys.org - latest science and technology news stories",
-      "feed_title": "Phys.org - latest science and technology news stories",
-      "category": "science",
-      "feed_url": "https://phys.org/rss-feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
     }
   ]
 }

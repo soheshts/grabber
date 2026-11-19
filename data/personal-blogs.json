@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-19T10:03:59.426788+00:00",
-  "count": 444,
+  "updated": "2026-11-19T10:32:47.008751+00:00",
+  "count": 445,
   "summary": null,
   "items": [
     {
@@ -31,6 +31,20 @@
       "category": "personal blogs",
       "feed_url": "https://chriscoyier.net/feed/",
       "feed_icon": "https://i0.wp.com/chriscoyier.net/wp-content/uploads/2021/07/IsUISvAq_400x400.jpg?fit=32%2C32&quality=89&ssl=1"
+    },
+    {
+      "id": "https://www.amitmerchant.com/github-event-streams-for-agents",
+      "title": "Let the Pull Request Wake Your Agent Up",
+      "published": "2026-11-19T00:00:00+00:00",
+      "author": "Amit Merchant",
+      "description": "An AI coding agent can create a pull request, push commits, and even respond to review feedback. But what happens after it has opened a pull request and is waiting for someone to review it?",
+      "link": "https://www.amitmerchant.com/github-event-streams-for-agents/",
+      "image": "https://www.amitmerchant.com/cdn/github-event-streams-for-agents.png",
+      "feed_name": "Amit Merchant",
+      "feed_title": "Amit Merchant",
+      "category": "personal blogs",
+      "feed_url": "https://www.amitmerchant.com/feed.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.amitmerchant.com&sz=64"
     },
     {
       "id": "https://paulrobertlloyd.com/2026/322/j1/",
