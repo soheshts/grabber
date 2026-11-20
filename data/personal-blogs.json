@@ -1,9 +1,23 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-20T12:33:11.684866+00:00",
-  "count": 448,
+  "updated": "2026-11-20T13:03:22.829839+00:00",
+  "count": 450,
   "summary": null,
   "items": [
+    {
+      "id": "https://shkspr.mobi/blog/?p=76319",
+      "title": "Connect a USB Zigbee Device to HAOS",
+      "published": "2026-11-20T12:34:19+00:00",
+      "author": "Terence Eden",
+      "description": "I plugged a Zigbee dongle into my HomeAssistant box, but I couldn't find it in the UI. Here's how to get it working. Buy a USB Zigbee dongle Shove it in the computer running HomeAssistant OS (HAOS) On the command line of your computer, run lsusb Get the two IDs of your Zigbee device - for example 10c4:ea60 Silicon Labs CP210x UART Bridge In the same directory as your HAOS image, create a new…",
+      "link": "https://shkspr.mobi/blog/2026/11/connect-a-usb-zigbee-device-to-haos/",
+      "image": "https://shkspr.mobi/blog/wp-content/uploads/2026/10/Discovered.webp",
+      "feed_name": "Terence Eden’s Blog",
+      "feed_title": "Terence Eden’s Blog",
+      "category": "personal blogs",
+      "feed_url": "https://shkspr.mobi/blog/feed/atom/",
+      "feed_icon": "https://shkspr.mobi/blog/wp-content/uploads/2023/07/cropped-avatar-32x32.jpeg"
+    },
     {
       "id": "https://felixwaller.dev/thinking/banana",
       "title": "banana",
@@ -31,6 +45,20 @@
       "category": "personal blogs",
       "feed_url": "http://rachsmith.com/rss.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=rachsmith.com&sz=64"
+    },
+    {
+      "id": "https://ohhelloana.blog/i-spared-no-expense/",
+      "title": "A new talk in my pocket",
+      "published": "2026-11-20T00:00:00+00:00",
+      "author": "Ana Rodrigues (hello@anarodrigu.es)",
+      "description": "Earlier this year, Pawel from NN1 Dev Club sent me a message inviting me to do a talk. According to him, the topic was simple: “whatever excites you at the moment”. This invitation came around the time I was having a big girl cry over an article that was going viral, claiming that people like me wouldn’t have a job soon because of AI. I really didn’t want to say no to this opportunity, so I gave myself a mission: build the ideas that had been sitting in my notebooks for years, and do it for no…",
+      "link": "https://ohhelloana.blog/i-spared-no-expense/",
+      "image": "https://ohhelloana.blog/assets/posts/mic.jpeg",
+      "feed_name": "Ana Rodrigues",
+      "feed_title": "Ana Rodrigues",
+      "category": "personal blogs",
+      "feed_url": "https://ohhelloana.blog/feed.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=ohhelloana.blog&sz=64"
     },
     {
       "id": "https://www.stefanjudis.com/blog/knowember-2026/",
