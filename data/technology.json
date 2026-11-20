@@ -1,9 +1,51 @@
 {
   "category": "technology",
-  "updated": "2026-11-20T12:03:20.425706+00:00",
+  "updated": "2026-11-20T12:33:11.684866+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.theverge.com/?p=1038390",
+      "title": "Signal is blocking Gemini and Siri AI from reading your screen",
+      "published": "2026-11-20T12:30:47+00:00",
+      "author": "Jess Weatherbed",
+      "description": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user are \"undermining Signal's ability to independently guarantee privacy,\" Signal president […]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/protecting-your-privacy-1.png?quality=90&strip=all&crop=0,0,100,100",
+      "feed_name": "The Verge -  All Posts",
+      "feed_title": "The Verge",
+      "category": "technology",
+      "feed_url": "https://www.theverge.com/rss/index.xml",
+      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
+    },
+    {
+      "id": "https://arstechnica.com/staff/2026/11/science-has-a-home-here-at-ars-please-help-keep-it-that-way/",
+      "title": "Science has a home here at Ars—please help keep it that way",
+      "published": "2026-11-20T12:15:36+00:00",
+      "author": "John Timmer",
+      "description": "Your support for Ars matters more now than ever.",
+      "link": "https://arstechnica.com/staff/2026/11/science-has-a-home-here-at-ars-please-help-keep-it-that-way/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ars-petri-dish-500x500.jpg",
+      "feed_name": "Ars Technica",
+      "feed_title": "Ars Technica",
+      "category": "technology",
+      "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
+      "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
+    },
+    {
+      "id": "https://arstechnica.com/tech-policy/2026/11/trump-admin-still-wont-let-wi-fi-giant-tp-link-sell-its-latest-routers-in-us/",
+      "title": "Trump admin still won't let Wi-Fi giant TP-Link sell its latest routers in US",
+      "published": "2026-11-20T12:00:43+00:00",
+      "author": "Jon Brodkin",
+      "description": "TP-Link's struggle illustrates how Trump admin wields control over device makers.",
+      "link": "https://arstechnica.com/tech-policy/2026/11/trump-admin-still-wont-let-wi-fi-giant-tp-link-sell-its-latest-routers-in-us/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/tp-link-wi-fi-8-500x500.jpg",
+      "feed_name": "Ars Technica",
+      "feed_title": "Ars Technica",
+      "category": "technology",
+      "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
+      "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
+    },
     {
       "id": "https://www.theverge.com/?p=1037667",
       "title": "Why the robots are ditching Uber",
@@ -13961,48 +14003,6 @@
       "category": "technology",
       "feed_url": "http://feeds.mashable.com/Mashable",
       "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
-    },
-    {
-      "id": "02OXE3wu2BDqy4dOlK2ILBS",
-      "title": "Amazon drops an early Black Friday deal on Nothing Ear (3a) earbuds — shop for a new low of $70",
-      "published": "2026-11-16T11:27:26+00:00",
-      "author": null,
-      "description": "As of Nov. 16, the Nothing Ear (3a) have dropped to a new low price of $69 at Amazon, 30% off their list price of $99.",
-      "link": "https://mashable.com/tech/nov-16-nothing-ear-3a-early-black-friday-deal",
-      "image": "https://helios-i.mashable.com/imagery/articles/02OXE3wu2BDqy4dOlK2ILBS/hero-image.jpg",
-      "feed_name": "Mashable",
-      "feed_title": "Mashable",
-      "category": "technology",
-      "feed_url": "http://feeds.mashable.com/Mashable",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
-    },
-    {
-      "id": "006ZQK1t56CmqmKMLjVYvHI",
-      "title": "SNLs Sister sketch is provoking some serious reactions online",
-      "published": "2026-11-16T11:25:14+00:00",
-      "author": null,
-      "description": "A sketch called \"Sister\" from the recent \"SNL\" episode is being widely shared online after striking a nerve with people.",
-      "link": "https://mashable.com/entertainment/snl-sister-sketch-reactions",
-      "image": "https://helios-i.mashable.com/imagery/articles/006ZQK1t56CmqmKMLjVYvHI/hero-image.png",
-      "feed_name": "Mashable",
-      "feed_title": "Mashable",
-      "category": "technology",
-      "feed_url": "http://feeds.mashable.com/Mashable",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
-    },
-    {
-      "id": "TheNextWeb=7ab5c992d88931f293421a57d3a1c4b7",
-      "title": "Vulcan rocket failure destroys 40 Amazon Leo satellites in ULA’s first loss",
-      "published": "2026-11-16T11:17:03+00:00",
-      "author": "Darius Popa",
-      "description": "United Launch Alliance is investigating why its Vulcan rocket failed on Sunday. The loss took 40 Amazon Leo internet satellites with it. It was the first mission ULA has lost since Boeing and Lockheed Martin formed the company in 2006. Vulcan lifted off from Cape Canaveral Space Force Station in Florida at 12:40pm ET (17:40 […] This story continues at The Next Web",
-      "link": "https://thenextweb.com/news/vulcan-rocket-failure-amazon-leo-satellites-ula",
-      "image": "https://media.thenextweb.com/2026/11/ariane-6-rocket-liftoff-kourou-launch-pad-smoke.avif",
-      "feed_name": "The Next Web",
-      "feed_title": "The Next Web",
-      "category": "technology",
-      "feed_url": "https://thenextweb.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
     }
   ]
 }
