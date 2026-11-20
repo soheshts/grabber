@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-20T15:32:33.133734+00:00",
-  "count": 453,
+  "updated": "2026-11-20T16:03:21.436429+00:00",
+  "count": 455,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,20 @@
       "category": "personal blogs",
       "feed_url": "https://www.raymondcamden.com/feed.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.raymondcamden.com&sz=64"
+    },
+    {
+      "id": "https://gomakethings.com/articles/gardening-updates-for-november-2026/",
+      "title": "Gardening updates for November 2026",
+      "published": "2026-11-20T14:30:00+00:00",
+      "author": null,
+      "description": "I’ve been doing a lot of digital gardening this week! I added content to the guides on Anarchy and Anti-Work (they had previously been placeholders). I wrote guides on the ResizeObserver and MutationObserver APIs. I made some small updates to the Array Methods guide, and removed the standalone guide on Array.prototype.slice(). Enjoy!",
+      "link": "https://gomakethings.com/articles/gardening-updates-for-november-2026/",
+      "image": "https://gomakethings.com/img/og.png",
+      "feed_name": "Go Make Things",
+      "feed_title": "Go Make Things",
+      "category": "personal blogs",
+      "feed_url": "https://gomakethings.com/feed/index.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=gomakethings.com&sz=64"
     },
     {
       "id": "https://rknight.me/blog/weeknote-2027/",
@@ -45,6 +59,20 @@
       "category": "personal blogs",
       "feed_url": "https://shkspr.mobi/blog/feed/atom/",
       "feed_icon": "https://shkspr.mobi/blog/wp-content/uploads/2023/07/cropped-avatar-32x32.jpeg"
+    },
+    {
+      "id": "https://alvaromontoro.com/blog/68116/extraordinary-claims-require-extraordinary-accountability",
+      "title": "Extraordinary Claims Require Extraordinary Accountability",
+      "published": "2026-11-20T08:58:03+00:00",
+      "author": "Alvaro Montoro",
+      "description": "As Anthropic's IPO puts the AI industry under the microscope, executives making extraordinary claims about existencial risks should face extraordinary levels of scrutiny and accountability. An opinion piece about the grim claims some AI execs make, and why it is time to start regulating the industry.",
+      "link": "https://alvaromontoro.com/blog/68116/extraordinary-claims-require-extraordinary-accountability",
+      "image": "https://alvaromontoro.com/images/blog/coding.jpg",
+      "feed_name": "Alvaro Montoro's website",
+      "feed_title": "Alvaro Montoro's website",
+      "category": "personal blogs",
+      "feed_url": "https://alvaromontoro.com/feed.rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=alvaromontoro.com&sz=64"
     },
     {
       "id": "https://felixwaller.dev/thinking/banana",
@@ -289,7 +317,7 @@
       "title": "WWW Ep261 Openai Nerfed Your Tokens",
       "published": "2026-11-19T08:00:00+00:00",
       "author": "adam@whiskey.fm",
-      "description": "Ep #261 OpenAI Nerfed Your Tokens Robbie and I sip Jephtha Creed six-year wheated bourbon and talk OpenAI pricing, agents as digital Tamagotchis, hill climbing and quality gauntlets, whether frameworks still matter when LLMs write the code, agent-friendly CLIs, and the hunt for…",
+      "description": "Ep #261 OpenAI Nerfed Your Tokens Robbie and I sip Jephtha Creed and talk OpenAI pricing changes, agents Tamagotchis, hill climbing and quality gauntlets, frameworks and LLMs, agent-friendly CLIs, and the hunt for a Zelda Switch past the scalpers. ⤷ whiskey.fm · yout…",
       "link": "https://nerdy.dev/www-ep261-openai-nerfed-your-tokens?utm_source=rss",
       "image": "https://nerdy.dev/media/www-ep261-art.jpg",
       "feed_name": "Adam Argyle",
