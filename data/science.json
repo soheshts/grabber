@@ -1,9 +1,51 @@
 {
   "category": "science",
-  "updated": "2026-11-20T17:03:25.788133+00:00",
+  "updated": "2026-11-20T17:33:35.353925+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "news714391086",
+      "title": "Theory explains how fusion plasmas enter a state of improved energy confinement, solving a 40-year puzzle",
+      "published": "2026-11-20T17:20:12+00:00",
+      "author": null,
+      "description": "Nuclear fusion promises a source of energy by combining light atomic nuclei, the same process that powers the sun. To achieve fusion on Earth, scientists must heat a gas to extreme temperatures, creating a charged state of matter called plasma. Keeping this plasma hot and stable long enough for fusion energy production is one of the main challenges facing the technology.",
+      "link": "https://phys.org/news/2026-11-theory-fusion-plasmas-state-energy.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/solving-a-40-year-puzz.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "news714389713",
+      "title": "U.K.'s nature health check doesn't stack up in wildlife's favor—but volunteers are collecting plenty of crucial data",
+      "published": "2026-11-20T17:20:02+00:00",
+      "author": null,
+      "description": "As nature declines over time, it becomes easier to normalize an increasingly impoverished environment.",
+      "link": "https://phys.org/news/2026-11-uk-nature-health-doesnt-stack.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/uks-nature-healthcheck.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/20/climate/van-cats-turkey.html",
+      "title": "Turkey’s Van Cats Contend With Rising Temperatures",
+      "published": "2026-11-20T17:13:20+00:00",
+      "author": "Lisa Friedman and Rena Effendi",
+      "description": "A feline research center in Turkey uses air-conditioning and pools to keep residents comfortable as their numbers recover. And yes, they like to swim.",
+      "link": "https://www.nytimes.com/2026/11/20/climate/van-cats-turkey.html",
+      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20CLI-COP-CATS-stillpromo/20CLI-COP-CATS-stillpromo-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Science",
+      "feed_title": "NYT > Science",
+      "category": "science",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "news714389067",
       "title": "More worried, yet more hopeful: The paradox of young people's climate action",
@@ -31,20 +73,6 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/20/climate/van-cats-turkey.html",
-      "title": "Turkey’s Van Cats Contend With Rising Temperatures",
-      "published": "2026-11-20T16:52:30+00:00",
-      "author": "Lisa Friedman and Rena Effendi",
-      "description": "A feline research center in Turkey uses air-conditioning and pools to keep residents comfortable as their numbers recover. And yes, they like to swim.",
-      "link": "https://www.nytimes.com/2026/11/20/climate/van-cats-turkey.html",
-      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20CLI-COP-CATS-stillpromo/20CLI-COP-CATS-stillpromo-mediumSquareAt3X.jpg",
-      "feed_name": "NYT > Science",
-      "feed_title": "NYT > Science",
-      "category": "science",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "news714388489",
@@ -1397,6 +1425,20 @@
       "author": "Richard Van Noorden",
       "description": "Nature, Published online: 20 November 2026; doi:10.1038/d41586-026-03787-5 Long-awaited report makes recommendations for strengthening the reliability of the scientific record.",
       "link": "https://www.nature.com/articles/d41586-026-03787-5",
+      "image": null,
+      "feed_name": "Nature",
+      "feed_title": "Nature",
+      "category": "science",
+      "feed_url": "https://www.nature.com/nature.rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=feeds.nature.com&sz=64"
+    },
+    {
+      "id": "https://www.nature.com/articles/d41586-026-03806-5",
+      "title": "Briefing Chat: Voyager 1 is now one ‘light day’ from Earth — setting a cosmic record",
+      "published": "2026-11-20T00:00:00+00:00",
+      "author": "Benjamin Thompson, Elizabeth Gibney",
+      "description": "Nature, Published online: 20 November 2026; doi:10.1038/d41586-026-03806-5 Nature staff discuss the probe’s epic journey — plus, how vampire bats survive on a blood-only diet.",
+      "link": "https://www.nature.com/articles/d41586-026-03806-5",
       "image": null,
       "feed_name": "Nature",
       "feed_title": "Nature",
@@ -13961,48 +14003,6 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "news713691148",
-      "title": "Study finds midlife women face unique need for workplace flexibility",
-      "published": "2026-11-12T16:00:12+00:00",
-      "author": null,
-      "description": "New research from the Working for Women Research Partnership (WFWRP) shows overlapping life demands make women ages 40–55 more likely than other groups to both want and need workplace flexibility.",
-      "link": "https://phys.org/news/2026-11-midlife-women-unique-workplace-flexibility.html",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/midlife-women-at-work.jpg",
-      "feed_name": "Phys.org - latest science and technology news stories",
-      "feed_title": "Phys.org - latest science and technology news stories",
-      "category": "science",
-      "feed_url": "https://phys.org/rss-feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "https://www.scientificamerican.com/article/ai-is-disrupting-math-is-science-next/",
-      "title": "AI is disrupting math. Is science next?",
-      "published": "2026-11-12T16:00:00+00:00",
-      "author": null,
-      "description": "Mathematicians will remember 2026 as the year AI changed everything about their field. Scientists may be next in line for disruption",
-      "link": "https://www.scientificamerican.com/article/ai-is-disrupting-math-is-science-next/",
-      "image": "https://static.scientificamerican.com/dam/asset/48fc913c-8680-4a02-82af-9e9cb982d092/shutterstock_355336133-WEB.jpg?m=1794498450.674&w=1200",
-      "feed_name": "Scientific American Content: Global",
-      "feed_title": "Scientific American Content: Global",
-      "category": "science",
-      "feed_url": "http://rss.sciam.com/ScientificAmerican-Global",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.scientificamerican.com&sz=64"
-    },
-    {
-      "id": "6ae904cad6c81a0501ef16b2",
-      "title": "Synchron Pauses Trials of Its Brain Implant Due to Performance Issues",
-      "published": "2026-11-12T15:58:21+00:00",
-      "author": "Emily Mullin",
-      "description": "After its latest device struggled to perform, brain-computer interface startup Synchon halted clinical trials. The company says it will upgrade the implant’s hardware and is at work on a new device.",
-      "link": "https://www.wired.com/story/synchron-pauses-trials-of-its-brain-implant-due-to-performance-issues/",
-      "image": "https://media.wired.com/photos/6ae951f7e1fce5fdf7878b36/master/pass/SM_Science_Synchron_GettyImages-1610629090.jpg",
-      "feed_name": "Science Latest",
-      "feed_title": "Science Latest",
-      "category": "science",
-      "feed_url": "https://www.wired.com/feed/category/science/latest/rss",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.wired.com&sz=64"
     }
   ]
 }
