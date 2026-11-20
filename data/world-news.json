@@ -1,13 +1,27 @@
 {
   "category": "World News",
-  "updated": "2026-11-20T03:33:22.542411+00:00",
+  "updated": "2026-11-20T04:03:37.968748+00:00",
   "count": 1000,
   "summary": null,
   "items": [
     {
+      "id": "108555304",
+      "title": "Senate passes BAAJA permitting reform bill backed by AI, energy sectors",
+      "published": "2026-11-20T03:56:17+00:00",
+      "author": null,
+      "description": "The permitting bill's Senate passage is a key step to it becoming law, but it would also need to clear the House before heading to President Trump's desk.",
+      "link": "https://www.cnbc.com/2026/11/20/baaja-bill-senate-passes-permitting-reform.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108251945-1768333647231-gettyimages-2256116889-dji_20260113072220_0857_d_cxyqgr0q.jpeg?v=1795128651&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
       "id": "108556079",
-      "title": "Anthropic IPO 'exactly what the markets need', but analysts warn of volatility",
-      "published": "2026-11-20T03:31:21+00:00",
+      "title": "Anthropic IPO 'exactly what the markets need,' but analysts warn of volatility",
+      "published": "2026-11-20T03:38:07+00:00",
       "author": null,
       "description": "The Anthropic IPO is \"what the markets need.\" However, analysts say its shares will be volatile in the coming weeks.",
       "link": "https://www.cnbc.com/2026/11/20/anthropic-ipo-stocks-market.html",
@@ -17,6 +31,20 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/rest-of-world/isolated-tribe-aw-emereges-from-brazilian-amazon-forest-amid-alarming-threats-by-illegal-invaders/articleshow/135985625.cms",
+      "title": "Isolated tribe Awá emereges from Brazilian Amazon forest amid alarming threats by illegal invaders",
+      "published": "2026-11-20T03:35:25+00:00",
+      "author": "TOI World Desk",
+      "description": "Recently, the elusive Awá tribe, famed for their isolation, reached out to a neighboring settlement in the Arariboia Indigenous territory. In search of food and assistance, their visit exposed the severe impacts of illegal land encroachments. Local villagers documented the meeting, bringing attention to the perils that Indigenous people face. Advocacy groups are demanding stronger safeguards and acknowledgment of the rights of uncontacted tribes to preserve their way of life.",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/isolated-tribe-aw-emereges-from-brazilian-amazon-forest-amid-alarming-threats-by-illegal-invaders/articleshow/135985625.cms",
+      "image": "https://static.toiimg.com/photo/msid-135986441,imgsize-124420.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
       "id": "108556117",
@@ -13975,34 +14003,6 @@
       "category": "World News",
       "feed_url": "https://www.reddit.com/r/worldnews/.rss",
       "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/europe/no-money-left-french-far-right-leader-le-pen-vows-to-cut-off-ukraine-aid-if-elected-president/articleshow/135897919.cms",
-      "title": "'No money left': French far-right leader vows to cut off Ukraine aid if elected prez",
-      "published": "2026-11-16T17:43:39+00:00",
-      "author": "Prisha Patnaik",
-      "description": "",
-      "link": "https://timesofindia.indiatimes.com/world/europe/no-money-left-french-far-right-leader-le-pen-vows-to-cut-off-ukraine-aid-if-elected-president/articleshow/135897919.cms",
-      "image": "https://static.toiimg.com/photo/msid-135898305,imgsize-71654.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "108551829",
-      "title": "Warren Buffett donates $5.5 billion, says kindness 'compounds' in Thanksgiving letter",
-      "published": "2026-11-16T17:39:32+00:00",
-      "author": null,
-      "description": "Following the donations, the chairman emeritus of Berkshire still owns 182,140 Class A shares -- roughly $162 billion.",
-      "link": "https://www.cnbc.com/2026/11/16/warren-buffett-donates-5point5-billion-thanksgiving.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108335254-1784117182376-AvrRnmdg.jpg?v=1784127953&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     }
   ]
 }
