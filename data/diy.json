@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-20T03:03:00.841778+00:00",
+  "updated": "2026-11-20T03:33:22.542411+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://hackaday.com/?p=1428939",
+      "title": "DabbleCAD Takes Design Offline",
+      "published": "2026-11-20T03:00:57+00:00",
+      "author": "Zoe Skyforest",
+      "description": "These days, there are all kind of online-only and in-browser CAD packages. DabbleCAD is the opposite of all that—a simple, offline, open-source design solution. DabbleCAD handles 3D design in a …read more",
+      "link": "https://hackaday.com/2026/11/19/dabblecad-takes-design-offline/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/screenshot-3d-design-e1795089403514.png",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/quntis-monitor-light-bar-is-down-to-34-and-its-the-best-way-to-save-your-eyes-at-a-desk/",
       "title": "Quntis' monitor light bar is down to $34, and it's the best way to prevent eye strain",
@@ -13989,20 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/home-assistant-weekend-projects/",
-      "title": "3 Home Assistant projects you can actually finish in a weekend",
-      "published": "2026-11-06T18:00:17+00:00",
-      "author": "Michael Bizzaco",
-      "description": "It's your smart home, not Amazon's.",
-      "link": "https://www.makeuseof.com/home-assistant-weekend-projects/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/05/home-assistant-green-front.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }

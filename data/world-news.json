@@ -1,13 +1,13 @@
 {
   "category": "World News",
-  "updated": "2026-11-20T03:03:00.841778+00:00",
+  "updated": "2026-11-20T03:33:22.542411+00:00",
   "count": 1000,
   "summary": null,
   "items": [
     {
       "id": "108556079",
       "title": "Anthropic IPO 'exactly what the markets need', but analysts warn of volatility",
-      "published": "2026-11-20T02:33:39+00:00",
+      "published": "2026-11-20T03:31:21+00:00",
       "author": null,
       "description": "The Anthropic IPO is \"what the markets need.\" However, analysts say its shares will be volatile in the coming weeks.",
       "link": "https://www.cnbc.com/2026/11/20/anthropic-ipo-stocks-market.html",
@@ -17,6 +17,76 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "108556117",
+      "title": "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut",
+      "published": "2026-11-20T03:30:34+00:00",
+      "author": null,
+      "description": "The declines in Asia come after the tech-heavy Nasdaq Composite fell more than 2% overnight following Anthropic's highly anticipated Wall Street debut.",
+      "link": "https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108316517-1780554960547-gettyimages-2230425216-raa-intelsof250820_npZoK.jpeg?v=1780555182&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/journalists-travelling-with-trump-asked-to-surrender-phones-they-used-in-china-12352210#publisher=newsstand",
+      "title": "Journalists On Trump's Plane Asked To Surrender Phones They Used In China",
+      "published": "2026-11-20T03:10:11+00:00",
+      "author": null,
+      "description": "The so-called Faraday bags are designed to shield electronic devices.",
+      "link": "https://www.ndtv.com/world-news/journalists-travelling-with-trump-asked-to-surrender-phones-they-used-in-china-12352210#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-11/6vd5cj7_air-force-one-afp_625x300_20_November_26.jpeg",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/sheikh-hasina-presses-bangladesh-for-new-passport-urgent-matter-12352273#publisher=newsstand",
+      "title": "\"Urgent Matter\": Sheikh Hasina Presses Bangladesh For New Passport",
+      "published": "2026-11-20T03:07:41+00:00",
+      "author": null,
+      "description": "Sheikh Hasina, 79, fled to neighbouring India in August 2024",
+      "link": "https://www.ndtv.com/world-news/sheikh-hasina-presses-bangladesh-for-new-passport-urgent-matter-12352273#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-06/3ddf7qb4_sheikh-hasina-afp_625x300_28_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/china-bars-bloomberg-reporter-from-trump-xi-putin-meet-over-rude-jensen-huang-question-12351856#publisher=newsstand",
+      "title": "China Bars Reporter From Trump-Xi-Putin Meet Over \"Rude\" Jensen Huang Question",
+      "published": "2026-11-20T02:59:53+00:00",
+      "author": null,
+      "description": "Journalist Annmarie Hordern was barred from Trump-Xi-Putin's trilateral meeting.",
+      "link": "https://www.ndtv.com/world-news/china-bars-bloomberg-reporter-from-trump-xi-putin-meet-over-rude-jensen-huang-question-12351856#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-11/6l9lgfqo_china-trilateral-reuters_625x300_20_November_26.jpeg",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/apple-working-on-agents-who-can-do-more-than-chatgpt-muse-or-claude-12352217#publisher=newsstand",
+      "title": "Apple Working On Agents Who Can Do More Than ChatGPT, Muse Or Claude",
+      "published": "2026-11-20T02:45:17+00:00",
+      "author": null,
+      "description": "The integration between all of Apple's products will also be key.",
+      "link": "https://www.ndtv.com/world-news/apple-working-on-agents-who-can-do-more-than-chatgpt-muse-or-claude-12352217#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-11/308imo0s_apple-ai-bloomberg_625x300_20_November_26.jpeg",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/us/us-prosecutor-declines-charges-against-white-cop-who-killed-black-man/articleshow/136010364.cms",
@@ -31,20 +101,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "108556117",
-      "title": "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut",
-      "published": "2026-11-20T02:14:50+00:00",
-      "author": null,
-      "description": "SoftBank shares plunged over 16% on Friday as Japanese and South Korean technology stocks fell sharply.",
-      "link": "https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108316517-1780554960547-gettyimages-2230425216-raa-intelsof250820_npZoK.jpeg?v=1780555182&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
       "id": "https://www.ndtv.com/world-news/apec-summit-historic-donald-trump-xi-jinping-vladimir-putin-summit-ends-with-symbolism-no-substance-us-russia-china-ties-12352148#publisher=newsstand",
@@ -13947,62 +14003,6 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/16/world/europe/deport-rwanda-asylum-migration.html",
-      "title": "Five European Countries Plan to Deport Migrants to Rwanda",
-      "published": "2026-11-16T17:36:21+00:00",
-      "author": "Jeanna Smialek and Koba Ryckewaert",
-      "description": "Germany, Austria, the Netherlands, Greece and Denmark are seeking to establish a hub for rejected asylum seekers. Here’s what to know about their effort.",
-      "link": "https://www.nytimes.com/2026/11/16/world/europe/deport-rwanda-asylum-migration.html",
-      "image": "https://static01.nyt.com/images/2026/12/15/world/15Int-Europe-Rwanda-aaa/15Int-Europe-Rwanda-aaa-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "t3_1xxvku8",
-      "title": "British women convicted of illegal abortions under Victorian-era law to receive automatic pardons",
-      "published": "2026-11-16T17:33:11+00:00",
-      "author": "/u/Kagedeah",
-      "description": "submitted by /u/Kagedeah [link] [comments]",
-      "link": "https://www.reddit.com/r/worldnews/comments/1xxvku8/british_women_convicted_of_illegal_abortions/",
-      "image": "https://external-preview.redd.it/AkSLrmlUiH830rGDaIjH8GNS-6VHIZaNrEchE-LWecU.jpeg?width=640&crop=smart&auto=webp&s=a7deb220d949451f482b7fde1fb687467e84c86b",
-      "feed_name": "World News",
-      "feed_title": "World News",
-      "category": "World News",
-      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
-      "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/16/world/middleeast/iran-dams-missile-sites-environmentalists.html",
-      "title": "Airstrikes on Iran Missile Sites May Shed Light on Justification for Dams",
-      "published": "2026-11-16T17:24:04+00:00",
-      "author": "Sanam Mahoozi and Erika Solomon",
-      "description": "Environmentalists have long puzzled over a wide network of water projects lacking any obvious justification. Then their areas were targeted in airstrikes.",
-      "link": "https://www.nytimes.com/2026/11/16/world/middleeast/iran-dams-missile-sites-environmentalists.html",
-      "image": "https://static01.nyt.com/images/2026/11/10/world/00int-iran-environmentalists-fniwa/00int-iran-environmentalists-fniwa-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "t3_1xxvad6",
-      "title": "Robert Pattinson to become new 007 after Daniel Craig",
-      "published": "2026-11-16T17:22:23+00:00",
-      "author": "/u/Temporary-Speech5378",
-      "description": "submitted by /u/Temporary-Speech5378 [link] [comments]",
-      "link": "https://www.reddit.com/r/worldnews/comments/1xxvad6/robert_pattinson_to_become_new_007_after_daniel/",
-      "image": "https://external-preview.redd.it/oF2w7-SlRBLlQNewSxVBWjdJ7y7chcMKdGk04jVQcRw.jpeg?width=640&crop=smart&auto=webp&s=c10909e86d19e9bcdc8ca6708a1faec6cea0cab5",
-      "feed_name": "World News",
-      "feed_title": "World News",
-      "category": "World News",
-      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
-      "feed_icon": "https://www.redditstatic.com/icon.png/"
     }
   ]
 }
