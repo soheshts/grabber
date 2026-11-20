@@ -1,9 +1,23 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-20T08:32:38.128405+00:00",
+  "updated": "2026-11-20T09:03:53.748006+00:00",
   "count": 447,
   "summary": null,
   "items": [
+    {
+      "id": "https://felixwaller.dev/thinking/banana",
+      "title": "banana",
+      "published": "2026-11-20T08:33:00+00:00",
+      "author": null,
+      "description": "I slipped on a banana peel. I didn't fall over but my arms were wheeling. I was under the impression such stunts were limited to the land of the cartoon.",
+      "link": "https://felixwaller.dev/thinking/banana",
+      "image": null,
+      "feed_name": "felix waller",
+      "feed_title": "felix waller",
+      "category": "personal blogs",
+      "feed_url": "https://felixwaller.dev/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=felixwaller.dev&sz=64"
+    },
     {
       "id": "https://rachsmith.com/2026-11-20-04-56/",
       "title": "",
@@ -5533,20 +5547,6 @@
       "category": "personal blogs",
       "feed_url": "http://feeds.feedburner.com/csswizardry",
       "feed_icon": "https://www.google.com/s2/favicons?domain=csswizardry.com&sz=64"
-    },
-    {
-      "id": "https://smus.com/alloy-ten-months-in",
-      "title": "Ten months of Alloy: local where it counts",
-      "published": "2026-10-21T09:00:00+00:00",
-      "author": "Boris Smus",
-      "description": "I started Alloy almost a year ago as a model-agnostic AI chat app, so that my conversations would live in plaintext files I control. It has since become my AI chat app of choice. I use it daily on my laptop and on my phone as a PWA. Local means private, and that matters a lot; I fully trust my own machine in a way I can't trust a cloud, even one that claims to run in a trusted execution environment. When Alloy started, local models weren't good enough to do much, but now they are quite good, if…",
-      "link": "https://smus.com/alloy-ten-months-in",
-      "image": "https://smus.com/usage-chart.svg",
-      "feed_name": "Boris Smus",
-      "feed_title": "Boris Smus",
-      "category": "personal blogs",
-      "feed_url": "http://feeds.feedburner.com/smuscom",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=smus.com&sz=64"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
