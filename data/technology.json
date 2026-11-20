@@ -1,9 +1,37 @@
 {
   "category": "technology",
-  "updated": "2026-11-20T23:02:56.434693+00:00",
+  "updated": "2026-11-20T23:33:04.212549+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://yro.slashdot.org/story/26/11/20/2231247/signal-restricts-screenshots-to-block-ai-agents-from-reading-messages?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "title": "Signal Restricts Screenshots to Block AI Agents From Reading Messages",
+      "published": "2026-11-20T23:00:00+00:00",
+      "author": "BeauHD",
+      "description": "Signal is introducing default-on screenshot restrictions to prevent AI agents from reading private conversations, warning that increasingly powerful assistants integrated into operating systems pose an \"existential threat\" to its privacy guarantees. \"Right now, these agentic AI integrations are changing this environment in a way that's making it increasingly hostile to privacy. This is an existential threat to Signal, and our ability to responsibly uphold our mission,\" it said in a blog post. R…",
+      "link": "https://yro.slashdot.org/story/26/11/20/2231247/signal-restricts-screenshots-to-block-ai-agents-from-reading-messages?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+      "feed_name": "Slashdot",
+      "feed_title": "Slashdot",
+      "category": "technology",
+      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
+    },
+    {
+      "id": "yt:video:gyoqVsnJPMQ",
+      "title": "iPhone Duo Fold-a-Phone Recap and Q&A: How Has the Duo Held Up in Our Folding Machine?",
+      "published": "2026-11-20T22:36:36+00:00",
+      "author": "CNET",
+      "description": "We've been folding the iPhone Duo for over a month in our custom Fold-a-Phone machine, and it's high time for a check-in. CNET editors will examine the iPhone Duo's durability over the course of our folding phone experiment. Join CNET's Patrick Holland, Abrar Al-Heeti, Matthew Murray and Numi Pasarn as they answer your questions about the iPhone Duo and what's next for the Fold-a-Phone. Join us weekdays from 10:00 AM – 2:00 PM PT / 1:00 PM – 5:00 PM ET Read more about the iPhone Duo Folding Tes…",
+      "link": "https://www.youtube.com/watch?v=gyoqVsnJPMQ",
+      "image": "https://i4.ytimg.com/vi/gyoqVsnJPMQ/hqdefault.jpg",
+      "feed_name": "CNET",
+      "feed_title": "CNET",
+      "category": "technology",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?user=CNETTV",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64"
+    },
     {
       "id": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
       "title": "Trump FCC declares California isn't allowed to enforce phone service rules",
@@ -13975,34 +14003,6 @@
       "category": "technology",
       "feed_url": "http://feeds.mashable.com/Mashable",
       "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
-    },
-    {
-      "id": "https://www.theverge.com/?p=1034787",
-      "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
-      "published": "2026-11-16T20:41:28+00:00",
-      "author": "Stevie Bonifield",
-      "description": "OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer,\" Altman said today. \"I think the home tinkering is great.\" […]",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1778705436.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "feed_name": "The Verge -  All Posts",
-      "feed_title": "The Verge",
-      "category": "technology",
-      "feed_url": "https://www.theverge.com/rss/index.xml",
-      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
-    },
-    {
-      "id": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
-      "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
-      "published": "2026-11-16T20:37:47+00:00",
-      "author": "Scharon Harding",
-      "description": "The PC sales slump \"more than offset” AI boom gains, shareholders say.",
-      "link": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2231573847-500x500.jpg",
-      "feed_name": "Ars Technica",
-      "feed_title": "Ars Technica",
-      "category": "technology",
-      "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
-      "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
     }
   ]
 }
