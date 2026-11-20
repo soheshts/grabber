@@ -1,9 +1,23 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-20T14:03:12.715067+00:00",
+  "updated": "2026-11-20T14:32:45.419697+00:00",
   "count": 450,
   "summary": null,
   "items": [
+    {
+      "id": "https://rknight.me/blog/weeknote-2027/",
+      "title": "Weeknote #2027",
+      "published": "2026-11-20T14:17:00+00:00",
+      "author": "Robb Knight",
+      "description": "It's GTA week., baby",
+      "link": "https://rknight.me/blog/weeknote-2027/",
+      "image": "https://cdn.rknight.me/site/2026/gta-standout-vehicle-1.jpg",
+      "feed_name": "Robb Knight • Posts • Atom Feed",
+      "feed_title": "Robb Knight • Posts • Atom Feed",
+      "category": "personal blogs",
+      "feed_url": "https://rknight.me/feed.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=rknight.me&sz=64"
+    },
     {
       "id": "https://shkspr.mobi/blog/?p=76319",
       "title": "Connect a USB Zigbee Device to HAOS",
@@ -5575,20 +5589,6 @@
       "category": "personal blogs",
       "feed_url": "https://feedpress.me/baldurbjarnason",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.baldurbjarnason.com&sz=64"
-    },
-    {
-      "id": "https://gomakethings.com/articles/the-speechrecognition-api/",
-      "title": "The SpeechRecognition API",
-      "published": "2026-10-21T14:30:00+00:00",
-      "author": null,
-      "description": "There’s an older deaf gentleman in my town who’s very friendly, and likes to communicate with rudimentary hand gestures, but I have a hard time understand what he’s trying to say. I’d love to learn American Sign Language (ASL) at some point (shoutout King Ron), but until then, I wanted an app that could convert speech into text. Every transcription app I found required a pretty expensive subscription… so I decided to build my own using web technologies!",
-      "link": "https://gomakethings.com/articles/the-speechrecognition-api/",
-      "image": null,
-      "feed_name": "Go Make Things",
-      "feed_title": "Go Make Things",
-      "category": "personal blogs",
-      "feed_url": "https://gomakethings.com/feed/index.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=gomakethings.com&sz=64"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",

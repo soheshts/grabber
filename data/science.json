@@ -1,9 +1,65 @@
 {
   "category": "science",
-  "updated": "2026-11-20T14:03:12.715067+00:00",
+  "updated": "2026-11-20T14:32:45.419697+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "news714380304",
+      "title": "With AI blamed for mass layoffs, here's how we can ensure workers get a fairer deal",
+      "published": "2026-11-20T14:20:20+00:00",
+      "author": null,
+      "description": "Is artificial intelligence (AI) finally coming for Australian jobs?",
+      "link": "https://phys.org/news/2026-11-ai-blamed-mass-layoffs-workers.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/with-ai-blamed-for-mas.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "news714385021",
+      "title": "Illustrated guide shines a light on Australia's lanternfish",
+      "published": "2026-11-20T14:20:14+00:00",
+      "author": null,
+      "description": "These glow-in-the-dark, googly-eyed fishes perform the biggest daily migration of any animal on the planet and are among the most abundant and important fishes in our oceans. But they are also among the most mysterious. Now, Australian researchers finally have access to a comprehensive guide to aid in the identification of Australian lanternfishes.",
+      "link": "https://phys.org/news/2026-11-australia-lanternfish.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/shining-a-light-on-aus.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/19/climate/metals-company-seafloor-mining-auction.html",
+      "title": "U.S. Auctions 31.5 Million Acres of Pacific Ocean to Deep Sea Mining Company",
+      "published": "2026-11-20T14:16:51+00:00",
+      "author": "Eric Niiler",
+      "description": "The first-ever lease sale took place over the objections of a federal judge. Wetstone U.S. Ventures paid $6 million to lease the seabed for mapping and preparation, not actual mining.",
+      "link": "https://www.nytimes.com/2026/11/19/climate/metals-company-seafloor-mining-auction.html",
+      "image": "https://static01.nyt.com/images/2026/11/19/climate/19cli-seabed-mining/19cli-seabed-mining-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Science",
+      "feed_title": "NYT > Science",
+      "category": "science",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/20/climate/van-cats-turkey.html",
+      "title": "Turkey’s Van Cats Contend With Rising Temperatures",
+      "published": "2026-11-20T14:01:44+00:00",
+      "author": "Lisa Friedman and Rena Effendi",
+      "description": "A feline research center uses air-conditioning and pools to keep residents comfortable as their numbers recover. And yes, they like to swim.",
+      "link": "https://www.nytimes.com/2026/11/20/climate/van-cats-turkey.html",
+      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20CLI-COP-CATS-stillpromo/20CLI-COP-CATS-stillpromo-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Science",
+      "feed_title": "NYT > Science",
+      "category": "science",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "news714384781",
       "title": "Astronomers reveal the oceanic origin of Europa's sodium cloud",
@@ -213,20 +269,6 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/20/climate/van-cats-turkey.html",
-      "title": "Turkey’s Van Cats Contend With Rising Temperatures",
-      "published": "2026-11-20T12:14:35+00:00",
-      "author": "Lisa Friedman and Rena Effendi",
-      "description": "A feline research center uses air-conditioning and pools to keep residents comfortable as their numbers recover. And yes, they like to swim.",
-      "link": "https://www.nytimes.com/2026/11/20/climate/van-cats-turkey.html",
-      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20CLI-COP-CATS-stillpromo/20CLI-COP-CATS-stillpromo-mediumSquareAt3X.jpg",
-      "feed_name": "NYT > Science",
-      "feed_title": "NYT > Science",
-      "category": "science",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "news714374079",
@@ -1426,20 +1468,6 @@
       "description": "An unusual protein may turn out to be a way to diagnose the chronic brain disease, which disproportionately affects athletes in contact sports.",
       "link": "https://www.nytimes.com/2026/11/19/science/cte-blood-test-diagnosis.html",
       "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19SCI-CTESTUDIES-wczp/19SCI-CTESTUDIES-wczp-mediumSquareAt3X.jpg",
-      "feed_name": "NYT > Science",
-      "feed_title": "NYT > Science",
-      "category": "science",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/19/climate/metals-company-seafloor-mining-auction.html",
-      "title": "U.S. Auctions 31.5 Million Acres of Pacific Ocean to Deep Sea Mining Company",
-      "published": "2026-11-19T21:05:59+00:00",
-      "author": "Eric Niiler",
-      "description": "The first-ever lease sale took place over the objections of a federal judge. Wetstone U.S. Ventures paid $6 million to lease the seabed for mapping and preparation, not actual mining.",
-      "link": "https://www.nytimes.com/2026/11/19/climate/metals-company-seafloor-mining-auction.html",
-      "image": "https://static01.nyt.com/images/2026/11/19/climate/19cli-seabed-mining/19cli-seabed-mining-mediumSquareAt3X.jpg",
       "feed_name": "NYT > Science",
       "feed_title": "NYT > Science",
       "category": "science",
@@ -13975,34 +14003,6 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "news713683220",
-      "title": "Forests in Japan shift toward trees adapted to warmer climates",
-      "published": "2026-11-12T12:20:01+00:00",
-      "author": null,
-      "description": "Climate change has caused substantial alterations in forest ecosystems worldwide through changes in temperature and precipitation patterns. A new study from Osaka Metropolitan University (OMU) suggests that these effects are also evident in Japan, where forests are undergoing changes in structure and shifts toward tree types adapted to warmer climates.",
-      "link": "https://phys.org/news/2026-11-forests-japan-shift-trees-warmer.html",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/forests-in-japan-shift.jpg",
-      "feed_name": "Phys.org - latest science and technology news stories",
-      "feed_title": "Phys.org - latest science and technology news stories",
-      "category": "science",
-      "feed_url": "https://phys.org/rss-feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2026/11/261111005850.htm",
-      "title": "Crows can make decisions twice as fast as humans, scientists discover",
-      "published": "2026-11-12T12:17:19+00:00",
-      "author": null,
-      "description": "Crows may be even smarter than we thought, and their brains are astonishingly fast. Researchers at the University of Tübingen discovered that crows can make visual decisions twice as quickly as humans and monkeys, taking just 235 milliseconds on average to identify the direction of moving dots while maintaining remarkable accuracy.",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261111005850.htm",
-      "image": "https://www.sciencedaily.com/images/1920/carrion-crow-corvus-corone-close-up.webp",
-      "feed_name": "Latest Science News -- ScienceDaily",
-      "feed_title": "Latest Science News -- ScienceDaily",
-      "category": "science",
-      "feed_url": "https://www.sciencedaily.com/rss/all.xml",
-      "feed_icon": "https://www.sciencedaily.com/images/scidaily-logo-rss.png"
     }
   ]
 }

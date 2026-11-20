@@ -1,9 +1,23 @@
 {
   "category": "fashion",
-  "updated": "2026-11-20T14:03:12.715067+00:00",
+  "updated": "2026-11-20T14:32:45.419697+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/11/20/style/melania-trump-series-premiere-nyc.html",
+      "title": "On the Carpet of Melania Trump’s Amazon Premiere in New York",
+      "published": "2026-11-20T14:30:43+00:00",
+      "author": "Sandra E. Garcia",
+      "description": "Ten months after the premiere of the “Melania” documentary in Washington, the first lady debuted a follow-up docuseries at Lincoln Center.",
+      "link": "https://www.nytimes.com/2026/11/20/style/melania-trump-series-premiere-nyc.html",
+      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20ST-MELANIA-PREMIERE-wvtp/20ST-MELANIA-PREMIERE-wvtp-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Style",
+      "feed_title": "NYT > Style",
+      "category": "fashion",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "http://www.elle.com/fashion/shopping/a74454381/best-shearling-shoes-trend/",
       "title": "The Best Shearling Shoes for Cold-Weather Style and Comfort",
@@ -13989,20 +14003,6 @@
       "category": "fashion",
       "feed_url": "https://www.elle.com/rss/fashion.xml/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.elle.com&sz=64"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/10/30/style/erin-lee-carr-michelle-bruton-wedding.html",
-      "title": "She Gave Dates 30 Minutes. This One Clicked in the 27th.",
-      "published": "2026-10-30T18:01:00+00:00",
-      "author": "Sadiba Hasan",
-      "description": "Erin Lee Carr, the daughter of the former Times reporter David Carr, “can’t do small talk” — and didn’t on her first date with Michelle Bruton.",
-      "link": "https://www.nytimes.com/2026/10/30/style/erin-lee-carr-michelle-bruton-wedding.html",
-      "image": null,
-      "feed_name": "NYT > Style",
-      "feed_title": "NYT > Style",
-      "category": "fashion",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     }
   ]
 }

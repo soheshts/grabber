@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-20T14:03:12.715067+00:00",
+  "updated": "2026-11-20T14:32:45.419697+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/xfinity-using-router-nationwide-wifi-network/",
+      "title": "Xfinity is using your router to build a nationwide Wi-Fi network",
+      "published": "2026-11-20T14:31:18+00:00",
+      "author": "Brady Snyder",
+      "description": "Is crowdsourcing your internet worth it?",
+      "link": "https://www.makeuseof.com/xfinity-using-router-nationwide-wifi-network/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/01/router.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/i-always-install-these-7-flatpak-apps-on-my-linux-pcs/",
+      "title": "I always install these 7 Flatpak apps on my Linux PCs",
+      "published": "2026-11-20T14:31:16+00:00",
+      "author": "Dibakar Ghosh",
+      "description": "Make your Linux system awesome with these seven Flatpaks",
+      "link": "https://www.howtogeek.com/i-always-install-these-7-flatpak-apps-on-my-linux-pcs/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/06/a-windows-11-pc-running-a-bunch-of-linux-apps-with-kde-connect-mobile-pointer.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/stopped-using-usb-flash-drives-for-transfers-because-this-so-much-faster/",
       "title": "I stopped using USB flash drives for transfers because this is so much faster",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.makeuseof.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/how-to-tell-if-deactivated-deleted-instagram/",
-      "title": "How to tell if someone has deactivated or deleted their Instagram account",
-      "published": "2026-11-06T22:01:16+00:00",
-      "author": "Mahnoor Faisal",
-      "description": "Did they leave Instagram, or did they leave you?",
-      "link": "https://www.makeuseof.com/how-to-tell-if-deactivated-deleted-instagram/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/android-phone-held-in-front-of-a-laptop-with-the-instagram-profile-options-menu-open.jpeg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/replaced-wordle-addiction-with-vibe-coded-game/",
-      "title": "I replaced my Wordle addiction with a game I vibe-coded in five minutes",
-      "published": "2026-11-06T22:01:15+00:00",
-      "author": "Adam Davidson",
-      "description": "My family and friends are hooked.",
-      "link": "https://www.howtogeek.com/replaced-wordle-addiction-with-vibe-coded-game/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/an-iphone-showing-a-game-called-the-dictionary-game-on-top-of-a-pile-of-dictionaries.png",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
     }
   ]
 }
