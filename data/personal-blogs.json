@@ -1,15 +1,29 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-20T15:03:00.492670+00:00",
-  "count": 450,
+  "updated": "2026-11-20T15:32:33.133734+00:00",
+  "count": 453,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.raymondcamden.com/2026/11/20/microsoft-to-do-fan-ive-got-bad-news-for-ya",
+      "title": "Microsoft To Do fan? I've got (bad) news for ya...",
+      "published": "2026-11-20T18:00:00+00:00",
+      "author": "Raymond Camden",
+      "description": "Yesterday it was announced that Microsoft was killing off one of it's best apps, To Do: \"Microsoft is killing its great tasks app in favor of its worse tasks app\" . This is a real bummer as the app is easily one of the best I've seen. Simple, clean, only does what it needs to do, and even as someone who is pro-AI, its one of the few apps that have resisted the urge to add AI just to add AI. Obviously To Do apps are everywhere, and nearly every demo out there uses the same idea, but this one rea…",
+      "link": "https://www.raymondcamden.com/2026/11/20/microsoft-to-do-fan-ive-got-bad-news-for-ya",
+      "image": "https://static.raymondcamden.com/images/2026/11/todo.jpg",
+      "feed_name": "Raymond Camden",
+      "feed_title": "Raymond Camden",
+      "category": "personal blogs",
+      "feed_url": "https://www.raymondcamden.com/feed.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.raymondcamden.com&sz=64"
+    },
     {
       "id": "https://rknight.me/blog/weeknote-2027/",
       "title": "Weeknote #2027",
       "published": "2026-11-20T14:17:00+00:00",
       "author": "Robb Knight",
-      "description": "It's GTA week., baby",
+      "description": "It's GTA week, baby",
       "link": "https://rknight.me/blog/weeknote-2027/",
       "image": "https://cdn.rknight.me/site/2026/gta-standout-vehicle-1.jpg",
       "feed_name": "Robb Knight • Posts • Atom Feed",
@@ -45,6 +59,20 @@
       "category": "personal blogs",
       "feed_url": "https://felixwaller.dev/rss.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=felixwaller.dev&sz=64"
+    },
+    {
+      "id": "https://ronaldsvilcins.com/2026/11/20/getting-form-data-with-the-formdata-api/",
+      "title": "Getting Form Data With the FormData API",
+      "published": "2026-11-20T06:00:00+00:00",
+      "author": "Ronalds Vilciņš",
+      "description": "Use FormData to collect named form fields, inspect values, handle checkboxes and files, and send data with fetch while keeping normal form submission.",
+      "link": "https://ronaldsvilcins.com/2026/11/20/getting-form-data-with-the-formdata-api/",
+      "image": "https://ronaldsvilcins.com/og/76b7853c559cdf1f7d21afb8febca90436b109663ec99f8323ace25c36e677cf.jpg",
+      "feed_name": "Ronalds Vilciņš",
+      "feed_title": "Ronalds Vilciņš",
+      "category": "personal blogs",
+      "feed_url": "https://ronaldsvilcins.com/atom.xml",
+      "feed_icon": "https://ronaldsvilcins.com/favicon.png"
     },
     {
       "id": "https://rachsmith.com/2026-11-20-04-56/",
@@ -255,6 +283,20 @@
       "category": "personal blogs",
       "feed_url": "http://feeds.feedburner.com/chrisheilmann",
       "feed_icon": "https://www.google.com/s2/favicons?domain=christianheilmann.com&sz=64"
+    },
+    {
+      "id": "https://nerdy.dev/www-ep261-openai-nerfed-your-tokens?utm_source=rss",
+      "title": "WWW Ep261 Openai Nerfed Your Tokens",
+      "published": "2026-11-19T08:00:00+00:00",
+      "author": "adam@whiskey.fm",
+      "description": "Ep #261 OpenAI Nerfed Your Tokens Robbie and I sip Jephtha Creed six-year wheated bourbon and talk OpenAI pricing, agents as digital Tamagotchis, hill climbing and quality gauntlets, whether frameworks still matter when LLMs write the code, agent-friendly CLIs, and the hunt for…",
+      "link": "https://nerdy.dev/www-ep261-openai-nerfed-your-tokens?utm_source=rss",
+      "image": "https://nerdy.dev/media/www-ep261-art.jpg",
+      "feed_name": "Adam Argyle",
+      "feed_title": "Adam Argyle",
+      "category": "personal blogs",
+      "feed_url": "https://nerdy.dev/rss.xml",
+      "feed_icon": "https://nerdy.dev/rss-icon.png"
     },
     {
       "id": "https://ronaldsvilcins.com/2026/11/19/requestsubmit-vs-submit-the-form-method-difference-that-matters/",
