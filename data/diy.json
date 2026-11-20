@@ -1,9 +1,51 @@
 {
   "category": "DIY",
-  "updated": "2026-11-20T16:32:45.146846+00:00",
+  "updated": "2026-11-20T17:03:25.788133+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/windows-11-fluid-dictation/",
+      "title": "Windows 11's built-in dictation is so fast I stopped typing emails",
+      "published": "2026-11-20T17:00:17+00:00",
+      "author": "Brandon Miniman",
+      "description": "Windows 11's voice typing is fantastic.",
+      "link": "https://www.makeuseof.com/windows-11-fluid-dictation/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/feat-7.jpeg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.makeuseof.com/asyar-open-source-raycast-alternative-launcher/",
+      "title": "I tried an open-source Raycast alternative, and it opens before I finish pressing the keys",
+      "published": "2026-11-20T16:46:17+00:00",
+      "author": "Tashreef Shareef",
+      "description": "A Raycast alternative for macOS, Windows and Linux.",
+      "link": "https://www.makeuseof.com/asyar-open-source-raycast-alternative-launcher/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2026/11/logitech-mx-keys-mini-keyboard-arabic-layout.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://hackaday.com/?p=1428696",
+      "title": "e-Paper Price Tags Become Picture Frames",
+      "published": "2026-11-20T16:30:42+00:00",
+      "author": "Zoe Skyforest",
+      "description": "E-paper has lots of applications, though it’s found a particularly solid market penetration as a replacement for simple paper price tags. Because why have a cheap slip of paper for …read more",
+      "link": "https://hackaday.com/2026/11/20/e-paper-price-tags-become-picture-frames/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/Screenshot-2026-11-19-162940-e1795066509203.png",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/black-friday-scams-you-need-to-watch-out-for-when-buying-pc-hardware-this-year/",
       "title": "6 PC hardware scams to dodge this Black Friday, including RTX 5090 bricks and fake RAM",
@@ -13961,48 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://hackaday.com/blog/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
-    },
-    {
-      "id": "https://hackaday.com/?p=1398258",
-      "title": "DIY Rooftop Tent Sets Up In a Jiffy",
-      "published": "2026-11-07T03:00:30+00:00",
-      "author": "Donald Papp",
-      "description": "[CraftAndu] shares his DIY car rooftop tent design that looks like a pretty accessible build. It allowed him to test drive the concept to his satisfaction while spending a fraction …read more",
-      "link": "https://hackaday.com/2026/11/06/diy-rooftop-tent-sets-up-in-a-jiffy/",
-      "image": "https://hackaday.com/wp-content/uploads/2026/11/DIY-rooftop-tent.jpg",
-      "feed_name": "Blog – Hackaday",
-      "feed_title": "Blog – Hackaday",
-      "category": "DIY",
-      "feed_url": "https://hackaday.com/blog/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/samsung-galaxy-z-fold8-512gb-on-sale-at-amazon/",
-      "title": "The Samsung Galaxy Z Fold 8 drops to $1,800 at Amazon",
-      "published": "2026-11-07T01:39:42+00:00",
-      "author": "HTG Deals Desk",
-      "description": "Save $300 on Samsung's redesigned, passport-sized foldable.",
-      "link": "https://www.howtogeek.com/samsung-galaxy-z-fold8-512gb-on-sale-at-amazon/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/08/samsung-galaxy-z-fold-8-pocket-ereader-4.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/3-linux-apps-that-fix-annoying-flatpak-problems/",
-      "title": "3 Linux apps that fix Flatpak's most annoying permission and storage problems",
-      "published": "2026-11-07T01:01:15+00:00",
-      "author": "Umair Khurshid",
-      "description": "Tired of Flatpak permissions and leftover files? Try these apps!",
-      "link": "https://www.howtogeek.com/3-linux-apps-that-fix-annoying-flatpak-problems/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2025/08/illustration-of-tux-the-linux-mascot-beside-the-flatpak-logo-made-of-blue-and-white-cubes-on-a-yellow-base-with-the-word-flatpak-in-the-background.png",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
     }
   ]
 }
