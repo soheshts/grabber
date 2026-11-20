@@ -1,6 +1,6 @@
 {
   "category": "World News",
-  "updated": "2026-11-20T06:03:40.745830+00:00",
+  "updated": "2026-11-20T06:33:39.298509+00:00",
   "count": 1000,
   "summary": null,
   "items": [
@@ -12,6 +12,20 @@
       "description": "AI coding tools are making software engineers faster, but developers tell CNBC the work has lost its \"sense of joy and fun.\"",
       "link": "https://www.cnbc.com/2026/11/20/ai-coding-tools-software-engineers.html",
       "image": "https://image.cnbcfm.com/api/v1/image/108554003-1795002776289-gettyimages-2214834060-ma117501.jpeg?v=1795002796&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "108555034",
+      "title": "Forget Anthropic: In Europe, the IPO hype is about a blue lagoon",
+      "published": "2026-11-20T06:00:01+00:00",
+      "author": null,
+      "description": "Iceland’s famed Blue Lagoon geothermal spa is going public in a $110 million IPO, tapping investor interest in tourism and the booming wellness industry.",
+      "link": "https://www.cnbc.com/2026/11/20/anthropic-ipo-iceland-blue-lagoon.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/105163084-GettyImages-471605673.jpg?v=1532563649&w=1920&h=1080",
       "feed_name": "CNBC",
       "feed_title": "International: Top News And Analysis",
       "category": "World News",
@@ -804,7 +818,7 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo#0",
-      "title": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
+      "title": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
       "published": "2026-11-20T00:13:21+00:00",
       "author": null,
       "description": "Orla Guerin speaks to seven people trapped in Taiz by the Houthis who reveal what life is like under siege.",
@@ -13989,20 +14003,6 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/us/californias-shiv-durga-hindu-temple-reports-another-break-in-republican-leader-tells-ro-khanna-its-your-constituency-what-are-you-doing/articleshow/135901440.cms",
-      "title": "California's Shiv Durga Hindu temple reports another break-in; Republican leader tells Ro Khanna: It's your constituency...what are you doing?",
-      "published": "2026-11-16T19:44:29+00:00",
-      "author": "Poulomi Ghosh",
-      "description": "",
-      "link": "https://timesofindia.indiatimes.com/world/us/californias-shiv-durga-hindu-temple-reports-another-break-in-republican-leader-tells-ro-khanna-its-your-constituency-what-are-you-doing/articleshow/135901440.cms",
-      "image": "https://static.toiimg.com/photo/msid-135901494,imgsize-193342.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     }
   ]
 }

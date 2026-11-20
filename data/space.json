@@ -1,9 +1,37 @@
 {
   "category": "space",
-  "updated": "2026-11-20T06:03:40.745830+00:00",
-  "count": 493,
+  "updated": "2026-11-20T06:33:39.298509+00:00",
+  "count": 495,
   "summary": null,
   "items": [
+    {
+      "id": "https://science.nasa.gov/image-article/apod-2026-november-20-v-g-r/",
+      "title": "APOD: 2026 November 20 – V-G-R",
+      "published": "2026-11-20T05:05:00+00:00",
+      "author": null,
+      "description": "APOD Science APOD APOD: 2026 November… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. V-G-R Explanation: On November 17, […]",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-20-v-g-r/",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/IMG_4364N_Kyriazis.jpg?w=2048&h=2048&fit=clip",
+      "feed_name": "NASA Breaking News",
+      "feed_title": "NASA",
+      "category": "space",
+      "feed_url": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.nasa.gov&sz=64"
+    },
+    {
+      "id": "https://science.nasa.gov/earth/earth-observatory/the-stormy-southwest-pacific/",
+      "title": "The Stormy Southwest Pacific",
+      "published": "2026-11-20T05:01:00+00:00",
+      "author": null,
+      "description": "Tropical Cyclone Xavier launched the basin’s storm season with a bang.",
+      "link": "https://science.nasa.gov/earth/earth-observatory/the-stormy-southwest-pacific/",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-stormy-southwest-pacific--/cyclonexavier_amo_20261116.jpg?w=1440&h=960&fit=clip",
+      "feed_name": "NASA Breaking News",
+      "feed_title": "NASA",
+      "category": "space",
+      "feed_url": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.nasa.gov&sz=64"
+    },
     {
       "id": "https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo",
       "title": "Spacecraft reaches Mercury on second-ever mission to enter its orbit",
