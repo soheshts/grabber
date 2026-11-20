@@ -1,9 +1,37 @@
 {
   "category": "science",
-  "updated": "2026-11-20T20:03:47.411389+00:00",
+  "updated": "2026-11-20T20:33:01.511656+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "news714402424",
+      "title": "Tested on mushrooms, an AI model shows potential for detecting crop stress with far fewer computations",
+      "published": "2026-11-20T20:20:11+00:00",
+      "author": null,
+      "description": "A new artificial intelligence (AI) model can detect stress in agricultural crops using a nondestructive imaging technique, allowing changes in crop health to be monitored over time. Developed by a team of researchers at Penn State, the new model shows promise for accurately detecting crop stress caused by drought, disease, nutrient deficiency and other causes while using less computing power than some existing AI methods.",
+      "link": "https://phys.org/news/2026-11-mushrooms-ai-potential-crop-stress.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/novel-ai-model-can-rel.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "news714400447",
+      "title": "Can Instagram reduce prejudice? Study reveals the potential and limits of social media contact",
+      "published": "2026-11-20T20:20:09+00:00",
+      "author": null,
+      "description": "A research team at the University of Potsdam has conducted a field experiment to investigate whether contact through social media can reduce prejudice. The findings suggest that following an unfamiliar Instagram profile for just three days can lead to more favorable attitudes—not only toward the group represented by the profile. The study was published in the Journal of the Association for Information Systems.",
+      "link": "https://phys.org/news/2026-11-instagram-prejudice-reveals-potential-limits.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/instagram-1.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
     {
       "id": "news714143916",
       "title": "A million tiny crystals reveal how semiconductors form distinct cores and shells",
@@ -31,6 +59,34 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/quiz/2026/11/18/science/voyager-lightday.html",
+      "title": "How Much Do You Know About NASA’s Voyager Mission?",
+      "published": "2026-11-20T19:57:44+00:00",
+      "author": "The New York Times",
+      "description": "Voyagers 1 and 2 have gone farther and lasted longer than any other spacecraft that humans have sent out into the cosmos. Test your knowledge about their epic and ongoing journey.",
+      "link": "https://www.nytimes.com/quiz/2026/11/18/science/voyager-lightday.html",
+      "image": "https://static01.nyt.com/images/2026/11/18/science/18SCI-VOYAGER-QUIZ/18SCI-VOYAGER-QUIZ-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Science",
+      "feed_title": "NYT > Science",
+      "category": "science",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/18/science/nasa-voyager-1-earth-light-day.html",
+      "title": "After 49 Years, Voyager 1 Is a Mind-Blowing One Light-Day From Earth",
+      "published": "2026-11-20T19:57:44+00:00",
+      "author": "Nadia Drake",
+      "description": "Launched in 1977, the hardy spacecraft is still sending messages back home from a staggering distance in interstellar space.",
+      "link": "https://www.nytimes.com/2026/11/18/science/nasa-voyager-1-earth-light-day.html",
+      "image": null,
+      "feed_name": "NYT > Science",
+      "feed_title": "NYT > Science",
+      "category": "science",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "news714396671",
@@ -258,10 +314,10 @@
     },
     {
       "id": "news714400634",
-      "title": "Anthropic researcher says Claude solved math's greatest riddle",
+      "title": "Anthropic researcher says he and Claude proved the Riemann hypothesis, first posed in 1859",
       "published": "2026-11-20T17:50:01+00:00",
       "author": null,
-      "description": "A mathematician at AI company Anthropic said Friday that he had used the firm's Claude chatbot to prove the Riemann hypothesis, a problem that has eluded mathematicians for more than 160 years.",
+      "description": "A researcher at AI company Anthropic said Friday that he had used the firm's Claude chatbot to prove the Riemann hypothesis, a problem that has eluded mathematicians for more than 160 years.",
       "link": "https://phys.org/news/2026-11-anthropic-claude-math-greatest-riddle.html",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-researcher-consult.jpg",
       "feed_name": "Phys.org - latest science and technology news stories",
@@ -2453,20 +2509,6 @@
       "category": "science",
       "feed_url": "http://rss.sciam.com/ScientificAmerican-Global",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.scientificamerican.com&sz=64"
-    },
-    {
-      "id": "https://www.nytimes.com/quiz/2026/11/18/science/voyager-lightday.html",
-      "title": "How Much Do You Know About NASA’s Voyager Mission?",
-      "published": "2026-11-19T18:52:45+00:00",
-      "author": "The New York Times",
-      "description": "Voyagers 1 and 2 have gone farther and lasted longer than any other spacecraft that humans have sent out into the cosmos. Test your knowledge about their epic and ongoing journey.",
-      "link": "https://www.nytimes.com/quiz/2026/11/18/science/voyager-lightday.html",
-      "image": "https://static01.nyt.com/images/2026/11/18/science/18SCI-VOYAGER-QUIZ/18SCI-VOYAGER-QUIZ-mediumSquareAt3X.jpg",
-      "feed_name": "NYT > Science",
-      "feed_title": "NYT > Science",
-      "category": "science",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://www.nytimes.com/2026/11/19/well/mind/marsha-linehan-dead.html",
@@ -5113,20 +5155,6 @@
       "category": "science",
       "feed_url": "https://sciencebasedmedicine.org/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=sciencebasedmedicine.org&sz=64"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/18/science/nasa-voyager-1-earth-light-day.html",
-      "title": "After 49 Years, Voyager 1 Is a Mind-Blowing One Light-Day From Earth",
-      "published": "2026-11-18T14:31:06+00:00",
-      "author": "Nadia Drake",
-      "description": "Launched in 1977, the hardy spacecraft is still sending messages back home from a staggering distance in interstellar space.",
-      "link": "https://www.nytimes.com/2026/11/18/science/nasa-voyager-1-earth-light-day.html",
-      "image": null,
-      "feed_name": "NYT > Science",
-      "feed_title": "NYT > Science",
-      "category": "science",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "news714214923",
@@ -13975,34 +14003,6 @@
       "category": "science",
       "feed_url": "https://www.wired.com/feed/category/science/latest/rss",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.wired.com&sz=64"
-    },
-    {
-      "id": "news713699075",
-      "title": "High water, high rents: Poorest residents pay the most for climate adaptation",
-      "published": "2026-11-12T18:40:14+00:00",
-      "author": null,
-      "description": "As cities worldwide adapt to extreme weather, climate adaptation must prevent people from wading through flooded streets in the future. But the costs are not equally shared. A study from the University of Copenhagen shows that climate adaptation policies may even make social inequality worse. In Copenhagen, stormwater costs fall disproportionately on not-for-profit housing residents, as these neighborhoods are often located near climate adaptation projects.",
-      "link": "https://phys.org/news/2026-11-high-rents-poorest-residents-pay.html",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/high-water-high-rents.jpg",
-      "feed_name": "Phys.org - latest science and technology news stories",
-      "feed_title": "Phys.org - latest science and technology news stories",
-      "category": "science",
-      "feed_url": "https://phys.org/rss-feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "news713707561",
-      "title": "How human ideas evolve: Technical progress may not require weeding out weaker designs",
-      "published": "2026-11-12T18:40:05+00:00",
-      "author": null,
-      "description": "Human culture evolves similarly to living organisms, but unlike biology, human creativity can accumulate improvements at an incredible speed. But how exactly does the process of transmitting and modifying ideas between people work?",
-      "link": "https://phys.org/news/2026-11-human-ideas-evolve-technical-require.html",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/watchingtabl.jpg",
-      "feed_name": "Phys.org - latest science and technology news stories",
-      "feed_title": "Phys.org - latest science and technology news stories",
-      "category": "science",
-      "feed_url": "https://phys.org/rss-feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
     }
   ]
 }
