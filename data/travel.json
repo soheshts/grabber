@@ -1,9 +1,23 @@
 {
   "category": "travel",
-  "updated": "2026-11-20T18:32:45.679111+00:00",
+  "updated": "2026-11-20T19:03:51.865479+00:00",
   "count": 190,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.atlasobscura.com/places/shrine-of-the-most-blessed-sacrement",
+      "title": "Shrine of the Most Blessed Sacrement in Hanceville, Alabama",
+      "published": "2026-11-20T19:00:00+00:00",
+      "author": null,
+      "description": "Extraordinary architecture designed to resemble a 13th-century Italian Franciscan church, particularly the Basilica of Saint Francis of Assisi. Marble floors, gold ornamentation, stained glass, and soaring ceilings. The Spanish religious-art workshop Talleres de Arte Granda, founded in Madrid in 1891, designed and furnished the church's interior. It was founded by Mother Angelica, the founder of EWTN, and opened in 1999. Three donors provided all of the funds needed for construction and complet…",
+      "link": "https://www.atlasobscura.com/places/shrine-of-the-most-blessed-sacrement",
+      "image": "https://img.atlasobscura.com/VK7hqiCKO3Ie-RuQrvV4NhfwCzos_0JpTd6-UWEjds0/rs:fill:300:200:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8zMDJj/M2M5ZC04NGE1LTRk/MDQtYmYzNC0xZDZj/YjkyMDUzYjY4ZDQ5/NWM3OGQwYjUyZWUz/ODhfMDQzNDE4Nzgt/OUREMy00MDNFLThB/RTEtQkFGQjZCMThG/QTI2LmpwZWc.jpg",
+      "feed_name": "Atlas Obscura - Latest Articles and Places",
+      "feed_title": "Atlas Obscura - Latest Articles and Places",
+      "category": "travel",
+      "feed_url": "https://www.atlasobscura.com/feeds/latest",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.atlasobscura.com&sz=64"
+    },
     {
       "id": "https://www.atlasobscura.com/places/visulahti-wax-museum",
       "title": "Visulahti Wax Museum in Mikkeli, Finland",
@@ -2649,20 +2663,6 @@
       "category": "travel",
       "feed_url": "https://www.atlasobscura.com/feeds/latest",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.atlasobscura.com&sz=64"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/10/21/travel/new-national-park-chiricahua.html",
-      "title": "America Mints a New National Park, Elevating an Arizonan ‘Sky Island’",
-      "published": "2026-10-21T19:02:45+00:00",
-      "author": "Ryley Ober",
-      "description": "After years of bipartisan effort, the former Chiricahua National Monument, in southeast Arizona, has become the United States’ 64th national park.",
-      "link": "https://www.nytimes.com/2026/10/21/travel/new-national-park-chiricahua.html",
-      "image": "https://static01.nyt.com/images/2026/10/21/realestate/21TRAV-CHIRICAHUA-NATIONAL-PARK/21TRAV-CHIRICAHUA-NATIONAL-PARK-mediumSquareAt3X.jpg",
-      "feed_name": "NYT > Travel",
-      "feed_title": "NYT > Travel",
-      "category": "travel",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     }
   ]
 }

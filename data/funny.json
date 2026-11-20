@@ -1,7 +1,7 @@
 {
   "category": "funny",
-  "updated": "2026-11-20T18:32:45.679111+00:00",
-  "count": 761,
+  "updated": "2026-11-20T19:03:51.865479+00:00",
+  "count": 762,
   "summary": null,
   "items": [
     {
@@ -227,6 +227,20 @@
       "category": "funny",
       "feed_url": "http://syndication.thedailywtf.com/TheDailyWtf",
       "feed_icon": "https://www.google.com/s2/favicons?domain=thedailywtf.com&sz=64"
+    },
+    {
+      "id": "https://xkcd.com/3327/",
+      "title": "Plate Maintenance",
+      "published": "2026-11-20T05:00:00+00:00",
+      "author": null,
+      "description": "",
+      "link": "https://xkcd.com/3327/",
+      "image": "https://imgs.xkcd.com/comics/plate_maintenance.png",
+      "feed_name": "xkcd.com",
+      "feed_title": "xkcd.com",
+      "category": "funny",
+      "feed_url": "https://xkcd.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=xkcd.com&sz=64"
     },
     {
       "id": "https://cheezburger.com/47435781/chefs-and-foodies-talk-about-restaurant-dishes-that-are-cheap-to-make-but-expensive-to-get",
