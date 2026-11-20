@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-20T18:02:41.711123+00:00",
+  "updated": "2026-11-20T18:32:45.679111+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/i-had-no-idea-my-phone-could-automate-this-much-and-now-it-practically-runs-itself/",
+      "title": "I had no idea my phone could automate this much, and now it practically runs itself",
+      "published": "2026-11-20T18:31:17+00:00",
+      "author": "Rob LeFebvre",
+      "description": "My phone silences itself, cues my podcasts, and dims at dusk.",
+      "link": "https://www.makeuseof.com/i-had-no-idea-my-phone-could-automate-this-much-and-now-it-practically-runs-itself/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/z-fold-8-modes-and-routines.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/tried-replacing-claude-with-qwen-for-a-week/",
+      "title": "I tried replacing Claude with a free local AI model for a week. The responses weren't the problem",
+      "published": "2026-11-20T18:31:15+00:00",
+      "author": "Tony Phillips",
+      "description": "The waiting, steering, and hardware overhead gradually added up.",
+      "link": "https://www.howtogeek.com/tried-replacing-claude-with-qwen-for-a-week/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/local-ai-lm-studio-on-laptop.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/shizuku-lets-apps-do-root-only-tricks-without-rooting-your-phone/",
       "title": "Shizuku gives your Android phone root-like powers, no rooting required",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/the-worst-mistake-after-leaving-your-laptop-in-a-freezing-car/",
-      "title": "The worst mistake you can make after leaving your laptop in a freezing car",
-      "published": "2026-11-07T12:01:16+00:00",
-      "author": "Gregory Gibson",
-      "description": "A little chemistry could’ve saved my battery",
-      "link": "https://www.makeuseof.com/the-worst-mistake-after-leaving-your-laptop-in-a-freezing-car/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/snow-covered-pajero-io.png",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://hackaday.com/?p=1398262",
-      "title": "The Hidden Microcontroller Inside a LoRa chip",
-      "published": "2026-11-07T12:00:34+00:00",
-      "author": "Jenny List",
-      "description": "If you’ve ever done anything with LoRa, the chances are you’ve used a LoRa chip or module as a peripheral for a microcontroller, and left it at that. But that’s …read more",
-      "link": "https://hackaday.com/2026/11/07/the-hidden-microcontroller-inside-a-lora-chip/",
-      "image": "https://hackaday.com/wp-content/uploads/2026/11/lora-up-featured.jpg",
-      "feed_name": "Blog – Hackaday",
-      "feed_title": "Blog – Hackaday",
-      "category": "DIY",
-      "feed_url": "https://hackaday.com/blog/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
     }
   ]
 }
