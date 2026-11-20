@@ -1,9 +1,23 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-20T17:33:35.353925+00:00",
-  "count": 455,
+  "updated": "2026-11-20T18:02:41.711123+00:00",
+  "count": 456,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.bennadel.com/blog/4930-moving-theme-selection-from-localstorage-to-cookies-with-htmx-and-coldfusion.htm",
+      "title": "Moving Theme Selection From LocalStorage To Cookies With HTMX And ColdFusion",
+      "published": "2026-11-20T22:54:13+00:00",
+      "author": null,
+      "description": "Ben Nadel moves his UI theme selector from LocalStorage to Cookies using Alpine.js, HTMX 4, and ColdFusion....",
+      "link": "https://www.bennadel.com/blog/4930-moving-theme-selection-from-localstorage-to-cookies-with-htmx-and-coldfusion.htm",
+      "image": "https://bennadel-cdn.com/resources/uploads/2026/theme-picker-revamp-a@2x.gif",
+      "feed_name": "Ben Nadel",
+      "feed_title": "Ben Nadel's Web Development and User Experience Feed @ BenNadel.com",
+      "category": "personal blogs",
+      "feed_url": "http://www.bennadel.com/index.cfm?dax=blog.rss&lst_tag_id=14,16,3,5,9,6,7,13,18,20,10,15",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.bennadel.com&sz=64"
+    },
     {
       "id": "https://www.raymondcamden.com/2026/11/20/microsoft-to-do-fan-ive-got-bad-news-for-ya",
       "title": "Microsoft To Do fan? I've got (bad) news for ya...",
@@ -59,6 +73,20 @@
       "category": "personal blogs",
       "feed_url": "https://rknight.me/feed.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=rknight.me&sz=64"
+    },
+    {
+      "id": "https://www.lukew.com/ff/entry.asp?2173",
+      "title": "Crazy Agent Scale: Companies All-in on AI",
+      "published": "2026-11-20T14:00:00+00:00",
+      "author": "Luke Wroblewski",
+      "description": "At the Crazy Agent Scale event at Sutter Hill Ventures, Clement Pang, David Cramer, Shawn Wang, Quinn Slack, and John Hayes demonstrated what pushing agents to their limits looks like today. To kick things off, I shared an Alan Kay quote: \"you can live in the future if you're willing to pay for it\". In the 70s, Xerox PARC gave everyone a ridiculously expensive Alto computer and, as a result, lived ten to fifteen years in the future. The goal of this event was to see what living in the future lo…",
+      "link": "https://www.lukew.com/ff/2173/crazy-agent-scale-companies-all-in-on-ai",
+      "image": "http://static.lukew.com/crazyagent_long2.png",
+      "feed_name": "LukeW | Digital Product Design + Strategy",
+      "feed_title": "LukeW | Digital Product Design + Strategy",
+      "category": "personal blogs",
+      "feed_url": "http://feeds.feedburner.com/FunctioningForm",
+      "feed_icon": "https://static.lukew.com/lukew_space.png"
     },
     {
       "id": "https://shkspr.mobi/blog/?p=76319",
@@ -5645,20 +5673,6 @@
       "category": "personal blogs",
       "feed_url": "https://feeds.feedburner.com/leonardofaria",
       "feed_icon": "https://www.google.com/s2/favicons?domain=leonardofaria.net&sz=64"
-    },
-    {
-      "id": "https://www.raymondcamden.com/2026/10/21/adding-a-pdf-display-to-eleventy",
-      "title": "Adding a PDF Display to Eleventy",
-      "published": "2026-10-21T18:00:00+00:00",
-      "author": "Raymond Camden",
-      "description": "This will be a short one. I've talked about embedding PDFs on web pages for probably close to ten years now. Blame Adobe. Blame me being a nerd and finding this stuff interesting. Blame whoever. While I've blogged about the topic, I've also actually done that on my site here, in a variety of different ways. A while back I realized I wasn't being consistent with how I did... \"stuff\" here, like call outs, Youtube links, etc. I started a guide doc so I'd have a quick way to remember what I did las…",
-      "link": "https://www.raymondcamden.com/2026/10/21/adding-a-pdf-display-to-eleventy",
-      "image": null,
-      "feed_name": "Raymond Camden",
-      "feed_title": "Raymond Camden",
-      "category": "personal blogs",
-      "feed_url": "https://www.raymondcamden.com/feed.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.raymondcamden.com&sz=64"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",

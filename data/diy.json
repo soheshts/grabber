@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-20T17:33:35.353925+00:00",
+  "updated": "2026-11-20T18:02:41.711123+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.howtogeek.com/shizuku-lets-apps-do-root-only-tricks-without-rooting-your-phone/",
+      "title": "Shizuku gives your Android phone root-like powers, no rooting required",
+      "published": "2026-11-20T18:00:16+00:00",
+      "author": "Goran Damnjanovic",
+      "description": "Everything you need to know about Shizuku, an essential Android app.",
+      "link": "https://www.howtogeek.com/shizuku-lets-apps-do-root-only-tricks-without-rooting-your-phone/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/dsc_0290.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://hackaday.com/?p=1429075&preview=true&preview_id=1429075",
+      "title": "Hackaday Podcast Episode 395: Pancake Slicer, RGB LED Origami, and Farting Synthesizers",
+      "published": "2026-11-20T17:30:41+00:00",
+      "author": "Kristina Panos",
+      "description": "This week, Elliot Williams and Kristina Panos met up in the super-secret studio to bring you some Hackaday news, a ‘lil something from the Mailbag, and wax nerdily about a …read more",
+      "link": "https://hackaday.com/2026/11/20/hackaday-podcast-episode-395-pancake-slicer-rgb-led-origami-and-farting-synthesizers/",
+      "image": "https://hackaday.com/wp-content/uploads/2016/05/microphone.jpg",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/your-smart-tv-can-play-your-pcs-games-without-a-single-cable/",
       "title": "Your smart TV can play your PC's games without a single cable",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://hackaday.com/blog/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/docker-isnt-magic-its-these-5-linux-kernel-features-strapped-together/",
-      "title": "Docker isn't magic, it's these 5 Linux kernel features strapped together",
-      "published": "2026-11-07T12:00:15+00:00",
-      "author": "Andrew Heinzman",
-      "description": "Who invented containers?",
-      "link": "https://www.howtogeek.com/docker-isnt-magic-its-these-5-linux-kernel-features-strapped-together/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2025/02/illustration-of-the-docker-logo-featuring-a-stylized-whale-carrying-containers-and-a-nas-server.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/aaa-games-you-can-now-play-in-your-browser-including-gta-halo-and-half-life/",
-      "title": "6 AAA games you can now play in your browser, including GTA 5, Halo, and Skate 3",
-      "published": "2026-11-07T11:30:16+00:00",
-      "author": "Oluwaseun Bamisile",
-      "description": "The browser is the new console.",
-      "link": "https://www.makeuseof.com/aaa-games-you-can-now-play-in-your-browser-including-gta-halo-and-half-life/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/gta5-running-in-browser.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }
