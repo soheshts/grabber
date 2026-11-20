@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-20T13:33:08.463891+00:00",
+  "updated": "2026-11-20T14:03:12.715067+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/stopped-using-usb-flash-drives-for-transfers-because-this-so-much-faster/",
+      "title": "I stopped using USB flash drives for transfers because this is so much faster",
+      "published": "2026-11-20T14:00:16+00:00",
+      "author": "Yasir Mahmood",
+      "description": "Flash drives are convenient but NVMe SSDs are in a different league.",
+      "link": "https://www.makeuseof.com/stopped-using-usb-flash-drives-for-transfers-because-this-so-much-faster/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/11/an-external-nvme-ssd-enclosure-connected-to-a-laptop-via-thunderbolt.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/turned-samsung-galaxy-into-powerful-portable-pc-without-spending-a-dime/",
+      "title": "I turned my Samsung Galaxy into a powerful portable PC without spending a dime",
+      "published": "2026-11-20T14:00:15+00:00",
+      "author": "Tyler Dupont",
+      "description": "With a little setup, my Galaxy tablet became more useful than my laptop ever was.",
+      "link": "https://www.howtogeek.com/turned-samsung-galaxy-into-powerful-portable-pc-without-spending-a-dime/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/20261119_162308.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/i-installed-this-free-dashboard-to-catch-my-home-server-when-it-goes-down/",
       "title": "I installed this free dashboard to catch my home server when it goes down",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/dewalt-20v-max-xr-cordless-jigsaw/",
-      "title": "Save $300 on the DeWalt 20V Max XR Cordless Jigsaw",
-      "published": "2026-11-06T21:51:57+00:00",
-      "author": "Saeed Wazir",
-      "description": "Precision cutting power for less.",
-      "link": "https://www.howtogeek.com/dewalt-20v-max-xr-cordless-jigsaw/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/11/dewalt-20v-max-xr-r-cordless-jig-saw.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/jellyfin-plugins-that-make-it-feel-better-than-plex/",
-      "title": "5 Jellyfin plugins that make it feel better than Plex",
-      "published": "2026-11-06T21:31:17+00:00",
-      "author": "Oliver Haslam",
-      "description": "Upgrade your movie and TV show-watching experience",
-      "link": "https://www.makeuseof.com/jellyfin-plugins-that-make-it-feel-better-than-plex/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/jellyfin-on-ipad-and-desktop-tailscale.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }
