@@ -1,9 +1,23 @@
 {
   "category": "technology",
-  "updated": "2026-11-20T08:04:30.945294+00:00",
+  "updated": "2026-11-20T08:32:38.128405+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "TheNextWeb=110e3b03eb12f8a3c623a11b5515cd60",
+      "title": "Adobe’s Project Indigo camera app adds a Long Exposure mode for iPhone",
+      "published": "2026-11-20T07:59:40+00:00",
+      "author": "Ana Maria Constantin",
+      "description": "Adobe has added a Long Exposure mode to Project Indigo, its free experimental camera app for iPhone. It lets phone photographers turn moving water into mist, car headlights into glowing trails and flashlights into drawings in the air. Phone cameras have small sensors, so image quality drops quickly as exposures get longer, Adobe researchers Florian […] This story continues at The Next Web",
+      "link": "https://thenextweb.com/news/adobe-project-indigo-long-exposure-mode-iphone",
+      "image": "https://media.thenextweb.com/2026/11/adobe-project-indigo-long-exposure-blend-light-painting-cover.avif",
+      "feed_name": "The Next Web",
+      "feed_title": "The Next Web",
+      "category": "technology",
+      "feed_url": "https://thenextweb.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
     {
       "id": "https://www.engadget.com/2322656/openai-is-testing-dots-personal-agents-on-its-20-per-month-plus-tier/",
       "title": "OpenAI is testing Dots personal agents on its $20 per month Plus tier",
@@ -13989,20 +14003,6 @@
       "category": "technology",
       "feed_url": "https://readwrite.com/feed/",
       "feed_icon": "https://readwrite.com/wp-content/uploads/2024/10/cropped-readwrite-favicon-32x32.png"
-    },
-    {
-      "id": "https://science.slashdot.org/story/26/11/16/0550239/ula-vulcan-rocket-failure-destroys-40-amazon-leo-satellites?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "title": "ULA Vulcan Rocket Failure Destroys 40 Amazon Leo Satellites",
-      "published": "2026-11-16T06:34:00+00:00",
-      "author": "EditorDavid",
-      "description": "United Launch Alliance's new heavy-lift Vulcan rocket \"malfunctioned while climbing into space yesterday,\" writes Engadget, \"destroying its payload of 40 Amazon Leo internet satellites...\" Launch failures are always a risk, but amazingly, United Launch Alliance had never experienced one previously. Since the company formed in 2006 as a partnership between Boeing and Lockheed Martin, its Atlas V rocket has been famously dependable. Now, the company's more powerful, more complex Vulcan will be un…",
-      "link": "https://science.slashdot.org/story/26/11/16/0550239/ula-vulcan-rocket-failure-destroys-40-amazon-leo-satellites?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-      "feed_name": "Slashdot",
-      "feed_title": "Slashdot",
-      "category": "technology",
-      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
     }
   ]
 }
