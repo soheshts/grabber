@@ -1,9 +1,37 @@
 {
   "category": "science",
-  "updated": "2026-11-20T09:33:18.794482+00:00",
+  "updated": "2026-11-20T10:02:55.466571+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "news714300181",
+      "title": "Galactic shock: Discovery challenges our understanding of the Milky Way's structure",
+      "published": "2026-11-20T10:00:07+00:00",
+      "author": null,
+      "description": "A University of Sydney Ph.D. student has uncovered evidence that the Milky Way is unusual in terms of where its new stars are born compared with nearby galaxies.",
+      "link": "https://phys.org/news/2026-11-galactic-discovery-milky.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/galactic-shock-discove.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "news714230581",
+      "title": "A two-layer flat lens uses nanoscale pillars to guard against unwanted reflections",
+      "published": "2026-11-20T10:00:04+00:00",
+      "author": null,
+      "description": "Researchers in the Harvard John A. Paulson School of Engineering and Applied Sciences (SEAS) have engineered an advancement in metasurface design and processing that now includes a built-in, intentionally designed antireflective coating—a potentially critical step toward greatly expanding the incorporation of metasurfaces into practical devices.",
+      "link": "https://phys.org/news/2026-11-layer-flat-lens-nanoscale-pillars.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-two-layer-metalens-f.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
     {
       "id": "https://sciencebasedmedicine.org/?p=125898",
       "title": "Is Kennedy to Blame for the Return Measles? Yes, Obviously. My YouTube Channel has the Receipts.",
@@ -95,7 +123,7 @@
       "author": null,
       "description": "The mission is set to give us our best ever view of Mercury - the closest planet to the Sun.",
       "link": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62f0/live/43fac6d0-e277-11f1-a094-5fdc692f3e33.png",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eca5/live/034a6cb0-e4c7-11f1-a094-5fdc692f3e33.png",
       "feed_name": "BBC News - Science & Environment",
       "feed_title": "BBC News",
       "category": "science",
@@ -109,7 +137,7 @@
       "author": null,
       "description": "The mission is set to give us our best ever view of Mercury - the closest planet to the Sun.",
       "link": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62f0/live/43fac6d0-e277-11f1-a094-5fdc692f3e33.png",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eca5/live/034a6cb0-e4c7-11f1-a094-5fdc692f3e33.png",
       "feed_name": "BBC News - Science & Environment",
       "feed_title": "BBC News",
       "category": "science",
@@ -13975,34 +14003,6 @@
       "category": "science",
       "feed_url": "https://www.sciencedaily.com/rss/all.xml",
       "feed_icon": "https://www.sciencedaily.com/images/scidaily-logo-rss.png"
-    },
-    {
-      "id": "news713633691",
-      "title": "Independent technique validates landmark M87* image",
-      "published": "2026-11-12T00:00:04+00:00",
-      "author": null,
-      "description": "The 2019 Event Horizon Telescope (EHT) image was the work of hundreds of scientists and captured the first direct view of a black hole's shadow—becoming one of the most recognized scientific images of the modern era. A team of four from CSIRO, Australia's national science agency, has developed a powerful new imaging technique that validated the landmark 2019 image of the black hole at the center of galaxy M87.",
-      "link": "https://phys.org/news/2026-11-independent-technique-validates-landmark-m87.html",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-fuzy-organge-glowing.jpg",
-      "feed_name": "Phys.org - latest science and technology news stories",
-      "feed_title": "Phys.org - latest science and technology news stories",
-      "category": "science",
-      "feed_url": "https://phys.org/rss-feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "https://www.nature.com/articles/d41586-026-03573-3",
-      "title": "RSV vaccines slash infections: data show jabs’ staggering success against dangerous virus",
-      "published": "2026-11-12T00:00:00+00:00",
-      "author": "Liam Drew",
-      "description": "Nature, Published online: 12 November 2026; doi:10.1038/d41586-026-03573-3 Vaccines and monoclonal-antibody injections are cutting hospitalizations linked to the respiratory virus.",
-      "link": "https://www.nature.com/articles/d41586-026-03573-3",
-      "image": null,
-      "feed_name": "Nature",
-      "feed_title": "Nature",
-      "category": "science",
-      "feed_url": "https://www.nature.com/nature.rss",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=feeds.nature.com&sz=64"
     }
   ]
 }

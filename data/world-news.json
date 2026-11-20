@@ -1,9 +1,37 @@
 {
   "category": "World News",
-  "updated": "2026-11-20T09:33:18.794482+00:00",
+  "updated": "2026-11-20T10:02:55.466571+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://timesofindia.indiatimes.com/world/us/it-just-hits-me-right-in-the-neck-evil-owl-terrorises-us-state-multiple-attacks-reported/articleshow/136021606.cms",
+      "title": "‘It just hits me right in the neck’: ‘Evil owl’ terrorises US state, multiple attacks reported",
+      "published": "2026-11-20T09:51:58+00:00",
+      "author": "Aashish Vashistha",
+      "description": "",
+      "link": "https://timesofindia.indiatimes.com/world/us/it-just-hits-me-right-in-the-neck-evil-owl-terrorises-us-state-multiple-attacks-reported/articleshow/136021606.cms",
+      "image": "https://static.toiimg.com/photo/msid-136021862,imgsize-145886.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/20/world/europe/putin-trump-xi-summit-apec.html",
+      "title": "A Summit Gives Putin the Win He Craves: Equal Stature With Superpowers",
+      "published": "2026-11-20T09:34:04+00:00",
+      "author": "Paul Sonne",
+      "description": "Standing alongside the U.S. and Chinese leaders, President Vladimir V. Putin secured a symbolic triumph in his long quest to restore Russia’s place as a global power.",
+      "link": "https://www.nytimes.com/2026/11/20/world/europe/putin-trump-xi-summit-apec.html",
+      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20int-russia-putin-assess-1-qhzj/20int-russia-putin-assess-1-qhzj-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o#0",
       "title": "Three Kyiv bridges hit during major Russian missile attack",
@@ -717,20 +745,6 @@
       "category": "World News",
       "feed_url": "https://www.theguardian.com/world/rss",
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/20/world/europe/putin-trump-xi-summit-apec.html",
-      "title": "A Summit Gives Putin the Win He Craves: Equal Stature With Superpowers",
-      "published": "2026-11-20T05:01:13+00:00",
-      "author": "Paul Sonne",
-      "description": "Standing alongside the U.S. and Chinese leaders, President Vladimir V. Putin secured a symbolic triumph in his long quest to restore Russia’s place as a global power.",
-      "link": "https://www.nytimes.com/2026/11/20/world/europe/putin-trump-xi-summit-apec.html",
-      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20int-russia-putin-assess-1-qhzj/20int-russia-putin-assess-1-qhzj-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://www.nytimes.com/2026/11/20/world/europe/youth-protests-far-right-left.html",
@@ -13989,20 +14003,6 @@
       "category": "World News",
       "feed_url": "https://www.reddit.com/r/worldnews/.rss",
       "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cm3eg3v9jkk8o#3",
-      "title": "China is hosting the world's leaders in its AI wonderland. Here's what they won't see",
-      "published": "2026-11-16T23:07:20+00:00",
-      "author": null,
-      "description": "Leave Shenzhen's tech-flecked city skyline and you run into the challenges confronting Xi's China.",
-      "link": "https://www.bbc.co.uk/news/articles/cm3eg3v9jkk8o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4323/live/6888ce50-e260-11f1-a094-5fdc692f3e33.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     }
   ]
 }

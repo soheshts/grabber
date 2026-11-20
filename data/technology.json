@@ -1,9 +1,37 @@
 {
   "category": "technology",
-  "updated": "2026-11-20T09:33:18.794482+00:00",
+  "updated": "2026-11-20T10:02:55.466571+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "ccec18ba-c3c7-11f0-8340-9f89898321fd",
+      "title": "The week everything fell apart",
+      "published": "2026-11-20T10:00:00+00:00",
+      "author": "The Verge",
+      "description": "Banks. Planes. Emails. This week, it felt like everything broke just about all at once. Nilay and David try to explain what happened, and whether the relatively mundane truths still add up to something big and scary. Then, they catch up on the latest in the Jensen Huang story, and the China chip smuggling story that might be even bigger. Finally, it's time for Brendan Carr, Google name disasters, and Siri Recap. Further reading: America’s air traffic control system couldn’t handle a single bad…",
+      "link": null,
+      "image": null,
+      "feed_name": "The Vergecast",
+      "feed_title": "The Vergecast",
+      "category": "technology",
+      "feed_url": "https://feeds.megaphone.fm/vergecast",
+      "feed_icon": "https://megaphone-images.spotifycdn.com/podcasts/e4c412e6-e1f0-11e8-9bde-83f9d376f059/image/fa367fa8b1b6ca01fc4b8c34d83ba4d8.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+      "id": "TheNextWeb=054552ea7c5d328e97acb7f992d6d5dc",
+      "title": "Intuit sells Mailchimp to Bending Spoons for a third of its 2021 price",
+      "published": "2026-11-20T09:35:39+00:00",
+      "author": "Cristian Dina",
+      "description": "Intuit has agreed to sell Mailchimp to Bending Spoons at an enterprise value of $3.68bn, five years after it paid about $12bn for the email marketing platform. Both companies announced the deal on Thursday, alongside Intuit’s first-quarter results. Bending Spoons, the Milan company that owns Evernote, Vimeo and AOL, called it an all-cash deal in […] This story continues at The Next Web",
+      "link": "https://thenextweb.com/news/intuit-sells-mailchimp-bending-spoons-3-68bn",
+      "image": "https://media.thenextweb.com/2026/06/bending-spoons-ipo-pricing-19-billion-valuation-nasdaq.avif",
+      "feed_name": "The Next Web",
+      "feed_title": "The Next Web",
+      "category": "technology",
+      "feed_url": "https://thenextweb.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
     {
       "id": "TheNextWeb=110e3b03eb12f8a3c623a11b5515cd60",
       "title": "Adobe’s Project Indigo camera app adds a Long Exposure mode for iPhone",
@@ -13975,34 +14003,6 @@
       "category": "technology",
       "feed_url": "https://www.blog.google/rss/",
       "feed_icon": "https://blog.google/static/blogv2/images/google.png"
-    },
-    {
-      "id": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/listening-to-teens-on-online-safety/",
-      "title": "Listening to teens on online safety",
-      "published": "2026-11-16T08:00:00+00:00",
-      "author": "Will Gardner",
-      "description": "Childnet logo on orange background.",
-      "link": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/listening-to-teens-on-online-safety/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Untitled_-_13_November_2026_at_.max-600x600.format-webp_aiwylq7.webp",
-      "feed_name": "The Keyword",
-      "feed_title": "News from Google",
-      "category": "technology",
-      "feed_url": "https://www.blog.google/rss/",
-      "feed_icon": "https://blog.google/static/blogv2/images/google.png"
-    },
-    {
-      "id": "https://readwrite.com/?p=658069",
-      "title": "CFTC and Justice Department sue Arkansas and Louisiana over event-contract crackdowns",
-      "published": "2026-11-16T07:18:46+00:00",
-      "author": "ReadWrite Editor",
-      "description": "In two days, federal authorities filed suits against two states that treat prediction markets as illegal gambling. The cases could decide whether state gaming regulators or the CFTC control sports event contracts, which compete with licensed sportsbooks and online casinos. The post CFTC and Justice Department sue Arkansas and Louisiana over event-contract crackdowns appeared first on ReadWrite .",
-      "link": "https://readwrite.com/cftc-and-justice-department-sue-arkansas-and-louisiana-over-event-contract-crackdowns/",
-      "image": "https://readwrite.com/wp-content/uploads/2026/11/match-658069-900x600.jpg",
-      "feed_name": "ReadWrite",
-      "feed_title": "ReadWrite",
-      "category": "technology",
-      "feed_url": "https://readwrite.com/feed/",
-      "feed_icon": "https://readwrite.com/wp-content/uploads/2024/10/cropped-readwrite-favicon-32x32.png"
     }
   ]
 }
