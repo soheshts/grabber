@@ -1,9 +1,23 @@
 {
   "category": "travel",
-  "updated": "2026-11-20T00:33:08.493475+00:00",
+  "updated": "2026-11-20T01:03:28.843352+00:00",
   "count": 192,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/11/16/travel/thanksgiving-season-travel-deals.html",
+      "title": "A Flurry of Thanksgiving Travel Deals for Vacation Shoppers",
+      "published": "2026-11-20T00:31:39+00:00",
+      "author": "Elaine Glusac",
+      "description": "The Thanksgiving season ushers in sales across the travel industry, from international trips to luxury resorts. Here is a sampling.",
+      "link": "https://www.nytimes.com/2026/11/16/travel/thanksgiving-season-travel-deals.html",
+      "image": null,
+      "feed_name": "NYT > Travel",
+      "feed_title": "NYT > Travel",
+      "category": "travel",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "https://www.atlasobscura.com/places/promotions-gallery",
       "title": "Promotions Gallery in Paris, France",
@@ -395,20 +409,6 @@
       "category": "travel",
       "feed_url": "https://www.atlasobscura.com/feeds/latest",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.atlasobscura.com&sz=64"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/16/travel/thanksgiving-season-travel-deals.html",
-      "title": "A Flurry of Thanksgiving Travel Deals for Vacation Shoppers",
-      "published": "2026-11-16T14:48:08+00:00",
-      "author": "Elaine Glusac",
-      "description": "The Thanksgiving season ushers in sales across the travel industry, from international trips to luxury resorts. Here is a sampling.",
-      "link": "https://www.nytimes.com/2026/11/16/travel/thanksgiving-season-travel-deals.html",
-      "image": null,
-      "feed_name": "NYT > Travel",
-      "feed_title": "NYT > Travel",
-      "category": "travel",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://www.nytimes.com/2026/11/16/travel/thanksgiving-travel-air-traffic-outage.html",
