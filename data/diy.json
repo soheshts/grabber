@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-20T09:03:53.748006+00:00",
+  "updated": "2026-11-20T09:33:18.794482+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/windows-11-kb5132057-search-rollout-new-search/",
+      "title": "Windows 11 just got a faster search that does more than find files",
+      "published": "2026-11-20T09:06:14+00:00",
+      "author": "Anvinraj Valiyathara",
+      "description": "It's rolling out slowly, and only in English for now.",
+      "link": "https://www.makeuseof.com/windows-11-kb5132057-search-rollout-new-search/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/07/windows-settings-search-preferences-and-account-options-panel.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://hackaday.com/?p=1429051",
+      "title": "One Hundred Gratuitous Case Fans? We’re Fans of This.",
+      "published": "2026-11-20T09:00:32+00:00",
+      "author": "Tyler August",
+      "description": "Sometimes you can’t help but boast about a project once you have it in your hands. [Sasa Karanovic] proudly declared that his new fan controller could handle “one hundred fans, …read more",
+      "link": "https://hackaday.com/2026/11/20/one-hundred-gratuitous-case-fans-were-fans-of-this/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/100Fans1.jpg",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://hackaday.com/?p=1428695",
       "title": "Crashing Microcontrollers Competitively",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.makeuseof.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/i-used-galaxy-z-fold-8-iphone-duo-week/",
-      "title": "I used the Galaxy Z Fold 8 and the iPhone Duo for a week, and this is the wide foldable I’d keep",
-      "published": "2026-11-06T18:30:16+00:00",
-      "author": "Brady Snyder",
-      "description": "The iPhone Duo made me love the Galaxy Z Fold 8 even more.",
-      "link": "https://www.makeuseof.com/i-used-galaxy-z-fold-8-iphone-duo-week/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/iphone-duo-fold-8-7.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/its-time-to-purge-your-old-browser-extensionsthey-might-be-a-security-risk/",
-      "title": "It's time to purge your old browser extensions, they might be a security risk",
-      "published": "2026-11-06T18:30:15+00:00",
-      "author": "David J. Buck",
-      "description": "Your browser plugins might be fine or they might be compromised. When was the last time you checked?",
-      "link": "https://www.howtogeek.com/its-time-to-purge-your-old-browser-extensionsthey-might-be-a-security-risk/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/extensions.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
     }
   ]
 }
