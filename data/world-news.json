@@ -1,9 +1,65 @@
 {
   "category": "World News",
-  "updated": "2026-11-20T20:33:01.511656+00:00",
+  "updated": "2026-11-20T21:02:58.974981+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko#0",
+      "title": "Trump threatens ban on US firms building AI data centres overseas",
+      "published": "2026-11-20T20:54:12+00:00",
+      "author": null,
+      "description": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+      "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09a4/live/7e18d7e0-e514-11f1-b40b-5f46e8cf687c.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "108556651",
+      "title": "Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax'",
+      "published": "2026-11-20T20:47:58+00:00",
+      "author": null,
+      "description": "Trump spoke at the White House after meeting with Chinese President Xi Jinping and Russian President Vladimir Putin for a historic trilateral summit in China.",
+      "link": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108556645-1795196053260-gettyimages-2305498959-AFP_D87462K.jpeg?v=1795196073&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/20/world/europe/poland-russia-airspace-missile.html",
+      "title": "‘Russian Objects’ Crashed in Poland, Officials Say. Here’s What We Can See.",
+      "published": "2026-11-20T20:30:59+00:00",
+      "author": "Anatol Magdziarz, Aurelien Breeden and James McManagan",
+      "description": "There were no injuries or damage from three incidents that the Polish authorities called a likely “provocation” from Russia during military exercises by Ukraine’s allies.",
+      "link": "https://www.nytimes.com/2026/11/20/world/europe/poland-russia-airspace-missile.html",
+      "image": "https://static01.nyt.com/images/2026/11/20/world/europe/20vid-poland-airspace-cover-image/20vid-poland-airspace-cover-image-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/gta-6-sets-record-with-3-79-billion-in-first-day-retail-sales-report-12356605#publisher=newsstand",
+      "title": "GTA 6 Sets Record With $3.79 Billion In First-Day Retail Sales: Report",
+      "published": "2026-11-20T20:30:22+00:00",
+      "author": null,
+      "description": "The standard edition of the game retails for around $80 in the US.",
+      "link": "https://www.ndtv.com/world-news/gta-6-sets-record-with-3-79-billion-in-first-day-retail-sales-report-12356605#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-11/a93r72qg_gta-6_625x300_18_November_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
     {
       "id": "https://timesofindia.indiatimes.com/world/us/quote-of-the-day-by-michael-jackson-you-never-know-how-long-you-have-with-someone-so-dont-forget-to-say/articleshow/136038481.cms",
       "title": "Quote of the day by Michael Jackson: \"You never know how long you have with someone, so don't...\"",
@@ -45,6 +101,20 @@
       "category": "World News",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/us/look-at-india-country-of-second-chances-10-key-takeaways-from-trumps-first-presser-since-midterm-loss/articleshow/136038820.cms",
+      "title": "'Look at India', 'country of 2nd chances': 10 takeaways from Trump's White House presser",
+      "published": "2026-11-20T20:25:58+00:00",
+      "author": "Trisha Mahajan",
+      "description": "Donald Trump championed his administration's initiatives and signaled a willingness to partner with Democrats on key issues. He lauded the economic prospects of the Quad alliance, particularly India's remarkable growth figures. Discussing Iran, Trump called for clear and acceptable terms in any agreements. Supporting former Nvidia CEO Jensen Huang, he recommended enforcing a tax on offshore data centers.",
+      "link": "https://timesofindia.indiatimes.com/world/us/look-at-india-country-of-second-chances-10-key-takeaways-from-trumps-first-presser-since-midterm-loss/articleshow/136038820.cms",
+      "image": "https://static.toiimg.com/photo/msid-136038954,imgsize-81020.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/us/florida-couple-take-their-dog-for-a-late-night-walk-and-discover-a-15-foot-134-pound-burmese-python-hiding-in-a-neighbours-bushes-a-local-trapper-captures-the-invasive-snake-in-just-three-minutes/articleshow/136038096.cms",
@@ -131,6 +201,34 @@
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
+      "id": "https://www.ndtv.com/world-news/donald-trump-defends-fantastic-ties-with-xi-jinping-putin-after-summit-backlash-12356565#publisher=newsstand",
+      "title": "Trump Defends \"Fantastic\" Ties With Xi, Putin After Summit Backlash",
+      "published": "2026-11-20T19:57:57+00:00",
+      "author": null,
+      "description": "US President Donald Trump on Friday defended his \"momentous\" summit with Xi Jinping and Vladimir Putin.",
+      "link": "https://www.ndtv.com/world-news/donald-trump-defends-fantastic-ties-with-xi-jinping-putin-after-summit-backlash-12356565#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-11/fvdbms7c_donald-trump_625x300_21_November_26.jpeg",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/look-at-india-trump-targets-us-central-bank-over-high-interest-rates-12356443#publisher=newsstand",
+      "title": "'Look At India': Trump Targets US Central Bank Over High Interest Rates",
+      "published": "2026-11-20T19:57:30+00:00",
+      "author": null,
+      "description": "Trump made the remarks during a media briefing at White House on Friday",
+      "link": "https://www.ndtv.com/world-news/look-at-india-trump-targets-us-central-bank-over-high-interest-rates-12356443#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-11/382n1568_trump-afp_625x300_21_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
       "id": "https://timesofindia.indiatimes.com/world/us/tech-millionaire-spends-14400-to-hire-30-protesters-to-picket-saks-after-his-mother-was-fired-from-the-store-five-days-after-a-customer-allegedly-punched-and-kicked-her/articleshow/136038758.cms",
       "title": "Tech millionaire spends $14,400 to hire 30 protesters to picket Saks after his mother was fired from the store five days after a customer allegedly punched and kicked her",
       "published": "2026-11-20T19:54:55+00:00",
@@ -157,34 +255,6 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/donald-trump-defends-fantastic-ties-with-xi-jinping-putin-after-summit-backlash-12356565#publisher=newsstand",
-      "title": "Trump Defends \"Fantastic\" Ties With Xi, Putin After Summit Backlash",
-      "published": "2026-11-20T19:54:11+00:00",
-      "author": null,
-      "description": "US President Donald Trump on Friday defended his \"momentous\" summit with Xi Jinping and Vladimir Putin.",
-      "link": "https://www.ndtv.com/world-news/donald-trump-defends-fantastic-ties-with-xi-jinping-putin-after-summit-backlash-12356565#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-11/fvdbms7c_donald-trump_625x300_21_November_26.jpeg",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko#0",
-      "title": "Trump threatens ban on US firms building AI data centres overseas",
-      "published": "2026-11-20T19:51:52+00:00",
-      "author": null,
-      "description": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
-      "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09a4/live/7e18d7e0-e514-11f1-b40b-5f46e8cf687c.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo#0",
@@ -285,20 +355,6 @@
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
-      "id": "https://www.ndtv.com/world-news/look-at-india-trump-targets-us-central-bank-over-high-interest-rates-12356443#publisher=newsstand",
-      "title": "'Look At India': Trump Targets US Central Bank Over High Interest Rates",
-      "published": "2026-11-20T19:16:24+00:00",
-      "author": null,
-      "description": "Trump made the remarks during a media briefing at White House on Friday",
-      "link": "https://www.ndtv.com/world-news/look-at-india-trump-targets-us-central-bank-over-high-interest-rates-12356443#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-11/382n1568_trump-afp_625x300_21_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
       "id": "108555967",
       "title": "Trump says he discussed Jensen Huang with Xi, apparently contradicting Bessent",
       "published": "2026-11-20T19:15:44+00:00",
@@ -306,20 +362,6 @@
       "description": "Trump said he discussed Jensen Huang with China's Xi, hours after Bessent said the ousted Nvidia CEO didn't come up in the talks.",
       "link": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html",
       "image": "https://image.cnbcfm.com/api/v1/image/108550979-1794576417589-bessent3.jpg?v=1795125703&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "108556651",
-      "title": "Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax'",
-      "published": "2026-11-20T19:15:01+00:00",
-      "author": null,
-      "description": "Trump spoke at the White House after meeting with Chinese President Xi Jinping and Russian President Vladimir Putin for a historic trilateral summit in China.",
-      "link": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108556645-1795196053260-gettyimages-2305498959-AFP_D87462K.jpeg?v=1795196073&w=1920&h=1080",
       "feed_name": "CNBC",
       "feed_title": "International: Top News And Analysis",
       "category": "World News",
@@ -927,20 +969,6 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/20/world/europe/poland-russia-airspace-missile.html",
-      "title": "‘Russian Objects’ Crashed in Poland, Officials Say. Here’s What We Can See.",
-      "published": "2026-11-20T15:49:30+00:00",
-      "author": "Anatol Magdziarz, Aurelien Breeden and James McManagan",
-      "description": "There were no injuries or damage from three incidents that the Polish authorities called a likely “provocation” from Russia during military exercises by Ukraine’s allies.",
-      "link": "https://www.nytimes.com/2026/11/20/world/europe/poland-russia-airspace-missile.html",
-      "image": "https://static01.nyt.com/images/2026/11/20/20vid-poland-air-28802-cover/20vid-poland-air-28802-cover-mediumSquareAt3X-v2.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/rest-of-world/colleen-begg-came-to-mozambique-in-2002-to-study-honey-badgers-and-stayed-to-protect-one-of-africas-largest-lion-populations-and-she-is-the-first-woman-to-win-prince-williams-tusk-lifetime-award/articleshow/136011520.cms",
@@ -13975,34 +14003,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/17/climate/cop31-turkey-electrification.html",
-      "title": "There’s a New Push at COP31 in Turkey: Electrification",
-      "published": "2026-11-17T10:03:56+00:00",
-      "author": "Chico Harlan",
-      "description": "With war squeezing global oil and gas supplies, leaders at COP31 are backing a plan that would mirror China’s rapid grid expansion.",
-      "link": "https://www.nytimes.com/2026/11/17/climate/cop31-turkey-electrification.html",
-      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17CLI-COP-ELECTRIC-01-vwcp/17CLI-COP-ELECTRIC-01-vwcp-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "t3_1xygjb3",
-      "title": "From Flamingo to Neptune: Zelensky Reveals Details of Crimea Bridge Strike",
-      "published": "2026-11-17T09:57:43+00:00",
-      "author": "/u/ArgentineBeauty",
-      "description": "submitted by /u/ArgentineBeauty [link] [comments]",
-      "link": "https://www.reddit.com/r/worldnews/comments/1xygjb3/from_flamingo_to_neptune_zelensky_reveals_details/",
-      "image": "https://external-preview.redd.it/2cTZhA9S585CVL2SElX1Ao8udmiD5MYBxL2U0flQm0g.jpeg?width=640&crop=smart&auto=webp&s=808a4718b29e94790dfea64802ea50404a1dd774",
-      "feed_name": "World News",
-      "feed_title": "World News",
-      "category": "World News",
-      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
-      "feed_icon": "https://www.redditstatic.com/icon.png/"
     }
   ]
 }
