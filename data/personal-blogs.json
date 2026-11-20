@@ -1,9 +1,23 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-20T04:33:31.283430+00:00",
+  "updated": "2026-11-20T05:03:20.712041+00:00",
   "count": 447,
   "summary": null,
   "items": [
+    {
+      "id": "https://rachsmith.com/2026-11-20-04-56/",
+      "title": "",
+      "published": "2026-11-20T04:56:00+00:00",
+      "author": null,
+      "description": "I like the new Docker whale. He’s chunky. Reply by email",
+      "link": "https://rachsmith.com/2026-11-20-04-56",
+      "image": null,
+      "feed_name": "Rach Smith's digital garden",
+      "feed_title": "Rach Smith's notes & nuggets",
+      "category": "personal blogs",
+      "feed_url": "http://rachsmith.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=rachsmith.com&sz=64"
+    },
     {
       "id": "https://www.bram.us/?p=37027",
       "title": "Introducing CodePen Commander, a CLI tool (cdpn) to manage your CodePen 2.0 Pens",
@@ -5533,20 +5547,6 @@
       "category": "personal blogs",
       "feed_url": "http://feeds.feedburner.com/smuscom",
       "feed_icon": "https://www.google.com/s2/favicons?domain=smus.com&sz=64"
-    },
-    {
-      "id": "https://ronaldsvilcins.com/2026/10/21/when-to-use-hugo-shortcodes-or-render-hooks/",
-      "title": "When to Use Hugo Shortcodes or Render Hooks",
-      "published": "2026-10-21T05:00:00+00:00",
-      "author": "Ronalds Vilciņš",
-      "description": "Use render hooks to change normal Markdown output and shortcodes for custom content with meaning Markdown cannot express.",
-      "link": "https://ronaldsvilcins.com/2026/10/21/when-to-use-hugo-shortcodes-or-render-hooks/",
-      "image": null,
-      "feed_name": "Ronalds Vilciņš",
-      "feed_title": "Ronalds Vilciņš",
-      "category": "personal blogs",
-      "feed_url": "https://ronaldsvilcins.com/atom.xml",
-      "feed_icon": "https://ronaldsvilcins.com/favicon.png"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
