@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated": "2026-11-20T11:03:24.332051+00:00",
+  "updated": "2026-11-20T11:32:43.282910+00:00",
   "count": 1000,
   "summary": null,
   "items": [
@@ -31,6 +31,20 @@
       "category": "technology",
       "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
       "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
+    },
+    {
+      "id": "https://www.engadget.com/2322705/the-trump-administration-has-replaced-its-cybersecurity-chief/",
+      "title": "The Trump administration has replaced its cybersecurity chief",
+      "published": "2026-11-20T10:53:36+00:00",
+      "author": "Mariella Moon",
+      "description": "The White House has replaced cybersecurity chief Sean Cairncross with the Pentagon's Kirsten Davies.",
+      "link": "https://www.engadget.com/2322705/the-trump-administration-has-replaced-its-cybersecurity-chief/",
+      "image": "https://www.engadget.com/img/gallery/the-trump-administration-has-replaced-its-cybersecurity-chief/l-intro-1795171923.jpg",
+      "feed_name": "Engadget",
+      "feed_title": "Engadget - Technology News & Expert Reviews",
+      "category": "technology",
+      "feed_url": "https://www.engadget.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
     },
     {
       "id": "TheNextWeb=586aa7a51d03f30b9d8b566cc06c0607",
@@ -185,6 +199,20 @@
       "category": "technology",
       "feed_url": "https://www.engadget.com/rss.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
+    {
+      "id": "https://readwrite.com/?p=660151",
+      "title": "Utah sues Stake four days after the site added the state to its blocked list",
+      "published": "2026-11-20T07:18:29+00:00",
+      "author": "ReadWrite Editor",
+      "description": "Utah has sued the companies behind the Stake sweepstakes site, alleging it ran an illegal casino for Utahns since 2022. The case follows Florida's own suit against Stake and adds to the legal pressure on the dual-currency sweepstakes model. The post Utah sues Stake four days after the site added the state to its blocked list appeared first on ReadWrite .",
+      "link": "https://readwrite.com/utah-sues-stake-four-days-after-the-site-added-the-state-to-its-blocked-list/",
+      "image": "https://readwrite.com/wp-content/uploads/2026/11/utah-state-capitol-900x561.jpg",
+      "feed_name": "ReadWrite",
+      "feed_title": "ReadWrite",
+      "category": "technology",
+      "feed_url": "https://readwrite.com/feed/",
+      "feed_icon": "https://readwrite.com/wp-content/uploads/2024/10/cropped-readwrite-favicon-32x32.png"
     },
     {
       "id": "https://science.slashdot.org/story/26/11/20/0010255/google-signs-deal-with-blue-origin-to-send-satellite-data-centers-into-orbit?utm_source=rss1.0mainlinkanon&utm_medium=feed",
@@ -13975,34 +14003,6 @@
       "category": "technology",
       "feed_url": "http://feeds.mashable.com/Mashable",
       "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
-    },
-    {
-      "id": "05uSJjl8S52UMmoTMD0Ghpa",
-      "title": "Zelda Switch 2 restock: Live restock updates at Walmart, Target, and Best Buy (Nov. 16)",
-      "published": "2026-11-16T09:46:22+00:00",
-      "author": null,
-      "description": "Looking for the Zelda 40th Anniversary Switch 2? Here is today's live stock update across Target, Best Buy, Walmart, and more retailers.",
-      "link": "https://mashable.com/tech/zelda-nintendo-switch-2-restock-retailers-where-to-buy",
-      "image": "https://helios-i.mashable.com/imagery/articles/05uSJjl8S52UMmoTMD0Ghpa/hero-image.png",
-      "feed_name": "Mashable",
-      "feed_title": "Mashable",
-      "category": "technology",
-      "feed_url": "http://feeds.mashable.com/Mashable",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
-    },
-    {
-      "id": "TheNextWeb=13e8807c5b68e12ca16849e3f57319a0",
-      "title": "Nvidia, OpenAI and Anthropic to be named AI national champions, WSJ reports",
-      "published": "2026-11-16T09:43:00+00:00",
-      "author": "Alina Maria Stan",
-      "description": "The Trump administration plans to name Nvidia, Amazon, Microsoft, OpenAI and Anthropic among more than two dozen AI “national champions”, The Wall Street Journal reported on Sunday. The aim is to help US AI firms win business overseas against Chinese rivals. People familiar with the plans told Yoko Kubota and Amrith Ramkumar that the announcement […] This story continues at The Next Web",
-      "link": "https://thenextweb.com/news/ai-national-champions-nvidia-openai-anthropic-trump",
-      "image": "https://media.thenextweb.com/2026/10/jensen-huang-donald-trump-pointing-medal-us-flags.avif",
-      "feed_name": "The Next Web",
-      "feed_title": "The Next Web",
-      "category": "technology",
-      "feed_url": "https://thenextweb.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
     }
   ]
 }
