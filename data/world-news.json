@@ -1,9 +1,23 @@
 {
   "category": "World News",
-  "updated": "2026-11-21T02:02:51.291171+00:00",
+  "updated": "2026-11-21T02:33:29.949628+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro#0",
+      "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+      "published": "2026-11-21T02:09:46+00:00",
+      "author": null,
+      "description": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbb7/live/b5de9720-e4ea-11f1-99b6-a35a62fa4264.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
     {
       "id": "https://www.ndtv.com/world-news/6-9-magnitude-earthquake-hits-peru-no-casualties-reported-12356926#publisher=newsstand",
       "title": "Video: 6.9 Magnitude Earthquake Hits Peru, Residents Rush Into Streets",
@@ -678,7 +692,7 @@
     },
     {
       "id": "https://www.ndtv.com/world-news/gta-6-sets-record-with-3-79-billion-in-first-day-retail-sales-report-12356605#publisher=newsstand",
-      "title": "GTA 6 Sets Record With $3.79 Billion In First-Day Retail Sales: Report",
+      "title": "GTA 6 Sets Record With $3.79 Billion In First-Day Retail Sales",
       "published": "2026-11-20T20:30:22+00:00",
       "author": null,
       "description": "The standard edition of the game retails for around $80 in the US.",
@@ -1221,20 +1235,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro#0",
-      "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-      "published": "2026-11-20T16:54:29+00:00",
-      "author": null,
-      "description": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbb7/live/b5de9720-e4ea-11f1-99b6-a35a62fa4264.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "108556507",
