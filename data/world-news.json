@@ -1,27 +1,13 @@
 {
   "category": "World News",
-  "updated": "2026-11-21T16:33:05.078448+00:00",
+  "updated": "2026-11-21T17:02:58.410493+00:00",
   "count": 1000,
   "summary": null,
   "items": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o#0",
-      "title": "FBI reportedly investigating apparent hack of its criminal database",
-      "published": "2026-11-21T16:27:14+00:00",
-      "author": null,
-      "description": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
-      "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fd7/live/9009b220-e58d-11f1-99a1-253766e7ad8b.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
       "id": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html",
       "title": "Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts",
-      "published": "2026-11-21T16:23:16+00:00",
+      "published": "2026-11-21T17:00:06+00:00",
       "author": "Paulina Villegas",
       "description": "The arrest of Fausto Isidro Meza Flores, who is known as El Chapo Isidro and was one of the F.B.I.’s 10 most wanted, was a victory for the Mexican government.",
       "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html",
@@ -33,9 +19,37 @@
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
+      "id": "108555422",
+      "title": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
+      "published": "2026-11-21T16:40:05+00:00",
+      "author": null,
+      "description": "Anthropic held its historic Nasdaq debut a day before Nvidia's stock closed out its longest weekly losing streak since 2008.",
+      "link": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108555254-1795098552302-gettyimages-2305298530-AFP_D7ZG87P.jpeg?v=1795137591&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o#0",
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "published": "2026-11-21T16:35:15+00:00",
+      "author": null,
+      "description": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+      "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fd7/live/9009b220-e58d-11f1-99a1-253766e7ad8b.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
       "id": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-drug-kingpin.html",
       "title": "Who Is the Mexican Drug Kingpin Known as El Chapo Isidro?",
-      "published": "2026-11-21T16:22:00+00:00",
+      "published": "2026-11-21T16:30:35+00:00",
       "author": "Lynsey Chutel",
       "description": "The kingpin, Fausto Isidro Meza Flores, was captured in a violent operation in Mexico. He was one of the F.B.I.’s 10 most wanted fugitives.",
       "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-drug-kingpin.html",
@@ -13989,20 +14003,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/17/world/americas/christian-sanon-trial-haiti-president-assassination.html",
-      "title": "From Failed Businessman to Accused Plotter in the Killing of Haiti’s Leader",
-      "published": "2026-11-17T17:41:06+00:00",
-      "author": "David C. Adams",
-      "description": "Prosecutors say Christian Sanon was a con man who oversaw a plan to assassinate the country’s president. His defense says he played no part in the plot’s fatal outcome.",
-      "link": "https://www.nytimes.com/2026/11/17/world/americas/christian-sanon-trial-haiti-president-assassination.html",
-      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17haiti-assassination-pastor-zgtf/17haiti-assassination-pastor-zgtf-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     }
   ]
 }
