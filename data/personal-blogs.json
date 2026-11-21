@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-21T12:33:08.011495+00:00",
-  "count": 452,
+  "updated": "2026-11-21T13:03:39.284815+00:00",
+  "count": 453,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,20 @@
       "category": "personal blogs",
       "feed_url": "http://www.bennadel.com/index.cfm?dax=blog.rss&lst_tag_id=14,16,3,5,9,6,7,13,18,20,10,15",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.bennadel.com&sz=64"
+    },
+    {
+      "id": "https://shkspr.mobi/blog/?p=74542",
+      "title": "Relicensing to CC BY-SA and making it visible in Schema metadata",
+      "published": "2026-11-21T12:34:40+00:00",
+      "author": "Terence Eden",
+      "description": "How do you make it clear what copyright licence a blog post uses? I know in our wonderful AI-powered future that copyright and copyleft are but a distant memory. But some of us still believe it's worth making these things clear to both men and machines. The first port of call is the page's metadata. Using the rel attribute. Placing something like this in your page's indicates that the…",
+      "link": "https://shkspr.mobi/blog/2026/11/relicensing-to-cc-by-sa-and-making-it-visible-in-schema-metadata/",
+      "image": "https://shkspr.mobi/blog/wp-content/uploads/2026/08/schema.webp",
+      "feed_name": "Terence Eden’s Blog",
+      "feed_title": "Terence Eden’s Blog",
+      "category": "personal blogs",
+      "feed_url": "https://shkspr.mobi/blog/feed/atom/",
+      "feed_icon": "https://shkspr.mobi/blog/wp-content/uploads/2023/07/cropped-avatar-32x32.jpeg"
     },
     {
       "id": "https://ronaldsvilcins.com/2026/11/21/better-one-time-code-inputs-without-six-tiny-boxes/",
