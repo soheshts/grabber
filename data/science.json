@@ -1,9 +1,23 @@
 {
   "category": "science",
-  "updated": "2026-11-21T03:03:16.109482+00:00",
+  "updated": "2026-11-21T03:33:09.779636+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/quiz/2026/11/18/science/voyager-lightday.html",
+      "title": "How Much Do You Know About NASA’s Voyager Mission?",
+      "published": "2026-11-21T03:00:14+00:00",
+      "author": "The New York Times",
+      "description": "Voyagers 1 and 2 have gone farther and lasted longer than any other spacecraft that humans have sent out into the cosmos. Test your knowledge about their epic and ongoing journey.",
+      "link": "https://www.nytimes.com/quiz/2026/11/18/science/voyager-lightday.html",
+      "image": "https://static01.nyt.com/images/2026/11/18/science/18SCI-VOYAGER-QUIZ/18SCI-VOYAGER-QUIZ-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Science",
+      "feed_title": "NYT > Science",
+      "category": "science",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "news714409162",
       "title": "Quantum software matches classical benchmark for a molecular interaction",
@@ -157,20 +171,6 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "https://www.nytimes.com/quiz/2026/11/18/science/voyager-lightday.html",
-      "title": "How Much Do You Know About NASA’s Voyager Mission?",
-      "published": "2026-11-20T22:28:22+00:00",
-      "author": "The New York Times",
-      "description": "Voyagers 1 and 2 have gone farther and lasted longer than any other spacecraft that humans have sent out into the cosmos. Test your knowledge about their epic and ongoing journey.",
-      "link": "https://www.nytimes.com/quiz/2026/11/18/science/voyager-lightday.html",
-      "image": "https://static01.nyt.com/images/2026/11/18/science/18SCI-VOYAGER-QUIZ/18SCI-VOYAGER-QUIZ-mediumSquareAt3X.jpg",
-      "feed_name": "NYT > Science",
-      "feed_title": "NYT > Science",
-      "category": "science",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "news714405002",
