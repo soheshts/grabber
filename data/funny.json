@@ -1,7 +1,7 @@
 {
   "category": "funny",
-  "updated": "2026-11-21T06:02:50.063743+00:00",
-  "count": 771,
+  "updated": "2026-11-21T06:32:48.640626+00:00",
+  "count": 770,
   "summary": null,
   "items": [
     {
@@ -10783,20 +10783,6 @@
       "category": "funny",
       "feed_url": "http://feeds.feedburner.com/icanhascheezburger",
       "feed_icon": "https://i.chzbgr.com/s/unversioned/images/logos/IcanHas_logo_ol.png"
-    },
-    {
-      "id": "https://thedailywtf.com/articles/readable-formats",
-      "title": "Representative Line: Readable Formats",
-      "published": "2026-10-22T06:30:00+00:00",
-      "author": "Remy Porter",
-      "description": "We all love format strings for generating human readable text. Certainly, they're a better choice than string concatenation. Even if I have a blind spot that keeps me from remembering the printf format tokens, I still prefer to use format strings. Jasmine has a co-worker that does use format strings, but they also miss using string concatenation. So they've found a way to combine them, and avoid the perils of making readable code that describes the format of their text. myField.DataFormatString…",
-      "link": "https://thedailywtf.com/articles/readable-formats",
-      "image": null,
-      "feed_name": "The Daily WTF",
-      "feed_title": "The Daily WTF",
-      "category": "funny",
-      "feed_url": "http://syndication.thedailywtf.com/TheDailyWtf",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=thedailywtf.com&sz=64"
     }
   ]
 }
