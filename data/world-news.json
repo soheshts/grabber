@@ -1,17 +1,59 @@
 {
   "category": "World News",
-  "updated": "2026-11-21T14:02:48.157305+00:00",
+  "updated": "2026-11-21T14:32:40.656974+00:00",
   "count": 1000,
   "summary": null,
   "items": [
     {
       "id": "https://www.nytimes.com/2026/11/21/world/europe/butler-school-international-butler-academy-netherlands.html",
       "title": "A Butler School in the Netherlands Offers Entry Into a Gilded World",
-      "published": "2026-11-21T13:56:35+00:00",
+      "published": "2026-11-21T14:17:42+00:00",
       "author": "Claire Moses and Ilvy Njiokiktjien",
       "description": "An academy in the Netherlands offers an eight-week, $14,000 program for entry into a gilded world of service. What’s the appeal?",
       "link": "https://www.nytimes.com/2026/11/21/world/europe/butler-school-international-butler-academy-netherlands.html",
       "image": "https://static01.nyt.com/images/2026/11/10/multimedia/00xp-butlerschool-promo-jvwm/00xp-butlerschool-promo-jvwm-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/21/world/europe/princess-kate-bbc-cancer-film.html",
+      "title": "Catherine, Princess of Wales, Documents Life With Cancer in BBC Film",
+      "published": "2026-11-21T14:09:39+00:00",
+      "author": "Michael D. Shear",
+      "description": "“Cancer does change you,” Catherine, who is in remission, says in a trailer for the film. It will be released this month.",
+      "link": "https://www.nytimes.com/2026/11/21/world/europe/princess-kate-bbc-cancer-film.html",
+      "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-uk-princess-cancer-kwfq/21int-uk-princess-cancer-kwfq-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "108553703",
+      "title": "An ‘illusion of glitz and glamour’: Inside California’s modern-day gold rush, where miners can bring in millions",
+      "published": "2026-11-21T14:05:40+00:00",
+      "author": null,
+      "description": "The price of gold has sparked a modern-day gold rush in California. Small-scale miners are investing time, physical labor and money to unearth the yellow metal.",
+      "link": "https://www.cnbc.com/make-it/2026/11/21/california-mining-modern-gold-rush.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108556498-1795187861875-261103_GOLD_RUSH_v7.png?v=1795187944&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/21/world/europe/maldon-sea-salt-artisanal-scandal.html",
+      "title": "Maldon Salt’s Authenticity Is Questioned, Leaving Foodies Shaken",
+      "published": "2026-11-21T14:01:15+00:00",
+      "author": "Isabella Kwai",
+      "description": "The salt is a flaky favorite of food influencers and famous chefs. A revelation this week raised questions about what makes artisanal “artisanal.”",
+      "link": "https://www.nytimes.com/2026/11/21/world/europe/maldon-sea-salt-artisanal-scandal.html",
+      "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21xp-salt/21xp-salt-mediumSquareAt3X.jpg",
       "feed_name": "NYT",
       "feed_title": "NYT > World News",
       "category": "World News",
@@ -367,20 +409,6 @@
       "category": "World News",
       "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
       "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/21/world/europe/maldon-sea-salt-artisanal-scandal.html",
-      "title": "Maldon Salt’s Authenticity Is Questioned, Leaving Foodies Shaken",
-      "published": "2026-11-21T11:04:53+00:00",
-      "author": "Isabella Kwai",
-      "description": "The salt is a flaky favorite of food influencers and famous chefs. A revelation this week raised questions about what makes artisanal “artisanal.”",
-      "link": "https://www.nytimes.com/2026/11/21/world/europe/maldon-sea-salt-artisanal-scandal.html",
-      "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21xp-salt/21xp-salt-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://www.theguardian.com/world/2026/nov/21/excitement-unease-haiti-el-salvador-troops-gangs-war-bukele",
@@ -13975,34 +14003,6 @@
       "category": "World News",
       "feed_url": "https://www.reddit.com/r/worldnews/.rss",
       "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "t3_1xyox49",
-      "title": "UK announces US$316 million air defence package for Ukraine",
-      "published": "2026-11-17T16:27:39+00:00",
-      "author": "/u/pjw724",
-      "description": "submitted by /u/pjw724 [link] [comments]",
-      "link": "https://www.reddit.com/r/worldnews/comments/1xyox49/uk_announces_us316_million_air_defence_package/",
-      "image": "https://external-preview.redd.it/nE5w48k8R2hlNepIkyjYFuPfSM5sLyjVNyhDF8s5W7Q.jpeg?width=640&crop=smart&auto=webp&s=19cfaf064c0a9207cd6d07436f6a80b0cad8853c",
-      "feed_name": "World News",
-      "feed_title": "World News",
-      "category": "World News",
-      "feed_url": "https://www.reddit.com/r/worldnews/.rss",
-      "feed_icon": "https://www.redditstatic.com/icon.png/"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/rest-of-world/in-november-2026-model-bella-hadid-donated-50000-toward-winter-shelter-kits-for-100-displaced-families-in-gaza-including-waterproof-tents-mattresses-and-blankets-after-heavy-rain-worsened-conditions/articleshow/135932940.cms",
-      "title": "Bella Hadid donates $50,000 for winter shelter kits for displaced Gaza families",
-      "published": "2026-11-17T16:24:58+00:00",
-      "author": "TOI World Desk",
-      "description": "Bella Hadid has pledged $50,000 to provide urgent shelter for families in Gaza. This generous donation will fund waterproof tents, blankets, and mattresses for 100 families displaced by the ongoing crisis. As winter conditions worsen and flooding becomes more severe, the demand for shelter has soared. Hadid appeals for others to join the cause, highlighting the essential need for survival and dignity amidst this humanitarian disaster.",
-      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/in-november-2026-model-bella-hadid-donated-50000-toward-winter-shelter-kits-for-100-displaced-families-in-gaza-including-waterproof-tents-mattresses-and-blankets-after-heavy-rain-worsened-conditions/articleshow/135932940.cms",
-      "image": "https://static.toiimg.com/photo/msid-135933099,imgsize-97666.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     }
   ]
 }

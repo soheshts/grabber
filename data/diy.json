@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-21T14:02:48.157305+00:00",
+  "updated": "2026-11-21T14:32:40.656974+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/my-dns-provider-sees-every-site-i-visit-so-i-built-a-setup-where-nobody-does/",
+      "title": "My DNS provider sees every site I visit, so I built a setup where nobody does",
+      "published": "2026-11-21T14:30:16+00:00",
+      "author": "Afam Onyimadu",
+      "description": "One AdGuard Home setting decides whether Unbound is actually in charge.",
+      "link": "https://www.makeuseof.com/my-dns-provider-sees-every-site-i-visit-so-i-built-a-setup-where-nobody-does/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/07/adguard-home-blocking-dns-queries-across-network.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/i-swapped-my-big-smartwatch-for-something-smaller-not-going-back/",
+      "title": "I swapped my big smartwatch for something smaller and I'm not going back",
+      "published": "2026-11-21T14:30:15+00:00",
+      "author": "Bertel King",
+      "description": "Bigger isn't always better.",
+      "link": "https://www.howtogeek.com/i-swapped-my-big-smartwatch-for-something-smaller-not-going-back/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2025/11/a-samsung-galaxy-watch-6-next-to-a-galaxy-watch-8-on-a-flat-surface.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/aerotweaker-makes-fixing-windows-11-easy/",
       "title": "It took one free app to make Windows 11 great again",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://hackaday.com/blog/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
-    },
-    {
-      "id": "https://hackaday.com/?p=1398421",
-      "title": "Artemis II Rocket Was Powerful Enough to Disrupt GPS",
-      "published": "2026-11-08T03:00:52+00:00",
-      "author": "Ian Bos",
-      "description": "Rockets certainly have a substantial impact if you ever see a launch in person. The noise, shock waves, and even heat can be awe-inspiring. What is less obvious are the …read more",
-      "link": "https://hackaday.com/2026/11/07/artemis-ii-rocket-was-powerful-enough-to-disrupt-gps/",
-      "image": "https://hackaday.com/wp-content/uploads/2026/11/Screenshot-2026-11-07-192946.png",
-      "feed_name": "Blog – Hackaday",
-      "feed_title": "Blog – Hackaday",
-      "category": "DIY",
-      "feed_url": "https://hackaday.com/blog/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/turned-1990s-samsung-crt-into-retro-terminal-with-raspberry-pi-zero-2w/",
-      "title": "I turned a 1990s Samsung CRT into a retro terminal with a Raspberry Pi Zero 2W",
-      "published": "2026-11-08T01:00:15+00:00",
-      "author": "Sydney Butler",
-      "description": "A shabby SyncMaster, a tiny Pi, and a wireless keyboard combine into a minimal headless box that boots straight to shell.",
-      "link": "https://www.howtogeek.com/turned-1990s-samsung-crt-into-retro-terminal-with-raspberry-pi-zero-2w/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/crt-terminal-front.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
     }
   ]
 }
