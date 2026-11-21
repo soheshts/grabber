@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-21T18:32:43.930003+00:00",
+  "updated": "2026-11-21T19:02:58.929167+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/android-built-in-storage-cleanup-tools/",
+      "title": "Android's best storage cleanup tools are already on your phone",
+      "published": "2026-11-21T19:00:16+00:00",
+      "author": "Judy Sanhz",
+      "description": "Your phone might be keeping old copes of edited and app data you don't need. Check its storage tools before you delete another app or picture.",
+      "link": "https://www.makeuseof.com/android-built-in-storage-cleanup-tools/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/android-storage-feature.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/netflix-family-movies-that-hold-up-well/",
+      "title": "4 Netflix family movies from the '80s and '90s that still hold up well",
+      "published": "2026-11-21T19:00:15+00:00",
+      "author": "Tyler Dupont",
+      "description": "Take a trip down memory lane with the family.",
+      "link": "https://www.howtogeek.com/netflix-family-movies-that-hold-up-well/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/09/netflix-logo-above-a-bowl-of-popcorn-in-a-cozy-living-room.png",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/stopped-using-voice-home-assistant-built-automations/",
       "title": "I stopped using voice commands in Home Assistant and built silent automations instead",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.makeuseof.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/this-claude-prompt-turned-my-todoist-list-into-a-daily-morning-brief/",
-      "title": "This Claude prompt turned my Todoist list into a daily morning brief",
-      "published": "2026-11-08T15:30:15+00:00",
-      "author": "Patrick Campanale",
-      "description": "My ADHD brain needed someone to read my task list, so I gave the job to AI.",
-      "link": "https://www.howtogeek.com/this-claude-prompt-turned-my-todoist-list-into-a-daily-morning-brief/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/claude-morning-brief-ipad.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://hackaday.com/?p=1398502",
-      "title": "An FPGA Version of the AT&T UNIX PC for MiSTer",
-      "published": "2026-11-08T15:00:46+00:00",
-      "author": "Maya Posch",
-      "description": "We all have our childhood heroes, which in the case of [Hrvoje Cavrak] was the 1985 AT&T UNIX PC. This 18 kg behemoth of a workstation computer boasted a 10 MHz …read more",
-      "link": "https://hackaday.com/2026/11/08/an-fpga-version-of-the-att-unix-pc-for-mister/",
-      "image": "https://hackaday.com/wp-content/uploads/2026/11/att_unix_pc_jda_wikimedia_cropped.jpg",
-      "feed_name": "Blog – Hackaday",
-      "feed_title": "Blog – Hackaday",
-      "category": "DIY",
-      "feed_url": "https://hackaday.com/blog/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
     }
   ]
 }
