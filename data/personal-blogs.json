@@ -1,6 +1,6 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-21T17:02:58.410493+00:00",
+  "updated": "2026-11-21T17:33:03.727811+00:00",
   "count": 452,
   "summary": null,
   "items": [
@@ -17,6 +17,20 @@
       "category": "personal blogs",
       "feed_url": "http://www.bennadel.com/index.cfm?dax=blog.rss&lst_tag_id=14,16,3,5,9,6,7,13,18,20,10,15",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.bennadel.com&sz=64"
+    },
+    {
+      "id": "https://chriscoyier.net/?p=29957",
+      "title": "YoloCam S7",
+      "published": "2026-11-21T17:13:54+00:00",
+      "author": "Chris Coyier",
+      "description": "Chris Enns shared in the ShopTalk Show Discord last month a review video for the YoloCam S7. It hit me at the right time, so I pulled the trigger. Here’s a short background. I was using my Canon 5D Mark IV with a 50mm prime lens. Kind of a lot of firepower for a webcam. […]",
+      "link": "https://chriscoyier.net/2026/11/21/yolocam-s7/",
+      "image": "https://i0.wp.com/chriscoyier.net/wp-content/uploads/2026/11/Screenshot-2026-11-21-at-9.04.47-AM.png?resize=1024%2C601&quality=80&ssl=1",
+      "feed_name": "Chris Coyier",
+      "feed_title": "Chris Coyier",
+      "category": "personal blogs",
+      "feed_url": "https://chriscoyier.net/feed/",
+      "feed_icon": "https://i0.wp.com/chriscoyier.net/wp-content/uploads/2021/07/IsUISvAq_400x400.jpg?fit=32%2C32&quality=89&ssl=1"
     },
     {
       "id": "https://shkspr.mobi/blog/?p=74542",
@@ -5603,20 +5617,6 @@
       "category": "personal blogs",
       "feed_url": "https://manuelmoreale.com/feed/rss",
       "feed_icon": "https://manuelmoreale.com/media/site/768b30cae2-1794047983/avatar.jpg"
-    },
-    {
-      "id": "https://www.bram.us/?p=36982",
-      "title": "GTA.js, a reimplementation of the 1997 Grand Theft Auto engine in JavaScript and WebGL",
-      "published": "2026-10-22T17:05:32+00:00",
-      "author": "Bramus!",
-      "description": "Here’s a little sideproject I’ve been spending my tokens on: https://gtajs.wtf/ It’s a reimplementation of the 1997 Grand Theft Auto engine in JavaScript and WebGL.",
-      "link": "https://www.bram.us/2026/10/22/gta-js/",
-      "image": "https://www.bram.us/wordpress/wp-content/uploads/2026/10/IMG_9723.png",
-      "feed_name": "Bram.us",
-      "feed_title": "Bram.us",
-      "category": "personal blogs",
-      "feed_url": "https://www.bram.us/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.bram.us&sz=64"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
