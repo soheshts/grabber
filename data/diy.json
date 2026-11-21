@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-21T02:33:29.949628+00:00",
+  "updated": "2026-11-21T03:03:16.109482+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://hackaday.com/?p=1429004",
+      "title": "Improving Aluminium Anodes for Lithium Batteries With Magnesium",
+      "published": "2026-11-21T03:00:30+00:00",
+      "author": "Maya Posch",
+      "description": "Generally lithium-ion cells feature graphite anodes, but their chemical stability comes with the trade-off of poor capacity. Metal alloy anodes such as aluminium, silver and magnesium provide many advantages here, …read more",
+      "link": "https://hackaday.com/2026/11/20/improving-aluminium-anodes-for-lithium-batteries-with-magnesium/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/43246_2026_1377_Fig1_HTML.jpg",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/tried-windows-11s-new-search-of-course-microsoft-will-stuff-copilot-into/",
       "title": "I tried Windows 11’s new Search and love it, so of course Microsoft will stuff Copilot into it",
@@ -13989,20 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://hackaday.com/?p=1397086",
-      "title": "Building a Homemade Induction Soldering Iron",
-      "published": "2026-11-07T19:30:38+00:00",
-      "author": "Aaron Beckendorf",
-      "description": "Despite not being inherently any better at converting electricity into heat, induction-heated soldering irons often considerably outperform conventional irons with an identical power rating. They manage this by directly heating …read more",
-      "link": "https://hackaday.com/2026/11/07/building-a-homemade-induction-soldering-iron/",
-      "image": "https://hackaday.com/wp-content/uploads/2026/11/induction_soldering_iron.png",
-      "feed_name": "Blog – Hackaday",
-      "feed_title": "Blog – Hackaday",
-      "category": "DIY",
-      "feed_url": "https://hackaday.com/blog/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
     }
   ]
 }
