@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-21T10:33:04.853330+00:00",
+  "updated": "2026-11-21T11:02:52.591914+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/androids-private-dns-natively-works-on-mobile-data-too/",
+      "title": "Android's Private DNS isn't just for Wi-Fi, it natively works on mobile data too",
+      "published": "2026-11-21T11:00:16+00:00",
+      "author": "Gregory Gibson",
+      "description": "One DNS server that keeps working once I leave the house",
+      "link": "https://www.makeuseof.com/androids-private-dns-natively-works-on-mobile-data-too/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/android-private-dns-cloudflare-hostname-hero.png",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/ditched-spotify-2-years-ago-for-self-hosting-heres-why-ill-never-go-back/",
+      "title": "I ditched Spotify 2 years ago for self hosting, here’s why I’ll never go back",
+      "published": "2026-11-21T11:00:15+00:00",
+      "author": "Jorge A. Aguilar",
+      "description": "My Spotify library vanished in the fine print, so I built a Navidrome server.",
+      "link": "https://www.howtogeek.com/ditched-spotify-2-years-ago-for-self-hosting-heres-why-ill-never-go-back/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/stellar-nursery-playing-on-a-phone-on-symfonium-on-a-table-with-some-words-around.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://hackaday.com/?p=1429319",
       "title": "HDMI to CSI For Anyone",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.apartmenttherapy.com/projects.rss",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.apartmenttherapy.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/brilliant-sci-fi-movies-watch-on-tubi-without-paying-a-cent/",
-      "title": "5 brilliant sci-fi movies you can watch on Tubi without paying a cent",
-      "published": "2026-11-07T20:31:16+00:00",
-      "author": "Charlene Badasie",
-      "description": "If you're looking for a sci-fi movie that won't cost you anything, Tubi has some interesting options.",
-      "link": "https://www.makeuseof.com/brilliant-sci-fi-movies-watch-on-tubi-without-paying-a-cent/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2026/11/tubi-fifth-element-ex-machina-snowpiercer-2013-collage.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/how-start-your-coding-journey-with-esp32-without-relying-vibe-coding/",
-      "title": "How to start your coding journey with an ESP32 (without relying on vibe coding)",
-      "published": "2026-11-07T20:31:15+00:00",
-      "author": "Umair Khurshid",
-      "description": "There's still a place for learning to code the old-fashioned way, and it's more fun than you think.",
-      "link": "https://www.howtogeek.com/how-start-your-coding-journey-with-esp32-without-relying-vibe-coding/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/hp-zbook-laptop-running-arduino-ide-with-a-successfully-uploaded-esp32-led-blinking-program-connected-to-an-esp32-development-board.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
     }
   ]
 }
