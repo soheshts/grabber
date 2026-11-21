@@ -1,6 +1,6 @@
 {
   "category": "science",
-  "updated": "2026-11-21T13:03:39.284815+00:00",
+  "updated": "2026-11-21T13:33:23.357544+00:00",
   "count": 1000,
   "summary": null,
   "items": [
@@ -73,6 +73,20 @@
       "category": "science",
       "feed_url": "https://www.wired.com/feed/category/science/latest/rss",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.wired.com&sz=64"
+    },
+    {
+      "id": "https://www.scientificamerican.com/article/weirdly-accelerating-space-rock-keeps-puzzling-astronomers/",
+      "title": "Weirdly accelerating space rock keeps puzzling astronomers",
+      "published": "2026-11-21T12:00:00+00:00",
+      "author": null,
+      "description": "The strange “dark comet” 1998 KY26 is moving in a way scientists have yet to fully understand. A Japanese space probe was set to visit in 2031, but engine trouble will prevent that encounter, leaving the mystery unsolved",
+      "link": "https://www.scientificamerican.com/article/weirdly-accelerating-space-rock-keeps-puzzling-astronomers/",
+      "image": "https://static.scientificamerican.com/dam/asset/6b2e94d0-c646-492e-8d0d-389a291e07b1/eso2515a.jpg?m=1795210040.651&w=1200",
+      "feed_name": "Scientific American Content: Global",
+      "feed_title": "Scientific American Content: Global",
+      "category": "science",
+      "feed_url": "http://rss.sciam.com/ScientificAmerican-Global",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.scientificamerican.com&sz=64"
     },
     {
       "id": "6b00794904470b737a38a15a",
@@ -13984,20 +13998,6 @@
       "description": "Can a bacterium's DNA reveal whether it will make a plant sick? Bioinformatician Guillermo Guerrero Egido believes so. In his PhD research, he developed a computational method that not only identifies potential pathogens, but also the genes that may be responsible for their disease-causing abilities.",
       "link": "https://phys.org/news/2026-11-ai-tool-exposes-pathogens-genes.html",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-ai-tool-exposes-pl.jpg",
-      "feed_name": "Phys.org - latest science and technology news stories",
-      "feed_title": "Phys.org - latest science and technology news stories",
-      "category": "science",
-      "feed_url": "https://phys.org/rss-feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "news713715781",
-      "title": "Layered superionic conductor hosts atomic vibrations that behave like liquids, glasses and crystals",
-      "published": "2026-11-12T22:00:06+00:00",
-      "author": null,
-      "description": "Scientists from the Institute of Metal Research (IMR) of the Chinese Academy of Sciences have directly observed liquid-like, glass-like and crystal-like phonon behaviors coexisting in a crystalline solid—the layered superionic conductor AgCrSe₂.",
-      "link": "https://phys.org/news/2026-11-layered-superionic-conductor-hosts-atomic.html",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/agcrse2-shows-coexisti.jpg",
       "feed_name": "Phys.org - latest science and technology news stories",
       "feed_title": "Phys.org - latest science and technology news stories",
       "category": "science",
