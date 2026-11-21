@@ -1,9 +1,37 @@
 {
   "category": "technology",
-  "updated": "2026-11-21T22:33:03.139701+00:00",
+  "updated": "2026-11-21T23:02:58.956899+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.engadget.com/2319140/phone-says-no-service-with-sim-card/",
+      "title": "Why does your phone say no service even with a SIM card?",
+      "published": "2026-11-21T22:30:00+00:00",
+      "author": "Maddie Fisher",
+      "description": "Your SIM card controls your phone's connection to your carrier, and if it's not working, standard texts and calls won't go through.",
+      "link": "https://www.engadget.com/2319140/phone-says-no-service-with-sim-card/",
+      "image": "https://www.engadget.com/img/gallery/why-does-your-phone-say-no-service-even-with-a-sim-card/l-intro-1794929692.jpg",
+      "feed_name": "Engadget",
+      "feed_title": "Engadget - Technology News & Expert Reviews",
+      "category": "technology",
+      "feed_url": "https://www.engadget.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
+    {
+      "id": "https://www.engadget.com/2319122/ipad-air-vs-pro-features-compared-price-difference/",
+      "title": "iPad Air vs. iPad Pro: The features you're actually paying $450 extra for",
+      "published": "2026-11-21T22:15:00+00:00",
+      "author": "Antony Terence",
+      "description": "The iPad Air and iPad Pro are both great options if you plan to use a tablet for work or creativity, but you shouldn't pay for what you won't use.",
+      "link": "https://www.engadget.com/2319122/ipad-air-vs-pro-features-compared-price-difference/",
+      "image": "https://www.engadget.com/img/gallery/ipad-air-vs-ipad-pro-the-features-youre-actually-paying-450-extra-for/l-intro-1794929523.jpg",
+      "feed_name": "Engadget",
+      "feed_title": "Engadget - Technology News & Expert Reviews",
+      "category": "technology",
+      "feed_url": "https://www.engadget.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
     {
       "id": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
       "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
@@ -13975,34 +14003,6 @@
       "category": "technology",
       "feed_url": "https://thenextweb.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
-    },
-    {
-      "id": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
-      "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
-      "published": "2026-11-17T14:00:29+00:00",
-      "author": "Dan Goodin",
-      "description": "AI agent takes unapproved actions even when laptop lid is closed and told not to.",
-      "link": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-bot-barfs-code-500x500.jpg",
-      "feed_name": "Ars Technica",
-      "feed_title": "Ars Technica",
-      "category": "technology",
-      "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
-      "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
-    },
-    {
-      "id": "https://www.theverge.com/?p=1035159",
-      "title": "Windows 11 actually runs better on 8GB of RAM now",
-      "published": "2026-11-17T14:00:00+00:00",
-      "author": "Antonio G. Di Benedetto",
-      "description": "As recently as the beginning of the year, 16GB of RAM was common on sub-$800 Windows laptops, which helped compensate for an increasingly bloated-feeling Windows 11. But with the cost of RAM skyrocketing this year, 8GB is once again typical for a starting configuration. The MacBook Neo got away with it, but Windows laptops, including […]",
-      "link": "https://www.theverge.com/tech/1035159/windows-11-8gb-ram-updates-performance-improvements-surface-laptop-testing",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268655_Microsoft_Surface_Laptop_13-inch_8GB_2026_review_ADiBenedetto_0018.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "feed_name": "The Verge -  All Posts",
-      "feed_title": "The Verge",
-      "category": "technology",
-      "feed_url": "https://www.theverge.com/rss/index.xml",
-      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
     }
   ]
 }
