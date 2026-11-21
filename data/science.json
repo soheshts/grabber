@@ -1,9 +1,37 @@
 {
   "category": "science",
-  "updated": "2026-11-21T19:33:00.872806+00:00",
+  "updated": "2026-11-21T20:03:20.035394+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "news714400333",
+      "title": "Repeated bending strengthens sugar-based hydrogel instead of wearing it down",
+      "published": "2026-11-21T20:00:05+00:00",
+      "author": null,
+      "description": "Most materials get weaker with use. But a team led by Chenfeng Ke, a professor of chemistry in Arts & Sciences at Washington University in St. Louis, has created a polymer that defies the usual laws of wear and tear.",
+      "link": "https://phys.org/news/2026-11-sugar-based-hydrogel.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-necklace-with-beads.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o#0",
+      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "published": "2026-11-21T19:33:49+00:00",
+      "author": null,
+      "description": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5253/live/c9ca5500-e579-11f1-a5f6-b3028adf2d6d.jpg",
+      "feed_name": "BBC News - Science & Environment",
+      "feed_title": "BBC News",
+      "category": "science",
+      "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
     {
       "id": "news714143965",
       "title": "Dropping degree requirements linked to higher pay for workers without degrees",
@@ -87,20 +115,6 @@
       "category": "science",
       "feed_url": "https://www.sciencedaily.com/rss/all.xml",
       "feed_icon": "https://www.sciencedaily.com/images/scidaily-logo-rss.png"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o#0",
-      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-      "published": "2026-11-21T14:54:24+00:00",
-      "author": null,
-      "description": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5253/live/c9ca5500-e579-11f1-a5f6-b3028adf2d6d.jpg",
-      "feed_name": "BBC News - Science & Environment",
-      "feed_title": "BBC News",
-      "category": "science",
-      "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "https://www.sciencedaily.com/releases/2026/11/261120075556.htm",
@@ -479,6 +493,20 @@
       "category": "science",
       "feed_url": "https://www.sciencedaily.com/rss/all.xml",
       "feed_icon": "https://www.sciencedaily.com/images/scidaily-logo-rss.png"
+    },
+    {
+      "id": "https://www.nature.com/articles/d41586-026-03803-8",
+      "title": "BepiColombo finally reaches Mercury after eight-year odyssey",
+      "published": "2026-11-21T00:00:00+00:00",
+      "author": "Davide Castelvecchi",
+      "description": "Nature, Published online: 21 November 2026; doi:10.1038/d41586-026-03803-8 European and Japanese probes will trace different paths around the planet to study its surface and its surroundings.",
+      "link": "https://www.nature.com/articles/d41586-026-03803-8",
+      "image": null,
+      "feed_name": "Nature",
+      "feed_title": "Nature",
+      "category": "science",
+      "feed_url": "https://www.nature.com/nature.rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=feeds.nature.com&sz=64"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cq4gn0dg9194o#0",
@@ -2498,10 +2526,10 @@
     },
     {
       "id": "https://www.nature.com/articles/d41586-026-03812-7",
-      "title": "Mathematician says he and AI solved Riemann hypothesis — the field’s biggest outstanding challenge",
+      "title": "Mathematicians astounded by AI and human-written proofs of iconic Riemann hypothesis",
       "published": "2026-11-20T00:00:00+00:00",
       "author": "Davide Castelvecchi",
-      "description": "Nature, Published online: 20 November 2026; doi:10.1038/d41586-026-03812-7 Scholars say that the claim to have derived a proof for a landmark problem in mathematics will need rigorous checking.",
+      "description": "Nature, Published online: 20 November 2026; doi:10.1038/d41586-026-03812-7 Scholars say that the rival claims to have derived a proof for a landmark problem in mathematics will need rigorous checking.",
       "link": "https://www.nature.com/articles/d41586-026-03812-7",
       "image": null,
       "feed_name": "Nature",
@@ -13975,34 +14003,6 @@
       "category": "science",
       "feed_url": "https://www.sciencedaily.com/rss/all.xml",
       "feed_icon": "https://www.sciencedaily.com/images/scidaily-logo-rss.png"
-    },
-    {
-      "id": "news713722802",
-      "title": "Multiplexed detector system precisely counts more than 9,000 photons",
-      "published": "2026-11-12T23:30:02+00:00",
-      "author": null,
-      "description": "Researchers have developed a new approach that can precisely count from zero to more than 9,000 individual photons. The advance opens new possibilities for studying quantum light at large scales and making precise optical measurements.",
-      "link": "https://phys.org/news/2026-11-multiplexed-detector-precisely-photons.html",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-extend-pho-1.jpg",
-      "feed_name": "Phys.org - latest science and technology news stories",
-      "feed_title": "Phys.org - latest science and technology news stories",
-      "category": "science",
-      "feed_url": "https://phys.org/rss-feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "news713702479",
-      "title": "Plant sensing mechanism guards against pests",
-      "published": "2026-11-12T23:20:08+00:00",
-      "author": null,
-      "description": "A new study has identified a previously unknown mechanism by which plants sense insect attack and activate defense responses.",
-      "link": "https://phys.org/news/2026-11-mechanism-pests.html",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/plant-sensing-mechanis.jpg",
-      "feed_name": "Phys.org - latest science and technology news stories",
-      "feed_title": "Phys.org - latest science and technology news stories",
-      "category": "science",
-      "feed_url": "https://phys.org/rss-feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
     }
   ]
 }
