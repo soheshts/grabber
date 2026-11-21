@@ -1,9 +1,51 @@
 {
   "category": "DIY",
-  "updated": "2026-11-21T15:02:55.647021+00:00",
+  "updated": "2026-11-21T15:33:34.517155+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/stop-using-sign-in-with-google-everywhere-downsides/",
+      "title": "Stop using “Sign in with Google” everywhere before knowing these downsides",
+      "published": "2026-11-21T15:30:16+00:00",
+      "author": "Pankil Shah",
+      "description": "It's probably not worth the risk.",
+      "link": "https://www.makeuseof.com/stop-using-sign-in-with-google-everywhere-downsides/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/reddit-sign-up-page-showing-continue-with-google-option.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/built-own-company-ai-agents-using-paperclip-regret-not-doing-it-sooner/",
+      "title": "I built my own company of AI agents using Paperclip, and I regret not doing it sooner",
+      "published": "2026-11-21T15:30:15+00:00",
+      "author": "Dibakar Ghosh",
+      "description": "Paperclip turns a bunch of AI agents into a company, complete with a CEO, an org chart, and you as the board. I set one up to see if it's a gimmick.",
+      "link": "https://www.howtogeek.com/built-own-company-ai-agents-using-paperclip-regret-not-doing-it-sooner/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/a-tablet-with-the-official-paperclip-website-on-a-wodden-table-with-a-keyboard-mouse-gameppad-and-task-note-surrounding-it.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://hackaday.com/?p=1424499",
+      "title": "LiDAR Glasses For the Visually Impaired",
+      "published": "2026-11-21T15:00:59+00:00",
+      "author": "Bryan Cockfield",
+      "description": "The human brain has a fairly remarkable ability to take any sensory input and convert it into another type. Most notably, those with vision impairments can use systems that produce …read more",
+      "link": "https://hackaday.com/2026/11/21/lidar-glasses-for-the-visually-impaired/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/lidar-glasses-main.png",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/the-easiest-way-into-bsd-does-not-start-with-freebsd-itself/",
       "title": "The easiest way into BSD does not start with FreeBSD itself",
@@ -13961,48 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/iphone-duo-review/",
-      "title": "People won’t stop asking about my iPhone Duo, and honestly, I get it",
-      "published": "2026-11-08T11:30:16+00:00",
-      "author": "Rob LeFebvre",
-      "description": "The iPhone Duo has several compromises, and I’ve stopped caring about almost all of them.",
-      "link": "https://www.makeuseof.com/iphone-duo-review/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/iphone-duo-portrait.png",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/this-modded-version-of-gboard-proves-you-dont-need-to-give-up-google-to-gain-privacy/",
-      "title": "This modded version of Gboard proves you don't need to give up Google to gain privacy",
-      "published": "2026-11-08T11:30:15+00:00",
-      "author": "Joe Fedewa",
-      "description": "Gboardwu blocks Google's tracking but keeps the features you use.",
-      "link": "https://www.howtogeek.com/this-modded-version-of-gboard-proves-you-dont-need-to-give-up-google-to-gain-privacy/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/peeking-through-fingers-icon-on-gboard-keyboard-1.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/android-phone-has-a-hidden-wi-fi-setting-explains-dropped-connections/",
-      "title": "Your Android phone has a hidden Wi-Fi setting that explains your dropped connections",
-      "published": "2026-11-08T11:00:16+00:00",
-      "author": "Shimul Sood",
-      "description": "Android finally cracked my Wi-Fi mystery.",
-      "link": "https://www.makeuseof.com/android-phone-has-a-hidden-wi-fi-setting-explains-dropped-connections/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/08/network-and-internet-settings-on-google-pixel-10-pro.png",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }

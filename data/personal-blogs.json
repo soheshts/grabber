@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-21T15:02:55.647021+00:00",
-  "count": 453,
+  "updated": "2026-11-21T15:33:34.517155+00:00",
+  "count": 452,
   "summary": null,
   "items": [
     {
@@ -5617,20 +5617,6 @@
       "category": "personal blogs",
       "feed_url": "https://www.bram.us/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.bram.us&sz=64"
-    },
-    {
-      "id": "https://www.aaron-gustafson.com/notebook/accessibility-assistant-for-figma-v53/",
-      "title": "Accessibility Assistant for Figma v53: From Design Decisions to Handoff",
-      "published": "2026-10-22T15:09:42+00:00",
-      "author": "Aaron Gustafson",
-      "description": "In an internal analysis of accessibility bugs, a colleague found that roughly half could be traced back to design decisions. These were issues we should have caught earlier, before those decisions became codified in code and long before anyone encountered them in a shipped product. That’s one of the reasons I started working on Accessibility Assistant for Figma . I wanted to help designers catch issues while they worked and help them build their accessibility knowledge along the way. Version 53…",
-      "link": "https://www.aaron-gustafson.com/notebook/accessibility-assistant-for-figma-v53/",
-      "image": "https://www.aaron-gustafson.com/i/share-cards/accessibility-assistant-for-figma-v53.jpg",
-      "feed_name": "Aaron Gustafson",
-      "feed_title": "Aaron Gustafson: Latest Posts",
-      "category": "personal blogs",
-      "feed_url": "https://www.aaron-gustafson.com/feeds/latest-posts.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.aaron-gustafson.com&sz=64"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
