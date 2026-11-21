@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-21T11:33:35.185380+00:00",
+  "updated": "2026-11-21T12:03:19.657621+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.howtogeek.com/tested-nectarlink-against-phone-link-kde-connect-localsend-one-stayed/",
+      "title": "I tested NectarLink against Phone Link, KDE Connect, and LocalSend. Only one stayed.",
+      "published": "2026-11-21T12:01:16+00:00",
+      "author": "Nimrah Chaudhry",
+      "description": "I've used these apps before, but revisiting them made me question my setup.",
+      "link": "https://www.howtogeek.com/tested-nectarlink-against-phone-link-kde-connect-localsend-one-stayed/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/nectarlink-feature-image_2754x1836.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.makeuseof.com/passport-chip-your-phone-can-read/",
+      "title": "Your passport has a chip your phone can read, and the photo inside will surprise you",
+      "published": "2026-11-21T12:00:17+00:00",
+      "author": "Brady Snyder",
+      "description": "This chip is the reason you can't bend your passport.",
+      "link": "https://www.makeuseof.com/passport-chip-your-phone-can-read/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/read-id-me-10.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/amazon-kindle-upgrade-worth-the-wait/",
       "title": "I waited months for this Kindle upgrade, and it was absolutely worth it",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://hackaday.com/?p=1398417",
-      "title": "Proper Linux, On An ESP32",
-      "published": "2026-11-07T21:00:19+00:00",
-      "author": "Jenny List",
-      "description": "The ESP32 series of microcontrollers feature a lot on these pages, offering as they do a significantly powerful processor and in most cases, wireless connectivity. One recent member of the …read more",
-      "link": "https://hackaday.com/2026/11/07/proper-linux-on-an-esp32/",
-      "image": "https://hackaday.com/wp-content/uploads/2026/04/esp32_s31_espressif.jpg",
-      "feed_name": "Blog – Hackaday",
-      "feed_title": "Blog – Hackaday",
-      "category": "DIY",
-      "feed_url": "https://hackaday.com/blog/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/my-home-server-uses-less-power-now-and-i-didnt-replace-a-single-part/",
-      "title": "My home server uses less power now, and I didn’t replace a single part",
-      "published": "2026-11-07T21:00:16+00:00",
-      "author": "Dipan Saha",
-      "description": "Power savings, without any additional investments.",
-      "link": "https://www.makeuseof.com/my-home-server-uses-less-power-now-and-i-didnt-replace-a-single-part/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/motherboard-open-air-case.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }

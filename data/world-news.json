@@ -1,9 +1,23 @@
 {
   "category": "World News",
-  "updated": "2026-11-21T11:33:35.185380+00:00",
+  "updated": "2026-11-21T12:03:19.657621+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "108551210",
+      "title": "International first class is over for U.S. airlines. Enter the mega business-class cabin",
+      "published": "2026-11-21T12:00:01+00:00",
+      "author": null,
+      "description": "Airlines are opting to build giant business-class cabins with ever-more luxurious suites.",
+      "link": "https://www.cnbc.com/2026/11/21/us-airlines-first-class-business-class.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108555266-1795098920001-IMG_6917_1.jpg?v=1795099096&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
     {
       "id": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html",
       "title": "Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts",
@@ -17,6 +31,20 @@
       "category": "World News",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/europe/italys-ex-police-chief-dies-amid-probe-into-mafia-case-cover-up-suicide-suspected/articleshow/136052205.cms",
+      "title": "Italy's ex-police chief dies amid probe into mafia case cover-up; suicide suspected",
+      "published": "2026-11-21T11:18:28+00:00",
+      "author": "Karan Manral",
+      "description": "",
+      "link": "https://timesofindia.indiatimes.com/world/europe/italys-ex-police-chief-dies-amid-probe-into-mafia-case-cover-up-suicide-suspected/articleshow/136052205.cms",
+      "image": "https://static.toiimg.com/photo/msid-136052473,imgsize-135192.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
       "id": "https://www.ndtv.com/world-news/dog-helps-rescue-missing-69-year-old-owner-from-forest-in-new-york-12358423#publisher=newsstand",
@@ -13975,34 +14003,6 @@
       "category": "World News",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/quad-leaders-summit-live-updates-pm-modi-donald-trump-us-japan-australia-leaders-meet-asean-summit-quad-meeting-12338675#publisher=newsstand",
-      "title": "Highlights: India To Host First Quad Business Forum Meet Next Year",
-      "published": "2026-11-17T15:24:41+00:00",
-      "author": null,
-      "description": "Quad Leaders Summit Highlights: PM Modi was at the Quad Summit in Manila on Tuesday.",
-      "link": "https://www.ndtv.com/world-news/quad-leaders-summit-live-updates-pm-modi-donald-trump-us-japan-australia-leaders-meet-asean-summit-quad-meeting-12338675#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-11/djt6vhu_trump_625x300_17_November_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
-      "id": "108552983",
-      "title": "Investor Steve Eisman says the AI neocloud stocks are in 'big trouble' from Nvidia fallout",
-      "published": "2026-11-17T15:22:45+00:00",
-      "author": null,
-      "description": "Steve Eisman is appearing on \"Squawk Box\" on Tuesday.",
-      "link": "https://www.cnbc.com/2026/11/17/big-short-investor-steve-eisman-to-discuss-nvidia-anthropic-and-ai-bull-on-cnbc.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/105221557-IMG_7670.JPG?v=1695322238&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     }
   ]
 }
