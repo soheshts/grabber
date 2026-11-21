@@ -1,9 +1,51 @@
 {
   "category": "World News",
-  "updated": "2026-11-21T07:03:18.189282+00:00",
+  "updated": "2026-11-21T07:33:34.350788+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo#0",
+      "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+      "published": "2026-11-21T07:24:45+00:00",
+      "author": null,
+      "description": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\".",
+      "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad75/live/e17f2c40-e56d-11f1-b01f-57dbbf219200.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/20/world/middleeast/iraq-militia-iran-kataib-hezbollah.html",
+      "title": "Iraqi Forces Enter Stronghold of Powerful Iran-Backed Militia",
+      "published": "2026-11-21T07:11:24+00:00",
+      "author": "Falih Hassan, Erika Solomon and Euan Ward",
+      "description": "For the first time in over a decade, army and police units were deployed in territory controlled by the group, Kataib Hezbollah. But it was unclear if it would withdraw its forces.",
+      "link": "https://www.nytimes.com/2026/11/20/world/middleeast/iraq-militia-iran-kataib-hezbollah.html",
+      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20int-iraq-militia-01-kwgh/20int-iraq-militia-01-kwgh-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/us/florida-battles-historic-flooding-as-storms-move-further-north/articleshow/136046177.cms",
+      "title": "Florida battles historic flooding as storms move further north",
+      "published": "2026-11-21T06:57:08+00:00",
+      "author": "Mahima Sharma",
+      "description": "In Central Florida, residents face rising water levels from recent heavy rain, prompting evacuation alerts. Authorities urge those living by the St. Johns River to brace for potential evacuations as flooding disrupts Thanksgiving festivities. Emergency responders are tirelessly aiding those stranded in waterlogged neighborhoods, while meteorologists predict that both heavy rainfall and flooding risks will persist for the foreseeable future.",
+      "link": "https://timesofindia.indiatimes.com/world/us/florida-battles-historic-flooding-as-storms-move-further-north/articleshow/136046177.cms",
+      "image": "https://static.toiimg.com/photo/msid-136047579,imgsize-104964.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
     {
       "id": "https://www.ndtv.com/world-news/muslims-to-outnumber-christians-karoline-leavitt-urges-americans-to-have-more-children-12357773#publisher=newsstand",
       "title": "\"Muslims To Outnumber Christians\": Karoline Leavitt Urges Americans To Have More Children",
@@ -54,6 +96,20 @@
       "description": "Colder weather and low wind speeds could strain Europe’s gas market, where storage started winter at its lowest level in more than a decade.",
       "link": "https://www.cnbc.com/2026/11/21/polar-vortex-europe-gas-prices.html",
       "image": "https://image.cnbcfm.com/api/v1/image/108554161-1795012667185-gettyimages-460992229-77958321.jpeg?v=1795012769&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "108554292",
+      "title": "Europe's cyber weak spot is the everyday businesses nobody thought to protect",
+      "published": "2026-11-21T06:00:02+00:00",
+      "author": null,
+      "description": "Known vulnerabilities are leaving everyday businesses increasingly exposed to cyber sabotage, as AI enables cybercriminals to work better and faster.",
+      "link": "https://www.cnbc.com/2026/11/21/cyber-attacks-fridges-cybersecurity.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108328441-1782780337378-gettyimages-527099783-20141125034845_1245_IMG_4146JPG_149607.jpeg?v=1782781855&w=1920&h=1080",
       "feed_name": "CNBC",
       "feed_title": "International: Top News And Analysis",
       "category": "World News",
@@ -115,20 +171,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo#0",
-      "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
-      "published": "2026-11-21T05:15:41+00:00",
-      "author": null,
-      "description": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship.",
-      "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad75/live/e17f2c40-e56d-11f1-b01f-57dbbf219200.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "https://www.ndtv.com/world-news/inside-ex-nvidia-employees-complaints-against-jensen-huang-screamed-at-us-made-sexual-comments-12357411#publisher=newsstand",
@@ -973,7 +1015,7 @@
     {
       "id": "https://www.nytimes.com/2026/11/20/world/europe/poland-russia-airspace-missile.html",
       "title": "‘Russian Objects’ Crashed in Poland, Officials Say. Here’s What We Can See.",
-      "published": "2026-11-20T20:30:59+00:00",
+      "published": "2026-11-20T20:31:00+00:00",
       "author": "Anatol Magdziarz, Aurelien Breeden and James McManagan",
       "description": "There were no injuries or damage from three incidents that the Polish authorities called a likely “provocation” from Russia during military exercises by Ukraine’s allies.",
       "link": "https://www.nytimes.com/2026/11/20/world/europe/poland-russia-airspace-missile.html",
@@ -1655,20 +1697,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/20/world/middleeast/iraq-militia-iran-kataib-hezbollah.html",
-      "title": "Iraqi Forces Enter Stronghold of Powerful Iran-Backed Militia",
-      "published": "2026-11-20T16:18:21+00:00",
-      "author": "Falih Hassan, Erika Solomon and Euan Ward",
-      "description": "For the first time in over a decade, army and police units were deployed in territory controlled by the group, Kataib Hezbollah. But it was unclear if it would withdraw its forces.",
-      "link": "https://www.nytimes.com/2026/11/20/world/middleeast/iraq-militia-iran-kataib-hezbollah.html",
-      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20int-iraq-militia-01-kwgh/20int-iraq-militia-01-kwgh-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/us/blink-182s-mark-hoppus-won-a-legal-battle-over-a-neighbours-trees-blocking-his-beverly-hills-view-but-says-she-still-owes-nearly-681000-in-legal-fees-and-interest-he-is-now-trying-to-collect/articleshow/136032798.cms",
@@ -13975,34 +14003,6 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/middle-east/iran-rejects-cnn-report-of-dirty-bomb-plot-in-washington-calls-claims-fabricated/articleshow/135928096.cms",
-      "title": "Iran rejects CNN report of 'dirty bomb' plot in Washington, calls claims 'fabricated'",
-      "published": "2026-11-17T13:47:19+00:00",
-      "author": "Gokul Ankari",
-      "description": "",
-      "link": "https://timesofindia.indiatimes.com/world/middle-east/iran-rejects-cnn-report-of-dirty-bomb-plot-in-washington-calls-claims-fabricated/articleshow/135928096.cms",
-      "image": "https://static.toiimg.com/photo/msid-135928254,imgsize-749011.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/iran-targets-us-radar-facility-in-bahrain-third-strike-on-country-in-5-days-12339610#publisher=newsstand",
-      "title": "Iran Targets US Radar Facility In Bahrain, Third Strike On Country In 5 Days",
-      "published": "2026-11-17T13:42:38+00:00",
-      "author": null,
-      "description": "The attacks followed US strikes on Iranian communications towers",
-      "link": "https://www.ndtv.com/world-news/iran-targets-us-radar-facility-in-bahrain-third-strike-on-country-in-5-days-12339610#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2025-12/8gr4dlj_us-iran-flag_625x300_24_December_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     }
   ]
 }
