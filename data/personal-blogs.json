@@ -1,9 +1,23 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-21T10:03:14.603674+00:00",
-  "count": 451,
+  "updated": "2026-11-21T10:33:04.853330+00:00",
+  "count": 452,
   "summary": null,
   "items": [
+    {
+      "id": "https://ronaldsvilcins.com/2026/11/21/better-one-time-code-inputs-without-six-tiny-boxes/",
+      "title": "Better One-Time Code Inputs Without Six Tiny Boxes",
+      "published": "2026-11-21T06:00:00+00:00",
+      "author": "Ronalds Vilciņš",
+      "description": "Use one labelled input for verification codes, with paste, a numeric keyboard, and autofill. Keep leading zeroes and validate the code on the server.",
+      "link": "https://ronaldsvilcins.com/2026/11/21/better-one-time-code-inputs-without-six-tiny-boxes/",
+      "image": "https://ronaldsvilcins.com/og/ab4b4bc83c06a95eb6e5c788afa47cbbaae69c1101356e3f7820fad538ccd57b.jpg",
+      "feed_name": "Ronalds Vilciņš",
+      "feed_title": "Ronalds Vilciņš",
+      "category": "personal blogs",
+      "feed_url": "https://ronaldsvilcins.com/atom.xml",
+      "feed_icon": "https://ronaldsvilcins.com/favicon.png"
+    },
     {
       "id": "https://www.amitmerchant.com/gemini-decisions-api",
       "title": "When AI Doesn’t Need to Generate Anything",
