@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-21T09:04:42.242031+00:00",
+  "updated": "2026-11-21T09:32:48.107949+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://hackaday.com/?p=1429319",
+      "title": "HDMI to CSI For Anyone",
+      "published": "2026-11-21T09:00:32+00:00",
+      "author": "Jenny List",
+      "description": "Digitizing an HDMI source should in theory be straightforward, but the interfaces on offer are often disappointing. But happily there’s another way, which is to transform the HDMI into CSI …read more",
+      "link": "https://hackaday.com/2026/11/21/hdmi-to-csi-for-anyone/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/hdmi-csi-featured.jpg",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://hackaday.com/?p=1428938",
       "title": "Printable Homelab Racks You Can Design In A Browser",
@@ -13989,20 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/replaced-todoist-google-calendar-notion-one-app/",
-      "title": "I replaced Todoist, Google Calendar, and Notion with one app that plans my entire day",
-      "published": "2026-11-07T20:00:16+00:00",
-      "author": "Yadullah Abidi",
-      "description": "I asked one app to do the work of three. It almost did.",
-      "link": "https://www.makeuseof.com/replaced-todoist-google-calendar-notion-one-app/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/open-sunsama-running-on-windows-11-laptop.JPG",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }
