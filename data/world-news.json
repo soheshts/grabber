@@ -1,9 +1,51 @@
 {
   "category": "World News",
-  "updated": "2026-11-21T08:03:15.886604+00:00",
+  "updated": "2026-11-21T08:32:38.871180+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo#0",
+      "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+      "published": "2026-11-21T08:10:25+00:00",
+      "author": null,
+      "description": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\".",
+      "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad75/live/e17f2c40-e56d-11f1-b01f-57dbbf219200.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/hackers-target-us-agriculture-department-fbi-days-after-tech-outages-12357720#publisher=newsstand",
+      "title": "Hackers Target US Agriculture Department, FBI Days After Tech Outages",
+      "published": "2026-11-21T08:09:27+00:00",
+      "author": null,
+      "description": "Major outages in recent weeks have disrupted travel, communications and e-commerce.",
+      "link": "https://www.ndtv.com/world-news/hackers-target-us-agriculture-department-fbi-days-after-tech-outages-12357720#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-11/j2tladgc_cyberattack-reuters_625x300_21_November_26.jpeg",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/rest-of-world/balochistan-shutdown-markets-shut-across-quetta-as-alliance-protests-rising-inflation-insecurity/articleshow/136048215.cms",
+      "title": "Balochistan shutdown: Markets shut across Quetta as alliance protests rising inflation, insecurity",
+      "published": "2026-11-21T07:57:28+00:00",
+      "author": "Mahima Sharma",
+      "description": "A significant shutdown swept across Quetta and several districts in Balochistan on Thursday, driven by widespread protests led by the All Parties Alliance. The strike aimed to highlight urgent issues such as deteriorating law and order, soaring unemployment rates, and rampant inflation. Major commercial hubs faced complete shutdowns, resulting in major disruptions.",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/balochistan-shutdown-markets-shut-across-quetta-as-alliance-protests-rising-inflation-insecurity/articleshow/136048215.cms",
+      "image": "https://static.toiimg.com/photo/msid-136048547,imgsize-101762.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o#0",
       "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
@@ -12,20 +54,6 @@
       "description": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
       "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5253/live/c9ca5500-e579-11f1-a5f6-b3028adf2d6d.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo#0",
-      "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
-      "published": "2026-11-21T07:24:45+00:00",
-      "author": null,
-      "description": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\".",
-      "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad75/live/e17f2c40-e56d-11f1-b01f-57dbbf219200.jpg",
       "feed_name": "BBC News - World",
       "feed_title": "BBC News",
       "category": "World News",
@@ -13975,34 +14003,6 @@
       "category": "World News",
       "feed_url": "https://www.theguardian.com/world/rss",
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/nov/18/australia-gender-pay-gap-falls-below-20-percent-for-first-time",
-      "title": "Australia’s gender pay gap falls below 20% for first time",
-      "published": "2026-11-17T14:00:13+00:00",
-      "author": "Luca Ittimani",
-      "description": "Men still dominate top-paid positions but businesses’ ‘deliberate’ decisions have narrowed gap, workplace gender equality agency report finds Get our breaking news email , free app or daily news podcast Australian women earn 80c for every $1 men earn, on average, after Australia’s gender pay gap fell below 20% for the first time in 2025-26. The Workplace Gender Equality Agency’s (WGEA) report on Wednesday showed men still dominated top-paid positions but businesses’ decisions have narrowed the…",
-      "link": "https://www.theguardian.com/world/2026/nov/18/australia-gender-pay-gap-falls-below-20-percent-for-first-time",
-      "image": "https://i.guim.co.uk/img/media/67faa8432f5cbd81486f872a946195453e574228/457_0_4755_3806/master/4755.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=822a1955b0a4a4a92524aa12d77664eb",
-      "feed_name": "The Guardian",
-      "feed_title": "World news | The Guardian",
-      "category": "World News",
-      "feed_url": "https://www.theguardian.com/world/rss",
-      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
-    },
-    {
-      "id": "108553015",
-      "title": "Demis Hassabis’ AI company raises $5 billion, months after he left as Google DeepMind CEO",
-      "published": "2026-11-17T13:58:07+00:00",
-      "author": null,
-      "description": "Isomorphic Labs is looking to develop new medicines using AI.",
-      "link": "https://www.cnbc.com/2026/11/17/isomorphic-labs-series-c-ai-drug-discovery-.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108345511-1785952971710-gettyimages-2276590978-AFP_B3DL692.jpeg?v=1785954999&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     }
   ]
 }
