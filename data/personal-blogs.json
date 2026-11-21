@@ -1,9 +1,23 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-21T08:32:38.871180+00:00",
-  "count": 450,
+  "updated": "2026-11-21T09:04:42.242031+00:00",
+  "count": 451,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.amitmerchant.com/gemini-decisions-api",
+      "title": "When AI Doesn’t Need to Generate Anything",
+      "published": "2026-11-21T00:00:00+00:00",
+      "author": "Amit Merchant",
+      "description": "When building applications with AI, we often ask models to generate text and then try to make sense of that text in our code.",
+      "link": "https://www.amitmerchant.com/gemini-decisions-api/",
+      "image": "https://www.amitmerchant.com/cdn/gemini-decisions-api.png",
+      "feed_name": "Amit Merchant",
+      "feed_title": "Amit Merchant",
+      "category": "personal blogs",
+      "feed_url": "https://www.amitmerchant.com/feed.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.amitmerchant.com&sz=64"
+    },
     {
       "id": "https://www.bennadel.com/blog/4930-moving-theme-selection-from-localstorage-to-cookies-with-htmx-and-coldfusion.htm",
       "title": "Moving Theme Selection From LocalStorage To Cookies With HTMX And ColdFusion",
