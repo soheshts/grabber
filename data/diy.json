@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-21T14:32:40.656974+00:00",
+  "updated": "2026-11-21T15:02:55.647021+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/the-easiest-way-into-bsd-does-not-start-with-freebsd-itself/",
+      "title": "The easiest way into BSD does not start with FreeBSD itself",
+      "published": "2026-11-21T15:00:16+00:00",
+      "author": "Dipan Saha",
+      "description": "BSD doesn't need to be difficult to understand.",
+      "link": "https://www.makeuseof.com/the-easiest-way-into-bsd-does-not-start-with-freebsd-itself/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/ghostbsd-dell.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/ryobi-quietly-released-another-limited-edition-black-power-tool-deal/",
+      "title": "Ryobi quietly released another limited-edition Black power tool, and I want one",
+      "published": "2026-11-21T15:00:15+00:00",
+      "author": "Cory Gunther",
+      "description": "It's more than just a different color.",
+      "link": "https://www.howtogeek.com/ryobi-quietly-released-another-limited-edition-black-power-tool-deal/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/06/ryobi-brushless-tool-in-front-of-more-tools.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/my-dns-provider-sees-every-site-i-visit-so-i-built-a-setup-where-nobody-does/",
       "title": "My DNS provider sees every site I visit, so I built a setup where nobody does",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.makeuseof.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/gas-prices-are-a-nightmare-my-smart-home-tells-me-when-to-fill-up/",
-      "title": "Gas prices are a nightmare, so my smart home now tells me when to fill up",
-      "published": "2026-11-08T11:00:15+00:00",
-      "author": "Adam Davidson",
-      "description": "Pump up the savings.",
-      "link": "https://www.howtogeek.com/gas-prices-are-a-nightmare-my-smart-home-tells-me-when-to-fill-up/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/a-critical-notification-on-an-iphone-with-an-alert-saying-that-it-s-a-good-time-to-fill-up.png",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://hackaday.com/?p=1398102",
-      "title": "Making a Dog Car Wash Without (very) Fancy Tools",
-      "published": "2026-11-08T06:00:42+00:00",
-      "author": "Fenix Guthrie",
-      "description": "[Stuff Made Here] got fed up with the hassle of washing their dog, and in traditional engineer fashion, decided that automating the process would solve the problem. However, as science …read more",
-      "link": "https://hackaday.com/2026/11/07/making-a-dog-car-wash-without-very-fancy-tools/",
-      "image": "https://hackaday.com/wp-content/uploads/2026/11/dogWashFeat.jpg",
-      "feed_name": "Blog – Hackaday",
-      "feed_title": "Blog – Hackaday",
-      "category": "DIY",
-      "feed_url": "https://hackaday.com/blog/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
     }
   ]
 }
