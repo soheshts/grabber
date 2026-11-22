@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-22T15:33:06.379272+00:00",
+  "updated": "2026-11-22T16:03:19.963138+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/chrome-has-a-built-in-feature-that-strips-ads-from-articles-and-its-one-right-click-away/",
+      "title": "Chrome has a built-in feature that strips ads from articles, and it’s one right-click away",
+      "published": "2026-11-22T16:00:16+00:00",
+      "author": "Oluwaseun Bamisile",
+      "description": "One click turns a messy article into a clean read.",
+      "link": "https://www.makeuseof.com/chrome-has-a-built-in-feature-that-strips-ads-from-articles-and-its-one-right-click-away/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/google-chrome-reader-mode-side-by-side-compare-with-website.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/watching-movies-at-home-wrong-way-simple-changes/",
+      "title": "You're watching movies at home the wrong way. These 4 simple changes can help",
+      "published": "2026-11-22T16:00:15+00:00",
+      "author": "Dan Girolamo",
+      "description": "Sometimes, the most obvious fix is the necessary one.",
+      "link": "https://www.howtogeek.com/watching-movies-at-home-wrong-way-simple-changes/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/the-odyssey-benny-safdie.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/turn-old-android-phone-into-pc-control-panel/",
       "title": "I finally found a use for my old Android phone, and it's now my PC's control panel",
@@ -132,7 +160,7 @@
     },
     {
       "id": "https://www.makeuseof.com/esp32-motor-smart-window-shade-home-assistant/",
-      "title": "An ESP32, an $4 motor, and I've got a smart window shade in Home Assistant",
+      "title": "An ESP32, a $4 motor, and I've got a smart window shade in Home Assistant",
       "published": "2026-11-22T13:30:16+00:00",
       "author": "Yadullah Abidi",
       "description": "Why pay for smart shades when a hobby motor and a 3D printer will do?",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.apartmenttherapy.com/small-space-dining-room-makeover-100-dollars-ba-37698378",
-      "title": "A Tiny Nook DIY Changed the Whole Room and It Only Cost $100",
-      "published": "2026-11-09T13:00:00+00:00",
-      "author": "Sarah Everett",
-      "description": "Improving your shelving game in an awkward alcove can do wonders for a room — take it from DIYers Claudia Williams or Lara Lucas, who both created cozy little corners out of once-wasted space. A third DIYer to add to the list is Molly Malloy, who transformed an “empty, unused” corner into a storage-packed space with open shelving.“I knew when we moved into this apartment that this alcove would be a great candidate for open shelving,” Molly says. READ MORE...",
-      "link": "https://www.apartmenttherapy.com/small-space-dining-room-makeover-100-dollars-ba-37698378?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+projects",
-      "image": "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2025/2025-07/molly-m-bookshelf/molly-m-bookshelf-before-tag",
-      "feed_name": "Apartment Therapy| Saving the world, one room at a time",
-      "feed_title": "Apartment Therapy| Saving the world, one room at a time",
-      "category": "DIY",
-      "feed_url": "https://www.apartmenttherapy.com/projects.rss",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.apartmenttherapy.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/your-phone-isnt-built-for-what-android-auto-puts-it-through-on-every-drive/",
-      "title": "Your phone isn’t built for what Android Auto puts it through on every drive",
-      "published": "2026-11-09T12:30:16+00:00",
-      "author": "Sagar Naresh",
-      "description": "Android Auto makes driving easier, but your phone pays for it in heat, battery wear, and the occasional mid-route meltdown.",
-      "link": "https://www.makeuseof.com/your-phone-isnt-built-for-what-android-auto-puts-it-through-on-every-drive/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/05/android-auto-splitview.jpeg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }
