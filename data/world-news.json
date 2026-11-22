@@ -1,9 +1,65 @@
 {
   "category": "World News",
-  "updated": "2026-11-22T10:03:54.205266+00:00",
+  "updated": "2026-11-22T10:33:26.468121+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/11/21/world/asia/bangladesh-protests-sheikh-hasina-what-to-know.html",
+      "title": "Deadly Protests Erupt in Bangladesh Over Exiled Former Leader. What to Know.",
+      "published": "2026-11-22T10:22:20+00:00",
+      "author": "Jeremy W. Peters and Saif Hasnat",
+      "description": "Supporters of the deposed prime minister, Sheikh Hasina, who was sentenced to death in absentia, have waged a small-scale insurgency to destabilize the current government.",
+      "link": "https://www.nytimes.com/2026/11/21/world/asia/bangladesh-protests-sheikh-hasina-what-to-know.html",
+      "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-bangladesh-protests-wtk-01-qvpf/22int-bangladesh-protests-wtk-01-qvpf-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-drug-kingpin.html",
+      "title": "Who Is the Mexican Drug Kingpin Known as El Chapo Isidro?",
+      "published": "2026-11-22T10:16:39+00:00",
+      "author": "Lynsey Chutel",
+      "description": "The kingpin, Fausto Isidro Meza Flores, was captured in a violent operation in Mexico. He was one of the F.B.I.’s 10 most wanted fugitives.",
+      "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-drug-kingpin.html",
+      "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-cartel-arrest-zqtf/21int-cartel-arrest-zqtf-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/rest-of-world/indonesia-factory-fire-7-body-bags-recovered-around-50-workers-remain-missing/articleshow/136071416.cms",
+      "title": "Factory Fire: Seven bodies recovered; about 50 workers remain unaccounted for",
+      "published": "2026-11-22T10:11:30+00:00",
+      "author": "Mahima Sharma",
+      "description": "A massive fire erupted at a candy factory in Cikande, Indonesia, resulting in the recovery of seven body bags. Authorities reported that around 50 workers remain unaccounted for as rescue efforts continue. The factory owner indicated that approximately 300 workers were present during the incident, which occurred on Saturday evening. Investigation teams are working to determine the cause of the fire while assessing the damage.",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/indonesia-factory-fire-7-body-bags-recovered-around-50-workers-remain-missing/articleshow/136071416.cms",
+      "image": "https://static.toiimg.com/photo/msid-136071825,imgsize-214486.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/22/world/canada/canada-boreal-forest-degradation-deforestation-logging.html",
+      "title": "Canada’s Boreal Forest Is Reshaped by Logging and Climate Change",
+      "published": "2026-11-22T10:00:16+00:00",
+      "author": "Vjosa Isai, Ian Austen and Ian Willms",
+      "description": "Canada has framed the preservation of its boreal forest as a model for the world, but commercial logging combined with climate change is inflicting severe damage.",
+      "link": "https://www.nytimes.com/2026/11/22/world/canada/canada-boreal-forest-degradation-deforestation-logging.html",
+      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/00int-canada-forests01-photo-zvkl/00int-canada-forests01-photo-zvkl-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "https://timesofindia.indiatimes.com/world/us/a-maine-collector-founded-an-antique-car-museum-in-1963-and-later-created-a-trust-to-support-it-14-years-after-his-death-trustees-pledged-1-million-to-another-museum-and-the-states-top-court-upheld-the-gift/articleshow/136047658.cms",
       "title": "Maine court upholds $1 million museum donation 14 years after collector's death",
@@ -633,20 +689,6 @@
       "category": "World News",
       "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
       "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/21/world/asia/bangladesh-protests-sheikh-hasina-what-to-know.html",
-      "title": "Deadly Protests Erupt in Bangladesh Over Exiled Former Leader. What to Know.",
-      "published": "2026-11-22T03:44:20+00:00",
-      "author": "Jeremy W. Peters and Saif Hasnat",
-      "description": "Supporters of the deposed prime minister, Sheikh Hasina, who was sentenced to death in absentia, have waged a small-scale insurgency to destabilize the current government.",
-      "link": "https://www.nytimes.com/2026/11/21/world/asia/bangladesh-protests-sheikh-hasina-what-to-know.html",
-      "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-bangladesh-protests-wtk-01-qvpf/22int-bangladesh-protests-wtk-01-qvpf-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://www.ndtv.com/world-news/surrey-indian-origin-couple-killed-outside-canada-walmart-targeted-shooting-likely-12360788#publisher=newsstand",
@@ -1501,20 +1543,6 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-drug-kingpin.html",
-      "title": "Who Is the Mexican Drug Kingpin Known as El Chapo Isidro?",
-      "published": "2026-11-21T16:30:35+00:00",
-      "author": "Lynsey Chutel",
-      "description": "The kingpin, Fausto Isidro Meza Flores, was captured in a violent operation in Mexico. He was one of the F.B.I.’s 10 most wanted fugitives.",
-      "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-drug-kingpin.html",
-      "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-cartel-arrest-wtk-cjwm/21int-cartel-arrest-wtk-cjwm-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/middle-east/watch-iran-showcases-new-twin-missile-launcher-at-underground-complex/articleshow/136058166.cms",
@@ -13975,34 +14003,6 @@
       "category": "World News",
       "feed_url": "https://www.theguardian.com/world/rss",
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/trump-heads-to-china-for-trilateral-meeting-with-xi-jinping-vladimir-putin-12341630#publisher=newsstand",
-      "title": "Trump Heads To China For Trilateral Meeting With Xi Jinping, Vladimir Putin",
-      "published": "2026-11-18T02:20:48+00:00",
-      "author": null,
-      "description": "Trump has teased the possibility of a private meeting with Putin.",
-      "link": "https://www.ndtv.com/world-news/trump-heads-to-china-for-trilateral-meeting-with-xi-jinping-vladimir-putin-12341630#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-11/4ljjvtqg_trilateral-summit-reuters_625x300_17_November_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/violence-erupts-in-bangladesh-local-leader-killed-police-station-torched-12341510#publisher=newsstand",
-      "title": "Violence Erupts In Bangladesh, Local Leader Killed, Police Station Set On Fire",
-      "published": "2026-11-18T02:19:50+00:00",
-      "author": null,
-      "description": "A police station and the house of a treasury bench lawmaker were set on fire during this unrest.",
-      "link": "https://www.ndtv.com/world-news/violence-erupts-in-bangladesh-local-leader-killed-police-station-torched-12341510#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-11/dfkgi7oo_gopalganj-violence_625x300_18_November_26.jpeg",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     }
   ]
 }
