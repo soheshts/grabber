@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-22T10:33:26.468121+00:00",
+  "updated": "2026-11-22T11:03:42.765362+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/forget-good-lock-this-samsung-app-deserves-a-spot-on-your-phone/",
+      "title": "Forget Good Lock, this Samsung app deserves a spot on your phone",
+      "published": "2026-11-22T11:00:17+00:00",
+      "author": "Pankil Shah",
+      "description": "I'm surprised it doesn't come pre-installed.",
+      "link": "https://www.makeuseof.com/forget-good-lock-this-samsung-app-deserves-a-spot-on-your-phone/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/good-guardian-app-on-samsung-phone.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/hobbies-start-cheap-facebook-marketplace-bargains/",
+      "title": "5 hobbies you can start for cheap with Facebook Marketplace bargains",
+      "published": "2026-11-22T11:00:16+00:00",
+      "author": "Tim Brookes",
+      "description": "Explore your curiosity without a big financial hit.",
+      "link": "https://www.howtogeek.com/hobbies-start-cheap-facebook-marketplace-bargains/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/06/a-hand-playing-a-dsus-chord-on-an-acoustic-guitar.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://hackaday.com/?p=1429498",
       "title": "Quick WIFI Adapter Through USB",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/5-docker-containers-id-install-before-exposing-my-homelab-to-the-internet/",
-      "title": "5 Docker containers I'd install before exposing my homelab to the internet",
-      "published": "2026-11-08T22:01:15+00:00",
-      "author": "Umair Khurshid",
-      "description": "Before you put your homelab online, do yourself a favor and install these!",
-      "link": "https://www.howtogeek.com/5-docker-containers-id-install-before-exposing-my-homelab-to-the-internet/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2025/11/a-beelink-mini-pc-and-terramaster-nas-together-on-a-shelf.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/stop-trusting-claude-and-chatgpt-memory-and-setup-memory-system/",
-      "title": "I stopped trusting Claude and ChatGPT's memory and setup my own memory system",
-      "published": "2026-11-08T22:00:15+00:00",
-      "author": "Manuviraj Godara",
-      "description": "What if ChatGPT and Claude could share one memory that you can open, read, and edit in Notepad",
-      "link": "https://www.makeuseof.com/stop-trusting-claude-and-chatgpt-memory-and-setup-memory-system/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/04/chatgpt-and-claude-tabs-open-in-browser.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }
