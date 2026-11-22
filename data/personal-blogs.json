@@ -1,6 +1,6 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-22T19:32:17.278650+00:00",
+  "updated": "2026-11-22T20:03:16.158935+00:00",
   "count": 442,
   "summary": null,
   "items": [
@@ -73,6 +73,20 @@
       "category": "personal blogs",
       "feed_url": "https://hamatti.org/feed/feed.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=hamatti.org&sz=64"
+    },
+    {
+      "id": "https://tonsky.me/talks/#2026-11-22",
+      "title": "Talk: Clojure, интерфейсы и потерянные смыслы @ Организованное программирование",
+      "published": "2026-11-22T00:00:00+00:00",
+      "author": "Nikita Prokopov",
+      "description": "С Кириллом Мокевниным обсуждаем, почему функциональные языки не выиграли в эпоху ИИ, как агентная разработка меняет код-ревью и инструменты, куда уходят IDE и редакторы, что будет с карьерой разработчика после 40 и как я оказался в Linear.",
+      "link": "https://tonsky.me/talks/#2026-11-22",
+      "image": null,
+      "feed_name": "tonsky.me",
+      "feed_title": "tonsky.me",
+      "category": "personal blogs",
+      "feed_url": "https://tonsky.me/blog/atom.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=tonsky.me&sz=64"
     },
     {
       "id": "https://www.bennadel.com/blog/4931-reviewing-my-content-security-policy-csp-after-the-optimizely-hack.htm",
@@ -5463,20 +5477,6 @@
       "category": "personal blogs",
       "feed_url": "http://www.bennadel.com/index.cfm?dax=blog.rss&lst_tag_id=14,16,3,5,9,6,7,13,18,20,10,15",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.bennadel.com&sz=64"
-    },
-    {
-      "id": "https://www.aaron-gustafson.com/notebook/prompt-and-circumstance/",
-      "title": "Prompt and Circumstance",
-      "published": "2026-10-23T19:58:58+00:00",
-      "author": "Aaron Gustafson",
-      "description": "Back at Ability Summit, I moderated a conversation about shifting accessibility left in the age of AI . During that discussion, Yumeng Ma described a problem she’d encountered in her research: there wasn’t a magical prompt that made generated code accessible. The component mattered. The model mattered. And what we chose to measure mattered too. That research is the subject of a paper I co-authored with Yumeng Ma, Jacob O. Wobbrock, Joe Devon, Michael Fairchild, Jennifer Mankoff, and Venkatesh P…",
-      "link": "https://www.aaron-gustafson.com/notebook/prompt-and-circumstance/",
-      "image": "https://www.aaron-gustafson.com/i/share-cards/prompt-and-circumstance.jpg",
-      "feed_name": "Aaron Gustafson",
-      "feed_title": "Aaron Gustafson: Latest Posts",
-      "category": "personal blogs",
-      "feed_url": "https://www.aaron-gustafson.com/feeds/latest-posts.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.aaron-gustafson.com&sz=64"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
