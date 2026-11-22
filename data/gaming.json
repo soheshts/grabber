@@ -1,6 +1,6 @@
 {
   "category": "gaming",
-  "updated": "2026-11-22T14:02:59.319679+00:00",
+  "updated": "2026-11-22T14:33:10.701445+00:00",
   "count": 1000,
   "summary": null,
   "items": [
@@ -17,6 +17,20 @@
       "category": "gaming",
       "feed_url": "https://www.polygon.com/rss/index.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.polygon.com&sz=64"
+    },
+    {
+      "id": "b04b7f7e-7e51-473e-81b4-404a5d239a85",
+      "title": "In GTA 6, Cars Are Way, Way More Than Just Getaway Wheels",
+      "published": "2026-11-22T13:30:00+00:00",
+      "author": "Matt Purslow",
+      "description": "GTA has always been obsessed with cars, but in GTA 6 your wheels are for more than just getaways - they're your mobile base.",
+      "link": "https://www.ign.com/articles/in-gta-6-cars-are-way-way-more-than-just-getaway-wheels",
+      "image": "https://assets-prd.ignimgs.com/2026/11/21/gta-6-car-op-ed-blogroll-1795266423380.jpg",
+      "feed_name": "IGN All",
+      "feed_title": "IGN Articles",
+      "category": "gaming",
+      "feed_url": "http://feeds.ign.com/ign/all",
+      "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
     },
     {
       "id": "https://www.eurogamer.net/binding-of-isaac-repentance-plus-ai-music-removed",
@@ -13989,20 +14003,6 @@
       "category": "gaming",
       "feed_url": "http://feeds.ign.com/ign/all",
       "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
-    },
-    {
-      "id": "https://kotaku.com/?p=2000757482",
-      "title": "There’s One Thing I’ll Admit The Ocarina Of Time Remake Made Worse",
-      "published": "2026-11-16T17:00:20+00:00",
-      "author": "Kenneth Shepard",
-      "description": "Not every change is for the best",
-      "link": "https://kotaku.com/legend-zelda-ocarina-time-spirit-temple-remake-song-music-2000757482",
-      "image": "https://kotaku.com/app/uploads/2026/11/spirittemple-1280x720.jpg",
-      "feed_name": "Kotaku",
-      "feed_title": "Kotaku",
-      "category": "gaming",
-      "feed_url": "https://kotaku.com/rss",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=kotaku.com&sz=64"
     }
   ]
 }

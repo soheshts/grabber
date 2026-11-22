@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-22T14:02:59.319679+00:00",
-  "count": 444,
+  "updated": "2026-11-22T14:33:10.701445+00:00",
+  "count": 445,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,20 @@
       "category": "personal blogs",
       "feed_url": "https://shkspr.mobi/blog/feed/atom/",
       "feed_icon": "https://shkspr.mobi/blog/wp-content/uploads/2023/07/cropped-avatar-32x32.jpeg"
+    },
+    {
+      "id": "https://ronaldsvilcins.com/2026/11/22/a-modern-favicon-setup-in-2026/",
+      "title": "Set up favicons for browsers and home screens",
+      "published": "2026-11-22T06:00:00+00:00",
+      "author": "Ronalds Vilciņš",
+      "description": "A simple favicon setup that covers modern browsers and devices without generating dozens of unnecessary files.",
+      "link": "https://ronaldsvilcins.com/2026/11/22/a-modern-favicon-setup-in-2026/",
+      "image": "https://ronaldsvilcins.com/og/977387c42b26b6e041050f3e991731804c216dab29cc8043ae15bc0c7261b565.jpg",
+      "feed_name": "Ronalds Vilciņš",
+      "feed_title": "Ronalds Vilciņš",
+      "category": "personal blogs",
+      "feed_url": "https://ronaldsvilcins.com/atom.xml",
+      "feed_icon": "https://ronaldsvilcins.com/favicon.png"
     },
     {
       "id": "https://www.bennadel.com/blog/4931-reviewing-my-content-security-policy-csp-after-the-optimizely-hack.htm",
@@ -328,7 +342,7 @@
     },
     {
       "id": "https://www.bram.us/?p=37027",
-      "title": "Introducing CodePen Commander, a CLI tool (cdpn) to manage your CodePen 2.0 Pens",
+      "title": "CodePen Commander — Sync, serve, and build local CodePen 2.0 Pens straight from the CLI",
       "published": "2026-11-19T22:51:03+00:00",
       "author": "Bramus!",
       "description": "I scratched my own itch (again 😅) and built CodePen Commander — a CLI cdpn command to sync local folders with CodePen 2.0 Pens, deploy them, and manage privacy rules right from the terminal.",
