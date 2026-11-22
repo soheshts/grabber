@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-22T00:03:22.289733+00:00",
+  "updated": "2026-11-22T00:32:40.964767+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://hackaday.com/?p=1429423",
+      "title": "Thermite Powered Instant Phone Charger",
+      "published": "2026-11-22T00:00:29+00:00",
+      "author": "Maya Posch",
+      "description": "Thermite is an amazing material, using mostly easily obtainable ingredients like aluminium and iron(III) oxide in a redox reaction to create a rather spectacular amount of thermal energy in very …read more",
+      "link": "https://hackaday.com/2026/11/21/thermite-powered-instant-phone-charger/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/thermite_phone_charger_the_thought_emporium_youtube.jpg",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/set-up-these-android-emergency-settings-before-life-depends-on-it/",
       "title": "Set up these 4 Android emergency settings before your life depends on it",
@@ -13989,20 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/intel-stopped-making-nucs-here-is-what-replaced-them/",
-      "title": "Intel stopped making NUCs, so here’s what replaced them",
-      "published": "2026-11-08T20:30:16+00:00",
-      "author": "Shaheer Khan",
-      "description": "Intel dropped its NUCs, but ASUS kept the legacy alive.",
-      "link": "https://www.makeuseof.com/intel-stopped-making-nucs-here-is-what-replaced-them/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/06/nuc-front-view.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }
