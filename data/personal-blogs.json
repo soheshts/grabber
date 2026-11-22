@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-22T22:02:55.394996+00:00",
-  "count": 442,
+  "updated": "2026-11-22T22:32:17.562018+00:00",
+  "count": 443,
   "summary": null,
   "items": [
     {
@@ -115,6 +115,20 @@
       "category": "personal blogs",
       "feed_url": "https://tonsky.me/blog/atom.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=tonsky.me&sz=64"
+    },
+    {
+      "id": "https://alicebartlett.co.uk/blog/weaknotes-429",
+      "title": "Week 429: Feedback",
+      "published": "2026-11-22T00:00:00+00:00",
+      "author": null,
+      "description": "Week four hundred and twenty nine. Another week of security patching, Java, Oracle, nginx and PHP (again). By Friday everything was handled, and thankfully this time we didn’t have to turn any bits of the site off. At the beginning of the week (which feels like a really long time ago now) I read all of my end of year feedback. I had been dreading this because I had convinced myself that people were benignly tolerating me but absolutely going to give me the harshest feedback of my career given t…",
+      "link": "https://alicebartlett.co.uk/blog/weaknotes-429",
+      "image": "https://alicebartlett.co.uk/assets/me.jpg",
+      "feed_name": "The internet place for Alice Bartlett",
+      "feed_title": "The website of Alice Bartlett",
+      "category": "personal blogs",
+      "feed_url": "http://alicebartlett.co.uk/feed.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=alicebartlett.co.uk&sz=64"
     },
     {
       "id": "https://www.bennadel.com/blog/4931-reviewing-my-content-security-policy-csp-after-the-optimizely-hack.htm",
