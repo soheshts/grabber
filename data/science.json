@@ -1,9 +1,23 @@
 {
   "category": "science",
-  "updated": "2026-11-22T03:32:39.936064+00:00",
+  "updated": "2026-11-22T04:02:49.008485+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cq7827z2841zo#0",
+      "title": "Fossil fuel dispute threatens to derail COP31 climate deal",
+      "published": "2026-11-22T03:58:31+00:00",
+      "author": null,
+      "description": "The UN summit in Turkey enters second day of overtime as countries struggle to reach an agreement.",
+      "link": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b71/live/e0c68530-e61e-11f1-94c8-1db910b5b42e.jpg",
+      "feed_name": "BBC News - Science & Environment",
+      "feed_title": "BBC News",
+      "category": "science",
+      "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
     {
       "id": "https://www.nytimes.com/2026/11/20/science/mercury-bepi-colombo-orbit.html",
       "title": "International Mission Arrives at Mercury to Study Its Mysteries",
@@ -13983,20 +13997,6 @@
       "author": "Elizabeth Gibney",
       "description": "Nature, Published online: 13 November 2026; doi:10.1038/d41586-026-03679-8 Being able to target and debug systems could improve artificial-intelligence safety and utility.",
       "link": "https://www.nature.com/articles/d41586-026-03679-8",
-      "image": null,
-      "feed_name": "Nature",
-      "feed_title": "Nature",
-      "category": "science",
-      "feed_url": "https://www.nature.com/nature.rss",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=feeds.nature.com&sz=64"
-    },
-    {
-      "id": "https://www.nature.com/articles/d41586-026-03668-x",
-      "title": "Number of international students arriving in US plunges — worrying scientists",
-      "published": "2026-11-13T00:00:00+00:00",
-      "author": "Dan Garisto",
-      "description": "Nature, Published online: 13 November 2026; doi:10.1038/d41586-026-03668-x Decline in the number of students from China and India are driving the trend, which researchers say could slow the progress of US science.",
-      "link": "https://www.nature.com/articles/d41586-026-03668-x",
       "image": null,
       "feed_name": "Nature",
       "feed_title": "Nature",
