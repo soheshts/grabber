@@ -1,9 +1,23 @@
 {
   "category": "science",
-  "updated": "2026-11-22T13:03:40.847701+00:00",
+  "updated": "2026-11-22T13:33:26.593966+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
+      "title": "U.N. Climate Talks Collapse in a Bitter Clash Over Fossil Fuels",
+      "published": "2026-11-22T13:25:38+00:00",
+      "author": "Chico Harlan and Lisa Friedman",
+      "description": "European and vulnerable nations rejected a proposed agreement after Saudi Arabia and other oil producers blocked any mention of phasing out coal, oil and gas.",
+      "link": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
+      "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22cli-cop-final2-bpvk/22cli-cop-final2-bpvk-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Science",
+      "feed_title": "NYT > Science",
+      "category": "science",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "news714399679",
       "title": "Parasite makes mice more attractive to blood-feeding bugs, which may aid its spread",
@@ -17,20 +31,6 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
-      "title": "Bitter Clash Over Fossil Fuels Derails U.N. Climate Talks",
-      "published": "2026-11-22T12:45:49+00:00",
-      "author": "Chico Harlan and Lisa Friedman",
-      "description": "European and vulnerable nations rejected a proposed agreement after Saudi Arabia and other oil producers blocked any mention of phasing out coal, oil and gas.",
-      "link": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
-      "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22cli-cop-final2-bpvk/22cli-cop-final2-bpvk-mediumSquareAt3X.jpg",
-      "feed_name": "NYT > Science",
-      "feed_title": "NYT > Science",
-      "category": "science",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://www.scientificamerican.com/article/quantum-physics-can-now-prove-where-you-really-are/",

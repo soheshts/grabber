@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-22T13:03:40.847701+00:00",
+  "updated": "2026-11-22T13:33:26.593966+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/esp32-motor-smart-window-shade-home-assistant/",
+      "title": "An ESP32, an $4 motor, and I've got a smart window shade in Home Assistant",
+      "published": "2026-11-22T13:30:16+00:00",
+      "author": "Yadullah Abidi",
+      "description": "Why pay for smart shades when a hobby motor and a 3D printer will do?",
+      "link": "https://www.makeuseof.com/esp32-motor-smart-window-shade-home-assistant/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/automatic-shade-system-based-on-esp32.JPG",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/fire-tvs-sideloading-crackdown-buy-this-underrated-google-tv-box/",
+      "title": "Fire TV's sideloading crackdown convinced me to buy this underrated Google TV box",
+      "published": "2026-11-22T13:30:15+00:00",
+      "author": "Steve Larner",
+      "description": "A definite alternative to Fire TV",
+      "link": "https://www.howtogeek.com/fire-tvs-sideloading-crackdown-buy-this-underrated-google-tv-box/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/google-tv-top-picks-section-001.png",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/i-gave-qwen-38-the-weakest-gpu-i-own-and-it-wasnt-what-i-expected/",
       "title": "I gave Qwen 3.8 the weakest GPU I own, and it wasn't what I expected",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://hackaday.com/?p=1398322",
-      "title": "Determining Location by Listening for Airplanes",
-      "published": "2026-11-09T09:00:31+00:00",
-      "author": "Aaron Beckendorf",
-      "description": "Beyond what people deliberately disclose, there’s a surprising amount of information hidden in everyday messages, especially photos and videos. Even when people try to hide the location or time at …read more",
-      "link": "https://hackaday.com/2026/11/09/determining-location-by-listening-for-airplanes/",
-      "image": "https://hackaday.com/wp-content/uploads/2026/11/doppler_curve_location.png",
-      "feed_name": "Blog – Hackaday",
-      "feed_title": "Blog – Hackaday",
-      "category": "DIY",
-      "feed_url": "https://hackaday.com/blog/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
-    },
-    {
-      "id": "https://hackaday.com/?p=1398561",
-      "title": "A Smart Alarm Clock That Doesn’t Sell Your Soul",
-      "published": "2026-11-09T06:00:41+00:00",
-      "author": "Tom Nardi",
-      "description": "Devices from the likes of Google and Amazon can be used as high-tech alarm clocks that can show the weather and family photos in addition to telling you what time …read more",
-      "link": "https://hackaday.com/2026/11/08/a-smart-alarm-clock-that-doesnt-sell-your-soul/",
-      "image": "https://hackaday.com/wp-content/uploads/2026/11/rouse_feat2.jpg",
-      "feed_name": "Blog – Hackaday",
-      "feed_title": "Blog – Hackaday",
-      "category": "DIY",
-      "feed_url": "https://hackaday.com/blog/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
     }
   ]
 }
