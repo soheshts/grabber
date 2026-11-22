@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-22T12:33:17.612348+00:00",
+  "updated": "2026-11-22T13:03:40.847701+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/i-gave-qwen-38-the-weakest-gpu-i-own-and-it-wasnt-what-i-expected/",
+      "title": "I gave Qwen 3.8 the weakest GPU I own, and it wasn't what I expected",
+      "published": "2026-11-22T13:00:16+00:00",
+      "author": "Dipan Saha",
+      "description": "Surprisingly capable for a weaker card.",
+      "link": "https://www.makeuseof.com/i-gave-qwen-38-the-weakest-gpu-i-own-and-it-wasnt-what-i-expected/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/open-webui-z13.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/switching-to-a-mac-mini-showed-me-4-windows-features-i-miss-most/",
+      "title": "Switching to a Mac mini showed me 4 Windows features I miss most",
+      "published": "2026-11-22T13:00:15+00:00",
+      "author": "Vishwamoorthy Ramakrishnan",
+      "description": "Windows features Mac users wish they had.",
+      "link": "https://www.howtogeek.com/switching-to-a-mac-mini-showed-me-4-windows-features-i-miss-most/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/asus-vivobook-laptop-windows-11-desktop-on-box.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/i-loved-samsung-notes-until-obsidian-showed-me-what-i-was-missing/",
       "title": "I loved Samsung Notes until Obsidian showed me what I was missing",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://hackaday.com/blog/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
-    },
-    {
-      "id": "https://hackaday.com/?p=1398577",
-      "title": "Saving a Vintage High-Voltage Power Supply From the Scrap Heap",
-      "published": "2026-11-09T03:00:42+00:00",
-      "author": "Donald Papp",
-      "description": "[Mr Carlson’s Lab] saves a Fluke Model 407 high-voltage power supply from the scrap heap, and demonstrates carefully troubleshooting the vintage device to track the cause of the bad output …read more",
-      "link": "https://hackaday.com/2026/11/08/saving-a-vintage-high-voltage-power-supply-from-the-scrap-heap/",
-      "image": "https://hackaday.com/wp-content/uploads/2026/11/SAVED-Power-Supply-Troubleshooting-All-The-Steps-From-Start-To-Finish-1-57-screenshot.png",
-      "feed_name": "Blog – Hackaday",
-      "feed_title": "Blog – Hackaday",
-      "category": "DIY",
-      "feed_url": "https://hackaday.com/blog/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/enthusiasts-love-liquid-metal-why-one-of-riskiest-things-put-in-your-pc/",
-      "title": "Enthusiasts love liquid metal. Here's why it's one of the riskiest things you can put in your PC",
-      "published": "2026-11-09T01:00:15+00:00",
-      "author": "Sydney Butler",
-      "description": "High conductivity and electrical mischief coexist in a silver sheen that demands copper contact and surgeon-like calm.",
-      "link": "https://www.howtogeek.com/enthusiasts-love-liquid-metal-why-one-of-riskiest-things-put-in-your-pc/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/11/shutterstock_1554136106.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
     }
   ]
 }
