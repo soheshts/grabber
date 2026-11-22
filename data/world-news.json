@@ -1,9 +1,65 @@
 {
   "category": "World News",
-  "updated": "2026-11-22T08:03:48.832318+00:00",
+  "updated": "2026-11-22T08:33:30.504201+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/11/22/world/asia/korea-csat-exam-ai-cheating.html",
+      "title": "South Korea’s Education Minister Resigns Over Anti-A.I. Cheating Rules",
+      "published": "2026-11-22T08:13:44+00:00",
+      "author": "Jin Yu Young",
+      "description": "Two days before South Korea’s college entrance exam, new measures were announced, including loud phone alerts and eyeglass inspections. Public backlash came fast.",
+      "link": "https://www.nytimes.com/2026/11/22/world/asia/korea-csat-exam-ai-cheating.html",
+      "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22skorea-exam-wfpv/22skorea-exam-wfpv-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/alice-huangs-ties-with-shadow-network-of-chip-smuggling-ring-report-12361516#publisher=newsstand",
+      "title": "Alice Huang's Ties With Shadow Network Of Chip-Smuggling Ring: Report",
+      "published": "2026-11-22T08:06:17+00:00",
+      "author": null,
+      "description": "Alice Huang and Jensen Huang",
+      "link": "https://www.ndtv.com/world-news/alice-huangs-ties-with-shadow-network-of-chip-smuggling-ring-report-12361516#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-11/on7iheq8_nvidia_625x300_09_November_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
+      "id": "https://www.ndtv.com/opinion/in-shenzhen-a-high-stakes-diplomacy-game-of-he-says-xi-says-donald-trump-xi-jinping-vladimir-putin-shenzhen-summit-12361449#publisher=newsstand",
+      "title": "Opinion: Opinion: In Shenzhen, A High-Stakes Diplomacy Game Of He Says, Xi Says",
+      "published": "2026-11-22T08:02:40+00:00",
+      "author": null,
+      "description": "",
+      "link": "https://www.ndtv.com/opinion/in-shenzhen-a-high-stakes-diplomacy-game-of-he-says-xi-says-donald-trump-xi-jinping-vladimir-putin-shenzhen-summit-12361449#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-11/58alrarg_putin-trump-xi_625x300_22_November_26.jpeg",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
+      "id": "https://www.theguardian.com/news/2026/nov/22/bank-of-england-directors-illegally-profited-enslavement-cuba",
+      "title": "Highly lucrative: Bank of England directors illegally profited from post-abolition enslavement in Cuba",
+      "published": "2026-11-22T08:00:22+00:00",
+      "author": "Chris Osuh Community affairs correspondent",
+      "description": "New research finds that the British-led Cobre Mining Company helped industrialise Manchester via copper deposits and enslaved African people • Slave-trade wealth was embedded in Britain’s financial system, research finds British businesses run by long-serving directors of the Bank of England profited from “brutal” enslavement in Cuba for decades after slavery’s abolition in the British empire, according to research. Men and boys were enslaved in prison conditions at the El Cobre copper ore mine…",
+      "link": "https://www.theguardian.com/news/2026/nov/22/bank-of-england-directors-illegally-profited-enslavement-cuba",
+      "image": "https://i.guim.co.uk/img/media/8e8d4ce7d37742836e3c3c5add2beb073cc8be21/0_0_3750_3000/master/3750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=008006293af8e6c164a27aa2d78112dd",
+      "feed_name": "The Guardian",
+      "feed_title": "World news | The Guardian",
+      "category": "World News",
+      "feed_url": "https://www.theguardian.com/world/rss",
+      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
     {
       "id": "https://timesofindia.indiatimes.com/world/us/a-homeless-marine-veteran-in-colorado-springs-received-an-unexpected-gift-from-local-support-groups-a-donated-car-he-says-will-help-him-reach-medical-appointments-and-search-for-an-apartment-as-he-rebuilds-his-life/articleshow/136068824.cms",
       "title": "After losing home and car, 68-year-old US Marine veteran gets surprise gift",
@@ -20,7 +76,7 @@
     },
     {
       "id": "https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta",
-      "title": "Fire at confectionary factory in Indonesia leaves at least three dead and dozens missing",
+      "title": "Fire at confectionery factory in Indonesia leaves at least three dead and dozens missing",
       "published": "2026-11-22T07:11:17+00:00",
       "author": "Agence France-Presse",
       "description": "Relatives of the missing victims flocked to the factory’s entrance, seeking updates about their loved ones A fire at a confectionery factory west of Jakarta has killed three people with 36 remaining missing, an Indonesian rescue official says. Drone footage showed large parts of the factory destroyed, with the roof collapsed in places and smoke still rising from the complex. Photos and videos shared by rescuers show officers entering the charred building in search of the missing victims on Sund…",
@@ -31,20 +87,6 @@
       "category": "World News",
       "feed_url": "https://www.theguardian.com/world/rss",
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/22/world/asia/korea-csat-exam-ai-cheating.html",
-      "title": "How Stringent Anti-A.I. Cheating Rules Brought Down an Education Minister",
-      "published": "2026-11-22T07:04:28+00:00",
-      "author": "Jin Yu Young",
-      "description": "Two days before South Korea’s college entrance exam, new measures were announced, including loud phone alerts and eyeglass inspections. Public backlash came fast.",
-      "link": "https://www.nytimes.com/2026/11/22/world/asia/korea-csat-exam-ai-cheating.html",
-      "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22skorea-exam-wfpv/22skorea-exam-wfpv-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://www.nytimes.com/2026/11/22/world/asia/china-taiwan-comedian-xi-jinping.html",
@@ -87,6 +129,20 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/greek-pm-asks-youngsters-to-get-gta-6-for-christmas-faces-backlash-heres-why-12361282#publisher=newsstand",
+      "title": "Greek PM Asks Youngsters To Get GTA 6 For Christmas, Faces Backlash. Here's Why",
+      "published": "2026-11-22T06:48:06+00:00",
+      "author": null,
+      "description": "Left-wing newspaper Efsyn described the move as a gaffe.",
+      "link": "https://www.ndtv.com/world-news/greek-pm-asks-youngsters-to-get-gta-6-for-christmas-faces-backlash-heres-why-12361282#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-11/u3brkc1g_greek-prime-minister-kyriakos-mitsotakis_625x300_22_November_26.jpeg",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/rest-of-world/6-buyers-won-back-their-pre-construction-apartment-deposits-after-a-developer-moved-completion-forward-by-a-year-but-notified-them-six-months-later-supreme-court-of-british-columbia-ruled-the-delay-breached-disclosure-rules/articleshow/135992456.cms",
@@ -13947,62 +14003,6 @@
       "category": "World News",
       "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
       "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
-      "id": "108552760",
-      "title": "Japan exports in October surge 20.5%, beating estimates on robust chip shipments",
-      "published": "2026-11-18T00:35:31+00:00",
-      "author": null,
-      "description": "Semiconductor shipments spiked almost 50% year on year.",
-      "link": "https://www.cnbc.com/2026/11/18/japan-exports-october-imports-chips.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108285632-1774986309800-cnbc_versant_share.png?v=1774986411&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/encounter-breaks-out-between-terrorists-security-forces-in-jammu-and-kashmirs-kulgam-12341522#publisher=newsstand",
-      "title": "Encounter Breaks Out In J&K's Kulgam Between Security Forces, Terrorists",
-      "published": "2026-11-18T00:26:50+00:00",
-      "author": null,
-      "description": "The hunt for LeT Commander Lateef Bhat is underway.",
-      "link": "https://www.ndtv.com/world-news/encounter-breaks-out-between-terrorists-security-forces-in-jammu-and-kashmirs-kulgam-12341522#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2024-11/r8563eno_jammu-and-kashmir-encounter_625x300_13_November_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
-      "id": "108553341",
-      "title": "Cramer's lightning round: This sports stock is not for me",
-      "published": "2026-11-18T00:12:21+00:00",
-      "author": null,
-      "description": "\"Mad Money\" host Jim Cramer rings the lightning round bell, which means he's giving his answers to callers' stock questions at rapid speed.",
-      "link": "https://www.cnbc.com/2026/11/17/cramers-lightning-round-this-sports-stock-is-not-for-me-.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/107217913-1680196397032-gettyimages-1423728512-es_13507_078dbe90-af5c-41f8-af61-7a11fb3eb0e3.jpeg?v=1680199991&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "https://www.theguardian.com/australia-news/2026/nov/18/hugh-jackman-rebel-wilson-australian-artists-greenpeace-campaign-woodside-energy-scott-reef",
-      "title": "Hugh Jackman, Rebel Wilson and 150 Australian artists join call to block Woodside gas development near Scott Reef",
-      "published": "2026-11-18T00:00:25+00:00",
-      "author": "Donna Lu",
-      "description": "Actors, authors and musicians sign open letter urging Murray Watt to reject the fossil fuel company’s plan to drill for gas in Browse basin off Kimberley coast Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here More than 150 Australian artists, including Hugh Jackman, Rebel Wilson and Jessica Mauboy, have backed a Greenpeace-led campaign against Woodside Energy’s proposal to develop the Browse basin, about 300km off the Kimberley coast. Woodside, the country…",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/18/hugh-jackman-rebel-wilson-australian-artists-greenpeace-campaign-woodside-energy-scott-reef",
-      "image": "https://i.guim.co.uk/img/media/ad56fcfab9740583060ec012931312c05f9a1c11/295_0_2954_2363/master/2954.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c70531ef44d6361b427181c13ddae886",
-      "feed_name": "The Guardian",
-      "feed_title": "World news | The Guardian",
-      "category": "World News",
-      "feed_url": "https://www.theguardian.com/world/rss",
-      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
     }
   ]
 }
