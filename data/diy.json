@@ -1,9 +1,51 @@
 {
   "category": "DIY",
-  "updated": "2026-11-22T15:02:56.771220+00:00",
+  "updated": "2026-11-22T15:33:06.379272+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/turn-old-android-phone-into-pc-control-panel/",
+      "title": "I finally found a use for my old Android phone, and it's now my PC's control panel",
+      "published": "2026-11-22T15:30:16+00:00",
+      "author": "Gavin Phillips",
+      "description": "If you've got an old phone and a few minutes to spare, PhoneBox is what you need.",
+      "link": "https://www.makeuseof.com/turn-old-android-phone-into-pc-control-panel/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/phonebox-control-panel-home-page.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/i-replaced-vs-code-with-this-lighweight-editor-and-im-not-going-back/",
+      "title": "I replaced VS Code with this lightweight editor, and I'm not going back",
+      "published": "2026-11-22T15:30:15+00:00",
+      "author": "Zunaid Ali",
+      "description": "No more waiting for me to open a large coding project.",
+      "link": "https://www.howtogeek.com/i-replaced-vs-code-with-this-lighweight-editor-and-im-not-going-back/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/vs-code-and-zed-editor.png",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://hackaday.com/?p=1429505",
+      "title": "Soft Robot Made for the Races",
+      "published": "2026-11-22T15:00:49+00:00",
+      "author": "Ian Bos",
+      "description": "Soft robotics is a relatively untapped field of robotics. However, that doesn’t mean there aren’t some good examples of what it could do in the near future. Speed is a …read more",
+      "link": "https://hackaday.com/2026/11/22/soft-robot-made-for-the-races/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/scirobotics.aei1264-f1.jpg",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/this-free-network-monitor-embarrasses-every-other-paid-one-ive-tried/",
       "title": "This free network monitor embarrasses every other paid one I've tried",
@@ -13961,48 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.makeuseof.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/things-i-genuinely-regret-about-having-a-cheap-motherboard-in-my-pc/",
-      "title": "3 things I genuinely regret about having a cheap motherboard in my PC",
-      "published": "2026-11-09T12:30:15+00:00",
-      "author": "Sydney Butler",
-      "description": "A single tiny PCIe 1x slot and absent PCIe 4x expansion turn simple upgrades into a case-changing project.",
-      "link": "https://www.howtogeek.com/things-i-genuinely-regret-about-having-a-cheap-motherboard-in-my-pc/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/20261104_123900.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/i-put-my-entire-home-server-on-tailscalethen-it-became-a-burden/",
-      "title": "Tailscale made my home server easy, until I used it for everything",
-      "published": "2026-11-09T12:01:17+00:00",
-      "author": "Jayric Maning",
-      "description": "Stop using Tailscale on everything. I learned the hard way.",
-      "link": "https://www.makeuseof.com/i-put-my-entire-home-server-on-tailscalethen-it-became-a-burden/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/tailscale-subnet-router-key-expired-1.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/tired-switching-between-pi-hole-dashboards-open-source-tool-merges-them/",
-      "title": "Tired of switching between Pi-hole dashboards? This open-source tool merges them",
-      "published": "2026-11-09T12:01:16+00:00",
-      "author": "Umair Khurshid",
-      "description": "One dashboard to rule the DNS chaos in your homelab!",
-      "link": "https://www.howtogeek.com/tired-switching-between-pi-hole-dashboards-open-source-tool-merges-them/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/hp-laptop-displaying-the-dobbelt-pi-hole-dashboard-combining-statistics-blocking-status-and-allowed-and-blocked-domain-lists-from-two-connected-pi-hole-instances.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
     }
   ]
 }
