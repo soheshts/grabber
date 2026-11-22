@@ -1,9 +1,23 @@
 {
   "category": "science",
-  "updated": "2026-11-22T01:03:21.912169+00:00",
+  "updated": "2026-11-22T01:32:51.020269+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/11/20/science/mercury-bepi-colombo-orbit.html",
+      "title": "International Mission Arrives at Mercury to Study Its Mysteries",
+      "published": "2026-11-22T01:26:28+00:00",
+      "author": "Jay Bennett",
+      "description": "BepiColombo is now the second spacecraft in history to orbit the planet closest to the sun.",
+      "link": "https://www.nytimes.com/2026/11/20/science/mercury-bepi-colombo-orbit.html",
+      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20SCI-MERCURY-BEPI1-lfkc/20SCI-MERCURY-BEPI1-lfkc-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Science",
+      "feed_title": "NYT > Science",
+      "category": "science",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "news714399846",
       "title": "Single feathers may reveal whether eastern black rails stay in Texas or migrate north",
@@ -1832,20 +1846,6 @@
       "description": "In a new study, Google researchers demonstrated a strange phenomenon called quantum contextuality, in which a quantum machine’s data can change as the context does.",
       "link": "https://www.nytimes.com/2026/11/20/science/quantum-contextuality.html",
       "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19SCI-QUANTUM-CONTEXTUALITY-fwhv/19SCI-QUANTUM-CONTEXTUALITY-fwhv-mediumSquareAt3X.jpg",
-      "feed_name": "NYT > Science",
-      "feed_title": "NYT > Science",
-      "category": "science",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/20/science/mercury-bepi-colombo-orbit.html",
-      "title": "Mercury Is a Mystery. An International Mission Aims to Solve It.",
-      "published": "2026-11-20T10:00:44+00:00",
-      "author": "Jay Bennett",
-      "description": "BepiColombo is about to become the second spacecraft in history to orbit the planet closest to the sun.",
-      "link": "https://www.nytimes.com/2026/11/20/science/mercury-bepi-colombo-orbit.html",
-      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20SCI-MERCURY-BEPI1-lfkc/20SCI-MERCURY-BEPI1-lfkc-mediumSquareAt3X.jpg",
       "feed_name": "NYT > Science",
       "feed_title": "NYT > Science",
       "category": "science",
