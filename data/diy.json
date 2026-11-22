@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-22T09:03:58.089305+00:00",
+  "updated": "2026-11-22T09:33:22.811016+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://hackaday.com/?p=1429498",
+      "title": "Quick WIFI Adapter Through USB",
+      "published": "2026-11-22T09:00:44+00:00",
+      "author": "Ian Bos",
+      "description": "There’s breaking news! Quick, check your computer and look it up! What? Your computer doesn’t have internet right now because its WiFi chip fried itself? Well, it’s a good thing …read more",
+      "link": "https://hackaday.com/2026/11/22/quick-wifi-adapter-through-usb/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/esp32_e51860.jpg",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
+    {
+      "id": "https://hackaday.com/?p=1429399",
+      "title": "A Replacement PCB for the Echo Dot",
+      "published": "2026-11-22T09:00:03+00:00",
+      "author": "Jenny List",
+      "description": "The Amazon Echo and other voice-controlled home assistants provide so much promise of a Jetsons style future of machines at your service. They would be a must-have accessory, were it not …read more",
+      "link": "https://hackaday.com/2026/11/22/a-replacement-pcb-for-the-echo-dot/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/dot-local-featured.jpg",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://hackaday.com/?p=1427947",
       "title": "Building a Robotic Hand on a Budget",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.makeuseof.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/windows-11-finally-does-what-7-zip-does-but-theres-a-catch/",
-      "title": "Windows 11 finally does what 7-Zip does, but there's a catch",
-      "published": "2026-11-08T21:30:16+00:00",
-      "author": "Shaheer Khan",
-      "description": "Windows 11's archive utility is slower and lacks much of the support that makes 7-Zip so good.",
-      "link": "https://www.makeuseof.com/windows-11-finally-does-what-7-zip-does-but-theres-a-catch/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2026/11/7-zip-featured.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/turn-aging-fire-tablet-into-real-android-device-without-spending-dime/",
-      "title": "How to turn your aging Fire tablet into a real Android device without spending a dime",
-      "published": "2026-11-08T21:30:15+00:00",
-      "author": "Arol Wright",
-      "description": "Under all that, it's still just Android.",
-      "link": "https://www.howtogeek.com/turn-aging-fire-tablet-into-real-android-device-without-spending-dime/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/07/amazon-fire-tablet-with-android-launcher.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
     }
   ]
 }
