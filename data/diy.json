@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-22T14:33:10.701445+00:00",
+  "updated": "2026-11-22T15:02:56.771220+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/this-free-network-monitor-embarrasses-every-other-paid-one-ive-tried/",
+      "title": "This free network monitor embarrasses every other paid one I've tried",
+      "published": "2026-11-22T15:00:16+00:00",
+      "author": "Bryan M. Wolfe",
+      "description": "After a reader found my travel site down, I set up a free self-hosted monitor that catches outages and expired certs.",
+      "link": "https://www.makeuseof.com/this-free-network-monitor-embarrasses-every-other-paid-one-ive-tried/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/kuma-macbook-4.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/3d-printed-my-own-watch-band/",
+      "title": "I 3D printed my own smart watch band and it went about as well as you’d expect",
+      "published": "2026-11-22T15:00:15+00:00",
+      "author": "Tim Brookes",
+      "description": "Everything’s a nail if your only tool is a hammer.",
+      "link": "https://www.howtogeek.com/3d-printed-my-own-watch-band/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/apple-watch-with-3d-printed-band-on-table.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/1gb-raspberry-pi-perfect-these-apps/",
       "title": "A 1GB Raspberry Pi can’t run the self-hosted stack everyone recommends, but it's perfect for these 5 apps",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://hackaday.com/?p=1398551",
-      "title": "Web Satellite Tracker Plays the Music of the Spheres",
-      "published": "2026-11-09T12:00:11+00:00",
-      "author": "Tom Nardi",
-      "description": "There are a dizzying number of satellites in orbit around the Earth these days, and more are being added at an incredible rate. Those of us with an interest in …read more",
-      "link": "https://hackaday.com/2026/11/09/web-satellite-tracker-plays-the-music-of-the-spheres/",
-      "image": "https://hackaday.com/wp-content/uploads/2026/11/orbitsounds_feat.png",
-      "feed_name": "Blog – Hackaday",
-      "feed_title": "Blog – Hackaday",
-      "category": "DIY",
-      "feed_url": "https://hackaday.com/blog/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/samsung-has-a-new-trick-screenshots-you-take-and-forget/",
-      "title": "Samsung has a new trick for all those screenshots you take and forget",
-      "published": "2026-11-09T11:55:17+00:00",
-      "author": "Hamed Paydarfar",
-      "description": "Samsung Memory collects screenshots, links, images and voice notes into searchable, AI tagged items with web context.",
-      "link": "https://www.makeuseof.com/samsung-has-a-new-trick-screenshots-you-take-and-forget/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/08/phone-in-hand-showing-samsung-internet.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }

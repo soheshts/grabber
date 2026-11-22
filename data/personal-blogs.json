@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-22T14:33:10.701445+00:00",
-  "count": 445,
+  "updated": "2026-11-22T15:02:56.771220+00:00",
+  "count": 444,
   "summary": null,
   "items": [
     {
@@ -31,6 +31,20 @@
       "category": "personal blogs",
       "feed_url": "https://ronaldsvilcins.com/atom.xml",
       "feed_icon": "https://ronaldsvilcins.com/favicon.png"
+    },
+    {
+      "id": "https://hamatti.org/posts/djangonaut-log-6-other-life-got-in-the-way/",
+      "title": "Djangonaut Log 6: Other life got in the way",
+      "published": "2026-11-22T00:00:00+00:00",
+      "author": "Juha-Matti Santala (juhis@hamatti.org)",
+      "description": "This blog post is a weekly update of my journey in Djangonaut Space , an 8-week mentoring program for future open source developers in the Django ecosystem. Series: 3… 2… 1… becoming a Djangonaut Djangonaut Log 1: Lift-off and first week in Djangonaut Space Debugging a flaky test — how I methodologically tamed an annoying bug Assumptions are sneaky Djangonaut Log 2: Leaving the atmosphere and first merged contributions Djangonaut Log 3: Into the orbit! Djangonaut Log 4: Avoiding asteroids Desig…",
+      "link": "https://hamatti.org/posts/djangonaut-log-6-other-life-got-in-the-way/",
+      "image": "https://hamatti.org/assets/img/posts/djangonaut-log-6-other-life-got-in-the-way/djangonaut-log-6-other-life-got-in-the-way-cover.png.webp",
+      "feed_name": "Juha-Matti Santala - Community Builder. Dreamer. Adventurer.",
+      "feed_title": "Juha-Matti Santala - Community Builder. Dreamer. Adventurer.",
+      "category": "personal blogs",
+      "feed_url": "https://hamatti.org/feed/feed.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hamatti.org&sz=64"
     },
     {
       "id": "https://www.bennadel.com/blog/4931-reviewing-my-content-security-policy-csp-after-the-optimizely-hack.htm",
@@ -1697,6 +1711,20 @@
       "category": "personal blogs",
       "feed_url": "https://www.amitmerchant.com/feed.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.amitmerchant.com&sz=64"
+    },
+    {
+      "id": "https://hamatti.org/posts/lexing-and-parsing-search-queries-for-pokemon-tcg/",
+      "title": "Lexing and parsing search queries for Pokémon TCG",
+      "published": "2026-11-13T00:00:00+00:00",
+      "author": "Juha-Matti Santala (juhis@hamatti.org)",
+      "description": "This here, is a Pokémon TCG card: Even by just looking at it, youcan see there’s a lot of information on it. If you were to search for this card on a card database, you might search with any of these different pieces of information. First, the most obvious part would be to search for it by its name: Pikachu ex. Or just Pikachu. You might want to be specific and use the exact match with “Pikachu ex”. Already, we’re into a territory where we need to figure out how to deal with our search queries.…",
+      "link": "https://hamatti.org/posts/lexing-and-parsing-search-queries-for-pokemon-tcg/",
+      "image": "https://hamatti.org/assets/img/posts/lexing-and-parsing-search-queries-for-pokemon-tcg/1.png",
+      "feed_name": "Juha-Matti Santala - Community Builder. Dreamer. Adventurer.",
+      "feed_title": "Juha-Matti Santala - Community Builder. Dreamer. Adventurer.",
+      "category": "personal blogs",
+      "feed_url": "https://hamatti.org/feed/feed.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hamatti.org&sz=64"
     },
     {
       "id": "https://anselm-hannemann.com/writings/bringing-wdrl-to-life-again-in-2026",
@@ -5477,48 +5505,6 @@
       "category": "personal blogs",
       "feed_url": "https://geoffgraham.wpengine.com/feed/",
       "feed_icon": "https://geoffgraham.me/wp-content/uploads/logo.svg"
-    },
-    {
-      "id": "https://katiekodes.com/php-cve-202610",
-      "title": "The PHP CVE impacted you, too",
-      "published": "2026-10-23T15:00:00+00:00",
-      "author": "Katie",
-      "description": "Even if you use another programming language",
-      "link": "https://katiekodes.com/php-cve-202610/",
-      "image": null,
-      "feed_name": "Katie Kodes",
-      "feed_title": "Katie Kodes",
-      "category": "personal blogs",
-      "feed_url": "https://katiekodes.com/feed.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=katiekodes.com&sz=64"
-    },
-    {
-      "id": "https://adactio.com/journal/22813",
-      "title": "The Pirate Queen by Ariel Lawhon",
-      "published": "2026-10-23T14:57:23+00:00",
-      "author": "jeremy@adactio.com (Jeremy Keith)",
-      "description": "This is an infuriating book. So much so that I didn’t finish it. Don’t get me wrong; I love the idea of The Pirate Queen . Telling the life story of Gráinne Ní Mháille is an excellent premise for some rip-roaring historical fiction. It’s even got an interesting structure alternating between three different parts of her life. I was pleasantly surprised when I cracked open the book to find a small pronunciation guide to some Irish words in the front matter. It would be nice to have some Gaeilge s…",
-      "link": "https://adactio.com/journal/22813",
-      "image": "https://images-eu.bookshop.org/images/9780385553230.jpg",
-      "feed_name": "Adactio: Journal",
-      "feed_title": "Adactio: Journal",
-      "category": "personal blogs",
-      "feed_url": "http://adactio.com/journal/rss/",
-      "feed_icon": "https://adactio.com/images/amplogo.png"
-    },
-    {
-      "id": "https://daverupert.com/2026/10/bad-at-email/",
-      "title": "Bad at email",
-      "published": "2026-10-23T14:57:00+00:00",
-      "author": null,
-      "description": "Good friends and family know this, but I am bad at email. Like chronically bad. If you have tried to email me, you know this too and you either never got a reply or received one 9-months later starting with the phrase, “Sorry.” I am truly sorry… but also I’m not. It’s a function of who I am. I was never great at email, but in a slower time before social media it raptured my attention. I would habitually refresh my inbox hoping for a long range communication from a friend or stranger. When I was…",
-      "link": "https://daverupert.com/2026/10/bad-at-email/",
-      "image": null,
-      "feed_name": "Dave Rupert",
-      "feed_title": "daverupert.com",
-      "category": "personal blogs",
-      "feed_url": "https://daverupert.com/atom.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=daverupert.com&sz=64"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
