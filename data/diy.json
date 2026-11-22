@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-22T18:33:06.274828+00:00",
+  "updated": "2026-11-22T19:03:23.167197+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/a-single-open-source-developer-built-a-leaner-mac-launcher-than-raycast/",
+      "title": "A single open-source developer built a leaner Mac launcher than Raycast",
+      "published": "2026-11-22T19:00:16+00:00",
+      "author": "Abhijith N Arjunan",
+      "description": "The minimal macOS launcher packs quite a few features worth keeping.",
+      "link": "https://www.makeuseof.com/a-single-open-source-developer-built-a-leaner-mac-launcher-than-raycast/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/sol-on-mac.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/turn-airpods-into-an-air-mouse/",
+      "title": "Someone figured out how to turn AirPods into an air mouse, and it really works",
+      "published": "2026-11-22T19:00:15+00:00",
+      "author": "Adam Davidson",
+      "description": "A case in point.",
+      "link": "https://www.howtogeek.com/turn-airpods-into-an-air-mouse/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/hand-aiming-an-earbud-case-at-the-airpointer-app-on-a-macbook.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/your-purchased-digital-movies-can-disappear-5-times-its-already-happened/",
       "title": "Your “purchased” digital movies can disappear, here's 5 times it’s already happened",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.makeuseof.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/simple-woodworking-projects-i-built-without-expensive-tools/",
-      "title": "5 simple woodworking projects I built without expensive tools",
-      "published": "2026-11-09T15:00:16+00:00",
-      "author": "Joe Fedewa",
-      "description": "Not a birdhouse in sight.",
-      "link": "https://www.howtogeek.com/simple-woodworking-projects-i-built-without-expensive-tools/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/monitor-stand-hero.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://hackaday.com/?p=1396766",
-      "title": "Radon Active",
-      "published": "2026-11-09T15:00:15+00:00",
-      "author": "Al Williams",
-      "description": "When you think about nuclear radiation, you often think about power plants, but it turns out there’s radioactive stuff all over the place: smoke detectors, granite counters, bananas, and potatoes …read more",
-      "link": "https://hackaday.com/2026/11/09/radon-active/",
-      "image": "https://hackaday.com/wp-content/uploads/2026/10/RadonDetector.jpg",
-      "feed_name": "Blog – Hackaday",
-      "feed_title": "Blog – Hackaday",
-      "category": "DIY",
-      "feed_url": "https://hackaday.com/blog/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
     }
   ]
 }
