@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-22T20:32:38.405030+00:00",
+  "updated": "2026-11-22T21:03:29.351200+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://hackaday.com/?p=1429599",
+      "title": "Recycling Thousands of Coffee Capsules into a Moka Pot",
+      "published": "2026-11-22T21:00:56+00:00",
+      "author": "Maya Posch",
+      "description": "Everyone who has ever used a Nespresso or similar single-use pod system to make coffee may have noticed how much waste this produces in terms of empty capsules. A happy …read more",
+      "link": "https://hackaday.com/2026/11/22/recycling-thousands-of-coffee-capsules-into-a-moka-pot/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/moka_pot_coffee_capsules_shake_the_future_youtube.jpg",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
+    {
+      "id": "https://www.makeuseof.com/smart-home-automations-needing-motion-sensor/",
+      "title": "5 useful smart home automations that need just one motion sensor",
+      "published": "2026-11-22T21:00:16+00:00",
+      "author": "Chris Hachey",
+      "description": "It triggers an easier way to use your home.",
+      "link": "https://www.makeuseof.com/smart-home-automations-needing-motion-sensor/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/05/ring-motion-sensor-in-hand-front-close-up.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/pc-gaming-habits-that-keep-my-old-amd-cpu-running-like-a-new-one/",
       "title": "5 PC gaming habits that keep my old AMD CPU running like a new one",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://hackaday.com/?p=1398554",
-      "title": "Reverse Engineering a 1960s Diode-Transistor Logic IC",
-      "published": "2026-11-09T16:30:02+00:00",
-      "author": "Maya Posch",
-      "description": "Before transistor-transistor logic (TTL) took over, diode-transistor logic (DTL) was a common sight especially in pre-IC circuits where it was a major improvement over resistor-transistor logic (RTL). That said, it’s …read more",
-      "link": "https://hackaday.com/2026/11/09/reverse-engineering-a-1960s-diode-transistor-logic-ic/",
-      "image": "https://hackaday.com/wp-content/uploads/2026/11/signetics-ad.jpg",
-      "feed_name": "Blog – Hackaday",
-      "feed_title": "Blog – Hackaday",
-      "category": "DIY",
-      "feed_url": "https://hackaday.com/blog/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/tested-smallest-and-biggest-ryobi-batteries-same-tools/",
-      "title": "I put my smallest and biggest Ryobi batteries on the same tools to see where more battery stops helping",
-      "published": "2026-11-09T16:00:17+00:00",
-      "author": "Jonathon Jachura",
-      "description": "Bigger batteries don't always work out better on power tools; I did some testing and these are the tools you should use with smaller packs.",
-      "link": "https://www.makeuseof.com/tested-smallest-and-biggest-ryobi-batteries-same-tools/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/09/ryobi-battery-pair-on-desk-1.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }
