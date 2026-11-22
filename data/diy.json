@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-22T16:03:19.963138+00:00",
+  "updated": "2026-11-22T16:33:23.491737+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.howtogeek.com/pc-hardware-makers-intentionally-limit-performance-sell-expensive-gear/",
+      "title": "This is how PC hardware makers intentionally limit performance to sell you more expensive gear",
+      "published": "2026-11-22T16:30:15+00:00",
+      "author": "Sydney Butler",
+      "description": "Hidden fuses and disabled cores show surplus silicon being sold down the line with unexpected, unlockable capabilities.",
+      "link": "https://www.howtogeek.com/pc-hardware-makers-intentionally-limit-performance-sell-expensive-gear/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/11/shutterstock_2807347949.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/chrome-has-a-built-in-feature-that-strips-ads-from-articles-and-its-one-right-click-away/",
       "title": "Chrome has a built-in feature that strips ads from articles, and it’s one right-click away",
@@ -13989,20 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.makeuseof.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/next-android-phone-could-have-cooling-fan-but-it-will-come-at-a-cost/",
-      "title": "Your next Android phone could have a cooling fan, but it will come at a cost",
-      "published": "2026-11-09T13:00:15+00:00",
-      "author": "Tyler Dupont",
-      "description": "Just because we can doesn't always mean that we should.",
-      "link": "https://www.howtogeek.com/next-android-phone-could-have-cooling-fan-but-it-will-come-at-a-cost/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/20261106_112211-1.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
     }
   ]
 }
