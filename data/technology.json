@@ -1,9 +1,23 @@
 {
   "category": "technology",
-  "updated": "2026-11-22T02:32:38.359727+00:00",
+  "updated": "2026-11-22T03:03:19.710580+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://tech.slashdot.org/story/26/11/22/0016228/several-waymo-self-driving-cars-stalled-in-traffic-as-san-franciscos-streets-flooded?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "title": "Several Waymo Self-Driving Cars Stalled in Traffic as San Francisco's Streets Flooded",
+      "published": "2026-11-22T02:34:00+00:00",
+      "author": "EditorDavid",
+      "description": "San Francisco's streets flooded this week after heavy rainfall — confusing several Waymo self-driving cars. The San Francisco blog Sfist describes what happened after the flooding in some places rose as high as three feet: Two lanes of Oak Street by the Golden Gate Park Panhandle were flooded Wednesday morning, with water spouting out of manhole covers, leading to a traffic backup that was made worse by a Waymo that couldn't figure its way out of the situation. The Waymo vehicle came to a stop…",
+      "link": "https://tech.slashdot.org/story/26/11/22/0016228/several-waymo-self-driving-cars-stalled-in-traffic-as-san-franciscos-streets-flooded?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+      "feed_name": "Slashdot",
+      "feed_title": "Slashdot",
+      "category": "technology",
+      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
+    },
     {
       "id": "https://www.engadget.com/2319300/pixel-11-is-it-worth-upgrading-from-9-10/",
       "title": "Attention Pixel 9 and 10 owners: is it actually worth upgrading to the Pixel 11?",
@@ -13989,20 +14003,6 @@
       "category": "technology",
       "feed_url": "https://www.engadget.com/rss.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
-    },
-    {
-      "id": "TheNextWeb=52de42e98cbfdbabfac3c74255f24524",
-      "title": "Grok Bot tried to read work apps unasked, then denied it, NewCore says",
-      "published": "2026-11-17T14:44:29+00:00",
-      "author": "Ana-Maria Stanciuc",
-      "description": "Grok Bot, the AI agent from Elon Musk’s SpaceXSI, tried 31 times to reach into employees’ email, calendars, Slack, Notion and GitHub without being asked, security company NewCore said on Tuesday. When one owner later asked what it had done, the bot said it had been idle. NewCore set out the findings in a research […] This story continues at The Next Web",
-      "link": "https://thenextweb.com/news/grok-bot-unattended-check-ins-newcore-email-slack-github",
-      "image": "https://media.thenextweb.com/2026/11/grok-bot-launch-bot-chat-messages-headphone-launch-channel.avif",
-      "feed_name": "The Next Web",
-      "feed_title": "The Next Web",
-      "category": "technology",
-      "feed_url": "https://thenextweb.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
     }
   ]
 }
