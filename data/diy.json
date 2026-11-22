@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-22T00:32:40.964767+00:00",
+  "updated": "2026-11-22T01:03:21.912169+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.howtogeek.com/wild-things-people-powering-with-spare-ryobi-batteries-kayaks-to-go-karts/",
+      "title": "4 wild things people are powering with spare Ryobi batteries, from kayaks to go-karts",
+      "published": "2026-11-22T01:00:15+00:00",
+      "author": "Sydney Butler",
+      "description": "Dead hoverboard motors and Ryobi cells combine into backyard 36V go-karts built from conduit, steel tubing, and grit.",
+      "link": "https://www.howtogeek.com/wild-things-people-powering-with-spare-ryobi-batteries-kayaks-to-go-karts/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/ryobi-4ah-battery-angled.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://hackaday.com/?p=1429423",
       "title": "Thermite Powered Instant Phone Charger",
@@ -13989,20 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://hackaday.com/blog/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/gave-chatgpt-windows-logs-fixed-three-major-problems-id-overlooked/",
-      "title": "I gave ChatGPT my Windows logs, and it fixed 3 major problems I'd overlooked",
-      "published": "2026-11-08T21:00:15+00:00",
-      "author": "Vishwamoorthy Ramakrishnan",
-      "description": "I used ChatGPT to diagnose Windows.",
-      "link": "https://www.howtogeek.com/gave-chatgpt-windows-logs-fixed-three-major-problems-id-overlooked/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/chatgpt-windows-error-log.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
     }
   ]
 }
