@@ -1,13 +1,13 @@
 {
   "category": "World News",
-  "updated": "2026-11-22T20:03:16.158935+00:00",
+  "updated": "2026-11-22T20:32:38.405030+00:00",
   "count": 1000,
   "summary": null,
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo#0",
       "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-      "published": "2026-11-22T19:52:50+00:00",
+      "published": "2026-11-22T20:28:09+00:00",
       "author": null,
       "description": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
       "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
@@ -19,11 +19,25 @@
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno#1",
+      "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+      "published": "2026-11-22T20:26:24+00:00",
+      "author": null,
+      "description": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
+      "link": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2aab/live/8ca719f0-e6b0-11f1-b45e-bf1e220bd648.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
       "id": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
       "title": "Australian politics live: small business carveout in digital duty of care; countdown to pass key legislation begins",
-      "published": "2026-11-22T19:47:18+00:00",
-      "author": "Guardian staff",
-      "description": "Get our breaking news email , free app or daily news podcast Good morning and welcome to Guardian Australia’s coverage of Australian politics. Krishani Dhanji will be with us shortly. Let’s begin. Continue reading...",
+      "published": "2026-11-22T20:23:58+00:00",
+      "author": "Krishani Dhanji",
+      "description": "Get our breaking news email , free app or daily news podcast ‘Pretty extraordinary’: Liberals blast Cop negotiations The Liberals say it’s quite extraordinary the government put its hand up to co-host the UN climate summit in Turkey and failed to secure an agreement between nations. It’s pretty extraordinary, isn’t it? We’ve spent $150m to get Chris Bowen to Cop, to host Cop. Then we found out it was actually a co-host deal. Now we’re walking away without a deal at all. This is quite extraordin…",
       "link": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
       "image": "https://i.guim.co.uk/img/media/137309f86d6d9310dcac2f083391023259be0594/1096_0_5360_4288/master/5360.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=a25bbd7106588f7e6a86a09de4fc8b88",
       "feed_name": "The Guardian",
@@ -31,6 +45,34 @@
       "category": "World News",
       "feed_url": "https://www.theguardian.com/world/rss",
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/uk/british-shopper-discovers-20-nicholas-chevalier-painting-worth-20000-at-charity-shop-auction/articleshow/136054242.cms",
+      "title": "A British shopper paid just £20 for a painting at a charity shop, then an expert identified it as a 160-year-lost Nicholas Chevalier landscape; it is now expected to fetch up to £20,000 at a December auction",
+      "published": "2026-11-22T20:10:00+00:00",
+      "author": "TOI World Desk",
+      "description": "A British shopper found a painting attributed to 19th-century artist Nicholas Chevalier for only £20 in a charity shop. After purchase, the buyer sought an expert's opinion which confirmed the painting's significance. The artwork, named Cape Schanck, Victoria, had been lost for around 160 years. This discovery reconnects the painting with Chevalier's historical records, offering a glimpse into his artistic process.",
+      "link": "https://timesofindia.indiatimes.com/world/uk/british-shopper-discovers-20-nicholas-chevalier-painting-worth-20000-at-charity-shop-auction/articleshow/136054242.cms",
+      "image": "https://static.toiimg.com/photo/msid-136054515,imgsize-1239925.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/us/atlantas-historic-prison-farm-set-to-transform-into-public-park-and-memorial-amid-bomb-range-relocation-challenges/articleshow/136052475.cms",
+      "title": "Atlanta's abandoned prison farm, with crumbling buildings and a former zoo-animal cemetery, could become a public park and memorial; the city has unveiled plans but must first relocate a bomb range",
+      "published": "2026-11-22T20:00:00+00:00",
+      "author": "TOI World Desk",
+      "description": "Atlanta is set to transform the historic prison farm site into a public park and memorial. The project aims to preserve the history of forced labor while creating green spaces for the community. Proposed features include walking trails, a museum, and educational facilities for visitors. The city faces challenges, including relocating a bomb detonation range on the property.",
+      "link": "https://timesofindia.indiatimes.com/world/us/atlantas-historic-prison-farm-set-to-transform-into-public-park-and-memorial-amid-bomb-range-relocation-challenges/articleshow/136052475.cms",
+      "image": "https://static.toiimg.com/photo/msid-136054206,imgsize-347616.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/us/an-ohio-stepson-used-his-stepmothers-trust-to-buy-colorado-land-and-a-154000-car-for-himself-then-sought-control-of-her-affairs-an-appeals-court-rejected-his-latest-bid-to-reopen-the-guardianship-ruling/articleshow/136075260.cms",
@@ -109,7 +151,7 @@
       "author": null,
       "description": "The COP31 climate summit in Turkey has formally come to an end after countries failed to agree a deal.",
       "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d3e/live/8a730770-e6a6-11f1-af06-85d9f9869f1b.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c66/live/ad00e440-e6b2-11f1-9607-338132fd22a0.jpg",
       "feed_name": "BBC News - World",
       "feed_title": "BBC News",
       "category": "World News",
@@ -13961,48 +14003,6 @@
       "category": "World News",
       "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
       "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo#0",
-      "title": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
-      "published": "2026-11-18T07:48:18+00:00",
-      "author": null,
-      "description": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
-      "link": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b0e/live/040fc640-dd79-11f1-93e1-3b657b665bcf.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/18/world/asia/rio-tinto-papua-new-guinea-mine.html",
-      "title": "Rio Tinto to Pay $250 Million to Address Mine’s Environmental Damage",
-      "published": "2026-11-18T07:46:33+00:00",
-      "author": "Victoria Kim",
-      "description": "The landmark deal will also go toward remedying human rights problems caused by the long-closed Papua New Guinea mine.",
-      "link": "https://www.nytimes.com/2026/11/18/world/asia/rio-tinto-papua-new-guinea-mine.html",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-png-mine-mwpq/18int-png-mine-mwpq-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/uk/in-2000-roger-daltrey-helped-launch-a-concert-series-for-teenagers-with-cancer-26-years-later-150-royal-albert-hall-shows-have-raised-more-than-36-million-to-support-their-care/articleshow/135952541.cms",
-      "title": "Roger Daltrey's cancer charity concerts reach 150 shows, raising over £36 million since 2000",
-      "published": "2026-11-18T07:39:34+00:00",
-      "author": "TOI World Desk",
-      "description": "The Teenage Cancer Trust celebrated its 150th concert at London's Royal Albert Hall, raising over £36 million. Founded by Roger Daltrey in 2000, the series features numerous well-known musicians supporting young people with cancer. Performers such as Manic Street Preachers and Elbow participated in the recent program curated by Robert Smith. The charity emphasizes the importance of specialized care for patients aged 13 to 24 during treatment.",
-      "link": "https://timesofindia.indiatimes.com/world/uk/in-2000-roger-daltrey-helped-launch-a-concert-series-for-teenagers-with-cancer-26-years-later-150-royal-albert-hall-shows-have-raised-more-than-36-million-to-support-their-care/articleshow/135952541.cms",
-      "image": "https://static.toiimg.com/photo/msid-135952643,imgsize-1307343.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     }
   ]
 }
