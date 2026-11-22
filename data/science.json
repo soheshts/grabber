@@ -1,9 +1,37 @@
 {
   "category": "science",
-  "updated": "2026-11-22T17:33:06.473865+00:00",
+  "updated": "2026-11-22T18:03:21.561561+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "news714400969",
+      "title": "Atmospheric organic nitrogen emerges as a major nutrient source for global oceans",
+      "published": "2026-11-22T18:00:01+00:00",
+      "author": null,
+      "description": "A research team has quantified an important component of the global nitrogen cycle.",
+      "link": "https://phys.org/news/2026-11-atmospheric-nitrogen-emerges-major-nutrient.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hkust-co-led-study-rev.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
+      "title": "COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels",
+      "published": "2026-11-22T17:42:49+00:00",
+      "author": "Chico Harlan and Lisa Friedman",
+      "description": "European and vulnerable nations rejected a proposed agreement after Saudi Arabia and other oil producers blocked any mention of phasing out coal, oil and gas.",
+      "link": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
+      "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22cli-cop31-final3-fmcb/22cli-cop31-final3-fmcb-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Science",
+      "feed_title": "NYT > Science",
+      "category": "science",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "news714048886",
       "title": "JWST finds a possible black hole that grew faster than its host galaxy in the early universe",
@@ -17,20 +45,6 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
-      "title": "COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels",
-      "published": "2026-11-22T16:32:44+00:00",
-      "author": "Chico Harlan and Lisa Friedman",
-      "description": "European and vulnerable nations rejected a proposed agreement after Saudi Arabia and other oil producers blocked any mention of phasing out coal, oil and gas.",
-      "link": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
-      "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22cli-cop31-final3-fmcb/22cli-cop31-final3-fmcb-mediumSquareAt3X.jpg",
-      "feed_name": "NYT > Science",
-      "feed_title": "NYT > Science",
-      "category": "science",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "news714564591",
@@ -13989,20 +14003,6 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2026/11/261111005853.htm",
-      "title": "A breakthrough in magnetism could make AI chips use dramatically less energy",
-      "published": "2026-11-13T01:40:17+00:00",
-      "author": null,
-      "description": "Researchers at Brown University have overcome a major obstacle to creating ultra-low-power computer chips that could help slash the energy demands of AI. Their breakthrough eliminates a long-standing \"dead layer\" problem that causes promising materials to stop working when made extremely thin. Remarkably, the new technique not only preserves the materials' electrical and magnetic properties at nearly atomic thicknesses but also gives them enhanced magnetic capabilities",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261111005853.htm",
-      "image": "https://www.sciencedaily.com/images/1920/multiferroic-material-three-layer-system.webp",
-      "feed_name": "Latest Science News -- ScienceDaily",
-      "feed_title": "Latest Science News -- ScienceDaily",
-      "category": "science",
-      "feed_url": "https://www.sciencedaily.com/rss/all.xml",
-      "feed_icon": "https://www.sciencedaily.com/images/scidaily-logo-rss.png"
     }
   ]
 }
