@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-23T12:03:38.452709+00:00",
+  "updated": "2026-11-23T12:33:41.441222+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/gemini-replace-touchscreens-in-the-car/",
+      "title": "Gemini can replace the touchscreen menus in your car, and you may already own one",
+      "published": "2026-11-23T12:30:16+00:00",
+      "author": "Brandon Miniman",
+      "description": "Maybe the buttonless future won't be so bad.",
+      "link": "https://www.makeuseof.com/gemini-replace-touchscreens-in-the-car/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2026/11/for-crop.jpeg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://hackaday.com/?p=1429669",
+      "title": "No MicroDrive? No Problem!",
+      "published": "2026-11-23T12:00:20+00:00",
+      "author": "Jenny List",
+      "description": "The Sinclair ZX Spectrum and QL computers contained many of Sir Clive’s signature quirks, but perhaps chief among them was their take on mass storage. The Microdrive was something similar …read more",
+      "link": "https://hackaday.com/2026/11/23/no-microdrive-no-problem/",
+      "image": "https://hackaday.com/wp-content/uploads/2020/08/microdrive-featured.jpg",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/ram-shrinkflation-is-here-and-these-gadgets-already-got-hit/",
       "title": "RAM shrinkflation is here, and these 3 gadgets already got hit",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.makeuseof.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/netflix-movies-to-watch-this-week-november-9/",
-      "title": "4 exhilarating movies to watch on Netflix this week (November 9-15)",
-      "published": "2026-11-09T19:00:15+00:00",
-      "author": "T.M. Amrita",
-      "description": "Feel the rush of mystery, horror, and beyond.",
-      "link": "https://www.howtogeek.com/netflix-movies-to-watch-this-week-november-9/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/3d-netflix-logo-on-a-dark-reflective-surface-surrounded-by-swirling-red-film-strips-in-a-cinematic-setting.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/windows-11-sticky-keys-prompt-disable-option/",
-      "title": "Windows 11 finally lets you disable that annoying Sticky Keys prompt forever",
-      "published": "2026-11-09T18:40:30+00:00",
-      "author": "Jefferson Mangubat",
-      "description": "You can soon silence Sticky Keys without opening Settings.",
-      "link": "https://www.howtogeek.com/windows-11-sticky-keys-prompt-disable-option/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/lenovo-yoga-9i-keyboard.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
     }
   ]
 }
