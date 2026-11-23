@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-23T12:33:41.441222+00:00",
+  "updated": "2026-11-23T13:04:00.125383+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/override-mesh-wifi-node-selection-boost-connection/",
+      "title": "This setting lets me override my mesh Wi-Fi's decisions and my connection is better for it",
+      "published": "2026-11-23T13:00:17+00:00",
+      "author": "Robin John",
+      "description": "Sometimes, your mesh Wi-Fi needs a little help making the right connection.",
+      "link": "https://www.makeuseof.com/override-mesh-wifi-node-selection-boost-connection/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/10/tp-link-deco-mesh-router.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.makeuseof.com/nvidia-ssd-write-bug-persists-after-hotfix/",
+      "title": "Nvidia's 621.35 hotfix doesn't stop the SSD write bug from coming back",
+      "published": "2026-11-23T12:54:16+00:00",
+      "author": "Kunal K.",
+      "description": "The latest driver hotfix was supposed to fix an SSD write bug that was generate gigabytes of unnecessary writes per hour.",
+      "link": "https://www.makeuseof.com/nvidia-ssd-write-bug-persists-after-hotfix/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/kingston-nv1-ssd-muo.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/gemini-replace-touchscreens-in-the-car/",
       "title": "Gemini can replace the touchscreen menus in your car, and you may already own one",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/reasons-to-keep-your-old-gpu-right-next-to-your-new-one/",
-      "title": "5 reasons to keep your old GPU right next to your new one",
-      "published": "2026-11-09T19:30:16+00:00",
-      "author": "Sydney Butler",
-      "description": "A spare GPU can act as a silent accelerator for upscaling and frame generation, freeing your new card to render and lower latency.",
-      "link": "https://www.howtogeek.com/reasons-to-keep-your-old-gpu-right-next-to-your-new-one/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/08/two-rtx-gpus-in-server.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/nocturne-stephen-graham-apple-tv-adolescence-netflix/",
-      "title": "The star of Netflix’s biggest show of 2025 took his next show to Apple TV, and it’s just as gripping",
-      "published": "2026-11-09T19:00:16+00:00",
-      "author": "Dan Selcke",
-      "description": "Fresh off Adolescence, Stephen Graham does a 180 and creeps people out in everyone's favorite new detective series.",
-      "link": "https://www.makeuseof.com/nocturne-stephen-graham-apple-tv-adolescence-netflix/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2026/11/nocturne-4.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }

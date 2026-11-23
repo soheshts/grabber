@@ -1,9 +1,23 @@
 {
   "category": "travel",
-  "updated": "2026-11-23T12:33:41.441222+00:00",
+  "updated": "2026-11-23T13:04:00.125383+00:00",
   "count": 180,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/11/23/weather/thanksgiving-storm-updates-maps.html",
+      "title": "Thanksgiving Weather: Storm Maps and Forecast",
+      "published": "2026-11-23T12:34:58+00:00",
+      "author": "Nazaneen Ghaffar",
+      "description": "Storms on the East and West Coast could make travel difficult this week.",
+      "link": "https://www.nytimes.com/2026/11/23/weather/thanksgiving-storm-updates-maps.html",
+      "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23wea-thanksgiving-tqhf/23wea-thanksgiving-tqhf-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Travel",
+      "feed_title": "NYT > Travel",
+      "category": "travel",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "https://www.nytimes.com/2026/11/18/travel/madrid-mercados-roundup.html",
       "title": "6 Markets to Visit on Your Next Trip to Madrid",
@@ -12,20 +26,6 @@
       "description": "Follow the locals to the city’s mercados, which offer culinary delights, flamenco classes and buzzy bars, all with a side of authenticity. Here are six hot spots.",
       "link": "https://www.nytimes.com/2026/11/18/travel/madrid-mercados-roundup.html",
       "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18trav-madrid-mercados-roundup-02-wgkp/18trav-madrid-mercados-roundup-02-wgkp-mediumSquareAt3X.jpg",
-      "feed_name": "NYT > Travel",
-      "feed_title": "NYT > Travel",
-      "category": "travel",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/23/weather/thanksgiving-storm-updates-maps.html",
-      "title": "Thanksgiving Weather: Storm Maps and Forecast",
-      "published": "2026-11-23T10:30:07+00:00",
-      "author": "Nazaneen Ghaffar",
-      "description": "Storms on the East and West Coast could make travel difficult this week.",
-      "link": "https://www.nytimes.com/2026/11/23/weather/thanksgiving-storm-updates-maps.html",
-      "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23wea-thanksgiving-tqhf/23wea-thanksgiving-tqhf-mediumSquareAt3X.jpg",
       "feed_name": "NYT > Travel",
       "feed_title": "NYT > Travel",
       "category": "travel",
