@@ -1,9 +1,37 @@
 {
   "category": "World News",
-  "updated": "2026-11-23T18:32:46.950687+00:00",
+  "updated": "2026-11-23T19:02:30.666447+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/11/23/world/middleeast/netanyahu-israel-iran.html",
+      "title": "Netanyahu Wants to Attack Iran. Does That Serve Israel or Him?",
+      "published": "2026-11-23T18:54:41+00:00",
+      "author": "David M. Halbfinger and Ronen Bergman",
+      "description": "The Israeli prime minister, Benjamin Netanyahu, calls renewing strikes a matter of national security. Military analysts and opposition leaders say he’s prioritizing his own interests.",
+      "link": "https://www.nytimes.com/2026/11/23/world/middleeast/netanyahu-israel-iran.html",
+      "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23int-israel-war-photo1-kfjb/23int-israel-war-photo1-kfjb-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/23/world/europe/russia-ukraine-war-deaths.html",
+      "title": "Over 700,000 Russian Soldiers Have Died in Ukraine, Analysis Indicates",
+      "published": "2026-11-23T18:52:32+00:00",
+      "author": "Paul Sonne",
+      "description": "Hacked government data underscores the immense human cost of President Vladimir V. Putin’s war of attrition.",
+      "link": "https://www.nytimes.com/2026/11/23/world/europe/russia-ukraine-war-deaths.html",
+      "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23int-russia-war-deaths-photo-lhkt/23int-russia-war-deaths-photo-lhkt-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "https://timesofindia.indiatimes.com/world/us/a-pennsylvania-mother-left-her-real-estate-to-one-son-and-the-rest-of-her-estate-to-a-church-while-a-218891-state-care-claim-was-settled-for-about-40000-a-daughters-bid-to-remove-the-executor-has-failed/articleshow/136106900.cms",
       "title": "Executor Challenge Fails: Court rejects daughter’s bid over speculative debt; brother remains executor",
@@ -17,20 +45,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/23/world/europe/russia-ukraine-war-deaths.html",
-      "title": "Over 700,000 Russian Soldiers Have Died in Ukraine, Analysis Indicates",
-      "published": "2026-11-23T18:23:57+00:00",
-      "author": "Paul Sonne",
-      "description": "Hacked government data underscores the immense human cost of President Vladimir V. Putin’s war of attrition.",
-      "link": "https://www.nytimes.com/2026/11/23/world/europe/russia-ukraine-war-deaths.html",
-      "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23int-russia-war-deaths-photo-lhkt/23int-russia-war-deaths-photo-lhkt-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/uk/a-british-couple-in-their-70s-fought-eviction-from-a-housing-association-flat-over-electricity-charges-after-winning-their-appeal-a-high-court-judge-allowed-1488-they-had-borrowed-for-ai-assisted-legal-research/articleshow/136095855.cms",
@@ -339,20 +353,6 @@
       "category": "World News",
       "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/23/world/middleeast/netanyahu-israel-iran.html",
-      "title": "Netanyahu Wants to Attack Iran. Does That Serve Israel or Him?",
-      "published": "2026-11-23T17:12:13+00:00",
-      "author": "David M. Halbfinger and Ronen Bergman",
-      "description": "The Israeli prime minister, Benjamin Netanyahu calls renewing strikes a matter of national security. Military analysts and opposition leaders say he’s prioritizing his own interests.",
-      "link": "https://www.nytimes.com/2026/11/23/world/middleeast/netanyahu-israel-iran.html",
-      "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23int-israel-war-photo1-kfjb/23int-israel-war-photo1-kfjb-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/uk/british-asian-surgeon-usman-butt-wins-101338-compensation-after-nhs-trust-found-guilty-of-race-discrimination/articleshow/136109782.cms",

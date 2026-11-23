@@ -1,9 +1,65 @@
 {
   "category": "technology",
-  "updated": "2026-11-23T18:32:46.950687+00:00",
+  "updated": "2026-11-23T19:02:30.666447+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.theverge.com/?p=1040265",
+      "title": "GTA VI’s pretentious puzzler makes indie developers feel ‘part of larger culture’",
+      "published": "2026-11-23T18:55:06+00:00",
+      "author": "Jay Peters",
+      "description": "One of the most intriguing games of the year is called Tenebrae Lux. It's a moody, black-and-white title with obtuse puzzles and a main character that constantly narrates to himself with dramatic language. Its credits attribute pretty much everything to a developer named Johannes Zuch. It's generated a lot of discussion for seemingly mocking games […]",
+      "link": "https://www.theverge.com/games/1040265/gta-vi-tenebrae-lux-indie-developers",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/1a2099a4ca189-screenshotUrl.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "feed_name": "The Verge -  All Posts",
+      "feed_title": "The Verge",
+      "category": "technology",
+      "feed_url": "https://www.theverge.com/rss/index.xml",
+      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
+    },
+    {
+      "id": "https://www.theverge.com/?p=1040122",
+      "title": "Peacock subscriptions are up to 66 percent off for Black Friday",
+      "published": "2026-11-23T18:33:29+00:00",
+      "author": "Brad Bourque",
+      "description": "Thanks to Black Friday, you have two options to save on your Peacock subscription. You can now sign up for the ad-supported Select plan, usually $8.99 per month or $89.99 per year, for $2.99 for the first three months or $29.99 for the first year. The ad-supported Premium plan — which includes live sports, movies, […]",
+      "link": "https://www.theverge.com/gadgets/1040122/peacock-subscription-black-friday-2026-deal-sale",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK105_peacock_02-1.webp?quality=90&strip=all&crop=0,0,100,100",
+      "feed_name": "The Verge -  All Posts",
+      "feed_title": "The Verge",
+      "category": "technology",
+      "feed_url": "https://www.theverge.com/rss/index.xml",
+      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
+    },
+    {
+      "id": "TheNextWeb=34b207d61ed443cdb65292bf62545e69",
+      "title": "DeepMind’s AI agents found cheaper quantum algorithms, and proved them",
+      "published": "2026-11-23T18:32:46+00:00",
+      "author": "Ana Maria Constantin",
+      "description": "Google DeepMind and Google Quantum AI used teams of Gemini 4 agents to find more efficient quantum algorithms for fusion, chemistry and drug-design problems. Each result was proved correct in the Lean theorem prover, because the circuits are too large to test on today’s computers. Google DeepMind says teams of AI agents have found faster […] This story continues at The Next Web",
+      "link": "https://thenextweb.com/news/google-deepmind-gemini-agents-quantum-algorithms-lean",
+      "image": "https://media.thenextweb.com/2026/11/google-deepmind-quantum-algorithms-qubit-sphere.avif",
+      "feed_name": "The Next Web",
+      "feed_title": "The Next Web",
+      "category": "technology",
+      "feed_url": "https://thenextweb.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
+    {
+      "id": "yt:video:wV3MCKCFouk",
+      "title": "Could a show like The Office survive in 2026? #Vergecast",
+      "published": "2026-11-23T18:31:11+00:00",
+      "author": "The Verge",
+      "description": "Could a show like The Office survive in 2026? Mike Schur joins The Vergecast to discuss the kinds of shows getting made in 2026. Subscribe: http://goo.gl/G5RXGs Like The Verge on Facebook: https://goo.gl/2P1aGc Follow on Twitter: https://goo.gl/XTWX61 Follow on Instagram: https://goo.gl/7ZeLv Watch The Vergecast on YouTube: https://bit.ly/40RFRkg The Vergecast Podcast: https://bit.ly/3WQDexZ Decoder with Nilay Patel: http://apple.co/3v29nDc More about our podcasts: https://www.theverge.com/podc…",
+      "link": "https://www.youtube.com/shorts/wV3MCKCFouk",
+      "image": "https://i4.ytimg.com/vi/wV3MCKCFouk/hqdefault.jpg",
+      "feed_name": "The Verge",
+      "feed_title": "The Verge",
+      "category": "technology",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?user=TheVerge",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64"
+    },
     {
       "id": "https://www.theverge.com/?p=1040255",
       "title": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
@@ -17,6 +73,20 @@
       "category": "technology",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
+    },
+    {
+      "id": "https://www.engadget.com/2325472/uber-now-lets-riders-request-drivers-who-are-recording-their-trips/",
+      "title": "Uber now lets riders request drivers who are recording their trips",
+      "published": "2026-11-23T18:24:49+00:00",
+      "author": "Jackson Chen",
+      "description": "Uber's Recorded Rides option is rolling out to Baltimore, Raleigh, Indianapolis and St. Louis first.",
+      "link": "https://www.engadget.com/2325472/uber-now-lets-riders-request-drivers-who-are-recording-their-trips/",
+      "image": "https://www.engadget.com/img/gallery/uber-now-lets-riders-request-drivers-who-are-recording-their-trips/l-intro-1795457566.jpg",
+      "feed_name": "Engadget",
+      "feed_title": "Engadget - Technology News & Expert Reviews",
+      "category": "technology",
+      "feed_url": "https://www.engadget.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
     },
     {
       "id": "https://www.engadget.com/2320174/how-to-clear-cache-fire-tv/",
@@ -73,6 +143,20 @@
       "category": "technology",
       "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
       "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
+    },
+    {
+      "id": "01M84QGZMZSTTXWZGE8KA0V81G",
+      "title": "If You Loved 'The Diplomat,' There's One Movie You Need to Watch Next",
+      "published": "2026-11-23T18:00:00+00:00",
+      "author": "Jeff Somers",
+      "description": "Seeking more international intrigue involving messy, fascinating characters? There’s one movie you need to watch.",
+      "link": "https://lifehacker.com/entertainment/one-movie-for-fans-of-the-diplomat-to-watch-next?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M84QGZMZSTTXWZGE8KA0V81G/hero-image.jpg",
+      "feed_name": "Lifehacker",
+      "feed_title": "Lifehacker",
+      "category": "technology",
+      "feed_url": "https://lifehacker.com/rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=lifehacker.com&sz=64"
     },
     {
       "id": "TheNextWeb=804de791900b86244d5296d6ce5399a5",
@@ -930,7 +1014,7 @@
     },
     {
       "id": "https://www.theverge.com/?p=1039978",
-      "title": "Apple’s AirPods Pro 3 are 40 percent off ahead of Black Friday",
+      "title": "Apple’s AirPods Pro 3 are a whopping $100 off ahead of Black Friday",
       "published": "2026-11-23T15:00:44+00:00",
       "author": "Cameron Faulkner",
       "description": "The AirPods Pro 3 are cheaper than ever. Apple’s latest flagship wireless earbuds dropped this morning to just $149 at Amazon, Best Buy and Walmart. Originally, they sold for $249, but have been commonly available for $199 outside the range of deal events. The best price that we’ve previously seen was $169, which is what […]",
@@ -13919,90 +14003,6 @@
       "category": "technology",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
-    },
-    {
-      "id": "https://slashdot.org/story/26/11/18/026229/satya-nadella-says-hes-agi-pilled-now?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "title": "Satya Nadella Says He's AGI-Pilled Now",
-      "published": "2026-11-18T16:00:00+00:00",
-      "author": "BeauHD",
-      "description": "An anonymous reader quotes a report from The Verge: Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI-pilled in the sense that at an economy level, what is the political economy's organization around AGI?\" he asked at a roundtable discussion following his Microsoft Ignite keynote at the Chase Center in San Francisco. But Nadella doesn't think front…",
-      "link": "https://slashdot.org/story/26/11/18/026229/satya-nadella-says-hes-agi-pilled-now?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-      "feed_name": "Slashdot",
-      "feed_title": "Slashdot",
-      "category": "technology",
-      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
-    },
-    {
-      "id": "yt:video:yX9opMmNLnE",
-      "title": "Meet Beni: Your Camera Robot",
-      "published": "2026-11-18T15:55:22+00:00",
-      "author": "Unbox Therapy",
-      "description": "Beni from Mondo Robotics is an autonomous tracking camera robot with a 4K camera, self-balancing capabilities. Check it out here: https://www.mondorobotics.com/JACK36939 Thanks to @mondorobotics for partnering on this video #BeniRobot #Beni #CameraRobot #MondoRobotics #Mondo",
-      "link": "https://www.youtube.com/shorts/yX9opMmNLnE",
-      "image": "https://i2.ytimg.com/vi/yX9opMmNLnE/hqdefault.jpg",
-      "feed_name": "Unbox Therapy",
-      "feed_title": "Unbox Therapy",
-      "category": "technology",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?user=unboxtherapy",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64"
-    },
-    {
-      "id": "TheNextWeb=44f23cd11a4f4dcd510caa4035a13367",
-      "title": "The independence paradox: why music’s new era may require artists to rethink rights and revenue",
-      "published": "2026-11-18T15:54:44+00:00",
-      "author": "Callum Turner",
-      "description": "Releasing music has become increasingly accessible. Independent artists can distribute recordings globally, develop audiences, and explore creative opportunities with tools that may once have required substantial financial backing. The scale of this activity is reflected in the volume of new music entering the digital ecosystem. In September 2026, Billboard, citing Luminate CEO Rob Jonas, reported […] This story continues at The Next Web",
-      "link": "https://thenextweb.com/news/independent-artists-music-rights-royalties-trombin",
-      "image": "https://media.thenextweb.com/2026/11/adriel-trombin-studio-portrait.avif",
-      "feed_name": "The Next Web",
-      "feed_title": "The Next Web",
-      "category": "technology",
-      "feed_url": "https://thenextweb.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
-    },
-    {
-      "id": "TheNextWeb=923732bc2a869fb5343909709f174a34",
-      "title": "Netflix to bid for US rights to the 2030 World Cup, The Guardian reports",
-      "published": "2026-11-18T15:54:37+00:00",
-      "author": "Cristian Dina",
-      "description": "Netflix will bid for the US rights to the 2030 World Cup, multiple sources told The Guardian. First-round offers are due on Thursday, Matt Hughes reported. Experts told him the auction could fetch $1.5bn to $2bn. TNW has not independently verified the report. “I would put money on Netflix to win: they will pay whatever […] This story continues at The Next Web",
-      "link": "https://thenextweb.com/news/netflix-2030-world-cup-us-rights-bid",
-      "image": "https://media.thenextweb.com/2026/10/netflix-logo-sign.avif",
-      "feed_name": "The Next Web",
-      "feed_title": "The Next Web",
-      "category": "technology",
-      "feed_url": "https://thenextweb.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
-    },
-    {
-      "id": "TheNextWeb=c41ad03d24c4c2b85236ddbccf893c91",
-      "title": "Disney’s new Star Wars animatronics use AWS AI to react to guests",
-      "published": "2026-11-18T15:49:02+00:00",
-      "author": "Ana Maria Constantin",
-      "description": "Disney has built three Star Wars animatronics that react to guests and to each other with no one controlling them. Amazon Web Services supplies the AI. Walt Disney Imagineering named the three Anzellans Vilo Vele, Kado Bre’a and Jibu Bre’a in a post on Wednesday. Disney’s Audio-Animatronics have run on fixed, scripted loops since the […] This story continues at The Next Web",
-      "link": "https://thenextweb.com/news/star-wars-animatronics-disney-aws-ai-anzellans",
-      "image": "https://media.thenextweb.com/2026/11/vilo-vele-anzellan-audio-animatronic-disney-imagineering.avif",
-      "feed_name": "The Next Web",
-      "feed_title": "The Next Web",
-      "category": "technology",
-      "feed_url": "https://thenextweb.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
-    },
-    {
-      "id": "05uVj5U8cRSPzz3k8ZA67QM",
-      "title": "All the best places to click on when you want to get off",
-      "published": "2026-11-18T15:47:00+00:00",
-      "author": null,
-      "description": "Looking for something new? Here's a roundup of 10 great adult entertainment sites for folks with all different kinds of interests.",
-      "link": "https://mashable.com/article/best-porn",
-      "image": "https://helios-i.mashable.com/imagery/articles/05uVj5U8cRSPzz3k8ZA67QM/hero-image.png",
-      "feed_name": "Mashable",
-      "feed_title": "Mashable",
-      "category": "technology",
-      "feed_url": "http://feeds.mashable.com/Mashable",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
     }
   ]
 }
