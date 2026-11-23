@@ -1,9 +1,37 @@
 {
   "category": "World News",
-  "updated": "2026-11-23T09:03:56.874836+00:00",
+  "updated": "2026-11-23T09:32:49.130203+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "108557231",
+      "title": "Anthropic, Nvidia shares rise in premarket trading after major tech selloff",
+      "published": "2026-11-23T09:24:21+00:00",
+      "author": null,
+      "description": "The Nasdaq slid 10% last week in its worst week since the early days of Covid in 2020.",
+      "link": "https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108556476-1795186493317-gettyimages-2305372520-AFP_D8394NF.jpeg?v=1795186549&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmvg2qnn95vro#0",
+      "title": "Kenya and DR Congo agree to restore ties after tensions over conflict",
+      "published": "2026-11-23T08:53:01+00:00",
+      "author": null,
+      "description": "The two leaders committed to upholding sovereignty and \"non-interference in the internal affairs of states\".",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg2qnn95vro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef67/live/41b58d30-e716-11f1-9c93-b5d142ad154c.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
     {
       "id": "108555034",
       "title": "Forget Anthropic: In Europe, the IPO hype is about a blue lagoon",
@@ -375,7 +403,7 @@
       "author": null,
       "description": "The COP31 summit in Antalya was the longest-running climate talks in UN history.",
       "link": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ce9/live/11961550-e704-11f1-8d78-e5a497181e56.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55f7/live/e38ff1a0-e71f-11f1-99b6-a35a62fa4264.jpg",
       "feed_name": "BBC News - World",
       "feed_title": "BBC News",
       "category": "World News",
@@ -627,7 +655,7 @@
       "author": null,
       "description": "The prime minister of Australia, which co-hosted COP31, attributed the failure to \"difficult geopolitical times\".",
       "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66f2/live/6fcf3080-e708-11f1-99a1-253766e7ad8b.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5fe/live/bf5d6f10-e71f-11f1-99a1-253766e7ad8b.jpg",
       "feed_name": "BBC News - World",
       "feed_title": "BBC News",
       "category": "World News",
@@ -1868,6 +1896,20 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cj752ddve27ko#0",
+      "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
+      "published": "2026-11-22T17:18:26+00:00",
+      "author": null,
+      "description": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment.",
+      "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6f9/live/a55b16b0-e66d-11f1-9e24-791c5321ff0f.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cj752ddve27ko#1",
       "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
       "published": "2026-11-22T17:18:26+00:00",
       "author": null,
@@ -4497,6 +4539,20 @@
       "category": "World News",
       "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
       "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
+      "id": "108556786",
+      "title": "S&P 500 correction: Five forces behind the market sell-off",
+      "published": "2026-11-21T11:29:25+00:00",
+      "author": null,
+      "description": "The S&P 500 and Dow Jones Industrial Average closed in correction territory, off 10% from their records. The Nasdaq Composite lost its gain for the year.",
+      "link": "https://www.cnbc.com/2026/11/20/sp-500-correction-market-sell-off.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108554307-17950192062026-11-18t162223z_189106541_rc2dqoahnid0_rtrmadp_0_usa-stocks.jpeg?v=1795019320&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/europe/italys-ex-police-chief-dies-amid-probe-into-mafia-case-cover-up-suicide-suspected/articleshow/136052205.cms",
@@ -13947,62 +14003,6 @@
       "category": "World News",
       "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/us/arizona-parents-whose-son-was-diagnosed-with-a-rare-genetic-disease-that-could-take-away-his-eyesight-have-now-committed-7-1-million-to-research-offering-new-hope-for-restoring-vision/articleshow/135966700.cms",
-      "title": "Arizona parents commit $7.1 million to research after son's rare eye disease diagnosis",
-      "published": "2026-11-18T16:08:49+00:00",
-      "author": "TOI World Desk",
-      "description": "",
-      "link": "https://timesofindia.indiatimes.com/world/us/arizona-parents-whose-son-was-diagnosed-with-a-rare-genetic-disease-that-could-take-away-his-eyesight-have-now-committed-7-1-million-to-research-offering-new-hope-for-restoring-vision/articleshow/135966700.cms",
-      "image": "https://static.toiimg.com/photo/msid-135967115,imgsize-952866.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmy49873dn95o#0",
-      "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
-      "published": "2026-11-18T16:05:32+00:00",
-      "author": null,
-      "description": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January.",
-      "link": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/128f/live/04ac0df0-e366-11f1-9f51-4bfc31543510.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/real-estate/news/lady-gagas-former-new-york-penthouse-where-carmelo-anthony-and-tracy-morgan-also-once-lived-hits-the-market-for-7-million-the-3700-square-foot-residence-features-three-bedrooms/articleshow/135967116.cms",
-      "title": "Lady Gaga’s former NYC penthouse, also home to Carmelo Anthony, Tracy Morgan, listed for $7 million",
-      "published": "2026-11-18T15:54:41+00:00",
-      "author": "TOI Real Estate Desk",
-      "description": "Lady Gaga’s former New York City penthouse has hit the market for $6.995 million. The 3,700-square-foot luxury duplex, which was also once home to Carmelo Anthony and Tracy Morgan, features three bedrooms, a chef’s kitchen and a sprawling terrace offering stunning city views. The property is located in the iconic Hit Factory Condominium.",
-      "link": "https://timesofindia.indiatimes.com/real-estate/news/lady-gagas-former-new-york-penthouse-where-carmelo-anthony-and-tracy-morgan-also-once-lived-hits-the-market-for-7-million-the-3700-square-foot-residence-features-three-bedrooms/articleshow/135967116.cms",
-      "image": "https://static.toiimg.com/photo/msid-135967210,imgsize-84969.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/us/pearl-harbor-survivor-gebhard-galle-who-rescued-four-sailors-from-sinking-ship-dies-at-105/articleshow/135966934.cms",
-      "title": "Pearl Harbor survivor Gebhard Galle, who rescued 4 sailors from sinking ship, dies at 105",
-      "published": "2026-11-18T15:40:57+00:00",
-      "author": "Aashish Vashistha",
-      "description": "",
-      "link": "https://timesofindia.indiatimes.com/world/us/pearl-harbor-survivor-gebhard-galle-who-rescued-four-sailors-from-sinking-ship-dies-at-105/articleshow/135966934.cms",
-      "image": "https://static.toiimg.com/photo/msid-135967037,imgsize-77696.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     }
   ]
 }
