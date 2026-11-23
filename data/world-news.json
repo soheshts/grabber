@@ -1,13 +1,27 @@
 {
   "category": "World News",
-  "updated": "2026-11-23T02:33:04.892029+00:00",
+  "updated": "2026-11-23T03:03:52.248207+00:00",
   "count": 1000,
   "summary": null,
   "items": [
     {
+      "id": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo#0",
+      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+      "published": "2026-11-23T02:59:35+00:00",
+      "author": null,
+      "description": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+      "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a198/live/5b2f71d0-e6ae-11f1-a094-5fdc692f3e33.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
       "id": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
       "title": "Australian politics live: PM’s staff numbers exceed crossbench’s allocation combined; Minns ends presser after heckling",
-      "published": "2026-11-23T02:19:04+00:00",
+      "published": "2026-11-23T02:53:53+00:00",
       "author": "Krishani Dhanji",
       "description": "Get our breaking news email , free app or daily news podcast ‘Very difficult to bridge that divide’: Murray Watt Cabinet minister Murray Watt says it’s increasingly difficult to bridge the divide between nations on climate policy after a frustrating Cop summit that didn’t reach a final agreement. It’s obviously a very deeply disappointing outcome that the cover decision was not agreed to by all nations. I think what this shows is a very challenging international environment at the moment to rea…",
       "link": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
@@ -17,6 +31,34 @@
       "category": "World News",
       "feed_url": "https://www.theguardian.com/world/rss",
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
+    {
+      "id": "https://www.theguardian.com/australia-news/2026/nov/23/bachelor-sam-wood-domestic-violence-charges-mediation-ntwnfb",
+      "title": "Former Bachelor star Sam Wood seeking mediation amid DV charges for allegedly strangling wife",
+      "published": "2026-11-23T02:40:33+00:00",
+      "author": "Australian Associated Press",
+      "description": "Lawyer Brad Hill seeks two-week adjournment on Monday for mediation, which can only occur if alleged victim consents Get our breaking news email , free app or daily news podcast Former reality TV star Sam Wood is seeking mediation amid his serious domestic violence charges for allegedly strangling his wife. The Melbourne-based fitness influencer has made the request days after his distressed prison call, asking to speak to his wife, was heard in court. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/23/bachelor-sam-wood-domestic-violence-charges-mediation-ntwnfb",
+      "image": "https://i.guim.co.uk/img/media/1d82fb024ed7d912bb4fc5f2d3293dc1ca863ebc/0_0_1333_1065/master/1333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=77e858badd0055ae7a1986710cb2e554",
+      "feed_name": "The Guardian",
+      "feed_title": "World news | The Guardian",
+      "category": "World News",
+      "feed_url": "https://www.theguardian.com/world/rss",
+      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/rest-of-world/meet-melody-silva-the-17-year-old-canadian-student-who-made-a-documentary-on-fish-farming-and-wild-salmon-interviewed-indigenous-elders-and-used-school-performances-to-bring-climate-concerns-to-a-wider-audience/articleshow/136031237.cms",
+      "title": "17-year-old Canadian student directed film and used art for climate awareness",
+      "published": "2026-11-23T02:35:00+00:00",
+      "author": "TOI World Desk",
+      "description": "",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/meet-melody-silva-the-17-year-old-canadian-student-who-made-a-documentary-on-fish-farming-and-wild-salmon-interviewed-indigenous-elders-and-used-school-performances-to-bring-climate-concerns-to-a-wider-audience/articleshow/136031237.cms",
+      "image": "https://static.toiimg.com/photo/msid-136031395,imgsize-125738.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/south-asia/avalanche-snow-and-more-flood-risk-strong-el-nio-to-shape-wetter-winter-across-hindu-kush-himalaya/articleshow/136086949.cms",
@@ -179,7 +221,7 @@
       "author": null,
       "description": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
       "link": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2aab/live/8ca719f0-e6b0-11f1-b45e-bf1e220bd648.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7583/live/ce5448a0-e6e7-11f1-99b6-a35a62fa4264.jpg",
       "feed_name": "BBC News - World",
       "feed_title": "BBC News",
       "category": "World News",
@@ -227,6 +269,20 @@
       "category": "World News",
       "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "108555872",
+      "title": "3 big things we're watching in the market this Thanksgiving week",
+      "published": "2026-11-23T00:42:54+00:00",
+      "author": null,
+      "description": "Can the AI trade rebound? Plus, a big week for retail activity and Fed policy discussion.",
+      "link": "https://www.cnbc.com/investingclub/2026/11/22/3-big-things-were-watching-in-the-market-this-thanksgiving-week.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108342818-1785446867713-gettyimages-2288353363-6k4a1338_tvwq6pxf.jpeg?v=1785447011&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo#1",
@@ -521,20 +577,6 @@
       "category": "World News",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo#0",
-      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-      "published": "2026-11-22T20:28:09+00:00",
-      "author": null,
-      "description": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
-      "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a198/live/5b2f71d0-e6ae-11f1-a094-5fdc692f3e33.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/us-streamers/kick-streamer-costakid-sparks-controversy-after-attacking-woman-in-viral-livestream-clip/articleshow/136083234.cms",
@@ -969,6 +1011,20 @@
       "category": "World News",
       "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "108557052",
+      "title": "Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages",
+      "published": "2026-11-22T17:14:03+00:00",
+      "author": null,
+      "description": "Clayton’s warning comes ahead of Thanksgiving travel, after separate outages disrupted air travel, Microsoft 365 and some bank transactions.",
+      "link": "https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108554284-1795017875830-gettyimages-2305725511-_s019615_hvtmmvsn.jpeg?v=1795017895&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/us/four-new-york-brothers-ran-a-family-farm-together-but-their-breakup-sparked-a-fight-over-fields-and-solar-income-an-appeals-court-upheld-one-brothers-30-acres-payments-tied-to-20-more-and-a-disputed-access-ruling/articleshow/136076039.cms",
@@ -13947,62 +14003,6 @@
       "category": "World News",
       "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo#1",
-      "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
-      "published": "2026-11-18T10:23:57+00:00",
-      "author": null,
-      "description": "Confirmation of Mary Peltola's victory caps of the party's rout of the Republicans in the midterms Senate election.",
-      "link": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f32/live/4c690550-e33c-11f1-99b6-a35a62fa4264.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/18/world/asia/trump-marcos-philippines-fried-chicken-jollibee.html",
-      "title": "Trump and Marcos Share a Moment Over Jollibee Fried Chicken",
-      "published": "2026-11-18T10:21:51+00:00",
-      "author": "Francesca Regalado",
-      "description": "President Trump’s host in Manila put in a late-night order from the Filipino fast-food chain Jollibee for the American leader.",
-      "link": "https://www.nytimes.com/2026/11/18/world/asia/trump-marcos-philippines-fried-chicken-jollibee.html",
-      "image": "https://static01.nyt.com/images/2026/12/17/multimedia/17trump-summits-fast-food-jgwq/17trump-summits-fast-food-jgwq-mediumSquareAt3X-v2.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/rest-of-world/18-year-old-australian-pilot-rose-donald-flew-solo-around-the-country-for-40-days-covering-15000km-and-raising-about-80000-to-help-seriously-ill-children-reach-specialist-care/articleshow/135955761.cms",
-      "title": "18-y-o pilot Rose Donald flies 15,000km solo, raising $80,000 for sick children",
-      "published": "2026-11-18T10:20:00+00:00",
-      "author": "TOI World Desk",
-      "description": "In an inspiring feat, 18-year-old Rose Donald from Melbourne completed a stunning 40-day solo journey flying around Australia. Covering roughly 15,000 kilometers and spending 100 hours airborne, she raised about $80,000 for the charity Little Wings, which aids children battling severe illnesses. Balancing her schoolwork, Rose completed her flight in 25 legs. With aspirations in aviation, she is enhancing her flying skills and boosting her confidence.",
-      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/18-year-old-australian-pilot-rose-donald-flew-solo-around-the-country-for-40-days-covering-15000km-and-raising-about-80000-to-help-seriously-ill-children-reach-specialist-care/articleshow/135955761.cms",
-      "image": "https://static.toiimg.com/photo/msid-135955880,imgsize-943221.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/us/a-west-virginia-woman-lost-data-when-a-replacement-laptop-failed-after-the-company-missed-her-lawsuit-for-18-months-the-states-top-court-left-15507-92-in-compensatory-damages-intact/articleshow/135957803.cms",
-      "title": "WV woman wins damages after laptop data loss and 18-month company default",
-      "published": "2026-11-18T10:15:00+00:00",
-      "author": "TOI World Desk",
-      "description": "",
-      "link": "https://timesofindia.indiatimes.com/world/us/a-west-virginia-woman-lost-data-when-a-replacement-laptop-failed-after-the-company-missed-her-lawsuit-for-18-months-the-states-top-court-left-15507-92-in-compensatory-damages-intact/articleshow/135957803.cms",
-      "image": "https://static.toiimg.com/photo/msid-135958029,imgsize-773747.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     }
   ]
 }
