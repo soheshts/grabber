@@ -1,9 +1,37 @@
 {
   "category": "technology",
-  "updated": "2026-11-23T09:32:49.130203+00:00",
+  "updated": "2026-11-23T10:03:19.532053+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "TheNextWeb=d099fe8f5b69a565410739cf82f429ee",
+      "title": "Canada becomes the 25th ally to back the NATO Innovation Fund, with €64.6m",
+      "published": "2026-11-23T09:49:52+00:00",
+      "author": "Cristian Dina",
+      "description": "Canada is joining the NATO Innovation Fund, becoming the 25th NATO ally to back the venture capital fund. The government is committing €64.59m, about CA$100m, the fund said in an announcement on 21 November. The Business Development Bank of Canada (BDC) will hold and manage the stake. The new money takes total commitments to the […] This story continues at The Next Web",
+      "link": "https://thenextweb.com/news/canada-joins-nato-innovation-fund-25th-ally-bdc",
+      "image": "https://media.thenextweb.com/2026/11/david-mcguinty-podium-canadian-flags-speech.avif",
+      "feed_name": "The Next Web",
+      "feed_title": "The Next Web",
+      "category": "technology",
+      "feed_url": "https://thenextweb.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
+    {
+      "id": "https://www.engadget.com/2324629/amazon-resorts-to-package-stickers-in-its-fight-against-nyc-proposed-delivery-law/",
+      "title": "Amazon resorts to package stickers in its fight against NYC's proposed delivery law",
+      "published": "2026-11-23T09:35:53+00:00",
+      "author": "Steve Dent",
+      "description": "In its latest salvo against New York City's Delivery Protection Act, Amazon is trying to win over residents with a new tactic.",
+      "link": "https://www.engadget.com/2324629/amazon-resorts-to-package-stickers-in-its-fight-against-nyc-proposed-delivery-law/",
+      "image": "https://www.engadget.com/img/gallery/amazon-resorts-to-package-stickers-in-its-fight-against-nycs-proposed-delivery-law/l-intro-1795426294.jpg",
+      "feed_name": "Engadget",
+      "feed_title": "Engadget - Technology News & Expert Reviews",
+      "category": "technology",
+      "feed_url": "https://www.engadget.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
     {
       "id": "TheNextWeb=5c2ac7764cb0f6f48a0b15c164033c57",
       "title": "Mass General Brigham spinout Aevius raises $22m to make medicine computable",
@@ -13975,34 +14003,6 @@
       "category": "technology",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
-    },
-    {
-      "id": "01M7JZAZ7DH34W0X6VX6TSD7S2",
-      "title": "The Out-of-Touch Adults' Guide to Kid Culture: Looksmaxxing With Dangerous Drugs",
-      "published": "2026-11-17T22:00:51+00:00",
-      "author": "Stephen Johnson",
-      "description": "These aren't your grandpa's steroids.",
-      "link": "https://lifehacker.com/entertainment/looksmaxxing-with-dangerous-drugs-current-trends-explained?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M7JZAZ7DH34W0X6VX6TSD7S2/hero-image.jpg",
-      "feed_name": "Lifehacker",
-      "feed_title": "Lifehacker",
-      "category": "technology",
-      "feed_url": "https://lifehacker.com/rss",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=lifehacker.com&sz=64"
-    },
-    {
-      "id": "https://it.slashdot.org/story/26/11/17/2035243/optimizely-hack-turns-worlds-biggest-websites-into-malware-dispensers?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "title": "Optimizely Hack Turns World's Biggest Websites Into Malware Dispensers",
-      "published": "2026-11-17T22:00:00+00:00",
-      "author": "BeauHD",
-      "description": "PattonPending writes: As reported by The Register, Zoom, the BBC, CNN, HSBC, and numerous other websites briefly served malware on November 16 after an attacker exploited Optimizely's \"Experiments\" feature to inject JavaScript into their pages through Optimizely's CDN. The malware replaced cryptocurrency addresses, attempted to steal credit card information and cookies, and sought to compromise iOS devices. Websites belonging to at least 178 organizations were affected via the \"OPTIMJACK\" vulne…",
-      "link": "https://it.slashdot.org/story/26/11/17/2035243/optimizely-hack-turns-worlds-biggest-websites-into-malware-dispensers?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-      "feed_name": "Slashdot",
-      "feed_title": "Slashdot",
-      "category": "technology",
-      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
     }
   ]
 }
