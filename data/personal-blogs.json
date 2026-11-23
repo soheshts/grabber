@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-23T16:03:16.923535+00:00",
-  "count": 447,
+  "updated": "2026-11-23T16:32:43.782088+00:00",
+  "count": 448,
   "summary": null,
   "items": [
     {
@@ -115,6 +115,20 @@
       "category": "personal blogs",
       "feed_url": "https://paulrobertlloyd.com/feed.xml",
       "feed_icon": "/assets/icons/icon-192-any.png"
+    },
+    {
+      "id": "https://meiert.com/blog/sparklines-with-sparkle-macsparkline/",
+      "title": "Generate Sparklines With Sparkle MacSparkline",
+      "published": "2026-11-22T23:00:00+00:00",
+      "author": null,
+      "description": "An easy-to-use helper to manually and programmatically draw simple SVG line charts.",
+      "link": "https://meiert.com/blog/sparklines-with-sparkle-macsparkline/",
+      "image": "https://d3rdtowr0c5lpf.cloudfront.net/media/social.png",
+      "feed_name": "Blog (Web Development, Mostly) · Jens Oliver Meiert",
+      "feed_title": "Jens Oliver Meiert · Code Optimization, Digital Defense, Models of Reality",
+      "category": "personal blogs",
+      "feed_url": "https://meiert.com/en/feed/",
+      "feed_icon": "https://meiert.com/media/social.png"
     },
     {
       "id": "https://thomasrigby.com/posts/2026-w47/",
