@@ -1,9 +1,51 @@
 {
   "category": "space",
-  "updated": "2026-11-23T05:33:04.139263+00:00",
-  "count": 497,
+  "updated": "2026-11-23T06:03:18.861690+00:00",
+  "count": 500,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.theguardian.com/science/2026/nov/23/starwatch-a-rare-chance-to-observe-elusive-mercury",
+      "title": "Starwatch: a rare chance to observe elusive Mercury",
+      "published": "2026-11-23T06:00:49+00:00",
+      "author": "Stuart Clark",
+      "description": "Being so close to the sun, the smallest planet in the solar system is also one of the most difficult to spot This week offers a good opportunity to spot Mercury, the smallest planet in the solar system and one of the most difficult to observe. On 20 November, it reached “greatest western elongation”, the point at which it appears farthest from the sun in the morning sky. The planet remains well placed for observation over the next few mornings. The chart shows the view looking east-south-east f…",
+      "link": "https://www.theguardian.com/science/2026/nov/23/starwatch-a-rare-chance-to-observe-elusive-mercury",
+      "image": "https://i.guim.co.uk/img/media/254cd19592f8ea2733e790b8c7c56e1d65c2adf0/401_5_1206_966/master/1206.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=61e87910e9f328c8f206f30499359dbc",
+      "feed_name": "Space | The Guardian",
+      "feed_title": "Space | The Guardian",
+      "category": "space",
+      "feed_url": "https://www.theguardian.com/science/space/rss",
+      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
+    {
+      "id": "https://science.nasa.gov/image-article/apod-2026-november-23-the-emergence-of-dark-nebula-lynds-1251/",
+      "title": "APOD: 2026 November 23 – The Emergence of Dark Nebula Lynds 1251",
+      "published": "2026-11-23T05:05:00+00:00",
+      "author": null,
+      "description": "APOD Science APOD APOD: 2026 November 23 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Emergence […]",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-23-the-emergence-of-dark-nebula-lynds-1251/",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Ldn1251Comparison_Cruz_2160.jpg?w=2048&h=2048&fit=clip",
+      "feed_name": "NASA Breaking News",
+      "feed_title": "NASA",
+      "category": "space",
+      "feed_url": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.nasa.gov&sz=64"
+    },
+    {
+      "id": "https://science.nasa.gov/earth/earth-observatory/laser-focus-at-the-top-of-the-world/",
+      "title": "Laser Focus at the Top of the World",
+      "published": "2026-11-23T05:01:00+00:00",
+      "author": null,
+      "description": "A next-generation geodetic instrument developed by NASA, part of a network that helps measure satellites’ orbits and the planet’s shape, has debuted in Svalbard, Norway.",
+      "link": "https://science.nasa.gov/earth/earth-observatory/laser-focus-at-the-top-of-the-world/",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/laser-focus-at-the-top-of-the-world/svalbardzm_oli2_20260730.jpg?w=1440&h=960&fit=clip",
+      "feed_name": "NASA Breaking News",
+      "feed_title": "NASA",
+      "category": "space",
+      "feed_url": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.nasa.gov&sz=64"
+    },
     {
       "id": "oaMrJVneqLBTjdZkuAYtk6",
       "title": "Watch live today: Amazon launching 1st batch of internet satellites since Vulcan Centaur failure",
