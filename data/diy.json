@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-23T23:03:29.687838+00:00",
+  "updated": "2026-11-23T23:33:05.355905+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.howtogeek.com/echo-show-is-useful-thanks-to-home-assistant/",
+      "title": "My Echo Show is actually useful now thanks to Home Assistant",
+      "published": "2026-11-23T23:30:35+00:00",
+      "author": "Adam Davidson",
+      "description": "The Show must go on.",
+      "link": "https://www.howtogeek.com/echo-show-is-useful-thanks-to-home-assistant/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/desk-display-showing-study-light-controls-beneath-a-wooden-shelf.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/netflix-movies-to-watch-this-week-november-23/",
       "title": "4 showstopping movies to watch on Netflix this week (November 23-29)",
@@ -13989,20 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/i-turned-an-old-pc-into-a-diy-hacker-detector-then-tried-to-hack-it/",
-      "title": "I turned an old PC into a DIY hacker detector, then tried to hack it",
-      "published": "2026-11-10T15:30:16+00:00",
-      "author": "Gregory Gibson",
-      "description": "After dropping 74% of packets, I might just need a faster PC",
-      "link": "https://www.makeuseof.com/i-turned-an-old-pc-into-a-diy-hacker-detector-then-tried-to-hack-it/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/zotac-diy-network-intrusion-detector.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }
