@@ -1,13 +1,27 @@
 {
   "category": "World News",
-  "updated": "2026-11-23T08:02:59.785256+00:00",
+  "updated": "2026-11-23T08:33:08.965535+00:00",
   "count": 1000,
   "summary": null,
   "items": [
     {
+      "id": "https://www.theguardian.com/australia-news/2026/nov/23/constitutional-law-expert-brands-defence-bill-allowing-secret-security-rules-lazy-and-irresponsible",
+      "title": "Constitutional law expert brands defence bill allowing secret security rules ‘lazy and irresponsible’",
+      "published": "2026-11-23T08:23:55+00:00",
+      "author": "Josh Butler",
+      "description": "Anne Twomey says lack of proper debate around bill is ‘flabbergasting’ amid concerns over extension of ministerial powers Labor’s new defence bill is “lazy and irresponsible” lawmaking, one of Australia’s leading constitutional scholars has warned, claiming provisions for the government to secretly class any facility as a special security zone could raise serious legal issues. Prime minister Anthony Albanese claimed on Monday that critics of the ‘accelerating capability and protecting bases’ bi…",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/23/constitutional-law-expert-brands-defence-bill-allowing-secret-security-rules-lazy-and-irresponsible",
+      "image": "https://i.guim.co.uk/img/media/365d2e6449a8aa487abccf8060963566f52cd4dc/135_0_3175_2541/master/3175.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dafc8287c382f492a99437b44ea9bd2c",
+      "feed_name": "The Guardian",
+      "feed_title": "World news | The Guardian",
+      "category": "World News",
+      "feed_url": "https://www.theguardian.com/world/rss",
+      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo#0",
       "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
-      "published": "2026-11-23T07:55:59+00:00",
+      "published": "2026-11-23T08:13:27+00:00",
       "author": null,
       "description": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
       "link": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss",
@@ -17,6 +31,20 @@
       "category": "World News",
       "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/rest-of-world/australian-familys-dog-seemed-completely-normal-after-being-bitten-by-a-highly-venomous-eastern-brown-snake-but-a-slight-nosebleed-revealed-a-medical-emergency-that-left-him-hospitalised-for-six-nights/articleshow/136093928.cms",
+      "title": "Dog’s slight nosebleed exposes deadly snakebite after seeming normal",
+      "published": "2026-11-23T08:09:01+00:00",
+      "author": "TOI World Desk",
+      "description": "",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/australian-familys-dog-seemed-completely-normal-after-being-bitten-by-a-highly-venomous-eastern-brown-snake-but-a-slight-nosebleed-revealed-a-medical-emergency-that-left-him-hospitalised-for-six-nights/articleshow/136093928.cms",
+      "image": "https://static.toiimg.com/photo/msid-136094633,imgsize-1585666.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/us/after-etsy-changed-its-terms-to-permit-ai-training-using-sellers-content-longtime-artists-began-shutting-their-online-shops-the-company-has-now-promised-to-rewrite-the-policy-following-the-backlash/articleshow/136074847.cms",
@@ -921,7 +949,7 @@
       "author": null,
       "description": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
       "link": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7583/live/ce5448a0-e6e7-11f1-99b6-a35a62fa4264.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4632/live/52e19140-e715-11f1-99b6-a35a62fa4264.jpg",
       "feed_name": "BBC News - World",
       "feed_title": "BBC News",
       "category": "World News",
@@ -13975,34 +14003,6 @@
       "category": "World News",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/us/a-missouri-university-employee-won-631000-for-a-hostile-work-environment-and-additional-damages-over-her-departure-an-appeals-court-preserved-the-631000-award-but-ordered-a-retrial-of-the-separate-damages/articleshow/135966050.cms",
-      "title": "Missouri university employee keeps $631,000 discrimination award; retrial ordered",
-      "published": "2026-11-18T14:43:21+00:00",
-      "author": "TOI World Desk",
-      "description": "In a recent ruling, a Missouri court confirmed the jury's conclusion that Lincoln University established a racially hostile work setting for Sheila Gassner. The court did, however, nullify the damages linked to her constructive discharge claim and called for a new trial. Gassner, who endured heavy workloads while overseeing various departments, encountered discrimination after she raised issues.",
-      "link": "https://timesofindia.indiatimes.com/world/us/a-missouri-university-employee-won-631000-for-a-hostile-work-environment-and-additional-damages-over-her-departure-an-appeals-court-preserved-the-631000-award-but-ordered-a-retrial-of-the-separate-damages/articleshow/135966050.cms",
-      "image": "https://static.toiimg.com/photo/msid-135966109,imgsize-124300.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/china/trump-putin-to-hold-talks-in-china-after-2025-alaska-summit-failed-to-end-ukraine-war/articleshow/135966064.cms",
-      "title": "Trump, Putin to hold talks in China after 2025 Alaska summit failed to end Ukraine war",
-      "published": "2026-11-18T14:43:18+00:00",
-      "author": "Prisha Patnaik",
-      "description": "",
-      "link": "https://timesofindia.indiatimes.com/world/china/trump-putin-to-hold-talks-in-china-after-2025-alaska-summit-failed-to-end-ukraine-war/articleshow/135966064.cms",
-      "image": "https://static.toiimg.com/photo/msid-135966111,imgsize-66422.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     }
   ]
 }
