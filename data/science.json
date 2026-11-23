@@ -1,9 +1,23 @@
 {
   "category": "science",
-  "updated": "2026-11-23T00:33:04.964492+00:00",
+  "updated": "2026-11-23T01:02:33.784118+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo#0",
+      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+      "published": "2026-11-23T00:50:35+00:00",
+      "author": null,
+      "description": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels",
+      "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afca/live/39aa8840-e69c-11f1-936e-1fd1d31671db.jpg",
+      "feed_name": "BBC News - Science & Environment",
+      "feed_title": "BBC News",
+      "category": "science",
+      "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
     {
       "id": "news714380873",
       "title": "Reliance on technology is eroding trust in one another and ability to tell what is even real, expert warns",
@@ -115,20 +129,6 @@
       "category": "science",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo#0",
-      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-      "published": "2026-11-22T18:17:59+00:00",
-      "author": null,
-      "description": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.",
-      "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afca/live/39aa8840-e69c-11f1-936e-1fd1d31671db.jpg",
-      "feed_name": "BBC News - Science & Environment",
-      "feed_title": "BBC News",
-      "category": "science",
-      "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "news714400969",
