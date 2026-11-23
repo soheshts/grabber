@@ -1,9 +1,79 @@
 {
   "category": "World News",
-  "updated": "2026-11-23T05:02:53.261036+00:00",
+  "updated": "2026-11-23T05:33:04.139263+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/video/world/asia/100000011212632/vietnam-electric-bike-ebikes-charging-stations.html",
+      "title": "How Homeowners Are Powering Vietnam’s E-Bike Surge",
+      "published": "2026-11-23T05:28:06+00:00",
+      "author": "Alexandra Stevenson, Chang W. Lee and Nailah Morgan",
+      "description": "The war in Iran has brought on a rapid switch from motorbikes to electric two-wheelers in Vietnam, creating an informal charging economy led by entrepreneurial homeowners.",
+      "link": "https://www.nytimes.com/video/world/asia/100000011212632/vietnam-electric-bike-ebikes-charging-stations.html",
+      "image": "https://static01.nyt.com/images/2026/11/16/multimedia/Biz-Vietnam-EV-05-vlqb/Biz-Vietnam-EV-05-vlqb-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
+      "title": "Australian politics live: Opposition hammers Labor over $150m ‘Cop flop’; Tehan kicked out of parliament for ‘taking mickey’ with Molly Meldrum catchphrase",
+      "published": "2026-11-23T05:24:36+00:00",
+      "author": "Catie McLeod(now) and Krishani Dhanji (earlier)",
+      "description": "Get our breaking news email , free app or daily news podcast ‘Very difficult to bridge that divide’: Murray Watt Cabinet minister Murray Watt says it’s increasingly difficult to bridge the divide between nations on climate policy after a frustrating Cop summit that didn’t reach a final agreement. It’s obviously a very deeply disappointing outcome that the cover decision was not agreed to by all nations. I think what this shows is a very challenging international environment at the moment to rea…",
+      "link": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
+      "image": "https://i.guim.co.uk/img/media/137309f86d6d9310dcac2f083391023259be0594/1096_0_5360_4288/master/5360.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=a25bbd7106588f7e6a86a09de4fc8b88",
+      "feed_name": "The Guardian",
+      "feed_title": "World news | The Guardian",
+      "category": "World News",
+      "feed_url": "https://www.theguardian.com/world/rss",
+      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo#0",
+      "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
+      "published": "2026-11-23T05:15:06+00:00",
+      "author": null,
+      "description": "The prime minister of Australia, which co-hosted COP31, attributed the failure to \"difficult geopolitical times\".",
+      "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ffb0/live/d31e6e50-e6fc-11f1-9d32-695d6c00481f.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/us/jeff-bezos-ex-wife-mackenzie-scott-gives-62-million-to-a-marine-conservation-organisation-working-with-fishing-communities-across-the-tropics-the-funding-will-support-efforts-to-protect-200000-sq-km-of-ocean-and-reach-10000-communities/articleshow/136090046.cms",
+      "title": "MacKenzie Scott gives $62 million to protect tropical oceans and support 10,000 communities",
+      "published": "2026-11-23T05:09:29+00:00",
+      "author": "TOI World Desk",
+      "description": "",
+      "link": "https://timesofindia.indiatimes.com/world/us/jeff-bezos-ex-wife-mackenzie-scott-gives-62-million-to-a-marine-conservation-organisation-working-with-fishing-communities-across-the-tropics-the-funding-will-support-efforts-to-protect-200000-sq-km-of-ocean-and-reach-10000-communities/articleshow/136090046.cms",
+      "image": "https://static.toiimg.com/photo/msid-136090112,imgsize-1361171.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
+      "id": "108557111",
+      "title": "U.S. probes Megaspeed, Alice Huang as new figure emerges in Nvidia chip case",
+      "published": "2026-11-23T05:08:03+00:00",
+      "author": null,
+      "description": "The U.S. is investigating Megaspeed and Alice Huang after it emerged a former associate of hers was reportedly \"deeply involved\" in the firm's activities",
+      "link": "https://www.cnbc.com/2026/11/23/nvidia-megaspeed-chipmaker-us.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108547468-1794318020652-gettyimages-2303986898-AFP_D6ZC9G6.jpeg?v=1794530723&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
     {
       "id": "https://www.nytimes.com/2026/11/23/world/asia/china-us-nuclear-ai.html",
       "title": "China Fears A.I. Could Give the U.S. an Edge in Nuclear Rivalry",
@@ -31,20 +101,6 @@
       "category": "World News",
       "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
       "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
-      "id": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
-      "title": "Australian politics live: Opposition hammers Labor over $150m ‘Cop flop’; Tehan kicked out of parliament for ‘taking mickey’ with Molly Meldrum catchphrase",
-      "published": "2026-11-23T04:53:21+00:00",
-      "author": "Krishani Dhanji",
-      "description": "Get our breaking news email , free app or daily news podcast ‘Very difficult to bridge that divide’: Murray Watt Cabinet minister Murray Watt says it’s increasingly difficult to bridge the divide between nations on climate policy after a frustrating Cop summit that didn’t reach a final agreement. It’s obviously a very deeply disappointing outcome that the cover decision was not agreed to by all nations. I think what this shows is a very challenging international environment at the moment to rea…",
-      "link": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
-      "image": "https://i.guim.co.uk/img/media/137309f86d6d9310dcac2f083391023259be0594/1096_0_5360_4288/master/5360.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=a25bbd7106588f7e6a86a09de4fc8b88",
-      "feed_name": "The Guardian",
-      "feed_title": "World news | The Guardian",
-      "category": "World News",
-      "feed_url": "https://www.theguardian.com/world/rss",
-      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
     },
     {
       "id": "https://www.ndtv.com/world-news/indonesia-factory-fire-death-count-rises-to-24-at-least-30-still-missing-12364082#publisher=newsstand",
@@ -87,20 +143,6 @@
       "category": "World News",
       "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://www.nytimes.com/video/world/asia/100000011212632/vietnam-electric-bike-ebikes-charging-stations.html",
-      "title": "How Homeowners Are Powering Vietnam’s E-Bike Surge",
-      "published": "2026-11-23T04:35:25+00:00",
-      "author": "Alexandra Stevenson, Chang W. Lee and Nailah Morgan",
-      "description": "The war in Iran has brought on a rapid switch from motorbikes to electric two-wheelers in Vietnam, creating an informal charging economy led by entrepreneurial homeowners.",
-      "link": "https://www.nytimes.com/video/world/asia/100000011212632/vietnam-electric-bike-ebikes-charging-stations.html",
-      "image": "https://static01.nyt.com/images/2026/11/16/multimedia/Biz-Vietnam-EV-05-vlqb/Biz-Vietnam-EV-05-vlqb-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://www.theguardian.com/australia-news/2026/nov/23/beau-lamarre-condon-trail-executed-jesse-baird-prosecution-argues-ntwnfb",
@@ -285,6 +327,20 @@
       "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
+      "id": "https://timesofindia.indiatimes.com/world/rest-of-world/us-seeks-to-seize-beverly-hills-mansion-allegedly-bought-with-30-million-from-a-scheme-involving-more-than-700-million-in-military-fuel-contracts-in-iraq-and-syria/articleshow/136069078.cms",
+      "title": "US targets Beverly Hills mansion linked to Iraq and Syria fuel contracts",
+      "published": "2026-11-23T02:45:00+00:00",
+      "author": "TOI World Desk",
+      "description": "",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/us-seeks-to-seize-beverly-hills-mansion-allegedly-bought-with-30-million-from-a-scheme-involving-more-than-700-million-in-military-fuel-contracts-in-iraq-and-syria/articleshow/136069078.cms",
+      "image": "https://static.toiimg.com/photo/msid-136069172,imgsize-203712.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
       "id": "https://www.ndtv.com/world-news/us-iran-war-us-president-donald-trump-sets-new-year-deadline-for-iran-warns-of-military-strikes-12363920#publisher=newsstand",
       "title": "Trump Sets New Year Deadline For Iran, Warns Of Military Strikes",
       "published": "2026-11-23T02:44:30+00:00",
@@ -348,6 +404,20 @@
       "description": "Melody Silva, a 17-year-old student from Canada, actively addresses environmental issues within her community. She produced a documentary highlighting the impact of fish farming on wild salmon populations in British Columbia. Silva has led the revitalization of her school’s Earth Club, introducing eco-friendly initiatives and activities. She has collaborated with local Indigenous elders and nonprofit organizations to deepen her activism.",
       "link": "https://timesofindia.indiatimes.com/world/rest-of-world/meet-melody-silva-the-17-year-old-canadian-student-who-made-a-documentary-on-fish-farming-and-wild-salmon-interviewed-indigenous-elders-and-used-school-performances-to-bring-climate-concerns-to-a-wider-audience/articleshow/136031237.cms",
       "image": "https://static.toiimg.com/photo/msid-136031395,imgsize-125738.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/science/wildlife/scientists-tracked-38-timber-rattlesnakes-in-illinois-and-found-they-spent-weeks-waiting-near-winter-shelters-before-going-underground-and-after-emerging-in-spring/articleshow/136068922.cms",
+      "title": "Scientists find timber rattlesnakes wait weeks near winter shelters",
+      "published": "2026-11-23T02:35:00+00:00",
+      "author": "TOI Science Desk",
+      "description": "",
+      "link": "https://timesofindia.indiatimes.com/science/wildlife/scientists-tracked-38-timber-rattlesnakes-in-illinois-and-found-they-spent-weeks-waiting-near-winter-shelters-before-going-underground-and-after-emerging-in-spring/articleshow/136068922.cms",
+      "image": "https://static.toiimg.com/photo/msid-136069007,imgsize-205004.cms",
       "feed_name": "Times of India",
       "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
       "category": "World News",
@@ -521,20 +591,6 @@
       "category": "World News",
       "feed_url": "https://www.theguardian.com/world/rss",
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo#0",
-      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-      "published": "2026-11-23T00:50:35+00:00",
-      "author": null,
-      "description": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels",
-      "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afca/live/39aa8840-e69c-11f1-936e-1fd1d31671db.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "108555872",
@@ -13947,62 +14003,6 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec/xi-jinping-china-sanae-takaichi-japan",
-      "title": "Xi greets Japan’s leader amid a diplomatic feud.",
-      "published": "2026-11-18T12:24:21+00:00",
-      "author": "Javier C. Hernández",
-      "description": "Prime Minister Sanae Takaichi of Japan, left, shakes hands with Xi Jinping, China’s leader, before the welcome banquet at the Asia-Pacific Economic Cooperation summit in Shenzhen, China, on Wednesday.",
-      "link": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec/xi-jinping-china-sanae-takaichi-japan",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-xi-takaichi-lcmk/18int-xi-takaichi-lcmk-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/us/two-us-senators-from-opposing-parties-warned-trumps-white-house-that-ai-powered-cyber-threats-are-outpacing-defences-citing-rogue-agents-software-vulnerabilities-and-a-models-attempted-link-to-china/articleshow/135963065.cms",
-      "title": "US senators from rival parties warn AI cyber threats outpacing defences",
-      "published": "2026-11-18T12:23:07+00:00",
-      "author": "Aashish Vashistha",
-      "description": "",
-      "link": "https://timesofindia.indiatimes.com/world/us/two-us-senators-from-opposing-parties-warned-trumps-white-house-that-ai-powered-cyber-threats-are-outpacing-defences-citing-rogue-agents-software-vulnerabilities-and-a-models-attempted-link-to-china/articleshow/135963065.cms",
-      "image": "https://static.toiimg.com/photo/msid-135963192,imgsize-60589.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/rest-of-world/nintendo-employee-saved-a-1981-donkey-kong-painting-from-trash-and-tucked-it-into-a-coffee-table-decades-later-it-sold-for-329400/articleshow/135961483.cms",
-      "title": "Nintendo employee rescued Donkey Kong art from trash; later sold for $329,400",
-      "published": "2026-11-18T12:07:06+00:00",
-      "author": "TOI World Desk",
-      "description": "",
-      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/nintendo-employee-saved-a-1981-donkey-kong-painting-from-trash-and-tucked-it-into-a-coffee-table-decades-later-it-sold-for-329400/articleshow/135961483.cms",
-      "image": "https://static.toiimg.com/photo/msid-135961566,imgsize-107158.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/us/a-pennsylvania-woman-says-her-supplemental-cancer-insurance-was-cancelled-after-her-breast-cancer-diagnosis-the-insurer-cites-incorrect-medical-information-on-her-application-as-the-reason-for-denying-her-claim/articleshow/135962517.cms",
-      "title": "Woman denied medical insurance claim after breast cancer diagnosis",
-      "published": "2026-11-18T12:01:01+00:00",
-      "author": "TOI World Desk",
-      "description": "Jeanette Mozuch bought a cancer policy from Heartland National Life Insurance for extra coverage. After being diagnosed with breast cancer, she filed a claim expecting support for her medical expenses. Heartland denied her claim, stating she answered a question incorrectly on her application regarding mammograms. Mozuch plans to appeal the denial while questioning if other policyholders faced similar issues.",
-      "link": "https://timesofindia.indiatimes.com/world/us/a-pennsylvania-woman-says-her-supplemental-cancer-insurance-was-cancelled-after-her-breast-cancer-diagnosis-the-insurer-cites-incorrect-medical-information-on-her-application-as-the-reason-for-denying-her-claim/articleshow/135962517.cms",
-      "image": "https://static.toiimg.com/photo/msid-135962688,imgsize-129234.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     }
   ]
 }
