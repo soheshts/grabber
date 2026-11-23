@@ -1,9 +1,23 @@
 {
   "category": "science",
-  "updated": "2026-11-23T10:33:41.983797+00:00",
+  "updated": "2026-11-23T11:02:40.125138+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://flowingdata.com/?p=83509",
+      "title": "Contours on a map",
+      "published": "2026-11-23T10:44:43+00:00",
+      "author": "Nathan Yau",
+      "description": "Contours by Axis Maps lets you easily draw and customize contour lines on… Tags: cartography , contour map",
+      "link": "https://flowingdata.com/2026/11/23/contours-on-a-map/",
+      "image": "https://flowingdata.com/wp-content/uploads/2026/11/contours-750x414.png",
+      "feed_name": "FlowingData",
+      "feed_title": "FlowingData",
+      "category": "science",
+      "feed_url": "https://flowingdata.com/feed",
+      "feed_icon": "https://flowingdata.com/wp-content/uploads/2025/01/logo-lone-square512x512-120x120.png"
+    },
     {
       "id": "news714633612",
       "title": "Kuala Lumpur otters raise river revival hopes",
@@ -157,6 +171,20 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "https://www.nature.com/articles/d41586-026-03722-8",
+      "title": "Build for the future climate — or waste trillions of dollars",
+      "published": "2026-11-23T00:00:00+00:00",
+      "author": "Saroj Kanta Mishra",
+      "description": "Nature, Published online: 23 November 2026; doi:10.1038/d41586-026-03722-8 Development planning needs a permanent system that connects climate projections to the decisions that shape what infrastructure gets built.",
+      "link": "https://www.nature.com/articles/d41586-026-03722-8",
+      "image": null,
+      "feed_name": "Nature",
+      "feed_title": "Nature",
+      "category": "science",
+      "feed_url": "https://www.nature.com/nature.rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=feeds.nature.com&sz=64"
     },
     {
       "id": "https://www.sciencedaily.com/releases/2026/11/261120071501.htm",
@@ -13975,34 +14003,6 @@
       "category": "science",
       "feed_url": "https://flowingdata.com/feed",
       "feed_icon": "https://flowingdata.com/wp-content/uploads/2025/01/logo-lone-square512x512-120x120.png"
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2026/11/261111005901.htm",
-      "title": "Dark energy may have flipped from negative to positive 9.5 billion years ago",
-      "published": "2026-11-13T11:08:34+00:00",
-      "author": null,
-      "description": "A mysterious force driving the expansion of the Universe may have undergone a dramatic reversal billions of years ago. Scientists exploring an overlooked branch of an alternative gravity theory discovered that dark energy could have switched from negative to positive roughly 9.5 billion years ago, potentially changing how we understand cosmic history.",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261111005901.htm",
-      "image": "https://www.sciencedaily.com/images/1920/dark-matter-cosmology-measurement.webp",
-      "feed_name": "Latest Science News -- ScienceDaily",
-      "feed_title": "Latest Science News -- ScienceDaily",
-      "category": "science",
-      "feed_url": "https://www.sciencedaily.com/rss/all.xml",
-      "feed_icon": "https://www.sciencedaily.com/images/scidaily-logo-rss.png"
-    },
-    {
-      "id": "news713772054",
-      "title": "How career stakes shaped China's one-child policy enforcement",
-      "published": "2026-11-13T11:01:34+00:00",
-      "author": null,
-      "description": "China's one-child policy is widely considered one of the most stringent public policies in modern history. Yet researchers have long debated how much it actually contributed to the country's dramatic fertility decline.",
-      "link": "https://phys.org/news/2026-11-career-stakes-china-child-policy.html",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-career-stakes-shap.jpg",
-      "feed_name": "Phys.org - latest science and technology news stories",
-      "feed_title": "Phys.org - latest science and technology news stories",
-      "category": "science",
-      "feed_url": "https://phys.org/rss-feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
     }
   ]
 }
