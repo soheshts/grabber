@@ -1,9 +1,37 @@
 {
   "category": "gaming",
-  "updated": "2026-11-23T13:04:00.125383+00:00",
+  "updated": "2026-11-23T13:33:09.825102+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "9310b116-b7d5-4eaa-939c-b89f304770be",
+      "title": "'The System Is Not Good Vs. Evil': Why GTA 6's Criminal Profile Mechanic Is Dividing Fans",
+      "published": "2026-11-23T13:10:30+00:00",
+      "author": "Tom Phillips",
+      "description": "GTA 6 players are debating the game's Criminal Profile system, and how it operates with more depth than just a straightforward \"good vs. evil\" morality system.",
+      "link": "https://www.ign.com/articles/gta-6-criminal-profile-system-self-defense-penalties",
+      "image": "https://assets-prd.ignimgs.com/2026/11/22/jason-duval-gta-6-1795371162747.png",
+      "feed_name": "IGN All",
+      "feed_title": "IGN Articles",
+      "category": "gaming",
+      "feed_url": "http://feeds.ign.com/ign/all",
+      "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
+    },
+    {
+      "id": "9b6dbab3-76e3-4f4f-a034-45d8ac7fb589",
+      "title": "GTA 6 Update 01.002.002 Rolling Out Now, Although There Are No Patch Notes Yet",
+      "published": "2026-11-23T13:07:03+00:00",
+      "author": "Wesley Yin-Poole",
+      "description": "GTA 6 has its first post-launch update, although Rockstar has yet to release patch notes.",
+      "link": "https://www.ign.com/articles/gta-6-update-01002002-rolling-out-now-although-there-are-no-patch-notes-yet",
+      "image": "https://assets-prd.ignimgs.com/2026/11/23/gtavi-35-1795439002195.jpg",
+      "feed_name": "IGN All",
+      "feed_title": "IGN Articles",
+      "category": "gaming",
+      "feed_url": "http://feeds.ign.com/ign/all",
+      "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
+    },
     {
       "id": "https://indiegamesplus.com/?p=53783",
       "title": "‘A Postman’s Journey’ shares moments in WW2",
@@ -19,6 +47,20 @@
       "feed_icon": "https://s3-igpbucket.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/07/24193508/cropped-IndieGamesPlus-Micro-32x32.png"
     },
     {
+      "id": "https://www.rockpapershotgun.com/nvidia-release-hotfix-for-latest-graphics-card-driver-battering-ssds-with-excessive-writes-but-it-looks-like-reverting-may-still-be-the-better-option",
+      "title": "Nvidia release hotfix for latest graphics card driver battering SSDs with excessive writes, but it looks like reverting may still be the better option",
+      "published": "2026-11-23T12:59:50+00:00",
+      "author": "Mark Warren",
+      "description": "Late last week, reports emerged of some folks having Nvidia's latest GeForce driver, 621.24, needlessly write vast amounts of data to their PC's SSD, a bug that could affect the component's lifespan at a time when replacing SSDs certainly isn't cheap . The immediate short-term solution for affected users was to roll back to a previous driver, 621.01. Sadly it appears that might still be the best way to go despite Nvidia having released a hotfix. Read more",
+      "link": "https://www.rockpapershotgun.com/nvidia-release-hotfix-for-latest-graphics-card-driver-battering-ssds-with-excessive-writes-but-it-looks-like-reverting-may-still-be-the-better-option",
+      "image": "https://assetsio.gnwcdn.com/nvidia-geforce-rtx-4090-gpu.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "feed_name": "Rock, Paper, Shotgun",
+      "feed_title": "Rock, Paper, Shotgun",
+      "category": "gaming",
+      "feed_url": "http://feeds.feedburner.com/RockPaperShotgun",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.rockpapershotgun.com&sz=64"
+    },
+    {
       "id": "https://www.eurogamer.net/gta-6-metacritic-review-bomb",
       "title": "Metacritic's user review problem worsens, as GTA 6's launch prompts review-bombing for completely unrelated games like Soul Calibur and The Ocarina of Time",
       "published": "2026-11-23T12:50:50+00:00",
@@ -31,6 +73,20 @@
       "category": "gaming",
       "feed_url": "https://www.eurogamer.net/?format=rss",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.eurogamer.net&sz=64"
+    },
+    {
+      "id": "2ddfe32f-165c-4abe-9183-dc505f56476f",
+      "title": "GTA 6 Has Given Carly Rae Jepsen's Most Underrated Song Another Shot in the Charts",
+      "published": "2026-11-23T12:38:27+00:00",
+      "author": "Rhiannon Bevan",
+      "description": "GTA 6 has propelled an underrated hit from Carly Rae Jepsen back into the charts for the first time in more than a decade.",
+      "link": "https://www.ign.com/articles/gta-6-has-given-carly-rae-jepsens-most-underrated-song-another-shot-in-the-charts",
+      "image": "https://assets-prd.ignimgs.com/2026/11/23/gettyimages-491420174-1795437419844.jpg",
+      "feed_name": "IGN All",
+      "feed_title": "IGN Articles",
+      "category": "gaming",
+      "feed_url": "http://feeds.ign.com/ign/all",
+      "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
     },
     {
       "id": "1969301",
@@ -87,6 +143,20 @@
       "category": "gaming",
       "feed_url": "https://kotaku.com/rss",
       "feed_icon": "https://www.google.com/s2/favicons?domain=kotaku.com&sz=64"
+    },
+    {
+      "id": "https://www.rockpapershotgun.com/undisclosed-ai-generated-music-pulled-from-the-binding-of-isaac-repentance-update-as-attempt-to-get-satirical-on-gta-6-launch-day-goes-awry",
+      "title": "Undisclosed AI-generated music pulled from The Binding of Isaac Repentance+ update, as attempt to get satirical on GTA 6 launch day goes awry",
+      "published": "2026-11-23T11:45:10+00:00",
+      "author": "Mark Warren",
+      "description": "An update for The Binding of Isaac packed with wink wink, nudge nudge parody of GTA 6 has backfired rather spectacularly, with publishers Nicalis having to make some hasty modifications. This free addition to the Repentance+ version of the roguelike featured a Grand Terry Auto-inspired daily run, complete with cops, guns, and a soundtrack players soon highlighted as sounding AI-generated. Sure enough, Nicalis subsequently announced the \"removal of generated music files\" in response to the backl…",
+      "link": "https://www.rockpapershotgun.com/undisclosed-ai-generated-music-pulled-from-the-binding-of-isaac-repentance-update-as-attempt-to-get-satirical-on-gta-6-launch-day-goes-awry",
+      "image": "https://assetsio.gnwcdn.com/binding-of-isaac-repentance-plus-update-ai-music-pulled-01.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "feed_name": "Rock, Paper, Shotgun",
+      "feed_title": "Rock, Paper, Shotgun",
+      "category": "gaming",
+      "feed_url": "http://feeds.feedburner.com/RockPaperShotgun",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.rockpapershotgun.com&sz=64"
     },
     {
       "id": "5cd6a80a-728b-464f-9a7f-1eb85688e8b6",
@@ -13933,76 +14003,6 @@
       "category": "gaming",
       "feed_url": "https://www.polygon.com/rss/index.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.polygon.com&sz=64"
-    },
-    {
-      "id": "https://www.escapistmagazine.com/?p=1222211",
-      "title": "Coffee Stain Buys Chronicles: Medieval From Bankrupt Raw Power Games for DKK 36.75 Million",
-      "published": "2026-11-17T06:13:11+00:00",
-      "author": "The Escapist Editor",
-      "description": "Coffee Stain Group won the bankruptcy sale for Chronicles: Medieval and will fund its development through a new studio part-owned by original developers. The deal revives a heavily wishlisted strategy sandbox, but its release timing is still open. The post Coffee Stain Buys Chronicles: Medieval From Bankrupt Raw Power Games for DKK 36.75 Million appeared first on The Escapist .",
-      "link": "https://www.escapistmagazine.com/coffee-stain-buys-chronicles-medieval-from-bankrupt-raw-power-games-for-dkk-36-75-million/",
-      "image": null,
-      "feed_name": "Escapist Magazine",
-      "feed_title": "The Escapist",
-      "category": "gaming",
-      "feed_url": "https://www.escapistmagazine.com/v2/feed/",
-      "feed_icon": "https://www.escapistmagazine.com/wp-content/uploads/2020/04/cropped-escapist-favicon.jpg?resize=176,176"
-    },
-    {
-      "id": "https://www.polygon.com/x-files-musings-of-a-cigarette-smoking-man/",
-      "title": "30 Years Later, One of the Greatest ‘X-Files’ Episodes is Still a Misunderstood Masterpiece",
-      "published": "2026-11-17T05:01:18+00:00",
-      "author": "Brian VanHooker",
-      "description": "“Musings of a Cigarette Smoking Man” is a classic X-Files epsiode that many fans misunderstand",
-      "link": "https://www.polygon.com/x-files-musings-of-a-cigarette-smoking-man/",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/tsdxfil_fe029.jpg",
-      "feed_name": "Polygon -  All",
-      "feed_title": "Polygon.com",
-      "category": "gaming",
-      "feed_url": "https://www.polygon.com/rss/index.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.polygon.com&sz=64"
-    },
-    {
-      "id": "https://www.polygon.com/gta-6-grand-theft-auto-release-time-pdt-edt/",
-      "title": "GTA 6 release time in your time zone",
-      "published": "2026-11-17T05:01:18+00:00",
-      "author": "Ford James",
-      "description": "This guide explains exactly when Grand Theft Auto 6 will be released in different time zones, along with details on how to preload.",
-      "link": "https://www.polygon.com/gta-6-grand-theft-auto-release-time-pdt-edt/",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta-6-release-time-header.jpg",
-      "feed_name": "Polygon -  All",
-      "feed_title": "Polygon.com",
-      "category": "gaming",
-      "feed_url": "https://www.polygon.com/rss/index.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.polygon.com&sz=64"
-    },
-    {
-      "id": "https://www.polygon.com/gta-6-grand-theft-auto-new-zealand-trick-how-to-play-early/",
-      "title": "How to play GTA 6 early using the 'New Zealand trick'",
-      "published": "2026-11-17T05:01:18+00:00",
-      "author": "Ford James",
-      "description": "This guide explains how to play Grand Theft Auto 6 as early as possible, by changing the time and date on your console to the New Zealand timezone.",
-      "link": "https://www.polygon.com/gta-6-grand-theft-auto-new-zealand-trick-how-to-play-early/",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta-6-new-zealand-trick-header.jpg",
-      "feed_name": "Polygon -  All",
-      "feed_title": "Polygon.com",
-      "category": "gaming",
-      "feed_url": "https://www.polygon.com/rss/index.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.polygon.com&sz=64"
-    },
-    {
-      "id": "51b560b3-ee61-4ea4-96e6-fd2471d7bca7",
-      "title": "Christopher Nolan's The Odyssey Comes to Digital With Over 90 Minutes of Bonus Features",
-      "published": "2026-11-17T05:00:00+00:00",
-      "author": "Blythe Dujardin",
-      "description": "Christopher Nolan’s The Odyssey has landed on digital platforms . The move to digital comes exactly four months after the movie’s initial release in theaters, making it the longest theatrical window of 2026. Why would you rush the digital release for a movie that keeps selling out ? If you somehow didn’t catch the movie in theaters, or are already itching for the at-home rewatch, here’s where to find the movie on digital as well as all of the info we have about The Odyssey’s streaming and home…",
-      "link": "https://www.ign.com/articles/how-to-watch-the-odyssey-2026-bonus-features",
-      "image": "https://assets-prd.ignimgs.com/2026/07/02/odysseythumb-1783019960744.png",
-      "feed_name": "IGN All",
-      "feed_title": "IGN Articles",
-      "category": "gaming",
-      "feed_url": "http://feeds.ign.com/ign/all",
-      "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
     }
   ]
 }

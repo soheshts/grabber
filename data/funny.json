@@ -1,6 +1,6 @@
 {
   "category": "funny",
-  "updated": "2026-11-23T13:04:00.125383+00:00",
+  "updated": "2026-11-23T13:33:09.825102+00:00",
   "count": 774,
   "summary": null,
   "items": [
@@ -59,6 +59,20 @@
       "category": "funny",
       "feed_url": "https://www.penny-arcade.com/feed",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.penny-arcade.com&sz=64"
+    },
+    {
+      "id": "https://thedailywtf.com/articles/the-perils-of-web-development",
+      "title": "The Perils of Web Development",
+      "published": "2026-11-23T06:30:00+00:00",
+      "author": "Ellis Morning",
+      "description": "Earlier this year, I wrote a couple of times about my utility closet of infinite WTFs . After a total remodel and HVAC upgrade, I learned the demons had not been exorcised . Indeed, they still haunt the place, and now they're really showing off their sense of humor. On a recent November morning with frost covering the ground and below-freezing temps, I awoke to find my house a chilly 14.4C / 58F. The gas furnace would try to start up, then fail with the message \"Pressure Error - Your system may…",
+      "link": "https://thedailywtf.com/articles/the-perils-of-web-development",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/First_Computer_Bug%2C_1947.jpg/960px-First_Computer_Bug%2C_1947.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+      "feed_name": "The Daily WTF",
+      "feed_title": "The Daily WTF",
+      "category": "funny",
+      "feed_url": "http://syndication.thedailywtf.com/TheDailyWtf",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thedailywtf.com&sz=64"
     },
     {
       "id": "https://cheezburger.com/47458309/what-is-something-well-regret-as-a-society-in-20-years-people-online-discuss-what-are-some-accepted",
@@ -10825,20 +10839,6 @@
       "category": "funny",
       "feed_url": "http://feeds.feedburner.com/failblog",
       "feed_icon": "https://i.chzbgr.com/s/unversioned/images/logos/FailBlog_ol.png"
-    },
-    {
-      "id": "https://cheezburger.com/47181573/meet-the-newly-adopted-faces-of-the-week-10-real-stories-of-cats-who-finally-found-their-forever",
-      "title": "Meet the Newly Adopted Faces of the Week: 10 Real Stories of Cats Who Finally Found Their Forever Homes (October 24, 2026)",
-      "published": "2026-10-24T13:30:00+00:00",
-      "author": "Mariel Ruvinsky",
-      "description": "Saturday mornings are made so much better when they come with a large helping of happy kitties. As cat pawrents, we know just how good our feline friends have it. They don't know it, but we do. They've never had to fend for themselves on the streets, so they have no idea how lucky they are to have a warm home, a full food bowl, and humans ready to serve them like the meownderful servants that we are. Their fancy food isn't served fast enough? The horror. Their litterbox has a single suspicious…",
-      "link": "https://cheezburger.com/47181573/meet-the-newly-adopted-faces-of-the-week-10-real-stories-of-cats-who-finally-found-their-forever",
-      "image": "https://i.chzbgr.com/thumb-large/47181573/hE8F846BF/its-head-on-a-persons-hand-and-a-ginger-cat-curled-up-with-a-toy-and-a-giant-sphynx-cat-adopted",
-      "feed_name": "I Can Has Cheezburger?",
-      "feed_title": "I Can Has Cheezburger?",
-      "category": "funny",
-      "feed_url": "http://feeds.feedburner.com/icanhascheezburger",
-      "feed_icon": "https://i.chzbgr.com/s/unversioned/images/logos/IcanHas_logo_ol.png"
     }
   ]
 }
