@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-23T17:33:03.621715+00:00",
-  "count": 448,
+  "updated": "2026-11-23T18:03:26.051315+00:00",
+  "count": 449,
   "summary": null,
   "items": [
     {
@@ -87,6 +87,20 @@
       "category": "personal blogs",
       "feed_url": "http://mattgemmell.com/atom.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=mattgemmell.scot&sz=64"
+    },
+    {
+      "id": "https://ronaldsvilcins.com/2026/11/23/building-for-right-to-left-layouts-with-logical-css/",
+      "title": "Building for Right-to-Left Layouts With Logical CSS",
+      "published": "2026-11-23T06:00:00+00:00",
+      "author": "Ronalds Vilciņš",
+      "description": "Learn how CSS logical properties make layouts work better for both left-to-right and right-to-left languages.",
+      "link": "https://ronaldsvilcins.com/2026/11/23/building-for-right-to-left-layouts-with-logical-css/",
+      "image": "https://ronaldsvilcins.com/og/1959536aae1db4d0f75afc0ed1dadf1be6d70d402540a8962f60e0c388c01435.jpg",
+      "feed_name": "Ronalds Vilciņš",
+      "feed_title": "Ronalds Vilciņš",
+      "category": "personal blogs",
+      "feed_url": "https://ronaldsvilcins.com/atom.xml",
+      "feed_icon": "https://ronaldsvilcins.com/favicon.png"
     },
     {
       "id": "https://www.amitmerchant.com/javascript-gets-a-new-set-of-html-insertion-apis",
