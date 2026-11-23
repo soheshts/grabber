@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-23T15:03:22.460946+00:00",
+  "updated": "2026-11-23T15:33:48.551083+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/fix-wi-fi-dropping-windows-with-report/",
+      "title": "My Wi-Fi kept dropping until I checked this 3-day log Windows was already keeping",
+      "published": "2026-11-23T15:30:17+00:00",
+      "author": "Pankil Shah",
+      "description": "I didn't expect it to be this useful.",
+      "link": "https://www.makeuseof.com/fix-wi-fi-dropping-windows-with-report/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/05/wlan-command-report-on-a-benq-monitor.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/automatically-organize-downloads-folder-with-mouzi/",
       "title": "My Downloads folder used to be a disaster, but this free app cleans it up automatically",
@@ -17,6 +31,20 @@
       "category": "DIY",
       "feed_url": "https://www.makeuseof.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://hackaday.com/?p=1429127",
+      "title": "How Modern Smartphones Talk To Satellites",
+      "published": "2026-11-23T15:00:16+00:00",
+      "author": "Zoe Skyforest",
+      "description": "The common cellular phone has always been a terrestrial communications device, speaking to towers dotted about the landscape. Meanwhile, satellite phones have long existed as specialized equipment, for staying in …read more",
+      "link": "https://hackaday.com/2026/11/23/how-modern-smartphones-talk-to-satellites/",
+      "image": "https://hackaday.com/wp-content/uploads/2019/08/SatellitePhone.jpg",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
     },
     {
       "id": "https://www.makeuseof.com/install-apk-apps-on-windows-free/",
@@ -143,6 +171,20 @@
       "category": "DIY",
       "feed_url": "https://www.makeuseof.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.apartmenttherapy.com/teal-white-brown-modern-bathroom-makeover-ba-37701102",
+      "title": "“Dated” Tiles Covered Almost 75% of This Bathroom’s Walls Until a Refreshing Reno",
+      "published": "2026-11-23T13:00:00+00:00",
+      "author": "Abby Monteil",
+      "description": "The hidden drawer storage is ingenious. READ MORE...",
+      "link": "https://www.apartmenttherapy.com/teal-white-brown-modern-bathroom-makeover-ba-37701102?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+projects",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2025/2025-02/lesley-l-bathroom/lesley-l-bathroom-before-teaser",
+      "feed_name": "Apartment Therapy| Saving the world, one room at a time",
+      "feed_title": "Apartment Therapy| Saving the world, one room at a time",
+      "category": "DIY",
+      "feed_url": "https://www.apartmenttherapy.com/projects.rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.apartmenttherapy.com&sz=64"
     },
     {
       "id": "https://www.makeuseof.com/nvidia-ssd-write-bug-persists-after-hotfix/",
@@ -13961,48 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/video/iphone-duo-finally-makes-the-iphone-fun-again/",
-      "title": "iPhone Duo: The most fun iPhone in years",
-      "published": "2026-11-09T22:11:23+00:00",
-      "author": "Alex Dobie",
-      "description": "The iPhone Duo is an expensive grab-bag of compromises that definitely is not for everyone. But it's also the most fun iPhone I've used in years",
-      "link": "https://www.howtogeek.com/video/iphone-duo-finally-makes-the-iphone-fun-again/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/11/duo-tn-emaki.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/microsoft-excel-workflow-turned-powerpoint-presentation-into-live-report/",
-      "title": "This Excel workflow turned my PowerPoint presentation into a live report",
-      "published": "2026-11-09T22:01:15+00:00",
-      "author": "Tony Phillips",
-      "description": "A quick refresh turns a folder of weekly reports into an updated PowerPoint slide.",
-      "link": "https://www.howtogeek.com/microsoft-excel-workflow-turned-powerpoint-presentation-into-live-report/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/excel-workflow-powerpoint-live-report.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/dc-danger-james-gunn-wonder-woman-batman-lanterns-swamp-thing/",
-      "title": "All 10 DC projects in danger after James Gunn’s shocking exit",
-      "published": "2026-11-09T21:59:17+00:00",
-      "author": "Dan Selcke",
-      "description": "After four years building a new DC Cinematic Universe, James Gunn has been replaced. What happens now?",
-      "link": "https://www.makeuseof.com/dc-danger-james-gunn-wonder-woman-batman-lanterns-swamp-thing/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2025/09/rev-1-spmn-17728rv3_high_res_jpeg-1.jpeg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }

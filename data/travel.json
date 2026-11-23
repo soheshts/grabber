@@ -1,9 +1,37 @@
 {
   "category": "travel",
-  "updated": "2026-11-23T15:03:22.460946+00:00",
-  "count": 180,
+  "updated": "2026-11-23T15:33:48.551083+00:00",
+  "count": 182,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/11/23/travel/outage-anxiety-thanksgiving.html",
+      "title": "Feeling ‘Outage Anxiety’? Our Thanksgiving Travel Guide Can Help.",
+      "published": "2026-11-23T15:23:14+00:00",
+      "author": "Shannon Sims",
+      "description": "A series of outages has left travelers on edge heading into the holiday on Thursday. We’ve gathered our best advice to help ensure a smooth journey.",
+      "link": "https://www.nytimes.com/2026/11/23/travel/outage-anxiety-thanksgiving.html",
+      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24trav-thanksgiving-advice-pgvh/24trav-thanksgiving-advice-pgvh-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Travel",
+      "feed_title": "NYT > Travel",
+      "category": "travel",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.atlasobscura.com/places/sant-pere-dels-avions",
+      "title": "Sant Pere dels Avions in Sant Pere dels Arquells, Spain",
+      "published": "2026-11-23T15:00:00+00:00",
+      "author": null,
+      "description": "In a village of just sixty inhabitants in the heart of rural Catalonia, you’d expect to find stone buildings, farmland and perhaps a church. And sure enough, that’s exactly what you get. What you wouldn’t expect, though, is to stumble upon three Soviet fighter jets in someone’s garden. But there they are. And alongside them, an American fighter jet, completing what must be the strangest aviation museum in the entire country. Sant Pere dels Arquells lies right next to the motorway, just over an…",
+      "link": "https://www.atlasobscura.com/places/sant-pere-dels-avions",
+      "image": "https://img.atlasobscura.com/MiTA6qKtBuVnx3_DrbVuc66wJZ1hGjvpHlmYGoNSPUA/rs:fill:300:200:1/g:ce/c:3632:2421:nowe:400:2/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy80YzZh/OGU2ZS0wMjZiLTQy/NTktODBlYS0yYTk1/YWQyNDUwZmJjMDhl/ODU5MzhmYmI5NGFi/M2ZfUGVyZUF2aW9u/czcuanBn.jpg",
+      "feed_name": "Atlas Obscura - Latest Articles and Places",
+      "feed_title": "Atlas Obscura - Latest Articles and Places",
+      "category": "travel",
+      "feed_url": "https://www.atlasobscura.com/feeds/latest",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.atlasobscura.com&sz=64"
+    },
     {
       "id": "https://www.nytimes.com/2026/11/23/weather/thanksgiving-storm-updates-maps.html",
       "title": "Thanksgiving Weather: Storm Maps and Forecast",
