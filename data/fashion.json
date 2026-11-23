@@ -1,9 +1,37 @@
 {
   "category": "fashion",
-  "updated": "2026-11-23T19:02:30.666447+00:00",
+  "updated": "2026-11-23T19:33:06.230725+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/11/23/style/amy-nelson-riveter-amazon-fbi-investigation.html",
+      "title": "Amy Nelson Was a Corporate Feminist Darling. Then a Corporation Upended Her Life.",
+      "published": "2026-11-23T19:31:35+00:00",
+      "author": "Amanda Hess",
+      "description": "Amy Nelson, Girlboss champion, found her family in Amazon’s cross hairs and found herself in a new role as anti-corporate crusader.",
+      "link": "https://www.nytimes.com/2026/11/23/style/amy-nelson-riveter-amazon-fbi-investigation.html",
+      "image": "https://static01.nyt.com/images/2026/11/16/multimedia/ST-RIVETER-FOUNDER-01-kzpj/ST-RIVETER-FOUNDER-01-kzpj-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Style",
+      "feed_title": "NYT > Style",
+      "category": "fashion",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "http://www.elle.com/fashion/trend-reports/a74508410/alexander-mcqueen-platos-atlantis-dress-christies-auction-2026/",
+      "title": "A Rare Alexander McQueen Gem Is Coming to Auction",
+      "published": "2026-11-23T19:10:01+00:00",
+      "author": null,
+      "description": "The iconic Alexander McQueen “Plato’s Atlantis” dress is headlining Christie’s December Luxury Week.",
+      "link": "https://www.elle.com/fashion/trend-reports/a74508410/alexander-mcqueen-platos-atlantis-dress-christies-auction-2026/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/c9e3c151-1415-4bc4-bb39-003c5c31f5c3.jpg?crop=1xw:0.313xh;0xw,0.231xh&resize=1200:*",
+      "feed_name": "Fashion - ELLE",
+      "feed_title": "Fashion - ELLE",
+      "category": "fashion",
+      "feed_url": "https://www.elle.com/rss/fashion.xml/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.elle.com&sz=64"
+    },
     {
       "id": "yRNgEYrrGPa5KhqYm8wwXR",
       "title": "Shopbop’s Black Friday Sale Officially Starts Now—Here’s Every Chic Item Worth Adding to Your Cart",
@@ -339,20 +367,6 @@
       "category": "fashion",
       "feed_url": "https://www.theguardian.com/fashion/rss",
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/23/style/amy-nelson-riveter-amazon-fbi-investigation.html",
-      "title": "Amy Nelson Was a Corporate Feminist Darling. Then a Corporation Upended Her Life.",
-      "published": "2026-11-23T10:00:23+00:00",
-      "author": "Amanda Hess",
-      "description": "Amy Nelson was an optimistic avatar of corporate feminism. Then a corporation upended her life.",
-      "link": "https://www.nytimes.com/2026/11/23/style/amy-nelson-riveter-amazon-fbi-investigation.html",
-      "image": "https://static01.nyt.com/images/2026/11/16/multimedia/ST-RIVETER-FOUNDER-01-kzpj/ST-RIVETER-FOUNDER-01-kzpj-mediumSquareAt3X.jpg",
-      "feed_name": "NYT > Style",
-      "feed_title": "NYT > Style",
-      "category": "fashion",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "QcByqFk9Fyj3fDiPUGjd3H",
@@ -13989,20 +14003,6 @@
       "category": "fashion",
       "feed_url": "https://www.whowhatwear.com/rss",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.whowhatwear.com&sz=64"
-    },
-    {
-      "id": "http://www.elle.com/fashion/a74082158/michael-kors-45th-anniversary-new-york-show/",
-      "title": "Michael Kors Still Believes in Magic",
-      "published": "2026-11-02T14:00:00+00:00",
-      "author": null,
-      "description": "The New York native is marking his namesake brand’s 45th anniversary in style.",
-      "link": "https://www.elle.com/fashion/a74082158/michael-kors-45th-anniversary-new-york-show/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/f7dbb0b6-c933-407c-817a-d5c69a46e9ed.jpg?crop=1xw:0.333xh;0xw,0.098xh&resize=1200:*",
-      "feed_name": "Fashion - ELLE",
-      "feed_title": "Fashion - ELLE",
-      "category": "fashion",
-      "feed_url": "https://www.elle.com/rss/fashion.xml/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.elle.com&sz=64"
     }
   ]
 }
