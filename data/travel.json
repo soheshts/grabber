@@ -1,9 +1,23 @@
 {
   "category": "travel",
-  "updated": "2026-11-23T18:03:26.051315+00:00",
+  "updated": "2026-11-23T18:32:46.950687+00:00",
   "count": 183,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/11/23/weather/thanksgiving-storm-updates-maps.html",
+      "title": "Thanksgiving Weather: Storm Maps and Forecast",
+      "published": "2026-11-23T18:04:58+00:00",
+      "author": "Nazaneen Ghaffar",
+      "description": "Storms on the East and West Coast could make travel difficult this week.",
+      "link": "https://www.nytimes.com/2026/11/23/weather/thanksgiving-storm-updates-maps.html",
+      "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23wea-thanksgiving-tqhf/23wea-thanksgiving-tqhf-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Travel",
+      "feed_title": "NYT > Travel",
+      "category": "travel",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "https://www.atlasobscura.com/places/summit-house-prospect-house",
       "title": "Summit House/Prospect House in Hadley, Massachusetts",
@@ -45,20 +59,6 @@
       "category": "travel",
       "feed_url": "https://www.atlasobscura.com/feeds/latest",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.atlasobscura.com&sz=64"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/23/weather/thanksgiving-storm-updates-maps.html",
-      "title": "Thanksgiving Weather: Storm Maps and Forecast",
-      "published": "2026-11-23T12:34:58+00:00",
-      "author": "Nazaneen Ghaffar",
-      "description": "Storms on the East and West Coast could make travel difficult this week.",
-      "link": "https://www.nytimes.com/2026/11/23/weather/thanksgiving-storm-updates-maps.html",
-      "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23wea-thanksgiving-tqhf/23wea-thanksgiving-tqhf-mediumSquareAt3X.jpg",
-      "feed_name": "NYT > Travel",
-      "feed_title": "NYT > Travel",
-      "category": "travel",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://www.nytimes.com/2026/11/18/travel/madrid-mercados-roundup.html",
