@@ -1,9 +1,23 @@
 {
   "category": "science",
-  "updated": "2026-11-24T09:32:41.444299+00:00",
+  "updated": "2026-11-24T10:03:53.326587+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "news714718413",
+      "title": "China unveils new space mission crew, with a Pakistani astronaut set to board its space station",
+      "published": "2026-11-24T09:54:03+00:00",
+      "author": null,
+      "description": "China on Tuesday unveiled the crew for its Shenzhou 24 spacecraft ahead of this week's launch, with a Pakistani set to become the first foreign astronaut to board its space station.",
+      "link": "https://phys.org/news/2026-11-china-unveils-space-mission-crew.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/china-pakistan-space.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cr78271e5j91o#1",
       "title": "'Urgent action' needed to protect lake",
@@ -13989,20 +14003,6 @@
       "category": "science",
       "feed_url": "https://pa.tedcdn.com/feeds/talks.rss",
       "feed_icon": "https://assets.pippa.io/shows/67587e77c705e441797aff96/show-cover.png"
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2026/11/261114202130.htm",
-      "title": "Alzheimer’s may start shrinking two brain regions years before memory loss",
-      "published": "2026-11-15T04:31:56+00:00",
-      "author": null,
-      "description": "Johns Hopkins scientists have uncovered hidden warning signs of Alzheimer’s disease that may appear up to a decade before memory loss begins. Brain scans revealed that two regions involved in memory and emotion start shrinking before the hippocampus, the area doctors typically examine for signs of Alzheimer’s. These early changes are linked to abnormal tau protein buildup and could provide a powerful new way to identify people at risk.",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261114202130.htm",
-      "image": "https://www.sciencedaily.com/images/1920/alzheimers-brain-atrophy.webp",
-      "feed_name": "Latest Science News -- ScienceDaily",
-      "feed_title": "Latest Science News -- ScienceDaily",
-      "category": "science",
-      "feed_url": "https://www.sciencedaily.com/rss/all.xml",
-      "feed_icon": "https://www.sciencedaily.com/images/scidaily-logo-rss.png"
     }
   ]
 }
