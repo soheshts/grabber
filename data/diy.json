@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-24T23:03:24.000252+00:00",
+  "updated": "2026-11-24T23:33:07.921813+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.howtogeek.com/add-tv-to-music-assistant-instead-of-buying-speakers/",
+      "title": "I added my TV to Music Assistant instead of buying more speakers",
+      "published": "2026-11-24T23:30:15+00:00",
+      "author": "Adam Davidson",
+      "description": "Video saved the radio star.",
+      "link": "https://www.howtogeek.com/add-tv-to-music-assistant-instead-of-buying-speakers/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/television-showing-lost-weekend-by-phoebe-bridgers.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/my-wi-fi-said-2400mbps-so-i-found-out-where-the-rest-of-the-speed-went/",
       "title": "My Wi-Fi said 2,400Mbps, so I found out where the rest of the speed went",
@@ -13989,20 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/vibe-coded-photoshop-clone-versus-gimp/",
-      "title": "I pitted the vibe-coded Photoshop clone against GIMP to see if AI beat 30 years of open source",
-      "published": "2026-11-11T15:00:17+00:00",
-      "author": "Yadullah Abidi",
-      "description": "Photoshop muscle memory versus 30 years of GIMP. Only one opens your layers.",
-      "link": "https://www.makeuseof.com/vibe-coded-photoshop-clone-versus-gimp/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/photocraft-running-on-windows-11-laptop.JPG",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }
