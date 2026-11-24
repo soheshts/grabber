@@ -1,9 +1,23 @@
 {
   "category": "fashion",
-  "updated": "2026-11-24T14:03:25.502844+00:00",
+  "updated": "2026-11-24T14:33:34.859331+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/11/24/style/street-style-look-bold-patterns-colors.html",
+      "title": "Street Style Look of the Week: Loud Colors, Bold Patterns and a Faux Fox",
+      "published": "2026-11-24T14:00:03+00:00",
+      "author": "Simbarashe Cha",
+      "description": "Eriko Iwase, a Japanese language instructor, pulled out all the stops when getting dressed on a recent Tuesday off in Tokyo.",
+      "link": "https://www.nytimes.com/2026/11/24/style/street-style-look-bold-patterns-colors.html",
+      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24LOTW-IWASE-01-kqpw/24LOTW-IWASE-01-kqpw-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Style",
+      "feed_title": "NYT > Style",
+      "category": "fashion",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "http://www.elle.com/fashion/a74508149/luxury-fashion-brands-filmmaking/",
       "title": "Fashion Has Moved Beyond the Runway and Into the Director’s Chair",
@@ -17,6 +31,20 @@
       "category": "fashion",
       "feed_url": "https://www.elle.com/rss/fashion.xml/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.elle.com&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/24/style/black-friday-sales-2026-earlier.html",
+      "title": "Black Friday Deals Starting Earlier This Year? It’s Not Just in Your Head.",
+      "published": "2026-11-24T13:59:28+00:00",
+      "author": "Yola Mzizi",
+      "description": "Sales start earlier and seem to drag on endlessly, giving some shoppers “Black Friday fatigue.”",
+      "link": "https://www.nytimes.com/2026/11/24/style/black-friday-sales-2026-earlier.html",
+      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24BLACK-FRIDAY-FOREVER-01-gjwz/24BLACK-FRIDAY-FOREVER-01-gjwz-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Style",
+      "feed_title": "NYT > Style",
+      "category": "fashion",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "7eDHp2Zrtr98FzJi7KX873",
@@ -13975,34 +14003,6 @@
       "category": "fashion",
       "feed_url": "https://fashionista.com/.rss/excerpt/",
       "feed_icon": "https://fashionista.com/site/images/apple-touch-icon.png"
-    },
-    {
-      "id": "http://www.elle.com/fashion/trend-reports/a74313327/lagos-fashion-week-2026-recap-review/",
-      "title": "All the Highlights From Lagos Fashion Week 2026",
-      "published": "2026-11-03T13:24:10+00:00",
-      "author": null,
-      "description": "The 16th edition of Lagos Fashion Week celebrated sustainable circularity and local talent.",
-      "link": "https://www.elle.com/fashion/trend-reports/a74313327/lagos-fashion-week-2026-recap-review/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/1b6659e1-3811-4628-bfa4-c5664957f91b.jpg?crop=1xw:0.333xh;0xw,0.187xh&resize=1200:*",
-      "feed_name": "Fashion - ELLE",
-      "feed_title": "Fashion - ELLE",
-      "category": "fashion",
-      "feed_url": "https://www.elle.com/rss/fashion.xml/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.elle.com&sz=64"
-    },
-    {
-      "id": "http://www.elle.com/fashion/shopping/a74231210/best-cocoon-jeans-trend/",
-      "title": "The Fall Denim Trend Giving Barrel Jeans a New Shape",
-      "published": "2026-11-03T13:00:00+00:00",
-      "author": null,
-      "description": "These are the most flattering, effortless styles to shop now.",
-      "link": "https://www.elle.com/fashion/shopping/a74231210/best-cocoon-jeans-trend/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/351746aa-6670-480b-b10b-af1582d1b066.jpeg?crop=1xw:0.333xh;0xw,0.187xh&resize=1200:*",
-      "feed_name": "Fashion - ELLE",
-      "feed_title": "Fashion - ELLE",
-      "category": "fashion",
-      "feed_url": "https://www.elle.com/rss/fashion.xml/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.elle.com&sz=64"
     }
   ]
 }
