@@ -1,9 +1,37 @@
 {
   "category": "fashion",
-  "updated": "2026-11-24T15:33:22.146511+00:00",
+  "updated": "2026-11-24T16:03:17.871641+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://fashionista.com/2026/11/the-human-skills-shaping-fashions-next-generation",
+      "title": "The Human Skills Shaping Fashion’s Next Generation",
+      "published": "2026-11-24T16:00:00+00:00",
+      "author": "Vogue College of Fashion",
+      "description": "Vogue College of Fashion develops the creativity, confidence and critical thinking students need to shape what comes next in a rapidly changing creative landscape.",
+      "link": "https://fashionista.com/2026/11/the-human-skills-shaping-fashions-next-generation",
+      "image": "https://fashionista.com/.image/NTg6MDAwMDAwMDAwODA3NjUz/vcf_brand263866-copy.jpg?profile=rss",
+      "feed_name": "Fashionista",
+      "feed_title": "Fashionista Full",
+      "category": "fashion",
+      "feed_url": "https://fashionista.com/.rss/excerpt/",
+      "feed_icon": "https://fashionista.com/site/images/apple-touch-icon.png"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/24/style/us-navy-pea-coat-retired.html",
+      "title": "The Navy Waves Goodbye to the Peacoat",
+      "published": "2026-11-24T15:40:14+00:00",
+      "author": "Vanessa Friedman",
+      "description": "But don’t worry, fashion will keep it afloat.",
+      "link": "https://www.nytimes.com/2026/11/24/style/us-navy-pea-coat-retired.html",
+      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24PEACOAT-mwpk/24PEACOAT-mwpk-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Style",
+      "feed_title": "NYT > Style",
+      "category": "fashion",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "https://www.nytimes.com/2026/11/24/style/miss-universe-pageant-puerto-rico-feud.html",
       "title": "Who Controls the Miss Universe Pageant? It’s Surprisingly Hard to Tell.",
@@ -208,20 +236,6 @@
       "description": "A Japanese robotic toy is the hottest new trend in bag accessories. Our reporter Alisha Haridasani Gupta explores the evolution of these accessories and why they’re so appealing to adults.",
       "link": "https://www.nytimes.com/video/style/100000011290319/is-this-robot-the-next-labubu.html",
       "image": null,
-      "feed_name": "NYT > Style",
-      "feed_title": "NYT > Style",
-      "category": "fashion",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/24/style/us-navy-pea-coat-retired.html",
-      "title": "The Navy Waves Goodbye to the Peacoat",
-      "published": "2026-11-24T10:03:17+00:00",
-      "author": "Vanessa Friedman",
-      "description": "But don’t worry, fashion will keep it afloat.",
-      "link": "https://www.nytimes.com/2026/11/24/style/us-navy-pea-coat-retired.html",
-      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24PEACOAT-mwpk/24PEACOAT-mwpk-mediumSquareAt3X.jpg",
       "feed_name": "NYT > Style",
       "feed_title": "NYT > Style",
       "category": "fashion",
@@ -13989,20 +14003,6 @@
       "category": "fashion",
       "feed_url": "https://www.fashionbeans.com/rss-feed/?category=fashion",
       "feed_icon": "https://www.fashionbeans.com/wp-content/uploads/2022/11/FB_Favicon_48x48.png"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/03/style/street-style-look-color-blocking.html",
-      "title": "Street Style Look of the Week: Color Blocking in a London Park",
-      "published": "2026-11-03T14:00:02+00:00",
-      "author": "Simbarashe Cha",
-      "description": "A young artist stacked layer upon layer of color for a recent outing in London, but she still wished she were wearing more.",
-      "link": "https://www.nytimes.com/2026/11/03/style/street-style-look-color-blocking.html",
-      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03LOTW-strachwitz-01-bkgf/03LOTW-strachwitz-01-bkgf-mediumSquareAt3X.jpg",
-      "feed_name": "NYT > Style",
-      "feed_title": "NYT > Style",
-      "category": "fashion",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     }
   ]
 }
