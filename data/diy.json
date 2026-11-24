@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-24T03:03:25.410702+00:00",
+  "updated": "2026-11-24T03:32:26.868227+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://hackaday.com/?p=1429872",
+      "title": "ESP Microcontrollers as Analog Radios",
+      "published": "2026-11-24T03:00:48+00:00",
+      "author": "Jenny List",
+      "description": "The release of the hidden SDR functionality in the radio section of Espressif microcontrollers has led to an explosion of SDR hacking, both transmit and receive. We’ve seen SDR front …read more",
+      "link": "https://hackaday.com/2026/11/23/esp-microcontrollers-as-analog-radios/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/04/esp8266-featured.jpg",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/i-put-linux-on-an-old-laptop-id-written-off-and-its-now-my-most-used-machine/",
       "title": "I put Linux on an old laptop I'd written off, and it's now my most-used machine",
@@ -13989,20 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.makeuseof.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/dropped-phone-link-for-kde-connect-android-and-pc-finally-work-together/",
-      "title": "I dropped Phone Link for KDE Connect, and my Android and PC finally work together",
-      "published": "2026-11-10T17:00:15+00:00",
-      "author": "Jorge A. Aguilar",
-      "description": "KDE Connect works better than Phone Link because it never leaves your local network.",
-      "link": "https://www.howtogeek.com/dropped-phone-link-for-kde-connect-android-and-pc-finally-work-together/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/an-android-phone-showing-kde-connect-with-the-top-spot-blacked-out-to-now-show-the-computer-name.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
     }
   ]
 }
