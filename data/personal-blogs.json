@@ -1,6 +1,6 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-24T19:32:51.971381+00:00",
+  "updated": "2026-11-24T20:03:33.949275+00:00",
   "count": 455,
   "summary": null,
   "items": [
@@ -255,6 +255,20 @@
       "category": "personal blogs",
       "feed_url": "https://www.benjystanton.co.uk/feed.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.benjystanton.co.uk&sz=64"
+    },
+    {
+      "id": "https://bradfrost.com/blog/post/navigating-this-moment-together/",
+      "title": "Community matters more than ever",
+      "published": "2026-11-24T00:00:00+00:00",
+      "author": "Brad Frost",
+      "description": "(FYI, we're featuring Black Friday deals from a community of independent expert educators ! Also, there's only one week left to save 33% on all of our design systems courses .) Sure, we nerd out about design and technology. We sweat tiny details, we argue over semantics, we have strong opinions strongly held about myriad tools & tactics. But what's it all for? What is technology for? What is design for? What are systems for? What are websites for? What is our digital world for? The answer is pe…",
+      "link": "https://bradfrost.com/blog/post/navigating-this-moment-together/",
+      "image": null,
+      "feed_name": "Brad Frost",
+      "feed_title": "Brad Frost",
+      "category": "personal blogs",
+      "feed_url": "http://feeds.feedburner.com/brad-frosts-blog",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=bradfrost.com&sz=64"
     },
     {
       "id": "https://blog.jim-nielsen.com/2026/am-i-a-design-engineer/",
@@ -5645,20 +5659,6 @@
       "category": "personal blogs",
       "feed_url": "https://zander.wtf/blog.rss.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=zander.wtf&sz=64"
-    },
-    {
-      "id": "https://paulrobertlloyd.com/2026/298/a1/watch_trap/",
-      "title": "Watch trap",
-      "published": "2026-10-25T20:00:42+00:00",
-      "author": "Paul Robert Lloyd (reply@paulrobertlloyd.com)",
-      "description": "My decision earlier this year to wear a watch again is reflective of my growing preoccupation with time.",
-      "link": "https://paulrobertlloyd.com/2026/298/a1/watch_trap/",
-      "image": "https://paulrobertlloyd.com/assets/icons/icon-192-any.png",
-      "feed_name": "Paul Robert Lloyd",
-      "feed_title": "Paul Robert Lloyd",
-      "category": "personal blogs",
-      "feed_url": "https://paulrobertlloyd.com/feed.xml",
-      "feed_icon": "/assets/icons/icon-192-any.png"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
