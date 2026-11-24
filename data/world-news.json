@@ -1,9 +1,79 @@
 {
   "category": "World News",
-  "updated": "2026-11-24T18:03:21.289113+00:00",
+  "updated": "2026-11-24T18:32:46.848892+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "108558377",
+      "title": "Op-ed: Trump’s Nvidia board intervention put a price on national security. Our adversaries will take note",
+      "published": "2026-11-24T18:30:06+00:00",
+      "author": null,
+      "description": "President Trump's decision to force Nvidia's board to bring back Jensen Huang as CEO is exactly what Beijing, Tehran, and Moscow would want to see.",
+      "link": "https://www.cnbc.com/2026/11/24/trump-nvidia-jensen-huang-national-security-china-chips.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108547459-17943175242026-10-08t185019z_1810490399_rc26znabjxyn_rtrmadp_0_usa-trump.jpeg?v=1794317547&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/24/world/middleeast/turkey-istanbul-lion.html",
+      "title": "A Lion on the Loose Near Istanbul? Not So Fast.",
+      "published": "2026-11-24T18:25:38+00:00",
+      "author": "Safak Timur",
+      "description": "Blurry surveillance footage spurred a frantic search — until the Turkish authorities said it was unclear whether the animal was the feline.",
+      "link": "https://www.nytimes.com/2026/11/24/world/middleeast/turkey-istanbul-lion.html",
+      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24int-istanbul-lion-bmfp/24int-istanbul-lion-bmfp-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/24/business/economy/trump-nvidia-national-security-us-economics.html",
+      "title": "Trump’s Nvidia Push Shows Companies’ Importance in Global Economic War",
+      "published": "2026-11-24T18:11:56+00:00",
+      "author": "Patricia Cohen",
+      "description": "Presidents before him have bailed out companies in times of national crisis. Mr. Trump went further: He staked the fortunes of the United States on those of a favored chief executive.",
+      "link": "https://www.nytimes.com/2026/11/24/business/economy/trump-nvidia-national-security-us-economics.html",
+      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24Biz-nvidia-Trump-01-vqpj/24Biz-nvidia-Trump-01-vqpj-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket",
+      "title": "Armed men take hostages at supermarket in one of Colombia’s top tourist destinations",
+      "published": "2026-11-24T18:08:04+00:00",
+      "author": "Associated Press",
+      "description": "Police say group seized store in city of Cartagena and local media showed footage of snipers on nearby buildings A group of armed men with their faces covered seized a supermarket in the Colombian city of Cartagena on Tuesday and are holding an unknown number of people hostage, Colombian police said. Footage shared on social media showed dozens of people rushing out of the Exito supermarket in Cartagena’s La Castellana neighborhood, while local media have shown footage of snipers on nearby buil…",
+      "link": "https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket",
+      "image": null,
+      "feed_name": "The Guardian",
+      "feed_title": "World news | The Guardian",
+      "category": "World News",
+      "feed_url": "https://www.theguardian.com/world/rss",
+      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo#0",
+      "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
+      "published": "2026-11-24T18:07:46+00:00",
+      "author": null,
+      "description": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
+      "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e165/live/ec246c40-e825-11f1-93d4-6d580946ad80.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
     {
       "id": "108558128",
       "title": "Treasury yields are steady after inflation warning from New York Fed's Williams, investors await 5-year auction",
@@ -19,20 +89,6 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
-      "id": "https://www.nytimes.com/2026/11/24/business/economy/trump-nvidia-national-security-us-economics.html",
-      "title": "Trump’s Nvidia Push Shows Companies’ Importance in Global Economic War",
-      "published": "2026-11-24T18:00:33+00:00",
-      "author": "Patricia Cohen",
-      "description": "Presidents before him have bailed out companies in times of national crisis. Mr. Trump went further: He staked the fortunes of the United States on those of a favored chief executive.",
-      "link": "https://www.nytimes.com/2026/11/24/business/economy/trump-nvidia-national-security-us-economics.html",
-      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24Biz-nvidia-Trump-01-vqpj/24Biz-nvidia-Trump-01-vqpj-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
       "id": "108558545",
       "title": "AG Blanche, FBI’s Patel dodge questions about Jensen Huang investigation",
       "published": "2026-11-24T17:59:44+00:00",
@@ -45,6 +101,20 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/rest-of-world/samsung-heiress-lee-boo-jins-son-drops-fathers-surname-adopts-mothers-family-name-after-turning-19/articleshow/136139253.cms",
+      "title": "Samsung heiress Lee Boo-jin's son drops father's surname, adopts mother's family name after turning 19",
+      "published": "2026-11-24T17:52:01+00:00",
+      "author": "TOI World Desk",
+      "description": "",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/samsung-heiress-lee-boo-jins-son-drops-fathers-surname-adopts-mothers-family-name-after-turning-19/articleshow/136139253.cms",
+      "image": "https://static.toiimg.com/photo/msid-136139414,imgsize-109508.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
       "id": "108557611",
@@ -187,20 +257,6 @@
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo#0",
-      "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
-      "published": "2026-11-24T16:37:04+00:00",
-      "author": null,
-      "description": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
-      "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e165/live/ec246c40-e825-11f1-93d4-6d580946ad80.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
       "id": "https://timesofindia.indiatimes.com/world/us/a-bronze-cast-of-auguste-rodins-the-thinker-sold-for-192500-in-1985-and-stayed-off-the-market-for-41-years-at-a-november-17-new-york-auction-the-1955-cast-fetched-7-928-million-over-twice-its-high-estimate/articleshow/136135702.cms",
       "title": "Rodin's The Thinker jumps from $192,500 to $7.928m after 41 years off market",
       "published": "2026-11-24T16:36:06+00:00",
@@ -245,7 +301,7 @@
     {
       "id": "https://www.nytimes.com/2026/11/24/world/europe/ukraine-russia-psyops-radio-izium.html",
       "title": "Radio Offers Russian Troops Classic Rock, Nostalgia — and Pleas to Surrender",
-      "published": "2026-11-24T16:27:03+00:00",
+      "published": "2026-11-24T16:27:04+00:00",
       "author": "Oleksandr Chubko and Cassandra Vinograd",
       "description": "What seem like frontline Russian radio stations are actually a Ukrainian psychological operation, hoping to sow despair among the Kremlin’s soldiers.",
       "link": "https://www.nytimes.com/2026/11/24/world/europe/ukraine-russia-psyops-radio-izium.html",
@@ -13947,62 +14003,6 @@
       "category": "World News",
       "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo#3",
-      "title": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
-      "published": "2026-11-20T00:13:21+00:00",
-      "author": null,
-      "description": "Orla Guerin speaks to seven people trapped in the key city of Taiz, cut off from the outside world for weeks.",
-      "link": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f02b/live/b8c81f90-e447-11f1-9192-3924a59e54c7.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "108555393",
-      "title": "AMD dives on short seller report of alleged China exposure",
-      "published": "2026-11-20T00:08:34+00:00",
-      "author": null,
-      "description": "AMD closed down over 7% after a short seller alleged that its firmware showed up at a blacklisted Chinese company. AMD said it complies with U.S. law.",
-      "link": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108475785-1793209626528-gettyimages-2298419069-SKOREA_AMD.jpeg?v=1793209658&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o#1",
-      "title": "Massive hope for pancreatic cancer pill after trial saw tumours vanish",
-      "published": "2026-11-20T00:08:22+00:00",
-      "author": null,
-      "description": "Daily pill daraxonrasib appears to shrink and possibly even eliminate tumours in some patients with one of the deadliest cancers.",
-      "link": "https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4568/live/3c973e20-e4be-11f1-99a1-253766e7ad8b.png",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/california-summons-nvidia-over-concerns-about-former-ceo-china-ties-12351970#publisher=newsstand",
-      "title": "California Summons Nvidia Over Concerns About Former CEO, China Ties",
-      "published": "2026-11-20T00:06:43+00:00",
-      "author": null,
-      "description": "The probe will help determine whether Nvidia's actions violated California law, attorney general said.",
-      "link": "https://www.ndtv.com/world-news/california-summons-nvidia-over-concerns-about-former-ceo-china-ties-12351970#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-11/qqap05b4_nvidia_625x300_16_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     }
   ]
 }
