@@ -1,9 +1,23 @@
 {
   "category": "science",
-  "updated": "2026-11-24T00:33:05.986139+00:00",
+  "updated": "2026-11-24T01:03:27.194914+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "news714662582",
+      "title": "Genetic mosaic helps explain diverse forms of Darwin's finches",
+      "published": "2026-11-24T00:40:07+00:00",
+      "author": null,
+      "description": "Darwin's finches are known for their varied beaks, which help them take advantage of different food sources in the Galápagos Islands. Much previous research has focused on seed-eating ground finches, but their relatives that search for insects in forested areas have received less attention.",
+      "link": "https://phys.org/news/2026-11-genetic-mosaic-diverse-darwin-finches.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/genetic-mosaic-helps-e.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
     {
       "id": "news714662461",
       "title": "Recipe for one of the world's most important cancer drugs uncovered: Tobacco plants could produce the medicine",
@@ -13989,20 +14003,6 @@
       "category": "science",
       "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://www.nytimes.com/live/2026/11/14/science/spacex-starship-launch/heres-the-latest",
-      "title": "Here’s the latest.",
-      "published": "2026-11-14T22:08:47+00:00",
-      "author": "Kenneth Chang",
-      "description": "",
-      "link": "https://www.nytimes.com/live/2026/11/14/science/spacex-starship-launch/heres-the-latest",
-      "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14starship-launch-promo-cfqw-copy/14starship-launch-header-cfqw-facebookJumbo.jpg",
-      "feed_name": "NYT > Science",
-      "feed_title": "NYT > Science",
-      "category": "science",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     }
   ]
 }

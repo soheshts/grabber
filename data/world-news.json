@@ -1,9 +1,65 @@
 {
   "category": "World News",
-  "updated": "2026-11-24T00:33:05.986139+00:00",
+  "updated": "2026-11-24T01:03:27.194914+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "108557918",
+      "title": "Amazon faces FAA probe after delivery drone strikes Michigan fiber cable, garage",
+      "published": "2026-11-24T00:56:10+00:00",
+      "author": null,
+      "description": "An Amazon drone \"struck a fiber cable, a residential garage, and became entangled in power lines during takeoff,\" a preliminary FAA report stated.",
+      "link": "https://www.cnbc.com/2026/11/23/amazon-drone-crash-michigan-faa-investigation.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108207077-1759421802812-gettyimages-1732229069-AFP_33YJ8RL.jpeg?v=1766936286&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "108557954",
+      "title": "Nvidia partner and supplier stocks in Asia jump after Jensen Huang's return",
+      "published": "2026-11-24T00:53:29+00:00",
+      "author": null,
+      "description": "Investors piled back into the tech market, following the reinstatement of Nvidia CEO Jensen Huang by its board.",
+      "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108373696-1791330151985-gettyimages-2264237810-cros-mobilewo260304_npWoD.jpeg?v=1791330161&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
+      "title": "Australian politics live: Labor and Greens nearing deal on digital duty of care; Albanese welcomes Singapore PM",
+      "published": "2026-11-24T00:50:32+00:00",
+      "author": "Krishani Dhanji",
+      "description": "Get our breaking news email , free app or daily news podcast The government will save more than it spends, says Jim Chalmers , but it won’t be a “slash and burn” budget update. Unlike the federal budget, where we get plenty of notice of when it will be handed down, the government only gives us a few days notice for the mid-financial year economic and fiscal outlook (or Myefo). There’s still a fair bit of work to do to finalise it all, but we’ve made enough progress to be confident that at this…",
+      "link": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
+      "image": null,
+      "feed_name": "The Guardian",
+      "feed_title": "World news | The Guardian",
+      "category": "World News",
+      "feed_url": "https://www.theguardian.com/world/rss",
+      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/23/world/asia/indonesia-factory-fire.html",
+      "title": "24 Killed After Fire Rips Through Candy Factory in Indonesia",
+      "published": "2026-11-24T00:35:20+00:00",
+      "author": "Verena Hölzl and Hasya Nindita",
+      "description": "Hundreds of people were at the compound when a blaze broke out on Saturday and then raged for hours.",
+      "link": "https://www.nytimes.com/2026/11/23/world/asia/indonesia-factory-fire.html",
+      "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23int-indonesia-fire-02-gqcm/23int-indonesia-fire-02-gqcm-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "https://timesofindia.indiatimes.com/world/us/a-woman-underwent-a-breast-mri-in-2019-but-doctors-allegedly-missed-an-incidental-lung-cancer-finding-seven-years-later-a-jury-awarded-nearly-8-million-in-a-medical-negligence-case-/articleshow/136100140.cms",
       "title": "Woman dies after lung cancer goes undetected on MRI; jury awards family $8 million",
@@ -19,32 +75,18 @@
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
-      "id": "108557954",
-      "title": "Nvidia partner and supplier stocks in Asia jump after Jensen Huang's return",
-      "published": "2026-11-24T00:24:51+00:00",
+      "id": "https://www.ndtv.com/world-news/south-korea-says-suspected-north-korean-aircraft-breached-islands-airspace-12368409#publisher=newsstand",
+      "title": "South Korea Says Suspected North Korean Aircraft Breached Island's Airspace",
+      "published": "2026-11-23T23:56:11+00:00",
       "author": null,
-      "description": "Investors piled back into the tech market, following the reinstatement of Nvidia CEO Jensen Huang by its board.",
-      "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108373696-1791330151985-gettyimages-2264237810-cros-mobilewo260304_npWoD.jpeg?v=1791330161&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
+      "description": "The government and military did not immediately release more details.",
+      "link": "https://www.ndtv.com/world-news/south-korea-says-suspected-north-korean-aircraft-breached-islands-airspace-12368409#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2025-03/8vdt4btg_north-korea-south-korea-border_625x300_12_March_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
       "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
-      "title": "Australian politics live: Taylor notes ‘tough year’ for Coalition party room; King Charles ‘deeply saddened’ by Meldrum’s death",
-      "published": "2026-11-24T00:21:58+00:00",
-      "author": "Krishani Dhanji",
-      "description": "Get our breaking news email , free app or daily news podcast The government will save more than it spends, says Jim Chalmers , but it won’t be a “slash and burn” budget update. Unlike the federal budget, where we get plenty of notice of when it will be handed down, the government only gives us a few days notice for the mid-financial year economic and fiscal outlook (or Myefo). There’s still a fair bit of work to do to finalise it all, but we’ve made enough progress to be confident that at this…",
-      "link": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
-      "image": null,
-      "feed_name": "The Guardian",
-      "feed_title": "World news | The Guardian",
-      "category": "World News",
-      "feed_url": "https://www.theguardian.com/world/rss",
-      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
       "id": "108557040",
@@ -87,20 +129,6 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/23/world/asia/indonesia-factory-fire.html",
-      "title": "Deadly Fire Rips Through Candy Factory in Indonesia",
-      "published": "2026-11-23T23:25:56+00:00",
-      "author": "Verena Hölzl and Hasya Nindita",
-      "description": "Hundreds of people were at the compound when a blaze broke out on Saturday and then raged for hours.",
-      "link": "https://www.nytimes.com/2026/11/23/world/asia/indonesia-factory-fire.html",
-      "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23int-indonesia-fire-02-gqcm/23int-indonesia-fire-02-gqcm-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/us/a-former-mayor-of-mississippis-capital-city-has-been-sentenced-to-37-months-in-prison-after-pleading-guilty-in-a-bribery-scheme-involving-a-proposed-hotel-he-must-also-forfeit-50000-in-property/articleshow/136098328.cms",
@@ -13975,34 +14003,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.theguardian.com/australia-news/2026/nov/19/tammy-shipley-was-supposed-to-be-monitored-in-prison-instead-she-died-after-drinking-20l-of-water-ntwnfb",
-      "title": "Tammy Shipley was supposed to be monitored in prison. Instead she died after drinking 20L of water",
-      "published": "2026-11-19T06:20:46+00:00",
-      "author": "Australian Associated Press",
-      "description": "If the Aboriginal woman had been checked at regular intervals as required, her ‘excess consumption of water’ would have been prevented, inquest finds • Warning: This article contains images of and references to Indigenous Australians who have died Get our breaking news email , free app or daily news podcast The death of an Aboriginal woman who collapsed after drinking at least 20 litres of water in a New South Wales prison cell was preventable and the result of systemic failures, a coroner has…",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/19/tammy-shipley-was-supposed-to-be-monitored-in-prison-instead-she-died-after-drinking-20l-of-water-ntwnfb",
-      "image": "https://i.guim.co.uk/img/media/e4d37f2168dd7cc02403ce5114fc09edd1d4f861/0_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e9ea96b8bd897fb0676af2a2a101f537",
-      "feed_name": "The Guardian",
-      "feed_title": "World news | The Guardian",
-      "category": "World News",
-      "feed_url": "https://www.theguardian.com/world/rss",
-      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
-    },
-    {
-      "id": "https://www.theguardian.com/australia-news/2026/nov/19/mother-whose-twin-baby-died-was-determined-to-have-home-birth-despite-expert-advice-nsw-inquest-hears-ntwnfb",
-      "title": "Mother whose twin baby died was determined to have home birth despite advice of experts, NSW inquest hears",
-      "published": "2026-11-19T06:17:12+00:00",
-      "author": "Tory Shepherd",
-      "description": "Inquest into deaths of four babies in northern NSW between 2022 and 2024 told mother refused to give birth in hospital after hearing others’ traumatic stories Get our breaking news email , free app or daily news podcast Baby B’s mother was so determined to have a home birth she ignored the advice of experts – including her own midwife, an inquest has heard. The inquest heard she was pregnant with twins, which she described as a “wonderful shock”, and didn’t want a hospital birth because she had…",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/19/mother-whose-twin-baby-died-was-determined-to-have-home-birth-despite-expert-advice-nsw-inquest-hears-ntwnfb",
-      "image": "https://i.guim.co.uk/img/media/6f2f5f79b230afbd1349d9a2efe3436da90ab4dc/655_0_3790_3033/master/3790.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eb6a4c8d3e38d0ee52bde69a4bd0a43d",
-      "feed_name": "The Guardian",
-      "feed_title": "World news | The Guardian",
-      "category": "World News",
-      "feed_url": "https://www.theguardian.com/world/rss",
-      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
     }
   ]
 }

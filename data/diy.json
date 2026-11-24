@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-24T00:33:05.986139+00:00",
+  "updated": "2026-11-24T01:03:27.194914+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.howtogeek.com/i-put-linux-on-an-old-laptop-id-written-off-and-its-now-my-most-used-machine/",
+      "title": "I put Linux on an old laptop I'd written off, and it's now my most-used machine",
+      "published": "2026-11-24T01:00:15+00:00",
+      "author": "Ismar Hrnjicevic",
+      "description": "Never underestimate what a little creativity can do for old hardware.",
+      "link": "https://www.howtogeek.com/i-put-linux-on-an-old-laptop-id-written-off-and-its-now-my-most-used-machine/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/laptop_result.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/absolute-volume-makes-your-earbuds-sound-bad/",
       "title": "A hidden Android setting called 'Absolute Volume' is making your earbuds sound bad",
@@ -23,7 +37,7 @@
       "title": "That Java Phone Can Still Go Online",
       "published": "2026-11-24T00:00:34+00:00",
       "author": "Jenny List",
-      "description": "The first generation of internet connected mobile phones weren’t smartphones, instead they were so-called feature phones, somewhere between a basic phone-only device and the type of phone we know today. …read more",
+      "description": "The first generation of internet-connected mobile phones weren’t smartphones; instead, they were so-called feature phones, somewhere between a basic phone-only device and the type of phone we know today. They …read more",
       "link": "https://hackaday.com/2026/11/23/that-java-phone-can-still-go-online/",
       "image": "https://hackaday.com/wp-content/uploads/2026/11/java-phone-featured.jpg",
       "feed_name": "Blog – Hackaday",
@@ -13989,20 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.makeuseof.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://hackaday.com/?p=803976",
-      "title": "Simulating and Visualising the Central Limit Theorem",
-      "published": "2026-11-10T16:30:21+00:00",
-      "author": "Maya Posch",
-      "description": "Statistics is one of those fields which people tend to love or hate when they’re confronted with it during their school time. Although incredibly useful and even essential in many …read more",
-      "link": "https://hackaday.com/2026/11/10/simulating-and-visualising-the-central-limit-theorem/",
-      "image": "https://hackaday.com/wp-content/uploads/2026/07/unnamed-chunk-6-1.png",
-      "feed_name": "Blog – Hackaday",
-      "feed_title": "Blog – Hackaday",
-      "category": "DIY",
-      "feed_url": "https://hackaday.com/blog/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
     }
   ]
 }
