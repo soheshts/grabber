@@ -1,9 +1,37 @@
 {
   "category": "technology",
-  "updated": "2026-11-24T19:03:49.499154+00:00",
+  "updated": "2026-11-24T19:32:51.971381+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/humanitys-first-exam/",
+      "title": "We’re launching Humanity’s First Exam and a Kaggle hackathon to test LLM reliability.",
+      "published": "2026-11-24T19:30:00+00:00",
+      "author": "Oran Kelly",
+      "description": "Google launches Humanity’s First Exam to test LLM reliability across 544 prompts.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/humanitys-first-exam/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Neon_Sign.max-600x600.format-webp.webp",
+      "feed_name": "The Keyword",
+      "feed_title": "News from Google",
+      "category": "technology",
+      "feed_url": "https://www.blog.google/rss/",
+      "feed_icon": "https://blog.google/static/blogv2/images/google.png"
+    },
+    {
+      "id": "TheNextWeb=ec43dc5db4ee3e70751f269b6688cfcd",
+      "title": "Anthropic lets MCP servers ship skills and run background jobs in Claude",
+      "published": "2026-11-24T19:22:11+00:00",
+      "author": "Ana Maria Constantin",
+      "description": "Anthropic has opened Skills over MCP in public beta, letting apps that connect to Claude ship playbooks alongside their tools. Tasks, for long background jobs, and Elicitation, which pauses for user input, are now generally available, with File Uploads coming soon. Apps that plug into Claude through MCP can now also tell it how to […] This story continues at The Next Web",
+      "link": "https://thenextweb.com/news/anthropic-claude-skills-over-mcp-tasks-elicitation",
+      "image": "https://media.thenextweb.com/2026/07/claude-cowork-sandbox-escape-mac-files-sharedroot.avif",
+      "feed_name": "The Next Web",
+      "feed_title": "The Next Web",
+      "category": "technology",
+      "feed_url": "https://thenextweb.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
     {
       "id": "https://www.theverge.com/?p=1040046",
       "title": "Amazon is knocking almost $50 off six months of Apple TV",
@@ -17,6 +45,34 @@
       "category": "technology",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
+    },
+    {
+      "id": "https://www.engadget.com/2321242/chatgpt-biggest-limitations/",
+      "title": "The biggest limitations of ChatGPT",
+      "published": "2026-11-24T19:00:00+00:00",
+      "author": "Husain Parvez",
+      "description": "Here's why paying for a premium ChatGPT plan won't shield you from its biggest weaknesses, and what that means for trusting the chatbot with your work.",
+      "link": "https://www.engadget.com/2321242/chatgpt-biggest-limitations/",
+      "image": "https://www.engadget.com/img/gallery/the-biggest-limitations-of-chatgpt/l-intro-1794925192.jpg",
+      "feed_name": "Engadget",
+      "feed_title": "Engadget - Technology News & Expert Reviews",
+      "category": "technology",
+      "feed_url": "https://www.engadget.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
+    {
+      "id": "https://tech.slashdot.org/story/26/11/24/173211/google-alternative-kagi-launches-an-email-service?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "title": "Google Alternative Kagi Launches An Email Service",
+      "published": "2026-11-24T19:00:00+00:00",
+      "author": "BeauHD",
+      "description": "Kagi, the company behind the paid Google Search alternative and Orion web browser, has launched a public beta of Kagi Mail, an email service promising \"no surveillance, no ads, open standards, and no lock-in.\" \"Does the world need another email service? We asked ourselves that question more than once,\" Kagi says. \"There are great ones out there, and we're fans of what Fastmail and Tuta are doing. We still built our own, for the same reason we build everything at Kagi: technology should do its j…",
+      "link": "https://tech.slashdot.org/story/26/11/24/173211/google-alternative-kagi-launches-an-email-service?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+      "feed_name": "Slashdot",
+      "feed_title": "Slashdot",
+      "category": "technology",
+      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
     },
     {
       "id": "TheNextWeb=b5cea9300893ca250cb5c5fa9ffce0fa",
@@ -34,7 +90,7 @@
     },
     {
       "id": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
-      "title": "FAA opens probe after Amazon delivery drone clips cable, crashes into garage",
+      "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
       "published": "2026-11-24T18:47:57+00:00",
       "author": "Jeremy Hsu",
       "description": "Amazon says Prime Air drones made “hundreds of thousands” of deliveries in 2026.",
@@ -4175,6 +4231,20 @@
       "category": "technology",
       "feed_url": "http://feeds.mashable.com/Mashable",
       "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
+    },
+    {
+      "id": "https://tech.slashdot.org/story/26/11/23/0657200/us-intelligence-chief-predicts-more-tech-outages-as-systems-undergo-upgrades?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "title": "US Intelligence Chief Predicts More Tech Outages As Systems Undergo Upgrades",
+      "published": "2026-11-23T17:00:00+00:00",
+      "author": "BeauHD",
+      "description": "Director of National Intelligence Jay Clayton warned Sunday that Americans should expect more technology outages as companies and government agencies modernize aging infrastructure. Speaking on CNN, Clayton said the upgrades are necessary to improve performance and cybersecurity but will inevitably cause \"glitches, gaps, [and] interruptions in service.\" Reuters reports: A string of technology failures this month disrupted critical U.S. systems, including a nationwide halt to air travel, a Micro…",
+      "link": "https://tech.slashdot.org/story/26/11/23/0657200/us-intelligence-chief-predicts-more-tech-outages-as-systems-undergo-upgrades?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+      "feed_name": "Slashdot",
+      "feed_title": "Slashdot",
+      "category": "technology",
+      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
     },
     {
       "id": "https://www.engadget.com/2325245/google-is-finally-retiring-the-nest-app-early-next-year/",
@@ -13933,76 +14003,6 @@
       "category": "technology",
       "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
       "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
-    },
-    {
-      "id": "https://www.engadget.com/2321922/here-are-some-photos-of-elon-musk-who-is-not-maga/",
-      "title": "Here are some photos of Elon Musk, who is 'not MAGA'",
-      "published": "2026-11-19T17:01:15+00:00",
-      "author": "Igor Bonifacic",
-      "description": "He's not even sure what that means, guys.",
-      "link": "https://www.engadget.com/2321922/here-are-some-photos-of-elon-musk-who-is-not-maga/",
-      "image": "https://www.engadget.com/img/gallery/here-are-some-photos-of-elon-musk-who-is-not-maga/l-intro-1795108110.jpg",
-      "feed_name": "Engadget",
-      "feed_title": "Engadget - Technology News & Expert Reviews",
-      "category": "technology",
-      "feed_url": "https://www.engadget.com/rss.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
-    },
-    {
-      "id": "https://blog.google/company-news/outreach-and-initiatives/sustainability/granular-certificates-clean-energy-2026/",
-      "title": "A smarter way to track and buy clean energy",
-      "published": "2026-11-19T17:00:00+00:00",
-      "author": "Jenna Stauffer",
-      "description": "Video discussion featuring Carolyne Murff (CEO, ClearLight Energy) and Devin Hardman (CCO, esVolta) explaining how Google scales Granular Certificates to track clean energy hour by hour, guide grid planning, and unlock revenue for energy storage.",
-      "link": "https://blog.google/company-news/outreach-and-initiatives/sustainability/granular-certificates-clean-energy-2026/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GranularCertificates_HeroImage.max-600x600.format-webp.webp",
-      "feed_name": "The Keyword",
-      "feed_title": "News from Google",
-      "category": "technology",
-      "feed_url": "https://www.blog.google/rss/",
-      "feed_icon": "https://blog.google/static/blogv2/images/google.png"
-    },
-    {
-      "id": "https://blog.google/products-and-platforms/products/workspace/google-workspace-gemini-small-business-stories/",
-      "title": "Small businesses, big results: How teams scale with AI",
-      "published": "2026-11-19T17:00:00+00:00",
-      "author": "Yulie Kwon Kim",
-      "description": "A montage of four U.S. small business owners using Google Workspace with Gemini on their phones and laptops to run their businesses.",
-      "link": "https://blog.google/products-and-platforms/products/workspace/google-workspace-gemini-small-business-stories/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/2096x1182px_4_1.max-600x600.format-webp.webp",
-      "feed_name": "The Keyword",
-      "feed_title": "News from Google",
-      "category": "technology",
-      "feed_url": "https://www.blog.google/rss/",
-      "feed_icon": "https://blog.google/static/blogv2/images/google.png"
-    },
-    {
-      "id": "https://blog.google/products/ads-commerce/ads-decoded-ab-testing/",
-      "title": "Build strategic A/B tests to grow your ad performance.",
-      "published": "2026-11-19T17:00:00+00:00",
-      "author": null,
-      "description": "Improve your Google Ads performance with expert A/B testing strategies. Master AI Max experiments and Smart Bidding with our latest guide. Listen now.",
-      "link": "https://blog.google/products/ads-commerce/ads-decoded-ab-testing/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E7_Social_Share.max-600x600.format-webp.webp",
-      "feed_name": "The Keyword",
-      "feed_title": "News from Google",
-      "category": "technology",
-      "feed_url": "https://www.blog.google/rss/",
-      "feed_icon": "https://blog.google/static/blogv2/images/google.png"
-    },
-    {
-      "id": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
-      "title": "Walter Isaacson on curiosity and creativity in the AI age.",
-      "published": "2026-11-19T17:00:00+00:00",
-      "author": null,
-      "description": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues.max-600x600.format-webp.webp",
-      "feed_name": "The Keyword",
-      "feed_title": "News from Google",
-      "category": "technology",
-      "feed_url": "https://www.blog.google/rss/",
-      "feed_icon": "https://blog.google/static/blogv2/images/google.png"
     }
   ]
 }
