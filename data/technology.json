@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated": "2026-11-24T01:03:27.194914+00:00",
+  "updated": "2026-11-24T01:33:13.080460+00:00",
   "count": 1000,
   "summary": null,
   "items": [
@@ -73,6 +73,20 @@
       "category": "technology",
       "feed_url": "https://www.engadget.com/rss.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
+    {
+      "id": "00neVqrqKTmIcHtIaUsL81c",
+      "title": "Google says the first autonomous AI cyberattack has happened. Expect a lot more like it.",
+      "published": "2026-11-23T23:56:37+00:00",
+      "author": null,
+      "description": "Google Threat Intelligence has uncovered a fully autonomous AI cyberattack and detailed exactly how it went down.",
+      "link": "https://mashable.com/tech/google-says-first-autonomous-ai-cyberattack-has-happened",
+      "image": "https://helios-i.mashable.com/imagery/articles/00neVqrqKTmIcHtIaUsL81c/hero-image.jpg",
+      "feed_name": "Mashable",
+      "feed_title": "Mashable",
+      "category": "technology",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
     },
     {
       "id": "5225229",
@@ -13989,20 +14003,6 @@
       "category": "technology",
       "feed_url": "http://feeds.mashable.com/Mashable",
       "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
-    },
-    {
-      "id": "https://developers.slashdot.org/story/26/11/18/1931246/java4shell-flaw-exposes-openjdk-to-rce-via-base64?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "title": "'Java4Shell' Flaw Exposes OpenJDK to RCE via Base64",
-      "published": "2026-11-18T20:00:00+00:00",
-      "author": "BeauHD",
-      "description": "Longtime Slashdot reader HnT writes: Security researchers at Calif have disclosed Java4Shell (CVE-2026-114938), a critical 9.2-rated memory-corruption bug in OpenJDK's AVX-512 Base64 decoder. By sending a malformed string ending in a stray = character, attackers can trigger an out-of-bounds heap write to leak sensitive memory or achieve pre-auth remote code execution on major platforms like Jira, Jenkins, and Keycloak. Although Calif says the vulnerability is difficult to exploit, Oracle releas…",
-      "link": "https://developers.slashdot.org/story/26/11/18/1931246/java4shell-flaw-exposes-openjdk-to-rce-via-base64?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-      "feed_name": "Slashdot",
-      "feed_title": "Slashdot",
-      "category": "technology",
-      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
     }
   ]
 }
