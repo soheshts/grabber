@@ -1,9 +1,37 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-24T17:03:33.315758+00:00",
-  "count": 451,
+  "updated": "2026-11-24T17:33:04.751370+00:00",
+  "count": 454,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.raymondcamden.com/2026/11/24/my-to-do-replacing-what-microsoft-is-killing",
+      "title": "My To Do - Replacing what Microsoft is Killing",
+      "published": "2026-11-24T18:00:00+00:00",
+      "author": "Raymond Camden",
+      "description": "Earlier this week I shared the bad news that Microsoft is killing off To Do, one of the best, simplest apps around. I built a simple export tool to let you get your existing To Dos in either JSON or HTML format. At the time, I hinted at a plan to replace the app, and today I'm happy to share it. My To Do is a web application based heavily on the UI and functionality of Microsoft's app. It's got a few lists built in, but then lets you add your own and create to dos to your heart's content. Funct…",
+      "link": "https://www.raymondcamden.com/2026/11/24/my-to-do-replacing-what-microsoft-is-killing",
+      "image": "https://static.raymondcamden.com/images/2026/11/todo1.jpg",
+      "feed_name": "Raymond Camden",
+      "feed_title": "Raymond Camden",
+      "category": "personal blogs",
+      "feed_url": "https://www.raymondcamden.com/feed.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.raymondcamden.com&sz=64"
+    },
+    {
+      "id": "6b03593abfe0f805d55a7500",
+      "title": "Issue 112 – We have a lot of advisers",
+      "published": "2026-11-24T17:05:51+00:00",
+      "author": "Molly White",
+      "description": "After a blue wave, the “crypto president” can’t save bitcoin’s price, Washington is bracing for subpoenas, and a Trump-linked company distances itself",
+      "link": "https://www.citationneeded.news/issue-112/",
+      "image": "https://www.citationneeded.news/content/images/2026/11/tarek-mansour.jpg",
+      "feed_name": "Citation Needed",
+      "feed_title": "Citation Needed",
+      "category": "personal blogs",
+      "feed_url": "https://www.citationneeded.news/rss/",
+      "feed_icon": "https://www.citationneeded.news/favicon.png"
+    },
     {
       "id": "https://markboulton.co.uk/journal/faster-is-not-always-better/",
       "title": "Faster is not always better",
@@ -103,6 +131,20 @@
       "feed_icon": "https://shkspr.mobi/blog/wp-content/uploads/2023/07/cropped-avatar-32x32.jpeg"
     },
     {
+      "id": "https://ronaldsvilcins.com/2026/11/24/how-i-test-a-layout-against-real-world-content/",
+      "title": "Test responsive layouts with awkward content",
+      "published": "2026-11-24T06:00:00+00:00",
+      "author": "Ronalds Vilciņš",
+      "description": "Test responsive layouts with long titles, missing images, empty fields, translations, slow loading, keyboard navigation, and zoom before publishing.",
+      "link": "https://ronaldsvilcins.com/2026/11/24/how-i-test-a-layout-against-real-world-content/",
+      "image": "https://ronaldsvilcins.com/og/a22edb12aad66d8d893aa0ffd43da4e66360995f4aef3e8c160bd852ce959783.jpg",
+      "feed_name": "Ronalds Vilciņš",
+      "feed_title": "Ronalds Vilciņš",
+      "category": "personal blogs",
+      "feed_url": "https://ronaldsvilcins.com/atom.xml",
+      "feed_icon": "https://ronaldsvilcins.com/favicon.png"
+    },
+    {
       "id": "https://www.bennadel.com/blog/4932-using-a-dev-base-test-url-pattern-for-local-development.htm",
       "title": "Using A \"dev.{base}.test\" URL Pattern For Local Development",
       "published": "2026-11-24T02:08:03+00:00",
@@ -157,6 +199,20 @@
       "category": "personal blogs",
       "feed_url": "https://techhub.iodigital.com/feed.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=techhub.iodigital.com&sz=64"
+    },
+    {
+      "id": "https://www.ryangittings.co.uk/blog/web-designer-or-website-consultant/",
+      "title": "Web Designer or Website Consultant? What You Actually Need",
+      "published": "2026-11-24T00:00:00+00:00",
+      "author": "Ryan Gittings (hello@ryangittings.co.uk)",
+      "description": "A good number of the people who get in touch with me don't start by asking for a website. They start with a question. Is our site the problem? Is this quote reasonable? Should we rebuild or fix what we've got? That's usually the moment people search for a \"website consultant\". They don't want to be sold a new site yet. They want someone independent to look at what they have and tell them straight. Fair enough. But the line between a consultant and a web designer is blurrier than the job titles…",
+      "link": "https://www.ryangittings.co.uk/blog/web-designer-or-website-consultant/",
+      "image": null,
+      "feed_name": "Ryan Gittings Blog",
+      "feed_title": "Ryan Gittings Blog",
+      "category": "personal blogs",
+      "feed_url": "https://www.ryangittings.co.uk/feed.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.ryangittings.co.uk&sz=64"
     },
     {
       "id": "https://blog.jim-nielsen.com/2026/am-i-a-design-engineer/",
@@ -5589,20 +5645,6 @@
       "category": "personal blogs",
       "feed_url": "http://jeffbridgforth.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=jeffbridgforth.com&sz=64"
-    },
-    {
-      "id": "https://thomasrigby.com/posts/2026-w43/",
-      "title": "Weeknotes: 2026-W43",
-      "published": "2026-10-25T17:18:08+00:00",
-      "author": "Thomas Rigby (rss@thomasrigby.com)",
-      "description": "In which I consider a new pen",
-      "link": "https://thomasrigby.com/posts/2026-w43/",
-      "image": "https://thomasrigby.com/images/YhIMjqaptz-600.jpeg",
-      "feed_name": "Thomas Rigby",
-      "feed_title": "Thomas Rigby",
-      "category": "personal blogs",
-      "feed_url": "https://thomasrigby.com/feed.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=thomasrigby.com&sz=64"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
