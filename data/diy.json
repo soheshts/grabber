@@ -1,6 +1,6 @@
 {
   "category": "DIY",
-  "updated": "2026-11-24T00:02:53.417883+00:00",
+  "updated": "2026-11-24T00:33:05.986139+00:00",
   "count": 1000,
   "summary": null,
   "items": [
@@ -17,6 +17,20 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://hackaday.com/?p=1429860",
+      "title": "That Java Phone Can Still Go Online",
+      "published": "2026-11-24T00:00:34+00:00",
+      "author": "Jenny List",
+      "description": "The first generation of internet connected mobile phones weren’t smartphones, instead they were so-called feature phones, somewhere between a basic phone-only device and the type of phone we know today. …read more",
+      "link": "https://hackaday.com/2026/11/23/that-java-phone-can-still-go-online/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/java-phone-featured.jpg",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
     },
     {
       "id": "https://www.howtogeek.com/tp-links-deco-x20-mesh-system-is-down-to-120-and-it-fixes-your-dead-zones/",
@@ -13989,20 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://hackaday.com/blog/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/baseus-rd1-plus-docking-station-review/",
-      "title": "This compact dock makes my MacBook setup as simple as one cable",
-      "published": "2026-11-10T16:30:16+00:00",
-      "author": "Sydney Butler",
-      "description": "All it takes is a single connection, and you're in business.",
-      "link": "https://www.howtogeek.com/baseus-rd1-plus-docking-station-review/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/baseus-rd1-hero.jpeg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
     }
   ]
 }
