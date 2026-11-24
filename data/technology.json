@@ -1,9 +1,23 @@
 {
   "category": "technology",
-  "updated": "2026-11-24T07:33:05.172564+00:00",
+  "updated": "2026-11-24T08:02:52.783897+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/expanding-london-home-kings-cross/",
+      "title": "We’re expanding our London home in King's Cross.",
+      "published": "2026-11-24T08:00:00+00:00",
+      "author": "Kate Alessi",
+      "description": "Sticky Note Art in 6 Pancras Square",
+      "link": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/expanding-london-home-kings-cross/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Untitled_-_23_November_2026_at_.max-600x600.format-webp_kp5WWPC.webp",
+      "feed_name": "The Keyword",
+      "feed_title": "News from Google",
+      "category": "technology",
+      "feed_url": "https://www.blog.google/rss/",
+      "feed_icon": "https://blog.google/static/blogv2/images/google.png"
+    },
     {
       "id": "TheNextWeb=1fb096daa569c811723ce8796722680e",
       "title": "Canva opens its design tools to AI agents and outside developers",
@@ -13989,20 +14003,6 @@
       "category": "technology",
       "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
       "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
-    },
-    {
-      "id": "https://arstechnica.com/gadgets/2026/11/netflix-ceo-admits-app-may-bury-stuff-you-want-to-watch-under-stuff-you-dont/",
-      "title": "Netflix CEO admits app may bury stuff you want to watch under stuff you don’t",
-      "published": "2026-11-18T21:29:24+00:00",
-      "author": "Scharon Harding",
-      "description": "CEO Ted Sarandos discusses gaps in making hit shows that streamers can find.",
-      "link": "https://arstechnica.com/gadgets/2026/11/netflix-ceo-admits-app-may-bury-stuff-you-want-to-watch-under-stuff-you-dont/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/squid1-500x500.jpg",
-      "feed_name": "Ars Technica",
-      "feed_title": "Ars Technica",
-      "category": "technology",
-      "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
-      "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
     }
   ]
 }
