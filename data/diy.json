@@ -1,9 +1,51 @@
 {
   "category": "DIY",
-  "updated": "2026-11-24T18:32:46.848892+00:00",
+  "updated": "2026-11-24T19:03:49.499154+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/pixel-camera-useful-settings/",
+      "title": "Your Pixel camera is hiding some seriously useful settings",
+      "published": "2026-11-24T19:00:17+00:00",
+      "author": "Pankil Shah",
+      "description": "Make the most of your Pixel camera.",
+      "link": "https://www.makeuseof.com/pixel-camera-useful-settings/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/08/google-pixel-11-pro-xl-camera-visor-with-hilight-visible.png",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/ditching-streaming-services-before-black-friday-better-deals/",
+      "title": "I'm ditching several streaming services before Black Friday for better deals",
+      "published": "2026-11-24T19:00:16+00:00",
+      "author": "Dan Girolamo",
+      "description": "If I want to save some money on streaming, I'll need to get a little creative.",
+      "link": "https://www.howtogeek.com/ditching-streaming-services-before-black-friday-better-deals/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/roku-tv-sharp.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/unofficial-wear-os-35-original-samsung-galaxy-watch/",
+      "title": "The original Galaxy Watch gets a second life with an unofficial Wear OS port",
+      "published": "2026-11-24T18:50:36+00:00",
+      "author": "Jefferson Mangubat",
+      "description": "Your dusty 2018 Galaxy Watch can now run Wear OS 3.5, if you don't mind risking a brick.",
+      "link": "https://www.howtogeek.com/unofficial-wear-os-35-original-samsung-galaxy-watch/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/Galaxy-Watch-5-Review-1.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/why-windows-uses-backslashes-in-file-paths/",
       "title": "The backwards slash in every Windows path has an interesting old explanation",
@@ -13961,48 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.makeuseof.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/windows-11-sysmon-monitor-app-activity/",
-      "title": "Windows 11 can now record everything your apps do behind your back",
-      "published": "2026-11-11T11:30:17+00:00",
-      "author": "Afam Onyimadu",
-      "description": "The mysterious svchost.exe in Task Manager finally got a name.",
-      "link": "https://www.makeuseof.com/windows-11-sysmon-monitor-app-activity/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/network-events-on-event-viewer.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/hear-me-out-android-needs-a-dynamic-island/",
-      "title": "Hear me out: Android needs a Dynamic Island",
-      "published": "2026-11-11T11:30:16+00:00",
-      "author": "Joe Fedewa",
-      "description": "A more flexible, modern status bar. Not an iPhone clone.",
-      "link": "https://www.howtogeek.com/hear-me-out-android-needs-a-dynamic-island/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/dynamic-island-on-a-pixel-11-fold-1-2.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/repurposed-old-wi-fi-router-improve-stubborn-corner-home-network/",
-      "title": "I repurposed an old Wi-Fi router to improve one stubborn corner of my home network",
-      "published": "2026-11-11T11:30:16+00:00",
-      "author": "Arol Wright",
-      "description": "No need to go all-out on mesh, but you might already own the very solution you need.",
-      "link": "https://www.howtogeek.com/repurposed-old-wi-fi-router-improve-stubborn-corner-home-network/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/07/apc_0033.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
     }
   ]
 }

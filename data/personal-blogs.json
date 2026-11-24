@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-24T18:32:46.848892+00:00",
-  "count": 454,
+  "updated": "2026-11-24T19:03:49.499154+00:00",
+  "count": 455,
   "summary": null,
   "items": [
     {
@@ -227,6 +227,34 @@
       "category": "personal blogs",
       "feed_url": "https://www.ryangittings.co.uk/feed.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.ryangittings.co.uk&sz=64"
+    },
+    {
+      "id": "https://mattstromawn.com/writing/mirror-mode/",
+      "title": "Mirror mode",
+      "published": "2026-11-24T00:00:00+00:00",
+      "author": "Matt Ström-Awn (matthew.h.strom@gmail.com)",
+      "description": "Should designers code work in production? Even before the Cambrian explosion of AI-enabled-design, design engineers introduced a new genre of hot takes: designers should either work directly from the production codebase, or ignore production and build and maintain a separate prototyping sandbox. Both sides are valid, but the internet does not abide nuance, so most teams I’ve worked with try to take either one approach or the other. As an unusually-code-literate designer, I’ve always pushed my t…",
+      "link": "https://mattstromawn.com/writing/mirror-mode/",
+      "image": "https://mattstromawn.com/images/mirror-mode-1.png",
+      "feed_name": "The personal website of Matthew Ström",
+      "feed_title": "The personal website of Matt Ström-Awn",
+      "category": "personal blogs",
+      "feed_url": "https://matthewstrom.com/feed.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mattstromawn.com&sz=64"
+    },
+    {
+      "id": "https://www.benjystanton.co.uk/blog/stuck-on-a-train/",
+      "title": "Stuck on a train",
+      "published": "2026-11-24T00:00:00+00:00",
+      "author": "Benjy Stanton (benjystanton@gmail.com)",
+      "description": "Travelling to Leeds, my first design history post and an anti-racism reading list. Heading to Leeds I haven't shared a weeknote since 25 October 2026. Whoops! I've been busy in work (and outside of work). But now on a train heading to Leeds for a Vaccination Digital Services (VDS) away day, so I have some time to put something down and hopefully get back into the habit. Hoping to grab a load of new stickers for my laptop at the very least. Writing a design history post A few weeks ago, I shared…",
+      "link": "https://www.benjystanton.co.uk/blog/stuck-on-a-train/",
+      "image": "https://www.benjystanton.co.uk/images/welsh-plural-book.jpeg",
+      "feed_name": "Benjy Stanton",
+      "feed_title": "Benjy Stanton",
+      "category": "personal blogs",
+      "feed_url": "https://www.benjystanton.co.uk/feed.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.benjystanton.co.uk&sz=64"
     },
     {
       "id": "https://blog.jim-nielsen.com/2026/am-i-a-design-engineer/",
@@ -5631,20 +5659,6 @@
       "category": "personal blogs",
       "feed_url": "https://paulrobertlloyd.com/feed.xml",
       "feed_icon": "/assets/icons/icon-192-any.png"
-    },
-    {
-      "id": "https://blog.jim-nielsen.com/2026/why-dad-didnt-have-cellphone/",
-      "title": "Why My Dad Didn’t Have a Cell Phone",
-      "published": "2026-10-25T19:00:00+00:00",
-      "author": null,
-      "description": "Here’s Dave Rupert writing about all those emails, texts, phone calls, etc. we’re getting these days: Once upon a time it had utility, now it’s all noise and grifter slop demanding our attention and giving us to-dos That last part really hit: “giving us to-dos”. I feel this. So many of the messenger apps on my phone are other people laying claim to my time and attention. It reminds me of an interaction I had with my Dad years ago. This was back when cell phones were starting to become ubiquitou…",
-      "link": "https://blog.jim-nielsen.com/2026/why-dad-didnt-have-cellphone/",
-      "image": null,
-      "feed_name": "Jim Nielsen’s Blog",
-      "feed_title": "Jim Nielsen’s Blog",
-      "category": "personal blogs",
-      "feed_url": "https://blog.jim-nielsen.com/feed.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=blog.jim-nielsen.com&sz=64"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
