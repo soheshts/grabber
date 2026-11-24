@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-24T11:33:04.998322+00:00",
+  "updated": "2026-11-24T12:03:49.691007+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.howtogeek.com/microsoft-excel-replaced-pivottables-with-groupby-function/",
+      "title": "I replaced my Excel PivotTables with GROUPBY, and my reports now update themselves",
+      "published": "2026-11-24T12:00:16+00:00",
+      "author": "Tony Phillips",
+      "description": "Time to pivot away from the refresh button.",
+      "link": "https://www.howtogeek.com/microsoft-excel-replaced-pivottables-with-groupby-function/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/laptop-excel-groupby-spending-summaries.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/this-windows-xp-era-habit-has-stuck-around-for-decades-but-it-never-made-pcs-faster/",
       "title": "This Windows XP-era habit has stuck around for decades, but it never made PCs faster",
@@ -13989,20 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://hackaday.com/blog/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/smart-bulb-adaptive-lighting/",
-      "title": "Your smart bulbs are missing the point if you only use them to change colors",
-      "published": "2026-11-10T18:00:16+00:00",
-      "author": "Chris Hachey",
-      "description": "You can get so much more from your lights.",
-      "link": "https://www.makeuseof.com/smart-bulb-adaptive-lighting/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/09/wall-lantern-glowing-blue-with-a-linkind-smart-bulb.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }

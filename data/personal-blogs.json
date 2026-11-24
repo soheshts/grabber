@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-24T11:33:04.998322+00:00",
-  "count": 446,
+  "updated": "2026-11-24T12:03:49.691007+00:00",
+  "count": 447,
   "summary": null,
   "items": [
     {
@@ -45,6 +45,20 @@
       "category": "personal blogs",
       "feed_url": "https://www.amitmerchant.com/feed.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.amitmerchant.com&sz=64"
+    },
+    {
+      "id": "https://techhub.iodigital.com/articles/one-word-llm-call-thinking-tokens",
+      "title": "My one-word LLM call was thinking behind my back",
+      "published": "2026-11-24T00:00:00+00:00",
+      "author": "iO tech_hub",
+      "description": "On my triage calls, a default thinking setting I never turned on raised the estimated cost by 52% and the median response time by about 0.6 seconds. I only noticed because token counts were on the trace. This is how I found it, and the one request field that turns it off.",
+      "link": "https://techhub.iodigital.com/articles/one-word-llm-call-thinking-tokens",
+      "image": "https://techhub.iodigital.com/api/og?title=My+one-word+LLM+call+was+thinking+behind+my+back&author=B%C3%BClent+T%C3%BCrkmen&image=https%3A%2F%2Ftechhub.iodigital.com%2Farticles%2Fone-word-llm-call-thinking-tokens%2Fhero.webp",
+      "feed_name": "iO tech_hub",
+      "feed_title": "iO tech_hub",
+      "category": "personal blogs",
+      "feed_url": "https://techhub.iodigital.com/feed.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=techhub.iodigital.com&sz=64"
     },
     {
       "id": "https://blog.jim-nielsen.com/2026/am-i-a-design-engineer/",
