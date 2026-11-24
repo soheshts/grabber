@@ -1,9 +1,23 @@
 {
   "category": "science",
-  "updated": "2026-11-24T03:32:26.868227+00:00",
+  "updated": "2026-11-24T04:03:01.199883+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "news714642571",
+      "title": "Workplace absenteeism: Why temporary disability is a right, not an expense",
+      "published": "2026-11-24T03:40:01+00:00",
+      "author": null,
+      "description": "Temporary disability is a cornerstone of the public Social Security system. It is a right for all workers who fall ill and a social security benefit designed primarily to protect those who are sick, enabling them to receive medical treatment and recover or improve their condition while ensuring they have sufficient income during periods in which they are unable to work.",
+      "link": "https://phys.org/news/2026-11-workplace-absenteeism-temporary-disability-expense.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/office.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
     {
       "id": "news714667085",
       "title": "New light-conversion tool could help speed up quantum computing",
@@ -1141,7 +1155,7 @@
     {
       "id": "https://www.nytimes.com/2026/11/20/science/hiv-research-funding-nih.html",
       "title": "H.I.V. Research Networks May Again Seek Federal Funding, With a Twist",
-      "published": "2026-11-23T15:36:19+00:00",
+      "published": "2026-11-23T15:36:20+00:00",
       "author": "Benjamin Mueller and Apoorva Mandavilli",
       "description": "The Trump administration restarted the process for funding four large research networks after postponing it earlier this year.",
       "link": "https://www.nytimes.com/2026/11/20/science/hiv-research-funding-nih.html",
@@ -13989,20 +14003,6 @@
       "category": "science",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/cw23j8pkk421o#2",
-      "title": "SpaceX catches part of its Starship rocket on return to Earth",
-      "published": "2026-11-14T23:15:10+00:00",
-      "author": null,
-      "description": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
-      "link": "https://www.bbc.co.uk/news/videos/cw23j8pkk421o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad8a/live/4ee27b50-e07f-11f1-ad8f-c7361b83fb03.jpg",
-      "feed_name": "BBC News - Science & Environment",
-      "feed_title": "BBC News",
-      "category": "science",
-      "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     }
   ]
 }
