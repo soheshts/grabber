@@ -1,9 +1,23 @@
 {
   "category": "technology",
-  "updated": "2026-11-24T06:02:48.809017+00:00",
+  "updated": "2026-11-24T06:33:01.927089+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.engadget.com/2326238/apple-confirms-ted-lasso-will-return-for-season-5/",
+      "title": "Apple confirms Ted Lasso will return for Season 5",
+      "published": "2026-11-24T06:00:08+00:00",
+      "author": "Steve Dent",
+      "description": "Ted Lasso, which everyone thought was ending with Season 3, has just been renewed for a fifth season.",
+      "link": "https://www.engadget.com/2326238/apple-confirms-ted-lasso-will-return-for-season-5/",
+      "image": "https://www.engadget.com/img/gallery/apple-confirms-ted-lasso-will-return-for-season-5/l-intro-1795499954.jpg",
+      "feed_name": "Engadget",
+      "feed_title": "Engadget - Technology News & Expert Reviews",
+      "category": "technology",
+      "feed_url": "https://www.engadget.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
     {
       "id": "https://tech.slashdot.org/story/26/11/24/0233203/new-york-bans-subscription-and-post-purchase-fees-on-cars?utm_source=rss1.0mainlinkanon&utm_medium=feed",
       "title": "New York Bans Subscription and Post-Purchase Fees On Cars",
@@ -13989,20 +14003,6 @@
       "category": "technology",
       "feed_url": "https://www.engadget.com/rss.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
-    },
-    {
-      "id": "https://slashdot.org/story/26/11/18/2041222/bank-ceos-nsa-tell-congress-that-ai-driven-patches-are-behind-outages?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "title": "Bank CEOs, NSA Tell Congress That AI-Driven Patches Are Behind Outages",
-      "published": "2026-11-18T21:00:00+00:00",
-      "author": "BeauHD",
-      "description": "An anonymous reader quotes a report from The Washington Sun: Wall Street executives and the National Security Agency have told members of Congress that this week's widespread tech outages were caused by attempts to fix vulnerabilities identified by artificial intelligence, according to three sources familiar with the private conversations. [...] \"These models are identifying massive vulnerabilities, and that increases the urgency to patch right away,\" said one congressional official briefed on…",
-      "link": "https://slashdot.org/story/26/11/18/2041222/bank-ceos-nsa-tell-congress-that-ai-driven-patches-are-behind-outages?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-      "feed_name": "Slashdot",
-      "feed_title": "Slashdot",
-      "category": "technology",
-      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
     }
   ]
 }

@@ -1,9 +1,23 @@
 {
   "category": "science",
-  "updated": "2026-11-24T06:02:48.809017+00:00",
+  "updated": "2026-11-24T06:33:01.927089+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cq4gn2vde8m8o#1",
+      "title": "Goats drafted in to tame Greenwich Park slope",
+      "published": "2026-11-24T06:16:51+00:00",
+      "author": null,
+      "description": "Bagot goats are used to keep vegetation in check and help preserve the view from the Royal Observatory.",
+      "link": "https://www.bbc.co.uk/news/articles/cq4gn2vde8m8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a13b/live/0b1bcc00-e75a-11f1-b407-33329b1ec67a.jpg",
+      "feed_name": "BBC News - Science & Environment",
+      "feed_title": "BBC News",
+      "category": "science",
+      "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
     {
       "id": "news714649747",
       "title": "Funding must work better for SMEs to tackle energy challenges, finds research",
@@ -13989,20 +14003,6 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2026/11/261112230456.htm",
-      "title": "AI discovers a hidden heart signal that could predict sudden death",
-      "published": "2026-11-15T01:05:10+00:00",
-      "author": null,
-      "description": "Scientists have uncovered a hidden warning sign in routine heart scans that could predict sudden cardiac death before it strikes. The AI-powered discovery outperformed conventional screening methods, potentially revealing thousands of people at risk of a fatal heart malfunction that doctors might otherwise miss.",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261112230456.htm",
-      "image": "https://www.sciencedaily.com/images/1920/cardiology-heart-attack-disease-prevention.webp",
-      "feed_name": "Latest Science News -- ScienceDaily",
-      "feed_title": "Latest Science News -- ScienceDaily",
-      "category": "science",
-      "feed_url": "https://www.sciencedaily.com/rss/all.xml",
-      "feed_icon": "https://www.sciencedaily.com/images/scidaily-logo-rss.png"
     }
   ]
 }
