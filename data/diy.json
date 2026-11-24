@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-24T09:03:26.996743+00:00",
+  "updated": "2026-11-24T09:32:41.444299+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://hackaday.com/?p=1429937",
+      "title": "RF Remote Cloning Without the Benefit of an SDR",
+      "published": "2026-11-24T09:00:27+00:00",
+      "author": "Tom Nardi",
+      "description": "It’s difficult to overstate just how transformative the RTL-SDR project was for the hobbyist. It wasn’t that software-defined radios didn’t exist before that, of course. It’s that folks like us …read more",
+      "link": "https://hackaday.com/2026/11/24/rf-remote-cloning-without-the-benefit-of-an-sdr/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/lindby_feat.jpg",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://hackaday.com/?p=1429906",
       "title": "It isn’t that the Trackpad Sings Well…",
@@ -13989,20 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.makeuseof.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/google-fi-new-super-network-unveiled/",
-      "title": "Google Fi network switching is back with the new 5G 'Super Network'",
-      "published": "2026-11-10T17:30:15+00:00",
-      "author": "Jefferson Mangubat",
-      "description": "Google Fi now switches between two 5G networks in real time.",
-      "link": "https://www.howtogeek.com/google-fi-new-super-network-unveiled/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/03/google-fi-text-on-pixel-10-lock-screen.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
     }
   ]
 }
