@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-24T16:03:17.871641+00:00",
+  "updated": "2026-11-24T16:32:40.565015+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.howtogeek.com/dont-buy-a-nas-if-you-need-a-home-server-all-you-need-is-a-mini-pc/",
+      "title": "Why a $400 mini PC can replace an overpriced NAS for your home server",
+      "published": "2026-11-24T16:30:17+00:00",
+      "author": "Monica J. White",
+      "description": "I love home servers, but I think most people are buying the wrong hardware",
+      "link": "https://www.howtogeek.com/dont-buy-a-nas-if-you-need-a-home-server-all-you-need-is-a-mini-pc/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/geekom-mini-pc-fi.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/oknifes-9-in-1-titanium-pocket-screwdriver-is-2719-its-lowest-price-in-a-year/",
+      "title": "OKNIFE's 9-in-1 Titanium Pocket Screwdriver is $27.19, its lowest price in 90 days",
+      "published": "2026-11-24T16:15:16+00:00",
+      "author": "HTG Deals Desk",
+      "description": "Its lowest price on Amazon in 90 days",
+      "link": "https://www.howtogeek.com/oknifes-9-in-1-titanium-pocket-screwdriver-is-2719-its-lowest-price-in-a-year/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/10/oknife-d1.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/stopped-paying-for-malwarebytes-switched-to-free-dns-filtering/",
       "title": "I stopped paying for Malwarebytes and switched to free DNS filtering instead",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/fedora-45-is-out-and-these-are-the-first-settings-id-tweak/",
-      "title": "Fedora 45 is out, and these are the first settings I'd tweak",
-      "published": "2026-11-10T22:30:15+00:00",
-      "author": "Nimrah Chaudhry",
-      "description": "Fedora 45 is great out of the box, but these eight tweaks make it even better.",
-      "link": "https://www.howtogeek.com/fedora-45-is-out-and-these-are-the-first-settings-id-tweak/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/img_20261110_164907_4080x2720.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/windows-11-has-a-typing-feature-that-finally-justifies-a-touchscreen-laptop/",
-      "title": "Windows 11 has a typing feature that finally justifies a touchscreen laptop",
-      "published": "2026-11-10T22:00:16+00:00",
-      "author": "Brandon Miniman",
-      "description": "There's a hidden typing feature on Windows 11 that you should know about.",
-      "link": "https://www.makeuseof.com/windows-11-has-a-typing-feature-that-finally-justifies-a-touchscreen-laptop/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/feat2-3.jpeg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }
