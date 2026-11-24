@@ -1,9 +1,23 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-24T14:33:34.859331+00:00",
+  "updated": "2026-11-24T15:03:06.879813+00:00",
   "count": 449,
   "summary": null,
   "items": [
+    {
+      "id": "tag:jasonsantamaria.com,2026-11-24:mostly-pencils-holiday-gift-guide",
+      "title": "(Mostly) Pencils Holiday Gift Guide",
+      "published": "2026-11-24T14:35:00+00:00",
+      "author": "Jason Santa Maria",
+      "description": "I made a holiday gift guide dedicated to my favorite tool… pencils! To me, pencils are permission to think, make mistakes, and play. Give someone (or yourself) something fun and inexpensive.",
+      "link": "https://jasonsantamaria.com/blog/mostly-pencils-holiday-gift-guide",
+      "image": "https://jasonsantamaria.com/media/pages/blog/mostly-pencils-holiday-gift-guide/7bd2f32e93-1795531035/pencils.webp",
+      "feed_name": "Jason Santa Maria",
+      "feed_title": "Jason Santa Maria",
+      "category": "personal blogs",
+      "feed_url": "http://feeds.feedburner.com/jsm-rss",
+      "feed_icon": "https://jasonsantamaria.com/assets/img/icon-192.png"
+    },
     {
       "id": "https://rknight.me/blog/camp-snap-pro-impressions/",
       "title": "Camp Snap Pro Impressions",
@@ -5561,20 +5575,6 @@
       "category": "personal blogs",
       "feed_url": "https://thomasrigby.com/feed.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=thomasrigby.com&sz=64"
-    },
-    {
-      "id": "https://rknight.me/blog/remove-valance-endcaps-from-primrose-awning/",
-      "title": "Remove Valance Endcaps from Primrose Awning",
-      "published": "2026-10-25T14:41:00+00:00",
-      "author": "Robb Knight",
-      "description": "This wasn’t obvious to me and I’ll definitely forget in the future",
-      "link": "https://rknight.me/blog/remove-valance-endcaps-from-primrose-awning/",
-      "image": "https://cdn.rknight.me/site/2026/primrose-awning-end-cap-bolt.jpg",
-      "feed_name": "Robb Knight • Posts • Atom Feed",
-      "feed_title": "Robb Knight • Posts • Atom Feed",
-      "category": "personal blogs",
-      "feed_url": "https://rknight.me/feed.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=rknight.me&sz=64"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",

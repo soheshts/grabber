@@ -1,9 +1,79 @@
 {
   "category": "fashion",
-  "updated": "2026-11-24T14:33:34.859331+00:00",
+  "updated": "2026-11-24T15:03:06.879813+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "http://www.elle.com/fashion/trend-reports/a74453039/fashion-asmr-trend/",
+      "title": "Fashion Wants You to Feel Something: ASMR Clothes That Chime, Rustle, and Ring",
+      "published": "2026-11-24T15:00:00+00:00",
+      "author": null,
+      "description": "Dresses that jingle and tops that need to be touched: ASMR is here for your clothes.",
+      "link": "https://www.elle.com/fashion/trend-reports/a74453039/fashion-asmr-trend/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/f765c74e-593d-4013-ab94-72f5c0c4c797.jpg?crop=1xw:0.333xh;0xw,0.035xh&resize=1200:*",
+      "feed_name": "Fashion - ELLE",
+      "feed_title": "Fashion - ELLE",
+      "category": "fashion",
+      "feed_url": "https://www.elle.com/rss/fashion.xml/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.elle.com&sz=64"
+    },
+    {
+      "id": "http://www.elle.com/fashion/shopping/a74492846/frame-black-friday-sale-2026/",
+      "title": "Frame’s Black Friday Sale Is a Denim Lover’s Dream",
+      "published": "2026-11-24T15:00:00+00:00",
+      "author": null,
+      "description": "Pairs worn by Selena Gomez, Bella Hadid, and Kendall Jenner are 30 percent off.",
+      "link": "https://www.elle.com/fashion/shopping/a74492846/frame-black-friday-sale-2026/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/a61da03e-1f36-4af3-b0ab-b9431dc7986e.png?crop=1xw:0.563xh;0xw,0.043xh&resize=1200:*",
+      "feed_name": "Fashion - ELLE",
+      "feed_title": "Fashion - ELLE",
+      "category": "fashion",
+      "feed_url": "https://www.elle.com/rss/fashion.xml/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.elle.com&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/23/style/amy-nelson-riveter-amazon-fbi-investigation.html",
+      "title": "Amy Nelson Was a Corporate Feminist Darling. Then a Corporation Upended Her Life.",
+      "published": "2026-11-24T14:47:20+00:00",
+      "author": "Amanda Hess",
+      "description": "Amy Nelson, a champion of women in the “girlboss” era, found her family in Amazon’s cross hairs and found herself in a new role as anti-corporate crusader.",
+      "link": "https://www.nytimes.com/2026/11/23/style/amy-nelson-riveter-amazon-fbi-investigation.html",
+      "image": "https://static01.nyt.com/images/2026/11/16/multimedia/ST-RIVETER-FOUNDER-01-kzpj/ST-RIVETER-FOUNDER-01-kzpj-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Style",
+      "feed_title": "NYT > Style",
+      "category": "fashion",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/24/style/miss-universe-pageant-puerto-rico-feud.html",
+      "title": "Who Controls the Miss Universe Pageant? It’s Surprisingly Hard to Tell.",
+      "published": "2026-11-24T14:37:31+00:00",
+      "author": "Yan Zhuang",
+      "description": "A new Miss Universe is set to be crowned today in Puerto Rico. But the organization has been hobbled by the chaos at last year’s pageant and a messy struggle for control.",
+      "link": "https://www.nytimes.com/2026/11/24/style/miss-universe-pageant-puerto-rico-feud.html",
+      "image": "https://static01.nyt.com/images/2026/11/11/multimedia/00xp-missuniverse-03-tckz/00xp-missuniverse-03-tckz-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Style",
+      "feed_title": "NYT > Style",
+      "category": "fashion",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/24/style/mirumi-robot-bag-charm.html",
+      "title": "Meet Mirumi, the Furry, Robotic Bag Charm Flying Off Shelves",
+      "published": "2026-11-24T14:36:32+00:00",
+      "author": "Alisha Haridasani Gupta",
+      "description": "The Mirumi, which can grab onto your bag and turn its head, is riding the growing popularity of bag charms.",
+      "link": "https://www.nytimes.com/2026/11/24/style/mirumi-robot-bag-charm.html",
+      "image": null,
+      "feed_name": "NYT > Style",
+      "feed_title": "NYT > Style",
+      "category": "fashion",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "https://www.nytimes.com/2026/11/24/style/street-style-look-bold-patterns-colors.html",
       "title": "Street Style Look of the Week: Loud Colors, Bold Patterns and a Faux Fox",
@@ -137,20 +207,6 @@
       "author": "Alisha Haridasani Gupta, Sutton Raphael, Jordan Winters and Annie Harrigan",
       "description": "A Japanese robotic toy is the hottest new trend in bag accessories. Our reporter Alisha Haridasani Gupta explores the evolution of these accessories and why they’re so appealing to adults.",
       "link": "https://www.nytimes.com/video/style/100000011290319/is-this-robot-the-next-labubu.html",
-      "image": null,
-      "feed_name": "NYT > Style",
-      "feed_title": "NYT > Style",
-      "category": "fashion",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/24/style/mirumi-robot-bag-charm.html",
-      "title": "Meet Mirumi, the Furry, Robotic Bag Charm Flying Off Shelves",
-      "published": "2026-11-24T10:13:32+00:00",
-      "author": "Alisha Haridasani Gupta",
-      "description": "The Mirumi, which can grab onto your bag and turn its head, is riding the growing popularity of bag charms.",
-      "link": "https://www.nytimes.com/2026/11/24/style/mirumi-robot-bag-charm.html",
       "image": null,
       "feed_name": "NYT > Style",
       "feed_title": "NYT > Style",
@@ -313,20 +369,6 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.whowhatwear.com&sz=64"
     },
     {
-      "id": "https://www.nytimes.com/2026/11/24/style/miss-universe-pageant-puerto-rico-feud.html",
-      "title": "Who Controls the Miss Universe Pageant? It’s Surprisingly Hard to Tell.",
-      "published": "2026-11-24T05:48:03+00:00",
-      "author": "Yan Zhuang",
-      "description": "A new Miss Universe is set to be crowned today in Puerto Rico. But the organization has been hobbled by the chaos at last year’s pageant and a messy struggle for control.",
-      "link": "https://www.nytimes.com/2026/11/24/style/miss-universe-pageant-puerto-rico-feud.html",
-      "image": "https://static01.nyt.com/images/2026/11/11/multimedia/00xp-missuniverse-03-tckz/00xp-missuniverse-03-tckz-mediumSquareAt3X.jpg",
-      "feed_name": "NYT > Style",
-      "feed_title": "NYT > Style",
-      "category": "fashion",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
       "id": "thEen53dzRagDYBhmpKsqe",
       "title": "How Rachel Karten Mastered the Intricacies of Social Media",
       "published": "2026-11-23T22:58:23+00:00",
@@ -465,20 +507,6 @@
       "category": "fashion",
       "feed_url": "https://fashionista.com/.rss/excerpt/",
       "feed_icon": "https://fashionista.com/site/images/apple-touch-icon.png"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/23/style/amy-nelson-riveter-amazon-fbi-investigation.html",
-      "title": "Amy Nelson Was a Corporate Feminist Darling. Then a Corporation Upended Her Life.",
-      "published": "2026-11-23T19:33:22+00:00",
-      "author": "Amanda Hess",
-      "description": "Amy Nelson, a champion of women in the “girlboss” era, found her family in Amazon’s cross hairs and found herself in a new role as anti-corporate crusader.",
-      "link": "https://www.nytimes.com/2026/11/23/style/amy-nelson-riveter-amazon-fbi-investigation.html",
-      "image": "https://static01.nyt.com/images/2026/11/16/multimedia/ST-RIVETER-FOUNDER-01-kzpj/ST-RIVETER-FOUNDER-01-kzpj-mediumSquareAt3X.jpg",
-      "feed_name": "NYT > Style",
-      "feed_title": "NYT > Style",
-      "category": "fashion",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "http://www.elle.com/fashion/trend-reports/a74508410/alexander-mcqueen-platos-atlantis-dress-christies-auction-2026/",
@@ -13975,34 +14003,6 @@
       "category": "fashion",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "http://www.elle.com/fashion/a74312584/cfda-fashion-awards-2026-winners-recap/",
-      "title": "The 2026 CFDA Fashion Awards Celebrated Fashion’s Next Generation—and Its Icons",
-      "published": "2026-11-03T13:30:02+00:00",
-      "author": null,
-      "description": "Rachel Scott, Ralph Lauren, and Colleen Allen were among the night’s top honorees.",
-      "link": "https://www.elle.com/fashion/a74312584/cfda-fashion-awards-2026-winners-recap/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/cc9178fd-f8ca-42e3-adca-274f68ec3580.jpeg?crop=1xw:0.333xh;0xw,0.169xh&resize=1200:*",
-      "feed_name": "Fashion - ELLE",
-      "feed_title": "Fashion - ELLE",
-      "category": "fashion",
-      "feed_url": "https://www.elle.com/rss/fashion.xml/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.elle.com&sz=64"
-    },
-    {
-      "id": "https://fashionista.com/2026/11/ruby-jones-designer-interview",
-      "title": "The Thom Browne Alum Making Playful Workwear Out of Natural Fibers",
-      "published": "2026-11-03T13:30:00+00:00",
-      "author": "Catie Pusateri",
-      "description": "Ruby Jones is establishing her own outdoorsy, \"eco-conscious\" point of view with her year-old eponymous label.",
-      "link": "https://fashionista.com/2026/11/ruby-jones-designer-interview",
-      "image": "https://fashionista.com/.image/NTg6MDAwMDAwMDAwODA2NTU2/ruby-jones-label-to-watch-2.jpg?profile=rss&x=48&y=62",
-      "feed_name": "Fashionista",
-      "feed_title": "Fashionista Full",
-      "category": "fashion",
-      "feed_url": "https://fashionista.com/.rss/excerpt/",
-      "feed_icon": "https://fashionista.com/site/images/apple-touch-icon.png"
     }
   ]
 }
