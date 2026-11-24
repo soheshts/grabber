@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-24T10:33:54.275292+00:00",
+  "updated": "2026-11-24T11:03:50.546699+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/i-switched-from-cloudflare-to-nextdns-for-its-analytics/",
+      "title": "I replaced Cloudflare with NextDNS, and the analytics alone made it worth it",
+      "published": "2026-11-24T11:00:17+00:00",
+      "author": "Afam Onyimadu",
+      "description": "I finally saw every site and service my devices contact.",
+      "link": "https://www.makeuseof.com/i-switched-from-cloudflare-to-nextdns-for-its-analytics/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/using-nextdns-on-a-windows-computer.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/before-you-try-jump-starting-a-dead-power-tool-battery-read-this/",
+      "title": "Before you try “jump starting” a dead power tool battery, read this",
+      "published": "2026-11-24T11:00:15+00:00",
+      "author": "Cory Gunther",
+      "description": "Is it worth the risk?",
+      "link": "https://www.howtogeek.com/before-you-try-jump-starting-a-dead-power-tool-battery-read-this/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/ryobi-battery-positive-and-negative.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://hackaday.com/?p=1429937",
       "title": "RF Remote Cloning Without the Benefit of an SDR",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/surcsa-9-inch-carplay-screen/",
-      "title": "Give your car infotainment system the upgrade it deserves with 46% off the Surcsa 9-inch CarPlay Screen",
-      "published": "2026-11-10T17:41:19+00:00",
-      "author": "Saeed Wazir",
-      "description": "Get Apple CarPlay and Android Auto for your holiday road trip.",
-      "link": "https://www.howtogeek.com/surcsa-9-inch-carplay-screen/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/11/9-inch-carplay.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/the-gilded-age-hbo-guilty-pleasure/",
-      "title": "HBO’s best drama is also the ultimate guilty pleasure",
-      "published": "2026-11-10T17:30:16+00:00",
-      "author": "Dan Selcke",
-      "description": "It's hard not to feel ambivalent about enjoying The Gilded Age.",
-      "link": "https://www.makeuseof.com/the-gilded-age-hbo-guilty-pleasure/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2026/11/jack-gilpin-taissa-farmiga-carrie-coon-ashlie-atkinson.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }
