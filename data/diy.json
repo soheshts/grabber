@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-24T21:03:51.771469+00:00",
+  "updated": "2026-11-24T21:33:08.011538+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.howtogeek.com/the-first-4-things-i-changed-on-my-samsung-phone-after-one-ui-9/",
+      "title": "The first 4 things I changed on my Samsung phone after One UI 9",
+      "published": "2026-11-24T21:30:15+00:00",
+      "author": "Sanya Shah",
+      "description": "And you should too",
+      "link": "https://www.howtogeek.com/the-first-4-things-i-changed-on-my-samsung-phone-after-one-ui-9/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/20261113_150304.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/kagi-mail-public-beta/",
+      "title": "The company behind Kagi Search just launched a privacy-first Gmail rival",
+      "published": "2026-11-24T21:12:30+00:00",
+      "author": "Jefferson Mangubat",
+      "description": "Kagi wants you to ditch Gmail for its new privacy-first inbox.",
+      "link": "https://www.howtogeek.com/kagi-mail-public-beta/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/11/kagi-mail-announcement.jpeg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/linux-vulnerability-let-attackers-bypass-servers-password-protection/",
       "title": "This Linux vulnerability could let attackers bypass your server's password protection",
@@ -17,6 +45,20 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://hackaday.com/?p=1430065",
+      "title": "Watch This (Virtual) Mechanical Watch Do Its Thing",
+      "published": "2026-11-24T21:00:12+00:00",
+      "author": "Al Williams",
+      "description": "Normally, when we write about watches, they are the electronic kind. But we’re also fascinated by mechanical watches. It is amazing that these mechanisms have existed for centuries. [Martin C. …read more",
+      "link": "https://hackaday.com/2026/11/24/watch-this-virtual-mechanical-watch-do-its-thing/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/watch.png",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
     },
     {
       "id": "https://www.howtogeek.com/tp-links-roam-6-travel-router-is-4999-a-new-all-time-low-on-amazon/",
@@ -13961,48 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/nfc-tags-home-automation/",
-      "title": "I started using NFC tags at home and they changed everything",
-      "published": "2026-11-11T14:00:16+00:00",
-      "author": "Jonathon Jachura",
-      "description": "How I used NFC tags to increase my productivity at home and at work.",
-      "link": "https://www.makeuseof.com/nfc-tags-home-automation/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/09/img_9079.jpeg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/ill-use-android-3-button-navigation-until-the-day-i-die/",
-      "title": "I'll use Android’s 3-button navigation until the day I die",
-      "published": "2026-11-11T14:00:15+00:00",
-      "author": "Cory Gunther",
-      "description": "Gesture navigation is a no-go.",
-      "link": "https://www.howtogeek.com/ill-use-android-3-button-navigation-until-the-day-i-die/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/samsung-3-button-navigation-android.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/household-mysteries-multimeters-solve/",
-      "title": "5 household mysteries a $15 multimeter solves before you call anyone",
-      "published": "2026-11-11T13:30:17+00:00",
-      "author": "Jonathon Jachura",
-      "description": "This low-cost tool has saved me countless hours of troubleshooting household problems.",
-      "link": "https://www.makeuseof.com/household-mysteries-multimeters-solve/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/multimeter-reading-12-45-volts-closeup.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }
