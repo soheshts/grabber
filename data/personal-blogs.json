@@ -1,9 +1,23 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-24T12:33:14.236768+00:00",
+  "updated": "2026-11-24T13:03:56.230786+00:00",
   "count": 447,
   "summary": null,
   "items": [
+    {
+      "id": "https://shkspr.mobi/blog/?p=69938",
+      "title": "Virgin Media Hub 5 API",
+      "published": "2026-11-24T12:34:52+00:00",
+      "author": "Terence Eden",
+      "description": "I've seen some of these APIs documented around the web, but never in one place. This is a list of generally useful information you can get out of the VM SuperHub 5 (a rebadged Sagemcom F3896LG) - I haven't tried them on the 5x. These were all tested using modem mode. They should still be the same for router mode - although you'll need to use 192.168.0.1 rather than the listed IP addresses here.…",
+      "link": "https://shkspr.mobi/blog/2026/11/virgin-media-hub-5-api/",
+      "image": "https://shkspr.mobi/blog/wp-content/themes/edent-wordpress-theme/info/okgo.php?ID=69938&HTTP_REFERER=Atom",
+      "feed_name": "Terence Eden’s Blog",
+      "feed_title": "Terence Eden’s Blog",
+      "category": "personal blogs",
+      "feed_url": "https://shkspr.mobi/blog/feed/atom/",
+      "feed_icon": "https://shkspr.mobi/blog/wp-content/uploads/2023/07/cropped-avatar-32x32.jpeg"
+    },
     {
       "id": "https://www.bennadel.com/blog/4932-using-a-dev-base-test-url-pattern-for-local-development.htm",
       "title": "Using A \"dev.{base}.test\" URL Pattern For Local Development",
@@ -5533,20 +5547,6 @@
       "category": "personal blogs",
       "feed_url": "http://www.webaxe.org/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.webaxe.org&sz=64"
-    },
-    {
-      "id": "https://shkspr.mobi/blog/?p=76246",
-      "title": "Gadget Review: LiberNovo Omni - the USB-C powered office chair ★★★★⯪",
-      "published": "2026-10-25T12:34:01+00:00",
-      "author": "Terence Eden",
-      "description": "Whenever a company asks me to review their gadgets, I always ask if it is USB-C powered. If not, I'm not interested. So, welcome to the future where your chair is USC-C rechargeable! WHAT?! The LiberNovo Omni looks like a standard office chair - but has two secret features. First, is that it is exceedingly comfortable. Full foam cushions, lovely headrest, and a recline which almost gets you…",
-      "link": "https://shkspr.mobi/blog/2026/10/gadget-review-libernovo-omni-chair/",
-      "image": "https://shkspr.mobi/blog/wp-content/uploads/2026/10/Big-instructions.webp",
-      "feed_name": "Terence Eden’s Blog",
-      "feed_title": "Terence Eden’s Blog",
-      "category": "personal blogs",
-      "feed_url": "https://shkspr.mobi/blog/feed/atom/",
-      "feed_icon": "https://shkspr.mobi/blog/wp-content/uploads/2023/07/cropped-avatar-32x32.jpeg"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
