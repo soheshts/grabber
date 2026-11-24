@@ -1,9 +1,51 @@
 {
   "category": "DIY",
-  "updated": "2026-11-24T17:33:04.751370+00:00",
+  "updated": "2026-11-24T18:03:21.289113+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/smart-home-stop-working-internet-down-fix-that/",
+      "title": "Your smart home shouldn't stop working when the internet goes down — here's how to fix that",
+      "published": "2026-11-24T18:00:17+00:00",
+      "author": "Yadullah Abidi",
+      "description": "My lights shouldn't need a server in another country to turn on. Yours either.",
+      "link": "https://www.makeuseof.com/smart-home-stop-working-internet-down-fix-that/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/04/home-assistant-featured-image.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/how-to-turn-an-old-amazon-echo-into-an-assistant-that-never-talks-to-amazon/",
+      "title": "Here's how you can turn an old Echo speaker into an assistant that never talks to Amazon",
+      "published": "2026-11-24T17:48:01+00:00",
+      "author": "Tyler Cross",
+      "description": "The Echo's features still work, only Alexa goes away",
+      "link": "https://www.howtogeek.com/how-to-turn-an-old-amazon-echo-into-an-assistant-that-never-talks-to-amazon/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/08/close-up-of-an-amazon-echo-gen-2-with-the-light-ring-indicator-lit-up.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/ladybird-browser-engine-enters-alpha/",
+      "title": "A new browser with its own engine is finally here to challenge Chrome",
+      "published": "2026-11-24T17:33:16+00:00",
+      "author": "Jefferson Mangubat",
+      "description": "After four years in development, Ladybird is ready to take on browser giants.",
+      "link": "https://www.howtogeek.com/ladybird-browser-engine-enters-alpha/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/11/ladybird-logo.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/iphone-connectivity-assist/",
       "title": "I found out my iPhone was using cellular data in the background, here's how to stop it",
@@ -13961,48 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/save-115-on-the-blink-wired-doorbell-and-outdoor-camera-bundle-right-now/",
-      "title": "Pick up a video doorbell and smart outdoor camera for just $35",
-      "published": "2026-11-11T01:06:28+00:00",
-      "author": "HTG Deals Desk",
-      "description": "A great start to upgrading your home security.",
-      "link": "https://www.howtogeek.com/save-115-on-the-blink-wired-doorbell-and-outdoor-camera-bundle-right-now/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/05/blink-battery-doorbell-2k.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/household-fixes-only-my-3d-printer-could-solve/",
-      "title": "3 household fixes only my 3D printer could solve",
-      "published": "2026-11-11T01:00:15+00:00",
-      "author": "Sydney Butler",
-      "description": "Missing curtain rod stoppers became a custom printable fix after a few measurements and a quick slicer tweak.",
-      "link": "https://www.howtogeek.com/household-fixes-only-my-3d-printer-could-solve/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/20261110_175317.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://hackaday.com/?p=1424431",
-      "title": "Watching the Watchers",
-      "published": "2026-11-11T00:00:28+00:00",
-      "author": "Bryan Cockfield",
-      "description": "Although it used to be a much more rare event, now almost any time at dawn or dusk, provided clear weather, a human observer can walk outside, look up, and …read more",
-      "link": "https://hackaday.com/2026/11/10/watching-the-watchers/",
-      "image": "https://hackaday.com/wp-content/uploads/2026/11/satellite-tracker-main.png",
-      "feed_name": "Blog – Hackaday",
-      "feed_title": "Blog – Hackaday",
-      "category": "DIY",
-      "feed_url": "https://hackaday.com/blog/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-24T17:33:04.751370+00:00",
-  "count": 454,
+  "updated": "2026-11-24T18:03:21.289113+00:00",
+  "count": 455,
   "summary": null,
   "items": [
     {
@@ -143,6 +143,20 @@
       "category": "personal blogs",
       "feed_url": "https://ronaldsvilcins.com/atom.xml",
       "feed_icon": "https://ronaldsvilcins.com/favicon.png"
+    },
+    {
+      "id": "https://www.zachleat.com/web/npm-audit-report/",
+      "title": "Your Tools are Hiding npm Audits from You",
+      "published": "2026-11-24T06:00:00+00:00",
+      "author": "Zach Leatherman",
+      "description": "Meaningful Audits are Important Look at these two npm audit outputs generated this morning and tell me which project is more secure: $ npm audit # uh… 521 lines of vulnerability reports truncated 78 vulnerabilities ( 7 low, 23 moderate, 46 high, 2 critical ) $ npm audit found 0 vulnerabilities Which project is more secure? The one with 0 vulnerabilities, right? Not necessarily! The former was created from a fresh create-gatsby command to make a Gatsby project. The latter was created from a fres…",
+      "link": "https://www.zachleat.com/web/npm-audit-report/",
+      "image": "https://www.zachleat.com/img/built/GdiRYhqc39-2434.avif",
+      "feed_name": "Zach Leatherman",
+      "feed_title": "Zach Leatherman",
+      "category": "personal blogs",
+      "feed_url": "https://www.zachleat.com/web/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.zachleat.com&sz=64"
     },
     {
       "id": "https://www.bennadel.com/blog/4932-using-a-dev-base-test-url-pattern-for-local-development.htm",
