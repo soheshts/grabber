@@ -1,9 +1,65 @@
 {
   "category": "World News",
-  "updated": "2026-11-24T16:32:40.565015+00:00",
+  "updated": "2026-11-24T17:03:33.315758+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "108557611",
+      "title": "Jensen Huang to face DC grilling the same day Nvidia releases new products at GTC",
+      "published": "2026-11-24T16:42:57+00:00",
+      "author": null,
+      "description": "Jensen Huang is back as CEO of Nvidia and immediately faces the challenge of leading the chip giant and defending himself in Washington.",
+      "link": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-congress-gtc.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108341233-1785261028780-gettyimages-2288035170-1r1_5403_4x3hzuey.jpeg?v=1795450779&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo#0",
+      "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
+      "published": "2026-11-24T16:37:04+00:00",
+      "author": null,
+      "description": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
+      "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e165/live/ec246c40-e825-11f1-93d4-6d580946ad80.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/us/a-bronze-cast-of-auguste-rodins-the-thinker-sold-for-192500-in-1985-and-stayed-off-the-market-for-41-years-at-a-november-17-new-york-auction-the-1955-cast-fetched-7-928-million-over-twice-its-high-estimate/articleshow/136135702.cms",
+      "title": "Rodin's The Thinker jumps from $192,500 to $7.928m after 41 years off market",
+      "published": "2026-11-24T16:36:06+00:00",
+      "author": "TOI World Desk",
+      "description": "The auction at Christie's on November 17 witnessed a remarkable highlight with the sale of Rodin's 1955 sculpture, Le Penseur, for a staggering $7.928 million, reflecting a dramatic price increase since its 1985 auction. This notable sculpture, which had not changed hands in 41 years, underscores the strong appetite for fine art in a week when total sales at Christie's neared $974 million.",
+      "link": "https://timesofindia.indiatimes.com/world/us/a-bronze-cast-of-auguste-rodins-the-thinker-sold-for-192500-in-1985-and-stayed-off-the-market-for-41-years-at-a-november-17-new-york-auction-the-1955-cast-fetched-7-928-million-over-twice-its-high-estimate/articleshow/136135702.cms",
+      "image": "https://static.toiimg.com/photo/msid-136136955,imgsize-1586800.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html",
+      "title": "Stock Markets Slip as Nvidia and A.I. Stocks Erase Some of Monday’s Rally",
+      "published": "2026-11-24T16:35:37+00:00",
+      "author": "Aruni Soni and Jason Karaian",
+      "description": "Shares have veered wildly for days, pushed and pulled by the drama at Nvidia and the rise and fall of Anthropic’s stock after its blockbuster public offering.",
+      "link": "https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html",
+      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24biz-markets-zjwk/24biz-markets-zjwk-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o#1",
       "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
@@ -79,7 +135,7 @@
       "title": "More than 300 Russians killed as Moscow props up Mali’s junta, leaked data reveals",
       "published": "2026-11-24T16:00:50+00:00",
       "author": "Pjotr Sauer, Michael Goodier, Harriet Agerholm and Philip McMahon",
-      "description": "Records list 349 deaths in three years in Mali and also shed light on Russia’s military activity elsewhere in Africa When the attack on Kidal began before dawn on 25 April this year, the Russian fighters were caught off guard. Within the first hour, checkpoints on the outskirts of the remote desert city nestled among the rocky hills of northern Mali had fallen to the insurgents, who pushed towards the police station where fierce fighting erupted. “Everything was happening at once. Explosions we…",
+      "description": "Exclusive: Records list 349 deaths in three years in Mali and also shed light on Russia’s military activity elsewhere in Africa When the attack on Kidal began before dawn on 25 April this year, the Russian fighters were caught off guard. Within the first hour, checkpoints on the outskirts of the remote desert city nestled among the rocky hills of northern Mali had fallen to the insurgents, who pushed towards the police station where fierce fighting erupted. “Everything was happening at once. Ex…",
       "link": "https://www.theguardian.com/world/2026/nov/24/russian-fighters-killed-in-mali-africa-leaked-data",
       "image": null,
       "feed_name": "The Guardian",
@@ -110,20 +166,6 @@
       "description": "Sanofi faces a revenue drop toward the end of the decade as top-selling drugs lose exclusivity and open up for generic drugmakers to compete.",
       "link": "https://www.cnbc.com/2026/11/24/insmed-sanofi-deal-stock-pharma.html",
       "image": "https://image.cnbcfm.com/api/v1/image/107299519-1694544344393-gettyimages-1676556085-dsc03159_evecyedm.jpeg?v=1697746273&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "108557611",
-      "title": "Jensen Huang faces DC grilling the same day Nvidia releases new products at GTC",
-      "published": "2026-11-24T15:47:17+00:00",
-      "author": null,
-      "description": "Jensen Huang is back as CEO of Nvidia and immediately faces the challenge of leading the chip giant and defending himself in Washington.",
-      "link": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-congress-gtc.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108341233-1785261028780-gettyimages-2288035170-1r1_5403_4x3hzuey.jpeg?v=1795450779&w=1920&h=1080",
       "feed_name": "CNBC",
       "feed_title": "International: Top News And Analysis",
       "category": "World News",
@@ -311,20 +353,6 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html",
-      "title": "Stock Markets Slip as Nvidia and A.I. Stocks Erase Some of Monday’s Rally",
-      "published": "2026-11-24T15:01:10+00:00",
-      "author": "Jason Karaian",
-      "description": "Shares have veered wildly for days, pushed and pulled by the drama at Nvidia and the rise and fall of Anthropic’s stock after its blockbuster public offering.",
-      "link": "https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html",
-      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24biz-markets-zjwk/24biz-markets-zjwk-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/us/a-washington-homeowner-called-911-after-hearing-mysterious-banging-inside-the-house-prompting-police-to-respond-and-discover-a-growling-bobcat-perched-at-the-top-of-the-stairs/articleshow/136125546.cms",
@@ -1785,7 +1813,7 @@
     {
       "id": "https://www.nytimes.com/2026/11/24/world/europe/pope-francis-diary.html",
       "title": "Pope Francis Diary Excerpts Published in New Book",
-      "published": "2026-11-24T06:00:05+00:00",
+      "published": "2026-11-24T06:00:06+00:00",
       "author": "Elisabetta Povoledo",
       "description": "Over decades, before and after he became leader of the Roman Catholic Church, Francis recorded occasional entries about his fears and doubts.",
       "link": "https://www.nytimes.com/2026/11/24/world/europe/pope-francis-diary.html",
@@ -1893,20 +1921,6 @@
       "category": "World News",
       "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
       "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo#0",
-      "title": "India's 'cockroach' party leader says he was stopped from flying to UK",
-      "published": "2026-11-24T05:33:07+00:00",
-      "author": null,
-      "description": "Saurav Das said that immigration authorities at Delhi airport told him that his passport had been \"flagged\".",
-      "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82d4/live/df8de260-e7c4-11f1-998f-6307777df073.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/us/idaho-man-names-two-relatives-as-sole-beneficiaries-of-his-746000-life-insurance-policy-during-divorce-proceedings-before-dying-in-a-mining-accident-estranged-wife-challenges-payout-after-insurer-hands-entire-sum-to-relatives/articleshow/136120117.cms",
@@ -13989,20 +14003,6 @@
       "category": "World News",
       "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
       "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/us/an-online-sneaker-marketplace-faced-ftc-allegations-over-denied-refunds-for-fake-or-misdescribed-shoes-and-delayed-deliveries-the-regulator-is-now-sending-payments-to-more-than-6200-customers-over-shipping-delays/articleshow/135989203.cms",
-      "title": "FTC sends payments to 6,200 GOAT customers over delayed sneaker deliveries",
-      "published": "2026-11-19T23:25:00+00:00",
-      "author": "TOI World Desk",
-      "description": "",
-      "link": "https://timesofindia.indiatimes.com/world/us/an-online-sneaker-marketplace-faced-ftc-allegations-over-denied-refunds-for-fake-or-misdescribed-shoes-and-delayed-deliveries-the-regulator-is-now-sending-payments-to-more-than-6200-customers-over-shipping-delays/articleshow/135989203.cms",
-      "image": "https://static.toiimg.com/photo/msid-135989409,imgsize-1773960.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     }
   ]
 }
