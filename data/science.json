@@ -1,9 +1,23 @@
 {
   "category": "science",
-  "updated": "2026-11-24T06:33:01.927089+00:00",
+  "updated": "2026-11-24T07:03:20.191041+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c678200xklgzo#1",
+      "title": "Delia Smith joins opponents of £1.2bn data centre",
+      "published": "2026-11-24T06:36:26+00:00",
+      "author": null,
+      "description": "The TV cook and author is worried about the proposed Keswick facility's environmental impact.",
+      "link": "https://www.bbc.co.uk/news/articles/c678200xklgzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d51/live/b602fd20-e75d-11f1-b407-33329b1ec67a.jpg",
+      "feed_name": "BBC News - Science & Environment",
+      "feed_title": "BBC News",
+      "category": "science",
+      "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cq4gn2vde8m8o#1",
       "title": "Goats drafted in to tame Greenwich Park slope",
@@ -13989,20 +14003,6 @@
       "category": "science",
       "feed_url": "https://www.sciencedaily.com/rss/all.xml",
       "feed_icon": "https://www.sciencedaily.com/images/scidaily-logo-rss.png"
-    },
-    {
-      "id": "news713625541",
-      "title": "Is this iconic black hole image accurate? New study delivers an independent result",
-      "published": "2026-11-15T01:30:01+00:00",
-      "author": null,
-      "description": "On April 10, 2019, the Event Horizon Telescope (EHT) Collaboration revealed the first picture of a black hole. The object is at the center of a galaxy known as M87, about 55 million light-years away.",
-      "link": "https://phys.org/news/2026-11-iconic-black-hole-image-accurate.html",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/is-this-iconic-black-h.jpg",
-      "feed_name": "Phys.org - latest science and technology news stories",
-      "feed_title": "Phys.org - latest science and technology news stories",
-      "category": "science",
-      "feed_url": "https://phys.org/rss-feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
     }
   ]
 }
