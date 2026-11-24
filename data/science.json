@@ -1,9 +1,37 @@
 {
   "category": "science",
-  "updated": "2026-11-24T10:03:53.326587+00:00",
+  "updated": "2026-11-24T10:33:54.275292+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "6b043f405f8e6c0d7b84ae91",
+      "title": "AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It",
+      "published": "2026-11-24T10:15:00+00:00",
+      "author": "Isabella Ward",
+      "description": "It will take mathematicians months to understand the “alien” 17-million-line solution an Anthropic researcher produced for the Riemann hypothesis.",
+      "link": "https://www.wired.com/story/ai-solved-maths-most-famous-problem/",
+      "image": "https://media.wired.com/photos/6b04a99395eb5d98cc1eb23a/master/pass/112326-Riemann-hypothesis-ai.jpg",
+      "feed_name": "Science Latest",
+      "feed_title": "Science Latest",
+      "category": "science",
+      "feed_url": "https://www.wired.com/feed/category/science/latest/rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.wired.com&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/24/science/ancient-egyptian-cats-mummies.html",
+      "title": "Ancient Egyptian Cats Lived Squalid Lives Before Mummification",
+      "published": "2026-11-24T10:01:52+00:00",
+      "author": "Joshua Rapp Learn",
+      "description": "Cats destined to be offerings paid a high price to receive glory in the afterlife, markings on their skulls revealed.",
+      "link": "https://www.nytimes.com/2026/11/24/science/ancient-egyptian-cats-mummies.html",
+      "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23SCI-MUMMY-CAT-MILLS-top2-tgqf/23SCI-MUMMY-CAT-MILLS-top2-tgqf-mediumSquareAt3X-v3.jpg",
+      "feed_name": "NYT > Science",
+      "feed_title": "NYT > Science",
+      "category": "science",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "news714718413",
       "title": "China unveils new space mission crew, with a Pakistani astronaut set to board its space station",
@@ -13975,34 +14003,6 @@
       "category": "science",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "6af5dd41dd5636719c57f482",
-      "title": "New Species of Giant Fungus Discovered in China Grows up to 20 Inches Tall",
-      "published": "2026-11-15T10:00:00+00:00",
-      "author": "Ritsuko Kawai",
-      "description": "Dubbed Dianjunus rex, the huge fungus emerged shortly after the mass extinction that wiped out the dinosaurs.",
-      "link": "https://www.wired.com/story/new-species-of-giant-fungus-discovered-in-china-grows-up-to-20-inches-tall/",
-      "image": "https://media.wired.com/photos/6af5dd41ea249e5173fa2e83/master/pass/Weixin%20Image_2025-07-15_230629_400.jpg",
-      "feed_name": "Science Latest",
-      "feed_title": "Science Latest",
-      "category": "science",
-      "feed_url": "https://www.wired.com/feed/category/science/latest/rss",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.wired.com&sz=64"
-    },
-    {
-      "id": "6aee1ada1ad1a30ae5d0bb39",
-      "title": "Sunday Pick: How to challenge your self-limiting beliefs with Shawn Achor | from ReThinking with Adam Grant",
-      "published": "2026-11-15T07:00:00+00:00",
-      "author": "TED",
-      "description": "Your beliefs about yourself and the world have a big impact on your mental health, relationships, and success. As a positive psychology evangelist, Shawn Achor has spent his career studying how to challenge and change the core beliefs that might be holding you back, and shares his insights in his new book, The Power of Beliefs . In this episode, Shawn and Adam dive into the surprising connections between happiness and success, and discuss the science of optimism and pessimism. Shawn also descri…",
-      "link": "https://audiocollective.ted.com/",
-      "image": null,
-      "feed_name": "TED Talks Daily (SD video)",
-      "feed_title": "TED Talks Daily",
-      "category": "science",
-      "feed_url": "https://pa.tedcdn.com/feeds/talks.rss",
-      "feed_icon": "https://assets.pippa.io/shows/67587e77c705e441797aff96/show-cover.png"
     }
   ]
 }
