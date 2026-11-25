@@ -1,9 +1,23 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-25T16:33:01.654087+00:00",
-  "count": 457,
+  "updated": "2026-11-25T17:03:04.290288+00:00",
+  "count": 459,
   "summary": null,
   "items": [
+    {
+      "id": "https://blog.jim-nielsen.com/2026/have-you-tried-your-agent/",
+      "title": "Have You Tried Using Your Agent?",
+      "published": "2026-11-25T19:00:00+00:00",
+      "author": null,
+      "description": "In 2025, I wrote down some thoughts on “AX” . My fear was that AX would end up becoming the top priority for people building software. (I’m not against AX, I would simply prefer a priority of constituencies where the human experience is top.) So where are we today? I feel like we’re building things that are increasingly accessible to robots while remaining inaccessible to people. And I’m nervous that the collective posture of technologists towards this trend is not, “We should make this more ac…",
+      "link": "https://blog.jim-nielsen.com/2026/have-you-tried-your-agent/",
+      "image": null,
+      "feed_name": "Jim Nielsen’s Blog",
+      "feed_title": "Jim Nielsen’s Blog",
+      "category": "personal blogs",
+      "feed_url": "https://blog.jim-nielsen.com/feed.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=blog.jim-nielsen.com&sz=64"
+    },
     {
       "id": "https://www.bennadel.com/blog/4935-set-is-not-a-param-return-or-argument-type-in-coldfusion-2025-0-14.htm",
       "title": "Set Is Not A Param, Return, Or Argument \"Type\" In ColdFusion 2025.0.14",
@@ -143,6 +157,20 @@
       "category": "personal blogs",
       "feed_url": "https://manuelmoreale.com/feed/rss",
       "feed_icon": "https://manuelmoreale.com/media/site/768b30cae2-1794047983/avatar.jpg"
+    },
+    {
+      "id": "https://ronaldsvilcins.com/2026/11/25/css-is-vs-where-specificity/",
+      "title": ":is() vs :where(): Similar Selectors, Different Specificity",
+      "published": "2026-11-25T06:00:00+00:00",
+      "author": "Ronalds Vilciņš",
+      "description": "Group CSS selectors with :is() or :where() while keeping control over which rules can override them.",
+      "link": "https://ronaldsvilcins.com/2026/11/25/css-is-vs-where-specificity/",
+      "image": "https://ronaldsvilcins.com/og/0439b6b47facf2b3137fdb4408a680f53d1bbe6e61af8326907a275f9338aed1.jpg",
+      "feed_name": "Ronalds Vilciņš",
+      "feed_title": "Ronalds Vilciņš",
+      "category": "personal blogs",
+      "feed_url": "https://ronaldsvilcins.com/atom.xml",
+      "feed_icon": "https://ronaldsvilcins.com/favicon.png"
     },
     {
       "id": "https://hamatti.org/posts/advent-of-code-tips-for-beginners-through-an-example/",
