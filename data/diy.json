@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-25T03:03:21.613771+00:00",
+  "updated": "2026-11-25T03:32:43.180282+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://hackaday.com/?p=1429981",
+      "title": "Keeping your Molten Salt Reactor Fuel Fresh with Helium Bubbles",
+      "published": "2026-11-25T03:00:01+00:00",
+      "author": "Maya Posch",
+      "description": "Recently [Huihua Yang] and fellow researchers at Argonne National Laboratory and Rensselaer Polytechnic Institute reported a way (paywalled, no preprint available) to keep the inside of molten salt reactors squeaky-clean …read more",
+      "link": "https://hackaday.com/2026/11/24/keeping-your-molten-salt-reactor-fuel-fresh-with-helium-bubbles/",
+      "image": "https://hackaday.com/wp-content/uploads/2023/05/MSRE_Diagram.png",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/fanttiks-t1-max-cordless-soldering-iron-is-down-to-5319-for-early-black-friday/",
       "title": "Get 33% off Fanttik's T1 Max Cordless Soldering Iron and fix things anywhere",
@@ -13989,20 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://hackaday.com/?p=1398204",
-      "title": "The Drawer Every Standing Desk Needs",
-      "published": "2026-11-11T16:30:11+00:00",
-      "author": "Bryan Cockfield",
-      "description": "Adjustable standing desks have had some ergonomic and health benefits for many people who would otherwise be sitting down all day, but those benefits come at a cost of a …read more",
-      "link": "https://hackaday.com/2026/11/11/the-drawer-every-standing-desk-needs/",
-      "image": "https://hackaday.com/wp-content/uploads/2026/11/standing-desk-main.png",
-      "feed_name": "Blog – Hackaday",
-      "feed_title": "Blog – Hackaday",
-      "category": "DIY",
-      "feed_url": "https://hackaday.com/blog/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
     }
   ]
 }
