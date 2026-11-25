@@ -1,9 +1,23 @@
 {
   "category": "fashion",
-  "updated": "2026-11-25T15:02:59.629626+00:00",
+  "updated": "2026-11-25T15:33:07.311916+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/11/25/style/nyc-holiday-store-windows.html",
+      "title": "Visual Tour of NYC’s Holiday Store Windows: Macy’s, Saks and More",
+      "published": "2026-11-25T15:07:59+00:00",
+      "author": "Sarah Bahr and Hiroko Masuike",
+      "description": "A 50-pound hippopotamus and a bedazzled seven-foot polar bear are among the standouts of this year’s handcrafted department-store displays.",
+      "link": "https://www.nytimes.com/2026/11/25/style/nyc-holiday-store-windows.html",
+      "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25ST-HOLIDAYWINDOWS-08-czfp/25ST-HOLIDAYWINDOWS-08-czfp-mediumSquareAt3X-v2.jpg",
+      "feed_name": "NYT > Style",
+      "feed_title": "NYT > Style",
+      "category": "fashion",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "http://www.elle.com/fashion/shopping/a74472871/how-to-style-shorts-with-tights-outfits/",
       "title": "Shorts and Tights Are the Cold-Weather Pairing Your Wardrobe Needs",
@@ -269,20 +283,6 @@
       "category": "fashion",
       "feed_url": "https://www.whowhatwear.com/rss",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.whowhatwear.com&sz=64"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/25/style/nyc-holiday-store-windows.html",
-      "title": "Visual Tour of NYC’s Holiday Store Windows: Macy’s, Saks and More",
-      "published": "2026-11-25T10:01:08+00:00",
-      "author": "Sarah Bahr",
-      "description": "A 50-pound hippopotamus and a bedazzled seven-foot polar bear are among the standouts of this year’s handcrafted department-store displays.",
-      "link": "https://www.nytimes.com/2026/11/25/style/nyc-holiday-store-windows.html",
-      "image": "https://static01.nyt.com/images/2026/11/25/arts/25holiday-windows-top/25holiday-windows-top-mediumSquareAt3X.png",
-      "feed_name": "NYT > Style",
-      "feed_title": "NYT > Style",
-      "category": "fashion",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://www.nytimes.com/2026/11/25/style/maury-povich-podcast-on-par.html",

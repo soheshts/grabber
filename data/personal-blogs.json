@@ -1,6 +1,6 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-25T15:02:59.629626+00:00",
+  "updated": "2026-11-25T15:33:07.311916+00:00",
   "count": 454,
   "summary": null,
   "items": [
@@ -45,6 +45,20 @@
       "category": "personal blogs",
       "feed_url": "http://www.bennadel.com/index.cfm?dax=blog.rss&lst_tag_id=14,16,3,5,9,6,7,13,18,20,10,15",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.bennadel.com&sz=64"
+    },
+    {
+      "id": "https://www.baldurbjarnason.com/2026/theres-hope-on-the-other-side/",
+      "title": "There’s hope on the other side (and a crass black friday sale!)",
+      "published": "2026-11-25T15:00:00+00:00",
+      "author": "Baldur Bjarnason",
+      "description": "(I have a Black Friday sale going on. Details below. ) Much of what I’ve been writing about lately looks quite depressing. If you look through my last few posts, each looks more depressing than the other. “AI” causing widespread deskilling which is likely to lower our pay. Algorithms leading people to censor themselves. How our job has been changed so that it no longer depends on our expertise and instead puts us in a position of incompetence. How unions don’t fix employers (still useful, thoug…",
+      "link": "https://www.baldurbjarnason.com/2026/theres-hope-on-the-other-side/",
+      "image": "https://www.baldurbjarnason.com/img/eAXHKdUQqC-1456.png",
+      "feed_name": "Baldur Bjarnason's Notes on the Web",
+      "feed_title": "Baldur Bjarnason's Notes on the Web",
+      "category": "personal blogs",
+      "feed_url": "https://feedpress.me/baldurbjarnason",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.baldurbjarnason.com&sz=64"
     },
     {
       "id": "https://medienbaecker.com/articles/kirby-6",
@@ -4825,7 +4839,7 @@
       "title": "Writing is Magic; Machine Writing is Ash",
       "published": "2026-10-31T16:40:00+00:00",
       "author": "Baldur Bjarnason",
-      "description": "A year’s membership in the Premium Newsletter for €50 EUR (price includes VAT, where applicable) A couple of years ago I found some of the old journals I’d kept when I was a teenager. Some of the thoughts in it were innocuous and silly. Some of them were heavier – had a weight I still carry with me today – especially the passages I wrote when I was hospitalised for a summer. None of it’s great writing . But all of it helped at the time. Taking thoughts and putting them down into writing helped…",
+      "description": "A year’s membership in the Premium Newsletter for €50 €25 EUR (price includes VAT, where applicable) A couple of years ago I found some of the old journals I’d kept when I was a teenager. Some of the thoughts in it were innocuous and silly. Some of them were heavier – had a weight I still carry with me today – especially the passages I wrote when I was hospitalised for a summer. None of it’s great writing . But all of it helped at the time. Taking thoughts and putting them down into writing hel…",
       "link": "https://www.baldurbjarnason.com/2026/machine-writing-is-ash/",
       "image": "https://www.baldurbjarnason.com/img/eAXHKdUQqC-1456.png",
       "feed_name": "Baldur Bjarnason's Notes on the Web",
@@ -5631,20 +5645,6 @@
       "category": "personal blogs",
       "feed_url": "http://jeffbridgforth.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=jeffbridgforth.com&sz=64"
-    },
-    {
-      "id": "https://daverupert.com/2026/10/arc-like-automatic-picture-in-picture-in-chromium/",
-      "title": "Arc-like automatic picture-in-picture in Chromium",
-      "published": "2026-10-26T15:31:00+00:00",
-      "author": null,
-      "description": "There’s a lot to miss about Arc (RIP), but the feature I miss the most has got to be automatic picture-in-picture. You start a video and when you change tabs to jump to another task, the video anchored itself to the corner of your desktop. Go back to the video tab and it slurps up into the video player area. A perfect experience with no interruption. I switched back to Edge (for work) and missed Auto-PiP a lot. I tried building a custom browser extension to restore the functionality myself but…",
-      "link": "https://daverupert.com/2026/10/arc-like-automatic-picture-in-picture-in-chromium/",
-      "image": null,
-      "feed_name": "Dave Rupert",
-      "feed_title": "daverupert.com",
-      "category": "personal blogs",
-      "feed_url": "https://daverupert.com/atom.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=daverupert.com&sz=64"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
