@@ -1,9 +1,23 @@
 {
   "category": "technology",
-  "updated": "2026-11-25T03:32:43.180282+00:00",
+  "updated": "2026-11-25T04:02:56.602255+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://it.slashdot.org/story/26/11/25/0056232/us-spy-agencies-suffer-breach-of-some-unclassified-information?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "title": "US Spy Agencies Suffer Breach of Some Unclassified Information",
+      "published": "2026-11-25T03:30:00+00:00",
+      "author": "BeauHD",
+      "description": "An anonymous reader quotes a report from The New York Times: The Central Intelligence Agency and the Office of the Director of National Intelligence recently discovered a cybersecurity breach that exposed some of their unclassified information, according to U.S. officials and other people familiar with the matter. The intrusions affected an open-source intelligence analysis system, a computer network that looks for intelligence insights in public, unclassified material, the people familiar with…",
+      "link": "https://it.slashdot.org/story/26/11/25/0056232/us-spy-agencies-suffer-breach-of-some-unclassified-information?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+      "feed_name": "Slashdot",
+      "feed_title": "Slashdot",
+      "category": "technology",
+      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
+    },
     {
       "id": "5230672",
       "title": "Nvidia Is Also Trying to Fix the Bug Causing Excessive SSD Writing",
@@ -13989,20 +14003,6 @@
       "category": "technology",
       "feed_url": "https://www.engadget.com/rss.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
-    },
-    {
-      "id": "5214414",
-      "title": "Chase Hit by Third-Party Data Breach Unrelated to Recent Outage",
-      "published": "2026-11-19T20:41:14+00:00",
-      "author": "Corin Cesaric-Epple",
-      "description": "Names and emails of some customers may have been compromised, but the bank’s service is unaffected.",
-      "link": "https://www.cnet.com/tech/services-and-software/chase-third-party-data-breach/",
-      "image": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2248232240.jpg",
-      "feed_name": "CNET News",
-      "feed_title": "News – CNET",
-      "category": "technology",
-      "feed_url": "https://www.cnet.com/rss/news/",
-      "feed_icon": "https://www.cnet.com/wp-content/uploads/sites/2/cropped-favicon-480.png?w=32"
     }
   ]
 }
