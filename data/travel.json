@@ -1,9 +1,37 @@
 {
   "category": "travel",
-  "updated": "2026-11-25T10:02:54.390326+00:00",
-  "count": 196,
+  "updated": "2026-11-25T10:32:52.281564+00:00",
+  "count": 198,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/11/25/upshot/tarmac-delays-flights-trump.html",
+      "title": "Trapped on the Tarmac: 3-Hour Flight Delays Spike Under Trump",
+      "published": "2026-11-25T10:03:47+00:00",
+      "author": "Christine Chung and Ben Blatt",
+      "description": "Long delays have risen to levels not seen in more than 15 years, with no enforcement in sight.",
+      "link": "https://www.nytimes.com/2026/11/25/upshot/tarmac-delays-flights-trump.html",
+      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/2026-11-16-tarmacdelays-index/2026-11-16-tarmacdelays-index-mediumSquareAt3X-v12.png",
+      "feed_name": "NYT > Travel",
+      "feed_title": "NYT > Travel",
+      "category": "travel",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/25/style/nyc-holiday-store-windows.html",
+      "title": "Visual Tour of NYC’s Holiday Store Windows: Macy’s, Saks and More",
+      "published": "2026-11-25T10:01:08+00:00",
+      "author": "Sarah Bahr",
+      "description": "A 50-pound hippopotamus and a bedazzled seven-foot polar bear are among the standouts of this year’s handcrafted department-store displays.",
+      "link": "https://www.nytimes.com/2026/11/25/style/nyc-holiday-store-windows.html",
+      "image": "https://static01.nyt.com/images/2026/11/25/arts/25holiday-windows-top/25holiday-windows-top-mediumSquareAt3X.png",
+      "feed_name": "NYT > Travel",
+      "feed_title": "NYT > Travel",
+      "category": "travel",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "https://www.theguardian.com/travel/2026/nov/25/why-i-love-budapest-in-winter-chrstmas-bathhouses",
       "title": "Why I love Budapest in winter: ‘Gloomy days call for a plunge in one of the city’s ornate bathhouses’",

@@ -1,9 +1,23 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-25T10:02:54.390326+00:00",
-  "count": 451,
+  "updated": "2026-11-25T10:32:52.281564+00:00",
+  "count": 452,
   "summary": null,
   "items": [
+    {
+      "id": "https://csswizardry.com/2026/11/web-perf-wednesday-019-firefox-ships-dictionary-compression/",
+      "title": "Web-Perf Wednesday 019 – Firefox Ships Dictionary Compression",
+      "published": "2026-11-25T12:00:00+00:00",
+      "author": null,
+      "description": "Firefox 161 adds Compression Dictionary Transport, making much smaller repeat downloads worth testing while browser support remains limited.",
+      "link": "https://csswizardry.com/2026/11/web-perf-wednesday-019-firefox-ships-dictionary-compression/",
+      "image": null,
+      "feed_name": "CSS Wizardry",
+      "feed_title": "CSS Wizardry",
+      "category": "personal blogs",
+      "feed_url": "http://feeds.feedburner.com/csswizardry",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=csswizardry.com&sz=64"
+    },
     {
       "id": "https://hamatti.org/posts/advent-of-code-tips-for-beginners-through-an-example/",
       "title": "Advent of Code tips for beginners - through an example",
