@@ -1,9 +1,51 @@
 {
   "category": "funny",
-  "updated": "2026-11-25T11:33:25.961191+00:00",
-  "count": 787,
+  "updated": "2026-11-25T12:03:02.133479+00:00",
+  "count": 790,
   "summary": null,
   "items": [
+    {
+      "id": "https://cheezburger.com/47469317/10-orange-cat-breeds-bringing-creamsicle-cuteness-and-pumpkin-spice-sass-for-cat-people",
+      "title": "10 Orange Cat Breeds Bringing Creamsicle Cuteness and Pumpkin-Spice Sass for Cat People",
+      "published": "2026-11-25T19:15:00+00:00",
+      "author": "Ayala Sorotsky",
+      "description": "A single brain cell isn't a problem when the cuteness goes overboard. Did you ever dream of raising orange cats ? I did at some point. When I was looking to adopt a cat, I thought I'd adopt an orange kitten - not knowing about the single orange brain cell theory and everything it entails. But that's beside the point, because I ended up with a meowjestic void princess, all black. She's silly, for sure, but not like other orange cats out there. But if you're in the same situation I was in, lookin…",
+      "link": "https://cheezburger.com/47469317/10-orange-cat-breeds-bringing-creamsicle-cuteness-and-pumpkin-spice-sass-for-cat-people",
+      "image": "https://i.chzbgr.com/thumb/default/47469317/h9D233357/10-orange-cat-breeds-bringing-creamsicle-cuteness-and-pumpkin-spice-sass-for-cat-people",
+      "feed_name": "I Can Has Cheezburger?",
+      "feed_title": "I Can Has Cheezburger?",
+      "category": "funny",
+      "feed_url": "http://feeds.feedburner.com/icanhascheezburger",
+      "feed_icon": "https://i.chzbgr.com/s/unversioned/images/logos/IcanHas_logo_ol.png"
+    },
+    {
+      "id": "https://cheezburger.com/47466757/person-shares-photos-of-their-black-norwegian-forest-cat-18-years-apart-showing-an-extremely-rare",
+      "title": "Person shares photos of their black Norwegian Forest cat 18 years apart, showing an extremely rare transformation: 'It's really uncommon for cats to turn gray'",
+      "published": "2026-11-25T16:00:00+00:00",
+      "author": "Mariel Ruvinsky",
+      "description": "One thing that everyone who has raised a cat since kittenhood knows is that cats only get more purrfect with age. In some ways, cats are just like us humans. They grow, they change, and they learn as they get older. And the longer we live with them, the more we learn to appreciate all the little things that make them special. We get to know their silly habits , and they get to know ours. Some cats become cuddlier with age. Others slow down a little and learn to appreciate the simple pleasure of…",
+      "link": "https://cheezburger.com/47466757/person-shares-photos-of-their-black-norwegian-forest-cat-18-years-apart-showing-an-extremely-rare",
+      "image": "https://i.chzbgr.com/thumb/default/47466757/hB9E3668A/person-shares-photos-of-their-black-norwegian-forest-cat-18-years-apart-showing-an-extremely-rare",
+      "feed_name": "I Can Has Cheezburger?",
+      "feed_title": "I Can Has Cheezburger?",
+      "category": "funny",
+      "feed_url": "http://feeds.feedburner.com/icanhascheezburger",
+      "feed_icon": "https://i.chzbgr.com/s/unversioned/images/logos/IcanHas_logo_ol.png"
+    },
+    {
+      "id": "https://cheezburger.com/47473413/paws-for-the-cause-of-giving-back-to-animals-who-give-us-everything-i-can-has-cheezburger-x-best",
+      "title": "Paws for the Cause of Giving Back to Animals Who Give Us Everything: I Can Has Cheezburger x Best Friends Animal Society",
+      "published": "2026-11-25T13:45:00+00:00",
+      "author": "Briana Viser",
+      "description": "The dynamic duo who are teaming up for a fundraiser that helps the very thing we love most: animals. Everyone here probably already knows what I Can Has Cheezburger is all about, but we're introducing an organization important for us and for our cause, and that's Best Friends Animal Society . I Can Has Cheezburger is branching out of being all about cat memes and entertainment, and we're dipping our toe in the philanthropy behind animals, past the vapid giggles from memes, reels, or photos. Bes…",
+      "link": "https://cheezburger.com/47473413/paws-for-the-cause-of-giving-back-to-animals-who-give-us-everything-i-can-has-cheezburger-x-best",
+      "image": "https://i.chzbgr.com/thumb/default/47473413/h0E0C30F7/paws-for-the-cause-of-giving-back-to-animals-who-give-us-everything-i-can-has-cheezburger-x-best",
+      "feed_name": "I Can Has Cheezburger?",
+      "feed_title": "I Can Has Cheezburger?",
+      "category": "funny",
+      "feed_url": "http://feeds.feedburner.com/icanhascheezburger",
+      "feed_icon": "https://i.chzbgr.com/s/unversioned/images/logos/IcanHas_logo_ol.png"
+    },
     {
       "id": "https://www.penny-arcade.com/comic/2026/11/25/return-of-the-mack",
       "title": "Return Of the Mack",
@@ -17,6 +59,20 @@
       "category": "funny",
       "feed_url": "https://www.penny-arcade.com/feed",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.penny-arcade.com&sz=64"
+    },
+    {
+      "id": "https://thedailywtf.com/articles/referenceerror-hell-is-not-defined",
+      "title": "CodeSOD: ReferenceError: HELL is not defined",
+      "published": "2026-11-25T06:30:00+00:00",
+      "author": "Remy Porter",
+      "description": "David came across some Java code. This particular block needed to, based on an integer masquerading as an enumerated type, return an amount of time to sleep. It has strong opinions about what should happen when you send it an invalid value: private static int getTime ( int mode) { return switch (mode) { case 0 -> 30 * SECOND; case 1 -> 15 * SECOND; case 2 -> 10 * SECOND; case 3 -> 20 * SECOND; case 4 -> 17 * SECOND; case 5 -> 32 * SECOND; default -> // go to hell 1000000000 ; }; } Now, actually…",
+      "link": "https://thedailywtf.com/articles/referenceerror-hell-is-not-defined",
+      "image": "https://thedailywtf.com/images/inedo/proget-icon.png",
+      "feed_name": "The Daily WTF",
+      "feed_title": "The Daily WTF",
+      "category": "funny",
+      "feed_url": "http://syndication.thedailywtf.com/TheDailyWtf",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thedailywtf.com&sz=64"
     },
     {
       "id": "https://theonion.com/?p=1851711554",
@@ -11007,20 +11063,6 @@
       "category": "funny",
       "feed_url": "https://www.theonion.com/rss",
       "feed_icon": "https://theonion.com/wp-content/uploads/2024/07/cropped-site-icon.png?w=32"
-    },
-    {
-      "id": "https://cheezburger.com/47210501/father-gains-access-to-19-year-old-daughters-bank-account-and-monitors-her-expenses-she-opens-a",
-      "title": "Father gains access to 19-year-old daughter’s bank account and monitors her expenses, she opens a secret account in response: ‘I had never felt more free financially’",
-      "published": "2026-10-26T12:00:00+00:00",
-      "author": "Bar Mor Hazut",
-      "description": "When you were a kid, you didn't question the fact that every decision you made had to go through your parents first. You couldn't just go into an Apple Store and buy yourself the iPhone 18. Not only did you not have that much cash on you to do that, but you also had to have your parents' permission and support to do so, which everyone can agree is very understandable. In time, however, you become more and more independent. You start working and earning your own money, and you get to decide what…",
-      "link": "https://cheezburger.com/47210501/father-gains-access-to-19-year-old-daughters-bank-account-and-monitors-her-expenses-she-opens-a",
-      "image": "https://i.chzbgr.com/thumb-large/47210501/h097675C4/monitors-her-expenses-she-opens-a-secret-account-in-response-i-had-never-felt-more-free-financially",
-      "feed_name": "FAIL Blog",
-      "feed_title": "FAIL Blog",
-      "category": "funny",
-      "feed_url": "http://feeds.feedburner.com/failblog",
-      "feed_icon": "https://i.chzbgr.com/s/unversioned/images/logos/FailBlog_ol.png"
     }
   ]
 }

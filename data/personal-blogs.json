@@ -1,9 +1,23 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-25T11:33:25.961191+00:00",
-  "count": 453,
+  "updated": "2026-11-25T12:03:02.133479+00:00",
+  "count": 454,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.bennadel.com/blog/4934-adding-null-to-a-set-breaks-writedump-in-adobe-coldfusion-2025.htm",
+      "title": "Adding NULL To A Set Breaks WriteDump() In Adobe ColdFusion 2025",
+      "published": "2026-11-25T16:39:54+00:00",
+      "author": null,
+      "description": "Ben Nadel demonstrates that adding NULL to a ColdFusion Set prevents the Set from being rendered in a CFDump / WriteDump() output....",
+      "link": "https://www.bennadel.com/blog/4934-adding-null-to-a-set-breaks-writedump-in-adobe-coldfusion-2025.htm",
+      "image": "https://bennadel-cdn.com/resources/uploads/2026/null-poisoned-set-coldfusion@2x.png",
+      "feed_name": "Ben Nadel",
+      "feed_title": "Ben Nadel's Web Development and User Experience Feed @ BenNadel.com",
+      "category": "personal blogs",
+      "feed_url": "http://www.bennadel.com/index.cfm?dax=blog.rss&lst_tag_id=14,16,3,5,9,6,7,13,18,20,10,15",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.bennadel.com&sz=64"
+    },
     {
       "id": "https://www.bennadel.com/blog/4933-circular-reference-in-a-set-causes-stack-overflow-in-adobe-coldfusion-2025.htm",
       "title": "Circular Reference In A Set Causes Stack Overflow In Adobe ColdFusion 2025",

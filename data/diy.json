@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-25T11:33:25.961191+00:00",
+  "updated": "2026-11-25T12:03:02.133479+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/built-messaging-system-home-assistant-love-it/",
+      "title": "I built a messaging system on Home Assistant, and I love it",
+      "published": "2026-11-25T12:01:17+00:00",
+      "author": "Yadullah Abidi",
+      "description": "I replaced shouting across the apartment with an NFC tag",
+      "link": "https://www.makeuseof.com/built-messaging-system-home-assistant-love-it/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/message-on-e-paper-display.JPG",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/microsoft-excel-tested-functions-these-were-useful/",
+      "title": "I tested 10 Excel functions I'd never used before, and these 5 were surprisingly useful",
+      "published": "2026-11-25T12:00:15+00:00",
+      "author": "Tony Phillips",
+      "description": "A hidden date function, a smarter ranking tool, and three more Excel surprises.",
+      "link": "https://www.howtogeek.com/microsoft-excel-tested-functions-these-were-useful/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/excel-function-library-laptop.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/make-bootable-usb-drive-android-without-computer/",
       "title": "How to make a bootable USB drive on Android without a computer",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/74523/how-to-disable-startup-programs-in-windows/",
-      "title": "How to disable startup programs in Windows",
-      "published": "2026-11-11T17:43:50+00:00",
-      "author": "Nick Lewis",
-      "description": "Not everything needs to run immediately.",
-      "link": "https://www.howtogeek.com/74523/how-to-disable-startup-programs-in-windows/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/52781817718_a8d82f6461_o.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/install-windows-over-network-pxe/",
-      "title": "Bootable USB drives feel pointless once your home network can install Windows",
-      "published": "2026-11-11T17:30:17+00:00",
-      "author": "Tashreef Shareef",
-      "description": "Host your ISOs on one PC and install Windows anywhere on your network.",
-      "link": "https://www.makeuseof.com/install-windows-over-network-pxe/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/laptop-booting-iventoy-netboot-menu-showing-windows-11-iso.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }
