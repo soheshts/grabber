@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-25T12:32:27.403932+00:00",
+  "updated": "2026-11-25T13:03:03.067752+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/wi-fi-6-isnt-same-6-ghz-wi-fi/",
+      "title": "Wi-Fi 6 isn’t the same as 6GHz Wi-Fi",
+      "published": "2026-11-25T13:00:17+00:00",
+      "author": "Yadullah Abidi",
+      "description": "You can't buy 6 GHz by buying Wi-Fi 6, no matter what the box implies.",
+      "link": "https://www.makeuseof.com/wi-fi-6-isnt-same-6-ghz-wi-fi/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/03/tp-link-wi-fi-6-router-in-hand.png",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/splitting-wifi-bands-fixed-connection-drops/",
       "title": "I changed one router setting, and my PC and my smart plugs both stopped dropping Wi-Fi",
@@ -13989,20 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.makeuseof.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/replaced-everything-with-this-free-windows-search-tool-and-dont-miss-it/",
-      "title": "I replaced Everything with this free Windows search tool, and I don't miss it",
-      "published": "2026-11-11T18:30:16+00:00",
-      "author": "Jorge A. Aguilar",
-      "description": "This free Windows search tool replaced Everything, and it's far easier on the eyes.",
-      "link": "https://www.howtogeek.com/replaced-everything-with-this-free-windows-search-tool-and-dont-miss-it/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/anything-search-on-a-windows-pc-monitor-showing-things-to-search-for.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
     }
   ]
 }
