@@ -1,9 +1,51 @@
 {
   "category": "DIY",
-  "updated": "2026-11-25T19:02:57.000256+00:00",
+  "updated": "2026-11-25T19:32:25.484878+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://hackaday.com/?p=1430227",
+      "title": "The Curious Case of the Second Spacebar",
+      "published": "2026-11-25T19:30:21+00:00",
+      "author": "Donald Papp",
+      "description": "[Adrian] shared a very unusual Commodore 64 he came across with some unique modifications made to it. Not only did it have an unexplained DIP socket on the back, it …read more",
+      "link": "https://hackaday.com/2026/11/25/the-curious-case-of-the-second-spacebar/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/Wait-.-what_-Why-is-there-an-extra-spacebar_-40-22-screenshot-banner.png",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
+    {
+      "id": "https://www.makeuseof.com/best-android-apps-for-road-trip/",
+      "title": "I plan my Thanksgiving drive around gas, traffic, and bathroom stops, and these apps do all three",
+      "published": "2026-11-25T19:30:17+00:00",
+      "author": "Brandon Miniman",
+      "description": "If you're going on a road trip this holiday season, these apps are critical.",
+      "link": "https://www.makeuseof.com/best-android-apps-for-road-trip/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/feat-10.jpeg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/flippers-busy-bar-gets-50-new-open-source-apps-and-theyre-free-to-use/",
+      "title": "Flipper's Busy Bar gets 50 new open-source apps, and they're free to use",
+      "published": "2026-11-25T19:24:21+00:00",
+      "author": "Tyler Cross",
+      "description": "After setting the feature up in a previous update, Flipper is fleshing out its BUSY Bar with applications",
+      "link": "https://www.howtogeek.com/flippers-busy-bar-gets-50-new-open-source-apps-and-theyre-free-to-use/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/11/new-project.png",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/why-use-control-d-over-nextdns/",
       "title": "NextDNS is the better ad blocker, but Control D does something it can’t",
@@ -13961,48 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://hackaday.com/blog/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/bring-your-android-apps-notifications-and-files-to-windows-with-this-free-open-source-hub/",
-      "title": "Bring your Android apps, notifications, and files to Windows with this free open-source hub",
-      "published": "2026-11-12T12:00:16+00:00",
-      "author": "Sagar Naresh",
-      "description": "No juggling between apps",
-      "link": "https://www.makeuseof.com/bring-your-android-apps-notifications-and-files-to-windows-with-this-free-open-source-hub/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/nectarlink-hero.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/adobe-isnt-the-only-target-a-vibe-coder-wants-to-replace-microsoft-office/",
-      "title": "Adobe isn't the only target: a vibe coder wants to replace Microsoft Office, too",
-      "published": "2026-11-12T12:00:15+00:00",
-      "author": "Nimrah Chaudhry",
-      "description": "First Adobe, now Office. This vibe coder clearly doesn’t believe in easy targets.",
-      "link": "https://www.howtogeek.com/adobe-isnt-the-only-target-a-vibe-coder-wants-to-replace-microsoft-office/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/f_4080x2720.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/someone-used-claude-code-to-build-a-linux-phone-os-and-you-can-try-it-in-your-browser/",
-      "title": "Someone used Claude Code to build a Linux phone OS, and you can try it in your browser",
-      "published": "2026-11-12T11:56:16+00:00",
-      "author": "Hamed Paydarfar",
-      "description": "Dusty PinePhone reborn as a speedy feature device with 66 fps display rendering, modular apps on microSD and a WebAssembly demo.",
-      "link": "https://www.makeuseof.com/someone-used-claude-code-to-build-a-linux-phone-os-and-you-can-try-it-in-your-browser/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2026/11/pinephone-in-the-spring.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }
