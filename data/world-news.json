@@ -1,13 +1,69 @@
 {
   "category": "World News",
-  "updated": "2026-11-25T02:33:10.626225+00:00",
+  "updated": "2026-11-25T03:03:21.613771+00:00",
   "count": 1000,
   "summary": null,
   "items": [
     {
+      "id": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo#0",
+      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "published": "2026-11-25T02:59:27+00:00",
+      "author": null,
+      "description": "The verdict follows a months-long trial in New York.",
+      "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/24/world/europe/thomas-markle-indicted.html",
+      "title": "Thomas Markle Indicted in US on Charges of Possession of Child Sexual Abuse Materials",
+      "published": "2026-11-25T02:55:17+00:00",
+      "author": "Ephrat Livni",
+      "description": "Mr. Markle, 82, was indicted by a grand jury in Los Angeles and is expected to be arraigned in the coming weeks, prosecutors said.",
+      "link": "https://www.nytimes.com/2026/11/24/world/europe/thomas-markle-indicted.html",
+      "image": "https://static01.nyt.com/images/2026/12/10/multimedia/10xp-markle-bjgq/10xp-markle-bjgq-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
+      "title": "Politics live: Chalmers says economy faces ‘serious moment’ amid inflation; NSW ‘scaling up’ response after fire ants found in Sydney",
+      "published": "2026-11-25T02:54:27+00:00",
+      "author": "Krishani Dhanji",
+      "description": "Get our daily political email , free app or daily news podcast Wells says AI investment and creative protections not a ‘zero-sum game’ Weighing into the gigantic debate that is AI companies wanting to scrape Australian data to train models versus creatives who want to protect their work, Anika Wells says it’s not a ‘zero-sum’ game. I reject this sort of zero-sum game where building Australian sovereignty in AI must come at the expense of creatives or at diminishing the rights of creatives. At t…",
+      "link": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
+      "image": null,
+      "feed_name": "The Guardian",
+      "feed_title": "World news | The Guardian",
+      "category": "World News",
+      "feed_url": "https://www.theguardian.com/world/rss",
+      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
+    {
+      "id": "108558959",
+      "title": "U.S. jury convicts Huawei in a criminal trial over fraud and trade secrets",
+      "published": "2026-11-25T02:43:33+00:00",
+      "author": null,
+      "description": "Huawei was found guilty of bank fraud, money laundering and trade secret theft conspiracy in a U.S. trial.",
+      "link": "https://www.cnbc.com/2026/11/25/huawei-fraud-trade-trial.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108364994-1789747785768-gettyimages-2295274096-boivin-photoill260918_npjnP.jpeg?v=1789747819&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
       "id": "108558939",
       "title": "Houthi attack on Saudi Arabian sovereign wealth fund PIF's tower injures 11",
-      "published": "2026-11-25T02:30:48+00:00",
+      "published": "2026-11-25T02:36:43+00:00",
       "author": null,
       "description": "This has been the second attack by the Iran-backed group in six days on the tower, although the previous attack did not cause any casualties.",
       "link": "https://www.cnbc.com/2026/11/25/us-iran-war-trump-hormuz-houthi-saudi-pif-tower.html",
@@ -61,18 +117,18 @@
       "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
-      "id": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
-      "title": "Politics live: Chalmers says economy faces ‘serious moment’ amid inflation; NSW ‘scaling up’ response after fire ants found in Sydney",
-      "published": "2026-11-25T02:16:48+00:00",
-      "author": "Krishani Dhanji",
-      "description": "Get our daily political email , free app or daily news podcast Wells says AI investment and creative protections not a ‘zero-sum game’ Weighing into the gigantic debate that is AI companies wanting to scrape Australian data to train models versus creatives who want to protect their work, Anika Wells says it’s not a ‘zero-sum’ game. I reject this sort of zero-sum game where building Australian sovereignty in AI must come at the expense of creatives or at diminishing the rights of creatives. At t…",
-      "link": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
-      "image": null,
-      "feed_name": "The Guardian",
-      "feed_title": "World news | The Guardian",
+      "id": "https://timesofindia.indiatimes.com/world/uk/two-arrested-after-masked-men-break-into-prince-william-and-kate-middletons-country-home/articleshow/136145875.cms",
+      "title": "Two arrested after masked men break into Prince William and Kate’s country home",
+      "published": "2026-11-25T02:23:42+00:00",
+      "author": "Prisha Patnaik",
+      "description": "",
+      "link": "https://timesofindia.indiatimes.com/world/uk/two-arrested-after-masked-men-break-into-prince-william-and-kate-middletons-country-home/articleshow/136145875.cms",
+      "image": "https://static.toiimg.com/photo/msid-136145906,imgsize-164380.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
       "category": "World News",
-      "feed_url": "https://www.theguardian.com/world/rss",
-      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
       "id": "108558935",
@@ -255,20 +311,6 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo#0",
-      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
-      "published": "2026-11-25T01:11:57+00:00",
-      "author": null,
-      "description": "The verdict follows a months-long trial in New York.",
-      "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "https://www.ndtv.com/world-news/shenzhou-24-mission-chinese-rocket-with-pakistani-astronaut-muhammad-zeeshan-ali-aboard-takes-off-to-tiangong-space-station-12373033#publisher=newsstand",
@@ -13961,48 +14003,6 @@
       "category": "World News",
       "feed_url": "https://www.theguardian.com/world/rss",
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/taiwan-says-china-using-over-2-500-meta-accounts-to-influence-polls-report-12352778#publisher=newsstand",
-      "title": "Taiwan Says China Using Over 2,500 Meta Accounts To Influence Polls: Report",
-      "published": "2026-11-20T07:16:38+00:00",
-      "author": null,
-      "description": "Taiwanese officials said they had confirmed that some of the accounts had been taken down.",
-      "link": "https://www.ndtv.com/world-news/taiwan-says-china-using-over-2-500-meta-accounts-to-influence-polls-report-12352778#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-11/3jntde0g_taiwan-reuters_625x300_20_November_26.jpeg",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c623j4kpg94go#0",
-      "title": "UK and EU to agree youth mobility scheme, BBC understands",
-      "published": "2026-11-20T07:14:46+00:00",
-      "author": null,
-      "description": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table.",
-      "link": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e07f/live/98894190-e498-11f1-9cd2-85bef55939bc.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/hit-by-iran-war-israel-pivots-to-cheaper-air-defence-amid-rising-tensions-in-middle-east-12353075#publisher=newsstand",
-      "title": "Hit By Iran War, Israel Pivots To Cheaper Air Defence Amid Rising Tensions",
-      "published": "2026-11-20T07:10:38+00:00",
-      "author": null,
-      "description": "The changes boost the range of David's Sling",
-      "link": "https://www.ndtv.com/world-news/hit-by-iran-war-israel-pivots-to-cheaper-air-defence-amid-rising-tensions-in-middle-east-12353075#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-11/5efs5fbk_israel-defence_625x300_20_November_26.jpeg",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     }
   ]
 }
