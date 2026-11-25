@@ -1,9 +1,23 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-25T09:02:46.865862+00:00",
-  "count": 450,
+  "updated": "2026-11-25T09:32:45.830287+00:00",
+  "count": 451,
   "summary": null,
   "items": [
+    {
+      "id": "https://hamatti.org/posts/advent-of-code-tips-for-beginners-through-an-example/",
+      "title": "Advent of Code tips for beginners - through an example",
+      "published": "2026-11-25T00:00:00+00:00",
+      "author": "Juha-Matti Santala (juhis@hamatti.org)",
+      "description": "Advent of Code is right around the corner for the 12th year and it’s time to talk about it again. In short, Advent of Code is an annual Christmas calendar of daily programming puzzles. Each day, you get a puzzle and an input: to solve, you need to write code that solves the problem and submit a numeric result to the website to check if you got it right. Once you solve the first puzzle, a second one is revealed. It’s a lot of fun and one of my favourite annual things. I solve these puzzles with…",
+      "link": "https://hamatti.org/posts/advent-of-code-tips-for-beginners-through-an-example/",
+      "image": "https://hamatti.org/assets/img/posts/advent-of-code-tips-for-beginners-through-an-example/advent-of-code-tips-for-beginners-through-an-example-cover.png.webp",
+      "feed_name": "Juha-Matti Santala - Community Builder. Dreamer. Adventurer.",
+      "feed_title": "Juha-Matti Santala - Community Builder. Dreamer. Adventurer.",
+      "category": "personal blogs",
+      "feed_url": "https://hamatti.org/feed/feed.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hamatti.org&sz=64"
+    },
     {
       "id": "https://www.raymondcamden.com/2026/11/24/my-to-do-replacing-what-microsoft-is-killing",
       "title": "My To Do - Replacing what Microsoft is Killing",
