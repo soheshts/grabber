@@ -1,9 +1,37 @@
 {
   "category": "science",
-  "updated": "2026-11-25T21:32:52.680017+00:00",
+  "updated": "2026-11-25T22:03:48.375063+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "news714841321",
+      "title": "Draining peatlands leaves a long legacy of warming",
+      "published": "2026-11-25T22:00:08+00:00",
+      "author": null,
+      "description": "Peatland ecosystems like bogs and swamps perform an important balancing act: Their vegetation takes up huge amounts of carbon dioxide, while their soil microbes produce methane. Although methane is a potent greenhouse gas, peatlands exhibit a net cooling effect on the planet because of the sheer scale of carbon dioxide they remove from the atmosphere, which has amounted to hundreds of gigatons globally over thousands of years.",
+      "link": "https://phys.org/news/2026-11-peatlands-legacy.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/draining-peatlands-lea.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "news714840781",
+      "title": "Stabilizing atomically thin metals with sandwich structures: Machine learning expands the search",
+      "published": "2026-11-25T21:40:05+00:00",
+      "author": null,
+      "description": "Atomically thin metals, metallenes, are promising materials for catalysis, electronics and energy conversion, but their synthesis has been challenging. Researchers from the University of Jyväskylä have now identified more than 300 stable metallene sandwich structures using machine learning and high-performance computing. The results provide researchers with a practical roadmap for the fabrication of new two-dimensional metals.",
+      "link": "https://phys.org/news/2026-11-stabilizing-atomically-thin-metals-sandwich.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/machine-learning-ident.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
     {
       "id": "news714834836",
       "title": "Smartphone app uses AI to identify illegal wildlife products",
@@ -13975,34 +14003,6 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "news714127541",
-      "title": "Building children's numeracy foundations involves more than 1, 2, 3",
-      "published": "2026-11-17T18:30:01+00:00",
-      "author": null,
-      "description": "As adults, we may take for granted what we know about numbers and how we arrived at this knowledge—for example, when comparing item prices to get the best deals or getting to appointments on time.",
-      "link": "https://phys.org/news/2026-11-children-numeracy-foundations-involves.html",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/building-childrens-num.jpg",
-      "feed_name": "Phys.org - latest science and technology news stories",
-      "feed_title": "Phys.org - latest science and technology news stories",
-      "category": "science",
-      "feed_url": "https://phys.org/rss-feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqlykve012d1o#0",
-      "title": "William and Kate celebrate Earthshot Prize winners in Mumbai",
-      "published": "2026-11-17T18:20:36+00:00",
-      "author": null,
-      "description": "The Prince and Princess of Wales were joined by sporting and acting stars for the annual environmental awards ceremony.",
-      "link": "https://www.bbc.co.uk/news/articles/cqlykve012d1o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7619/live/c9b38b90-e2ae-11f1-99b6-a35a62fa4264.jpg",
-      "feed_name": "BBC News - Science & Environment",
-      "feed_title": "BBC News",
-      "category": "science",
-      "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     }
   ]
 }
