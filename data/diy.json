@@ -1,9 +1,51 @@
 {
   "category": "DIY",
-  "updated": "2026-11-25T10:32:52.281564+00:00",
+  "updated": "2026-11-25T11:02:59.631497+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/the-computer-in-your-computer-controls-far-more-than-you-realize/",
+      "title": "The computer in your computer controls far more than you realize",
+      "published": "2026-11-25T11:00:16+00:00",
+      "author": "Dipan Saha",
+      "description": "There's a whole subsystem that boots before you start an OS.",
+      "link": "https://www.makeuseof.com/the-computer-in-your-computer-controls-far-more-than-you-realize/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/09/xeon-cpu-in-consumer-board-jpg.png",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/pause-pi-hole-esp32-more-cheap-network-projects/",
+      "title": "I can now pause my Pi-hole with an ESP32 (and 3 more cheap network projects I'm working on next)",
+      "published": "2026-11-25T11:00:15+00:00",
+      "author": "Patrick Campanale",
+      "description": "Small boards, small budgets, and network upgrades you'll use every day.",
+      "link": "https://www.howtogeek.com/pause-pi-hole-esp32-more-cheap-network-projects/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/esp32-pihole-oled-blocking.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.makeuseof.com/fake-gta-6-pc-malware-infostealer-scam-kit/",
+      "title": "Fake GTA 6 PC installers are stealing accounts for a port that doesn't exist",
+      "published": "2026-11-25T10:48:09+00:00",
+      "author": "Anvinraj Valiyathara",
+      "description": "A fake trailer hides what these Windows payloads really steal",
+      "link": "https://www.makeuseof.com/fake-gta-6-pc-malware-infostealer-scam-kit/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/gta-6.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
     {
       "id": "https://hackaday.com/?p=1430173",
       "title": "Touching a Spinner Makes Things Feel Sticky or Slippery, in VR",
@@ -13961,48 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/this-app-is-the-ultimate-minimalist-retro-camera-app/",
-      "title": "This app is the ultimate minimalist retro camera app",
-      "published": "2026-11-11T17:00:17+00:00",
-      "author": "Sagar Naresh",
-      "description": "Time to click some fun pictures",
-      "link": "https://www.makeuseof.com/this-app-is-the-ultimate-minimalist-retro-camera-app/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/flarecam-hero.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/toy-shaking-up-entire-industry-and-im-hooked/",
-      "title": "This $50 toy is shaking up an entire industry, and I'm hooked",
-      "published": "2026-11-11T17:00:16+00:00",
-      "author": "Tim Brookes",
-      "description": "BYO firmware.",
-      "link": "https://www.howtogeek.com/toy-shaking-up-entire-industry-and-im-hooked/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/m-vave-fm1-pocket-synthesizer-with-white-earpods.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/use-android-auto-office-desk-for-productivity/",
-      "title": "I used Android Auto at my desk to stop picking up my phone every five minutes",
-      "published": "2026-11-11T16:45:17+00:00",
-      "author": "Pankil Shah",
-      "description": "Turn Android Auto into a desk tool.",
-      "link": "https://www.makeuseof.com/use-android-auto-office-desk-for-productivity/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/phone-screen-at-a-desk-showing-android-auto.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }
