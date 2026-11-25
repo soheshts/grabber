@@ -1,9 +1,51 @@
 {
   "category": "World News",
-  "updated": "2026-11-25T17:33:12.138638+00:00",
+  "updated": "2026-11-25T18:03:00.947465+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo#0",
+      "title": "US stocks fall further as fears over AI intensify",
+      "published": "2026-11-25T17:48:09+00:00",
+      "author": null,
+      "description": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
+      "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f2e/live/6940e8e0-e8f1-11f1-99a1-253766e7ad8b.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/24/world/asia/japan-international-criminal-court-takaichi-trump.html",
+      "title": "Japan’s Leader, in Break With U.S., Defends International Criminal Court",
+      "published": "2026-11-25T17:41:06+00:00",
+      "author": "Javier C. Hernández",
+      "description": "Sanae Takaichi welcomed the court’s president and vowed to accelerate financial support despite an effort by the Trump administration to cripple the global body.",
+      "link": "https://www.nytimes.com/2026/11/24/world/asia/japan-international-criminal-court-takaichi-trump.html",
+      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24int-japan-icc-qkgc/24int-japan-icc-qkgc-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/25/world/europe/prince-william-kate-home-break-in-charged.html",
+      "title": "2 Men Charged After Break-In at Prince William and Kate’s Country Home",
+      "published": "2026-11-25T17:33:35+00:00",
+      "author": "Stephen Castle",
+      "description": "Prosecutors said the two men, who appeared in court on Wednesday, had climbed a drainpipe to break into the royals’ country retreat in Norfolk.",
+      "link": "https://www.nytimes.com/2026/11/25/world/europe/prince-william-kate-home-break-in-charged.html",
+      "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-uk-royals-break-in-mfgl/25int-uk-royals-break-in-mfgl-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo#0",
       "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
@@ -115,20 +157,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo#0",
-      "title": "US stocks fall further as fears over AI intensify",
-      "published": "2026-11-25T16:07:26+00:00",
-      "author": null,
-      "description": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
-      "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f2e/live/6940e8e0-e8f1-11f1-99a1-253766e7ad8b.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "108558929",
@@ -367,20 +395,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/25/world/europe/prince-william-kate-home-break-in-charged.html",
-      "title": "2 Men Charged After Break-In at Prince William and Kate’s Country Home",
-      "published": "2026-11-25T14:37:26+00:00",
-      "author": "Stephen Castle",
-      "description": "Prosecutors said the two men, who appeared in court on Wednesday, had climbed a drainpipe to break into the royals’ country retreat in Norfolk.",
-      "link": "https://www.nytimes.com/2026/11/25/world/europe/prince-william-kate-home-break-in-charged.html",
-      "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-uk-royals-break-in-mfgl/25int-uk-royals-break-in-mfgl-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "108558935",
@@ -4735,20 +4749,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/24/world/asia/japan-international-criminal-court-takaichi-trump.html",
-      "title": "Japan’s Leader, in Break with U.S., Defends International Criminal Court",
-      "published": "2026-11-24T10:35:30+00:00",
-      "author": "Javier C. Hernández",
-      "description": "Sanae Takaichi welcomed the court’s president and vowed to accelerate financial support despite an effort by the Trump administration to cripple the global body.",
-      "link": "https://www.nytimes.com/2026/11/24/world/asia/japan-international-criminal-court-takaichi-trump.html",
-      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24int-japan-icc-qkgc/24int-japan-icc-qkgc-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://www.nytimes.com/2026/11/24/world/women-leadership-road-safety-nneka-henry.html",

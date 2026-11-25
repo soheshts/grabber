@@ -1,9 +1,51 @@
 {
   "category": "DIY",
-  "updated": "2026-11-25T17:33:12.138638+00:00",
+  "updated": "2026-11-25T18:03:00.947465+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/ssd-health-numbers-explained-crystaldiskinfo/",
+      "title": "I checked my SSD health, and found numbers that didn’t make sense",
+      "published": "2026-11-25T18:00:17+00:00",
+      "author": "Oluwademilade Afolabi",
+      "description": "I've seen less intimidating numbers on a blood test.",
+      "link": "https://www.makeuseof.com/ssd-health-numbers-explained-crystaldiskinfo/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/04/crystaldisk-info-with-nvme-drive-data.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/ankers-8-in-1-docking-station-hits-a-new-all-time-low-at-3798-on-amazon/",
+      "title": "Anker's 8-in-1 docking station hits a new all-time low at $37.98 on Amazon",
+      "published": "2026-11-25T17:50:32+00:00",
+      "author": "HTG Deals Desk",
+      "description": "Connect two 4K monitors and charge your laptop for less than $40.",
+      "link": "https://www.howtogeek.com/ankers-8-in-1-docking-station-hits-a-new-all-time-low-at-3798-on-amazon/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/11/anker-laptop-docking-station-dual-monitor-cropped.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.makeuseof.com/samsung-confirms-one-ui-9-battery-fix-but-youll-have-to-wait/",
+      "title": "Samsung confirms One UI 9 battery fix, but you'll have to wait",
+      "published": "2026-11-25T17:44:48+00:00",
+      "author": "Vineet Washington",
+      "description": "Fix incoming, but you’ll have to wait till next year.",
+      "link": "https://www.makeuseof.com/samsung-confirms-one-ui-9-battery-fix-but-youll-have-to-wait/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/galaxy-battery-gree-feature.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/my-windows-pc-took-forever-to-start-until-i-checked-these-startup-apps/",
       "title": "My Windows PC took forever to start until I checked these startup apps",
@@ -13961,48 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://hackaday.com/blog/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
-    },
-    {
-      "id": "https://hackaday.com/?p=1424870",
-      "title": "It’s Elite, For The Commodore Pet",
-      "published": "2026-11-12T03:00:20+00:00",
-      "author": "Jenny List",
-      "description": "A few times in the life of someone interested in technology, there comes along something which after seeing it, you know the field is never going to be the same …read more",
-      "link": "https://hackaday.com/2026/11/11/its-elite-for-the-commodore-pet/",
-      "image": "https://hackaday.com/wp-content/uploads/2026/11/pet-elite-featured.jpg",
-      "feed_name": "Blog – Hackaday",
-      "feed_title": "Blog – Hackaday",
-      "category": "DIY",
-      "feed_url": "https://hackaday.com/blog/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/google-pixel-watch-5-is-down-to-300-right-now/",
-      "title": "The Google Pixel Watch 5 is down to $300 right now",
-      "published": "2026-11-12T01:40:05+00:00",
-      "author": "HTG Deals Desk",
-      "description": "Amazon is discounting the Android smartwatch by a full $100",
-      "link": "https://www.howtogeek.com/google-pixel-watch-5-is-down-to-300-right-now/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/09/pixel-watch-5-and-galaxy-watch-9-9.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/you-dont-need-server-self-host-docker-containers-run-everyday-windows-pc/",
-      "title": "You don’t need a server to self-host: 5 Docker containers I run on my everyday Windows PC",
-      "published": "2026-11-12T01:01:16+00:00",
-      "author": "Jorge A. Aguilar",
-      "description": "I self-host 5 Docker containers on my regular Windows PC.",
-      "link": "https://www.howtogeek.com/you-dont-need-server-self-host-docker-containers-run-everyday-windows-pc/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/unexpected-docker-feature-image.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
     }
   ]
 }
