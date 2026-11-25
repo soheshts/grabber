@@ -1,9 +1,23 @@
 {
   "category": "technology",
-  "updated": "2026-11-25T02:03:17.566494+00:00",
+  "updated": "2026-11-25T02:33:10.626225+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "5230672",
+      "title": "Nvidia Is Also Trying to Fix the Bug Causing Excessive SSD Writing",
+      "published": "2026-11-25T02:22:22+00:00",
+      "author": "Omar Gallaga",
+      "description": "Nvidia has issued software updates, but it’s unclear if the problem is completely fixed.",
+      "link": "https://www.cnet.com/tech/computing/nvidia-ssd-writing/",
+      "image": "https://www.cnet.com/wp-content/uploads/sites/2/geforce-rtx-5070.jpg",
+      "feed_name": "CNET News",
+      "feed_title": "News – CNET",
+      "category": "technology",
+      "feed_url": "https://www.cnet.com/rss/news/",
+      "feed_icon": "https://www.cnet.com/wp-content/uploads/sites/2/cropped-favicon-480.png?w=32"
+    },
     {
       "id": "https://www.theverge.com/?p=1041957",
       "title": "US financial crimes bureau discloses ‘cybersecurity incident’",
@@ -9680,10 +9694,10 @@
     },
     {
       "id": "yt:video:WN14ucoXt1U",
-      "title": "What if a Treadmill Could Sync to Your Heartbeat?",
+      "title": "What if a Treadmill Could Sync to Your Heartbeat? (YESOUL T5 Treadmill)",
       "published": "2026-11-21T16:08:41+00:00",
       "author": "Unbox Therapy",
-      "description": "Unboxing The YESOUL T5 Longevity Treadmill The YESOUL T5 Series Longevity Treadmill combines up to 30% Auto Incline with low-impact incline walking for Zone 2 Training. ZoneFinder™ helps with your training zone, while ZoneSync™ helps you stay in Zone 2. Also includes Free Screen Mirroring, Built-In Entertainment Mode, Foldable Design, and No Mandatory Subscription. Speed & Power: - 12.4 MPH MAX SPEED — Built for Faster Runs, Intervals & More. - 2.0 HP CONTINUOUS — Consistent Power for Longer Wo…",
+      "description": "Unboxing The YESOUL T5 Longevity Treadmill The YESOUL T5 Series Longevity Treadmill combines up to 30% Auto Incline with low-impact incline walking for Zone 2 Training. ZoneFinder™ helps with your training zone, while ZoneSync™ helps you stay in Zone 2. With a 12.4 MPH max speed, 2.0 HP continuous power, and 4.5 HP peak power, the T5 delivers consistent performance for longer workouts and extra power for faster runs and high-intensity intervals. Also includes Free Screen Mirroring, Built-In Ent…",
       "link": "https://www.youtube.com/watch?v=WN14ucoXt1U",
       "image": "https://i4.ytimg.com/vi/WN14ucoXt1U/hqdefault.jpg",
       "feed_name": "Unbox Therapy",
@@ -13989,20 +14003,6 @@
       "category": "technology",
       "feed_url": "https://www.cnet.com/rss/news/",
       "feed_icon": "https://www.cnet.com/wp-content/uploads/sites/2/cropped-favicon-480.png?w=32"
-    },
-    {
-      "id": "TheNextWeb=6231466c4d36e760cf31cb4da76de0d6",
-      "title": "Chase, Visa and Mastercard confirm vendor hacks as n0n leaks customer data",
-      "published": "2026-11-19T20:39:31+00:00",
-      "author": "Ana Maria Constantin",
-      "description": "JPMorgan Chase says hackers got into data held by companies that work for the bank, and that it may include some customers’ names and email addresses. Visa and Mastercard have also confirmed incidents at outside providers. We have learned that third parties who provide services to the firm were the target of a cyber attack. […] This story continues at The Next Web",
-      "link": "https://thenextweb.com/news/jpmorgan-chase-visa-mastercard-vendor-breach-n0n-leak",
-      "image": "https://media.thenextweb.com/2026/11/chase-bank-branch-seattle-atm.avif",
-      "feed_name": "The Next Web",
-      "feed_title": "The Next Web",
-      "category": "technology",
-      "feed_url": "https://thenextweb.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
     }
   ]
 }
