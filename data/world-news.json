@@ -1,13 +1,13 @@
 {
   "category": "World News",
-  "updated": "2026-11-25T05:33:07.045213+00:00",
+  "updated": "2026-11-25T06:03:17.319813+00:00",
   "count": 1000,
   "summary": null,
   "items": [
     {
       "id": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
       "title": "Australian politics live: ‘A tragedy in the life of our nation’: prime minister apologises to LGBTQ+ veterans",
-      "published": "2026-11-25T05:28:45+00:00",
+      "published": "2026-11-25T05:59:58+00:00",
       "author": "Catie McLeod and Krishani Dhanji (earlier)",
       "description": "Get our daily political email , free app or daily news podcast Wells says AI investment and creative protections not a ‘zero-sum game’ Weighing into the gigantic debate that is AI companies wanting to scrape Australian data to train models versus creatives who want to protect their work, Anika Wells says it’s not a ‘zero-sum’ game. I reject this sort of zero-sum game where building Australian sovereignty in AI must come at the expense of creatives or at diminishing the rights of creatives. At t…",
       "link": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
@@ -17,6 +17,48 @@
       "category": "World News",
       "feed_url": "https://www.theguardian.com/world/rss",
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/24/world/nvidia-trump-stocks-china-books.html",
+      "title": "National Security vs. the Stock Market",
+      "published": "2026-11-25T05:45:35+00:00",
+      "author": "Katrin Bennhold",
+      "description": "President Trump swept aside concerns about possible espionage when he lobbied Nvidia’s board to reinstate Jensen Huang as chief executive.",
+      "link": "https://www.nytimes.com/2026/11/24/world/nvidia-trump-stocks-china-books.html",
+      "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-theworld-nvidia-trump-01-alt-fphm-promo/25int-theworld-nvidia-trump-01-alt-fphm-promo-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/rest-of-world/a-kerala-woman-who-lost-a-local-election-by-just-13-votes-in-2020-moved-to-canada-with-her-husband-five-years-later-sneha-joy-has-won-a-canadian-5-million-lottery-jackpot-worth-more-than-rs-30-crore/articleshow/136127063.cms",
+      "title": "Kerala's Sneha Joy lost polls by 13 votes in 2020; now, she has won a Rs 32 crore lottery in Canada",
+      "published": "2026-11-25T05:31:00+00:00",
+      "author": "TOI Lifestyle Desk",
+      "description": "Sneha Joy, hailing from Kerala, faced a setback after losing a local body election. However, her luck took a turn for the better when she moved to Canada, winning CAD 5 million in the Lotto 6/49. With this life-changing fortune, she plans to prioritize paying off her mortgage and dreams of globe-trotting while sharing the wealth with her family, marking a remarkable chapter in her life.",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/a-kerala-woman-who-lost-a-local-election-by-just-13-votes-in-2020-moved-to-canada-with-her-husband-five-years-later-sneha-joy-has-won-a-canadian-5-million-lottery-jackpot-worth-more-than-rs-30-crore/articleshow/136127063.cms",
+      "image": "https://static.toiimg.com/photo/msid-136127474,imgsize-89492.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/us/seattle-man-hid-39600-inherited-from-his-father-during-bankruptcy-court-revokes-his-discharge-of-nearly-4-million-in-debt-after-finding-fraud/articleshow/136148414.cms",
+      "title": "Seattle man loses nearly $4 million debt relief after hiding $39,600 inheritance",
+      "published": "2026-11-25T05:30:00+00:00",
+      "author": "TOI World Desk",
+      "description": "",
+      "link": "https://timesofindia.indiatimes.com/world/us/seattle-man-hid-39600-inherited-from-his-father-during-bankruptcy-court-revokes-his-discharge-of-nearly-4-million-in-debt-after-finding-fraud/articleshow/136148414.cms",
+      "image": "https://static.toiimg.com/photo/msid-136148466,imgsize-108614.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
       "id": "https://www.ndtv.com/world-news/democratic-senate-leader-chuck-schumer-accuses-nvidia-ceo-jensen-huang-of-violating-us-export-control-law-12372601#publisher=newsstand",
@@ -582,7 +624,7 @@
       "id": "https://www.theguardian.com/world/2026/nov/25/australia-solomon-islands-treaty-blow-to-china-pacific-influence",
       "title": "Australia’s security pact with Solomon Islands a blow to China’s influence in the Pacific",
       "published": "2026-11-25T01:51:02+00:00",
-      "author": "Tom McIlroy Political editor",
+      "author": "Tom McIlroy and Tess Ikonomou",
       "description": "Anthony Albanese and Matthew Wale sign new treaty as Solomon Islands PM states his country no longer ‘a source of uncertainty and doubt in the region’ The Solomon Islands prime minister says the days of his country being an uncertain partner in the Pacific are over as he signed a sweeping agreement to make Australia his country’s primary security partner and limit ties with China. Matthew Wale signed the new treaty with Australia’s prime minister, Anthony Albanese, in Canberra on Wednesday afte…",
       "link": "https://www.theguardian.com/world/2026/nov/25/australia-solomon-islands-treaty-blow-to-china-pacific-influence",
       "image": null,
@@ -1109,20 +1151,6 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/24/world/nvidia-trump-stocks-china-books.html",
-      "title": "National Security vs. the Stock Market",
-      "published": "2026-11-24T20:56:04+00:00",
-      "author": "Katrin Bennhold",
-      "description": "President Trump swept aside concerns about possible espionage when he lobbied Nvidia’s board to reinstate Jensen Huang as chief executive.",
-      "link": "https://www.nytimes.com/2026/11/24/world/nvidia-trump-stocks-china-books.html",
-      "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-theworld-nvidia-trump-01-alt-fphm-promo/25int-theworld-nvidia-trump-01-alt-fphm-promo-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "108557919",
@@ -13975,34 +14003,6 @@
       "category": "World News",
       "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/uk-man-inhales-laughing-gas-before-220-kmph-crash-that-killed-19-year-old-friend-12353941#publisher=newsstand",
-      "title": "UK Man Inhales Laughing Gas Before 220 Kmph Crash That Killed 19-Year-Old Friend",
-      "published": "2026-11-20T10:10:32+00:00",
-      "author": null,
-      "description": "Luciano Spirito (left) has been jailed after a collision that killed Darcy Thomsett (right).",
-      "link": "https://www.ndtv.com/world-news/uk-man-inhales-laughing-gas-before-220-kmph-crash-that-killed-19-year-old-friend-12353941#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-11/5uqqags_luciano-spirito-left-has-been-jailed-after-a-collision-that-killed-darcy-thomsett-right_625x300_20_November_26.jpeg",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/uk/a-scottish-couple-argued-that-a-row-of-17-trees-and-shrubs-on-their-property-was-not-legally-a-hedge-but-officials-rejected-their-appeal-and-ordered-them-to-reduce-its-height-after-neighbours-complained/articleshow/136012060.cms",
-      "title": "High Hedge Appeal Decision: Reporter Upholds Cutback Order; planting capped at 2.5 metres",
-      "published": "2026-11-20T09:59:00+00:00",
-      "author": "TOI World Desk",
-      "description": "In East Lothian, a couple faced a ruling to reduce the height of their boundary trees after authorities classified them as a high hedge per Scottish law. Neighbors had expressed concerns over obstructions blocking light and litter caused by the trees. Despite the couple's appeal claiming their plants didn’t constitute a hedge, the tribunal dismissed their argument, ultimately mandating tree trimming to meet local council standards.",
-      "link": "https://timesofindia.indiatimes.com/world/uk/a-scottish-couple-argued-that-a-row-of-17-trees-and-shrubs-on-their-property-was-not-legally-a-hedge-but-officials-rejected-their-appeal-and-ordered-them-to-reduce-its-height-after-neighbours-complained/articleshow/136012060.cms",
-      "image": "https://static.toiimg.com/photo/msid-136012120,imgsize-1371041.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     }
   ]
 }
