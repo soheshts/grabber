@@ -1,9 +1,23 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-25T13:03:03.067752+00:00",
-  "count": 454,
+  "updated": "2026-11-25T13:32:57.300101+00:00",
+  "count": 455,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.bennadel.com/blog/4935-set-is-not-a-param-return-or-argument-type-in-coldfusion-2025-0-14.htm",
+      "title": "Set Is Not A Param, Return, Or Argument \"Type\" In ColdFusion 2025.0.14",
+      "published": "2026-11-25T18:10:54+00:00",
+      "author": null,
+      "description": "Ben Nadel demonstrates that Sets are not yet integrated into the ColdFusion type system; and can't be used in CFParam, CFArgument, or Function return types....",
+      "link": "https://www.bennadel.com/blog/4935-set-is-not-a-param-return-or-argument-type-in-coldfusion-2025-0-14.htm",
+      "image": "https://bennadel-cdn.com/images/blog/fallback-unfurling.jpg",
+      "feed_name": "Ben Nadel",
+      "feed_title": "Ben Nadel's Web Development and User Experience Feed @ BenNadel.com",
+      "category": "personal blogs",
+      "feed_url": "http://www.bennadel.com/index.cfm?dax=blog.rss&lst_tag_id=14,16,3,5,9,6,7,13,18,20,10,15",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.bennadel.com&sz=64"
+    },
     {
       "id": "https://www.bennadel.com/blog/4934-adding-null-to-a-set-breaks-writedump-in-adobe-coldfusion-2025.htm",
       "title": "Adding NULL To A Set Breaks WriteDump() In Adobe ColdFusion 2025",

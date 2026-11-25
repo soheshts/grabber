@@ -1,6 +1,6 @@
 {
   "category": "gaming",
-  "updated": "2026-11-25T13:03:03.067752+00:00",
+  "updated": "2026-11-25T13:32:57.300101+00:00",
   "count": 1000,
   "summary": null,
   "items": [
@@ -17,6 +17,34 @@
       "category": "gaming",
       "feed_url": "https://indiegamesplus.com/feed",
       "feed_icon": "https://s3-igpbucket.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/07/24193508/cropped-IndieGamesPlus-Micro-32x32.png"
+    },
+    {
+      "id": "e21915c3-83b8-40da-be65-803c2d66bbbe",
+      "title": "Tangles Review",
+      "published": "2026-11-25T13:00:00+00:00",
+      "author": "Scott Collura",
+      "description": "Tangles Review: The Gay Nineties collide with a high-strung Jewish family in a shattering animated film about dementia.",
+      "link": "https://www.ign.com/articles/tangles-review",
+      "image": "https://assets-prd.ignimgs.com/2026/11/24/tangles-thumb-1795548880542.jpg",
+      "feed_name": "IGN All",
+      "feed_title": "IGN Articles",
+      "category": "gaming",
+      "feed_url": "http://feeds.ign.com/ign/all",
+      "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
+    },
+    {
+      "id": "0ffa564b-1471-4d9f-94eb-5382eb9a4633",
+      "title": "Take-Two Appears to Be Trying to Scrub GTA 6 PC Ports From the Internet, as Vibecoders Race Toward Controversial World First",
+      "published": "2026-11-25T12:44:11+00:00",
+      "author": "Wesley Yin-Poole",
+      "description": "Take-Two appears to be taking on the many GTA 6 PC ports currently in the works following Cyberleek’s alleged release of an unauthorized Xbox build of the game.",
+      "link": "https://www.ign.com/articles/take-two-appears-to-be-trying-to-scrub-gta-6-pc-ports-from-the-internet-as-vibecoders-race-toward-controversial-world-first",
+      "image": "https://assets-prd.ignimgs.com/2026/11/25/gtavi-10-1795610461067.jpg",
+      "feed_name": "IGN All",
+      "feed_title": "IGN Articles",
+      "category": "gaming",
+      "feed_url": "http://feeds.ign.com/ign/all",
+      "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
     },
     {
       "id": "https://www.eurogamer.net/gta-6-over-1500-buildings-you-can-enter",
@@ -13975,34 +14003,6 @@
       "category": "gaming",
       "feed_url": "https://www.gamespot.com/feeds/mashup/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.gamespot.com&sz=64"
-    },
-    {
-      "id": "8550b485-e78b-4f6d-8124-bda48bc38e5a",
-      "title": "The Wachowskis Move to Reclaim The Matrix Rights From Skydance",
-      "published": "2026-11-18T18:46:26+00:00",
-      "author": "Jesse Schedeen",
-      "description": "The future of The Matrix franchise is suddenly in doubt, as Lilly and Lana Wachowski move to reclaim the copyright to the iconic sci-fi franchise from Warner Bros.",
-      "link": "https://www.ign.com/articles/the-wachowskis-move-to-reclaim-the-matrix-rights-from-skydance",
-      "image": "https://assets-prd.ignimgs.com/2024/09/09/thematrix25thanniversarytrailer2-ign-blogroll-1725901667745.jpg",
-      "feed_name": "IGN All",
-      "feed_title": "IGN Articles",
-      "category": "gaming",
-      "feed_url": "http://feeds.ign.com/ign/all",
-      "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
-    },
-    {
-      "id": "https://www.polygon.com/gta-6-completion-menu-ending/",
-      "title": "GTA 6 Withholds Your 100% Stats Until the End — For Good Reason",
-      "published": "2026-11-18T18:46:12+00:00",
-      "author": "Giovanni Colantonio",
-      "description": "Grand Theft Auto 6 hides your 100% completion tasks until the very end, a move designed to keep players from getting overwhelmed.",
-      "link": "https://www.polygon.com/gta-6-completion-menu-ending/",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/grand-theft-auto-6-jason-motorcycle.jpg",
-      "feed_name": "Polygon -  All",
-      "feed_title": "Polygon.com",
-      "category": "gaming",
-      "feed_url": "https://www.polygon.com/rss/index.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.polygon.com&sz=64"
     }
   ]
 }
