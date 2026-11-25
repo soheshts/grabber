@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated": "2026-11-25T01:03:06.962428+00:00",
+  "updated": "2026-11-25T01:32:39.067178+00:00",
   "count": 1000,
   "summary": null,
   "items": [
@@ -17,6 +17,34 @@
       "category": "technology",
       "feed_url": "https://www.theverge.com/rss/index.xml",
       "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
+    },
+    {
+      "id": "https://www.engadget.com/2321254/change-roku-tv-setting-watch-movies-how-filmed/",
+      "title": "Change this Roku TV setting to watch movies how they were filmed",
+      "published": "2026-11-25T01:00:00+00:00",
+      "author": "Maddie Fisher",
+      "description": "Your TV's refresh rate might be set to 60fps by default, but you can change that.",
+      "link": "https://www.engadget.com/2321254/change-roku-tv-setting-watch-movies-how-filmed/",
+      "image": "https://www.engadget.com/img/gallery/change-this-roku-tv-setting-to-watch-movies-how-they-were-filmed/l-intro-1795038604.jpg",
+      "feed_name": "Engadget",
+      "feed_title": "Engadget - Technology News & Expert Reviews",
+      "category": "technology",
+      "feed_url": "https://www.engadget.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
+    {
+      "id": "02cPzy9ke3OVPQZEvo50m7A",
+      "title": "Taters and craters: Researchers say potatoes can grow in lunar soil",
+      "published": "2026-11-25T00:44:11+00:00",
+      "author": null,
+      "description": "Researchers discover adding organic material to lunar soil can yield edible potatoes.",
+      "link": "https://mashable.com/science/potatoes-can-grow-lunar-soil",
+      "image": "https://helios-i.mashable.com/imagery/articles/02cPzy9ke3OVPQZEvo50m7A/hero-image.jpg",
+      "feed_name": "Mashable",
+      "feed_title": "Mashable",
+      "category": "technology",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
     },
     {
       "id": "5229322",
@@ -13975,34 +14003,6 @@
       "category": "technology",
       "feed_url": "https://thenextweb.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
-    },
-    {
-      "id": "https://blog.google/innovation-and-ai/products/gemini-app/switch-ai-assistants-transfer-history/",
-      "title": "ICYMI: Transfer your history from other AI apps into Gemini.",
-      "published": "2026-11-19T20:30:00+00:00",
-      "author": null,
-      "description": "Transfer your chat history into Gemini. Import your ZIP files and AI summaries to continue conversations seamlessly. Get the details.",
-      "link": "https://blog.google/innovation-and-ai/products/gemini-app/switch-ai-assistants-transfer-history/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Transfer_socialshare.max-600x600.format-webp.webp",
-      "feed_name": "The Keyword",
-      "feed_title": "News from Google",
-      "category": "technology",
-      "feed_url": "https://www.blog.google/rss/",
-      "feed_icon": "https://blog.google/static/blogv2/images/google.png"
-    },
-    {
-      "id": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/",
-      "title": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say",
-      "published": "2026-11-19T20:29:46+00:00",
-      "author": "Dan Goodin",
-      "description": "25-year-old accused of stalking employees at coffee shop and in an \"aggressive\" car pursuit.",
-      "link": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/getty-digital-gavel-500x500-1753478304.jpg",
-      "feed_name": "Ars Technica",
-      "feed_title": "Ars Technica",
-      "category": "technology",
-      "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
-      "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
     }
   ]
 }
