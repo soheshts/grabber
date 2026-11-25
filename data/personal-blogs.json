@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-25T15:33:07.311916+00:00",
-  "count": 454,
+  "updated": "2026-11-25T16:33:01.654087+00:00",
+  "count": 457,
   "summary": null,
   "items": [
     {
@@ -33,6 +33,20 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.bennadel.com&sz=64"
     },
     {
+      "id": "https://adactio.com/journal/22846",
+      "title": "Amsterdammed",
+      "published": "2026-11-25T16:28:31+00:00",
+      "author": "jeremy@adactio.com (Jeremy Keith)",
+      "description": "I was in Amsterdam last week, giving the closing talk at the performance.now() conference. Fun fact: my favourite speaking slot is first thing, first day. I can get the talk done and then relax and enjoy the rest of the conference. So I wasn’t entirely relaxed for the duration of this particular event, but I did really enjoy the other talks. Except that by the time my talk slot rolled around, every bit of useful information in the talk had already been delivered by the other speakers. Honestly…",
+      "link": "https://adactio.com/journal/22846",
+      "image": "https://adactio.com/images/photo-300.jpg",
+      "feed_name": "Adactio: Journal",
+      "feed_title": "Adactio: Journal",
+      "category": "personal blogs",
+      "feed_url": "http://adactio.com/journal/rss/",
+      "feed_icon": "https://adactio.com/images/amplogo.png"
+    },
+    {
       "id": "https://www.bennadel.com/blog/4933-circular-reference-in-a-set-causes-stack-overflow-in-adobe-coldfusion-2025.htm",
       "title": "Circular Reference In A Set Causes Stack Overflow In Adobe ColdFusion 2025",
       "published": "2026-11-25T16:06:19+00:00",
@@ -45,6 +59,20 @@
       "category": "personal blogs",
       "feed_url": "http://www.bennadel.com/index.cfm?dax=blog.rss&lst_tag_id=14,16,3,5,9,6,7,13,18,20,10,15",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.bennadel.com&sz=64"
+    },
+    {
+      "id": "https://www.baldurbjarnason.com/notes/photos/brief-winter-snow/",
+      "title": "Brief winter snow",
+      "published": "2026-11-25T16:05:00+00:00",
+      "author": "Baldur Bjarnason",
+      "description": "Snow came and went here in Hveragerði, but not without me capturing a few shots of horses in snow. I can’t make up my mind which one of the first two I prefer, but then I realised I don’t have to choose. I can just publish both.",
+      "link": "https://www.baldurbjarnason.com/notes/photos/brief-winter-snow/",
+      "image": "https://www.baldurbjarnason.com/img/N0Tus-wpDm-6032.jpeg",
+      "feed_name": "Baldur Bjarnason's Notes on the Web",
+      "feed_title": "Baldur Bjarnason's Notes on the Web",
+      "category": "personal blogs",
+      "feed_url": "https://feedpress.me/baldurbjarnason",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.baldurbjarnason.com&sz=64"
     },
     {
       "id": "https://www.baldurbjarnason.com/2026/theres-hope-on-the-other-side/",
@@ -129,6 +157,20 @@
       "category": "personal blogs",
       "feed_url": "https://hamatti.org/feed/feed.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=hamatti.org&sz=64"
+    },
+    {
+      "id": "https://heydonworks.com/article/hybrid-props-for-custom-elements/",
+      "title": "Hybrid Props For Custom Elements",
+      "published": "2026-11-25T00:00:00+00:00",
+      "author": null,
+      "description": "Hybrid props that take Boolean values and overrides.",
+      "link": "https://heydonworks.com/article/hybrid-props-for-custom-elements/",
+      "image": "https://heydonworks.com/images/unofficial.png",
+      "feed_name": "HeydonWorks",
+      "feed_title": "HeydonWorks",
+      "category": "personal blogs",
+      "feed_url": "http://www.heydonworks.com/feed",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=heydonworks.com&sz=64"
     },
     {
       "id": "https://www.raymondcamden.com/2026/11/24/my-to-do-replacing-what-microsoft-is-killing",
