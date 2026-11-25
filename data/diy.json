@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-25T23:02:54.319780+00:00",
+  "updated": "2026-11-25T23:32:43.221166+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.howtogeek.com/home-assistant-helper-fixed-annoying-smart-home-problem/",
+      "title": "This Home Assistant helper fixed one of my smart home's most annoying problems",
+      "published": "2026-11-25T23:30:15+00:00",
+      "author": "Adam Davidson",
+      "description": "The times, they are a-changing.",
+      "link": "https://www.howtogeek.com/home-assistant-helper-fixed-annoying-smart-home-problem/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/phone-showing-the-spook-time-in-state-helper-setup-screen-with-its-description-and-the-name-field.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/after-years-of-waiting-whatsapp-finally-send-messages-on-timer/",
       "title": "After years of waiting, WhatsApp can finally send your messages on a timer",
@@ -13989,20 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/i-replaced-windows-built-in-tools-with-microsofts-own-better-versions-and-theyre-all-free/",
-      "title": "I replaced Windows’ built-in tools with Microsoft’s own better versions, and they’re all free",
-      "published": "2026-11-12T16:00:17+00:00",
-      "author": "Oluwaseun Bamisile",
-      "description": "Windows’ built-in tools only go so deep. These free Microsoft tools go deeper.",
-      "link": "https://www.makeuseof.com/i-replaced-windows-built-in-tools-with-microsofts-own-better-versions-and-theyre-all-free/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/windows-monitor-showing-file-explorer-settings-and-start-menu.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }
