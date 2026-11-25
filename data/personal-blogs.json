@@ -1,6 +1,6 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-25T13:32:57.300101+00:00",
+  "updated": "2026-11-25T14:03:53.803007+00:00",
   "count": 455,
   "summary": null,
   "items": [
@@ -45,6 +45,20 @@
       "category": "personal blogs",
       "feed_url": "http://www.bennadel.com/index.cfm?dax=blog.rss&lst_tag_id=14,16,3,5,9,6,7,13,18,20,10,15",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.bennadel.com&sz=64"
+    },
+    {
+      "id": "https://medienbaecker.com/articles/kirby-6",
+      "title": "Kirby 6",
+      "published": "2026-11-25T13:43:00+00:00",
+      "author": null,
+      "description": "Kirby 6 is finally here! I’ve updated my plugins for it and built a few new ones.",
+      "link": "https://medienbaecker.com/articles/kirby-6",
+      "image": "https://medienbaecker.com/media/pages/articles/kirby-6/bf1592da9a-1795614231/hero.webp",
+      "feed_name": "Medienbäcker Thomas Günther",
+      "feed_title": "Thomas Günther",
+      "category": "personal blogs",
+      "feed_url": "https://medienbaecker.com/articles.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=medienbaecker.com&sz=64"
     },
     {
       "id": "https://shkspr.mobi/blog/?p=77751",
@@ -5645,20 +5659,6 @@
       "category": "personal blogs",
       "feed_url": "https://codeblog.trovster.com/feed.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.trovster.com&sz=64"
-    },
-    {
-      "id": "https://www.lukew.com/ff/entry.asp?2169",
-      "title": "Technology Limits are Temporary",
-      "published": "2026-10-26T14:00:00+00:00",
-      "author": "Luke Wroblewski",
-      "description": "Years ago I was invited to Netflix to give a talk on why we should design software for mobile and how. In the Q&A I was told that people wouldn't watch movies or TV on small screens. When I gave the same talk at eBay, I heard people would never buy expensive items without reviewing them on large displays. Obviously neither is true today. So why the disconnect? In short, many people fixate on the limitations of new technologies instead of their long-term potential. It's happened over and over ag…",
-      "link": "https://www.lukew.com/ff/2169/technology-limits-are-temporary",
-      "image": "http://static.lukew.com/iphone_iphone18.png",
-      "feed_name": "LukeW | Digital Product Design + Strategy",
-      "feed_title": "LukeW | Digital Product Design + Strategy",
-      "category": "personal blogs",
-      "feed_url": "http://feeds.feedburner.com/FunctioningForm",
-      "feed_icon": "https://static.lukew.com/lukew_space.png"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
