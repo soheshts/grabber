@@ -1,13 +1,55 @@
 {
   "category": "World News",
-  "updated": "2026-11-25T22:03:48.375063+00:00",
+  "updated": "2026-11-25T22:32:46.046420+00:00",
   "count": 1000,
   "summary": null,
   "items": [
     {
+      "id": "https://www.nytimes.com/2026/11/25/world/americas/mexico-prosecutor-cia-us.html",
+      "title": "Mexico Investigates Possible Cartel Links of Prosecutor Who Aided C.I.A.",
+      "published": "2026-11-25T22:30:02+00:00",
+      "author": "Steve Fisher",
+      "description": "The prosecutor recently fled to the United States after Mexico issued a warrant over his involvement with the C.I.A. Now authorities are investigating him for suspected cartel collusion.",
+      "link": "https://www.nytimes.com/2026/11/25/world/americas/mexico-prosecutor-cia-us.html",
+      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24int-mexico-zuany-tqjc/24int-mexico-zuany-tqjc-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/25/arts/television/gordon-ramsay-top-gear-revival.html",
+      "title": "Gordon Ramsay to Host Revival of BBC’s ‘Top Gear’",
+      "published": "2026-11-25T22:23:18+00:00",
+      "author": "Amanda Holpuch",
+      "description": "The British car show “Top Gear” paused production three years ago and is returning with a new host in 2028, the BBC said.",
+      "link": "https://www.nytimes.com/2026/11/25/arts/television/gordon-ramsay-top-gear-revival.html",
+      "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25xp-top-gear/25xp-top-gear-mediumSquareAt3X-v2.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o#0",
+      "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+      "published": "2026-11-25T22:18:06+00:00",
+      "author": null,
+      "description": "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
+      "link": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d4b/live/5e57daf0-e91f-11f1-9108-c5b270b0703d.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
       "id": "https://www.nytimes.com/2026/11/25/us/politics/lukoil-deal.html",
       "title": "Lukoil to Sell Foreign Assets, but Not to Kushner and Witkoff Associates",
-      "published": "2026-11-25T21:52:41+00:00",
+      "published": "2026-11-25T22:16:49+00:00",
       "author": "Eric Lipton and Anton Troianovski",
       "description": "Valuable properties belonging to the Russian energy giant will be sold to an American-led consortium. But Middle Eastern business contacts of the two Trump envoys pulled out because of political winds.",
       "link": "https://www.nytimes.com/2026/11/25/us/politics/lukoil-deal.html",
@@ -17,6 +59,62 @@
       "category": "World News",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
+      "title": "Australian politics live: Hanson ‘delighted’ as Liberal senator defects to One Nation; Bowen says global tensions ‘infected’ Cop31",
+      "published": "2026-11-25T22:10:41+00:00",
+      "author": "Krishani Dhanji",
+      "description": "Get our breaking news email , free app or daily news podcast Pauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party . Blyth is the second high-profile federal defection from the Coalition to One Nation – after Barnaby Joyce . Senator Blyth will be One Nation’s first South Australian Senator and will build on One Nation’s expanding support within the state. My team and I are delighted to welcome Senator Blyth to sit in the Senate with One…",
+      "link": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
+      "image": null,
+      "feed_name": "The Guardian",
+      "feed_title": "World news | The Guardian",
+      "category": "World News",
+      "feed_url": "https://www.theguardian.com/world/rss",
+      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway",
+      "title": "At least 30 killed as fuel tanker crash ignites large fire on Cairo highway",
+      "published": "2026-11-25T22:10:12+00:00",
+      "author": "Associated Press",
+      "description": "Blaze on ring road surrounding Egyptian capital injures at least 25 people and leaves cars and motorcycles charred A crash involving a fuel tanker ignited a huge fire on a highway surrounding Cairo on Wednesday, killing at least 30 people, Egyptian authorities said. The blaze on the ring road, a key artery that encircles the Egyptian capital, also injured at least 25 people and left more than two dozen cars and motorcycles charred, the public prosecutor’s office said in a statement. Continue re…",
+      "link": "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway",
+      "image": null,
+      "feed_name": "The Guardian",
+      "feed_title": "World news | The Guardian",
+      "category": "World News",
+      "feed_url": "https://www.theguardian.com/world/rss",
+      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/uk/a-man-who-sold-his-yellow-1972-lotus-europa-for-4000-during-his-1991-divorce-spotted-it-on-ebay-35-years-later-recognised-a-handmade-wooden-trim-piece-and-paid-16080-to-bring-it-home/articleshow/136156814.cms",
+      "title": "Man buys back his 1972 Lotus Europa 35 years after selling it during divorce",
+      "published": "2026-11-25T22:00:00+00:00",
+      "author": "TOI World Desk",
+      "description": "",
+      "link": "https://timesofindia.indiatimes.com/world/uk/a-man-who-sold-his-yellow-1972-lotus-europa-for-4000-during-his-1991-divorce-spotted-it-on-ebay-35-years-later-recognised-a-handmade-wooden-trim-piece-and-paid-16080-to-bring-it-home/articleshow/136156814.cms",
+      "image": "https://static.toiimg.com/photo/msid-136156924,imgsize-1653353.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/us-deports-1-700-indians-this-year-centre-says-it-opposes-illegal-immigration-12377863#publisher=newsstand",
+      "title": "US Deports 1,700 Indians This Year, Centre Says It Opposes Illegal Immigration",
+      "published": "2026-11-25T21:52:15+00:00",
+      "author": null,
+      "description": "MEA spokesperson Randhir Jaiswal said India is firmly against illegal immigration.",
+      "link": "https://www.ndtv.com/world-news/us-deports-1-700-indians-this-year-centre-says-it-opposes-illegal-immigration-12377863#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-10/8rn5hus8_randhir-jaiswal_625x300_23_October_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o#0",
@@ -31,20 +129,6 @@
       "category": "World News",
       "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
-      "title": "Australian politics live: Hanson ‘delighted’ as Liberal senator defects to One Nation; Bowen says global tensions ‘infected’ Cop31",
-      "published": "2026-11-25T21:43:41+00:00",
-      "author": "Krishani Dhanji",
-      "description": "Get our breaking news email , free app or daily news podcast Pauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party . Blyth is the second high-profile federal defection from the Coalition to One Nation – after Barnaby Joyce . Senator Blyth will be One Nation’s first South Australian Senator and will build on One Nation’s expanding support within the state. My team and I are delighted to welcome Senator Blyth to sit in the Senate with One…",
-      "link": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
-      "image": null,
-      "feed_name": "The Guardian",
-      "feed_title": "World news | The Guardian",
-      "category": "World News",
-      "feed_url": "https://www.theguardian.com/world/rss",
-      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo#0",
@@ -89,6 +173,34 @@
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
     },
     {
+      "id": "https://www.ndtv.com/world-news/30-killed-in-fire-in-cairos-densely-populated-area-12377651#publisher=newsstand",
+      "title": "30 Killed, 15 Injured In Fire In Cairo's Densely Populated Area",
+      "published": "2026-11-25T21:31:14+00:00",
+      "author": null,
+      "description": "The fire broke out when a truck loaded with fuel overturned on a crowded highway, state media reported.",
+      "link": "https://www.ndtv.com/world-news/30-killed-in-fire-in-cairos-densely-populated-area-12377651#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-11/ehi47b2k_fuel_625x300_26_November_26.jpg",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
+      "id": "https://www.ndtv.com/world-news/gaza-journalist-mariam-dagga-killed-in-israel-strike-wins-prestigious-rory-peck-prize-12377822#publisher=newsstand",
+      "title": "Gaza Journalist Killed In Israel Strike Wins Prestigious Rory Peck Prize",
+      "published": "2026-11-25T21:28:34+00:00",
+      "author": null,
+      "description": "The independent reporter, Mariam Dagga, had been working with AP since the beginning of the war.",
+      "link": "https://www.ndtv.com/world-news/gaza-journalist-mariam-dagga-killed-in-israel-strike-wins-prestigious-rory-peck-prize-12377822#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-11/3dval51k_mariam-dagga_625x300_26_November_26.jpeg",
+      "feed_name": "NDTV News - World-news",
+      "feed_title": "NDTV News Search Records Found 1000",
+      "category": "World News",
+      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
+    },
+    {
       "id": "https://timesofindia.indiatimes.com/world/us/a-texas-landowner-sued-his-neighbour-in-2019-after-a-fence-blocked-access-to-part-of-his-four-acre-property-seven-years-later-an-appeals-court-upheld-the-removal-order-and-10000-in-statutory-damages/articleshow/136152141.cms",
       "title": "Texas appeals court upholds fence removal order and $10,000 statutory damages award",
       "published": "2026-11-25T21:28:00+00:00",
@@ -101,20 +213,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o#0",
-      "title": "At least 30 killed in massive fire as fuel tanker crashes on Cairo highway",
-      "published": "2026-11-25T21:25:14+00:00",
-      "author": null,
-      "description": "Another 19 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
-      "link": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49ab/live/4933ad90-e913-11f1-a094-5fdc692f3e33.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/us/a-65-acre-new-jersey-woodland-has-opened-as-a-protected-nature-preserve-after-conservation-groups-bought-it-to-prevent-development-adding-habitat-for-bobcats-and-eagles-to-a-growing-wildlife-corridor/articleshow/136147537.cms",
@@ -439,20 +537,6 @@
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
-      "id": "https://www.ndtv.com/world-news/30-killed-in-fire-in-cairos-densely-populated-area-12377651#publisher=newsstand",
-      "title": "30 Killed In Fire In Cairo's Densely Populated Area",
-      "published": "2026-11-25T19:25:26+00:00",
-      "author": null,
-      "description": "The fire broke out when a truck loaded with fuel overturned on a crowded highway, state media reported.",
-      "link": "https://www.ndtv.com/world-news/30-killed-in-fire-in-cairos-densely-populated-area-12377651#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-11/ehi47b2k_fuel_625x300_26_November_26.jpg",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
       "id": "https://timesofindia.indiatimes.com/world/us/in-1886-workers-began-digging-from-opposite-ends-of-a-wisconsin-hill-a-year-later-they-met-with-an-error-of-barely-an-inch-on-one-side-the-railway-tunnel-they-built-has-reopened-to-cyclists-after-seven-years/articleshow/136151275.cms",
       "title": "Wisconsin railway tunnel reopens after seven years, recalling a remarkable 1887 construction feat",
       "published": "2026-11-25T19:25:00+00:00",
@@ -749,7 +833,7 @@
     {
       "id": "https://www.nytimes.com/2026/11/25/world/asia/north-korea-switzerland-diplomats.html",
       "title": "North Korea Kicks Out Swiss Diplomats in Spat Linked to Ukraine War",
-      "published": "2026-11-25T17:00:24+00:00",
+      "published": "2026-11-25T17:00:25+00:00",
       "author": "Choe Sang-Hun",
       "description": "The move followed Switzerland’s decision to impose sanctions on an international youth camp in North Korea, which is accused of hosting Ukrainian children for indoctrination.",
       "link": "https://www.nytimes.com/2026/11/25/world/asia/north-korea-switzerland-diplomats.html",
@@ -1319,20 +1403,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/25/world/americas/mexico-prosecutor-cia-us.html",
-      "title": "Mexico Investigates Possible Cartel Links of Prosecutor Who Aided C.I.A.",
-      "published": "2026-11-25T13:34:43+00:00",
-      "author": "Steve Fisher",
-      "description": "The prosecutor recently fled to the United States after Mexico issued a warrant over his involvement with the C.I.A. Now authorities are investigating him for suspected cartel collusion.",
-      "link": "https://www.nytimes.com/2026/11/25/world/americas/mexico-prosecutor-cia-us.html",
-      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24int-mexico-zuany-tqjc/24int-mexico-zuany-tqjc-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://www.ndtv.com/world-news/team-trump-plans-new-wave-of-us-tariffs-india-china-on-hit-list-report-12373086#publisher=newsstand",
@@ -13933,76 +14003,6 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "108554292",
-      "title": "Europe's cyber weak spot is the everyday businesses nobody thought to protect",
-      "published": "2026-11-21T06:00:02+00:00",
-      "author": null,
-      "description": "Known vulnerabilities are leaving everyday businesses increasingly exposed to cyber sabotage, as AI enables cybercriminals to work better and faster.",
-      "link": "https://www.cnbc.com/2026/11/21/cyber-attacks-fridges-cybersecurity.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108328441-1782780337378-gettyimages-527099783-20141125034845_1245_IMG_4146JPG_149607.jpeg?v=1782781855&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/us/a-38-year-old-new-york-nurse-who-had-already-run-more-than-60-marathons-completed-all-seven-world-marathon-majors-in-2026-while-pregnant-finishing-her-hometown-race-at-34-weeks-with-her-doctors-approval/articleshow/136046122.cms",
-      "title": "Pregnant at 34 weeks, New York nurse completes all seven major marathons",
-      "published": "2026-11-21T05:52:31+00:00",
-      "author": "TOI World Desk",
-      "description": "Deirdre Keane, an inspiring nurse practitioner from New York, achieved a remarkable feat in 2026 by completing all seven World Marathon Majors while pregnant. Approaching her training thoughtfully after learning about her pregnancy, she ran the New York City Marathon at 34 weeks, pushing boundaries she once thought were fixed.",
-      "link": "https://timesofindia.indiatimes.com/world/us/a-38-year-old-new-york-nurse-who-had-already-run-more-than-60-marathons-completed-all-seven-world-marathon-majors-in-2026-while-pregnant-finishing-her-hometown-race-at-34-weeks-with-her-doctors-approval/articleshow/136046122.cms",
-      "image": "https://static.toiimg.com/photo/msid-136046216,imgsize-287898.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/trump-calls-putin-his-friend-says-not-sure-if-he-is-to-america-apec-summit-12356727#publisher=newsstand",
-      "title": "Trump Calls Putin His \"Friend\", Says Not Sure If He Is \"To America\"",
-      "published": "2026-11-21T05:44:35+00:00",
-      "author": null,
-      "description": "Trump said he didn't want to talk about security guarantees for Ukraine \"because we got to get a deal first.\" He added that the US will be involved when there is a deal.",
-      "link": "https://www.ndtv.com/world-news/trump-calls-putin-his-friend-says-not-sure-if-he-is-to-america-apec-summit-12356727#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-11/hp6dti8c_trump-putin-reuters_625x300_21_November_26.jpeg",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/us/mexican-cartel-leaders-19-others-indicted-in-us-over-drug-and-arms-trafficking/articleshow/136045556.cms",
-      "title": "Mexican cartel leaders, 19 others indicted in US over drug and arms trafficking",
-      "published": "2026-11-21T05:35:07+00:00",
-      "author": "Mahima Sharma",
-      "description": "In a significant legal move, a federal grand jury has charged leaders of the La Nueva Familia Michoacana cartel along with 19 associates. Key allegations against them include drug trafficking and weapons smuggling. Prominent figures Johnny Hurtado Olascoaga and Jose Alfredo Hurtado Olascoaga are on the run, purportedly using violence and bribery to grow their criminal empire and engage in human smuggling.",
-      "link": "https://timesofindia.indiatimes.com/world/us/mexican-cartel-leaders-19-others-indicted-in-us-over-drug-and-arms-trafficking/articleshow/136045556.cms",
-      "image": "https://static.toiimg.com/photo/msid-136045611,imgsize-39788.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/rest-of-world/after-his-wife-susan-died-at-79-an-australian-man-learned-her-body-could-not-be-donated-to-science-because-she-died-on-a-weekend-warren-lewis-campaign-has-now-changed-how-a-university-accepts-donations/articleshow/136016897.cms",
-      "title": "After his wife Susan died, Warren Lewis learned her body cannot be donated to science because of this",
-      "published": "2026-11-21T05:22:26+00:00",
-      "author": "TOI World Desk",
-      "description": "Susan Lewis's noble desire to donate her body to science was thwarted by a miscommunication. After her passing, her husband, Warren Lewis, tirelessly advocated for revisions to the university's body donation policy. This advocacy birthed a collaboration with Macquarie University, enabling weekend donations and ensuring that future donors' wishes are honored, despite bureaucratic hurdles. Susan's journey underscores the complexities surrounding body donations in Australia.",
-      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/after-his-wife-susan-died-at-79-an-australian-man-learned-her-body-could-not-be-donated-to-science-because-she-died-on-a-weekend-warren-lewis-campaign-has-now-changed-how-a-university-accepts-donations/articleshow/136016897.cms",
-      "image": "https://static.toiimg.com/photo/msid-136017652,imgsize-924892.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     }
   ]
 }
