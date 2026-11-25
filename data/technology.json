@@ -1,9 +1,65 @@
 {
   "category": "technology",
-  "updated": "2026-11-25T19:32:25.484878+00:00",
+  "updated": "2026-11-25T20:02:57.008276+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.theverge.com/?p=1042109",
+      "title": "EPA reports ‘zero’ airborne lead following controlled Army detonation in Iowa",
+      "published": "2026-11-25T19:45:51+00:00",
+      "author": "Andrew Liszewski",
+      "description": "Saying it was necessary to prevent the possible spontaneous explosion of a stockpile of material used in igniters and blasting caps, the US Army conducted a controlled detonation of over 9,700 pounds of lead azide today at the Iowa Army Ammunition Plant (IAAAP) in Middletown, Iowa. Videos of the detonation showed plumes of smoke several […]",
+      "link": "https://www.theverge.com/science/1042109/us-army-detonation-lead-azide-explosives-iowa-ammunition-plant",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2306835116.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "feed_name": "The Verge -  All Posts",
+      "feed_title": "The Verge",
+      "category": "technology",
+      "feed_url": "https://www.theverge.com/rss/index.xml",
+      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
+    },
+    {
+      "id": "yt:video:yWgkY-wo5A0",
+      "title": "Let's Check Out All the Holiday Goodies at the NYC Nintendo Store",
+      "published": "2026-11-25T19:36:43+00:00",
+      "author": "CNET",
+      "description": "For the first time you can buy exclusive Nintendo Store products online at Nintendo’s website. CNET Editor at Large Bridget Carey visits the New York store to see what’s new and find some good gifts for Nintendo fans. 🛍️❤️ #nintendo #allaccess #giftguide #mariokart #yoshi ⌨️: Carly Marsh",
+      "link": "https://www.youtube.com/shorts/yWgkY-wo5A0",
+      "image": "https://i2.ytimg.com/vi/yWgkY-wo5A0/hqdefault.jpg",
+      "feed_name": "CNET",
+      "feed_title": "CNET",
+      "category": "technology",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?user=CNETTV",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64"
+    },
+    {
+      "id": "01M7TCDHMKX9HZTQSJ1R9GDKPV",
+      "title": "These Are the Best Black Friday 2026 Deals on Kindles and E-Readers",
+      "published": "2026-11-25T19:30:00+00:00",
+      "author": "Joel Cunningham",
+      "description": "Kindles just went up in price, so it's a great time to save.",
+      "link": "https://lifehacker.com/tech/best-kindle-ereader-sales-black-friday-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M7TCDHMKX9HZTQSJ1R9GDKPV/hero-image.png",
+      "feed_name": "Lifehacker",
+      "feed_title": "Lifehacker",
+      "category": "technology",
+      "feed_url": "https://lifehacker.com/rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=lifehacker.com&sz=64"
+    },
+    {
+      "id": "TheNextWeb=0b6e1fb0f075264ea88f3fc59ccf1e08",
+      "title": "OpenAI is testing a way to shield business prompts while its models run",
+      "published": "2026-11-25T19:27:43+00:00",
+      "author": "Ana Maria Constantin",
+      "description": "OpenAI has started testing Private Inference, an alpha feature that uses confidential computing to protect business prompts and replies during processing, with a small group of customers. It joins Private Safety Processing in OpenAI’s Private Intelligence package, as Anthropic opens a rival safety system. OpenAI has begun testing Private Inference with a small group of […] This story continues at The Next Web",
+      "link": "https://thenextweb.com/news/openai-private-inference-testing-customers",
+      "image": "https://media.thenextweb.com/2026/10/openai-logo-on-monitor-blue-wall.avif",
+      "feed_name": "The Next Web",
+      "feed_title": "The Next Web",
+      "category": "technology",
+      "feed_url": "https://thenextweb.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
+    },
     {
       "id": "yt:video:q6bkr2UhFBg",
       "title": "iPhone Duo Livestream: How Many Folds Can Apple’s Phone Take? Day 23",
@@ -17,6 +73,20 @@
       "category": "technology",
       "feed_url": "https://www.youtube.com/feeds/videos.xml?user=CNETTV",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64"
+    },
+    {
+      "id": "01M7MZEVP80B0E84B5TRZD5CN9",
+      "title": "The Best Black Friday Deals on Smartwatches and Fitness Trackers",
+      "published": "2026-11-25T19:15:00+00:00",
+      "author": "Meredith Dietz, Beth Skwarecki",
+      "description": "Watches and trackers from Apple, Oura, and Garmin are up to $200 off.",
+      "link": "https://lifehacker.com/health/best-smartwatch-fitness-tracker-deals-black-friday-2026?utm_medium=RSS",
+      "image": "https://lifehacker.com/imagery/articles/01M7MZEVP80B0E84B5TRZD5CN9/hero-image.jpg",
+      "feed_name": "Lifehacker",
+      "feed_title": "Lifehacker",
+      "category": "technology",
+      "feed_url": "https://lifehacker.com/rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=lifehacker.com&sz=64"
     },
     {
       "id": "TheNextWeb=0b172ad5ccd870f9ef04e2f5504b1d46",
@@ -804,10 +874,10 @@
     },
     {
       "id": "yt:video:rLTN62BNMvE",
-      "title": "Art Like Never Before...",
+      "title": "It Looks Like Real Art...",
       "published": "2026-11-25T16:15:00+00:00",
       "author": "Unbox Therapy",
-      "description": "Use PROMOCODE \"UNBOX\" for 5% OFF THE PRICE... Check out the InkPoster Tela 40.5\" here: https://inkposter.com/s/unboxtherapy InkPoster Tela 40.5\" combines an impressive A1-size format, paper-like visuals, and completely wireless operation for modern homes, hospitality spaces, and premium interiors. Thanks to @InkPoster for partnering on this video #inkposter #tela40.5 #partner FOLLOW ME IN THESE PLACES FOR UPDATES Twitter - http://twitter.com/unboxtherapy Instagram - http://instagram.com/unboxth…",
+      "description": "Can you spot the difference? Use PROMOCODE \"UNBOX\" for 5% OFF THE PRICE... Check out the InkPoster Tela 40.5\" here: https://inkposter.com/s/unboxtherapy InkPoster Tela 40.5\" combines an impressive A1-size format, paper-like visuals, and completely wireless operation for modern homes, hospitality spaces, and premium interiors. Thanks to @InkPoster for partnering on this video #inkposter #tela40.5 #partner FOLLOW ME IN THESE PLACES FOR UPDATES Twitter - http://twitter.com/unboxtherapy Instagram -…",
       "link": "https://www.youtube.com/shorts/rLTN62BNMvE",
       "image": "https://i3.ytimg.com/vi/rLTN62BNMvE/hqdefault.jpg",
       "feed_name": "Unbox Therapy",
@@ -7481,20 +7551,6 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
     },
     {
-      "id": "01M7TCDHMKX9HZTQSJ1R9GDKPV",
-      "title": "These Are the Best Early Black Friday Deals on Kindles and E-Readers",
-      "published": "2026-11-23T17:19:59+00:00",
-      "author": "Joel Cunningham",
-      "description": "Kindles just went up in price, so it's a great time to save.",
-      "link": "https://lifehacker.com/tech/best-kindle-ereader-sales-black-friday-2026?utm_medium=RSS",
-      "image": "https://lifehacker.com/imagery/articles/01M7TCDHMKX9HZTQSJ1R9GDKPV/hero-image.png",
-      "feed_name": "Lifehacker",
-      "feed_title": "Lifehacker",
-      "category": "technology",
-      "feed_url": "https://lifehacker.com/rss",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=lifehacker.com&sz=64"
-    },
-    {
       "id": "https://www.engadget.com/2320283/important-home-security-camera-features/",
       "title": "What important features should you look for in a home security camera?",
       "published": "2026-11-23T17:15:00+00:00",
@@ -13947,62 +14003,6 @@
       "category": "technology",
       "feed_url": "https://thenextweb.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=thenextweb.com&sz=64"
-    },
-    {
-      "id": "https://yro.slashdot.org/story/26/11/20/1755250/california-issues-subpoena-to-nvidia-over-chip-sales-to-china?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "title": "California Issues Subpoena to Nvidia Over Chip Sales to China",
-      "published": "2026-11-20T19:00:00+00:00",
-      "author": "BeauHD",
-      "description": "California Attorney General Rob Bonta has issued subpoenas to Nvidia and former CEO Jensen Huang regarding reports that they misled investors about advanced AI chips potentially reaching China. \"The conduct of Nvidia and its former CEO raises bright red flags, including about the ways in which the company may have misled investors,\" Bonta said in a press release. \"My office is investigating whether Nvidia or Jensen Huang's actions resulted in China obtaining advanced chips or confidential infor…",
-      "link": "https://yro.slashdot.org/story/26/11/20/1755250/california-issues-subpoena-to-nvidia-over-chip-sales-to-china?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-      "feed_name": "Slashdot",
-      "feed_title": "Slashdot",
-      "category": "technology",
-      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
-    },
-    {
-      "id": "https://www.engadget.com/2323390/teenage-engineerings-first-cd-player-kind-of-looks-like-a-turntable/",
-      "title": "Teenage Engineering's first CD player kind of looks like a turntable",
-      "published": "2026-11-20T18:53:49+00:00",
-      "author": "Lawrence Bonk",
-      "description": "The EP/BC-1 costs $329 and marks the start of a new line of \"broadcast\" audio equipment.",
-      "link": "https://www.engadget.com/2323390/teenage-engineerings-first-cd-player-kind-of-looks-like-a-turntable/",
-      "image": "https://www.engadget.com/img/gallery/teenage-engineerings-first-cd-player-kind-of-looks-like-a-turntable/l-intro-1795200766.jpg",
-      "feed_name": "Engadget",
-      "feed_title": "Engadget - Technology News & Expert Reviews",
-      "category": "technology",
-      "feed_url": "https://www.engadget.com/rss.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
-    },
-    {
-      "id": "https://www.theverge.com/?p=1038892",
-      "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
-      "published": "2026-11-20T18:50:19+00:00",
-      "author": "Lauren Feiner",
-      "description": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies to build data centers outside of our country,\" Trump said at a […]",
-      "link": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "feed_name": "The Verge -  All Posts",
-      "feed_title": "The Verge",
-      "category": "technology",
-      "feed_url": "https://www.theverge.com/rss/index.xml",
-      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
-    },
-    {
-      "id": "https://www.engadget.com/2323323/gta-plus-benefits-gta-6-is-it-worth-it/",
-      "title": "Here's everything GTA+ gets you in GTA 6: Is it worth $8 a month?",
-      "published": "2026-11-20T18:27:59+00:00",
-      "author": "Robin Bea",
-      "description": "A GTA+ membership adds a few extras to GTA 6 for $8 a month. Here's what's included and which players are most likely to get their money's worth.",
-      "link": "https://www.engadget.com/2323323/gta-plus-benefits-gta-6-is-it-worth-it/",
-      "image": "https://www.engadget.com/img/gallery/heres-everything-gta-gets-you-in-gta-6-is-it-worth-8month/l-intro-1795197527.jpg",
-      "feed_name": "Engadget",
-      "feed_title": "Engadget - Technology News & Expert Reviews",
-      "category": "technology",
-      "feed_url": "https://www.engadget.com/rss.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
     }
   ]
 }

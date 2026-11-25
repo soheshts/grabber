@@ -1,9 +1,23 @@
 {
   "category": "travel",
-  "updated": "2026-11-25T19:32:25.484878+00:00",
+  "updated": "2026-11-25T20:02:57.008276+00:00",
   "count": 196,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/11/25/travel/bhutan-travel.html",
+      "title": "Traveling to Bhutan in 2026: Wood-Fired Pizzas and Monks With Cellphones",
+      "published": "2026-11-25T19:34:40+00:00",
+      "author": "Anita Jain",
+      "description": "The view of the Himalayan country as ancient and immutable is being challenged by young Bhutanese who are opening restaurants and shops, and getting beyond “gross national happiness.” A traveler explores.",
+      "link": "https://www.nytimes.com/2026/11/25/travel/bhutan-travel.html",
+      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/25Trav-Bhutan-changed-mqtk/25Trav-Bhutan-changed-mqtk-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Travel",
+      "feed_title": "NYT > Travel",
+      "category": "travel",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "https://www.atlasobscura.com/places/the-hidden-spiegeltent",
       "title": "The Hidden Spiegeltent in Chicago, Illinois",
@@ -2733,20 +2747,6 @@
       "category": "travel",
       "feed_url": "https://www.theguardian.com/uk/travel/rss",
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
-    },
-    {
-      "id": "https://www.atlasobscura.com/places/the-kuji-amber-museum",
-      "title": "The Kuji Amber Museum in Kuji, Japan",
-      "published": "2026-10-26T20:00:00+00:00",
-      "author": null,
-      "description": "Although Japan is well-known for Akoya cultured pearls and jadeite jade, amber deposits can be found throughout much of the country from the Mikasa region of Hokkaidō to Shime in Fukuoka Prefecture. In the prefecture of Iwate, however, lies Kuji, a coastal city with a long history of amber excavation, and is one of the few sources of amber of significant size and quality for commercial gem and ornamental uses. The Kuji Amber Museum itself proudly claims to be the only museum in Japan dedicated…",
-      "link": "https://www.atlasobscura.com/places/the-kuji-amber-museum",
-      "image": "https://img.atlasobscura.com/pmWizUzpqDx6ur0vqQUyRj4Ppm-XhX_vT_MpaG6eKn0/rs:fill:300:200:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8wYmEw/YTYzNi1hOTVmLTRh/N2ItOWQ3NS1kYjk4/MTYwY2I1ODNlMzM1/NmMwODg2NWUxZTJl/NGJfWzJdIENoZXNz/IHNldC5wbmc.png",
-      "feed_name": "Atlas Obscura - Latest Articles and Places",
-      "feed_title": "Atlas Obscura - Latest Articles and Places",
-      "category": "travel",
-      "feed_url": "https://www.atlasobscura.com/feeds/latest",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.atlasobscura.com&sz=64"
     }
   ]
 }
