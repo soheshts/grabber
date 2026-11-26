@@ -1,9 +1,37 @@
 {
   "category": "technology",
-  "updated": "2026-11-25T23:32:43.221166+00:00",
+  "updated": "2026-11-26T00:02:31.834464+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.theverge.com/?p=1042870",
+      "title": "Amazon loses its latest attempt to get out of handling more recall notices",
+      "published": "2026-11-25T23:56:44+00:00",
+      "author": "Emma Roth",
+      "description": "Amazon is on the hook to recall more than 400,000 hazardous products after losing its legal battle against the US Consumer Product Safety Commission (CPSC). The US District Court for the District of Maryland ruled in favor of the CPSC, which argued that Amazon is a distributor of goods, not a logistics provider, making it […]",
+      "link": "https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23935558/acastro_STK103__01.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "feed_name": "The Verge -  All Posts",
+      "feed_title": "The Verge",
+      "category": "technology",
+      "feed_url": "https://www.theverge.com/rss/index.xml",
+      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
+    },
+    {
+      "id": "https://www.engadget.com/2328876/black-friday-2026-deals-on-reviewed-gadgets/",
+      "title": "We reviewed these 10 gadgets, and they're now on sale for Black Friday",
+      "published": "2026-11-25T23:36:46+00:00",
+      "author": "Ian Carlos Campbell",
+      "description": "Multiple gadgets from Engadget's Best of 2026 list are already on sale, including Samsung's flagship foldable and Apple's ultra-popular entry-level laptop.",
+      "link": "https://www.engadget.com/2328876/black-friday-2026-deals-on-reviewed-gadgets/",
+      "image": "https://www.engadget.com/img/gallery/we-reviewed-these-10-gadgets-and-theyre-now-on-sale-for-black-friday/l-intro-1795649274.jpg",
+      "feed_name": "Engadget",
+      "feed_title": "Engadget - Technology News & Expert Reviews",
+      "category": "technology",
+      "feed_url": "https://www.engadget.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
     {
       "id": "https://tech.slashdot.org/story/26/11/25/069227/suspected-chinese-agents-are-trying-to-dupe-americans-with-fake-listings-on-job-platforms?utm_source=rss1.0mainlinkanon&utm_medium=feed",
       "title": "Suspected Chinese Agents Are Trying to Dupe Americans with Fake Listings on Job Platforms",
@@ -13975,34 +14003,6 @@
       "category": "technology",
       "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
       "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
-    },
-    {
-      "id": "5218236",
-      "title": "Google Is Killing the Nest App. Here’s What Comes Next",
-      "published": "2026-11-20T22:27:07+00:00",
-      "author": "Ajay Kumar",
-      "description": "Don’t panic: All your devices should transfer over to Google Home fairly seamlessly.",
-      "link": "https://www.cnet.com/home/smart-home/nest-app-google-assistant-sunset/",
-      "image": "https://www.cnet.com/wp-content/uploads/sites/2/aafd7716-1c2d-4e97-8b9e-1e5f6e0bc1e3.jpg",
-      "feed_name": "CNET News",
-      "feed_title": "News – CNET",
-      "category": "technology",
-      "feed_url": "https://www.cnet.com/rss/news/",
-      "feed_icon": "https://www.cnet.com/wp-content/uploads/sites/2/cropped-favicon-480.png?w=32"
-    },
-    {
-      "id": "https://news.slashdot.org/story/26/11/20/2223202/trump-vows-to-stop-us-companies-from-building-data-centers-abroad?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "title": "Trump Vows To Stop US Companies From Building Data Centers Abroad",
-      "published": "2026-11-20T22:25:00+00:00",
-      "author": "BeauHD",
-      "description": "Longtime Slashdot reader fahrbot-bot shares a report from CNBC: President Donald Trump on Friday said U.S. companies will be banned from building data centers in other countries and will face a \"tremendous tax\" penalty if they do so. \"We're going to fight very hard for the data centers,\" Trump said at a White House press conference before announcing the new policy -- which apparently came as news to his own staff. \"I don't know if that's a breaking story,\" Trump said. \"I haven't even said that…",
-      "link": "https://news.slashdot.org/story/26/11/20/2223202/trump-vows-to-stop-us-companies-from-building-data-centers-abroad?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-      "feed_name": "Slashdot",
-      "feed_title": "Slashdot",
-      "category": "technology",
-      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
     }
   ]
 }
