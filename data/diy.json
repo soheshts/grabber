@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-26T11:33:30.991984+00:00",
+  "updated": "2026-11-26T12:03:33.523266+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/windows-folders-eating-ssd-storage/",
+      "title": "I stopped hunting Windows junk and tracked down the folders eating my SSD instead",
+      "published": "2026-11-26T12:00:17+00:00",
+      "author": "Pankil Shah",
+      "description": "Stop deleting apps and moving files to free up storage.",
+      "link": "https://www.makeuseof.com/windows-folders-eating-ssd-storage/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/09/windows-11-file-explorer-this-pc-on-a-hp-laptop.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/microsoft-excel-features-miss-every-time-try-switching-google-sheets/",
+      "title": "5 Excel features I miss every time I try switching to Google Sheets",
+      "published": "2026-11-26T12:00:16+00:00",
+      "author": "Tony Phillips",
+      "description": "Every time I think I'm done with Excel, something pulls me back.",
+      "link": "https://www.howtogeek.com/microsoft-excel-features-miss-every-time-try-switching-google-sheets/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/excel-vs-google-sheets-dashboard.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/excel-workbook-in-google-sheets-what-breaks/",
       "title": "I moved my Excel budget to Google Sheets, and the warning missed most of what broke",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/arlo-ultra-4k-security-camera-deal-early-black-friday/",
-      "title": "Save 40% on the Arlo Ultra 4K HDR (2-pack) with SmartHub ahead of Black Friday",
-      "published": "2026-11-12T18:10:06+00:00",
-      "author": "Patrick Farmer",
-      "description": "That's a record low price for Amazon Prime members.",
-      "link": "https://www.makeuseof.com/arlo-ultra-4k-security-camera-deal-early-black-friday/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2026/11/arlo-ultra-3-lifestyle.png",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/torras-ostand-q3-series-iphone-18/",
-      "title": "Get the ultimate protection for your iPhone 18 with the TORRAS Ostand Q3 series",
-      "published": "2026-11-12T18:03:52+00:00",
-      "author": "Sponsored",
-      "description": "This article sponsored by TORRAS",
-      "link": "https://www.makeuseof.com/torras-ostand-q3-series-iphone-18/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2026/11/torras-feature.png",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }
