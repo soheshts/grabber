@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-26T16:03:46.677378+00:00",
+  "updated": "2026-11-26T16:33:33.021068+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.howtogeek.com/a-cheap-stock-ssd-made-my-128gb-strix-halo-mini-pc-feel-like-a-2010-laptop/",
+      "title": "A cheap stock SSD made my 128GB Strix Halo mini PC feel like a 2010 laptop",
+      "published": "2026-11-26T16:30:16+00:00",
+      "author": "Patrick Campanale",
+      "description": "Task Manager showed plenty of free CPU and RAM, while the SSD's shrinking cache quietly stalled every write.",
+      "link": "https://www.howtogeek.com/a-cheap-stock-ssd-made-my-128gb-strix-halo-mini-pc-feel-like-a-2010-laptop/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/acemagic-m1a-pro-bestoss-crucial-t710-ssds.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/drm-on-linux-is-a-nightmare-no-one-seems-to-address/",
       "title": "DRM on Linux is a nightmare no one seems to address",
@@ -13989,20 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.makeuseof.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/i-was-too-cheap-to-buy-a-smart-rgb-mirror-so-i-diyed-one-myself/",
-      "title": "I was too cheap to buy a smart RGB mirror, so I DIYed one myself",
-      "published": "2026-11-12T21:30:17+00:00",
-      "author": "Namerah Saud Fatmi",
-      "description": "This DIY smart RGB mirror helped me save $100 and works even better than pre-made ones.",
-      "link": "https://www.howtogeek.com/i-was-too-cheap-to-buy-a-smart-rgb-mirror-so-i-diyed-one-myself/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/smart-rgb-mirror-diy-1.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
     }
   ]
 }
