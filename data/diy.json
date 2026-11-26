@@ -1,9 +1,51 @@
 {
   "category": "DIY",
-  "updated": "2026-11-26T21:03:00.633711+00:00",
+  "updated": "2026-11-26T21:32:43.679637+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/android-stop-playing-videos-when-asleep/",
+      "title": "I fall asleep watching videos, so I made Android stop playing when I do",
+      "published": "2026-11-26T21:30:16+00:00",
+      "author": "Oluwademilade Afolabi",
+      "description": "I've been giving YouTubers watch time in my sleep for far too long.",
+      "link": "https://www.makeuseof.com/android-stop-playing-videos-when-asleep/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/sleepguard-app-s-f-droid-listing.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/the-secret-android-dessert-nicknames-you-never-knew-about/",
+      "title": "The secret Android dessert nicknames you never knew about",
+      "published": "2026-11-26T21:30:15+00:00",
+      "author": "Ismar Hrnjicevic",
+      "description": "Google's engineers have one heck of a sweet tooth.",
+      "link": "https://www.howtogeek.com/the-secret-android-dessert-nicknames-you-never-knew-about/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/jelly_bean_result.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://hackaday.com/?p=1430485",
+      "title": "Another Split Flap Display You Can Print Yourself",
+      "published": "2026-11-26T21:00:35+00:00",
+      "author": "Zoe Skyforest",
+      "description": "Split flap displays were once widely popular in everything from airport terminal displays to alarm clocks. Now they’re a little bit out of vogue in the mainstream, but that doesn’t …read more",
+      "link": "https://hackaday.com/2026/11/26/another-split-flap-display-you-can-print-yourself/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/DIY-Split-Flap-Display_-3D-Printed-Open-Source-_-OpenFlaps-0-46-screenshot.png",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/gpu-vram-usage-per-process-monitor/",
       "title": "My GPU memory was maxed out, and this free tool told me exactly why",
@@ -13961,48 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://hackaday.com/?p=1425240",
-      "title": "Fixing a Dead Socket LGA 1851 Mainboard with a Resistor",
-      "published": "2026-11-13T12:00:12+00:00",
-      "author": "Maya Posch",
-      "description": "Doing board level diagnosis on a PCB is hardly black magic, but some PCBs are definitely more daunting than others. The Socket LGA 1851 mainboard that [Fix the Pixel] got …read more",
-      "link": "https://hackaday.com/2026/11/13/fixing-a-dead-socket-lga-1851-mainboard-with-a-resistor/",
-      "image": "https://hackaday.com/wp-content/uploads/2026/11/missing_resistor_mainboard_fix_the_pixel_youtube.jpg",
-      "feed_name": "Blog – Hackaday",
-      "feed_title": "Blog – Hackaday",
-      "category": "DIY",
-      "feed_url": "https://hackaday.com/blog/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/excel-default-settings-worth-changing/",
-      "title": "Excel is so much better when you stop using Microsoft's defaults",
-      "published": "2026-11-13T11:56:17+00:00",
-      "author": "Adaeze Uche",
-      "description": "Microsoft's idea of a perfect workbook isn't the same as mine.",
-      "link": "https://www.makeuseof.com/excel-default-settings-worth-changing/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/the-customize-the-quick-access-toolbar-page-in-excel-on-desktop.png",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/tagspaces-file-manager/",
-      "title": "I can’t believe this crazy good open-source file manager isn’t more popular",
-      "published": "2026-11-13T11:30:17+00:00",
-      "author": "Tashreef Shareef",
-      "description": "I create dozens of files each day, and this overlooked app quietly made managing all of them easier.",
-      "link": "https://www.makeuseof.com/tagspaces-file-manager/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/11/tagspaces-file-manager-open-on-a-hp-laptop.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }
