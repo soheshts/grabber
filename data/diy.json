@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-26T23:02:55.134895+00:00",
+  "updated": "2026-11-26T23:33:09.670625+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.howtogeek.com/i-always-ask-these-questions-before-buying-a-new-power-tool/",
+      "title": "I always ask these questions before buying a new power tool",
+      "published": "2026-11-26T23:30:15+00:00",
+      "author": "David J. Buck",
+      "description": "Should you buy or rent that new power tool? These questions keep me from wasting money on power tools I won't use.",
+      "link": "https://www.howtogeek.com/i-always-ask-these-questions-before-buying-a-new-power-tool/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/09/ryobi-leaf-blower-in-a-yard.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/your-ddr5-ram-is-running-slower-than-what-the-box-says/",
       "title": "Your DDR5 RAM is running slower than what the box says",
@@ -13989,20 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://abeautifulmess.com/feed",
       "feed_icon": "https://abeautifulmess.com/wp-content/uploads/2016/12/cropped-ABM-Favicon-60x60.jpg"
-    },
-    {
-      "id": "https://www.makeuseof.com/install-linux-over-network-without-usb/",
-      "title": "My favorite Linux installer isn't an ISO, and I wish I'd found it sooner",
-      "published": "2026-11-13T13:30:16+00:00",
-      "author": "Tashreef Shareef",
-      "description": "Boot and install any Linux distro over your network, no USB needed.",
-      "link": "https://www.makeuseof.com/install-linux-over-network-without-usb/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/netboot-xyz-boot-menu-next-server-installation-options.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }

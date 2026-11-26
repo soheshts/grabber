@@ -1,9 +1,37 @@
 {
   "category": "science",
-  "updated": "2026-11-26T23:02:55.134895+00:00",
+  "updated": "2026-11-26T23:33:09.670625+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o#0",
+      "title": "Major Thanksgiving storm brings flooding, flight delays across US",
+      "published": "2026-11-26T23:25:44+00:00",
+      "author": null,
+      "description": "Massive storms are descending on both US coasts, bringing wind gusts, downed trees, and power outages for hundreds of thousands of customers.",
+      "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af5b/live/7a140030-e9f0-11f1-99b6-a35a62fa4264.jpg",
+      "feed_name": "BBC News - Science & Environment",
+      "feed_title": "BBC News",
+      "category": "science",
+      "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "news714842075",
+      "title": "Why molecular cage catalysts show enormous differences in performance",
+      "published": "2026-11-26T23:20:02+00:00",
+      "author": null,
+      "description": "Chemistry researchers have developed a new way to identify and understand highly effective artificial enzyme-like catalysts using powerful \"molecular cages\" that mimic the behavior of nature's enzymes. These tiny, hollow molecular structures act like miniature reaction chambers to trap molecules and accelerate chemical reactions. The cages showed enormous differences in performance, with the best catalysts more than 10,000 times more active than the least effective ones.",
+      "link": "https://phys.org/news/2026-11-molecular-cage-catalysts-enormous-differences.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-helps-chemists-desi-1.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cwe9kxdm1k4lo#0",
       "title": "Floating nature islands installed in parks as Glasgow Games legacy",
@@ -171,20 +199,6 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o#0",
-      "title": "More than 1,000 flights cancelled or delayed in US as weather disrupts Thanksgiving travel",
-      "published": "2026-11-26T17:38:56+00:00",
-      "author": null,
-      "description": "Massive storms are descending on both US coasts as an estimated 80 million Americans hit the road for Thanksgiving holiday.",
-      "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/260a/live/9b64fe90-e9ac-11f1-859a-37130cd3a1d7.jpg",
-      "feed_name": "BBC News - Science & Environment",
-      "feed_title": "BBC News",
-      "category": "science",
-      "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "news714909135",
@@ -13984,20 +13998,6 @@
       "description": "Dogs have been living side by side with humans for millennia, but a new study underscores how much we have yet to learn about man's best friend. The study, which looked at hundreds of dogs across four nations, found that the lifestyles of pet owners appear to play a significant role in determining what constitutes a healthy gut microbiome for their dog companions.",
       "link": "https://phys.org/news/2026-11-human-lifestyles-affect-gut-microbiome.html",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2020/dog.jpg",
-      "feed_name": "Phys.org - latest science and technology news stories",
-      "feed_title": "Phys.org - latest science and technology news stories",
-      "category": "science",
-      "feed_url": "https://phys.org/rss-feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "news714138382",
-      "title": "How machine learning can tackle lead pipe challenges",
-      "published": "2026-11-18T00:20:06+00:00",
-      "author": null,
-      "description": "A new machine learning tool developed through the Centre for Resilience in Environment, Water and Waste (CREWW) could help water companies identify properties most likely to be connected to lead service pipes.",
-      "link": "https://phys.org/news/2026-11-machine-tackle-pipe.html",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/lead-pipes.jpg",
       "feed_name": "Phys.org - latest science and technology news stories",
       "feed_title": "Phys.org - latest science and technology news stories",
       "category": "science",
