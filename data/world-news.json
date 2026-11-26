@@ -1,9 +1,79 @@
 {
   "category": "World News",
-  "updated": "2026-11-26T07:33:54.993797+00:00",
+  "updated": "2026-11-26T08:03:41.087452+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "108559691",
+      "title": "Asia-Pacific markets close higher as investors look past fresh U.S. tariffs",
+      "published": "2026-11-26T08:00:27+00:00",
+      "author": null,
+      "description": "Investors appeared to have shrugged off a fresh set of tariffs unveiled by the White House on Wednesday, targeting more than a dozen major trading partners.",
+      "link": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108094148-1738167165694-gettyimages-2195902460-JAPAN_STOCKS.jpeg?v=1758691768&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "108559241",
+      "title": "Taking on Starlink: Europe’s largest satellite factory opens in push to rival Musk",
+      "published": "2026-11-26T07:45:05+00:00",
+      "author": null,
+      "description": "The 20,000-square-meter mega factory will be able to produce up to 500 satellites annually, making it the world's third-largest satellite production site.",
+      "link": "https://www.cnbc.com/2026/11/26/starlink-satellites-aerospacelab-factory-belgium.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108056365-1730480462302-Astranis_Nexus_Satellite__Feature_Image.jpg?v=1730480528&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o#1",
+      "title": "FedEx plane overshoots Miami runway, causing brief suspension of flights at airport",
+      "published": "2026-11-26T07:34:47+00:00",
+      "author": null,
+      "description": "The brief ground stop came on the eve of the US Thanksgiving holiday, one of the busiest travel days of the year.",
+      "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a780/live/1db9c0f0-e959-11f1-99b6-a35a62fa4264.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/us/walmart-and-costco-will-shut-their-doors-on-thanksgiving-day-in-the-us-before-reopening-on-black-friday-here-is-what-shoppers-need-to-know-about-holiday-closures-and-the-return-of-major-retailers/articleshow/136181519.cms",
+      "title": "Thanksgiving Store Hours: Major retailers close Nov 26; check local hours before holiday trips",
+      "published": "2026-11-26T07:31:00+00:00",
+      "author": "TOI World Desk",
+      "description": "On November 26, 2026, shoppers should note that major retailers including Walmart, Target, Costco, and Best Buy will not open their doors for Thanksgiving. Some pharmacies and grocery stores may operate on a limited schedule, while banks and government offices will also be closed. To avoid any inconvenience, customers planning to shop should verify the specific hours of operation in advance.",
+      "link": "https://timesofindia.indiatimes.com/world/us/walmart-and-costco-will-shut-their-doors-on-thanksgiving-day-in-the-us-before-reopening-on-black-friday-here-is-what-shoppers-need-to-know-about-holiday-closures-and-the-return-of-major-retailers/articleshow/136181519.cms",
+      "image": "https://static.toiimg.com/photo/msid-136181637,imgsize-1119149.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
+      "id": "108559746",
+      "title": "Robots could be doing household chores in just 1-2 years, Chinese EV firm says",
+      "published": "2026-11-26T07:30:11+00:00",
+      "author": null,
+      "description": "Xpeng Co-President Brian Gu shared his humanoid robot predictions with CNBC in an interview Thursday.",
+      "link": "https://www.cnbc.com/2026/11/26/china-ev-xpeng-humanoid-robots-household-chores.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108559771-1795666498962-gettyimages-2306353593-CHINA_XPENG.jpeg?v=1795666528&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
     {
       "id": "108559215",
       "title": "Wealthy Europeans look beyond stocks amid AI selloff. Here’s where they’re investing",
@@ -425,20 +495,6 @@
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
-      "id": "108559691",
-      "title": "South Korea's Kospi leads gains as tech rebound lifts Asia markets",
-      "published": "2026-11-26T04:49:03+00:00",
-      "author": null,
-      "description": "Investors appear to have looked past a fresh set of U.S. tariffs unveiled by the White House on Wednesday, targeting more than a dozen major trading partners.",
-      "link": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108094148-1738167165694-gettyimages-2195902460-JAPAN_STOCKS.jpeg?v=1758691768&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
       "id": "https://www.theguardian.com/australia-news/2026/nov/25/large-bushfire-threatens-homes-and-properties-on-remote-island-off-tasmania",
       "title": "Flinders Island bushfire: Out-of-control fire with flames 10-metres high destroys at least six homes in Tasmania",
       "published": "2026-11-26T04:47:36+00:00",
@@ -661,20 +717,6 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o#1",
-      "title": "FedEx plane overshoots Miami runway, with flights briefly suspended at airport",
-      "published": "2026-11-26T03:27:33+00:00",
-      "author": null,
-      "description": "The brief ground stop comes on the day before the US Thanksgiving holiday, one of the busiest travel days of the year.",
-      "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a780/live/1db9c0f0-e959-11f1-99b6-a35a62fa4264.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "108559706",
@@ -13961,48 +14003,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/european-union-proposes-tax-on-big-tech-in-new-budget-draft-12360091#publisher=newsstand",
-      "title": "European Union Proposes Tax On Big Tech In New Budget Draft",
-      "published": "2026-11-21T19:13:01+00:00",
-      "author": null,
-      "description": "French President Emmanuel Macron's office instead slammed the proposal as \"disappointing\"",
-      "link": "https://www.ndtv.com/world-news/european-union-proposes-tax-on-big-tech-in-new-budget-draft-12360091#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2025-03/bhnv3u8g_ursula-von-der-leyen_625x300_07_March_25.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
-    },
-    {
-      "id": "https://www.theguardian.com/australia-news/2026/nov/22/queensland-health-ambulance-deaths-lnp-labor-ntwnfb",
-      "title": "‘Six, seven, maybe more preventable deaths’: Queensland’s LNP faces reckoning over broken health system",
-      "published": "2026-11-21T19:00:08+00:00",
-      "author": "Andrew Messenger",
-      "description": "A government in office for more than two years is finally forced to take responsibility and seemingly no longer able to blame its Labor predecessors Get our daily political email , free app or daily news podcast At the beginning of another Queensland parliamentary sitting week, anonymous sources were out in force, this time background briefing against the state’s Labor leader, Steven Miles. It is no great revelation to observers of Queensland politics that Miles, still seemingly bruised from hi…",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/22/queensland-health-ambulance-deaths-lnp-labor-ntwnfb",
-      "image": "https://i.guim.co.uk/img/media/e9bb488d6f56a808e4c08a19e1ddea696735455d/410_0_2606_2085/master/2606.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0f20881c54617e47d40ead0839fcb53e",
-      "feed_name": "The Guardian",
-      "feed_title": "World news | The Guardian",
-      "category": "World News",
-      "feed_url": "https://www.theguardian.com/world/rss",
-      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
-    },
-    {
-      "id": "https://www.theguardian.com/australia-news/2026/nov/22/cigarette-platter-bondi-copini-beauty-event-investigation",
-      "title": "Cigarettes on silver platters at Bondi ‘clean’ beauty business lip gloss launch referred for investigation",
-      "published": "2026-11-21T19:00:07+00:00",
-      "author": "Melissa Davey Medical editor",
-      "description": "Copini Beauty referred to New South Wales health regulators, while federal government says it is ‘deeply concerned’ Get our breaking news email , free app or daily news podcast An Australian beauty company that promotes “clean” ingredients “free from skin irritants” has been referred to state health regulators after appearing to offer cigarettes to guests at a beachside lip gloss launch. Photos from an event held earlier in November at a venue in Bondi show what appears to be loose cigarettes w…",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/22/cigarette-platter-bondi-copini-beauty-event-investigation",
-      "image": "https://i.guim.co.uk/img/media/6ce0bb93a4da40d20b813c67e99af09399f8268b/214_0_1747_1398/master/1747.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=208dd0035436934aad3e7ca80f4c5085",
-      "feed_name": "The Guardian",
-      "feed_title": "World news | The Guardian",
-      "category": "World News",
-      "feed_url": "https://www.theguardian.com/world/rss",
-      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
     }
   ]
 }
