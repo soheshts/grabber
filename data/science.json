@@ -1,9 +1,51 @@
 {
   "category": "science",
-  "updated": "2026-11-26T17:33:30.840472+00:00",
+  "updated": "2026-11-26T18:03:19.858552+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html",
+      "title": "The N.F.L. Player Who Left Football for Math",
+      "published": "2026-11-26T17:48:19+00:00",
+      "author": "Siobhan Roberts",
+      "description": "John Urschel left the game in part because of health risks. Now he’s scoring points in a new profession, but A.I. looms as a different kind of career hazard.",
+      "link": "https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html",
+      "image": "https://static01.nyt.com/images/2026/12/01/multimedia/26SCI-CONVERSATION-URSCHEL1-jpht/26SCI-CONVERSATION-URSCHEL1-jpht-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Science",
+      "feed_title": "NYT > Science",
+      "category": "science",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "news714649483",
+      "title": "5G interference can alter high-impact weather forecasts",
+      "published": "2026-11-26T17:40:01+00:00",
+      "author": null,
+      "description": "Could leaks from future 5G networks interfere with satellite weather measurements and potentially alter forecasts? That's the concern of a group of researchers from the U.S. states of New Jersey and Maryland, with lead author Behzad Golparvar from Rutgers University in New Jersey.",
+      "link": "https://phys.org/news/2026-11-5g-high-impact-weather.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/5g-interference-can-de.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o#0",
+      "title": "More than 1,000 flights cancelled or delayed in US as weather disrupts Thanksgiving travel",
+      "published": "2026-11-26T17:38:56+00:00",
+      "author": null,
+      "description": "Massive storms are descending on both US coasts as an estimated 80 million Americans hit the road for Thanksgiving holiday.",
+      "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/260a/live/9b64fe90-e9ac-11f1-859a-37130cd3a1d7.jpg",
+      "feed_name": "BBC News - Science & Environment",
+      "feed_title": "BBC News",
+      "category": "science",
+      "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
     {
       "id": "news714909135",
       "title": "Thailand tests find high lead, arsenic in river shellfish",
@@ -115,20 +157,6 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o#0",
-      "title": "Hundreds of flights cancelled as severe weather disrupts Thanksgiving travel in US",
-      "published": "2026-11-26T15:57:26+00:00",
-      "author": null,
-      "description": "More than 80 million Americans are expected to be traveling as massive storms are forecast on the western and eastern coasts of the US.",
-      "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/260a/live/9b64fe90-e9ac-11f1-859a-37130cd3a1d7.jpg",
-      "feed_name": "BBC News - Science & Environment",
-      "feed_title": "BBC News",
-      "category": "science",
-      "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "news714843097",
@@ -395,20 +423,6 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html",
-      "title": "The N.F.L. Player Who Left Football for Math",
-      "published": "2026-11-26T10:04:08+00:00",
-      "author": "Siobhan Roberts",
-      "description": "John Urschel left the game in part because of health risks. Now he’s scoring points in a new profession, but A.I. looms as a different kind of career hazard.",
-      "link": "https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html",
-      "image": "https://static01.nyt.com/images/2026/12/01/multimedia/26SCI-CONVERSATION-URSCHEL1-jpht/26SCI-CONVERSATION-URSCHEL1-jpht-mediumSquareAt3X.jpg",
-      "feed_name": "NYT > Science",
-      "feed_title": "NYT > Science",
-      "category": "science",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://www.nytimes.com/2026/11/26/climate/seabirds-tracking-hidden-fishing-boats.html",
@@ -13983,20 +13997,6 @@
       "author": null,
       "description": "Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03602-1 Global agricultural demand has increased over the past few decades, driving land-use intensification in some of the world’s most biodiverse regions. An assessment of some 40,000 species, from soil microorganisms to vertebrates, in Sumatra, Indonesia, reveals that agricultural intensification threatens biodiversity through species loss and changes in community composition across different spatial scales.",
       "link": "https://www.nature.com/articles/d41586-026-03602-1",
-      "image": null,
-      "feed_name": "Nature",
-      "feed_title": "Nature",
-      "category": "science",
-      "feed_url": "https://www.nature.com/nature.rss",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=feeds.nature.com&sz=64"
-    },
-    {
-      "id": "https://www.nature.com/articles/d41586-026-03777-7",
-      "title": "Kings of the jungle? This early human had surprising survival skills that rivalled ours",
-      "published": "2026-11-18T00:00:00+00:00",
-      "author": "Ewen Callaway",
-      "description": "Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03777-7 Teeth found in south China challenge the idea that Homo erectus lived only in woodlands and on savannahs.",
-      "link": "https://www.nature.com/articles/d41586-026-03777-7",
       "image": null,
       "feed_name": "Nature",
       "feed_title": "Nature",
