@@ -1,9 +1,23 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-26T11:03:34.403647+00:00",
-  "count": 454,
+  "updated": "2026-11-26T11:33:30.991984+00:00",
+  "count": 455,
   "summary": null,
   "items": [
+    {
+      "id": "2026-11-26-b2e11563",
+      "title": "Select Styling Specimens [link]",
+      "published": "2026-11-26T10:08:25+00:00",
+      "author": "remy@remysharp.com (Remy Sharp)",
+      "description": "Simon points an LLM to create every variation of ways a select box can be styled - because (and I'd agree), Chrome's select box is ugly. This is the kind of tedium that LLMs should be used for (though I wonder if it could, or would have been created using code pre-LLM era… 🤷). I'll be pinching that style and adding to my mini bank of CSS tweaks - Lea's outline trick being another one. Original link: simonwillison.net/[…]/select-styling",
+      "link": "https://remysharp.com/links/2026-11-26-b2e11563",
+      "image": null,
+      "feed_name": "Remy Sharp",
+      "feed_title": "remy sharp's b:log",
+      "category": "personal blogs",
+      "feed_url": "http://feeds.feedburner.com/remysharp",
+      "feed_icon": "https://remysharp.com/images/avatar-125.jpg"
+    },
     {
       "id": "https://dariuszwinkler.com/photo/0204/",
       "title": "#0204",

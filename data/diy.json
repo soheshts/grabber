@@ -1,9 +1,51 @@
 {
   "category": "DIY",
-  "updated": "2026-11-26T11:03:34.403647+00:00",
+  "updated": "2026-11-26T11:33:30.991984+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/excel-workbook-in-google-sheets-what-breaks/",
+      "title": "I moved my Excel budget to Google Sheets, and the warning missed most of what broke",
+      "published": "2026-11-26T11:30:16+00:00",
+      "author": "Yasir Mahmood",
+      "description": "The problem was PivotTables, macros, and the newest formulas.",
+      "link": "https://www.makeuseof.com/excel-workbook-in-google-sheets-what-breaks/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/06/intel-macbook-pro-with-google-sheets-logo-on-screen.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/misunderstood-fitbit-air-health-data-until-claude-finally-made-sense/",
+      "title": "I misunderstood my Fitbit health data until Claude finally made sense of it",
+      "published": "2026-11-26T11:30:15+00:00",
+      "author": "Viraj Gawde",
+      "description": "Wearables track everything but explain very little. A simple AI experiment helped close that gap for me.",
+      "link": "https://www.howtogeek.com/misunderstood-fitbit-air-health-data-until-claude-finally-made-sense/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/fitbit-air-feature-image-closeup.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/1password-security-breach-passwords-safe/",
+      "title": "1Password confirms security breach, but your saved passwords are safe",
+      "published": "2026-11-26T11:15:15+00:00",
+      "author": "Jefferson Mangubat",
+      "description": "A stolen GitHub account opened 1Password's back door.",
+      "link": "https://www.howtogeek.com/1password-security-breach-passwords-safe/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/22-2.png",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/my-leftover-3d-printing-filament-finally-found-its-perfect-purpose/",
       "title": "My leftover 3D printing filament finally found its perfect purpose",
@@ -13961,48 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.makeuseof.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://hackaday.com/?p=1397311",
-      "title": "Just Use QWIIC Already",
-      "published": "2026-11-12T18:00:54+00:00",
-      "author": "Arya Voronova",
-      "description": "Years ago, I wrote an article describing different I2C-on-a-connector ecosystems, explaining their strengths, weaknesses, and implementation details, as well as piling on a heap of fun stories. Looking back at …read more",
-      "link": "https://hackaday.com/2026/11/12/just-use-qwiic-already/",
-      "image": "https://hackaday.com/wp-content/uploads/2026/10/hadimg_use_qwiic_feat.jpg",
-      "feed_name": "Blog – Hackaday",
-      "feed_title": "Blog – Hackaday",
-      "category": "DIY",
-      "feed_url": "https://hackaday.com/blog/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/spamblocker-block-spam-calls-texts-android/",
-      "title": "This open-source Android app blocks calls and texts without becoming my Phone app",
-      "published": "2026-11-12T18:00:17+00:00",
-      "author": "Oluwademilade Afolabi",
-      "description": "Some calls and texts belong in the bin before they even say hello.",
-      "link": "https://www.makeuseof.com/spamblocker-block-spam-calls-texts-android/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/spam-blocker-call-screening-history.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/you-paid-for-your-pixel-now-google-wants-you-to-pay-for-its-features-too/",
-      "title": "You paid for your Pixel, and now Google wants you to pay for its features too",
-      "published": "2026-11-12T18:00:16+00:00",
-      "author": "Goran Damnjanovic",
-      "description": "While the majority of Pixel features are free, some of the best ones are locked behind a subscription.",
-      "link": "https://www.howtogeek.com/you-paid-for-your-pixel-now-google-wants-you-to-pay-for-its-features-too/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/53920143085_b6aae0ddf5_o.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
     }
   ]
 }
