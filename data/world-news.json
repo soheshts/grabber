@@ -1,13 +1,13 @@
 {
   "category": "World News",
-  "updated": "2026-11-26T15:03:51.740630+00:00",
+  "updated": "2026-11-26T15:33:29.212590+00:00",
   "count": 1000,
   "summary": null,
   "items": [
     {
       "id": "108552801",
       "title": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
-      "published": "2026-11-26T14:59:47+00:00",
+      "published": "2026-11-26T15:28:26+00:00",
       "author": null,
       "description": "De Cos will lead the ECB into a period of political uncertainty and choppy growth, after winning the backing needed to succeed Christine Lagarde next year.",
       "link": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
@@ -17,6 +17,62 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/26/world/americas/brazil-soldier-ukraine-war.html",
+      "title": "Brazilian Duped Into Fighting for Russia: ‘War Is Hell’",
+      "published": "2026-11-26T15:27:03+00:00",
+      "author": "Ana Ionova",
+      "description": "Dozens of Brazilians have joined the Russian army, some say lured by a pair of recruiters promising money and adventure. Here is one soldier’s story.",
+      "link": "https://www.nytimes.com/2026/11/26/world/americas/brazil-soldier-ukraine-war.html",
+      "image": null,
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo#1",
+      "title": "New UK-EU treaty has 10-year termination clause",
+      "published": "2026-11-26T15:23:17+00:00",
+      "author": null,
+      "description": "Text of the treaties was published this afternoon, alongside legislation designed to enact the bulk of the deal.",
+      "link": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65b5/live/0c44e020-e972-11f1-99b6-a35a62fa4264.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c9gklryvj24do#0",
+      "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
+      "published": "2026-11-26T15:17:18+00:00",
+      "author": null,
+      "description": "The possible environmental damage is still being assessed by Spain's sea rescue service.",
+      "link": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e73/live/33d0e9f0-e99e-11f1-b880-15b494ba858d.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/us/a-los-angeles-landfill-released-a-powerful-plume-of-gas-dust-and-debris-on-november-16-forcing-temporary-relocation-measures-eight-days-later-county-supervisors-declared-an-emergency-over-continuing-hazards/articleshow/136195883.cms",
+      "title": "Los Angeles landfill gas release: County declares emergency eight days after plume of gas, debris sent six to hospital",
+      "published": "2026-11-26T14:57:37+00:00",
+      "author": "TOI World Desk",
+      "description": "Los Angeles County has taken urgent action by declaring a local emergency following a notable gas release from Chiquita Canyon Landfill. The incident not only prompted the evacuation of local residents but also led to six individuals being hospitalized with minor injuries. Authorities are worried about the potential for additional hazardous releases and have sought state help.",
+      "link": "https://timesofindia.indiatimes.com/world/us/a-los-angeles-landfill-released-a-powerful-plume-of-gas-dust-and-debris-on-november-16-forcing-temporary-relocation-measures-eight-days-later-county-supervisors-declared-an-emergency-over-continuing-hazards/articleshow/136195883.cms",
+      "image": "https://static.toiimg.com/photo/msid-136195956,imgsize-1214125.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o#0",
@@ -73,6 +129,20 @@
       "category": "World News",
       "feed_url": "https://www.theguardian.com/world/rss",
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/us/a-kansas-man-challenged-a-369346-divorce-property-payment-to-his-ex-wife-saying-inherited-money-shared-with-his-sister-was-wrongly-included-judges-upheld-the-payment-but-cancelled-grandparent-visits/articleshow/136195279.cms",
+      "title": "Kansas man loses appeal over $369,346 divorce payment to ex-wife, wins reversal of grandparent visitation order",
+      "published": "2026-11-26T14:23:49+00:00",
+      "author": "TOI World Desk",
+      "description": "A Kansas man appealed a divorce settlement requiring him to pay his ex-wife $369,346. The court upheld the financial settlement but reversed an order granting visitation rights to the children's grandparents. The man argued that certain inherited funds should not be included in marital assets. The appeals court found that the lower court failed to follow the required legal procedures for grandparent visitation.",
+      "link": "https://timesofindia.indiatimes.com/world/us/a-kansas-man-challenged-a-369346-divorce-property-payment-to-his-ex-wife-saying-inherited-money-shared-with-his-sister-was-wrongly-included-judges-upheld-the-payment-but-cancelled-grandparent-visits/articleshow/136195279.cms",
+      "image": "https://static.toiimg.com/photo/msid-136195420,imgsize-1121939.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
       "id": "https://www.nytimes.com/2026/11/26/world/europe/france-depardieu-rape-trial.html",
@@ -143,20 +213,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c9gklryvj24do#0",
-      "title": "Diesel tanker carrying up to 7,000 tonnes sinks near Ibiza, killing one",
-      "published": "2026-11-26T14:00:42+00:00",
-      "author": null,
-      "description": "The possible environmental damage is still being assessed by Spain's sea rescue service.",
-      "link": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e73/live/33d0e9f0-e99e-11f1-b880-15b494ba858d.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "https://www.theguardian.com/australia-news/2026/nov/27/one-nation-pauline-hanson-gina-rinehart-aec-donations-ntwnfb",
@@ -761,20 +817,6 @@
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
-      "id": "https://www.nytimes.com/2026/11/26/world/americas/brazil-soldier-ukraine-war.html",
-      "title": "Brazilian Duped Into Fighting for Russia: ‘War Is Hell’",
-      "published": "2026-11-26T10:00:09+00:00",
-      "author": "Ana Ionova",
-      "description": "Dozens of Brazilians have joined the Russian army, some say lured by a pair of recruiters promising money and adventure. Here is one soldier’s story.",
-      "link": "https://www.nytimes.com/2026/11/26/world/americas/brazil-soldier-ukraine-war.html",
-      "image": null,
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
       "id": "https://timesofindia.indiatimes.com/world/pakistan/4-dead-17-missing-after-six-storey-building-collapses-in-pakistans-karachi/articleshow/136186755.cms",
       "title": "4 dead, 17 missing after six-storey building collapses in Pakistan's Karachi",
       "published": "2026-11-26T10:00:09+00:00",
@@ -790,20 +832,6 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo#0",
-      "title": "New UK-EU treaty has 10-year termination clause",
-      "published": "2026-11-26T09:59:14+00:00",
-      "author": null,
-      "description": "Text of the treaties will be published this afternoon, alongside legislation designed to enact the bulk of the deal.",
-      "link": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65b5/live/0c44e020-e972-11f1-99b6-a35a62fa4264.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo#1",
       "title": "New UK-EU treaty has 10-year termination clause",
       "published": "2026-11-26T09:59:14+00:00",
       "author": null,
@@ -1117,6 +1145,20 @@
       "author": "Anupreeta Das and Anindito Mukherjee",
       "description": "Residents of India’s dense capital tried switching off fridges and leaving doors open all night to cope with rising temperatures, which affect their sleep, health and ability to work.",
       "link": "https://www.nytimes.com/2026/11/26/world/asia/the-unbearable-heat-of-delhis-summer-nights.html",
+      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/INDIA-WARM-NIGHTS-01-hqfc/INDIA-WARM-NIGHTS-01-hqfc-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/26/world/asia/delhi-heat-summer-nights.html",
+      "title": "The Unbearable Heat of Delhi’s Summer Nights",
+      "published": "2026-11-26T08:47:33+00:00",
+      "author": "Anupreeta Das and Anindito Mukherjee",
+      "description": "Residents of India’s dense capital tried switching off fridges and leaving doors open all night to cope with rising temperatures, which affect their sleep, health and ability to work.",
+      "link": "https://www.nytimes.com/2026/11/26/world/asia/delhi-heat-summer-nights.html",
       "image": "https://static01.nyt.com/images/2026/11/05/multimedia/INDIA-WARM-NIGHTS-01-hqfc/INDIA-WARM-NIGHTS-01-hqfc-mediumSquareAt3X.jpg",
       "feed_name": "NYT",
       "feed_title": "NYT > World News",
@@ -13961,48 +14003,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
-      "title": "South Korean minister quits after AI cheating scandal engulfs university exams",
-      "published": "2026-11-22T12:12:07+00:00",
-      "author": "Angelique Chrisafis and agencies",
-      "description": "Choi Kyo-jin says he ‘failed to prepare adequately’ for entrance exams following last-minute scramble to tighten measures South Korea’s education minister has resigned after an AI-assisted cheating scandal that erupted in the lead-up to key university entrance exams last week. The country has been gripped by fears of AI-assisted exam cheating since last Sunday, when the top scorer in a national tax accountancy exam confessed to using a miniature camera and smartphone to achieve a near-perfect s…",
-      "link": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
-      "image": "https://i.guim.co.uk/img/media/3d9052371f434580f71c25a962110e47f2e6a076/605_0_6228_4986/master/6228.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d3f07b25c72631f8072873e52093f91c",
-      "feed_name": "The Guardian",
-      "feed_title": "World news | The Guardian",
-      "category": "World News",
-      "feed_url": "https://www.theguardian.com/world/rss",
-      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/us/trump-reposts-trumpcare-proposal-from-democrat-he-previously-called-a-jihadist/articleshow/136073709.cms",
-      "title": "Trump reposts ‘TrumpCare’ proposal from democrat he previously called a ‘jihadist’",
-      "published": "2026-11-22T12:01:38+00:00",
-      "author": "Gokul Ankari",
-      "description": "",
-      "link": "https://timesofindia.indiatimes.com/world/us/trump-reposts-trumpcare-proposal-from-democrat-he-previously-called-a-jihadist/articleshow/136073709.cms",
-      "image": "https://static.toiimg.com/photo/msid-136073799,imgsize-56432.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/its-stunning-putin-says-he-is-fascinated-by-indias-diversity-12362114#publisher=newsstand",
-      "title": "\"It's Stunning\": Putin Says He Is 'Fascinated' By India's Diversity",
-      "published": "2026-11-22T11:53:32+00:00",
-      "author": null,
-      "description": "Putin's video of the interview is now circulating widely on social media.",
-      "link": "https://www.ndtv.com/world-news/its-stunning-putin-says-he-is-fascinated-by-indias-diversity-12362114#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2023-06/jem1lnh8_narendra-modi-vladimir-putin-ani-modi-putin-ani_625x300_30_June_23.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     }
   ]
 }

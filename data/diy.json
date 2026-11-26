@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-26T15:03:51.740630+00:00",
+  "updated": "2026-11-26T15:33:29.212590+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/ethernet-cable-connect-two-windows-11-pcs/",
+      "title": "An Ethernet cable was all I needed to connect two Windows 11 PCs",
+      "published": "2026-11-26T15:30:17+00:00",
+      "author": "Brady Snyder",
+      "description": "A local, high-speed link between machines.",
+      "link": "https://www.makeuseof.com/ethernet-cable-connect-two-windows-11-pcs/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/rtx-spark-vs-snapdragon-x2-10.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/i-built-my-kids-their-own-internet-that-doesnt-need-the-internet/",
+      "title": "I built my kids their own internet that doesn't need the internet",
+      "published": "2026-11-26T15:30:16+00:00",
+      "author": "Adam Davidson",
+      "description": "It's a small World Wide Web after all.",
+      "link": "https://www.howtogeek.com/i-built-my-kids-their-own-internet-that-doesnt-need-the-internet/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/white-chromebook-on-a-brightly-lit-desk-between-a-book-and-a-notebook-displaying-an-offline-kids-article-search-website.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/best-google-pixel-search-tricks/",
       "title": "You’re probably ignoring your Pixel’s most useful feature (I did too)",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://hackaday.com/blog/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/amd-fsr-41-is-the-game-changer-that-dlss5-should-have-been/",
-      "title": "AMD's FSR 4.1 is the game-changer that DLSS 5 should have been",
-      "published": "2026-11-12T21:00:17+00:00",
-      "author": "Suman Biswas",
-      "description": "FSR 4.1 is the DLSS 5 we deserved, but never got.",
-      "link": "https://www.makeuseof.com/amd-fsr-41-is-the-game-changer-that-dlss5-should-have-been/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/gta-6-gameplay-screenshot.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/fedora-45-is-here-but-does-it-still-have-an-edge-over-ubuntu/",
-      "title": "Fedora 45 is here, but does it still have an edge over Ubuntu?",
-      "published": "2026-11-12T21:00:15+00:00",
-      "author": "Umair Khurshid",
-      "description": "The Fedora versus Ubuntu debate was already exhausting. Their latest releases somehow made it worse!",
-      "link": "https://www.howtogeek.com/fedora-45-is-here-but-does-it-still-have-an-edge-over-ubuntu/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/fedora-linux-45-gnome-settings-about-page-showing-gnome-51-1-linux-kernel-7-3-3-and-system-firmware-information.png",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
     }
   ]
 }
