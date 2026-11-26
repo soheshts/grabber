@@ -1,9 +1,37 @@
 {
   "category": "science",
-  "updated": "2026-11-26T21:32:43.679637+00:00",
+  "updated": "2026-11-26T22:03:29.174038+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/videos/cm4gnje836x2o#0",
+      "title": "Watch: Man and dog narrowly escape powerful king tide in Oregon",
+      "published": "2026-11-26T21:51:16+00:00",
+      "author": null,
+      "description": "Both the man and his dog escaped unharmed, the police department says.",
+      "link": "https://www.bbc.co.uk/news/videos/cm4gnje836x2o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58d3/live/0b805830-e9e1-11f1-a094-5fdc692f3e33.jpg",
+      "feed_name": "BBC News - Science & Environment",
+      "feed_title": "BBC News",
+      "category": "science",
+      "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "news714841879",
+      "title": "DESTINY model tracks molecular chemistry on uneven, ice-covered grains in interstellar space",
+      "published": "2026-11-26T21:40:01+00:00",
+      "author": null,
+      "description": "Interstellar space is the scene of active chemical processes: molecules form there in the gas, but also on the surface of tiny dust grains covered in ice. To better represent what happens on these surfaces, astrophysicists at the University of Liège are proposing a deterministic approach based on Markov chains with absorbing states, a mathematical tool that had not yet been utilized in astrochemistry. The paper is published in the journal Astronomy & Astrophysics.",
+      "link": "https://phys.org/news/2026-11-destiny-tracks-molecular-chemistry-uneven.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/destiny-a-new-model-to.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
     {
       "id": "news714650354",
       "title": "JWST studies a tiny, metal-poor galaxy with just a fraction of the sun's oxygen abundance",
@@ -13975,34 +14003,6 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "news714155701",
-      "title": "Quantum-gas microscope resolves the 'color' of individual atoms in a single shot",
-      "published": "2026-11-18T00:00:01+00:00",
-      "author": null,
-      "description": "In 2024, researchers at the Ultracold Quantum Gases group at ICFO built a quantum-gas microscope capable of imaging individual atoms in strontium quantum gases for the first time, marking a key enabling step for quantum simulation. At that time, the researchers imaged strontium-84, a boson that has no spin.",
-      "link": "https://phys.org/news/2026-11-quantum-gas-microscope-individual-atoms.html",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-gas-microscope-3.jpg",
-      "feed_name": "Phys.org - latest science and technology news stories",
-      "feed_title": "Phys.org - latest science and technology news stories",
-      "category": "science",
-      "feed_url": "https://phys.org/rss-feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "https://www.nature.com/articles/d41586-026-03710-y",
-      "title": "Microbiome home tests are taking off. Can they be trusted?",
-      "published": "2026-11-18T00:00:00+00:00",
-      "author": "Amber Dance",
-      "description": "Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03710-y Our reporter mailed off her poo to find out what two companies say about her microbiome. Here’s what she found.",
-      "link": "https://www.nature.com/articles/d41586-026-03710-y",
-      "image": null,
-      "feed_name": "Nature",
-      "feed_title": "Nature",
-      "category": "science",
-      "feed_url": "https://www.nature.com/nature.rss",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=feeds.nature.com&sz=64"
     }
   ]
 }
