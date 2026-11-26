@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-26T19:03:40.021587+00:00",
+  "updated": "2026-11-26T19:33:33.340803+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/gmail-dropping-features-2027-email-setup/",
+      "title": "Gmail is dropping three features in 2027, and that means it's time to rethink my email setup",
+      "published": "2026-11-26T19:30:16+00:00",
+      "author": "Oluwademilade Afolabi",
+      "description": "Google giveth, Google taketh away.",
+      "link": "https://www.makeuseof.com/gmail-dropping-features-2027-email-setup/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/07/a-phone-in-hand-gmail-app-in-dark-mode.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/aio-liquid-coolers-dont-make-sense-for-most-pcs-anymore/",
+      "title": "AIO liquid coolers don't make sense for most PCs anymore",
+      "published": "2026-11-26T19:30:15+00:00",
+      "author": "Monica J. White",
+      "description": "I'm tired of pretending every gaming PC needs an AIO liquid cooler",
+      "link": "https://www.howtogeek.com/aio-liquid-coolers-dont-make-sense-for-most-pcs-anymore/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/acemagic-m1a-pro-on-top-of-tower.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/kodi-can-play-your-plex-and-jellyfin-libraries-and-its-the-best-app-for-both/",
       "title": "Kodi can play your Plex and Jellyfin libraries, and it's the best app for both",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://hackaday.com/blog/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
-    },
-    {
-      "id": "https://hackaday.com/?p=1425067",
-      "title": "Hacking Meta’s Smart Glasses",
-      "published": "2026-11-13T03:00:45+00:00",
-      "author": "Jenny List",
-      "description": "Meta’s Ray-Ban smart glasses have attracted plenty of controversy in the relatively short time they have been available, given their potential for covert and unvanted surveillance. But given the chance …read more",
-      "link": "https://hackaday.com/2026/11/12/hacking-metas-smart-glasses/",
-      "image": "https://hackaday.com/wp-content/uploads/2026/11/meta-glases-featured.jpg",
-      "feed_name": "Blog – Hackaday",
-      "feed_title": "Blog – Hackaday",
-      "category": "DIY",
-      "feed_url": "https://hackaday.com/blog/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/i-put-a-magnetic-plate-on-my-boox-picco-to-make-it-magsafe/",
-      "title": "I put a magnetic plate on my Boox Picco to make it MagSafe",
-      "published": "2026-11-13T01:01:15+00:00",
-      "author": "Namerah Saud Fatmi",
-      "description": "Onyx Boox stopped selling the MagSafe case for the Boox Picco, so I decided to add a magnet to it.",
-      "link": "https://www.howtogeek.com/i-put-a-magnetic-plate-on-my-boox-picco-to-make-it-magsafe/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/onyx-boox-picco-magsafe-1.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
     }
   ]
 }
