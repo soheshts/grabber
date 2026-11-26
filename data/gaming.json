@@ -1,9 +1,23 @@
 {
   "category": "gaming",
-  "updated": "2026-11-26T00:02:31.834464+00:00",
+  "updated": "2026-11-26T00:33:06.379254+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://kotaku.com/?p=2001000521",
+      "title": "Denny’s Posts Statement Celebrating Jensen Huang’s Return As Nvidia CEO: ‘Some Things You Just Don’t Take Off The Menu’",
+      "published": "2026-11-26T00:03:24+00:00",
+      "author": "Zack Zwiezen",
+      "description": "The temporarily fired Nvidia boss previously worked at the diner chain",
+      "link": "https://kotaku.com/dennys-posts-statement-celebrating-jensen-huangs-return-as-nvidia-ceo-some-things-you-just-dont-take-off-the-menu-2001000521",
+      "image": "https://kotaku.com/app/uploads/2026/11/jensenhuang-1-1280x720.jpg",
+      "feed_name": "Kotaku",
+      "feed_title": "Kotaku",
+      "category": "gaming",
+      "feed_url": "https://kotaku.com/rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=kotaku.com&sz=64"
+    },
     {
       "id": "https://www.polygon.com/ridley-scott-alien-leaving-netflix/",
       "title": "Ridley Scott’s Sci-Fi Thriller Masterpiece Is Officially Being Removed From Netflix",
@@ -17,6 +31,20 @@
       "category": "gaming",
       "feed_url": "https://www.polygon.com/rss/index.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.polygon.com&sz=64"
+    },
+    {
+      "id": "e289931d-5bc0-4815-b27b-02e512f21cbb",
+      "title": "Proton’s Black Friday Deal Brings Our Favorite VPN Down to Its Lowest Price Yet",
+      "published": "2026-11-25T23:45:00+00:00",
+      "author": "Eric Song",
+      "description": "Get two years for 75% off.",
+      "link": "https://www.ign.com/articles/proton-black-friday-deal-brings-our-favorite-vpn-down-to-its-lowest-price-yet",
+      "image": "https://assets-prd.ignimgs.com/2026/11/20/protonvpn-1795148779192.jpg",
+      "feed_name": "IGN All",
+      "feed_title": "IGN Articles",
+      "category": "gaming",
+      "feed_url": "http://feeds.ign.com/ign/all",
+      "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
     },
     {
       "id": "6451e97e-75c4-4bdb-a3c0-58f17371c7c2",
@@ -11261,20 +11289,6 @@
       "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
     },
     {
-      "id": "e289931d-5bc0-4815-b27b-02e512f21cbb",
-      "title": "Proton’s Black Friday Deal Brings Our Favorite VPN Down to Its Lowest Price Yet",
-      "published": "2026-11-20T14:00:00+00:00",
-      "author": "Eric Song",
-      "description": "Get two years for 75% off.",
-      "link": "https://www.ign.com/articles/proton-black-friday-deal-brings-our-favorite-vpn-down-to-its-lowest-price-yet",
-      "image": "https://assets-prd.ignimgs.com/2026/11/20/protonvpn-1795148779192.jpg",
-      "feed_name": "IGN All",
-      "feed_title": "IGN Articles",
-      "category": "gaming",
-      "feed_url": "http://feeds.ign.com/ign/all",
-      "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
-    },
-    {
       "id": "e25951e2-7314-4918-877c-2699148c3629",
       "title": "This Is the One Thing I’ll Never Do Again in GTA 6",
       "published": "2026-11-20T14:00:00+00:00",
@@ -13989,20 +14003,6 @@
       "category": "gaming",
       "feed_url": "http://feeds.ign.com/ign/all",
       "feed_icon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png"
-    },
-    {
-      "id": "https://www.eurogamer.net/gta-6-full-cast-list-jason-duval-actor",
-      "title": "Rockstar reveals full GTA 6 cast list, finally ending speculation about who plays Jason Duval in the game",
-      "published": "2026-11-19T15:07:00+00:00",
-      "author": "Sherif Saed",
-      "description": "UPDATE 5PM GMT: Actors Manni L. Perez and Dylan Rourke have announced their involvement in GTA 6 , in portraying Lucia and Jason, respectively, in the game. Read more",
-      "link": "https://www.eurogamer.net/gta-6-full-cast-list-jason-duval-actor",
-      "image": "https://assetsio.gnwcdn.com/GTA_6_Steal_Vehicle_Header.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "feed_name": "Eurogamer.net",
-      "feed_title": "Eurogamer.net Latest Articles Feed",
-      "category": "gaming",
-      "feed_url": "https://www.eurogamer.net/?format=rss",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.eurogamer.net&sz=64"
     }
   ]
 }

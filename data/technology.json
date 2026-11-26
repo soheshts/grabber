@@ -1,9 +1,51 @@
 {
   "category": "technology",
-  "updated": "2026-11-26T00:02:31.834464+00:00",
+  "updated": "2026-11-26T00:33:06.379254+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "5238450",
+      "title": "We Shot a Ship Into an Asteroid to See if It Would Move. See the First Images of the Impact",
+      "published": "2026-11-26T00:18:52+00:00",
+      "author": "Joe Hindy",
+      "description": "It turns out that DART did vastly more damage than anyone had anticipated.",
+      "link": "https://www.cnet.com/science/space/esa-hera-dimorphos-first-images/",
+      "image": "https://www.cnet.com/wp-content/uploads/sites/2/ESA-Hera.jpg",
+      "feed_name": "CNET News",
+      "feed_title": "News – CNET",
+      "category": "technology",
+      "feed_url": "https://www.cnet.com/rss/news/",
+      "feed_icon": "https://www.cnet.com/wp-content/uploads/sites/2/cropped-favicon-480.png?w=32"
+    },
+    {
+      "id": "https://www.theverge.com/?p=1042938",
+      "title": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
+      "published": "2026-11-26T00:04:34+00:00",
+      "author": "Stevie Bonifield",
+      "description": "A couple of Walmart's budget-friendly smart home cameras will be able to recognize people around your house now using Google's familiar face detection feature. A new Google Home update brings Familiar Faces support to the $35 Onn Outdoor Camera Plug-In and $77 Onn Floodlight Camera Hardwired. However, a Google Home Premium subscription is still required […]",
+      "link": "https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23451196/acastro_220510_STK123_0002.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "feed_name": "The Verge -  All Posts",
+      "feed_title": "The Verge",
+      "category": "technology",
+      "feed_url": "https://www.theverge.com/rss/index.xml",
+      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
+    },
+    {
+      "id": "https://it.slashdot.org/story/26/11/25/1940253/1password-breach-leaked-customer-names-and-emails-but-passwords-are-safe?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "title": "1Password Breach Leaked Customer Names and Emails, But Passwords Are Safe",
+      "published": "2026-11-26T00:00:00+00:00",
+      "author": "BeauHD",
+      "description": "Password manager 1Password has confirmed that hackers breached its internal systems on November 19 after gaining access to an employee's corporate GitHub account and pushing malicious code to company servers. The attacker stole customer names, email addresses, account creation dates and last login timestamps, but 1Password said customer password vaults were \"at no point\" accessible to the attacker and that its apps and browser extensions remain unaffected. TechCrunch reports: It's unclear how t…",
+      "link": "https://it.slashdot.org/story/26/11/25/1940253/1password-breach-leaked-customer-names-and-emails-but-passwords-are-safe?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
+      "feed_name": "Slashdot",
+      "feed_title": "Slashdot",
+      "category": "technology",
+      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
+    },
     {
       "id": "https://www.theverge.com/?p=1042870",
       "title": "Amazon loses its latest attempt to get out of handling more recall notices",
@@ -19,6 +61,20 @@
       "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
     },
     {
+      "id": "05u5ICpaweejHwBrBX2w37b",
+      "title": "The 87 best Black Friday deals: We found the biggest discounts on Apple, Lego, Kindle, and Sony favorites",
+      "published": "2026-11-25T23:39:36+00:00",
+      "author": null,
+      "description": "Black Friday 2026 already started, and our shopping experts found the best early deals on AirPods, Ninja appliances, and Legos.",
+      "link": "https://mashable.com/tech/best-black-friday-live-deals-2026",
+      "image": "https://helios-i.mashable.com/imagery/articles/05u5ICpaweejHwBrBX2w37b/hero-image.jpg",
+      "feed_name": "Mashable",
+      "feed_title": "Mashable",
+      "category": "technology",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
+    },
+    {
       "id": "https://www.engadget.com/2328876/black-friday-2026-deals-on-reviewed-gadgets/",
       "title": "We reviewed these 10 gadgets, and they're now on sale for Black Friday",
       "published": "2026-11-25T23:36:46+00:00",
@@ -31,6 +87,20 @@
       "category": "technology",
       "feed_url": "https://www.engadget.com/rss.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
+    },
+    {
+      "id": "021C6aDGQQmfqg40fy9zCyv",
+      "title": "NYT Connections hints today: Clues, answers for November 26, 2026",
+      "published": "2026-11-25T23:10:13+00:00",
+      "author": null,
+      "description": "Connections is a New York Times word game that's all about finding the \"common threads between words.\" How to solve the puzzle.",
+      "link": "https://mashable.com/entertainment/nyt-connections-hint-answer-today-november-26-2026",
+      "image": "https://helios-i.mashable.com/imagery/articles/021C6aDGQQmfqg40fy9zCyv/hero-image.jpg",
+      "feed_name": "Mashable",
+      "feed_title": "Mashable",
+      "category": "technology",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
     },
     {
       "id": "https://tech.slashdot.org/story/26/11/25/069227/suspected-chinese-agents-are-trying-to-dupe-americans-with-fake-listings-on-job-platforms?utm_source=rss1.0mainlinkanon&utm_medium=feed",
@@ -1823,20 +1893,6 @@
       "category": "technology",
       "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
       "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
-    },
-    {
-      "id": "05u5ICpaweejHwBrBX2w37b",
-      "title": "We found the 83 best Black Friday deals: Save 53% on Bose headphones and get MacBooks, Legos, and Kindles on sale",
-      "published": "2026-11-25T15:30:41+00:00",
-      "author": null,
-      "description": "Black Friday 2026 already started, and our shopping experts found the best early deals on AirPods, Ninja appliances, and Legos.",
-      "link": "https://mashable.com/tech/best-black-friday-live-deals-2026",
-      "image": "https://helios-i.mashable.com/imagery/articles/05u5ICpaweejHwBrBX2w37b/hero-image.jpg",
-      "feed_name": "Mashable",
-      "feed_title": "Mashable",
-      "category": "technology",
-      "feed_url": "http://feeds.mashable.com/Mashable",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=mashable.com&sz=64"
     },
     {
       "id": "06vqvMYfcXfKOItkJQ2QdAa",
@@ -13947,62 +14003,6 @@
       "category": "technology",
       "feed_url": "https://www.engadget.com/rss.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
-    },
-    {
-      "id": "https://www.engadget.com/2323927/youtube-could-pay-3-billion-to-settle-social-media-addiction-lawsuits-with-school-districts/",
-      "title": "YouTube could pay $3 billion to settle social media addiction lawsuits with school districts",
-      "published": "2026-11-20T23:40:10+00:00",
-      "author": "Ian Carlos Campbell",
-      "description": "YouTube is facing a growing number of lawsuits alleging that its platform is designed to be addictive and that it has harmed teens.",
-      "link": "https://www.engadget.com/2323927/youtube-could-pay-3-billion-to-settle-social-media-addiction-lawsuits-with-school-districts/",
-      "image": "https://www.engadget.com/img/gallery/youtube-could-pay-3-billion-to-settle-social-media-addiction-lawsuits-with-school-districts/l-intro-1795217872.jpg",
-      "feed_name": "Engadget",
-      "feed_title": "Engadget - Technology News & Expert Reviews",
-      "category": "technology",
-      "feed_url": "https://www.engadget.com/rss.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
-    },
-    {
-      "id": "https://yro.slashdot.org/story/26/11/20/2231247/signal-restricts-screenshots-to-block-ai-agents-from-reading-messages?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "title": "Signal Restricts Screenshots to Block AI Agents From Reading Messages",
-      "published": "2026-11-20T23:00:00+00:00",
-      "author": "BeauHD",
-      "description": "Signal is introducing default-on screenshot restrictions to prevent AI agents from reading private conversations, warning that increasingly powerful assistants integrated into operating systems pose an \"existential threat\" to its privacy guarantees. \"Right now, these agentic AI integrations are changing this environment in a way that's making it increasingly hostile to privacy. This is an existential threat to Signal, and our ability to responsibly uphold our mission,\" it said in a blog post. R…",
-      "link": "https://yro.slashdot.org/story/26/11/20/2231247/signal-restricts-screenshots-to-block-ai-agents-from-reading-messages?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-      "feed_name": "Slashdot",
-      "feed_title": "Slashdot",
-      "category": "technology",
-      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
-    },
-    {
-      "id": "yt:video:gyoqVsnJPMQ",
-      "title": "iPhone Duo Fold-a-Phone Recap and Q&A: How Has the Duo Held Up in Our Folding Machine?",
-      "published": "2026-11-20T22:36:36+00:00",
-      "author": "CNET",
-      "description": "We've been folding the iPhone Duo for over a month in our custom Fold-a-Phone machine, and it's high time for a check-in. CNET editors will examine the iPhone Duo's durability over the course of our folding phone experiment. Join CNET's Patrick Holland, Abrar Al-Heeti, Matthew Murray and Numi Pasarn as they answer your questions about the iPhone Duo and what's next for the Fold-a-Phone. Join us weekdays from 10:00 AM – 2:00 PM PT / 1:00 PM – 5:00 PM ET Read more about the iPhone Duo Folding Tes…",
-      "link": "https://www.youtube.com/watch?v=gyoqVsnJPMQ",
-      "image": "https://i4.ytimg.com/vi/gyoqVsnJPMQ/hqdefault.jpg",
-      "feed_name": "CNET",
-      "feed_title": "CNET",
-      "category": "technology",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?user=CNETTV",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64"
-    },
-    {
-      "id": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
-      "title": "Trump FCC declares California isn't allowed to enforce phone service rules",
-      "published": "2026-11-20T22:28:24+00:00",
-      "author": "Jon Brodkin",
-      "description": "FCC preempts state rules that require AT&T to keep offering home phone service.",
-      "link": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/getty-att-logo-500x500.jpg",
-      "feed_name": "Ars Technica",
-      "feed_title": "Ars Technica",
-      "category": "technology",
-      "feed_url": "http://feeds.arstechnica.com/arstechnica/index",
-      "feed_icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png"
     }
   ]
 }

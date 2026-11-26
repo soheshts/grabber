@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-26T00:02:31.834464+00:00",
+  "updated": "2026-11-26T00:33:06.379254+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://hackaday.com/?p=1428375",
+      "title": "Camera Upgrades for 3D Printers",
+      "published": "2026-11-26T00:00:27+00:00",
+      "author": "Bryan Cockfield",
+      "description": "3D printing has come a long way over the years, from being a fussy, barely usable mess to essentially being plug-and-play for a large variety of plastics. And the industry …read more",
+      "link": "https://hackaday.com/2026/11/25/camera-upgrades-for-3d-printers/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/prusa-camera-main.jpg",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/5-google-apps-i-uninstall-on-every-new-android-phone/",
       "title": "5 Google apps I uninstall on every new Android phone",
@@ -13989,20 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://hackaday.com/blog/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/activity-launcher-android/",
-      "title": "This free Android app is now the first thing I install on every phone",
-      "published": "2026-11-12T16:30:16+00:00",
-      "author": "Pankil Shah",
-      "description": "I can navigate my Android phone twice as fast thanks to this one app.",
-      "link": "https://www.makeuseof.com/activity-launcher-android/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/11/activity-launcher-app-on-android-phone.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }
