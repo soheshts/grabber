@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-26T03:03:21.010727+00:00",
+  "updated": "2026-11-26T03:33:54.623455+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://hackaday.com/?p=1429978",
+      "title": "Self-Sensing Artificial Muscles From Liquid Crystal Elastomer With Graphene",
+      "published": "2026-11-26T03:00:35+00:00",
+      "author": "Maya Posch",
+      "description": "Although we tend to be more aware of the large muscles in our bodies that enable our legs and arms to move, the real stars at the many small muscles …read more",
+      "link": "https://hackaday.com/2026/11/25/self-sensing-artificial-muscles-from-liquid-crystal-elastomer-with-graphene/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/lce_graphene_muscle_zhang_et_al_adv_func_mat_2026.jpg",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/lisens-magsafe-power-bank-is-now-32-the-lowest-price-weve-ever-seen/",
       "title": "LISEN's MagSafe power bank is now $32, the lowest price we've ever seen",
@@ -13989,20 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.makeuseof.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/mini-pcs-beat-the-raspberry-pi-at-almost-everything-now-except-these-five-jobs/",
-      "title": "Mini PCs beat the Raspberry Pi at almost everything now, except these five jobs",
-      "published": "2026-11-12T17:00:17+00:00",
-      "author": "Patrick Campanale",
-      "description": "The price hikes made the Pi a niche tool, but the niche is real.",
-      "link": "https://www.howtogeek.com/mini-pcs-beat-the-raspberry-pi-at-almost-everything-now-except-these-five-jobs/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/raspberry-pi-3b-beside-mini-pc.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
     }
   ]
 }
