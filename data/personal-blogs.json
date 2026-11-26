@@ -1,6 +1,6 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-26T14:04:43.112695+00:00",
+  "updated": "2026-11-26T14:33:23.382953+00:00",
   "count": 454,
   "summary": null,
   "items": [
@@ -59,6 +59,20 @@
       "category": "personal blogs",
       "feed_url": "https://www.amitmerchant.com/feed.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.amitmerchant.com&sz=64"
+    },
+    {
+      "id": "https://meiert.com/blog/ai-comment/",
+      "title": "AI, a Comment",
+      "published": "2026-11-25T23:00:00+00:00",
+      "author": null,
+      "description": "On what won’t help.",
+      "link": "https://meiert.com/blog/ai-comment/",
+      "image": "https://d3rdtowr0c5lpf.cloudfront.net/media/social.png",
+      "feed_name": "Blog (Web Development, Mostly) · Jens Oliver Meiert",
+      "feed_title": "Jens Oliver Meiert · Code Optimization, Digital Defense, Models of Reality",
+      "category": "personal blogs",
+      "feed_url": "https://meiert.com/en/feed/",
+      "feed_icon": "https://meiert.com/media/social.png"
     },
     {
       "id": "https://blog.jim-nielsen.com/2026/have-you-tried-your-agent/",
@@ -5631,20 +5645,6 @@
       "category": "personal blogs",
       "feed_url": "https://www.kooslooijesteijn.net/feed.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.kooslooijesteijn.net&sz=64"
-    },
-    {
-      "id": "https://gomakethings.com/articles/signal-your-virtues/",
-      "title": "Signal your virtues",
-      "published": "2026-10-27T14:30:00+00:00",
-      "author": null,
-      "description": "Virtual signalling is often used as an insult, but it’s good to signal your virtues, actually. A few months back, I read a story on Bluesky from a hispanic woman who’s immigrant mother got lost in the city. Her phone ran of battery, she didn’t speak much English, and she had no idea how to get home. She approached a young woman with bright blue hair who was able to use her phone’s translation app to get the mother’s address and help her get home.",
-      "link": "https://gomakethings.com/articles/signal-your-virtues/",
-      "image": "https://gomakethings.com/img/articles/patches.jpg",
-      "feed_name": "Go Make Things",
-      "feed_title": "Go Make Things",
-      "category": "personal blogs",
-      "feed_url": "https://gomakethings.com/feed/index.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=gomakethings.com&sz=64"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
