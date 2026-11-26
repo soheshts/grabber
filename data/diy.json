@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-26T17:03:45.373667+00:00",
+  "updated": "2026-11-26T17:33:30.840472+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/smart-tv-smart-plugs-nas-weakest-links-network/",
+      "title": "Your smart TV, smart plugs, and NAS are the weakest links in your home network",
+      "published": "2026-11-26T17:31:19+00:00",
+      "author": "Yadullah Abidi",
+      "description": "67% of home network flaws come from three devices you never think about.",
+      "link": "https://www.makeuseof.com/smart-tv-smart-plugs-nas-weakest-links-network/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/03/tp-link-router-full-body.png",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/mini-pcs-still-cant-replace-the-raspberry-pis-best-feature/",
       "title": "Mini PCs still can't replace the Raspberry Pi's best feature",
@@ -13989,20 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/amd-finally-addresses-radeon-driver-bug-causing-massive-ssd-writes/",
-      "title": "AMD finally addresses Radeon driver bug causing massive SSD writes",
-      "published": "2026-11-12T22:01:41+00:00",
-      "author": "Vineet Washington",
-      "description": "No more unnecessarily massive data writes plaguing your SSD",
-      "link": "https://www.makeuseof.com/amd-finally-addresses-radeon-driver-bug-causing-massive-ssd-writes/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/07/amd-ryzen-5600g-cpu-in-socket-on-motherboard.png",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }
