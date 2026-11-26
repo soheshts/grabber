@@ -1,9 +1,23 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-26T07:03:45.979059+00:00",
-  "count": 454,
+  "updated": "2026-11-26T07:33:54.993797+00:00",
+  "count": 455,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.amitmerchant.com/what-phps-session-handler-teaches-us-about-atomicity",
+      "title": "What PHP’s Session Handler Teaches Us About Atomicity",
+      "published": "2026-11-26T00:00:00+00:00",
+      "author": "Amit Merchant",
+      "description": "There is a comforting line of reasoning that goes like this: if a process locks a file before updating it, another process cannot interfere, so the update is safe.",
+      "link": "https://www.amitmerchant.com/what-phps-session-handler-teaches-us-about-atomicity/",
+      "image": "https://www.amitmerchant.com/cdn/what-phps-session-handler-teaches-us-about-atomicity.png",
+      "feed_name": "Amit Merchant",
+      "feed_title": "Amit Merchant",
+      "category": "personal blogs",
+      "feed_url": "https://www.amitmerchant.com/feed.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.amitmerchant.com&sz=64"
+    },
     {
       "id": "https://blog.jim-nielsen.com/2026/have-you-tried-your-agent/",
       "title": "Have You Tried Using Your Agent?",
