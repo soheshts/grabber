@@ -1,9 +1,51 @@
 {
   "category": "World News",
-  "updated": "2026-11-26T09:03:52.548351+00:00",
+  "updated": "2026-11-26T09:33:06.906410+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo#0",
+      "title": "Musk's plan to send a million SpaceX data satellites into space approved",
+      "published": "2026-11-26T09:27:44+00:00",
+      "author": null,
+      "description": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
+      "link": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5383/live/4c315c90-e968-11f1-a094-5fdc692f3e33.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/26/world/asia/japan-china-takaichi-snubbed.html",
+      "title": "Was Japan Prime Minister Takaichi Snubbed at China’s Big Summit?",
+      "published": "2026-11-26T09:14:29+00:00",
+      "author": "Javier C. Hernández and Pablo Robles",
+      "description": "Images show the differences between the welcomes afforded to Sanae Takaichi and other world leaders in Shenzhen, as some officials in Japan cry foul.",
+      "link": "https://www.nytimes.com/2026/11/26/world/asia/japan-china-takaichi-snubbed.html",
+      "image": "https://static01.nyt.com/images/2026/11/26/multimedia/2026-11-24-apec-greeting-index/2026-11-24-apec-greeting-index-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/26/world/asia/hong-kong-fire-wang-fuk-court-anniversary.html",
+      "title": "Hong Kong Grieves Fire Victims Under Watchful Eye of Authorities",
+      "published": "2026-11-26T09:06:03+00:00",
+      "author": "Anjali Tsui",
+      "description": "The city’s residents quietly mourned the 168 lives lost in a high-rise complex blaze a year ago, as officials warned against using the disaster to sow division.",
+      "link": "https://www.nytimes.com/2026/11/26/world/asia/hong-kong-fire-wang-fuk-court-anniversary.html",
+      "image": "https://static01.nyt.com/images/2026/11/26/multimedia/26int-hongkong-fire-anniversary-01-fmwk/26int-hongkong-fire-anniversary-01-fmwk-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "108559693",
       "title": "Norse Atlantic suspends all flights, warns it may file for bankruptcy after share price collapse",
@@ -19,18 +61,18 @@
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
     },
     {
-      "id": "https://www.nytimes.com/2026/11/26/world/asia/hong-kong-fire-wang-fuk-court-anniversary.html",
-      "title": "Hong Kong Grieves Fire Victims Under Watchful Eye of Authorities",
-      "published": "2026-11-26T08:58:35+00:00",
-      "author": "Anjali Tsui",
-      "description": "The city’s residents quietly mourned the 168 lives lost in a high-rise complex blaze a year ago, as officials warned against using the disaster to sow division.",
-      "link": "https://www.nytimes.com/2026/11/26/world/asia/hong-kong-fire-wang-fuk-court-anniversary.html",
-      "image": "https://static01.nyt.com/images/2026/11/26/multimedia/26int-hongkong-fire-anniversary-01-fmwk/26int-hongkong-fire-anniversary-01-fmwk-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
+      "id": "https://timesofindia.indiatimes.com/business/international-business/nvidia-halts-server-shipments-to-4-southeast-asian-countries-amid-chip-scandal-china-not-on-list-report/articleshow/136185184.cms",
+      "title": "Nvidia halts server shipments to 4 Southeast Asian countries amid chip scandal; China not on list: Report",
+      "published": "2026-11-26T09:02:15+00:00",
+      "author": "Ayush Pandey",
+      "description": "",
+      "link": "https://timesofindia.indiatimes.com/business/international-business/nvidia-halts-server-shipments-to-4-southeast-asian-countries-amid-chip-scandal-china-not-on-list-report/articleshow/136185184.cms",
+      "image": "https://static.toiimg.com/photo/msid-136185281,imgsize-91024.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
       "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/us-streamers/why-did-kai-cenat-launch-a-separate-gaming-channel-streamer-explains-his-plans-beyond-livestreaming/articleshow/136184875.cms",
@@ -275,7 +317,7 @@
       "title": "FedEx plane overshoots Miami runway, causing brief suspension of flights at airport",
       "published": "2026-11-26T07:34:47+00:00",
       "author": null,
-      "description": "The brief ground stop came on the eve of the US Thanksgiving holiday, one of the busiest travel days of the year.",
+      "description": "The brief stoppage came on the eve of the US Thanksgiving holiday, one of the busiest travel days of the year.",
       "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a780/live/1db9c0f0-e959-11f1-99b6-a35a62fa4264.jpg",
       "feed_name": "BBC News - World",
@@ -353,20 +395,6 @@
       "category": "World News",
       "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/26/world/asia/japan-china-takaichi-snubbed.html",
-      "title": "Was Japan Prime Minister Takaichi Snubbed at China’s Big Summit?",
-      "published": "2026-11-26T07:14:18+00:00",
-      "author": "Javier C. Hernández and Pablo Robles",
-      "description": "Images show the differences between the welcomes afforded to Sanae Takaichi and other world leaders in Shenzhen, as some officials in Japan cry foul.",
-      "link": "https://www.nytimes.com/2026/11/26/world/asia/japan-china-takaichi-snubbed.html",
-      "image": "https://static01.nyt.com/images/2026/11/26/multimedia/2026-11-24-apec-greeting-index/2026-11-24-apec-greeting-index-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/us/nine-relatives-inherited-a-49-acre-family-property-in-north-carolina-but-one-sought-its-sale-now-a-950000-deal-threatens-to-displace-family-members-who-say-the-land-holds-generations-of-memories/articleshow/136182075.cms",
@@ -1431,20 +1459,6 @@
       "category": "World News",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo#0",
-      "title": "US approves SpaceX plan to send a million data satellites to space",
-      "published": "2026-11-26T00:07:51+00:00",
-      "author": null,
-      "description": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
-      "link": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5383/live/4c315c90-e968-11f1-a094-5fdc692f3e33.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "https://www.ndtv.com/world-news/new-york-thanksgiving-day-parade-postponed-over-storm-for-1st-time-in-100-years-12378016#publisher=newsstand",
@@ -13989,20 +14003,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.ndtv.com/world-news/israel-government-formation-news-gadi-eisenkot-invites-benjamin-netanyahu-for-talks-to-form-new-israeli-government-12360569#publisher=newsstand",
-      "title": "Gadi Eisenkot Invites Netanyahu For Talks To Form New Israeli Government",
-      "published": "2026-11-22T01:51:13+00:00",
-      "author": null,
-      "description": "Saturday's announcement comes as Eisenkot's wide-ranging camp faces divisions",
-      "link": "https://www.ndtv.com/world-news/israel-government-formation-news-gadi-eisenkot-invites-benjamin-netanyahu-for-talks-to-form-new-israeli-government-12360569#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-11/ug7moovs_israel_625x300_22_November_26.jpeg",
-      "feed_name": "NDTV News - World-news",
-      "feed_title": "NDTV News Search Records Found 1000",
-      "category": "World News",
-      "feed_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-      "feed_icon": "https://cdn.ndtv.com/ui/ndtvcom/static/images/ndtv-logo-new.png"
     }
   ]
 }
