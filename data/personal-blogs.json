@@ -1,9 +1,23 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-26T08:33:29.159985+00:00",
+  "updated": "2026-11-26T09:03:52.548351+00:00",
   "count": 455,
   "summary": null,
   "items": [
+    {
+      "id": "https://dariuszwinkler.com/photo/0204/",
+      "title": "#0204",
+      "published": "2026-11-26T09:59:13+00:00",
+      "author": "Dariusz Winkler",
+      "description": "A person wearing an apron is standing at the end of a dark alley. The person is illuminated by the light coming from an open door. A big 'END' sign is visible on the back wall.",
+      "link": "https://dariuszwinkler.com/photo/0204/",
+      "image": "https://dariuszwinkler.com/photo/0204/0204-small.webp",
+      "feed_name": "Darek Kay",
+      "feed_title": "Dariusz Winkler",
+      "category": "personal blogs",
+      "feed_url": "https://darekkay.com/atom.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=dariuszwinkler.com&sz=64"
+    },
     {
       "id": "https://www.amitmerchant.com/what-phps-session-handler-teaches-us-about-atomicity",
       "title": "What PHP’s Session Handler Teaches Us About Atomicity",
@@ -5645,20 +5659,6 @@
       "category": "personal blogs",
       "feed_url": "http://www.effortmark.co.uk/feed/",
       "feed_icon": "https://www.effortmark.co.uk/wp-content/uploads/2019/04/cropped-Effortmark-Logo-Favicon-32x32.jpg"
-    },
-    {
-      "id": "https://www.silvestar.codes/articles/chrome-theme-cita/",
-      "title": "Chrome Theme CiTA",
-      "published": "2026-10-27T09:00:00+00:00",
-      "author": "s (Silvestar Bistrović",
-      "description": "After the VS Code theme, I built a Chrome theme based on my website colors. I built light and dark versions, so you can choose the one that suits you better.",
-      "link": "https://www.silvestar.codes/articles/chrome-theme-cita/",
-      "image": "https://www.silvestar.codes/og.png?text=Chrome+Theme+CiTA",
-      "feed_name": "Blog of fearless web developer Silvestar Bistrović",
-      "feed_title": "Blog of fearless web developer Silvestar Bistrović",
-      "category": "personal blogs",
-      "feed_url": "https://www.silvestar.codes/rss.xml",
-      "feed_icon": "https://www.silvestar.codes/android-chrome-512x512.png"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
