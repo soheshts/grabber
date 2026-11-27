@@ -1,9 +1,79 @@
 {
   "category": "World News",
-  "updated": "2026-11-27T17:33:08.337705+00:00",
+  "updated": "2026-11-27T18:03:00.886647+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo#0",
+      "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+      "published": "2026-11-27T18:00:40+00:00",
+      "author": null,
+      "description": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
+      "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdee/live/21e805d0-ea60-11f1-99b6-a35a62fa4264.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "108559923",
+      "title": "SpaceX shares jump over 3% amid tech rally and after Musk says he will expand on Trump Account share donations",
+      "published": "2026-11-27T17:50:22+00:00",
+      "author": null,
+      "description": "SpaceX shares jumped in Friday trading after Elon Musk said on X that he would donate shares to American children every year.",
+      "link": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108433898-1792439982335-gettyimages-2299248528-wm020115_ej7axcme.jpeg?v=1792440027&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/27/world/europe/marijuana-farm-spain-playground.html",
+      "title": "Spanish Police Find a Vast Marijuana Bunker Beneath a Backyard Playground",
+      "published": "2026-11-27T17:45:33+00:00",
+      "author": "Jonathan Wolfe",
+      "description": "Five people were arrested in southern Spain after a large marijuana farm was found under a playhouse on artificial turf.",
+      "link": "https://www.nytimes.com/2026/11/27/world/europe/marijuana-farm-spain-playground.html",
+      "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27xp-cannabis-03/27xp-cannabis-03-mediumSquareAt3X.png",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/real-estate/in-1947-architect-john-lautner-designed-a-hollywood-hills-home-with-a-roof-supported-by-a-three-point-steel-structure-the-preserved-two-bedroom-polin-house-is-now-listed-for-2-85-million/articleshow/136227502.cms",
+      "title": "In 1947, architect John Lautner designed a Hollywood Hills home with a roof supported by a three-point steel structure; the preserved two-bedroom Polin House is now listed for $2.85 million",
+      "published": "2026-11-27T17:41:54+00:00",
+      "author": "TOI World Desk",
+      "description": "Renowned architect John Lautner's striking house from 1947 has hit the market, offering a distinctive two-bedroom, two-bathroom experience in the vibrant Hollywood Hills. Spanning 1,342 square feet and priced at $2,850,000, this home features a groundbreaking steel roof truss design that provides an uninterrupted interior space. With outdoor terraces enhancing the living area, this listing is a rare chance to own a piece of architectural history.",
+      "link": "https://timesofindia.indiatimes.com/real-estate/in-1947-architect-john-lautner-designed-a-hollywood-hills-home-with-a-roof-supported-by-a-three-point-steel-structure-the-preserved-two-bedroom-polin-house-is-now-listed-for-2-85-million/articleshow/136227502.cms",
+      "image": "https://static.toiimg.com/photo/msid-136230238,imgsize-1825129.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/27/world/canada/canada-supreme-court-quebec-religion-bill-21.html",
+      "title": "Canada’s Top Court Lets Quebec Use Controversial Measure for Secularism Law",
+      "published": "2026-11-27T17:37:15+00:00",
+      "author": "Norimitsu Onishi",
+      "description": "Quebec had used the measure to pass a law barring certain public workers, like schoolteachers and police officers, from wearing religious symbols on duty, which critics called discriminatory.",
+      "link": "https://www.nytimes.com/2026/11/27/world/canada/canada-supreme-court-quebec-religion-bill-21.html",
+      "image": "https://static01.nyt.com/images/2026/11/27/world/27canada-quebec-34567/27canada-quebec-34567-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo#0",
       "title": "Kenyan doomsday cult leader convicted over further 123 deaths",
@@ -45,20 +115,6 @@
       "category": "World News",
       "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/27/world/canada/canada-supreme-court-quebec-religion-bill-21.html",
-      "title": "Canada’s Top Court Lets Quebec Use Controversial Measure for Secularism Law",
-      "published": "2026-11-27T16:39:54+00:00",
-      "author": "Norimitsu Onishi",
-      "description": "Quebec had used the measure to pass a law barring certain public workers, like schoolteachers and police officers, from wearing religious symbols on duty, which critics called discriminatory.",
-      "link": "https://www.nytimes.com/2026/11/27/world/canada/canada-supreme-court-quebec-religion-bill-21.html",
-      "image": "https://static01.nyt.com/images/2026/11/27/world/27canada-quebec-34567/27canada-quebec-34567-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://www.nytimes.com/video/world/europe/100000010915175/why-russia-is-erasing-stalins-crimes.html",
@@ -789,20 +845,6 @@
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
-      "id": "108559923",
-      "title": "SpaceX shares jump 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
-      "published": "2026-11-27T10:20:39+00:00",
-      "author": null,
-      "description": "SpaceX shares jumped in premarket trading after Elon Musk said on X that he would donate shares to American children every year.",
-      "link": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108433898-1792439982335-gettyimages-2299248528-wm020115_ej7axcme.jpeg?v=1792440027&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
       "id": "https://timesofindia.indiatimes.com/world/us/florida-man-sentenced-to-47-months-in-prison-for-using-ai-to-clone-streamer-n3ons-voice-and-steal-260000-in-cryptocurrency-from-a-meme-coin-project/articleshow/136212341.cms",
       "title": "Florida man jailed 47 months for AI-cloning N3on's voice in $260K crypto theft",
       "published": "2026-11-27T10:20:00+00:00",
@@ -955,20 +997,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo#0",
-      "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
-      "published": "2026-11-27T09:07:48+00:00",
-      "author": null,
-      "description": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
-      "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdee/live/21e805d0-ea60-11f1-99b6-a35a62fa4264.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cm879e5yxjq5o#1",
@@ -13975,34 +14003,6 @@
       "category": "World News",
       "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/china/chinese-official-sentenced-to-death-for-leaking-100-intelligence-reports-including-35-state-secrets/articleshow/136102986.cms",
-      "title": "China sentences official to death for espionage",
-      "published": "2026-11-23T13:07:03+00:00",
-      "author": "Karan Manral",
-      "description": "",
-      "link": "https://timesofindia.indiatimes.com/world/china/chinese-official-sentenced-to-death-for-leaking-100-intelligence-reports-including-35-state-secrets/articleshow/136102986.cms",
-      "image": "https://static.toiimg.com/photo/msid-136104000,imgsize-56666.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/us/time-to-quit-former-chief-of-staff-calls-on-pete-hegseth-to-step-down-slams-pentagon-leadership/articleshow/136103741.cms",
-      "title": "'Time to quit': Former chief of staff calls on Pete Hegseth to step down, slams Pentagon leadership",
-      "published": "2026-11-23T13:04:34+00:00",
-      "author": "Gokul Ankari",
-      "description": "",
-      "link": "https://timesofindia.indiatimes.com/world/us/time-to-quit-former-chief-of-staff-calls-on-pete-hegseth-to-step-down-slams-pentagon-leadership/articleshow/136103741.cms",
-      "image": "https://static.toiimg.com/photo/msid-136103937,imgsize-1556049.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     }
   ]
 }
