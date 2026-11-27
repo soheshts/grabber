@@ -1,9 +1,23 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-27T20:03:00.382405+00:00",
-  "count": 449,
+  "updated": "2026-11-27T20:32:39.669439+00:00",
+  "count": 450,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.bennadel.com/blog/4936-custom-tag-attributecollection-corruption-in-adobe-coldfusion-2025.htm",
+      "title": "Custom Tag AttributeCollection Corruption In Adobe ColdFusion 2025",
+      "published": "2026-11-28T01:21:42+00:00",
+      "author": null,
+      "description": "Ben Nadel demonstrates a bug in Adobe ColdFusion wherein mutations made to the attributes scope can leak data into the calling context....",
+      "link": "https://www.bennadel.com/blog/4936-custom-tag-attributecollection-corruption-in-adobe-coldfusion-2025.htm",
+      "image": "https://bennadel-cdn.com/resources/uploads/2026/attributes-collection-mutation-leak-coldfusion@2x.png",
+      "feed_name": "Ben Nadel",
+      "feed_title": "Ben Nadel's Web Development and User Experience Feed @ BenNadel.com",
+      "category": "personal blogs",
+      "feed_url": "http://www.bennadel.com/index.cfm?dax=blog.rss&lst_tag_id=14,16,3,5,9,6,7,13,18,20,10,15",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.bennadel.com&sz=64"
+    },
     {
       "id": "https://adactio.com/journal/22852",
       "title": "Eat The Ones You Love by Sarah Maria Griffin",
