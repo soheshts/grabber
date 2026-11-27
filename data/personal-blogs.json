@@ -1,9 +1,37 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-27T11:02:59.776756+00:00",
-  "count": 448,
+  "updated": "2026-11-27T11:33:40.040318+00:00",
+  "count": 451,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.baldurbjarnason.com/2026/black-friday-2026/",
+      "title": "Black Friday sale!",
+      "published": "2026-11-27T11:15:00+00:00",
+      "author": "Baldur Bjarnason",
+      "description": "For this Black Friday I’m offering a 50% discount on my books, the premium newsletter, and the bundle that includes all of both. For those of us who are making a living selling books and the like, this sale is the most important one of the year. Today’s sales are what pays for much of our bills. So, I would really appreciate it if you could spread the word where you can, not just about my sale, but the sales of others whose writing you like and want to see more of. For many, this is the make-or…",
+      "link": "https://www.baldurbjarnason.com/2026/black-friday-2026/",
+      "image": "https://www.baldurbjarnason.com/img/QuNgUC3TDv-1920.jpeg",
+      "feed_name": "Baldur Bjarnason's Notes on the Web",
+      "feed_title": "Baldur Bjarnason's Notes on the Web",
+      "category": "personal blogs",
+      "feed_url": "https://feedpress.me/baldurbjarnason",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.baldurbjarnason.com&sz=64"
+    },
+    {
+      "id": "https://rknight.me/blog/weeknote-2028/",
+      "title": "Weeknote #2028",
+      "published": "2026-11-27T11:01:58+00:00",
+      "author": "Robb Knight",
+      "description": "All GTA, all the time. Maybe some other links.",
+      "link": "https://rknight.me/blog/weeknote-2028/",
+      "image": "https://cdn.rknight.me/site/2026/gta-lucia-in-cafe-bw.jpg",
+      "feed_name": "Robb Knight • Posts • Atom Feed",
+      "feed_title": "Robb Knight • Posts • Atom Feed",
+      "category": "personal blogs",
+      "feed_url": "https://rknight.me/feed.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=rknight.me&sz=64"
+    },
     {
       "id": "https://swyx.io/a-design-audit-of-an-ai-built-github-clone",
       "title": "A design audit of an AI-built GitHub clone",
@@ -17,6 +45,20 @@
       "category": "personal blogs",
       "feed_url": "https://www.swyx.io/rss.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=swyx.io&sz=64"
+    },
+    {
+      "id": "https://www.amitmerchant.com/taking-request-cancellation-beyond-the-browser",
+      "title": "Taking Request Cancellation Beyond the Browser",
+      "published": "2026-11-27T00:00:00+00:00",
+      "author": "Amit Merchant",
+      "description": "Imagine opening a dashboard that generates a fairly detailed analytics report. You click a button, the application starts fetching data from a couple of APIs, and then you realise you don’t need the report anymore. So, you close the tab and move on.",
+      "link": "https://www.amitmerchant.com/taking-request-cancellation-beyond-the-browser/",
+      "image": "https://www.amitmerchant.com/cdn/taking-request-cancellation-beyond-the-browser.png",
+      "feed_name": "Amit Merchant",
+      "feed_title": "Amit Merchant",
+      "category": "personal blogs",
+      "feed_url": "https://www.amitmerchant.com/feed.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.amitmerchant.com&sz=64"
     },
     {
       "id": "https://shkspr.mobi/blog/?p=77777",

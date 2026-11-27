@@ -1,6 +1,6 @@
 {
   "category": "science",
-  "updated": "2026-11-27T11:02:59.776756+00:00",
+  "updated": "2026-11-27T11:33:40.040318+00:00",
   "count": 1000,
   "summary": null,
   "items": [
@@ -17,6 +17,20 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
+      "id": "aa97df18-e8e4-11f1-890d-479294f20253",
+      "title": "ENCORE: Do you actually need more protein? What the science says",
+      "published": "2026-11-27T10:50:00+00:00",
+      "author": "Scientific American",
+      "description": "Protein is having a major moment, showing up in everything from snack foods to coffee drinks—but do we actually need more of it? In this episode of Science Quickly, Rachel Feltman speaks with science journalist Bethany Brookshire about what has happened with the rise of the protein craze, how much protein people really need and why most of us are already getting plenty. They explore where the trend came from, what the science says about daily intake and how there are potential downsides to focu…",
+      "link": null,
+      "image": null,
+      "feed_name": "60-Second Science",
+      "feed_title": "60-Second Science",
+      "category": "science",
+      "feed_url": "http://rss.sciam.com/sciam/60secsciencepodcast",
+      "feed_icon": "https://megaphone-images.spotifycdn.com/podcasts/9e578524-a403-11ee-a6cf-cbcdcc0e11fb/image/ec5ff1c72de2a19d67bc6425661674b1.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
     },
     {
       "id": "https://www.nytimes.com/2026/11/27/science/homo-erectus-early-humans-china-rainforests.html",
@@ -13989,20 +14003,6 @@
       "category": "science",
       "feed_url": "http://rss.sciam.com/ScientificAmerican-Global",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.scientificamerican.com&sz=64"
-    },
-    {
-      "id": "eec42cd0-e2ba-11f1-8821-3b63756d1308",
-      "title": "We started a book club. Naturally, we picked a book on fungi",
-      "published": "2026-11-18T10:50:00+00:00",
-      "author": "Scientific American",
-      "description": "In the debut episode of our new book club, we dive into Entangled Life, by Merlin Sheldrake, a fascinating exploration of the hidden world of fungi. Join us as we discuss mushroom intelligence, underground fungal networks that connect plants, fungi with more than 23,000 mating types and the surprising role a ”pretty golden mold” played in making penicillin widely available. Recommended Reading: Entangled Life. Merlin Sheldrake. Random House, 2020 See the hidden fungal network so big it could st…",
-      "link": null,
-      "image": null,
-      "feed_name": "60-Second Science",
-      "feed_title": "60-Second Science",
-      "category": "science",
-      "feed_url": "http://rss.sciam.com/sciam/60secsciencepodcast",
-      "feed_icon": "https://megaphone-images.spotifycdn.com/podcasts/9e578524-a403-11ee-a6cf-cbcdcc0e11fb/image/ec5ff1c72de2a19d67bc6425661674b1.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
     }
   ]
 }
