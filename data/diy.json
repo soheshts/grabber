@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-27T19:32:44.632577+00:00",
+  "updated": "2026-11-27T20:03:00.382405+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.howtogeek.com/google-pixel-apps-i-uninstall-within-minutes-of-unboxing/",
+      "title": "4 Google Pixel apps I uninstall within minutes of unboxing",
+      "published": "2026-11-27T20:00:15+00:00",
+      "author": "Sanya Shah",
+      "description": "Because I need less cluttered phone",
+      "link": "https://www.howtogeek.com/google-pixel-apps-i-uninstall-within-minutes-of-unboxing/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/uninstall-journal.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/best-new-open-source-apps/",
       "title": "5 new open-source apps worth making room for this weekend",
@@ -31,6 +45,20 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://hackaday.com/?p=1430670",
+      "title": "PS3 Boomerang Controller Concept Flies Back Into Your Hands",
+      "published": "2026-11-27T19:30:15+00:00",
+      "author": "Tyler August",
+      "description": "Think back long ago, to the halcyon days of 2005 — those of you who were alive and cognizant in those days, that is — specifically to E3 that year. …read more",
+      "link": "https://hackaday.com/2026/11/27/ps3-boomerang-controller-concept-flies-back-into-your-hands/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/PS3-boomerang1.jpg",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
     },
     {
       "id": "https://www.howtogeek.com/tapos-2k-outdoor-camera-is-its-lowest-price-ever-at-5499/",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/fix-windows-11-budget-laptop-stuttering/",
-      "title": "Three Windows 11 changes made my budget laptop stop stuttering",
-      "published": "2026-11-14T09:30:16+00:00",
-      "author": "Digvijay Kumar",
-      "description": "Windows 11 runs features your budget laptop can’t afford.",
-      "link": "https://www.makeuseof.com/fix-windows-11-budget-laptop-stuttering/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/asus-laptop-with-transparency-effects-disabled-1.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://hackaday.com/?p=1425388",
-      "title": "Making CO₂ Sensors Fail Visibly, Not Silently",
-      "published": "2026-11-14T09:00:43+00:00",
-      "author": "Donald Papp",
-      "description": "CO₂ buildup in a living area can be a serious problem, and a sensor that fails quietly cannot be relied upon. [William Collis] addressed this important issue by creating CO₂ monitors …read more",
-      "link": "https://hackaday.com/2026/11/14/making-co%e2%82%82-sensors-fail-visibly-not-silently/",
-      "image": "https://hackaday.com/wp-content/uploads/2026/11/CO2-sensors.png",
-      "feed_name": "Blog – Hackaday",
-      "feed_title": "Blog – Hackaday",
-      "category": "DIY",
-      "feed_url": "https://hackaday.com/blog/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
     }
   ]
 }

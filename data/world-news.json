@@ -1,9 +1,37 @@
 {
   "category": "World News",
-  "updated": "2026-11-27T19:32:44.632577+00:00",
+  "updated": "2026-11-27T20:03:00.382405+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/11/27/world/canada/canada-supreme-court-quebec-religion-bill-21.html",
+      "title": "Canada’s Top Court Lets Quebec Use Controversial Measure for Secularism Law",
+      "published": "2026-11-27T19:31:28+00:00",
+      "author": "Norimitsu Onishi",
+      "description": "Quebec had used the measure to pass a law barring certain public workers, like schoolteachers and police officers, from wearing religious symbols on duty, which critics called discriminatory.",
+      "link": "https://www.nytimes.com/2026/11/27/world/canada/canada-supreme-court-quebec-religion-bill-21.html",
+      "image": "https://static01.nyt.com/images/2026/11/27/world/27canada-quebec-34567/27canada-quebec-34567-mediumSquareAt3X.jpg",
+      "feed_name": "NYT",
+      "feed_title": "NYT > World News",
+      "category": "World News",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/us/meet-ethan-vitus-the-9-year-old-who-found-a-granola-recipe-in-his-school-library-cookbook-at-7-and-turned-it-into-a-business-now-selling-at-a-local-grocery-store/articleshow/136099641.cms",
+      "title": "How a 9-year-old turned a library cookbook recipe into a growing business",
+      "published": "2026-11-27T19:30:00+00:00",
+      "author": "TOI World Desk",
+      "description": "",
+      "link": "https://timesofindia.indiatimes.com/world/us/meet-ethan-vitus-the-9-year-old-who-found-a-granola-recipe-in-his-school-library-cookbook-at-7-and-turned-it-into-a-business-now-selling-at-a-local-grocery-store/articleshow/136099641.cms",
+      "image": "https://static.toiimg.com/photo/msid-136100025,imgsize-1092022.cms",
+      "feed_name": "Times of India",
+      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "category": "World News",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
+    },
     {
       "id": "https://timesofindia.indiatimes.com/world/rest-of-world/canadas-supreme-court-largely-upholds-quebecs-2019-law-banning-certain-public-workers-from-wearing-religious-symbols-at-work-including-sikh-turbans-muslim-hijabs-and-christian-crosses/articleshow/136232101.cms",
       "title": "Canada's top court upholds Quebec's religious symbols ban for public sector workers",
@@ -227,20 +255,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/27/world/canada/canada-supreme-court-quebec-religion-bill-21.html",
-      "title": "Canada’s Top Court Lets Quebec Use Controversial Measure for Secularism Law",
-      "published": "2026-11-27T17:37:15+00:00",
-      "author": "Norimitsu Onishi",
-      "description": "Quebec had used the measure to pass a law barring certain public workers, like schoolteachers and police officers, from wearing religious symbols on duty, which critics called discriminatory.",
-      "link": "https://www.nytimes.com/2026/11/27/world/canada/canada-supreme-court-quebec-religion-bill-21.html",
-      "image": "https://static01.nyt.com/images/2026/11/27/world/27canada-quebec-34567/27canada-quebec-34567-mediumSquareAt3X.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo#0",
@@ -13978,20 +13992,6 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cwx2ervemj4ko#0",
-      "title": "India pledges $1.6bn to Nepal in reset of ties",
-      "published": "2026-11-23T13:39:30+00:00",
-      "author": null,
-      "description": "As Nepal rebuilds after deadly floods, its prime minister sets contentious issues aside to secure Indian funding, port access and a new train service.",
-      "link": "https://www.bbc.co.uk/news/articles/cwx2ervemj4ko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25f9/live/8fa3a390-e71d-11f1-914b-6d226d813a52.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwx2ervemj4ko#1",
       "title": "India pledges $1.6bn to Nepal in reset of ties",
       "published": "2026-11-23T13:39:30+00:00",
       "author": null,
