@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-27T23:03:10.400842+00:00",
+  "updated": "2026-11-27T23:33:47.932747+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.howtogeek.com/things-you-never-knew-were-possible-with-home-assistant/",
+      "title": "5 things you never knew were possible with Home Assistant",
+      "published": "2026-11-27T23:30:15+00:00",
+      "author": "Adam Davidson",
+      "description": "There's no place like Home Assistant.",
+      "link": "https://www.howtogeek.com/things-you-never-knew-were-possible-with-home-assistant/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2025/12/a-rasbperry-pi-in-an-official-raspberry-pi-case-next-to-a-home-assistant-sticker.png",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/nvidia-added-official-way-bring-dlss-5-old-games-not-always-best-option/",
       "title": "Nvidia added an official way to bring DLSS 5 to old games, but it's not always the best option",
@@ -13989,20 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.makeuseof.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/resin-3d-printing-safer-easier/",
-      "title": "Resin 3D printing just got safer and easier to deal with",
-      "published": "2026-11-14T15:01:15+00:00",
-      "author": "Tim Brookes",
-      "description": "And it doesn't cost the earth to get started either.",
-      "link": "https://www.howtogeek.com/resin-3d-printing-safer-easier/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/11/formlabs-form-studio-1-on-a-table.png",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
     }
   ]
 }
