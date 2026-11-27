@@ -1,15 +1,29 @@
 {
   "category": "science",
-  "updated": "2026-11-27T00:33:34.377599+00:00",
+  "updated": "2026-11-27T01:02:53.131107+00:00",
   "count": 1000,
   "summary": null,
   "items": [
     {
+      "id": "news714906882",
+      "title": "Digital access to early music",
+      "published": "2026-11-27T01:00:01+00:00",
+      "author": null,
+      "description": "What may look to modern readers like a form of secret code in fact opens the door to a fascinating world of historical music: German lute tablature. Developed specifically for the Renaissance lute, this rich notational tradition preserves dances, songs and other musical works that were immensely popular some 500 years ago. As part of an interdisciplinary team of experts, researchers at the University of Bayreuth are now making these sources readable and audible once again through a digital scho…",
+      "link": "https://phys.org/news/2026-11-digital-access-early-music.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/digital-access-to-earl.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o#0",
       "title": "Major Thanksgiving storm brings flooding, flight delays across US",
-      "published": "2026-11-27T00:29:48+00:00",
+      "published": "2026-11-27T00:52:11+00:00",
       "author": null,
-      "description": "Massive storms are descending on both US coasts, with wind gusts, heavy rain, downed trees, and power outages for hundreds of thousands of customers.",
+      "description": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding.",
       "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af5b/live/7a140030-e9f0-11f1-99b6-a35a62fa4264.jpg",
       "feed_name": "BBC News - Science & Environment",
@@ -13989,20 +14003,6 @@
       "category": "science",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c63rgqg5l9l2o#0",
-      "title": "Government risks missing climate targets if EV rules weakened, adviser warns",
-      "published": "2026-11-18T00:44:48+00:00",
-      "author": null,
-      "description": "The UK could miss legally binding climate targets if EV targets are cut, an adviser warns",
-      "link": "https://www.bbc.co.uk/news/articles/c63rgqg5l9l2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36bf/live/43e4a6f0-e29c-11f1-8dda-8925a81c3da5.jpg",
-      "feed_name": "BBC News - Science & Environment",
-      "feed_title": "BBC News",
-      "category": "science",
-      "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     }
   ]
 }
