@@ -1,9 +1,23 @@
 {
   "category": "travel",
-  "updated": "2026-11-27T10:02:57.378545+00:00",
-  "count": 194,
+  "updated": "2026-11-27T10:32:56.244911+00:00",
+  "count": 195,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/11/27/travel/48-hours-in-tokyo-with-an-airline-pilot.html",
+      "title": "48 Hours in Tokyo With an Airline Pilot",
+      "published": "2026-11-27T10:00:33+00:00",
+      "author": "Mark Vanhoenacker and Noriko Hayashi",
+      "description": "A Boeing 787 pilot visits some favorite restaurants, a Snoopy museum and a tranquil shrine.",
+      "link": "https://www.nytimes.com/2026/11/27/travel/48-hours-in-tokyo-with-an-airline-pilot.html",
+      "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27Trav-tokyo-layover-06-tmcp/27Trav-tokyo-layover-06-tmcp-mediumSquareAt3X.jpg",
+      "feed_name": "NYT > Travel",
+      "feed_title": "NYT > Travel",
+      "category": "travel",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "https://www.theguardian.com/travel/2026/nov/27/readers-favourite-national-parks-europe",
       "title": "‘Take any path and it’s beautiful’: readers’ favourite national and regional parks in Europe",

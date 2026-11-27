@@ -1,9 +1,23 @@
 {
   "category": "technology",
-  "updated": "2026-11-27T10:02:57.378545+00:00",
+  "updated": "2026-11-27T10:32:56.244911+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.theverge.com/?p=1040292",
+      "title": "Our favorite headphones and earbuds are cheaper than ever ahead of Black Friday",
+      "published": "2026-11-27T10:30:00+00:00",
+      "author": "Cameron Faulkner",
+      "description": "If you haven’t already caved and bought a fresh set of wireless earbuds, over-ear headphones, or bone conduction headphones this year, Black Friday is rewarding you with a colossal amount of deals, including discounts on the best models available. Apple, Beats, Soundcore, Sony, Nothing, and other major brands are offering some of the best prices […]",
+      "link": "https://www.theverge.com/gadgets/1040292/best-black-friday-headphone-earbud-deals-2026",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268739_Apple_Watch_Ultra_4_AKrales_0087.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "feed_name": "The Verge -  All Posts",
+      "feed_title": "The Verge",
+      "category": "technology",
+      "feed_url": "https://www.theverge.com/rss/index.xml",
+      "feed_icon": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1"
+    },
     {
       "id": "TheNextWeb=8e13c36ba8872ec014d667779df8a5c5",
       "title": "UK benefits department hit by cyber incident, takes services offline",
@@ -13989,20 +14003,6 @@
       "category": "technology",
       "feed_url": "https://www.engadget.com/rss.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.engadget.com&sz=64"
-    },
-    {
-      "id": "https://it.slashdot.org/story/26/11/22/0625233/python-devs-document-de-fanging-dangerous-triggers-in-github-actions?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "title": "Python Devs Document 'De-fanging Dangerous Triggers In GitHub Actions'",
-      "published": "2026-11-22T16:34:00+00:00",
-      "author": "EditorDavid",
-      "description": "\"A handful of GitHub Actions triggers let a stranger on the internet start a workflow that may have access to your secrets,\" warn two security developers at the Python Software Foundation. Have dangerous triggers caused real incidents? Yes, repeatedly... The maintainers behind these projects weren't careless. These triggers look harmless in a workflow file, and the unsafe version is one line away from the safe one... When someone opens a pull request from a fork, the pull_request trigger runs t…",
-      "link": "https://it.slashdot.org/story/26/11/22/0625233/python-devs-document-de-fanging-dangerous-triggers-in-github-actions?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "image": "https://a.fsdn.com/sd/twitter_icon_large.png",
-      "feed_name": "Slashdot",
-      "feed_title": "Slashdot",
-      "category": "technology",
-      "feed_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=slashdot.org&sz=64"
     }
   ]
 }
