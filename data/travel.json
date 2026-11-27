@@ -1,9 +1,23 @@
 {
   "category": "travel",
-  "updated": "2026-11-27T05:02:55.162785+00:00",
+  "updated": "2026-11-27T05:32:37.384137+00:00",
   "count": 194,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.nytimes.com/2026/11/25/style/nyc-holiday-store-windows.html",
+      "title": "Visual Tour of NYC’s Holiday Store Windows: Macy’s, Saks and More",
+      "published": "2026-11-27T05:14:55+00:00",
+      "author": "Sarah Bahr and Hiroko Masuike",
+      "description": "A 50-pound hippopotamus and a bedazzled seven-foot polar bear are among the standouts of this year’s handcrafted department-store displays.",
+      "link": "https://www.nytimes.com/2026/11/25/style/nyc-holiday-store-windows.html",
+      "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25ST-HOLIDAYWINDOWS-08-czfp/25ST-HOLIDAYWINDOWS-08-czfp-mediumSquareAt3X-v2.jpg",
+      "feed_name": "NYT > Travel",
+      "feed_title": "NYT > Travel",
+      "category": "travel",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
+      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
     {
       "id": "https://www.nytimes.com/2026/11/26/nyregion/macys-thanksgiving-day-parade-empty-streets.html",
       "title": "New Yorkers and Tourists Try to Salvage a Parade Day Postponed by Rain",
@@ -101,20 +115,6 @@
       "category": "travel",
       "feed_url": "https://www.atlasobscura.com/feeds/latest",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.atlasobscura.com&sz=64"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/25/style/nyc-holiday-store-windows.html",
-      "title": "Visual Tour of NYC’s Holiday Store Windows: Macy’s, Saks and More",
-      "published": "2026-11-25T15:08:00+00:00",
-      "author": "Sarah Bahr and Hiroko Masuike",
-      "description": "A 50-pound hippopotamus and a bedazzled seven-foot polar bear are among the standouts of this year’s handcrafted department-store displays.",
-      "link": "https://www.nytimes.com/2026/11/25/style/nyc-holiday-store-windows.html",
-      "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25ST-HOLIDAYWINDOWS-08-czfp/25ST-HOLIDAYWINDOWS-08-czfp-mediumSquareAt3X-v2.jpg",
-      "feed_name": "NYT > Travel",
-      "feed_title": "NYT > Travel",
-      "category": "travel",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     },
     {
       "id": "https://www.atlasobscura.com/places/beguinage-of-anderlecht",

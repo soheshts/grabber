@@ -1,9 +1,51 @@
 {
   "category": "World News",
-  "updated": "2026-11-27T05:02:55.162785+00:00",
+  "updated": "2026-11-27T05:32:37.384137+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "108559888",
+      "title": "China’s factories are growing profits again, but the AI boom is picking the winners",
+      "published": "2026-11-27T05:15:55+00:00",
+      "author": null,
+      "description": "China's economy has been running at two speeds, with AI-related manufacturing and exports powering growth while consumption, real estate investment lag.",
+      "link": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108363244-1789497965297-gettyimages-2293419464-vcg111663866789.jpeg?v=1789497999&w=1920&h=1080",
+      "feed_name": "CNBC",
+      "feed_title": "International: Top News And Analysis",
+      "category": "World News",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o#0",
+      "title": "Major Thanksgiving storm brings flooding, flight delays across US",
+      "published": "2026-11-27T05:15:26+00:00",
+      "author": null,
+      "description": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding.",
+      "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af5b/live/7a140030-e9f0-11f1-99b6-a35a62fa4264.jpg",
+      "feed_name": "BBC News - World",
+      "feed_title": "BBC News",
+      "category": "World News",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://www.theguardian.com/australia-news/2026/nov/27/alan-jones-trial-defence-open-and-close-ntwnfb",
+      "title": "Alan Jones defence opens and closes in space of a few hours as indecent assault trial draws to a close",
+      "published": "2026-11-27T05:02:40+00:00",
+      "author": "Amanda Meade",
+      "description": "Former broadcaster, 85, has pleaded not guilty to 21 counts of sexual touching and indecent assault Alan Jones’s defence in his indecent assault and sexual touching trial has lasted only a few hours, with closing submissions in the long-running case due next week. Jones’s barrister Gabrielle Bashir SC opened the defence case on Friday by stating “I am not calling the defendant”, ending months of speculation about whether the former broadcaster, 85, would give evidence. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/27/alan-jones-trial-defence-open-and-close-ntwnfb",
+      "image": null,
+      "feed_name": "The Guardian",
+      "feed_title": "World news | The Guardian",
+      "category": "World News",
+      "feed_url": "https://www.theguardian.com/world/rss",
+      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
+    },
     {
       "id": "https://www.nytimes.com/2026/11/27/world/asia/the-threat-to-a-sanctuary-for-children-of-north-korean-defectors.html",
       "title": "The Threat to a Sanctuary for Children of North Korean Defectors",
@@ -31,6 +73,20 @@
       "category": "World News",
       "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
       "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
+    },
+    {
+      "id": "https://www.theguardian.com/australia-news/2026/nov/27/raaf-pilot-robert-john-crawford-guilty-murder-wife-staged-as-lawn-mowing-accident-ntwnfb",
+      "title": "Former RAAF pilot convicted of murder after staging wife’s death as lawnmower accident",
+      "published": "2026-11-27T04:56:32+00:00",
+      "author": "Australian Associated Press",
+      "description": "Brisbane supreme court jury finds Robert John Crawford guilty of murder after he stood to lose financially in divorce settlement Get our breaking news email , free app or daily news podcast Former air force pilot Robert John Crawford has been found guilty of the murder of his wife after a jury accepted her death was staged as a fatal lawnmower accident. Gasps and sobs could be heard in Brisbane supreme court on Friday after the jury returned a guilty verdict after deliberating since 10am on Tue…",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/27/raaf-pilot-robert-john-crawford-guilty-murder-wife-staged-as-lawn-mowing-accident-ntwnfb",
+      "image": null,
+      "feed_name": "The Guardian",
+      "feed_title": "World news | The Guardian",
+      "category": "World News",
+      "feed_url": "https://www.theguardian.com/world/rss",
+      "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
     },
     {
       "id": "https://www.ndtv.com/world-news/not-far-from-where-trump-met-xi-nvidia-chips-are-still-on-sale-in-china-12383178#publisher=newsstand",
@@ -229,20 +285,6 @@
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
     },
     {
-      "id": "108559888",
-      "title": "China industrial profits growth surges to a 5-month high of 20.1% in October",
-      "published": "2026-11-27T02:04:09+00:00",
-      "author": null,
-      "description": "China's economy has been running at two speeds, with AI-related manufacturing and exports powering growth while household consumption has been lagging.",
-      "link": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108363244-1789497965297-gettyimages-2293419464-vcg111663866789.jpeg?v=1789497999&w=1920&h=1080",
-      "feed_name": "CNBC",
-      "feed_title": "International: Top News And Analysis",
-      "category": "World News",
-      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
-    },
-    {
       "id": "https://www.ndtv.com/world-news/heavy-rain-wind-and-flooding-play-spoilsport-at-thanksgiving-in-us-12382809#publisher=newsstand",
       "title": "Heavy Rain, Wind And Flooding Play Spoilsport At Thanksgiving In US",
       "published": "2026-11-27T02:03:12+00:00",
@@ -325,20 +367,6 @@
       "category": "World News",
       "feed_url": "https://www.theguardian.com/world/rss",
       "feed_icon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o#0",
-      "title": "Major Thanksgiving storm brings flooding, flight delays across US",
-      "published": "2026-11-27T00:52:11+00:00",
-      "author": null,
-      "description": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding.",
-      "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af5b/live/7a140030-e9f0-11f1-99b6-a35a62fa4264.jpg",
-      "feed_name": "BBC News - World",
-      "feed_title": "BBC News",
-      "category": "World News",
-      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     },
     {
       "id": "https://timesofindia.indiatimes.com/world/us/record-setting-error-trump-alleges-fake-us-economic-data-released-before-midterms-demands-probe/articleshow/136206112.cms",
@@ -13975,34 +14003,6 @@
       "category": "World News",
       "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/world/south-asia/avalanche-snow-and-more-flood-risk-strong-el-nio-to-shape-wetter-winter-across-hindu-kush-himalaya/articleshow/136086949.cms",
-      "title": "Strong El Niño raises snow, avalanche & flood risks across Hindu Kush Himalaya",
-      "published": "2026-11-23T02:16:52+00:00",
-      "author": "Prisha Patnaik",
-      "description": "",
-      "link": "https://timesofindia.indiatimes.com/world/south-asia/avalanche-snow-and-more-flood-risk-strong-el-nio-to-shape-wetter-winter-across-hindu-kush-himalaya/articleshow/136086949.cms",
-      "image": "https://static.toiimg.com/photo/msid-136087090,imgsize-59442.cms",
-      "feed_name": "Times of India",
-      "feed_title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
-      "category": "World News",
-      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "feed_icon": "https://timesofindia.indiatimes.com/photo/507610.cms"
-    },
-    {
-      "id": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
-      "title": "COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels",
-      "published": "2026-11-23T02:01:42+00:00",
-      "author": "Chico Harlan and Lisa Friedman",
-      "description": "European and vulnerable nations rejected a proposed agreement after Saudi Arabia and other oil producers blocked any mention of phasing out coal, oil and gas.",
-      "link": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
-      "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22cli-cop31-final3-fmcb/22cli-cop31-final3-fmcb-mediumSquareAt3X-v2.jpg",
-      "feed_name": "NYT",
-      "feed_title": "NYT > World News",
-      "category": "World News",
-      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "feed_icon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"
     }
   ]
 }
