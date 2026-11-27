@@ -1,7 +1,7 @@
 {
   "category": "funny",
-  "updated": "2026-11-27T06:02:56.967195+00:00",
-  "count": 797,
+  "updated": "2026-11-27T06:32:42.202654+00:00",
+  "count": 796,
   "summary": null,
   "items": [
     {
@@ -11147,20 +11147,6 @@
       "category": "funny",
       "feed_url": "https://www.penny-arcade.com/feed",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.penny-arcade.com&sz=64"
-    },
-    {
-      "id": "https://thedailywtf.com/articles/session-recording",
-      "title": "CodeSOD: Session Recording",
-      "published": "2026-10-28T06:30:00+00:00",
-      "author": "Remy Porter",
-      "description": "We still get a fair bit of old school ASP .Net webforms code, which was cutting edge about twenty years ago, but remains a collection of bad choices that tried to make web programming feel like desktop programming. As an aside, what a reversed world we live in today, where everyone uses Electron and our desktop programming feels like web programming. In any case, Thomas sends us some pretty ugly webforms code. Me .Session( \"Albumid\" ) = CType(e.Item.FindControl( \"lblAlbumID\" ), Label).Text If N…",
-      "link": "https://thedailywtf.com/articles/session-recording",
-      "image": "https://thedailywtf.com/images/inedo/proget-icon.png",
-      "feed_name": "The Daily WTF",
-      "feed_title": "The Daily WTF",
-      "category": "funny",
-      "feed_url": "http://syndication.thedailywtf.com/TheDailyWtf",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=thedailywtf.com&sz=64"
     }
   ]
 }

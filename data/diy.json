@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-27T06:02:56.967195+00:00",
+  "updated": "2026-11-27T06:32:42.202654+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://hackaday.com/?p=1430484",
+      "title": "A Modular 6502 Computer",
+      "published": "2026-11-27T06:00:46+00:00",
+      "author": "Zoe Skyforest",
+      "description": "Back in the day, there were plenty of nice compact microcomputers out there that featured the 6502 CPU. There were also simpler computers that put the chip on a bare …read more",
+      "link": "https://hackaday.com/2026/11/26/a-modular-6502-computer/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/The-20c-Episodio-0-Hola-0-0-screenshot.png",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://hackaday.com/?p=1430564",
       "title": "When Decoupling Capacitors Go Wrong",
@@ -13989,20 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://hackaday.com/blog/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/use-airpods-with-android-librepods/",
-      "title": "Apple doesn't want you to know how well AirPods can work with Android",
-      "published": "2026-11-13T15:00:16+00:00",
-      "author": "Pankil Shah",
-      "description": "The crossover we all wanted.",
-      "link": "https://www.makeuseof.com/use-airpods-with-android-librepods/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/airpods-connected-to-android-phone.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }
