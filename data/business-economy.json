@@ -1,9 +1,37 @@
 {
   "category": "Business & economy",
-  "updated": "2026-11-27T01:33:44.878003+00:00",
+  "updated": "2026-11-27T02:02:54.524240+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "108559888",
+      "title": "China industrial profits growth surges to a 5-month high of 20.1% in October",
+      "published": "2026-11-27T01:38:00+00:00",
+      "author": null,
+      "description": "China's economy has been running at two speeds, with AI-related manufacturing and exports powering growth while household consumption has been lagging.",
+      "link": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108363244-1789497965297-gettyimages-2293419464-vcg111663866789.jpeg?v=1789497999&w=1920&h=1080",
+      "feed_name": "US Top News and Analysis",
+      "feed_title": "US Top News and Analysis",
+      "category": "Business & economy",
+      "feed_url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=64"
+    },
+    {
+      "id": "https://www.investing.com/news/commodities-news/gold-steadies-near-15month-low-as-fed-hike-bets-offset-techled-rally-5052805",
+      "title": "Gold steadies near 15-month low as Fed hike bets offset tech-led rally",
+      "published": "2026-11-27T01:27:52+00:00",
+      "author": "Investing.com",
+      "description": "",
+      "link": "https://www.investing.com/news/commodities-news/gold-steadies-near-15month-low-as-fed-hike-bets-offset-techled-rally-5052805",
+      "image": "https://content-media.investing.com/news/Gold_800x533_L_1729781933.jpg",
+      "feed_name": "All News",
+      "feed_title": "All News",
+      "category": "Business & economy",
+      "feed_url": "https://www.investing.com/rss/news.rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.investing.com&sz=64"
+    },
     {
       "id": "https://www.investing.com/news/economy-news/trump-demands-probe-of-gdp-data-released-before-midterms-5052586",
       "title": "Trump demands probe of GDP data released before midterms",
@@ -13975,34 +14003,6 @@
       "category": "Business & economy",
       "feed_url": "https://seekingalpha.com/market_currents.xml",
       "feed_icon": "https://www.google.com/s2/favicons?domain=seekingalpha.com&sz=64"
-    },
-    {
-      "id": "https://www.investing.com/news/analyst-ratings/cleanspark-stock-price-target-cut-to-15-by-needham-on-weaker-bitcoin-mining-93CH-5050520",
-      "title": "CleanSpark stock price target cut to $15 by Needham on weaker bitcoin mining",
-      "published": "2026-11-25T12:18:51+00:00",
-      "author": "Investing.com",
-      "description": "",
-      "link": "https://www.investing.com/news/analyst-ratings/cleanspark-stock-price-target-cut-to-15-by-needham-on-weaker-bitcoin-mining-93CH-5050520",
-      "image": "https://content-media.investing.com/news/moved_LYNXMPEM4416N_1200_L.jpg",
-      "feed_name": "All News",
-      "feed_title": "All News",
-      "category": "Business & economy",
-      "feed_url": "https://www.investing.com/rss/news.rss",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.investing.com&sz=64"
-    },
-    {
-      "id": "https://www.investing.com/news/stock-market-news/ai-stocks-slide-on-fears-over-infrastructure-buildout-costs-5050519",
-      "title": "AI stocks slide on fears over infrastructure buildout costs",
-      "published": "2026-11-25T12:18:17+00:00",
-      "author": "Reuters",
-      "description": "",
-      "link": "https://www.investing.com/news/stock-market-news/ai-stocks-slide-on-fears-over-infrastructure-buildout-costs-5050519",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAO10F_L.jpg",
-      "feed_name": "All News",
-      "feed_title": "All News",
-      "category": "Business & economy",
-      "feed_url": "https://www.investing.com/rss/news.rss",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.investing.com&sz=64"
     }
   ]
 }
