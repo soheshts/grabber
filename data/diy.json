@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-27T03:03:58.067968+00:00",
+  "updated": "2026-11-27T03:33:34.334320+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://hackaday.com/?p=1430564",
+      "title": "When Decoupling Capacitors Go Wrong",
+      "published": "2026-11-27T03:00:47+00:00",
+      "author": "Maya Posch",
+      "description": "Popular wisdom holds that decoupling capacitors are good, and thus more decoupling capacitors is better. Unfortunately physics disagrees on that notion, as [Ben Eater] discusses in a recent video, following …read more",
+      "link": "https://hackaday.com/2026/11/26/when-decoupling-capacitors-go-wrong/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/discrete_clock_issue_ben_eater_youtube.jpg",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/save-50-on-the-hisense-75-u7-mini-led-tv-and-bring-the-cinema-home/",
       "title": "Save 50% on Hisense 75\" U7 Mini-LED TV on Amazon",
@@ -13989,20 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.makeuseof.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/weekend-esp32-projects-focus-stop-doomscrolling-nov-13-15/",
-      "title": "4 weekend ESP32 projects to help you focus and stop doomscrolling (Nov 13-15)",
-      "published": "2026-11-13T15:00:15+00:00",
-      "author": "Tim Brookes",
-      "description": "Pick up an ESP32 and put down your phone.",
-      "link": "https://www.howtogeek.com/weekend-esp32-projects-focus-stop-doomscrolling-nov-13-15/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/11/polymo-virtual-pet-by-brenpoly-on-youtube.png",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
     }
   ]
 }
