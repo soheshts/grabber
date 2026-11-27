@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-27T06:32:42.202654+00:00",
+  "updated": "2026-11-27T07:02:59.487292+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/1password-hackers-customer-names-emails-github/",
+      "title": "1Password breach exposed your email and name, but your vault is safe",
+      "published": "2026-11-27T06:38:23+00:00",
+      "author": "Anvinraj Valiyathara",
+      "description": "A full root cause analysis is due in the coming weeks",
+      "link": "https://www.makeuseof.com/1password-hackers-customer-names-emails-github/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2025/03/1password-app-store-listing-on-smartphone-screen.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
     {
       "id": "https://hackaday.com/?p=1430484",
       "title": "A Modular 6502 Computer",
@@ -13989,20 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://hackaday.com/?p=1425187",
-      "title": "This Week In Security: Four-Digit Patch Tuesday, SSH Exploited, GitBook Breach, Android GhostMap",
-      "published": "2026-11-13T15:00:26+00:00",
-      "author": "Mike Kershaw",
-      "description": "It’s the second Tuesday of the month, and that means another Microsoft Patch Tuesday. The new normal is that the numbers are hard to believe. Brian Krebs reports that this …read more",
-      "link": "https://hackaday.com/2026/11/13/this-week-in-security-four-digit-patch-tuesday-ssh-exploited-gitbook-breach-android-ghostmap/",
-      "image": "https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg",
-      "feed_name": "Blog – Hackaday",
-      "feed_title": "Blog – Hackaday",
-      "category": "DIY",
-      "feed_url": "https://hackaday.com/blog/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
     }
   ]
 }
