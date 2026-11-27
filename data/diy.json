@@ -1,9 +1,51 @@
 {
   "category": "DIY",
-  "updated": "2026-11-27T10:32:56.244911+00:00",
+  "updated": "2026-11-27T11:02:59.776756+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/every-way-to-watch-local-news-on-your-tv-for-free-in-2026/",
+      "title": "Every way to watch local news on your TV for free in 2026",
+      "published": "2026-11-27T11:00:17+00:00",
+      "author": "Bryan M. Wolfe",
+      "description": "From over the air setups to NewsON and Local Now growth, find practical coverage that matches your market.",
+      "link": "https://www.makeuseof.com/every-way-to-watch-local-news-on-your-tv-for-free-in-2026/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/08/roku-local-news.jpeg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/useful-kitchen-gadgets-esp32-weekend-nov-27-29/",
+      "title": "4 useful kitchen gadgets you can make with an ESP32 this weekend (Nov 27 - 29)",
+      "published": "2026-11-27T11:00:16+00:00",
+      "author": "Tim Brookes",
+      "description": "Cook up something special this weekend.",
+      "link": "https://www.howtogeek.com/useful-kitchen-gadgets-esp32-weekend-nov-27-29/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/esp32-board-sitting-next-to-limes-hot-sauce-and-a-bulb-of-garlic.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.makeuseof.com/hatgpt-gpt-6-2-limits-faster-billing-fix-reset/",
+      "title": "OpenAI admits a billing error, and your GPT-6.2 usage now burns faster",
+      "published": "2026-11-27T10:39:40+00:00",
+      "author": "Anvinraj Valiyathara",
+      "description": "OpenAI blames a launch mistake and offers one saved reset",
+      "link": "https://www.makeuseof.com/hatgpt-gpt-6-2-limits-faster-billing-fix-reset/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/09/chatgpt-android-app-chat-field.JPG",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
     {
       "id": "https://hackaday.com/?p=1430732",
       "title": "The Happy Mac that Apple Never Made",
@@ -13961,48 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.makeuseof.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/microsoft-excel-upgraded-tracker-airtable-notion/",
-      "title": "I upgraded my Excel tracker with Airtable and Notion, and Airtable gave me more for free",
-      "published": "2026-11-13T15:30:16+00:00",
-      "author": "Tony Phillips",
-      "description": "One gave me dashboards and automations. The other put its best tools behind a paywall.",
-      "link": "https://www.howtogeek.com/microsoft-excel-upgraded-tracker-airtable-notion/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/laptop-airtable-dashboard-interface-desk-setup.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/ditched-laptop-for-galaxy-tablet-and-usb-c-hub/",
-      "title": "I ditched my laptop for a Samsung Galaxy and a $20 USB-C hub",
-      "published": "2026-11-13T15:30:16+00:00",
-      "author": "Tyler Dupont",
-      "description": "I'm always impressed every time I rediscover Samsung's desktop environment.",
-      "link": "https://www.howtogeek.com/ditched-laptop-for-galaxy-tablet-and-usb-c-hub/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/20261113_093808.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/microsoft-outlook-is-still-down-andits-a-grim-reminder-why-you-need-a-backup-plan/",
-      "title": "Microsoft Outlook still down after 24 hours and it's a grim reminder why you need a backup plan",
-      "published": "2026-11-13T15:18:53+00:00",
-      "author": "Viraj Gawde",
-      "description": "Many users are still not out of the woods yet. Here's what you can do about the disruption and prepare for the next one.",
-      "link": "https://www.howtogeek.com/microsoft-outlook-is-still-down-andits-a-grim-reminder-why-you-need-a-backup-plan/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2025/11/an-illustration-of-the-new-microsoft-outlook-interface-with-the-outlook-logo-and-multiple-thumbs-down-icons.png",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
     }
   ]
 }
