@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-27T12:32:45.812915+00:00",
+  "updated": "2026-11-27T13:02:39.516436+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.howtogeek.com/how-to-make-a-linux-rescue-usb-with-ventoy-that-boots-any-iso/",
+      "title": "How to make a Linux rescue USB with Ventoy that boots any ISO",
+      "published": "2026-11-27T13:00:15+00:00",
+      "author": "Umair Khurshid",
+      "description": "Computers rarely ask whether it is a convenient time to ruin your day, but this might just save you!",
+      "link": "https://www.howtogeek.com/how-to-make-a-linux-rescue-usb-with-ventoy-that-boots-any-iso/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2025/09/hand-inserting-a-usb-flash-drive-labeled-rescue-sos-into-a-laptop.png",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/google-tv-has-a-hidden-developer-menu-and-3-settings-in-it-can-make-a-tv-feel-twice-as-fast/",
       "title": "Google TV has a hidden developer menu, and 3 settings in it can make a TV feel twice as fast",
@@ -13989,20 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/pixel-10-11-users-facing-camera-and-wireless-charging-issues-post-november-pixel-feature-drop/",
-      "title": "The November Pixel update is breaking cameras and wireless charging for some users",
-      "published": "2026-11-13T17:27:44+00:00",
-      "author": "Vineet Washington",
-      "description": "You may be able to fix one without Google, but not the other.",
-      "link": "https://www.makeuseof.com/pixel-10-11-users-facing-camera-and-wireless-charging-issues-post-november-pixel-feature-drop/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/08/google-pixel-11-pro-xl-camera-visor.png",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }
