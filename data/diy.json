@@ -1,9 +1,51 @@
 {
   "category": "DIY",
-  "updated": "2026-11-27T11:33:40.040318+00:00",
+  "updated": "2026-11-27T12:02:57.386389+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/powershell-makes-batch-files-look-outdated/",
+      "title": "PowerShell's object pipeline makes batch files look like a relic, and it's built into Windows",
+      "published": "2026-11-27T12:00:17+00:00",
+      "author": "Afam Onyimadu",
+      "description": "It's time to make this switch for your everyday jobs.",
+      "link": "https://www.makeuseof.com/powershell-makes-batch-files-look-outdated/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/upgrading-to-powershell-7.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/microsoft-excel-use-all-day-functions-save-most-time/",
+      "title": "I use Excel all day, and these 3 functions save me the most time",
+      "published": "2026-11-27T12:00:16+00:00",
+      "author": "Tony Phillips",
+      "description": "One finds it, one filters it, and one totals it.",
+      "link": "https://www.howtogeek.com/microsoft-excel-use-all-day-functions-save-most-time/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/excel-functions-laptop.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.makeuseof.com/zelda-and-mario-64-now-run-natively-on-pc-and-emulation-has-nothing-to-do-with-it/",
+      "title": "Zelda and Mario 64 now run natively on PC, and emulation has nothing to do with it",
+      "published": "2026-11-27T11:56:17+00:00",
+      "author": "Dipan Saha",
+      "description": "Emulation is no longer the future.",
+      "link": "https://www.makeuseof.com/zelda-and-mario-64-now-run-natively-on-pc-and-emulation-has-nothing-to-do-with-it/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/super-mario-64.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/eufy-omni-s2-pro-review/",
       "title": "Anker eufy Omni S2 Pro review: So good that my old robot vacuum is heading to the barn",
@@ -13961,48 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.makeuseof.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/word-printing-problems-microsofts-november-windows-updates-are-the-likely-cause/",
-      "title": "Word printing problems? Microsoft's November Windows updates are the likely cause",
-      "published": "2026-11-13T16:42:31+00:00",
-      "author": "Tyler Cross",
-      "description": "The latest Windows update fixes some printer errors while introducing another.",
-      "link": "https://www.howtogeek.com/word-printing-problems-microsofts-november-windows-updates-are-the-likely-cause/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2025/10/windows-logo-surrounded-by-floating-icons-of-classic-microsoft-apps-like-msn-messenger-encarta-movie-maker-and-photo-gallery-on-a-soft-windows-xp-background.png",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://abeautifulmess.com/?p=144540",
-      "title": "Chickpea Salad",
-      "published": "2026-11-13T16:35:04+00:00",
-      "author": "Emma Chapman",
-      "description": "This chickpea salad recipe is something we make all the time at our house. Like, seriously at least a couple times a month. I usually serve this along side greek meatballs but it’s a great side salad for lots of different meals. You could serve this as a main course and it especially makes a…",
-      "link": "https://abeautifulmess.com/chickpea-salad/",
-      "image": "https://abeautifulmess.com/wp-content/uploads/2026/11/chickpea-salad.jpg",
-      "feed_name": "A Beautiful Mess",
-      "feed_title": "A Beautiful Mess",
-      "category": "DIY",
-      "feed_url": "https://abeautifulmess.com/feed",
-      "feed_icon": "https://abeautifulmess.com/wp-content/uploads/2016/12/cropped-ABM-Favicon-60x60.jpg"
-    },
-    {
-      "id": "https://www.howtogeek.com/its-official-homelabbers-are-the-most-likely-to-be-targeted-by-hackers/",
-      "title": "It's official, homelabbers are the most likely to be targeted by hackers",
-      "published": "2026-11-13T16:30:15+00:00",
-      "author": "Monica J. White",
-      "description": "Hackers are constantly looking for home servers, and the numbers are terrifying",
-      "link": "https://www.howtogeek.com/its-official-homelabbers-are-the-most-likely-to-be-targeted-by-hackers/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/08/geekom-it13-max-directly-connected-to-a-nas-with-dual-2-5gbe-cables.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
     }
   ]
 }

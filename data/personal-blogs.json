@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-27T11:33:40.040318+00:00",
-  "count": 451,
+  "updated": "2026-11-27T12:02:57.386389+00:00",
+  "count": 449,
   "summary": null,
   "items": [
     {
@@ -5575,34 +5575,6 @@
       "category": "personal blogs",
       "feed_url": "https://shkspr.mobi/blog/feed/atom/",
       "feed_icon": "https://shkspr.mobi/blog/wp-content/uploads/2023/07/cropped-avatar-32x32.jpeg"
-    },
-    {
-      "id": "https://csswizardry.com/2026/10/web-perf-wednesday-015-failed-modulepreloads-need-to-recover/",
-      "title": "Web-Perf Wednesday 015 – Failed Modulepreloads Need to Recover",
-      "published": "2026-10-28T12:00:00+00:00",
-      "author": null,
-      "description": "WebKit fixes failed modulepreloads that could block recovery, while Safari and Firefox improve performance tooling and browser responsiveness.",
-      "link": "https://csswizardry.com/2026/10/web-perf-wednesday-015-failed-modulepreloads-need-to-recover/",
-      "image": null,
-      "feed_name": "CSS Wizardry",
-      "feed_title": "CSS Wizardry",
-      "category": "personal blogs",
-      "feed_url": "http://feeds.feedburner.com/csswizardry",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=csswizardry.com&sz=64"
-    },
-    {
-      "id": "http://finley.im/2026/10/28/automating-the-shelf/",
-      "title": "Automating the Shelf",
-      "published": "2026-10-28T11:44:34+00:00",
-      "author": null,
-      "description": "Over the last couple years I have built up the Shelf page on this site more than any other. Reading has become a major part of my life. By hand I have added 120 books to this page. Each book includes title, author, cover, categories, audiobook links, purchase link, and a couple other metadata fields. Sometimes I’ve added a book lazily without the links and come back the next day to add links. Finding the cover, Audible and Canon+ audiobook links, store links, and more took time. Before, adding…",
-      "link": "http://finley.im/2026/10/28/automating-the-shelf/",
-      "image": "https://finley.im/open-graph/2026/10/28/automating-the-shelf.png",
-      "feed_name": "Finley, I am.",
-      "feed_title": "Finley, I am.",
-      "category": "personal blogs",
-      "feed_url": "https://finley.im/rss.xml",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=finley.im&sz=64"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",

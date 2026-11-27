@@ -1,9 +1,23 @@
 {
   "category": "science",
-  "updated": "2026-11-27T11:33:40.040318+00:00",
+  "updated": "2026-11-27T12:02:57.386389+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "6aff5511f2cbbbfa7d0cf29d",
+      "title": "Welcome to the Repair Café, Where Neighbors Fight Throwaway Culture",
+      "published": "2026-11-27T11:30:00+00:00",
+      "author": "Johnny Kauffman",
+      "description": "In church basements and warehouses, Americans are building cozy yet radical spaces to encourage each other to fix broken items instead of throwing them away.",
+      "link": "https://www.wired.com/story/welcome-to-the-repair-cafe-where-neighbors-fight-throw-away-culture/",
+      "image": "https://media.wired.com/photos/6b03f84cb82d3b05468e7f25/master/pass/maccomputer.jpg",
+      "feed_name": "Science Latest",
+      "feed_title": "Science Latest",
+      "category": "science",
+      "feed_url": "https://www.wired.com/feed/category/science/latest/rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.wired.com&sz=64"
+    },
     {
       "id": "news714811651",
       "title": "Beeswax and pine link crocodile mummies made centuries apart at one Egyptian site",
@@ -417,6 +431,20 @@
       "author": "Alex Bores",
       "description": "Nature, Published online: 27 November 2026; doi:10.1038/d41586-026-03849-8 Voters are demanding greater control over this new technology. Political leaders must respond by keeping humans in charge of AI development.",
       "link": "https://www.nature.com/articles/d41586-026-03849-8",
+      "image": null,
+      "feed_name": "Nature",
+      "feed_title": "Nature",
+      "category": "science",
+      "feed_url": "https://www.nature.com/nature.rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=feeds.nature.com&sz=64"
+    },
+    {
+      "id": "https://www.nature.com/articles/d41586-026-03523-z",
+      "title": "Postcards from your graves",
+      "published": "2026-11-27T00:00:00+00:00",
+      "author": "Wendy Nikel",
+      "description": "Nature, Published online: 27 November 2026; doi:10.1038/d41586-026-03523-z A disastrous outcome.",
+      "link": "https://www.nature.com/articles/d41586-026-03523-z",
       "image": null,
       "feed_name": "Nature",
       "feed_title": "Nature",
@@ -991,7 +1019,7 @@
       "author": "Ryan Green",
       "description": "Researchers are using seabirds equipped with GPS and audio gear to detect vessels that operate with no tracking signals and to assess the environmental hazards they pose.",
       "link": "https://www.nytimes.com/2026/11/26/climate/seabirds-tracking-hidden-fishing-boats.html",
-      "image": "https://static01.nyt.com/images/2026/11/26/science/26CLI-SPYING-SEABIRDS-02/26CLI-SPYING-SEABIRDS-02-mediumSquareAt3X.jpg",
+      "image": "https://static01.nyt.com/images/2026/11/26/science/26CLI-SPYING-SEABIRDS-02/26CLI-SPYING-SEABIRDS-02-mediumSquareAt3X-v2.jpg",
       "feed_name": "NYT > Science",
       "feed_title": "NYT > Science",
       "category": "science",
@@ -4949,7 +4977,7 @@
     {
       "id": "https://www.nytimes.com/2026/11/24/science/ancient-egyptian-cats-mummies.html",
       "title": "Ancient Egyptian Cats Lived Squalid Lives Before Mummification",
-      "published": "2026-11-24T10:01:52+00:00",
+      "published": "2026-11-24T10:01:53+00:00",
       "author": "Joshua Rapp Learn",
       "description": "Cats destined to be offerings paid a high price to receive glory in the afterlife, markings on their skulls revealed.",
       "link": "https://www.nytimes.com/2026/11/24/science/ancient-egyptian-cats-mummies.html",
@@ -13975,34 +14003,6 @@
       "category": "science",
       "feed_url": "https://phys.org/rss-feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "https://www.scientificamerican.com/article/voyager-1-reaches-one-light-day-milestone/",
-      "title": "Voyager 1 reaches ‘one light-day’ milestone",
-      "published": "2026-11-18T11:00:00+00:00",
-      "author": null,
-      "description": "The space probe Voyager 1 is humanity’s farthest and best-known interstellar “message in a bottle”—but it’s probably not the last",
-      "link": "https://www.scientificamerican.com/article/voyager-1-reaches-one-light-day-milestone/",
-      "image": "https://static.scientificamerican.com/dam/asset/1670fb96-ed6f-4b15-a8f5-d0de5da979f2/1_Voyager_artist_concept-copy.jpeg?m=1776700021.479&w=1200",
-      "feed_name": "Scientific American Content: Global",
-      "feed_title": "Scientific American Content: Global",
-      "category": "science",
-      "feed_url": "http://rss.sciam.com/ScientificAmerican-Global",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.scientificamerican.com&sz=64"
-    },
-    {
-      "id": "https://www.scientificamerican.com/podcast/episode/how-fungi-reshape-our-understanding-of-intelligence-and-life/",
-      "title": "How fungi reshape our understanding of intelligence and life",
-      "published": "2026-11-18T11:00:00+00:00",
-      "author": null,
-      "description": "A new book club kicks off with fungal intelligence, underground networks and some truly wild mushroom facts",
-      "link": "https://www.scientificamerican.com/podcast/episode/how-fungi-reshape-our-understanding-of-intelligence-and-life/",
-      "image": "https://static.scientificamerican.com/dam/asset/1d404465-5dd3-4f30-989a-d9b2accbb2b1/2611_SQ_WED_BOOK_CLUB.png?m=1794943526.389&w=1200",
-      "feed_name": "Scientific American Content: Global",
-      "feed_title": "Scientific American Content: Global",
-      "category": "science",
-      "feed_url": "http://rss.sciam.com/ScientificAmerican-Global",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.scientificamerican.com&sz=64"
     }
   ]
 }
