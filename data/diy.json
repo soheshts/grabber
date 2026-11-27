@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-27T13:32:43.413911+00:00",
+  "updated": "2026-11-27T14:02:57.487506+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/run-a-local-llm-without-ollama-docker-or-installing-anything/",
+      "title": "I run a local LLM without Ollama, Docker, or installing anything",
+      "published": "2026-11-27T14:00:17+00:00",
+      "author": "Jayric Maning",
+      "description": "This one file turns any computer into a local AI chatbot",
+      "link": "https://www.makeuseof.com/run-a-local-llm-without-ollama-docker-or-installing-anything/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/running-llamafile-in-laptop.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/my-wife-installed-an-antivirus-app-to-stop-creepy-ads-but-she-didnt-need-it/",
+      "title": "My wife installed an antivirus app to stop creepy ads, but she didn't need it",
+      "published": "2026-11-27T14:00:16+00:00",
+      "author": "Ismar Hrnjicevic",
+      "description": "Your phone is probably safer than you think. Your data, maybe less so.",
+      "link": "https://www.howtogeek.com/my-wife-installed-an-antivirus-app-to-stop-creepy-ads-but-she-didnt-need-it/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/antiviruses_result.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/i-checked-my-androids-saved-wi-fi-list-and-it-was-still-auto-joining-networks-from-years-ago/",
       "title": "I checked my Android’s saved Wi-Fi list, and it was still auto-joining networks from years ago",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/samsung-tv-app-store-workarounds/",
-      "title": "Your Samsung TV offers limited apps, but I know how to find more",
-      "published": "2026-11-13T17:58:52+00:00",
-      "author": "Michael Bizzaco",
-      "description": "Don't let APK files stand in your way.",
-      "link": "https://www.makeuseof.com/samsung-tv-app-store-workarounds/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/05/samsung-qled-tv-angle.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/nothing-headphone-1-pro-early-black-friday-deal-amazon/",
-      "title": "The Nothing Headphone (1) Pro just scored their first major discount",
-      "published": "2026-11-13T17:42:29+00:00",
-      "author": "Patrick Farmer",
-      "description": "Fans of great sound and unique design: don't miss this deal.",
-      "link": "https://www.makeuseof.com/nothing-headphone-1-pro-early-black-friday-deal-amazon/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/nothing-headphone-1-pro-top-down-with-buttons.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }
