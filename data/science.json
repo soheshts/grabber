@@ -1,17 +1,31 @@
 {
   "category": "science",
-  "updated": "2026-11-27T00:03:08.156291+00:00",
+  "updated": "2026-11-27T00:33:34.377599+00:00",
   "count": 1000,
   "summary": null,
   "items": [
     {
       "id": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o#0",
       "title": "Major Thanksgiving storm brings flooding, flight delays across US",
-      "published": "2026-11-26T23:25:44+00:00",
+      "published": "2026-11-27T00:29:48+00:00",
       "author": null,
       "description": "Massive storms are descending on both US coasts, with wind gusts, heavy rain, downed trees, and power outages for hundreds of thousands of customers.",
       "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af5b/live/7a140030-e9f0-11f1-99b6-a35a62fa4264.jpg",
+      "feed_name": "BBC News - Science & Environment",
+      "feed_title": "BBC News",
+      "category": "science",
+      "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    },
+    {
+      "id": "https://www.bbc.co.uk/weather/videos/c6y0xq8y757ko#0",
+      "title": "Inside the control room feeding your weather app",
+      "published": "2026-11-27T00:09:30+00:00",
+      "author": null,
+      "description": "BBC Weather's Matt Taylor takes us on a tour of the Met Office control room.",
+      "link": "https://www.bbc.co.uk/weather/videos/c6y0xq8y757ko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f8f/live/d944b3b0-e9a5-11f1-99b6-a35a62fa4264.png",
       "feed_name": "BBC News - Science & Environment",
       "feed_title": "BBC News",
       "category": "science",
@@ -13989,20 +14003,6 @@
       "category": "science",
       "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "news714129590",
-      "title": "How much CO₂ will stay? New study estimates long-term residual emissions under the EU Emissions Trading System",
-      "published": "2026-11-18T00:40:08+00:00",
-      "author": null,
-      "description": "Current CO₂ emissions covered by the EU Emissions Trading System (EU-ETS1) could be substantially reduced by 2040. A new study by the Oeko-Institut, commissioned by Carbon Market Watch, examines the level of emissions that could remain in 2040 and 2050. In 2040, installations covered by the EU-ETS1—including waste incineration—could still emit between 159 and 231 million metric tons of CO₂.",
-      "link": "https://phys.org/news/2026-11-stay-term-residual-emissions-eu.html",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/emissions-1.jpg",
-      "feed_name": "Phys.org - latest science and technology news stories",
-      "feed_title": "Phys.org - latest science and technology news stories",
-      "category": "science",
-      "feed_url": "https://phys.org/rss-feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
     }
   ]
 }
