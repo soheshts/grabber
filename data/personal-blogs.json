@@ -1,7 +1,7 @@
 {
   "category": "personal blogs",
-  "updated": "2026-11-27T23:33:47.932747+00:00",
-  "count": 450,
+  "updated": "2026-11-28T00:03:00.800940+00:00",
+  "count": 447,
   "summary": null,
   "items": [
     {
@@ -5547,48 +5547,6 @@
       "category": "personal blogs",
       "feed_url": "https://ethanmarcotte.com/wrote/feed.xml",
       "feed_icon": "https://ethanmarcotte.com/favicon.ico"
-    },
-    {
-      "id": "my-2027-web-platform-feature-ranking",
-      "title": "My 2027 Web Platform Feature Ranking [blog]",
-      "published": "2026-10-29T00:00:00+00:00",
-      "author": "remy@remysharp.com (Remy Sharp)",
-      "description": "Like my peers, I've decided to publish my personal ranking preference for the 2027 interop project. I'm doing this from a phone, so I can't link to the others that have published theirs, but I think it's interesting to see and compare what we feel is important.",
-      "link": "https://remysharp.com/2026/10/29/my-2027-web-platform-feature-ranking",
-      "image": "https://remysharp.com/images/cards/og/9-5.jpg",
-      "feed_name": "Remy Sharp",
-      "feed_title": "remy sharp's b:log",
-      "category": "personal blogs",
-      "feed_url": "http://feeds.feedburner.com/remysharp",
-      "feed_icon": "https://remysharp.com/images/avatar-125.jpg"
-    },
-    {
-      "id": "https://www.tempertemper.net/blog/a-better-way-to-handle-select-behaviour",
-      "title": "A better way to handle select behaviour",
-      "published": "2026-10-29T00:00:00+00:00",
-      "author": "Martin Underhill",
-      "description": "Building your own select means lots of code and difficult decisions about behaviour. Good news though: there’s a new way that makes things much simpler!",
-      "link": "https://www.tempertemper.net/blog/a-better-way-to-handle-select-behaviour",
-      "image": "https://www.tempertemper.net/assets/img/summary.png",
-      "feed_name": "tempertemper",
-      "feed_title": "tempertemper",
-      "category": "personal blogs",
-      "feed_url": "https://www.tempertemper.net/feeds/main.xml",
-      "feed_icon": "https://www.tempertemper.net/assets/img/icons/favicon.png"
-    },
-    {
-      "id": "https://nerdy.dev/scroll-axis-design-system-rule?utm_source=rss",
-      "title": "Scroll Axis Design System Rule",
-      "published": "2026-10-28T23:49:04+00:00",
-      "author": "atom@argyleink",
-      "description": "Design system rule: Y scroll = scroll trigger X scroll = scroll driven",
-      "link": "https://nerdy.dev/scroll-axis-design-system-rule?utm_source=rss",
-      "image": null,
-      "feed_name": "Adam Argyle",
-      "feed_title": "Adam Argyle",
-      "category": "personal blogs",
-      "feed_url": "https://nerdy.dev/rss.xml",
-      "feed_icon": "https://nerdy.dev/rss-icon.png"
     },
     {
       "id": "https://thatemil.com/blog/2020/09/11/css-specificity-semver/",
