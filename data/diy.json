@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-28T00:03:00.800940+00:00",
+  "updated": "2026-11-28T00:32:36.597617+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.howtogeek.com/save-100-on-samsungs-galaxy-watch-8-and-track-your-health-with-ease/",
+      "title": "Samsung Galaxy Watch 8 is $100 off on Amazon",
+      "published": "2026-11-28T00:32:15+00:00",
+      "author": "HTG Deals Desk",
+      "description": "Get the Samsung Galaxy Watch 8 for $100 off on Amazon. Up to 3,000 nits of brightness, plus ECG, blood oxygen, and body composition sensors.",
+      "link": "https://www.howtogeek.com/save-100-on-samsungs-galaxy-watch-8-and-track-your-health-with-ease/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/09/180909.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/cool-galaxy-watch-features-i-love-to-show-off/",
       "title": "5 cool Galaxy Watch features I love to show off",
@@ -17,6 +31,20 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://hackaday.com/?p=1430479",
+      "title": "ESP32 Remote Access Done Light",
+      "published": "2026-11-28T00:00:09+00:00",
+      "author": "Zoe Skyforest",
+      "description": "The team behind Pinscope had a problem. They needed an ESP32 to stay securely connected to a server, but they didn’t have enough spare RAM on the chip to do …read more",
+      "link": "https://hackaday.com/2026/11/27/esp32-remote-access-done-light/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/ESP32-remote-access-in-9.4-KB-of-RAM_-logs-crashes-and-OTA-updates-_-Pinscope-2-15-screenshot-e1795678010431.png",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
     },
     {
       "id": "https://www.howtogeek.com/save-35-on-logitechs-lift-vertical-ergonomic-wireless-mouse-and-try-a-vertical-grip/",
@@ -13970,34 +13998,6 @@
       "description": "I refuse to use a Pixel without this app now.",
       "link": "https://www.makeuseof.com/customize-google-pixel-with-essentials-app/",
       "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/pixel-phone-showing-essentials-app.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/netflix-shows-perfect-for-killing-time-school-pickup/",
-      "title": "4 Netflix shows that are perfect for killing time in the school pickup line",
-      "published": "2026-11-14T16:00:15+00:00",
-      "author": "Tyler Dupont",
-      "description": "Skip the doom-scrolling and watch these low-effort Netflix shows instead.",
-      "link": "https://www.howtogeek.com/netflix-shows-perfect-for-killing-time-school-pickup/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/10/screenshot-43.png",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/google-account-had-34-devices-logged-in/",
-      "title": "I found 34 devices still logged into my Google account",
-      "published": "2026-11-14T15:30:16+00:00",
-      "author": "Brandon Miniman",
-      "description": "I was shocked by what I found in my Google account security check-up.",
-      "link": "https://www.makeuseof.com/google-account-had-34-devices-logged-in/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/feat7.jpeg",
       "feed_name": "MUO - Feed",
       "feed_title": "MakeUseOf",
       "category": "DIY",
