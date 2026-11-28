@@ -1,7 +1,7 @@
 {
   "category": "funny",
-  "updated": "2026-11-28T06:03:29.206530+00:00",
-  "count": 801,
+  "updated": "2026-11-28T06:32:52.067211+00:00",
+  "count": 800,
   "summary": null,
   "items": [
     {
@@ -11203,20 +11203,6 @@
       "category": "funny",
       "feed_url": "http://feeds.feedburner.com/icanhascheezburger",
       "feed_icon": "https://i.chzbgr.com/s/unversioned/images/logos/IcanHas_logo_ol.png"
-    },
-    {
-      "id": "https://thedailywtf.com/articles/oh-k",
-      "title": "CodeSOD: Oh, K?",
-      "published": "2026-10-29T06:30:00+00:00",
-      "author": "Remy Porter",
-      "description": "Pierre found this cry for help: for (j = 0 ; j < DISTRICT_CARDINALITY; j++) { /* * A poor way to work around some sort of memory * violation. k gets clobbered, so I buffer l with it. * Help? */ for (k = 0 , l = 0 ; k < customers; k++, l++) { /* c_id */ FPRINTF(output, \"%d\" , l + 1 ); METAPRINTF((output, \"%c\" , delimiter)); Honestly, I'm always a little worried in C-like languages when the loop variable isn't scoped to the loop and declared in place. Always concerning, so when there's concerns w…",
-      "link": "https://thedailywtf.com/articles/oh-k",
-      "image": "https://thedailywtf.com/images/inedo/proget-icon.png",
-      "feed_name": "The Daily WTF",
-      "feed_title": "The Daily WTF",
-      "category": "funny",
-      "feed_url": "http://syndication.thedailywtf.com/TheDailyWtf",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=thedailywtf.com&sz=64"
     }
   ]
 }
