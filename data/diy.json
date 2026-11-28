@@ -1,9 +1,51 @@
 {
   "category": "DIY",
-  "updated": "2026-11-28T12:03:26.920210+00:00",
+  "updated": "2026-11-28T12:33:14.205916+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/i-tried-a-tiling-window-manager-on-windows-and-i-stopped-dragging-windows-around/",
+      "title": "I tried a tiling window manager on Windows, and I stopped dragging windows around",
+      "published": "2026-11-28T12:30:17+00:00",
+      "author": "Oluwaseun Bamisile",
+      "description": "Open an app, and the layout sorts itself out.",
+      "link": "https://www.makeuseof.com/i-tried-a-tiling-window-manager-on-windows-and-i-stopped-dragging-windows-around/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/06/macos-sequoia-window-tiling-1.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/used-enterprise-ssds-beat-new-consumer-ones-for-homelabs-and-not-just-on-endurance/",
+      "title": "Used enterprise SSDs beat new consumer ones for homelabs, and not just on endurance",
+      "published": "2026-11-28T12:30:16+00:00",
+      "author": "Goran Damnjanovic",
+      "description": "You should usually avoid buying used SSDs, but enterprise-grade ones are an exception.",
+      "link": "https://www.howtogeek.com/used-enterprise-ssds-beat-new-consumer-ones-for-homelabs-and-not-just-on-endurance/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/09/ad542f90-5f76-4587-8697-4471282bf88c.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://hackaday.com/?p=1430483",
+      "title": "Robot Jellyfish Swims On Solar Power",
+      "published": "2026-11-28T12:00:55+00:00",
+      "author": "Zoe Skyforest",
+      "description": "Jellyfish are fun, gloopy creatures that have a unique swimming style very much of their own. [Robert Skinner] has managed to emulate the vibes of these unique creatures with a …read more",
+      "link": "https://hackaday.com/2026/11/28/robot-jellyfish-swims-on-solar-power/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/I-Built-a-Robotic-Jellyfish-26-40-screenshot-1.png",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/biggest-problem-3d-printing-might-solved/",
       "title": "The biggest problem in 3D printing might just get solved",
@@ -13961,48 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/pixel-battery-lasts-longer-adaptive-battery-charging/",
-      "title": "Google's Adaptive Charging keeps my Pixel battery healthy without costing me any battery life",
-      "published": "2026-11-14T19:00:16+00:00",
-      "author": "Brady Snyder",
-      "description": "Adaptive Battery Charging is a no-risk, all-reward feature.",
-      "link": "https://www.makeuseof.com/pixel-battery-lasts-longer-adaptive-battery-charging/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/pixel-phone-on-a-couch-charging.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/i-canceled-my-britbox-subscription-after-this-tool-showed-me-where-to-stream-my-favorite-shows-for-free/",
-      "title": "I canceled my BritBox subscription after this tool showed me where to stream my favorite shows for free",
-      "published": "2026-11-14T19:00:15+00:00",
-      "author": "David J. Buck",
-      "description": "My streaming habits drive my wife crazy, but I found a free solution for watching our favorite shows that we can both enjoy.",
-      "link": "https://www.howtogeek.com/i-canceled-my-britbox-subscription-after-this-tool-showed-me-where-to-stream-my-favorite-shows-for-free/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/streaming-fi.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/what-red-and-orange-wall-outlets-mean-before-using-them/",
-      "title": "You should know what red and orange wall outlets mean before using them",
-      "published": "2026-11-14T18:30:16+00:00",
-      "author": "Bryan M. Wolfe",
-      "description": "A hospital's red outlet signals emergency circuits and backup power that could keep critical gear running.",
-      "link": "https://www.makeuseof.com/what-red-and-orange-wall-outlets-mean-before-using-them/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/red-outlet-hospital.jpeg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }
