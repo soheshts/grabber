@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-28T14:32:46.377627+00:00",
+  "updated": "2026-11-28T15:04:31.937844+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/i-gave-a-virtual-machine-a-real-usb-c-port/",
+      "title": "I gave a virtual machine a real USB-C port, and it stopped feeling virtual",
+      "published": "2026-11-28T15:00:16+00:00",
+      "author": "Gregory Gibson",
+      "description": "Give a VM exclusive access to host hardware",
+      "link": "https://www.makeuseof.com/i-gave-a-virtual-machine-a-real-usb-c-port/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/proxmox-front-panel-usb-passthrough-vm-console-1.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/things-hacked-custom-firmware-while-you-werent-looking/",
+      "title": "5 things that were \"hacked\" with custom firmware while you weren’t looking",
+      "published": "2026-11-28T15:00:15+00:00",
+      "author": "Tim Brookes",
+      "description": "The revolution will be vibe coded.",
+      "link": "https://www.howtogeek.com/things-hacked-custom-firmware-while-you-werent-looking/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2025/02/sony-a7-iii-mirrorless-dslr-3.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/the-pfsense-fork-is-now-the-one-people-recommend/",
       "title": "The pfSense fork nobody asked for is now the one people actually recommend",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.makeuseof.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/why-i-folded-on-jellyfin-after-weeks-of-trying-to-ditch-plex/",
-      "title": "Why I folded on Jellyfin after weeks of trying to ditch Plex",
-      "published": "2026-11-14T21:00:15+00:00",
-      "author": "Sydney Butler",
-      "description": "Austere Jellyfin defaults and plugin dependence turned routine playback into an unexpected setup and maintenance chore.",
-      "link": "https://www.howtogeek.com/why-i-folded-on-jellyfin-after-weeks-of-trying-to-ditch-plex/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/07/download.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://hackaday.com/?p=1427895",
-      "title": "Warm Analog DSP, on the ESP",
-      "published": "2026-11-14T21:00:09+00:00",
-      "author": "Elliot Williams",
-      "description": "We love audio, and we love messing around with it. So when [mircemk] wrote in with his latest audio-mangling device, we had to give it a look. It’s a tube-sound …read more",
-      "link": "https://hackaday.com/2026/11/14/warm-analog-dsp-on-the-esp/",
-      "image": "https://hackaday.com/wp-content/uploads/2026/11/9847301794483913575.jpg",
-      "feed_name": "Blog – Hackaday",
-      "feed_title": "Blog – Hackaday",
-      "category": "DIY",
-      "feed_url": "https://hackaday.com/blog/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
     }
   ]
 }
