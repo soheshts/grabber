@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-28T12:33:14.205916+00:00",
+  "updated": "2026-11-28T13:03:31.841238+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/eufy-robot-vacuum-comparison/",
+      "title": "I tested eufy's S2 Pro and my X10 Pro Omni on the same floors, here's my verdict",
+      "published": "2026-11-28T13:00:16+00:00",
+      "author": "Jonathon Jachura",
+      "description": "My old robot vacuum is headed to the barn, but first it got one last rematch against its replacement on the exact same floors.",
+      "link": "https://www.makeuseof.com/eufy-robot-vacuum-comparison/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/eufy-x10-and-s2-docks-front-close.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/i-swapped-portainer-for-dockhand-on-my-homelab-and-im-keeping-it-now/",
+      "title": "I swapped Portainer for Dockhand on my homelab, and I'm keeping it",
+      "published": "2026-11-28T13:00:15+00:00",
+      "author": "David J. Buck",
+      "description": "I kept forgetting to update my containers until a reader suggested trying Dockhand. It convinced me to make the switch.",
+      "link": "https://www.howtogeek.com/i-swapped-portainer-for-dockhand-on-my-homelab-and-im-keeping-it-now/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/dockhand-fi.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/i-tried-a-tiling-window-manager-on-windows-and-i-stopped-dragging-windows-around/",
       "title": "I tried a tiling window manager on Windows, and I stopped dragging windows around",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.makeuseof.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/usb-flash-drives-have-gotten-so-expensive-that-you-might-as-well-buy-an-ssd/",
-      "title": "USB flash drives have gotten so expensive that you might as well buy an SSD",
-      "published": "2026-11-14T19:30:15+00:00",
-      "author": "Patrick Campanale",
-      "description": "Past 256GB, the price gap that made flash drives the easy pick is gone.",
-      "link": "https://www.howtogeek.com/usb-flash-drives-have-gotten-so-expensive-that-you-might-as-well-buy-an-ssd/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/pny-duo-link-v3-vs-samsung-ssd.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/weird-world-of-kindle-page-turner-remotes/",
-      "title": "The weird world of Kindle page-turner remotes",
-      "published": "2026-11-14T19:16:16+00:00",
-      "author": "Sydney Butler",
-      "description": "Here I go; turn the page.",
-      "link": "https://www.howtogeek.com/weird-world-of-kindle-page-turner-remotes/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/08/a-green-2024-kindle-gripped-in-a-pillow-holder-with-a-page-turned-clipped-to-it-and-the-page-turner-remote-lying-on-the-pillow.png",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
     }
   ]
 }

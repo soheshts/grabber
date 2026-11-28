@@ -1,9 +1,23 @@
 {
   "category": "science",
-  "updated": "2026-11-28T12:33:14.205916+00:00",
+  "updated": "2026-11-28T13:03:31.841238+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "news714741099",
+      "title": "Why squeezing a rock can pull it apart",
+      "published": "2026-11-28T12:40:01+00:00",
+      "author": null,
+      "description": "When a brittle material, such as a ceramic, rock or concrete sample, is squeezed between two plates, it can split lengthwise, even if the plates are pushing its ends together. So far, the physical explanation for this phenomenon has remained largely unclear.",
+      "link": "https://phys.org/news/2026-11-why-squeezing-a-rock-can.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/squeezing-brittle-mate.jpg",
+      "feed_name": "Phys.org - latest science and technology news stories",
+      "feed_title": "Phys.org - latest science and technology news stories",
+      "category": "science",
+      "feed_url": "https://phys.org/rss-feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
+    },
     {
       "id": "6afdfad777dd672c501bd702",
       "title": "Swift Saw the Secrets of Space Before Falling to Earth",
@@ -13989,20 +14003,6 @@
       "category": "science",
       "feed_url": "https://www.nature.com/nature.rss",
       "feed_icon": "https://www.google.com/s2/favicons?domain=feeds.nature.com&sz=64"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o#0",
-      "title": "The seven Anthropic founders who are about to become multi-billionaires",
-      "published": "2026-11-18T23:42:07+00:00",
-      "author": null,
-      "description": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
-      "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f70c/live/7ee6d930-e346-11f1-99aa-0f40b013ad11.jpg",
-      "feed_name": "BBC News - Science & Environment",
-      "feed_title": "BBC News",
-      "category": "science",
-      "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
-      "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
     }
   ]
 }
