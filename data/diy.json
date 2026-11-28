@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-28T11:04:14.915614+00:00",
+  "updated": "2026-11-28T11:32:48.214330+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/boox-picco-review/",
+      "title": "The Boox Picco strips away everything I thought I wanted in an eReader, and somehow it's my favorite",
+      "published": "2026-11-28T11:30:17+00:00",
+      "author": "Mahnoor Faisal",
+      "description": "Less really is more",
+      "link": "https://www.makeuseof.com/boox-picco-review/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/hand-in-a-red-sweater-holding-a-boox-picco-upright-with-the-promise-me-sunshine-cover.jpeg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/facebook-marketplace-deserves-its-own-app-so-i-used-a-mod-to-make-one/",
+      "title": "Facebook Marketplace deserves its own app, so I used a mod to make one",
+      "published": "2026-11-28T11:30:16+00:00",
+      "author": "Joe Fedewa",
+      "description": "I stripped Facebook down to Marketplace and nothing else.",
+      "link": "https://www.howtogeek.com/facebook-marketplace-deserves-its-own-app-so-i-used-a-mod-to-make-one/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/facebook-marketplace-on-pixel-phone-2.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/my-samsung-phone-kept-vibrating-for-no-reason-and-this-hidden-app-found-the-culprit/",
       "title": "My Samsung phone kept vibrating for no reason, and this hidden app found the culprit",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.makeuseof.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/a-custom-home-screen-widget-is-the-easiest-way-to-start-vibe-coding-android/",
-      "title": "A custom home screen widget is the easiest way to start vibe coding Android apps",
-      "published": "2026-11-14T18:00:15+00:00",
-      "author": "Joe Fedewa",
-      "description": "I built a custom Android weather widget in under an hour.",
-      "link": "https://www.howtogeek.com/a-custom-home-screen-widget-is-the-easiest-way-to-start-vibe-coding-android/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/custom-home-screen-widget-on-pixel-11.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/cachyos-made-my-mint-laptop-feel-slow-and-i-havent-looked-back/",
-      "title": "CachyOS made my Mint laptop feel slow, and I haven't looked back",
-      "published": "2026-11-14T17:30:15+00:00",
-      "author": "David J. Buck",
-      "description": "This Arch-based distro made me forget I was even using Linux.",
-      "link": "https://www.howtogeek.com/cachyos-made-my-mint-laptop-feel-slow-and-i-havent-looked-back/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/cachyos-feauture.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
     }
   ]
 }
