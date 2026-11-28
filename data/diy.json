@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-28T13:33:09.905701+00:00",
+  "updated": "2026-11-28T14:02:57.271323+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/every-pc-should-have-these-free-diagnostic-apps-installed/",
+      "title": "Every PC should have these free diagnostic apps installed",
+      "published": "2026-11-28T14:00:16+00:00",
+      "author": "Ben Stegner",
+      "description": "I never have to wonder what's going on with my PC.",
+      "link": "https://www.makeuseof.com/every-pc-should-have-these-free-diagnostic-apps-installed/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/04/crystaldisk-info-with-nvme-drive-data.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/i-found-a-modded-google-photos-app-with-all-the-ai-removed/",
+      "title": "I found a modded Google Photos app with all the AI removed",
+      "published": "2026-11-28T14:00:15+00:00",
+      "author": "Namerah Saud Fatmi",
+      "description": "I managed to de-AI Google Photos using a clever app modding tool.",
+      "link": "https://www.howtogeek.com/i-found-a-modded-google-photos-app-with-all-the-ai-removed/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/google-photos-morphe-patch-microg-3.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/vlc-is-better-than-windows-media-player-but-this-third-option-is-miles-ahead/",
       "title": "VLC is better than Windows Media Player, but this third option is miles ahead",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/amd-will-outsell-intel-doesnt-own-single-chip-factory/",
-      "title": "AMD is on track to outsell Intel, and it doesn’t own a single chip factory",
-      "published": "2026-11-14T20:15:16+00:00",
-      "author": "Shaheer Khan",
-      "description": "Intel's manufacturing woes may have finally let AMD overtake it.",
-      "link": "https://www.makeuseof.com/amd-will-outsell-intel-doesnt-own-single-chip-factory/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2026/04/amd-ryzen.png",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/i-tried-a-stream-deck-logitech-mx-keypad/",
-      "title": "The Logitech MX Keypad sounds great, but the software is why I picked the Stream Deck Neo",
-      "published": "2026-11-14T20:00:16+00:00",
-      "author": "Brady Snyder",
-      "description": "I thought macro pads were gimmicks until I tried these ones from Elgato and Logitech.",
-      "link": "https://www.makeuseof.com/i-tried-a-stream-deck-logitech-mx-keypad/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/08/stream-deck-desk-setup-12.jpg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
     }
   ]
 }
