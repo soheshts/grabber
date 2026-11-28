@@ -1,9 +1,37 @@
 {
   "category": "DIY",
-  "updated": "2026-11-28T14:02:57.271323+00:00",
+  "updated": "2026-11-28T14:32:46.377627+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/the-pfsense-fork-is-now-the-one-people-recommend/",
+      "title": "The pfSense fork nobody asked for is now the one people actually recommend",
+      "published": "2026-11-28T14:30:16+00:00",
+      "author": "Gregory Gibson",
+      "description": "The trust Netgate lost, OPNsense earned",
+      "link": "https://www.makeuseof.com/the-pfsense-fork-is-now-the-one-people-recommend/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/opnsense-console-and-web-ui.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/3-cool-linux-apps-you-should-try-this-weekend-november-28-29/",
+      "title": "3 cool Linux apps you should try this weekend (November 28-29)",
+      "published": "2026-11-28T14:30:15+00:00",
+      "author": "Jordan Gloor",
+      "description": "Ever felt like you needed a bigger clipboard?",
+      "link": "https://www.howtogeek.com/3-cool-linux-apps-you-should-try-this-weekend-november-28-29/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/linux-mascot-sitting-next-to-lenovo-laptop-with-floating-download-icon.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/every-pc-should-have-these-free-diagnostic-apps-installed/",
       "title": "Every PC should have these free diagnostic apps installed",
@@ -13975,34 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://hackaday.com/blog/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
-    },
-    {
-      "id": "https://www.apartmenttherapy.com/bathroom-refresh-cozy-intentional-37694667",
-      "title": "A $7 Paint Marker Created Bespoke Wood Paneling in This Bathroom Refresh",
-      "published": "2026-11-14T20:45:00+00:00",
-      "author": "Cullen Ormond",
-      "description": "She only spent $250 on the entire makeover. READ MORE...",
-      "link": "https://www.apartmenttherapy.com/bathroom-refresh-cozy-intentional-37694667?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+projects",
-      "image": "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2026/2026-11/sheena-t-bathroom/sheena-t-bathroom-before-tagged",
-      "feed_name": "Apartment Therapy| Saving the world, one room at a time",
-      "feed_title": "Apartment Therapy| Saving the world, one room at a time",
-      "category": "DIY",
-      "feed_url": "https://www.apartmenttherapy.com/projects.rss",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.apartmenttherapy.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/ryobis-new-18v-impact-wrench-the-perfect-upgrade-for-your-garage/",
-      "title": "Ryobi’s newest 18V Impact Wrench is the perfect upgrade for your garage",
-      "published": "2026-11-14T20:30:15+00:00",
-      "author": "Cory Gunther",
-      "description": "Double the breakaway torque of older models.",
-      "link": "https://www.howtogeek.com/ryobis-new-18v-impact-wrench-the-perfect-upgrade-for-your-garage/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/09/ryobi-impact-wrench-removing-lug-nuts.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
     }
   ]
 }
