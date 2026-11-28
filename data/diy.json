@@ -1,9 +1,23 @@
 {
   "category": "DIY",
-  "updated": "2026-11-28T02:32:42.147062+00:00",
+  "updated": "2026-11-28T03:02:56.522077+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://hackaday.com/?p=1430789",
+      "title": "A Detailed Breakdown of the 2021 Texas Power Crisis",
+      "published": "2026-11-28T03:00:46+00:00",
+      "author": "Maya Posch",
+      "description": "Although the Texas grid operator managed to prevent a full-blown collapse of the electrical grid in February 2021, they only managed to do so after exhausting every measure at their …read more",
+      "link": "https://hackaday.com/2026/11/27/a-detailed-breakdown-of-the-2021-texas-power-crisis/",
+      "image": "https://hackaday.com/wp-content/uploads/2026/11/texas_2021_blackout_ercot_grid_the_electric_brit_youtube.jpg",
+      "feed_name": "Blog – Hackaday",
+      "feed_title": "Blog – Hackaday",
+      "category": "DIY",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
+    },
     {
       "id": "https://www.howtogeek.com/i-tried-the-top-arch-based-linux-distros-to-replace-windows-and-only-one-is-a-worthy-daily-driver/",
       "title": "I tried the top 3 Arch-based Linux distros to replace Windows 11, and only one is a worthy daily driver",
@@ -13989,20 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.makeuseof.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/i-spent-over-10000-building-custom-pcs-and-a-mini-pc-is-now-my-main-computer/",
-      "title": "I spent over $10,000 building custom PCs, and a mini PC is now my main computer",
-      "published": "2026-11-14T16:30:15+00:00",
-      "author": "Patrick Campanale",
-      "description": "Lower power, less heat, and it still games when I want it to.",
-      "link": "https://www.howtogeek.com/i-spent-over-10000-building-custom-pcs-and-a-mini-pc-is-now-my-main-computer/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/11/acemagic-m1a-pro-inside-nzxt-tower-wide.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
     }
   ]
 }

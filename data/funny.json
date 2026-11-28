@@ -1,7 +1,7 @@
 {
   "category": "funny",
-  "updated": "2026-11-28T02:32:42.147062+00:00",
-  "count": 801,
+  "updated": "2026-11-28T03:02:56.522077+00:00",
+  "count": 802,
   "summary": null,
   "items": [
     {
@@ -423,6 +423,20 @@
       "category": "funny",
       "feed_url": "http://syndication.thedailywtf.com/TheDailyWtf",
       "feed_icon": "https://www.google.com/s2/favicons?domain=thedailywtf.com&sz=64"
+    },
+    {
+      "id": "https://xkcd.com/3330/",
+      "title": "Tiny Squirrels",
+      "published": "2026-11-27T05:00:00+00:00",
+      "author": null,
+      "description": "",
+      "link": "https://xkcd.com/3330/",
+      "image": "https://imgs.xkcd.com/comics/tiny_squirrels.png",
+      "feed_name": "xkcd.com",
+      "feed_title": "xkcd.com",
+      "category": "funny",
+      "feed_url": "https://xkcd.com/rss.xml",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=xkcd.com&sz=64"
     },
     {
       "id": "https://thebloggess.com/?p=45518",
