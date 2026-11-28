@@ -1,9 +1,37 @@
 {
   "category": "science",
-  "updated": "2026-11-28T11:32:48.214330+00:00",
+  "updated": "2026-11-28T12:03:26.920210+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "6afdfad777dd672c501bd702",
+      "title": "Swift Saw the Secrets of Space Before Falling to Earth",
+      "published": "2026-11-28T11:30:00+00:00",
+      "author": "Ritsuko Kawai",
+      "description": "Designed for a two-year mission, the Neil Gehrels Swift Observatory saw thousands of gamma-ray bursts and stars being torn apart by black holes over 22 years before burning up in Earth’s atmosphere.",
+      "link": "https://www.wired.com/story/swift-saw-the-secrets-of-space-before-falling-to-earth/",
+      "image": "https://media.wired.com/photos/6afdfad71581bbef3a3945cc/master/pass/Swift_in_space_15_ac.jpg",
+      "feed_name": "Science Latest",
+      "feed_title": "Science Latest",
+      "category": "science",
+      "feed_url": "https://www.wired.com/feed/category/science/latest/rss",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.wired.com&sz=64"
+    },
+    {
+      "id": "https://www.scientificamerican.com/article/what-would-happen-to-your-body-if-you-ate-only-pumpkin-pie-for-a-week/",
+      "title": "What would happen to your body if you ate only pumpkin pie for a week?",
+      "published": "2026-11-28T11:00:00+00:00",
+      "author": null,
+      "description": "In the aftermath of your Thanksgiving meal, consider your plans for leftovers carefully",
+      "link": "https://www.scientificamerican.com/article/what-would-happen-to-your-body-if-you-ate-only-pumpkin-pie-for-a-week/",
+      "image": "https://static.scientificamerican.com/dam/asset/9ceb8213-b2a4-44ec-a73e-9a8d45b8c016/pumpin-pie.jpg?m=1795634616.551&w=1200",
+      "feed_name": "Scientific American Content: Global",
+      "feed_title": "Scientific American Content: Global",
+      "category": "science",
+      "feed_url": "http://rss.sciam.com/ScientificAmerican-Global",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.scientificamerican.com&sz=64"
+    },
     {
       "id": "https://www.nytimes.com/2026/11/28/climate/el-nino-floods-california-insurance.html",
       "title": "California Cities Are Adding Extra Insurance Against El Niño",
@@ -13975,34 +14003,6 @@
       "category": "science",
       "feed_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
       "feed_icon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
-    },
-    {
-      "id": "news714227822",
-      "title": "Reading the temperature fingerprints of electrocatalytic reactions",
-      "published": "2026-11-18T23:40:06+00:00",
-      "author": null,
-      "description": "Electrocatalysis is key to turning renewable electricity into fuels and chemicals, and industrial electrolyzers typically operate at moderately elevated temperatures. Measuring how reaction rates change with temperature is also a powerful, yet underexplored, way to probe what controls them. Such measurements yield two quantities: an apparent activation enthalpy, reflecting the energetic cost of the reaction, and a prefactor, which is linked to the activation entropy.",
-      "link": "https://phys.org/news/2026-11-temperature-fingerprints-electrocatalytic-reactions.html",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/reading-the-temperatur.jpg",
-      "feed_name": "Phys.org - latest science and technology news stories",
-      "feed_title": "Phys.org - latest science and technology news stories",
-      "category": "science",
-      "feed_url": "https://phys.org/rss-feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
-    },
-    {
-      "id": "news714238201",
-      "title": "Even AI thinks it's a man's job: Models reveal gender bias in resumes and hiring assessments",
-      "published": "2026-11-18T23:40:02+00:00",
-      "author": null,
-      "description": "The first hurdle may arise even before an application is submitted. A woman asks artificial intelligence to help her write her resume: The system chooses words, highlights qualities and builds a profile. Then another system, perhaps based on the same model, evaluates that text. If both reproduce gender stereotypes, the risk is a double filter: Bias enters the application and is reinforced by the person selecting it.",
-      "link": "https://phys.org/news/2026-11-ai-job-reveal-gender-bias.html",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/even-ai-thinks-its-a-m.jpg",
-      "feed_name": "Phys.org - latest science and technology news stories",
-      "feed_title": "Phys.org - latest science and technology news stories",
-      "category": "science",
-      "feed_url": "https://phys.org/rss-feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=phys.org&sz=64"
     }
   ]
 }
