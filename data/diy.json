@@ -1,9 +1,51 @@
 {
   "category": "DIY",
-  "updated": "2026-11-28T17:02:58.687972+00:00",
+  "updated": "2026-11-28T17:32:42.654497+00:00",
   "count": 1000,
   "summary": null,
   "items": [
+    {
+      "id": "https://www.makeuseof.com/ssd-performance-tips-maintenance/",
+      "title": "There are 4 ways to get more performance from an SSD, and I ignored one for far too long",
+      "published": "2026-11-28T17:30:16+00:00",
+      "author": "Tashreef Shareef",
+      "description": "TRIM, heat, firmware, and free space all affect how fast your SSD stays.",
+      "link": "https://www.makeuseof.com/ssd-performance-tips-maintenance/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/04/defragment-and-optimization-drive-in-windows-11-start-menu-on-a-hp-pavillion-laptop.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
+    {
+      "id": "https://www.howtogeek.com/6-things-linux-does-better-than-windows-11-out-of-the-box/",
+      "title": "6 things Linux does better than Windows 11 out of the box",
+      "published": "2026-11-28T17:30:15+00:00",
+      "author": "Jorge A. Aguilar",
+      "description": "These are Linux advantages over Windows 11 that you will notice on day one.",
+      "link": "https://www.howtogeek.com/6-things-linux-does-better-than-windows-11-out-of-the-box/",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/ultrawide-monitor-running-linux-mint-xfce-with-a-windows-xp-theme-showing-openshot-space-cadet-winamp-style-audacious-and-fastfetch.jpg",
+      "feed_name": "How-To Geek",
+      "feed_title": "How-To Geek",
+      "category": "DIY",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
+    },
+    {
+      "id": "https://www.makeuseof.com/black-friday-anker-soundcore-space-2-headphones-deal-cyber-monday/",
+      "title": "The Soundcore Space 2 are among the best budget headphones I've tested, and they just dropped to a record low price",
+      "published": "2026-11-28T17:03:04+00:00",
+      "author": "Patrick Farmer",
+      "description": "Powerful ANC and flagship-level battery life for only 100 bucks? Sign me up.",
+      "link": "https://www.makeuseof.com/black-friday-anker-soundcore-space-2-headphones-deal-cyber-monday/",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/03/anker-soundcore-space-2-headphones-on-stand.jpg",
+      "feed_name": "MUO - Feed",
+      "feed_title": "MakeUseOf",
+      "category": "DIY",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
+    },
     {
       "id": "https://www.makeuseof.com/screen-on-mouse-best-bad-idea-tech/",
       "title": "Putting a screen on a mouse might be the best bad idea in tech",
@@ -13961,48 +14003,6 @@
       "category": "DIY",
       "feed_url": "https://www.howtogeek.com/feed/",
       "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://www.makeuseof.com/phone-identify-birds-by-sound/",
-      "title": "Smartphones can identify faces and songs, but this trick is way cooler",
-      "published": "2026-11-15T11:00:16+00:00",
-      "author": "Bryan M. Wolfe",
-      "description": "Silent mornings become layered soundscapes as the app highlights cardinals, wrens, and unseen woodpeckers by song.",
-      "link": "https://www.makeuseof.com/phone-identify-birds-by-sound/",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/merlin-birds-id-app-iphone-duo.jpeg",
-      "feed_name": "MUO - Feed",
-      "feed_title": "MakeUseOf",
-      "category": "DIY",
-      "feed_url": "https://www.makeuseof.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.makeuseof.com&sz=64"
-    },
-    {
-      "id": "https://www.howtogeek.com/raspberry-pi-price-hikes-dont-justify-switching-to-risc-v/",
-      "title": "Raspberry Pi price hikes still don't justify switching to RISC-V boards",
-      "published": "2026-11-15T11:00:15+00:00",
-      "author": "Umair Khurshid",
-      "description": "It's not worth the RISC.",
-      "link": "https://www.howtogeek.com/raspberry-pi-price-hikes-dont-justify-switching-to-risc-v/",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2025/12/person-s-hand-holding-the-visionfive2-risc-v-single-board-computer-indoors-2.jpg",
-      "feed_name": "How-To Geek",
-      "feed_title": "How-To Geek",
-      "category": "DIY",
-      "feed_url": "https://www.howtogeek.com/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=www.howtogeek.com&sz=64"
-    },
-    {
-      "id": "https://hackaday.com/?p=1427961",
-      "title": "Reverse Engineer that USB Device in Style",
-      "published": "2026-11-15T09:00:44+00:00",
-      "author": "Elliot Williams",
-      "description": "Proprietary device drivers, dedicated applications, and their ilk are the bane of the open-source hacker. If only we could snoop on every device out there, recording the “secret” USB transactions …read more",
-      "link": "https://hackaday.com/2026/11/15/reverse-engineer-that-usb-device-in-style/",
-      "image": "https://hackaday.com/wp-content/uploads/2024/04/usb-featured.jpg",
-      "feed_name": "Blog – Hackaday",
-      "feed_title": "Blog – Hackaday",
-      "category": "DIY",
-      "feed_url": "https://hackaday.com/blog/feed/",
-      "feed_icon": "https://www.google.com/s2/favicons?domain=hackaday.com&sz=64"
     }
   ]
 }
